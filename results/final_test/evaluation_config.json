@@ -1,0 +1,48 @@
+{
+  "method": "logmel_knn5_mean",
+  "aggregation": "mean",
+  "threshold_source": "normal_validation_95th_percentile",
+  "extraction_config": {
+    "sample_rate": 16000,
+    "n_fft": 1024,
+    "hop_length": 256,
+    "n_mels": 64,
+    "window_seconds": 2,
+    "stride_seconds": 1,
+    "representation": "logmel_mean_std_per_window"
+  },
+  "models": {
+    "fan/id_00": {
+      "path": "results/logmel_knn/fan_id_00.joblib",
+      "sha256": "22fbe4e8ed4f4112fceee3dc7d26efdadb71a254c2dcb13d5efe16fc32b2d322"
+    },
+    "fan/id_02": {
+      "path": "results/logmel_knn/fan_id_02.joblib",
+      "sha256": "4ad3d41a88bae6ab64a445bdd5c863855824205f93be3435d3fdbd540f3149c1"
+    },
+    "fan/id_04": {
+      "path": "results/logmel_knn/fan_id_04.joblib",
+      "sha256": "eda6141c4e0646aab256f63c5605cb8a68eabe7d43423798a75f5e83baa18a0c"
+    },
+    "fan/id_06": {
+      "path": "results/logmel_knn/fan_id_06.joblib",
+      "sha256": "68cad5107a4ea63f66248f6ff4502540915d22c4ebd077c29909cf130150e916"
+    },
+    "pump/id_00": {
+      "path": "results/logmel_knn/pump_id_00.joblib",
+      "sha256": "c6edb729e25b3bcb49260fe4da4e134e76aa36af35a46d265fc9b62368466e3f"
+    },
+    "pump/id_02": {
+      "path": "results/logmel_knn/pump_id_02.joblib",
+      "sha256": "67eeba10b91ce5416c0fbfacd26758017bcc32f1f72b82f6fa455e1b376fd3e9"
+    },
+    "pump/id_04": {
+      "path": "results/logmel_knn/pump_id_04.joblib",
+      "sha256": "dd39e82635d1de4e132a6e32916c1d3d9adbd98f0202ddbf2a552b597711e4c8"
+    },
+    "pump/id_06": {
+      "path": "results/logmel_knn/pump_id_06.joblib",
+      "sha256": "f0fb52c033e3764a4cd6b2bba210e4a81575a52c34ff48f2304795a5ef51e224"
+    }
+  }
+}

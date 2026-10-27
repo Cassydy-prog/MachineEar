@@ -1,0 +1,11 @@
+
+
+# Données et environnement audio local
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+*.zip
+.env

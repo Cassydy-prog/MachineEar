@@ -1,0 +1,59 @@
+{
+  "audio": "C:\\Users\\0503506P\\Downloads\\MachineEar_VSCode\\MachineEar\\data\\0_dB_fan\\id_00\\abnormal\\00000000.wav",
+  "machine_type": "fan",
+  "machine_id": "id_00",
+  "model": "logmel_knn5_mean",
+  "duration_seconds": 10.0,
+  "n_windows": 9,
+  "anomaly_score": 8.430866358015273,
+  "threshold": 9.635357848803201,
+  "anomaly_flag": false,
+  "result": "Aucune anomalie signalée",
+  "windows": [
+    {
+      "start_seconds": 0.0,
+      "end_seconds": 2.0,
+      "score": 8.212956428527832
+    },
+    {
+      "start_seconds": 1.0,
+      "end_seconds": 3.0,
+      "score": 8.475615882873536
+    },
+    {
+      "start_seconds": 2.0,
+      "end_seconds": 4.0,
+      "score": 8.31348638534546
+    },
+    {
+      "start_seconds": 3.0,
+      "end_seconds": 5.0,
+      "score": 8.068501186370849
+    },
+    {
+      "start_seconds": 4.0,
+      "end_seconds": 6.0,
+      "score": 8.117902660369873
+    },
+    {
+      "start_seconds": 5.0,
+      "end_seconds": 7.0,
+      "score": 8.136739730834961
+    },
+    {
+      "start_seconds": 6.0,
+      "end_seconds": 8.0,
+      "score": 8.332044982910157
+    },
+    {
+      "start_seconds": 7.0,
+      "end_seconds": 9.0,
+      "score": 8.905607986450196
+    },
+    {
+      "start_seconds": 8.0,
+      "end_seconds": 10.0,
+      "score": 9.31494197845459
+    }
+  ]
+}
