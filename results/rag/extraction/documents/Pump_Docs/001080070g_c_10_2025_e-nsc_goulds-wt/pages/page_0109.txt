@@ -1,0 +1,149 @@
+no - Oversettelse av opprinnelige instruksjoner
+
+Monter pumpen til en bunnramme
+
+Kontroller at følgende overholdes:
+
+1. Skru ut skruene (2).
+2. Fjern trådnettet. (1).
+Type beskyttelse: metallplater
+Se for å finne informasjonFigur 19 på side 388.
+
+1. Skru ut lukkeskruene til halvmuffene (5).
+2. Skru løs festeskruene som fester det øvre halve
+skallet (3).
+3. Fjern den øvre halvdelen av koplingsbeskyttelsen
+(1).
+4. Skru løs festeskruene som holder det nedre halve
+skallet (4) på plass.
+5. Fjern den nedre halvdelen av koplingsbeskyttel‐
+sen (2).
+6. Åpne og løft støtte-/justeringsringen (6).
+
+Kontroll og innretting av kopling
+
+• En solid bunnramme som ikke vrir seg eller vibre‐
+rer under drift (resonans).
+• Monteringsflatene til pumpeføttene og motoren
+på bunnrammen må være flate (maskinering an‐
+befales).
+• Sikker festing av pumpen og motoren må garan‐
+teres.
+• Det må være tilstrekkelig plass mellom pumpen
+og motorakslingen avhengig av koblingen som
+brukes.
+• Mellom pumpen og bunnrammen må det være et
+tilstrekkelig mellomlegg, slik at i tilfelle utskifting
+kan samme høyde mellom bunnen og midtlinjen
+justeres (anbefalt vertikal justering 4-6 mm
+
+Redusere vibrasjoner
+
+MERK:
+Kontroller justeringen av koplingen på nytt under var‐
+me driftsforhold.
+
+MERK:
+Sørg for at koplingen lett kan roteres for hånd og at
+det er noe rom mellom tennene.
+
+NO
+
+Enheten og væskestrømmen i systemet kan genere‐
+re vibrasjoner som kan forsterkes hvis enheten eller
+rørsystemet ikke installeres riktig: Følg instruksjone‐
+ne i Installasjon på betongfundament på side 104
+og Feste pumpen på side 104, i tillegg til Sjekkliste
+rørsystem på side 105
+
+Det anbefales også å:
+
+MERK:
+Feil justering av enheten kan føre til alvorlige skader
+på systemet.
+
+• Kontroller at pumpen og motoren er godt festet
+til sokkelen
+• Sett inn antivibrasjonsmateriale mellom sokkelen
+og fundamentet
+• Hvis enheten har en sveiset base, fyller du med
+betong mellomrommene som er vist i Figur 25 på
+side 397.
+
+MERK:
+Hvis koplingen er feiljustert, kan den forårsake vibra‐
+sjoner, noe som kan føre til for tidlig slitasje på de
+roterende komponentene i enheten.
+
+Kontroller innrettingen av enhetskoplingen etter føl‐
+gende:
+
+MERK:
+Ikke fyll den foldede metallplatebasen Figur 26 på
+side 397 med betong.
+
+4.3.2  Sjekkliste rørsystem
+Kontroller at følgende overholdes:
+
+• Transport og installasjon
+• Første oppstart
+• Nå driftstemperatur.
+Utfør kontrollen selv om enheten ble levert ferdig
+montert på rammen.
+
+Kontrollere koplingsjusteringen med linjal og
+følermåler
+
+For informasjon om å justere en standardkopling (A)
+og en kopling med avstandsstykke (B), se Figur 27
+på side 397
+
+1. Fjern koplingsbeskyttelsen.
+
+• Ved installasjon av sugeløft, for å unngå luftlom‐
+mer, må sugerøret ha en økende helling mot en‐
+heten som overstiger 2 %.
+• De nominelle diameterne til rørsystemet må
+minst være lik de nominelle diameterne til pum‐
+peportene.
+• Støtt rørsystemet uavhengig av hverandre for å
+unngå å belaste enheten.
+• Spyl rørsystemet før du kobler dem til enheten
+for å fjerne eventuelle sveiserester, avleiringer og
+urenheter. Monter et filter om nødvendig.
+
+MERK:
+Beskyttelsen kan være trådduk (se Figur 18 på
+side 386) eller metallplater (se Figur 19 på side
+388)
+
+FORSIKTIG:
+Sveiselarver, glødeskall og andre urenhe‐
+ter i rørene skader pumpen.
+
+4.3.3  Koplingsjustering
+
+Fjerne koplingsbeskyttelsen
+
+FORSIKTIG:
+Du må aldri kjøre pumpen uten at ko‐
+plingsbeskyttelsen er riktig installert.
+
+Type beskyttelse: trådduk
+Se for å finne informasjonFigur 18 på side 386.
+
+2. Plasser en linjal på halvkoplingene.
+3. Mål avstandene som vises i figuren.
+4. Drei koplingen for hånd i trinn på 90° og gjenta
+målingen.
+5. Gjenta trinn 4 flere ganger: den radiale innrettin‐
+gen er riktig hvis avstandene er like på alle punk‐
+tene rundt omkretsen, innenfor det tillatte avviket;
+se Tabell 28 på side 399. Hvis ikke, se Justering
+av koplingen med mellomlegg på side 106.
+6. Kontroller avstanden mellom halvkoplingene med
+en bladsøker.
+7. Vri koplingen for hånd i trinn på 90°, og kontroller
+avstanden på nytt.
+
+105

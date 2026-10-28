@@ -1,0 +1,158 @@
+pt - Tradução do original
+
+• Pressão do sistema (num sistema fechado)
+• Resistência das tubagens
+• Resistência intrínseca do próprio fluxo da bomba
+• Diferença de altura
+A equação seguinte é utilizada para calcular a altura
+máxima acima do nível do líquido no qual a bomba
+pode ser instalada:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+A pressão barométrica em bares (em siste‐
+ma fechado, mostra a pressão do sistema)
+
+NPSH
+Valor em metros da resistência intrínseca do
+fluxo da bomba
+
+Hf
+Perdas totais em metros, causadas pela
+passagem do líquido no tubo de sucção da
+bomba
+
+Hv
+Pressão do vapor, em metros, que corres‐
+ponde à temperatura do líquido T °C
+
+PT
+
+0,5
+Margem de segurança recomendada (m)
+
+Z
+Altura máxima na qual a bomba pode ser
+instalada (m)
+
+• A tubagem de sucção está perfeitamente selada
+e hermética.
+• Se a bomba for utilizada num circuito aberto, en‐
+tão o diâmetro do tubo de sucção é adequado
+às condições da instalação. O tubo de sucção
+não deve ser menor que o diâmetro da porta de
+sucção.
+• Se a tubagem de sucção necessitar de ser maior
+que o lado de sucção da bomba, estão é instala‐
+do um redutor de tubagem excêntrico.
+• Se a bomba for colocada acima do nível do líqui‐
+do, é instalada uma válvula de pé na extremidade
+da tubagem de sucção.
+• A válvula de pé está totalmente submersa no lí‐
+quido de modo que o ar não possa entrar através
+do turbilhão de sucção, quando o líquido está no
+nível mínimo e a bomba está instalada acima da
+fonte do líquido.
+• São instaladas válvulas de ligar-desligar de ta‐
+manho adequado na tubagem de sucção e na
+tubagem de abastecimento (a jusante da válvula
+de verificação) para regulação da capacidade da
+bomba, inspecção da bomba e manutenção.
+• Para evitar o retorno do fluxo para a bomba
+quando ela é desligada, é instalada uma válvula
+de verificação na tubagem de abastecimento.
+
+(pb*10,2 - Z) deve ser sempre um número positivo.
+Para obter mais informações, consulte Figura 12 na
+página 380 .
+
+AVISO:
+Não exceda a capacidade de sucção da bomba, pois
+isso pode provocar cavitação e danificar a bomba.
+
+4.1.2  Requisitos de tubagem
+
+Precauções
+
+ADVERT.:
+Não utilize a válvula de ligar-desligar no
+lado da descarga na posição fechada,
+para regular o fluxo da bomba durante
+mais de alguns segundos. Se for neces‐
+sário que a bomba funcione com o lado
+da descarga fechado durante mais de al‐
+gumns segundos, deve ser instalado um
+circuito de bypass para evitar o sobrea‐
+quecimento do líquido dentro da bomba.
+
+ADVERT.:
+
+Para obter ilustrações relativas aos requisitos sobre
+tubagem, consulte Figura 13 na página 380 e Figura
+14 na página 380 .
+
+• Utilize os canos adequados à pres‐
+são máxima de funcionamento da
+bomba. Se não o fizer, o sistema po‐
+de entrar em ruptura, com riscos de
+ferimentos.
+• Certifique-se de que todas as liga‐
+ções são efectuadas por técnicos
+qualificados e cumprem os regula‐
+mentos em vigor.
+
+4.2  Requisitos elétricos
+• As regulamentações locais em vigor anulam es‐
+tes requisitos especificados.
+• No caso de sistemas de combate a incêndios
+(bocas de incêndio e/ou extintores automáticos),
+consulte as reglamentações locais em vigor.
+
+Lista de verificação da ligação eléctrica
+
+Verifique se os requisitos seguintes requisitos são
+cumpridos:
+
+AVISO:
+Observe todas as regulamentações emitidas pelas
+autoridades que tenham jurisdição e pelas empre‐
+sas que efectuem a gestão dos fornecimentos de
+água pública, se a bomba estiver ligada a um siste‐
+ma de água pública. Se for requerido, instale um dis‐
+positivo adequado de prevenção de refluxo no lado
+de sucção.
+
+• Os condutores eléctricos estão protegidos de
+temperaturas elevadas, vibrações e colisões.
+• A linha da fonte de alimentação é fornecida com:
+– Um dispositivo de protecção contra curto-cir‐
+
+Lista de verificação da tubagem
+
+cuitos
+– Um interruptor de corte da corrente eléctrica
+
+com intervalo de contacto de, pelo menos,
+3 mm
+
+Verifique se os requisitos seguintes requisitos são
+cumpridos:
+
+Lista de verificação do painel de controlo
+eléctrico
+
+AVISO:
+O painel de controlo deve corresponder aos valo‐
+res da bomba eléctrica. Combinações incorrectas
+podem não garantir a protecção do motor.
+
+• Toda a tubagem é suportada de forma indepen‐
+dente. A tubagem não deve constituir um peso
+na unidade.
+• São utilizados tubos ou junções flexíveis, para
+evitar a transmissão de vibrações da bomba aos
+tubos e vice-versa.
+• Utilize dobras amplas, evitando usar cotovelos
+que causem uma resistência excessiva ao fluxo.
+
+67

@@ -1,0 +1,233 @@
+Routine Maintenance
+
+Shaft Bearings
+
+WARNING
+
+Before taking any corrective action, make certain unit 
+is not capable of operation during repairs.
+
+Once the unit has been put into operation, a routine 
+maintenance schedule should be set up to accomplish 
+the following:
+
+The bearings for Greenheck fans are carefully selected 
+to match the maximum load and operating conditions 
+of the specific class, arrangement, and fan size. The 
+instructions provided in this manual and those provided 
+by the bearing manufacturer will minimize any bearing 
+problems. Bearings are the most critical moving part 
+of the fan, therefore special care is required when 
+mounting them on the unit and maintaining them.
+
+Refer to the following chart and the manufacturer’s 
+instructions for grease types and intervals for various 
+operating conditions. Never mix greases made with 
+different bases. This will cause a breakdown of the 
+grease and possible failure of the bearing.
+
+Recommended Bearing Lubrication Schedule
+
+Relubrication Schedule in Months*
+
+Bearing Bore (inches)
+
+Fan  
+RPM
+
+1⁄2 -  
+1
+11⁄8 -  
+11⁄2
+15⁄8 -  
+17⁄8
+115⁄16 - 
+23⁄16
+27⁄16 
+- 3
+
+33⁄16 - 
+31⁄2
+315⁄16 - 
+41⁄2
+415⁄16 - 
+51⁄2
+
+To 250
+12
+12
+12
+12
+12
+12
+10
+8
+
+500
+12
+12
+11
+10
+8
+7
+5
+4
+
+750
+12
+9
+8
+7
+6
+4
+3
+2
+
+1.	 Lubrication of bearings and motor (see below).
+2.	 Wheel, housing, bolts and set screws on the entire 
+fan should be checked for tightness.
+3.	 Any dirt accumulation on the wheel or in the housing 
+should be removed to prevent unbalance and 
+possible damage.
+4.	 Isolation bases should be checked for freedom 
+of movement and the bolts for tightness. Springs 
+should be checked for breaks and fatigue. Rubber 
+isolators should be checked for deterioration.
+5.	 Inspect fan impeller and housing looking for fatigue, 
+corrosion or wear.
+When performing any service to the fan, disconnect the 
+electrical supply and secure fan impeller.
+Motors
+
+1000
+12
+7
+6
+5
+4
+3
+2
+1
+
+1250
+12
+6
+5
+4
+3
+2
+1
+.5
+
+1500
+12
+5
+4
+3
+2
+1
+.75
+
+2000
+12
+3
+3
+2
+1
+.5
+.25
+
+2500
+12
+2
+2
+1
+.5
+.25
+
+3000
+12
+2
+1
+.5
+.25
+
+Motor maintenance is generally limited to cleaning 
+and lubrication. Cleaning should be limited to exterior 
+surfaces only. Removing dust and grease build up on 
+the motor housing assists proper motor cooling. Never 
+wash-down motor with high pressure spray.
+
+3500
+12
+1
+.5
+.25
+
+4000
+12
+.5
+.25
+
+5000
+12
+.25
+
+Number  
+of shots**
+4
+8
+8
+10
+16
+25
+41
+57
+
+Greasing of motors is only intended when fittings are 
+provided. Many fractional motors are permanently 
+lubricated for life and require no further lubrication. 
+Motors supplied with grease fittings should be 
+greased in accordance with the manufacturer’s 
+recommendations.
+
+*	Lubrication interval is based on 12 hour day operation and
+
+CAUTION
+
+maximum 160˚F housing temperature. For 24 hour per day 
+operation, the interval should be cut in half.
+
+**	Lubricant should be added with the shaft rotating and
+
+When operating conditions of the fan are to be 
+changed (speed, pressure, temperature, etc.), consult 
+Greenheck to determine if the unit can operate safely 
+at the new conditions.
+
+until clean grease is seen purging from the bearing. The 
+lubrication interval may be modified based on the condition 
+of the purged grease. If bearing is not visible to observe 
+purged grease, lubricate with number of shots indicated for 
+bore size.
+
+•	For conditions including high temperatures, moisture, dirt
+
+or excessive vibration, consult the factory for a specific 
+lubrication interval for your application.
+
+•	Lubricant should be a high quality lithium complex grease
+
+conforming to NLGI Grade 2. Factory recommends Mobilux 
+EP-2 or synthetic Mobilith SHC100.
+	•	The use of synthetic lubricants will increase lubrication
+
+intervals by approximately three times.
+	•	Storage periods of three months or longer require monthly
+
+rotation of the shaft and purging grease prior to storage and 
+start-up.
+
+Industrial Process Fans
+11
+®

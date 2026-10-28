@@ -1,0 +1,166 @@
+Securing damaged bearings
+
+2.4 Assessment of bearing in 
+mounted condition
+– Are there any ruptured or chipped
+
+• Independent of the oil samples, 
+filter residue should also be kept
+for inspection (indication of 
+history prior to damage)
+
+areas?
+– Are the seals damaged, particularly
+
+2.7 Assessment of complete 
+bearing
+The bearings should always be 
+handed over uncleaned, i.e. with lubri-
+cant remains, for assessment.
+
+– General
+
+deformed or hardened?
+– Is the bearing deformed at the visible
+
+The following should be checked:
+– General condition (cleanliness of
+
+areas?
+– Can scratches by foreign matter be
+
+detected?
+– Does the bearing run easily or tightly
+
+in mounted condition? (fit effect)
+
+bearing and condition of fitting sur-
+faces, i.e. traces of mounting, fretting
+corrosion, ring fractures, dimensional
+accuracy, seizing marks, discoloura-
+tion)
+– Condition of seals and dust shields.
+
+Photograph or description of place
+and extent of any grease escape.
+– Condition of cage
+– Manual rotation test (indication of
+
+contamination, damage or preload)
+– Measure bearing clearance (displace-
+
+ability of rings in radial and axial di-
+rection), whereby bearings are loaded
+equally and rotated!
+
+2.5 Dismounting damaged 
+bearing
+Great care should be given not to 
+distort the damage pattern when dis-
+mounting a damaged bearing. If this is
+not possible damaged caused when dis-
+mounting should be marked and noted
+down. The following procedure should
+be observed if possible:
+– Do not apply dismounting force via
+
+the rolling elements
+– High dismounting force could be an
+
+• How often had the bearing been 
+relubricated or had the oil been 
+changed? When was either last 
+carried out?
+• Check oil or grease for any pieces 
+broken off the bearing or other 
+components
+• Use clean vessels for the samples. 
+They should be made of suitable 
+material (glass, for example)
+• There should be enough room left 
+in the vessel for stirring the oil 
+sample in the laboratory
+• The analysis of the samples may 
+take place at the customer's, in an 
+external lubricant laboratory or at 
+FAG. Points of interest are gener-
+ally the degree of contamination 
+and its type (sand, steel, soft little 
+parts, water, cooling liquid) as well 
+as an analysis of the lubricity 
+(eg. ageing, consolidation, colour, 
+coking, share of additives). If 
+possible, a sample of fresh grease or 
+oil should be handed on and ex
+amined as well (in the case of un-
+known lubricants, effects of heat)
+
+indication of disturbed floating bear-
+ing function
+– Do not open sealed bearings
+– Do not destroy or damage heat-sensi-
+
+tive parts (lubricant, seal, cage) by
+heating too much
+– Mark bearing (mounting location,
+
+mounting direction)
+
+2.3 Inspection of bearing 
+environment  
+– Could surrounding parts have grazed
+
+2.8 Dispatch to FAG or 
+assessment of individual parts
+of bearing   
+The causes of failure basically possible
+can be detected very often by customers
+themselves or by an FAG employee on
+the site. Whether more specific examina-
+tions are required or not depends on the
+distinctness of each damage feature. The
+procedure for examining individual 
+bearing parts is described in detail below.
+
+against bearing parts anywhere?
+– Are any other parts close to the bear-
+
+2.6 Seat check 
+– Shaft and housing dimensions (detri-
+
+mental preload, seats too loose)
+– Form tolerances of seats (oval defor-
+
+ing damaged (consequential or 
+primary damage)?
+– Cleanliness within and externally to
+
+If it is quite obvious that an examina-
+tion is to be made at FAG the parts
+should be prepared for dispatch as 
+follows:
+– neither dismantle the bearing nor
+
+mation)
+– Roughness of seats (excessive material
+
+seals (any foreign matter in the bear-
+ing space?)
+– Loosening force of bearing fastening
+
+loss)
+– Fretting corrosion (varying degrees
+
+clean it. On no account should cold
+cleanser or gasoline be used for 
+rinsing (otherwise lubrication hints
+disappear, corrodibility).
+
+parts (was the bearing forced to de-
+form? Are the bolts loose?)
+
+indicate uneven support, load direc-
+tion)
+
+FAG
+10

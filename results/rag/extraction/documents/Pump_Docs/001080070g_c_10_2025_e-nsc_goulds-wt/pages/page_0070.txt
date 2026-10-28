@@ -1,0 +1,188 @@
+pt - Tradução do original
+
+Para requisitos especiais, contacte o representante
+de assistência e vendas.
+
+Número máximo de partidas por hora
+
+18,5
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+60
+40
+30
+24
+16
+8
+4
+
+dutor a sair do seu terminal. Certifi‐
+que-se de que o condutor de ligação
+à terra (massa) é mais comprido do
+que os condutores de fase. Esta re‐
+gra aplica-se a ambas as extremida‐
+des do cabo do motor.
+• Adicione protecção adicional contra
+choques letais. Instale um interruptor
+diferencial de alta sensibilidade (30
+mA) [dispositivo de corrente residual
+RCD].
+
+Arran‐
+ques
+por
+hora
+
+4.1  Requisitos das instalações
+
+4.1.1  Localização da bomba
+
+Nível de ruído
+
+PT
+
+PERIGO:
+Não utilize esta unidade em ambientes
+que possam conter gases ou pós in‐
+flamáveis/explosivos ou quimicamente
+agressivos.
+
+Para conhecer os níveis de pressão do ruído da
+bomba equipada com um motor padrão fornecido,
+consulte Tabela 9 na página 368 .
+Para obter os níveis de pressão da bomba sem o
+motor, consulte Tabela 10 na página 372 .
+
+Directrizes
+
+4  Instalação
+
+Precauções
+
+Observe as directrizes seguintes relativamente à lo‐
+calização do produto:
+
+ADVERT.:
+
+• Observe as regulamentações de pre‐
+venção de acidentes em vigor.
+• Utilize equipamento e protecção ade‐
+quados.
+• Consulte sempre os regulamentos, le‐
+gislação e códigos em vigor locais
+e/ou nacionais no que diz respeito à
+selecção do local de instalação e às
+ligações de água e electricidade.
+
+Choque elétrico:
+
+• Certifique-se de que não existem obstruções que
+impeçam o fluxo normal de ar refrigerado que é
+fornecido pela ventoinha do motor.
+• Certifique-se de que a área da instalação está
+protegida contra qualquer fuga de líquido ou
+inundação.
+• Se for possível, coloque a bomba ligeiramente
+acima do nível do solo.
+• A temperatura ambiente deve estar entre 0°C
+(+32°F) e +40°C (+104°F).
+• A humidade relativa do ar ambiente deve ser me‐
+nor que 50% a +40°C (+104°F).
+• Contacte o Departamento de vendas e assistên‐
+cia se:
+
+– As condições de humidade relativa do ar ex‐
+
+cederem as directrizes.
+– A temperatura da sala exceder +40°C
+
+(+104°F).
+– A unidade estiver colocada a mais de 1000 m
+
+• Certifique-se de que todas as liga‐
+ções são efectuadas por técnicos
+qualificados e cumprem os regula‐
+mentos em vigor.
+• Antes de começar a trabalhar com
+a unidade, certifique-se de que a uni‐
+dade e o painel de controlo estão iso‐
+lados da fonte de alimentação e de
+que não recebem electricidade. Esta
+regra também se aplica ao circuito de
+controlo.
+
+(3000 pés) acima do nível do mar. O desem‐
+penho do motor pode necessitar de ser redu‐
+zido, ou substituído por um motor mais po‐
+tente.
+Para obter informações sobre qual o valor a utilizar
+para reduzir o motor, consulte Tabela 11 na página
+379 .
+
+Ligação à terra (massa)
+
+Posições da bomba e folga
+
+Choque elétrico:
+
+• Para garantir uma ventilação adequada: ≥ 100
+mm (4 pol.)
+• Para permitir a inspecção e remoção do motor: ≥
+300 mm (12 pol.)
+• Se o espaço disponível for inferior, consultar o
+catálogo técnico.
+
+Instalação acima da fonte do líquido (iça‐
+mento de sucção)
+
+A altura teórica máxima de sucção de qualquer
+bomba é 10,33 m. Na prática, as seguintes situa‐
+ções afectam a capacidade de sucção da bomba:
+
+• Ligue sempre o condutor de protec‐
+ção externo ao terminal de terra, an‐
+tes de fazer qualquer outra ligação
+eléctrica.
+• Tem de efectuar a ligação à terra
+(massa) de todo o equipamento eléc‐
+trico. Tal aplica-se ao equipamento
+da bomba, ao accionador e a equi‐
+pamentos de monitorização. Teste o
+condutor de ligação à terra (massa)
+para verificar se está correctamente
+ligado.
+• Se o cabo do motor for puxado aci‐
+dentalmente, o condutor de ligação à
+terra (massa) deve ser o último con‐
+
+• Temperatura do líquido
+• Elevação acima do nível do mar (num sistema
+aberto)
+
+66

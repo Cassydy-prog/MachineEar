@@ -1,0 +1,159 @@
+et - Originaali tõlkimine
+
+NPSH
+Pumbale omase voolutakistuse väärtus
+meetrites
+
+Hf
+Pumba imitorus vedeliku liikumisest tekki‐
+nud kogukadu meetrites
+
+Hv
+Auru rõhk meetrites vastavalt vedeliku tem‐
+peratuurile T °C
+
+tuleb võtta. Veenduge, et maandus‐
+juht on faasijuhtidest pikem. See keh‐
+tib mootorikaabli mõlema otsa puhul.
+• Lisage surmavate elektrilöökide vas‐
+tu lisakaitse. Paigaldage suure tund‐
+likkusega diferentsiaallüliti (30 mA)
+[jääkvoolu seade RCD].
+
+0,5
+Soovitatav kindlusvaru (m)
+
+4.1  Ruumi nõuded
+
+Z
+Maksimaalne kõrgus, kuhu saab paigaldada
+pumba (m)
+
+4.1.1  Pumba asukoht
+
+(pb*10,2 - Z) peab alati olema positiivne arv.
+Täiendava teabe saamiseks vt Joonis 12 leheküljel
+380.
+
+OHT:
+Ärge kasutage seda seadet keskkonnas,
+mis võib sisaldada tule-/plahvatusohtlik‐
+ke või sööbivaid keemilisi gaase või pul‐
+breid.
+
+MÄRKUS:
+Ärge ületage pumba imivõimet, kuna see võib põh‐
+justada kavitatsiooni ning pumpa kahjustada.
+
+Juhtnöörid
+
+Järgige toote asukoha suhtes neid juhtnööre.
+
+4.1.2  Torustikunõuded
+
+Ettevaatusabinõud
+
+HOIATUS:
+
+ET
+
+• Veenduge, et mootori ventilaatori väljastatava ja‐
+hutusõhu tavavoolu ees poleks takistusi.
+• Veenduge, et paigaldusala oleks kaitstud vedeli‐
+ke lekete või üleujutamiste eest.
+• Võimaluse korral asetage pump põrandapinnast
+veidi kõrgemale.
+• Ümbritsev temperatuur peab olema vahemikus 0
+°C (+32 °F) kuni +40 °C (+104 °F).
+• Ümbritseva õhu suhteline niiskus peab tempera‐
+tuuril +40 °C (+104 °F) olema väiksem kui 50%.
+• Pöörduge müügi- ja teenindusosakonna poole,
+kui:
+
+• Kasutage torusid, mis sobivad pumba
+maksimaalse töörõhuga. Vastasel ju‐
+hul riskite süsteemi katkemise ning
+sellest tulenevate võimalike kehavi‐
+gastustega.
+• Veenduge, et kõiki ühendustöid teos‐
+tavad vastava väljaõppe saanud pai‐
+galdustehnikud, kes järgivad kõiki ko‐
+halduvaid nõudeid.
+
+– suhteline õhuniiskus ületab juhendis näidatut;
+– ruumi temperatuur ületab +40 °C (+104 °F);
+– seade asub enam kui 1000 m merepinnast
+
+kõrgemal. Võib olla vaja vähendada mootori
+jõudlust või vahetada mootor võimsama vas‐
+tu.
+Lisateavet mootori nimiandmete vähendamise kohta
+vt siit: Tabel 11 leheküljel 379.
+
+MÄRKUS:
+Järgige kõiki eeskirju, mille on väljastanud vastavad
+reguleerivad asutused ja avalikku veevarustust hal‐
+davad ettevõtted, kui pump on ühendatud avalikku
+veevõrku. Kui see on nõutav, tuleb seadme imipoole‐
+le paigaldada tagasivoolu tõkestamise seade.
+
+Pumba asendid ja õhkvahemik
+
+Torustiku kontroll-loend
+
+Veenduge, et järgmised tingimused on täidetud.
+
+• Sobiva ventilatsiooni tagamiseks: ≥ 100 mm (4
+in)
+• Mootori kontrollimise ja eemaldamise võimalda‐
+miseks: ≥ 300 mm (12 in)
+• Kui saadaolev ruum on väiksem, vt tehnilist kata‐
+loogi.
+
+Paigaldamine vedelikutasemest kõrgemale
+(imikõrgus)
+
+Pumpade teoreetiline maksimaalne imikõrgus on
+10,33 m. Tegelikkuses mõjutavad pumba imivõim‐
+sust järgmised tegurid:
+
+• vedeliku temperatuur;
+• kõrgus üle merepinna (avatud süsteemis);
+• süsteemi rõhk (suletud süsteemis);
+• torude takistus;
+• pumba enda voolutakistus;
+• kõrguste erinevused.
+Järgmist võrrandit kasutatakse vedeliku taset ületa‐
+va maksimumkõrguse arvutamiseks, kuhu saab pai‐
+galdada pumba:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+• Kogu torustik on eraldi toenditega, torustik ei tohi
+seadet koormata.
+• Kasutatakse paindlikke torusid või ühendusi, et
+vältida pumba vibratsiooni ülekannet torudele ja
+vastupidi.
+• Kasutage laiu torupoognaid, hoiduge torupõlvede
+kasutamisest, sest need põhjustavad voolu liigse
+takistuse.
+• Imitorustik on täielikult tihendatud ja õhukindel.
+• Kui pumpa kasutatakse avatud ahelas, sobitatak‐
+se imitoru läbimõõt paigaldustingimustega. Imi‐
+toru ei tohi olla imiava läbimõõdust väiksem.
+• Kui imitorustik peab olema pumba imiküljest suu‐
+rem, paigaldatakse erineva keskpunktiga toruvä‐
+hendi.
+• Kui pump pannakse vedelikutasemest kõrgema‐
+le, paigaldatakse imitorustiku lõppu põhjaklapp.
+• Põhjaklapp pannakse täielikult vedelikku, nii et
+õhk ei pääse läbi imikeerise, kui vedelik on miini‐
+mumtasemel ja pump paigaldatakse vedelikuta‐
+semest kõrgemale.
+• Sobiva suurusega sulgeklapid paigaldatakse
+pumba võimsuse reguleerimiseks, ülevaatuseks
+
+pb
+Õhurõhk baarides (suletud süsteemis näitab
+süsteemi rõhku)
+
+147

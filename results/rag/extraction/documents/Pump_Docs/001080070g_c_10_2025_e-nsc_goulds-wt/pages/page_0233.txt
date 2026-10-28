@@ -1,0 +1,220 @@
+ro - Traducerea originalului
+
+Standard / Op‐
+
+Cod material
+Material carca‐
+să/rotor cu pale
+
+ţional
+
+Pentru nivelurile de presiune sonoră pentru pompa
+fără motor, consultaţi secţiunea Tabelul 10 la pagina
+372.
+
+CC
+Fontă/fontă
+Standard
+
+4  Instalare
+
+CB
+Fontă/bronz
+Standard
+
+Standard
+
+Măsuri de prevedere
+
+SC
+Fontă/
+Oțel inoxidabil
+
+AVERTISMENT:
+
+Standard
+
+CN
+Fontă/
+Oțel inoxidabil
+
+CC
+Fontă cu grafit
+
+Standard
+
+nodular/fontă
+
+Standard
+
+DB
+Fontă cu grafit
+nodular/bronz
+
+DN
+Fontă cu grafit
+
+Standard
+
+nodular/oțel
+
+inoxidabil
+
+• Respectaţi reglementările în vigoare
+privind prevenirea accidentelor.
+• Utilizaţi un echipament şi elemente
+de protecţie adecvate.
+• Ţineţi cont întotdeauna de reglemen‐
+tările, legislaţia și normele locale
+și/sau naţionale în vigoare cu privire
+la alegerea amplasamentului instală‐
+rii și cu privire la conexiunile pentru
+instalaţii de apă și canal și de energie
+electrică.
+
+NN
+Oţel inoxidabil/
+
+Standard
+
+Pericol de electrocutare:
+
+Oțel inoxidabil
+
+Opțional
+
+RR
+Fontă de tip du‐
+plex/fontă de tip
+
+duplex
+
+3.6  Garnitură de etanşare mecanică
+
+Garnitură de etanșare mecanică singulară și neechi‐
+librată cf. EN 12756, versiunea K.
+
+• Asiguraţi-vă că toate conexiunile sunt
+efectuate de către tehnicieni de insta‐
+lare calificaţi şi în conformitate cu re‐
+glementările în vigoare.
+• Înainte de a începe lucrul la unitate,
+asigurați-vă că unitatea și panoul de
+control sunt izolate față de sursa de
+energie și nu pot fi puse sub tensiune.
+Aceste reguli se aplică și la circuitul
+de comandă.
+
+3.7  Limite de aplicare
+
+Presiune de lucru maximă
+
+Împământarea (legarea la pământ)
+
+Pericol de electrocutare:
+
+Figura 4 la pagina 367 afişează presiunea maximă
+de lucru în funcţie de modelul pompei şi de tempera‐
+tura lichidului pompat.
+P1max + Pmax≤ PN
+
+P1max
+Presiune de admisie maximă
+
+Pmax
+Presiune maximă generată de pompă
+
+PN
+Presiune de funcționare maximă
+
+RO
+
+Intervale de temperatură pentru lichid
+
+Figura 4 la pagina 367 afişează intervalele de tempe‐
+ratură de lucru.
+Pentru cerințe speciale, contactați reprezentantul de
+vânzări și service.
+
+Număr maxim de porniri pe oră
+
+18,5
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+60
+40
+30
+24
+16
+8
+4
+
+Porni‐
+ri pe
+oră
+
+Nivel de zgomot
+
+• Conectați întotdeauna conductorul de
+protecție externă la borna de împă‐
+mântare (legare la pământ) înainte de
+a efectua alte conexiuni electrice.
+• Trebuie să împământaţi (legaţi la pă‐
+mânt) toate echipamentele electrice.
+Această regulă se aplică la echipa‐
+mentul pompei, la motorul de acţio‐
+nare şi la orice echipament de moni‐
+torizare. Testaţi conductorul de împă‐
+mântare (legare la pământ) pentru a
+verifica dacă este conectat corect.
+• În cazul în care cablul motorului este
+smuls din greșeală, conductorul de
+împământare (legare la pământ) tre‐
+buie să fie ultimul conductor care să
+se desprindă de la borna sa. Asigu‐
+raţi-vă că este mai lung conductorul
+de împământare (legare la pământ)
+decât conductoarele de fază. Această
+regulă se aplică la ambele capete ale
+cablului motorului.
+• Adăugaţi protecţii suplimentare împo‐
+triva electrocutării. Instalaţi un între‐
+rupător diferenţial cu sensibilitate ri‐
+dicată (30 mA) [dispozitiv curent rezi‐
+dual RCD].
+
+4.1  Cerinţe pentru instalare
+
+Pentru nivelurile de presiune sonoră pentru pompa
+echipată cu motorul din dotarea standard, consultaţi
+Tabelul 9 la pagina 368.
+
+4.1.1  Amplasarea pompei
+
+229

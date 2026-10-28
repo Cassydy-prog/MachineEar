@@ -1,0 +1,66 @@
+6  Maintenance
+
+6  Maintenance
+
+Precautions
+
+Electrical Hazard:
+Disconnect and lock out electrical power before installing or servicing the unit.
+
+WARNING:
+
+• Maintenance and service must be performed by skilled and qualified personnel only.
+• Observe accident prevention regulations in force.
+• Use suitable equipment and protection.
+• Make sure that the drained liquid does not cause damage or injuries.
+
+6.1  Service
+
+If the user wishes to schedule regular maintenance deadlines, they are dependent on the
+type of pumped liquid and on the operating conditions of the pump.
+Contact the local sales and service representative for any requests or information regarding
+routine maintenance or service.
+Extraordinary maintenance may be necessary to clean the liquid end and/or replace worn
+parts.
+
+Pumps with greased for life bearings
+
+Pumps with greased for life bearings do not require any scheduled routine maintenance.
+
+Pumps with re-greaseable bearings
+
+• Regrease at 4000 operating hours, but at least once per year. Clean lubrication nipples
+(SN) first.
+• Use NLGI Grade 2 grease or equivalent.
+Contact the local sales and service representative for any requests or information.
+
+Motor bearings
+
+After approximately five years, the grease in the motor bearings is so aged that a
+replacement of the bearings is recommended. The bearings must be replaced after 25000
+operating hours or according to the motor supplier maintenance instructions, whichever is
+shorter.
+
+Motor with regreasable bearings
+
+Follow motor supplier maintenance instructions.
+
+Coupling
+
+Check the clearance in the coupling elements regularly, at least once a year. We
+recommend checking every 1000 operating hours or every three months, whichever comes
+first.
+
+6.2  Inspection checklist
+
+Check the coupling
+Check the flexible elements of the coupling.
+Replace the relevant parts if there is any sign of
+wear and check the alignment.
+
+Check the mechanical seal
+Check for leakage of the mechanical seal. Replace
+the mechanical seal if leakage is found.
+
+24
+Series 1710 Installation, Operation, and Maintenance Manual

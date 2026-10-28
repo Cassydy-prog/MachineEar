@@ -1,0 +1,66 @@
+Declarations of Conformity
+
+Ytterligare information: 
+Optimyze: om försedd med pump, se den dokumentation som medföljer övervakningsenheten [radioutrustning 2014/53/EU och 
+senare ändringar, begränsning av användningen av vissa farliga ämnen i elektriska och elektroniska produkter 2011/65/EU och 
+senare ändringar, inklusive direktivet (EU) 2015/863].
+
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Verkställande direktör
+
+Försäkran om överensstämmelse är inte giltig om den används separat från resten av texten i Xylems dokumentkod 001080070G. 
+ 
+Vaatimustenmukaisuusvakuutukset 
+Katso tuotteesta löytyvää merkintää koskevaa vakuutusta. 
+ 
+Sähköpumppu 
+ 
+EY:n vaatimustenmukaisuusvakuutus (alkuperäisen käännös) 
+ 
+Xylem Service Italia S.r.l., pääkonttori: Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italy, ilmoittaa täten, että tuote 
+NSCC… tai NSCF… sähköpumppu (katso viimeisellä sivulla olevaa merkintää) 
+täyttää seuraavien eurooppalaisten direktiivien soveltuvat vaatimukset 
+•  Konedirektiivi 2006/42/EY ja siihen myöhemmin tehdyt muutokset (LIITE II – luonnollinen tai oikeushenkilö, joka on valtuutettu 
+kokoamaan teknisen eritelmän: Xylem Service Italia S.r.l.), 
+•  Ekologista suunnittelua koskeva direktiivi 2009/125/EY ja sen oikaisut, asetus (EU) 2019/1781 ja sen oikaisut (sähkömoottori, jos 
+IE2, IE3 tai IE4 merkitty), asetus (EU) N:o 547/2012 ja sen oikaisut (vesipumppu, jos MEI merkitty) 
+ja tekniset standardit 
+•  EN 809:1998+A1:2009, EN 60204-1:2018. 
+•  EN 60034-30:2009, EN 60034-30-1:2014, EN 60034-2-1:2007, EN 60034-2-1:2014, EN 16480:2021. 
+Montecchio Maggiore, 25/03/2025  
+
+Tark. 00
+
+Alessio Vendraminelli  
+     Toimitusjohtaja
+
+EU-vaatimustenmukaisuusvakuutus (nro 01) 
+ 
+1. EMCD - laitteen/tuotteen malli: NSCC… tai NSCF… (katso viimeisellä sivulla olevaa merkintää) 
+    RoHS - sähkö- ja elektroniikkalaitteen yksilöllinen tunnistenumero: NSCC… tai NSCF…  
+2. Valmistajan nimi ja osoite: 
+ Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ IT-36075 Montecchio Maggiore VI 
+ Italy 
+3. Tämä EU-vaatimustenmukaisuusvakuutus on annettu valmistajan yksinomaisella vastuulla. 
+4. Vakuutuksen kohde: sähköpumppu. 
+5. Yllä kuvattu vakuutuksen kohde on unionin asiaan liittyvän yhdenmukaistamislainsäädännön mukainen 
+•  Euroopan parlamentin ja neuvoston direktiivi 2014/30/EU, annettu 26 päivänä helmikuuta 2014, ja sen oikaisut 
+(sähkömagneettinen yhteensopivuus).  
+•  Euroopan parlamentin ja neuvoston direktiivi 2011/65/EU, annettu 8 päivänä kesäkuuta 2011, ja sen oikaisut mukaan lukien (EU) 
+2015/863 (tiettyjen vaarallisten aineiden käytön rajoittaminen sähkö- ja elektroniikkalaitteissa). 
+6. Viittaukset asiaankuuluviin käytettyihin yhdenmukaistettuihin standardeihin tai viittaukset muihin teknisiin määrityksiin, joihin 
+liittyen vaatimustenmukaisuus ilmoitetaan: 
+• EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-4:2007 
++A1:2011, EN IEC 61000-6-4:2019. 
+• EN IEC 63000:2018. 
+7. Ilmoitettu laitos: - - - 
+8. Lisätietoja: 
+RoHS – Liite III – Ainerajoitusten poikkeukset: lyijy seosaineena teräksessä ja alumiinissa sekä kupariseokset [6(a), 6(b), 6(c)].
+
+428

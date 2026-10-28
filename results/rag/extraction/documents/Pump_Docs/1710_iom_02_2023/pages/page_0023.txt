@@ -1,0 +1,60 @@
+5  Commissioning, Startup, Operation, and Shutdown
+
+5  Commissioning, Startup,
+Operation, and Shutdown
+
+Precautions
+
+WARNING:
+
+• Make sure that the drained liquid does not cause damage or injuries.
+• The motor protectors can cause the motor to restart unexpectedly. This could result in
+serious injury.
+• Never operate the pump without the coupling guard correctly installed.
+
+CAUTION:
+
+• The outer surfaces of the pump and motor can exceed 40ºC (104ºF) during operation. Do
+not touch with any part of the body without protective gear.
+• Do not put any combustible material near the pump.
+
+NOTICE:
+
+• Never operate the pump below the minimum rated flow, when dry, or without prime.
+• Never operate the pump with the delivery ON-OFF valve closed for longer than a few
+seconds.
+• Never operate the pump with the suction ON-OFF valve closed.
+• Do not expose an idle pump to freezing conditions. Drain all liquid that is inside the
+pump. Failure to do so can cause liquid to freeze and damage the pump.
+• The sum of the pressure on the suction side (mains, gravity tank) and the maximum
+pressure that is delivered by the pump must not exceed the maximum working pressure
+that is allowed (nominal pressure PN) for the pump.
+• Do not use the pump if cavitation occurs. Cavitation can damage the internal
+components.
+
+5.1  Fill the pump
+
+Installations with liquid level above the pump (suction head)
+
+1. Close the on-off valve located downstream from the pump.
+2. Remove the fill or gauge plug and open the on/off valve upstream until the water flows
+out of the hole.
+3. Close the fill or gauge plug
+
+Installations with liquid level below the pump (suction lift)
+
+1. All pipe system empty:
+a) Open the on-off valve located upstream from the pump.
+b) Remove the fill plug and the gauge plug. Use a funnel to fill the pump through the fill
+
+hole until the water flows out of this hole.
+c) Tighten the fill plug and the gauge plug.
+2. Filled discharge pipe system:
+a) Open the on-off valve located upstream from the pump and open the on-off valve
+
+downstream.
+b) Remove the gauge plug until water flows out of this hole.
+c) Tighten the gauge plug.
+
+Series 1710 Installation, Operation, and Maintenance Manual
+21

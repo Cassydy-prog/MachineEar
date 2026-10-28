@@ -1,0 +1,25 @@
+{
+  "document_id": "67b96c739f041341ea16a51646dfedbd8d76f5205f7691cf552a432eb9551b80",
+  "source_filename": "p2002569b-1.pdf",
+  "source_relative_path": "Pump_Docs/p2002569b-1.pdf",
+  "source_sha256": "895910955666f802129dadeaddcb7efc63dadd771396c51a0574ad6050d7732b",
+  "document_title": "p2002569b-1",
+  "machine_type_hint": "pump",
+  "source_type_hint": "installation_operation_maintenance_manual",
+  "applicability": "generic_guidance_equipment_match_unverified",
+  "applicability_verified": false,
+  "page_count": 32,
+  "method_counts": {
+    "native": 31,
+    "ocr": 1
+  },
+  "ocr_attempted_pages": 1,
+  "blank_pages": 0,
+  "review_pages": [
+    15
+  ],
+  "character_count": 82822,
+  "document_text_file": "documents/Pump_Docs/p2002569b-1/document.txt",
+  "searchable_pdf": "documents/Pump_Docs/p2002569b-1/p2002569b-1.searchable.pdf",
+  "errors": []
+}

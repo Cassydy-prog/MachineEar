@@ -1,0 +1,190 @@
+Figure 6. Alignement des raccords de conduit
+
+F
+F
+
+Y
+
+P
+
+GAP
+
+X
+
+P
+
+ALIGNEMENT	
+ALIGNEMENT	
+ESPACE ET
+ANGULAIRE	
+PARALLÈLE	
+FLOTTAGE FINAL
+
+quatre points peut aussi être accompli avec une ligne atta­
+ché à l’arbre derrière une des poulies. La ligne est alors 
+tendue sur la face des poulies pour vérifier l’alignement 
+aux quatre points du périmètre externe. Chaque poulie doit 
+être tournée d’une demi-révolution durant ce contrôle pour 
+déterminer s’il y a un jeu excessif ou une déformation de 
+l’arbre. L’alignement parallèle doit être dans une tolérance 
+de 5mm par mètre de la distance au centre. Le désaligne­
+ment angulaire doit être moins de 1 degré.
+
+X-Y	 = DÉSALIGNEMENT ANGULAIRE
+P	
+= COMPENSATION PARALLÈLE (DÉSALIGNEMENT)
+F	
+= FLOTTAGE FINAL
+
+3. Installer et tender les courroies. La tension de courroie cor­
+recte est indiquée sur la documentation jointe. Les courroies
+sont tendues comme suit:
+
+conduits, silencieux, cheminées, etc. Supporter ces charges sur 
+le ventilateur peut causer une déformation du cadre et des 
+problèmes de performance dus à la relation entre le cadre du 
+ventilateur et la roue. L’usage de raccords de conduits flexibles 
+est recommandé.
+
+Les poteaux, la base, les rails coulissants, et la base cou­
+lissante nécessitent un ou plusieurs boulons retenus par
+des écrous de blocage pour ajuster la position du moteur.
+Desserrer les écrous de blocage et ajuster les boulons pour
+pousser ou tirer le moteur jusqu’à ce que les courroies soi­
+ent à la bonne tension. Serre les écrous de blocage suivant
+les spécifications de torque du Tableau 1.
+
+Lorsque des matériaux dangereux vont être transportés par 
+le ventilateur, tous les raccords de conduits faits par l’utilisateur 
+doivent être rendus complètement étanches avec un matériel 
+approprié au gaz ou à la vapeur qui se dégage.
+
+4. Faire tourner le mécanisme d’entraînement pendant quelques
+minutes pour mettre les courroies en place. Lors de la
+mise en tension des courroies, faire glisser le moteur pour
+enfiler les courroies. Ne pas utiliser de pince-monseigneur,
+ceci peut endommager les cordes de courroies. Remettre
+les courroies à la bonne tension si nécessaire. Re-vérifier
+l’alignement de la poulie.
+
+5. Après l’installation initiale des courroies, re-vérifier la ten­
+sion des courroies et l’alignement comme indiqué dans le
+Tableau 7.
+
+Couplages flexibles
+
+Garde-fous et Carters de Protection
+Lorsque Twin City Fan Companies Ltd. est avisé de la néces­
+sité d’une protection complètement conforme aux directives 
+relatives aux machines, Twin City Fan Companies Ltd. fournit 
+la protection identifiée comme requis. Dans la plupart des 
+cas, Twin City Fan Companies, Ltd. N’est pas au courant de 
+l’utilisation et de l’installation finale du ventilateur, ce qui élimine 
+typiquement le besoin pour plus de garde-fous afin de se con­
+former avec EN-294 et EN 811. Pour cette raison, l’utilisateur 
+doit s’assurer que l’installation finale est conforme avec EN 
+953, En 294 et EN 811. Ceci est particulièrement vrai pour les 
+ventilateurs encastrés et les ventilateurs soufflants. Les articles 
+spécifiques suivants doivent être considérés mais la liste qui 
+suit n’est pas exhaustive:
+
+Ces instructions sont générales pour l’installation de différents 
+types de couplages flexibles et ne doivent pas être utilisées 
+comme substitution aux instructions plus spécifiques du fabri­
+cant. Les données d’installation du fabricant sont incluses avec 
+la fiche technique fournie (si applicable) et donne les dimen­
+sions spécifiques pour les limites d’alignement, les lubrifiants, 
+etc.
+
+•
+Conduit d’évacuation / enceinte. Le conduit ou l’enceinte
+doivent se conformer avec les obligations de EN 953, EN
+294 et EN 811. Ceci n’est pas assuré par Twin city Fan
+Companies, à moins que cela n ‘ait été spécifiquement
+notifié au moment de la commande.
+
+Avant de préparer l’installation des couplages, s’assurer que 
+tous les paliers, ailettes d’admission, joints d’arbre ou autres 
+éléments ont été installés sur l’arbre.
+
+Lors du montage et serrage des moitiés de conduit sur 
+l’arbre, suivre les instructions pour installations de gaines 
+thermo-rétrécissables. Installer les moitiés de conduits avec 
+l’espace normal spécifié par le fabricant. L’espace de couplage 
+est illustré dans la Figure 6.
+
+•
+Protection à l’admission. La protection à l’admission se
+base sur la distance de sécurité supplémentaire fournie
+par les conduits d’admission ou tout autre enceinte
+accroissant la distance de sécurité a 850 mm ou plus.
+Ceci parce que l’installation élimine normalement le besoin
+pour une protection excessive à l’admission du ventila­
+teur. De plus, une protection excessive à l’admission du
+ventilateur détériorerait de manière significative la perfor­
+mance et n’est, par conséquent, pas désirable.
+
+Les deux types de mauvais alignement sont illustrés ci 
+dessus. Les alignements angulaires typiques sont vérifiés avec 
+des calibres à lames entre les la face des moyeux. Lorsque 
+l’ajustement angulaire a été ajusté selon les spécifications du 
+fabricant par calage si nécessaire, l’alignement parallèle peut 
+être contrôlé avec une règle de précision et des calibres à 
+lames sur les moitiés du moyeu de l’O.D. Lorsque le calage a 
+amené l’alignement parallèle dans les spécifications, l’alignement 
+angulaire et l’espace doivent être re-vérifiés et des ajustements 
+doivent faits si nécessaire. Un indicateur à cadran peut être 
+utilisé pour prendre les mesures ci dessus de manière plus 
+précise.
+
+•
+Ventilateurs encastrés et ventilateurs soufflants. Ces ventila­
+teurs sont prévus pour être installés dans une enceinte
+fournie par l’utilisateur. Twin City Fan Companies, Ltd. ne
+connaît que rarement les détails de l’enceinte et ne peut
+conséquemment pas fournir les garde-fous basés sur les
+besoins de l’installation finale de ce type de ventilateurs.
+L’utilisateur doit s ‘assurer que les enceintes de ventila­
+teurs encastrés et soufflants sont conformes à EN 294
+et EN 811.
+
+Les carters de protection ne doivent pas être enlevés quand 
+le ventilateur est en opération ; ceci peut provoquer des bles­
+sures graves. Les carters de protection ne doivent pas reposer 
+ou être utilisés pour supporter une charge supplémentaire.
+
+Des ajustements spéciaux ont parfois nécessaires pour 
+certains couplages utilisés avec certains équipements. A titre 
+d’exemple, lorsqu’ils sont utilisés avec des moteurs de plus de 
+300 CV, les couplages peuvent demander des provisions pour 
+limiter le flottage final. Les gros mécanismes d’entraînement 
+peuvent se dilater lors des opérations (du à la chaleur expan­
+sive) demandant que le côté mécanisme d’entraînement soit 
+installé plus bas lorsqu’il n’est pas en fonction. Les manuels 
+d’instruction spécifiques ou les plans de montage indiquent ces 
+besoins s’ils sont applicables.
+
+Bien nettoyer les moitiés de couplage avant de compléter 
+l’alignement. Ré assembler le couplage et serrer les boulons, 
+rondelles et boulons de fixation. Lubrifier selon les instructions 
+du fabricant.
+
+Alimentation et contrôles électriques
+Twin City Fan Companies, Ltd. ne fournit pas les contrôles 
+électriques. Les articles identifiés ci-dessous se veulent être 
+un guide pour l’utilisateur et pour l’aider à se procurer des 
+contrôles conformes à l’Annexe 1 de la Directive Relative 
+aux Machines et à EN 14461 : 2005 Ventilateurs industriels 
+– Exigences de Sécurité. De plus, les installations électriques
+doivent remplir les exigences de EN 60204-1 et doivent être
+sélectionnées pour de conformer avec la directive Relative
+aux Appareils Basse Tension. Ceux qui sont impliqués dans
+la conception de l’alimentation électrique et des systèmes de
+
+Raccords de Conduits
+La structure de support du ventilateur n’est normalement pas 
+conçue pour porter les charges imposées par le poids des
+
+8
+
+IM-2-06

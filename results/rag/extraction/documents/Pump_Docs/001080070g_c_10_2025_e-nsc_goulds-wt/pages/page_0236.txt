@@ -1,0 +1,165 @@
+ro - Traducerea originalului
+
+Frecvenţă Hz
+Fază ~
+UN [V] ± %
+
+Piuliță
+Cuplu, Nm (lbf·in)
+
+3
+220/380 ± 5
+
+M12
+60 (44)
+
+380/660 ± 10
+
+M16
+120 (89)
+
+M20
+200 (148)
+
+M24
+350 (258)
+
+M27
+530 (391)
+
+Utilizaţi cabluri conform normelor, cu 3 conductori
+(2+masă/împământare) pentru versiunile monofaza‐
+te şi cu 4 conductori (3+masă/împământare) pentru
+versiunile trifazate.
+
+4.3  Instalarea pompei
+
+Notă:
+
+4.3.1  Instalarea mecanică
+
+• Pentru placa de bază, se recomandă să cimentați
+placa de bază cu beton cu contractare scăzută.
+
+Zonă de instalare
+
+Montarea pompei pe un cadru de bază
+
+Asigurați-vă că verificați respectarea următoarelor:
+
+Instalați unitatea pe o bază de beton sau metal su‐
+ficient de rezistentă pentru a asigura un suport per‐
+manent și rigid. Respectați cerințele din Amplasarea
+pompei la pagina 229.
+
+Instalarea pe fundația din beton
+
+Cerințe de bază
+
+• Cadru de bază solid, ce nu se răsuc. și nu vibr. în
+expl. (rezonanță).
+• Supr. de mont. plană pt. pic. pompei și mot. pe
+cadr. bază (prelucr.).
+• Fixarea fermă a pompei și motorului trebuie ga‐
+rantată.
+• Este nec. spațiu adecv. între pompă și ax. mot., în
+fcț. de cupl. util.
+• Între pompă și cadrul de bază trebuie să fie o re‐
+glare adecvată, astfel încât, în cazul înlocuirii, să
+poată fi reglată aceeași înălțime între partea infe‐
+rioară și linia centrală (reglaj vertical recomandat
+4-6 mm).
+
+Reducerea vibrațiilor
+
+• Betonul trebuie să aibă o rezistență la compresie
+de C12/15 și să îndeplinească cerințele clasei de
+expunere XC1 în conformitate cu EN 206-1
+• Dimensiunile trebuie să fie adecvate pentru di‐
+mensiunile plăcii de susținere a unității
+• Greutatea fundației trebuie să fie ≥ 1,5 ori greuta‐
+tea unității (≥ 5 ori greutatea unității dacă este
+necesară o funcționare mai silențioasă)
+• Suprafața trebuie să fie cât mai plană și cât mai
+plană posibil
+• Panta trebuie să fie ≤ 1 mm/m.
+Instrucțiuni suplimentare pot fi găsite în documentul
+nr. 001080247X: pentru a o descărca, scanați codul
+QR din Figura 17 la pagina 384.
+
+Fixarea pompei
+
+Unitatea și debitul de lichide din sistem pot genera
+vibrații, care pot fi amplificate dacă unitatea sau sis‐
+temul de conducte nu sunt instalate corect: respec‐
+tați instrucțiunile din Instalarea pe fundația din beton
+la pagina 232 și Fixarea pompei la pagina 232, în
+plus față de Lista de verificare a sistemului de con‐
+ducte la pagina 232
+
+De asemenea, se recomandă:
+
+Pentru exemple de instalări pe orizontală şi pe verti‐
+cală, consultaţi Figura 15 la pagina 383.
+
+RO
+
+1. Consultați catalogul tehnic pentru:
+– Diametrul și numărul orificiilor de fundație
+– Distanțele găurilor
+– Calcularea dimensiunii și cantității tijelor de
+
+• Verificați dacă pompa și motorul sunt fixate în
+siguranță pe bază
+• Introduceți materialul antivibrații între bază și
+fundație
+• Dacă unitatea are o bază sudată, umpleți cu be‐
+ton spațiile prezentate în Figura 25 la pagina 397.
+
+NOTĂ:
+Nu umpleți baza din tablă pliată Figura 26 la pagina
+397 cu beton.
+
+4.3.2  Lista de verificare a sistemului de
+conducte
+Verificați respectarea următoarelor:
+
+legătură cu ancore chimice, în funcție de mo‐
+delul unității.
+2. Perforați fundația și fixați tijele de legătură.
+3. Așezați unitatea pe fundație și utilizați un nivel cu
+bulă de aer pe portul de evacuare și pe ax pentru
+a vă asigura că este la nivel.
+Toleranță maximă permisă: 0,2 mm/m.
+4. Dacă există, scoateți dopurile care acoperă por‐
+turile de aspirație și evacuare.
+5. Aliniați porturile de aspirare și evacuare la con‐
+ductele acestora.
+6. Fixați sistemul de conducte la unitate; consultați
+și Lista de verificare a sistemului de conducte la
+pagina 232.
+7. Dacă este necesar, introduceți bailaguri de nive‐
+lare între fundație și bază: dacă distanța dintre
+tijele de legătură este > 800 mm, introduceți două
+bailaguri suplimentare în centrul bazei. Toate bai‐
+lagurile trebuie să fie perfect clătite. Consultați
+Figura 17 la pagina 384.
+8. Strângeți uniform și complet piulițele tijei de legă‐
+tură, asigurându-vă că cuplurile sunt cele indicate
+în tabel.
+
+• În cazul instalării unei ascensiuni de aspirație,
+pentru a evita pungile de aer, conducta de aspi‐
+rație trebuie să aibă o pantă tot mai mare spre
+unitate care depășește 2%.
+• Diametrele nominale ale sistemului de conducte
+trebuie să fie cel puțin egale cu diametrele nomi‐
+nale ale porturilor pompei.
+• Susțineți independent sistemul de conducte, ast‐
+fel încât să nu încărcați unitatea.
+• Spălați sistemul de conducte înainte de a le co‐
+necta la unitate, pentru a îndepărta toate reziduu‐
+rile, depunerile și impuritățile de sudură. Dacă es‐
+te necesar, instalați un filtru.
+
+232

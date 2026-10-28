@@ -1,0 +1,161 @@
+en - Original instructions
+
+the maximum working pressure that is allowed
+(nominal pressure PN) for the pump.
+• Do not use the pump if cavitation occurs. Cavita‐
+tion can damage the internal components.
+
+NOTICE:
+After the initial start-up and once the operating tem‐
+perature is reached, check the alignment of the unit's
+coupling, see Coupling check and alignment on page
+20.
+
+5.1  Fill the pump
+For information about additional pump connections,
+see Figure 22 on page 392.
+
+The responsibility for checking the correct flow and
+the temperature of the pumped liquid rests with the
+installer or owner.
+Before starting the pump, make sure that:
+
+Installations with liquid level above the pump
+(suction head)
+
+EN
+
+For an illustration that shows where pump plugs are,
+see Figure 23 on page 394.
+
+1. Close the on-off valve located downstream from
+the pump.
+
+• The pump is correctly connected to the power
+supply.
+• The pump is correctly filled according to instruc‐
+tions in Fill the pump (chapter 5).
+• The on-off valve located downstream from the
+pump is closed.
+
+1. Start the motor.
+
+2. Remove the fill (3) or gauge plug (1) and open the
+on/off valve upstream until the water flows out of
+the hole.
+
+2. Gradually open the on-off valve on the discharge
+side of the pump.
+
+a) Close the fill (3) or gauge plug (1).
+
+At the expected operating conditions, the pump
+must run smoothly and quietly. If not, refer to
+Troubleshooting on page 23.
+
+Installations with liquid level below the pump
+(suction lift)
+
+6  Maintenance
+
+For an illustration that shows where pump plugs are,
+see Figure 24 on page 395.
+
+1. All pipe system empty:
+
+Precautions
+
+a) Open the on-off valve located upstream from
+
+the pump.
+b) Remove the fill plug (3) and the gauge plug
+
+Electrical Hazard:
+Disconnect and lock out electrical power
+before installing or servicing the unit.
+
+(1). Use a funnel to fill the pump through the
+fill hole until the water flows out of this hole.
+c) Tighten the fill plug (3) and the gauge plug
+
+WARNING:
+
+(1).
+
+2. Filled discharge pipe system:
+
+a) Open the on-off valve located upstream from
+
+the pump and open the on-off valve down‐
+stream.
+b) Remove the gauge plug (1) until water flows
+
+out of this hole.
+c) Tighten the gauge plug (1).
+
+• Maintenance and service must be
+performed by skilled and qualified
+personnel only.
+• Observe accident prevention regula‐
+tions in force.
+• Use suitable equipment and protec‐
+tion.
+• Make sure that the drained liquid
+does not cause damage or injuries.
+
+5.2  Check the rotation direction (three-phase
+motor)
+Follow this procedure before start-up.
+
+1. Locate the arrows on the adaptor or the motor
+fan cover to determine the correct rotation direc‐
+tion.
+
+2. Start the motor.
+
+3. Quickly check the direction of rotation through
+the coupling guard or through the motor fan cov‐
+er.
+
+6.1  Service
+If the user wishes to schedule regular maintenance
+deadlines, they are dependent on the type of pump‐
+ed liquid and on the operating conditions of the
+pump.
+Contact the local sales and service representative
+for any requests or information regarding routine
+maintenance or service.
+Extraordinary maintenance may be necessary to
+clean the liquid end and/or replace worn parts.
+
+4. Stop the motor.
+
+Pumps with greased for life bearings
+
+5. If the rotation direction is incorrect, then do as
+follows:
+
+Pumps with greased for life bearings do not require
+any scheduled routine maintenance.
+
+Pumps with re-greaseable bearings
+
+a) Disconnect the power supply.
+b) In the terminal board of the motor or in the
+
+electric control panel, exchange the position
+of two of the three wires of the supply cable.
+
+For the wiring diagrams, see Figure 21 on
+page 392.
+c) Check the direction of rotation again.
+
+• Regrease at 4000 operating hours, but at least
+once per year. Clean lubrication nipples (SN) first.
+• Use NLGI Grade 2 grease or equivalent.
+Contact the local sales and service representative
+for any requests or information.
+
+5.3  Start the pump
+
+22

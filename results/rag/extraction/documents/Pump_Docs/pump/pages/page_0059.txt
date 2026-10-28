@@ -1,0 +1,97 @@
+Section 3. The Economics of Improving Pumping Systems
+
+Section 3:  The Economics of Improving Pumping Systems
+
+Overview
+
+Conduct a Systems Assessment
+
+A systems assessment reviews the operation of a 
+pumping system, often using certain tools to help 
+identify improvement opportunities. Taking a 
+systems approach can be a very effective way to 
+perform the assessment. Consequently, DOE seeks 
+to build industry’s awareness of this approach in 
+many key industrial systems, including pumping. 
+The Hydraulic Institute’s Pump Systems MatterTM 
+initiative also promotes a systems approach to 
+pumping system assessments.
+
+Pumping systems can be critically important to 
+a plant’s operations. In many industrial applica-
+tions, such as power and petrochemical plants, 
+pumps directly support production processes and 
+run as often as—or even longer than—any other 
+equipment at the facility. The amount of energy 
+consumed by many long-running pumping 
+systems often results in a substantial addition to 
+a plant’s annual operating costs. In fact, about 
+27% of all the energy consumed by motor-driven 
+equipment in manufacturing facilities is used to 
+operate pumps.3 Therefore, pumping systems 
+are a natural target in efforts to reduce energy 
+consumption in motor-driven systems.
+
+ A Systems Approach
+A systems approach can be effective in assessing 
+system performance, solving operating problems, 
+and finding improvement opportunities. In a 
+systems approach, engineers and operators analyze 
+both the supply and demand sides of the system 
+and how they interact, essentially shifting the focus 
+from the performance of individual components 
+to that of the system as a whole. In attempting 
+to correct problems or look for ways to improve 
+performance, evaluating only the components 
+rather than the whole system can cause analysts 
+to overlook potential cost savings.
+
+In some cases, pumping system energy is used 
+quite efficiently; in others, it is not. Facility 
+operators are often very familiar with the 
+controllability, reliability, and availability of 
+pumping system equipment, but they might not 
+be as aware of system efficiency issues—and 
+there are good reasons to increase their aware-
+ness. For example, there is a strong correlation 
+between the reliability of pumps and their 
+efficiency; that is, pumps that operate close to 
+their best efficiency point tend to perform more 
+reliably and with greater availability.
+
+There are numerous opportunities to improve 
+the reliability, performance, and efficiency of 
+pumping systems in many industrial facilities. 
+This section discusses three basic steps that can 
+help in identifying and implementing pumping 
+system improvement projects:
+
+For example, although a pump might be operating 
+efficiently, it could be generating more flow than 
+the system requires. Consequently, it is important 
+to assess system efficiency based on how well 
+the end uses are served by the pumps. Reflecting 
+a systems approach, process system design and 
+manufacturing best practices will first optimize 
+the performance of the entire system and then 
+select the components and control strategies that 
+best match the new process load.
+
+■	 Conduct a systems assessment
+
+■	 Analyze life-cycle costs before making
+
+a decision
+
+ Pumping System Assessment Tool (PSAT)
+DOE studies show that almost two-thirds of the 
+potential energy savings for motor systems
+
+■	 Sell your projects to management.
+
+3  United States Industrial Electric Motor Systems Market Opportunities Assessment, DOE/GO-102000-959, U.S. Department of Energy, 
+   1998; see www.eere.energy.gov/bestpractices/.
+
+55
+
+A Sourcebook for Industry

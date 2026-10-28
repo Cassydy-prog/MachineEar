@@ -1,0 +1,289 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+50 Hz
+
+50 Hz
+
+50 Hz
+
+5V
+3x380-415/660-690 V
+
+5P
+3x200-208/346-360 V
+
+5P
+3x200-208/346-360 V
+
+5P
+3x200-208/346-360 V
+
+5S
+3x255-265/440-460 V
+
+5S
+3x255-265/440-460 V
+
+5S
+3x255-265/440-460 V
+
+5T
+3x290-300/500-525 V
+
+5T
+3x290-300/500-525 V
+
+5T
+3x290-300/500-525 V
+
+5W
+3x440-460/- V
+
+5W
+3x440-460/- V
+
+5W
+3x440-460/- V
+
+60 Hz
+
+60 Hz
+
+60 Hz
+
+6F
+1x220-230 V
+
+6F
+1x220-230 V
+
+6F
+1x220-230 V
+
+6E
+1x200-210 V
+
+6E
+1x200-210 V
+
+6E
+1x200-210 V
+
+6P
+3x220-230/380-400 V
+
+6P
+3x220-230/380-400 V
+
+6P
+3x220-230/380-400 V
+
+6R
+3x255-277/440-480 V
+
+6R
+3x255-277/440-480 V
+
+6R
+3x255-277/440-480 V
+
+6V
+3x440-480/- V
+
+6V
+3x440-480/- V
+
+6V
+3x440-480/- V
+
+6U
+3x380-400/660-690 V
+
+6U
+3x380-400/660-690 V
+
+6U
+3x380-400/660-690 V
+
+6N
+3x200-208/346-360 V
+
+6N
+3x200-208/346-360 V
+
+6N
+3x200-208/346-360 V
+
+6T
+3x330-346/575-600 V
+
+6T
+3x330-346/575-600 V
+
+6T
+3x330-346/575-600 V
+
+10. Kabinettets materiale
+11. Pumpehjulets materiale
+12. Mekanisk forpakning + O-ring‐
+smaterialekonfiguration
+13. Ledige cifre til indstillinger
+
+10. Husmateriale
+11. Pumpehjulsmateriale
+12. Konfigurasjon me mekanisk
+tetning + o-ringmateriale
+13. Fire sifre for opsjoner
+
+10. Materiaal van de behuizing
+11. Materiaal van waaier
+12. Mechanische sluiting + O-ring
+materiaal configuratie
+13. Vrije getallen voor opties
+
+íslenskur
+
+Suomalainen
+
+Svenska
+
+1. NSC = Tegund dælu
+2. Tengivísun; F = grind, C =
+grindfest með sparrakúplingu
+3. Driftegund; tómt = stöðluð
+ósamstillt vél, H = búin Hydro‐
+var, X = aðrar driflausnir.
+4. 125–315 = Dælustærð
+5. 220 = Hlutfall vélarorku
+(kWx10)
+6. Dæluhjól; ógilt = fullt þvermál,
+A = skert þvermál, B = skert
+þvermál, X = annað
+7. Tegund vélar, P = PLM, S =
+SM, W = WEG, X = annað
+8. Fjöldi skauta; 2 = 2–skaut, 4 =
+4–skaut, 6 = 6–skaut
+9. Rafspenna og tíðni;
+
+50 Hz
+
+1. NSC = pumpputyyppi
+2. Kytkimen ilmaisin: F = kehik‐
+koon asennettu, C = kehik‐
+koon asennettu ja välikekytkin
+3. Käytön tyyppi; tyhjä = standar‐
+di asynkroninen moottori, H =
+Hydrovar, X = muut käytöt
+4. 125–315 = pumpun koko
+5. 220 = moottorin nimellisteho
+(kWx10)
+6. Juoksupyörä; tyhjä = täysi hal‐
+kaisija, A = trimmattu halkaisi‐
+ja, B = trimmattu halkaisija, X
+= muu
+7. Moottorin tyyppi, P = PLM, S =
+SM, W = WEG, X = muu
+8. Napojen määrä: 2 = 2-napai‐
+nen, 4 = 4-napainen, 6 = 6-na‐
+painen
+9. Sähköjännite ja taajuus:
+
+1. NSC = Pumptyp
+2. Kopplingsindikering; F = ram‐
+monterad, C = rammonterad
+med distanskoppling
+3. Motortyp; blank = asynkron
+standardmotor, H = utrustad
+med Hydrovar, X = andra mo‐
+torer
+4. 125–315 = Pumpstorlek
+5. 220 = Nominell motoreffekt
+(kWx10)
+6. Pumphjul; blank = hel diame‐
+ter; A = trimmad diameter, B =
+trimmad diameter, X = annan
+7. Motortyp, P = PLM, S = SM, W
+= WEG, X = annan
+8. Antal poler; 2 = 2-polig, 4 =
+4-polig, 6 = 6-polig
+9. Elektrisk spänning och frek‐
+vens;
+
+5H
+1x220-240 V
+
+50 Hz
+
+50 Hz
+
+5R
+3x220-240/380-415 V
+
+5H
+1x220-240 V
+
+5H
+1x220-240 V
+
+5V
+3x380-415/660-690 V
+
+5R
+3x220-240/380-415 V
+
+5R
+3x220-240/380-415 V
+
+5P
+3x200-208/346-360 V
+
+5V
+3x380-415/660-690 V
+
+5V
+3x380-415/660-690 V
+
+5S
+3x255-265/440-460 V
+
+5P
+3x200-208/346-360 V
+
+5P
+3x200-208/346-360 V
+
+5T
+3x290-300/500-525 V
+
+5S
+3x255-265/440-460 V
+
+5S
+3x255-265/440-460 V
+
+5W
+3x440-460/- V
+
+APPX
+
+5T
+3x290-300/500-525 V
+
+5T
+3x290-300/500-525 V
+
+60 Hz
+
+5W
+3x440-460/- V
+
+5W
+3x440-460/- V
+
+6F
+1x220-230 V
+
+6E
+1x200-210 V
+
+354

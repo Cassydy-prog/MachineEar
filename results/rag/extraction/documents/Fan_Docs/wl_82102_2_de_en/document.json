@@ -1,0 +1,24 @@
+{
+  "document_id": "2d7b35d709fe82b9cf5cab06eaf9c842b547bb18df6c23def38971891ceb5686",
+  "source_filename": "wl_82102_2_de_en.pdf",
+  "source_relative_path": "Fan_Docs/wl_82102_2_de_en.pdf",
+  "source_sha256": "f30b05279979bc7dc13dd6ffaa2e7803d78f0c7aa3573cbc9a37f2abdadbde88",
+  "document_title": "Rolling Bearing Damage: Recognition of damage and bearing inspection: Publication",
+  "machine_type_hint": "fan",
+  "source_type_hint": "bearing_reference",
+  "applicability": "generic_guidance_equipment_match_unverified",
+  "applicability_verified": false,
+  "page_count": 74,
+  "method_counts": {
+    "native": 74
+  },
+  "ocr_attempted_pages": 0,
+  "blank_pages": 0,
+  "review_pages": [
+    73
+  ],
+  "character_count": 103037,
+  "document_text_file": "documents/Fan_Docs/wl_82102_2_de_en/document.txt",
+  "searchable_pdf": null,
+  "errors": []
+}

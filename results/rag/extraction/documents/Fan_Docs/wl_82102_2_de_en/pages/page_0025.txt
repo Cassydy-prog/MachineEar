@@ -1,0 +1,70 @@
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+• Tracks with detrimental axial preload
+
+Symptoms:
+
+Locating bearing
+Floating bearing
+
+Only the locating bearing of a locat-
+ing-floating bearing arrangement may
+have distinctive tracks, as illustrated in
+fig. 35b, as they originate under axial
+load (fig. 26). At the most, a slight axial
+load share (preferably none at all) should
+be detected on the floating bearing.
+
+Causes:
+– Disturbed floating bearing function
+
+a
+
+(wrong fit, radial-acting heat expan-
+sion, tilting, fretting corrosion)
+– Unexpectedly high axial-acting heat
+
+expansion
+
+Remedial measures:
+– Check fit and form accuracy of mat-
+
+ing parts 
+– Change mounting and operating con-
+
+ditions
+– Use bearing with axial displaceability:
+
+cylindrical roller bearing N, NU, NJ
+
+b
+
+35: Locating-floating bearing arrange-
+ment with two deep groove ball 
+bearings.
+a:
+The deep groove ball bearing on the
+work end is designed as the locating
+bearing, the bearing on the drive
+end as the floating bearing.
+b: Tracks on bearings in working or-
+
+c
+
+der. The locating bearing shows the 
+characteristics of a bearing under
+combined load, the floating bearing
+those of a bearing under 
+mainly/purely radial load.
+c:
+Tracks on bearings under detrimen-
+tal axial preload (outer ring of float-
+ing bearing does not move). Each
+bearing shows the characteristics of
+a combined load. The detrimental
+axial preload is clear from the 
+symmetric tracks of both bearings.
+
+FAG
+24

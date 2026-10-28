@@ -1,0 +1,211 @@
+cs - Překlad originálu
+
+Příčina
+Řešení
+
+Příčina
+Řešení
+
+bránícího chodu čerpa‐
+dla nasucho.
+
+• hladinu kapaliny v nád‐
+rži nebo tlak v potrubí,
+• ochranné zařízení a je‐
+ho kabely.
+
+Výkon čerpadla překra‐
+čuje maximální limit
+udávaný typovým štít‐
+kem.
+
+Vyměňte pojistky.
+
+Částečně uzavřete výstup‐
+ní proud uzavíracího venti‐
+lu, dokud nebude rychlost
+dodávky rovna nebo nižší
+než limity uvedené na typo‐
+vém štítku.
+
+Byly přepáleny pojistky
+čerpadla nebo pomoc‐
+ných obvodů.
+
+Došlo k přetížení čer‐
+padla, protože čerpaná
+kapalina je příliš hustá
+a viskózní.
+
+V závislosti na typu čer‐
+pané kapaliny zkontrolujte
+nároky na výkon a podle
+toho vyměňte motor.
+
+Ložiska motoru jsou
+opotřebovaná.
+
+7.3  Elektrické čerpadlo se spustí, ale po
+uplynutí rozdílně dlouhých časových intervalů
+se spouští tepelná ochrana nebo dochází ke
+spálení pojistek
+
+Kontaktujte místního pro‐
+dejního a servisního zá‐
+stupce.
+
+Příčina
+Řešení
+
+7.6  Elektrické čerpadlo se spustí, ale je
+aktivována obecná ochrana systému
+
+Došlo k poškození na‐
+pájecího kabelu.
+
+Zkontrolujte kabel a pří‐
+padně jej vyměňte.
+
+Příčina
+Řešení
+
+Zkontrolujte součástky a
+případně je vyměňte.
+
+Zkrat v elektrickém sy‐
+stému.
+
+Zkontrolujte elektrický sy‐
+stém.
+
+Tepelná ochrana nebo
+pojistky nejsou vhodně
+dimenzované pro proud
+motoru.
+
+Došlo ke zkratu elektro‐
+motoru.
+
+Zkontrolujte součástky a
+případně je vyměňte.
+
+7.7  Elektrické čerpadlo se spustí, ale je
+aktivován proudový chránič (RCD) systému
+
+Došlo k přetížení moto‐
+ru.
+
+Příčina
+Řešení
+
+Zkontrolujte provozní pod‐
+mínky čerpadla a proveď‐
+te resetování ochrany.
+
+Zemní svodový proud
+překročil limit.
+
+Zkontrolujte izolaci prvků
+elektrického systému.
+
+7.8  Čerpadlo běží, dodává však příliš málo
+kapaliny nebo žádnou nedodává
+
+7.4  Elektrické čerpadlo se spustí, ale po
+uplynutí rozdílně dlouhých časových intervalů
+se spouští tepelná ochrana nebo dochází ke
+spálení pojistek
+
+CS
+
+Příčina
+Řešení
+
+Příčina
+Řešení
+
+• Proveďte odvzdušnění.
+
+Uvnitř čerpadla nebo
+potrubí se nachází
+vzduch.
+
+Elektrický panel chraňte
+před nadměrnými teplo‐
+tami a přímým sluneč‐
+ním světlem.
+
+Elektrický panel je umí‐
+stěn v oblasti s vysokou
+teplotou nebo je vysta‐
+ven přímému slunečnímu
+světlu.
+
+Čerpadlo není správ‐
+ně naplněno.
+
+Čerpadlo vypněte a postup
+plnění zopakujte.
+Pokud problém přetrvává:
+
+Zkontrolujte provozní
+podmínky motoru.
+
+Napětí zdroje napájení
+překračuje maximální li‐
+mit napětí pro motor.
+
+Chybí fáze proudu.
+Zkontrolujte
+
+• zdroj napájení.
+• elektrické zapojení
+
+• Zkontrolujte, zda mecha‐
+nické těsnění neprosakuje.
+• Zkontrolujte, zda je sací
+potrubí dokonale utěsně‐
+né.
+• Vyměňte veškeré netěsní‐
+cí ventily.
+
+Otevřete ventil.
+
+Regulace na výtlač‐
+né straně je příliš sil‐
+ná.
+
+7.5  Elektrické čerpadlo se spustí, ale po
+uplynutí rozdílně dlouhých časových intervalů
+se spouští tepelná ochrana
+
+Rozeberte a vyčistěte ventily.
+
+Příčina
+Řešení
+
+Došlo k zaseknutí
+ventilů v uzavřené
+nebo částečně uza‐
+vřené poloze.
+
+Kontaktujte místního pro‐
+dejního a servisního zá‐
+stupce.
+
+Čerpadlo je ucpané.
+Kontaktujte místního prodej‐
+ního a servisního zástupce.
+
+Uvnitř čerpadla se na‐
+chází cizí předměty
+(pevné nebo vláknité
+látky), které způsobily
+zablokování oběžného
+kola.
+
+Potrubí je ucpané.
+Zkontrolujte a vyčistěte potru‐
+bí.
+
+201

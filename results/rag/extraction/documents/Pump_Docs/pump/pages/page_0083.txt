@@ -1,0 +1,103 @@
+Section 4. Where To Find Help
+
+system fundamentals, performance optimization 
+opportunities, feasibility study methodology, 
+electrical metering, field performance testing, 
+adjustable speed drives in performance 
+optimization, and more.
+
+Flowserve Corporation
+222 W. Las Colinas Boulevard 
+Suite 1500
+Irving, TX 75039
+Phone: 972-443-6500
+www.flowserve.com
+
+Sulzer Centrifugal Pump Handbook, 2 nd Edition
+Author: Sulzer Pumps, Sulzer Pump Division
+Description: This handbook discusses the recent 
+progress made in pump construction, looking at 
+experiences gained by CCM-Sulzer and other 
+pump construction industry members. Areas such 
+as cavitation, erosion, selection of materials, rotor 
+vibration behavior, forces acting on pumps, 
+operating performance in various types of 
+circuitry, drives, and acceptance testing are 
+covered in detail. The handbook is directed to 
+planners and operating companies alike.
+Published: January 1992; Republished 1998
+ISBN: 1856173461
+
+Cameron Hydraulic Data, 19 th Edition
+Editor: C.C. Heald
+Description: This comprehensive text includes 
+hydraulic principles and the properties of liquids, 
+selected formulas and equivalents, friction data, 
+steam and electrical data tables, and a full-color 
+selection guide of products. This edition also 
+provides detailed information on reciprocating 
+pumps, pulsation analysis, and system piping.
+Published: December 2002
+
+Hydraulic Institute
+9 Sylvan Way
+Parsippany, NJ  07054
+Phone: 973-267-9700
+www.pumps.org
+
+Troubleshooting Centrifugal Pumps 
+and Their Systems
+Author: Ron Palgrave, Group Engineering 
+Director, David Brown Guinard Pumps, Textron, 
+Sheffield, UK
+Description: Pumps are fine until they malfunction 
+or break down. When that happens, the first 
+priority is to get the pump functioning again and to 
+keep downtime to a minimum. Many problems can 
+be diagnosed and rectified using a combination of 
+knowledge and experience, the latter coming over 
+time. This book, written by a very experienced 
+engineer, guides the reader through diagnostic 
+pathways leading to logical explanations for the 
+malfunctions and their correction.
+Published: November 2002 
+ISBN: 1856173917
+
+Energy Center of Wisconsin
+595 Science Drive
+Madison ,WI 53705
+Phone: 608-238‑4601
+Fax: 608-238‑8733
+www.ecw.org
+Published: 1998
+
+Engineering Data Book
+Author: Hydraulic Institute
+Description: This reference book for fluid flow in 
+pipelines is designed to help with problems in 
+transferring and pumping fluids. It includes 
+methods for measuring viscosity and calculating 
+various friction losses and includes the character-
+istics of different piping materials and vapor 
+pressure charts for many compounds.
+Published: 1990
+ISBN: 1880952017
+
+Performance Optimization Training Manual – 
+Fans, Pumps and Blowers
+Description: This 300-page comprehensive 
+manual offered by the Energy Center of 
+Wisconsin covers optimization techniques that 
+are applicable to fan, pump and blower systems. 
+The book reviews turbomachinery fundamentals,
+
+Pump Life Cycle Costs: A Guide to LCC Analysis 
+for Pumping Systems
+Authors: Europump and the Hydraulic Institute
+Description: This guidebook presents engineering, 
+design, specification, and analytical methodologies 
+for optimizing pump system designs and maxi-
+
+79
+
+A Sourcebook for Industry

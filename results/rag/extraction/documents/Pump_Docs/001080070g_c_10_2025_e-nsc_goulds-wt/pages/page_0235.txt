@@ -1,0 +1,174 @@
+ro - Traducerea originalului
+
+Tip pompă
+Protecție
+
+tare automată (pro‐
+tecţie motor)
+– Protecție la scurtcir‐
+
+cuit (trebuie furniza‐
+tă de instalator)39
+
+Pompă electrică trifa‐
+zatăazate40
+– Protecţie termică
+
+turbionul de admisie atunci când lichidul se află
+la nivelul minim şi pompa este instalată deasupra
+sursei de lichid.
+• Pe conducta de admisie şi cea de evacuare (în
+aval faţă de supapa de verificare) sunt monta‐
+te supape de deschidere-închidere dimensiona‐
+te corespunzător pentru reglarea capacităţii pom‐
+pei, inspectarea pompei şi întreţinere.
+• Pentru a preveni refluxul în pompă când pompa
+este oprită, este instalată o supapă de control pe
+conducta de evacuare.
+
+(trebuie furnizată de
+instalator)
+– Protecţie la scurtcir‐
+
+cuit (trebuie furniza‐
+tă de instalator)
+
+• Panoul de comandă trebuie echipat cu un sistem
+de protecţie pentru funcţionarea uscată la care
+se conectează un întrerupător de presiune, un
+întrerupător cu flotor, sonde sau alte dispozitive
+adecvate.
+• Se recomandă următoarele dispozitive pentru uti‐
+lizare pe partea de aspiraţie a pompei:
+
+AVERTISMENT:
+Nu menţineţi supapa pornit-oprit închisă
+pe partea de evacuare pentru a obtura
+pompa pentru mai mult de câteva secun‐
+de. Dacă pompa trebuie să funcţioneze
+cu partea de evacuare închisă pentru mai
+mult de câteva secunde, se va monta
+un circuit ocolitor pentru a împiedica su‐
+praîncălzirea lichidului în interiorul pom‐
+pei.
+
+– Când se pompează lichid de la un sistem de
+
+alimentare cu apă, utilizaţi un întrerupător ma‐
+nometric.
+– Când se pompează lichid de la un bazin sau
+
+Pentru imagini care afişează cerinţele privind con‐
+ductele, consultaţi Figura 13 la pagina 380 şi Figura
+14 la pagina 380.
+
+4.2  Cerinţe din domeniul electric
+
+un rezervor de stocare, utilizaţi un întrerupător
+cu flotor sau sonde.
+• Când se utilizează relee termice, se recomandă
+relee sensibile la căderea fazei.
+
+Lista de verificare a motorului
+
+AVERTISMENT:
+
+• Reglementările locale în vigoare prevalează în fa‐
+ţa acestor cerinţe specifice.
+• În cazul sistemelor de luptă împotriva incendiilor
+(hidranţi şi/sau aspersoare), verificaţi normele lo‐
+cale în vigoare.
+
+Verificarea conexiunilor electrice
+
+Verificaţi dacă sunt îndeplinite următoarele cerinţe:
+
+• Cablurile electrice sunt protejate împotriva tem‐
+peraturilor înalte, a vibraţiilor şi a coliziunilor.
+• Linia de alimentare electrică este dotată cu:
+– Un dispozitiv de protecţie împotriva scurtcir‐
+
+cuitelor
+– Un întrerupător izolator de reţea cu o toleranţă
+
+de contact de minim 3 mm
+
+• Citiţi instrucţiunile de exploatare pen‐
+tru a fi sigur că este furnizat un dis‐
+pozitiv de protecţie dacă se utilizea‐
+ză un alt tip de motor decât cel stan‐
+dard.
+• Dacă motorul este echipat cu protec‐
+ţie termică automată, ţineţi cont de
+riscul pornirilor neaşteptate în cone‐
+xiune cu suprasarcina. Nu utilizaţi
+aceste tipuri de motoare pentru apli‐
+caţii de combatere a incendiilor.
+
+RO
+
+Lista de verificare a panoului de control elec‐
+trical
+
+NOTĂ:
+
+NOTĂ:
+Panoul de control trebuie să se potrivească cu valori‐
+le nominale ale pompei electrice. Combinaţiile neco‐
+respunzătoare pot să nu garanteze protecţia motoru‐
+lui.
+
+• Utilizaţi motoarele echilibrate dinamic numai cu o
+cheie dimensionată pe jumătate în extensia axu‐
+lui (IEC 60034-14) şi cu o rată normală de vibraţie
+(N).
+• Tensiunea şi frecvenţa reţelei trebuie să cores‐
+pundă specificaţiilor de pe placa de date.
+
+Verificaţi dacă sunt îndeplinite următoarele cerinţe:
+
+În general, motoarele pot funcţiona în următoarele
+toleranţe ale tensiunii de reţea:
+
+Frecvenţă Hz
+Fază ~
+UN [V] ± %
+
+• Panoul de control trebuie să protejeze motorul
+împotriva suprasarcinii şi a scurtcircuitului.
+• Instalaţi protecţia corectă împotriva suprasarcinii
+(releu termic sau un disjunctor de motor).
+
+50
+1
+220 – 240 ± 6
+
+Tip pompă
+Protecție
+
+3
+230/400 ± 10
+
+– Protecţie amperme‐
+
+400/690 ± 10
+
+Pompă electrică stan‐
+dard monofazată ≤ 2,2
+kW
+
+trică şi termică în‐
+corporată cu rese‐
+
+60
+1
+220 – 230 ± 6
+
+39
+siguranțe aM (pornirea motorului) sau întrerupător termomagnetic cu curbă C și Icn ≥ 4,5 kA sau alt
+dispozitiv echivalent.
+40
+Releu termic de suprasarcină cu clasa de declanșare 10A + siguranțe aM (pornirea motorului) sau
+întrerupător termomagnetic de protecție a motorului cu clasa de pornire 10A.
+
+231

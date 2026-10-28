@@ -1,0 +1,65 @@
+Declarations of Conformity
+
+Montecchio Maggiore, 25/03/2025  
+
+útgáfa 00
+
+Alessio Vendraminelli  
+Framkvæmdarstjóri
+
+ESB-Samræmisyfirlýsing (nr. 01) 
+ 
+1. EMCD - Búnaður/gerð vöru: NSCC… eða NSCF… (sjá merkimiða á síðustu blaðsíðu) 
+    RoHS - Einkvæm tilgreining á EEE: NSCC… eða NSCF…  
+2. Nafn og heimilisfang framleiðanda: 
+ Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ 36075 Montecchio Maggiore VI 
+ Ítalíu 
+3. Þessi samræmisyfirlýsing er gefið út undir eigin ábyrgð framleiðanda. 
+4. Markmið yfirlýsingarinnar: rafmagnsdæla. 
+5. Markmið yfirlýsingarinnar lýst er hér að ofan er í samræmi við viðeigandi samhæfingu löggjafar EB 
+•  Tilskipun 2014/30/EB 26. febrúar 2014 (rafsegulsviðssamhæfi) og síðari breytingar.  
+•  Tilskipun 2011/65/ESB frá 8. júní 2011 og síðari breytingar, þ.m.t. tilskipun (ESB) 2015/863 (takmörkun á notkun tiltekinna 
+hættulegra efna í rafbúnaði og rafeindabúnaði). 
+6. Tilvísanir í viðkomandi samhæfðum stöðlum sem eru notaðir eða tilvísanir til annarra tækniforskrifta, í tengslum við 
+samræmisyfirlýsing miðast við: 
+• EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-4:2007 
++A1:2011, EN IEC 61000-6-4:2019. 
+•  EN IEC 63000:2018. 
+7. Tilkynningaraðili: - - - 
+8. Auka upplýsingar: 
+RoHS – Viðauki III – Umsóknir undanþegnar takmörkunum: Blý sem bindiefni í stáli, áli og koparblendi [6(a), 6(b), 6(c)].  
+Optimyze: vísa til gagna sem fylgir eftirlitstækinu [Fjarskiptabúnaður 2014/53/ESB og síðari breytingar, Takmörkun á notkun 
+tiltekinna hættulegra efna í raf- og rafeindabúnaði 2011/65/ESB og síðari breytingar, þar á meðal (ESB) 2015/863 tilskipun]. 
+Undirritað fyrir og fyrir hönd: Xylem Service Italia S.r.l.
+
+Montecchio Maggiore, 25/03/2025  
+
+útgáfa 00
+
+Alessio Vendraminelli  
+Framkvæmdarstjóri
+
+Samræmisyfirlýsingin/-yfirlýsingarnar eru ekki gildar ef þær eru notaðar aðskildar frá öðrum texta Xylem-skjalakóðans 001080070G. 
+ 
+Dæla 
+ 
+EB-Samræmisyfirlýsing (þýðing) 
+ 
+Xylem Service Italia S.r.l., með höfuðstöðvar í Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italy, lýsir því hér með yfir 
+að vara: 
+NSC… dæla (sjá merkimiða á síðustu blaðsíðu) 
+uppfyllir viðeigandi ákvæði eftirfarandi Evróputilskipana 
+•  Vélbúnaður 2006/42/EB og síðari breytingar (VIÐAUKI ll - einstaklingur eða lögaðili sem hefur heimild til að taka saman tæknileg 
+gögn: Xylem Service Italia S.r.l.), 
+•  Eco-design 2009/125/EB og síðari viðbætur, reglugerð (ESB) Nr. 547/2012 (vatnsdæla og síðari breytingar ef MEI merkt) 
+og tæknistaðla 
+•  EN 809:1998+A1:2009. 
+•  EN 16480:2021. 
+Auka upplýsingar: 
+Optimyze: ef veitt er með dælunni, vísa til gagna sem fylgir eftirlitstækinu [Fjarskiptabúnaður 2014/53/ESB og síðari breytingar, 
+Takmörkun á notkun tiltekinna hættulegra efna í raf- og rafeindabúnaði 2011/65/ESB og síðari breytingar, þar á meðal (ESB) 
+2015/863 tilskipun].
+
+430

@@ -1,0 +1,286 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+60 Hz
+
+60 Hz
+
+60 Hz
+
+6N
+3x200-208/346-360 V
+
+6V
+3x440-480/- V
+
+6V
+3x440-480/- V
+
+6T
+3x330-346/575-600 V
+
+6U
+3x380-400/660-690 V
+
+6U
+3x380-400/660-690 V
+
+6N
+3x200-208/346-360 V
+
+6N
+3x200-208/346-360 V
+
+6T
+3x330-346/575-600 V
+
+6T
+3x330-346/575-600 V
+
+10. Ümbrise materjal
+11. Tiiviku materjal
+12. Mehhaaniline tihend + O-rõn‐
+ga materjali konfiguratsioon
+13. Valikuteks vabad numbrid
+
+10. Apvalka materiāls
+11. Darbrata materiāls
+12. Mehāniskā blīvslēga + blīv‐
+gredzena materiāla konfigurā‐
+cija
+13. Cipari pēc izvēles
+
+10. Korpuso medžiaga
+11. Sparnuotės medžiaga
+12. Mechaninio sandariklio ir žie‐
+dinio sandariklio medžiagų
+deriniai
+13. Kintantys skaitmenys, nuro‐
+dantys parinktis
+
+Polski
+
+Čeština
+
+slovenský
+
+1. NSC = Typ čerpadla
+2. Popis spojky; F = montáž na
+rám, C = montáž na rám s di‐
+stanční spojkou
+3. Typ pohonu; prázdné = stan‐
+dardní asynchronní motor, H =
+vybavený regulátorem Hydro‐
+var, X = jiná hnací jednotka
+4. 125–315 = Velikost čerpadla
+5. 220 = Jmenovitý výkon moto‐
+ru (kWx10)
+6. Oběžné kolo; prázdné = plný
+průměr, A = oříznutý průměr, B
+= oříznutý průměr, X = jiné
+7. Typ motoru, P = motor PLM,
+W = motor WEG, X = jiný
+8. Počet pólů; 2 = 2pólový, 4 =
+4pólový, 6 = 6pólový
+9. Elektrické napětí a frekvence;
+
+50 Hz
+
+1. NSC = typ čerpadla
+2. Označenie spoja, F = namon‐
+tované na rám, C = namonto‐
+vané na rám s rozperou
+3. Typ pohonu; prázdne= štan‐
+dardný asynchrónny motor, H
+= vybavený Hydrovarom, X =
+ostatné pohony
+4. 125 – 315 = rozmery čerpadla
+5. 220 = menovitý výkon motora
+(kWx10)
+6. Obežné koleso; prázdne = úpl‐
+ný priemer, A = orezaný prie‐
+mer, B = orezaný priemer, X =
+ostatné
+7. Typ motora, P = PLM, S = SM,
+W = WEG, X = ostatné
+8. Počet pólov, 2 = 2-pólový, 4 =
+4-pólový, 6 = 6-pólový
+9. Elektrické napätie a frekven‐
+cia,
+
+5H
+1x220-240 V
+
+50 Hz
+
+1. NSC = typ pompy
+2. Oznaczenie sprzęgła; F =
+montowane na ramie, C =
+montowane na ramie z podk‐
+ładką sprzęgłową
+3. Typ napędu; brak = standar‐
+dowy silnik asynchroniczny, H
+= wyposażony w jednostkę
+Hydrovar, X = inne sterowniki
+4. 125–315 = wielkość pompy
+5. 220 = znamionowa moc silni‐
+ka (kWx10)
+6. Wirnik; brak = pełna średnica,
+A = zredukowana średnica, B
+= zredukowana średnica, X =
+inny
+7. Typ silnika, P = PLM, S = SM,
+W = WEG, X = inny
+8. Liczba biegunów; 2 = 2 biegu‐
+ny, 4 = 4 bieguny, 6 = 6 biegu‐
+nów
+9. Napięcie elektryczne i często‐
+tliwość
+
+5R
+3x220-240/380-415 V
+
+5H
+1x220-240 V
+
+50 Hz
+
+5V
+3x380-415/660-690 V
+
+5R
+3x220-240/380-415 V
+
+5H
+1x220-240 V
+
+5P
+3x200-208/346-360 V
+
+5V
+3x380-415/660-690 V
+
+5R
+3x220-240/380-415 V
+
+5S
+3x255-265/440-460 V
+
+5P
+3x200-208/346-360 V
+
+5V
+3x380-415/660-690 V
+
+5T
+3x290-300/500-525 V
+
+5S
+3x255-265/440-460 V
+
+5P
+3x200-208/346-360 V
+
+5W
+3x440-460/- V
+
+5T
+3x290-300/500-525 V
+
+5S
+3x255-265/440-460 V
+
+5W
+3x440-460/- V
+
+5T
+3x290-300/500-525 V
+
+60 Hz
+
+5W
+3x440-460/- V
+
+6F
+1x220-230 V
+
+60 Hz
+
+6E
+1x200-210 V
+
+6F
+1x220-230 V
+
+60 Hz
+
+6P
+3x220-230/380-400 V
+
+6E
+1x200-210 V
+
+6F
+1x220-230 V
+
+6R
+3x255-277/440-480 V
+
+6P
+3x220-230/380-400 V
+
+6E
+1x200-210 V
+
+6V
+3x440-480/- V
+
+6R
+3x255-277/440-480 V
+
+6P
+3x220-230/380-400 V
+
+6U
+3x380-400/660-690 V
+
+6V
+3x440-480/- V
+
+6R
+3x255-277/440-480 V
+
+6N
+3x200-208/346-360 V
+
+APPX
+
+6U
+3x380-400/660-690 V
+
+6V
+3x440-480/- V
+
+6T
+3x330-346/575-600 V
+
+6N
+3x200-208/346-360 V
+
+6U
+3x380-400/660-690 V
+
+6T
+3x330-346/575-600 V
+
+6N
+3x200-208/346-360 V
+
+10. Materiál skříně
+11. Materiál oběžného kola
+
+10. Materiál skrine
+
+6T
+3x330-346/575-600 V
+
+356

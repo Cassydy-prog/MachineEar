@@ -1,0 +1,98 @@
+Section 4. Where To Find Help
+
+United States Department of Energy
+Industrial Technologies Program
+1000 Independence Avenue, SW
+Washington, D.C. 20585
+www.eere.energy.gov/industry/bestpractices
+
+measured/required flow rate and head. The soft-
+ware reports potential energy and cost savings that 
+could be achieved by applying an optimized pump 
+and motor combination. (For more information, 
+see Appendix C.)  It is available for downloading 
+from the DOE ITP Web site at www.eere.energy.
+gov/industry/bestpractices.
+
+Training Courses
+
+Concepts ETI
+217 Billings Farm Road
+White River Junction, VT 05001-9486
+Phone: 802-296-2321
+www.conceptseti.com
+
+MotorMaster+
+This software package assists users in calculating 
+motor operating costs and tracking the installation 
+and service characteristics of a plant’s motor 
+inventory. MotorMaster+ also contains a database 
+of motors from which the user can select an 
+appropriate model. The software allows special 
+service requirements to be considered, such as 
+high starting torque, severe duty, two-speed drives, 
+inverter duty, and medium voltage (2300 and 4000 
+V) power supplies. MotorMaster+ allows users to 
+track motor loads, maintenance histories, and 
+energy consumption. It is available for download-
+ing from the DOE ITP BestPractices Web site, 
+www.eere.energy.gov/industry/bestpractices.
+
+Centrifugal Pump Design and Performance
+This five-day course, offered by Concepts ETI, 
+Inc., will inform students about centrifugal pump 
+design principles and practice, including 
+performance limits such as cavitation. It will help 
+students understand and assess design tools and 
+understand the process of pump design 
+optimization. Engineers will come to understand 
+the best state-of-the-art design practices and learn 
+about performance, cavitation, dynamic forces, 
+and noise. For more information, visit 
+www.conceptseti.com/education/cor_pump.htm.
+
+MotorMaster+ International
+This software includes many of the capabilities 
+and features of MotorMaster+, but it also allows 
+users to evaluate repair/replacement options on a 
+broader range of motors. The user can conduct 
+analyses in different currencies, calculate 
+efficiency benefits for utility rate schedules with 
+demand charges, edit and modify motor rewind 
+efficiency loss defaults, and determine the “best 
+available” motors. MotorMaster+ International can 
+be modified to operate in English, Spanish, and 
+French.
+
+Engineered Software Inc.
+4531 Intelco Loop SE
+Lacey, WA  98584-5941
+Phone: 360-412-0702
+www.eng-software.com
+
+FLO-SERIES Training Courses
+Engineered Software Inc. offers training courses 
+on its FLO-SERIES software (see above).
+
+Hydraulic Institute
+9 Sylvan Way
+Parsippany, NJ  07054
+Phone: 973-267-9700
+www.pumps.org
+
+Pumping System Assessment Tool (PSAT)
+The Pumping System Assessment Tool is designed 
+to help pump users quickly distinguish systems 
+that are operating effectively from those that can 
+be improved in efficiency. This software is based 
+on motor performance characteristics, obtained 
+chiefly from DOE’s MotorMaster+ database, and 
+on achievable pump efficiencies from the 
+Hydraulic Institute standard ANSI/HI 1.3, 
+Centrifugal Pump Design and Application. Users 
+provide the nameplate data (e.g., motor size and 
+rated speed), motor current or power, and
+
+87
+
+A Sourcebook for Industry

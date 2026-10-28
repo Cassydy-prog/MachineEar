@@ -1,0 +1,99 @@
+2. Common Pumping System Problems
+
+Diffuser
+Cutwater
+
+Rotation
+Impeller
+
+Flow
+
+Valve seat wear is another problem that can be 
+made worse by improper pump selection. Valve 
+seats form the seal that allows a valve to stop flow. 
+The internal surfaces of these seats are classified 
+as “soft” or “hard,” depending on the type of 
+material used. Soft-seated valves usually have 
+some sort of polymer coating on the seating 
+surface; hard-seated valves are usually charac-
+terized by metal-to-metal contact. Soft-seated 
+valves tend to seal more tightly but wear more 
+quickly than hard-seated valves.
+
+Pump Casing
+
+Vapor bubbles form, then 
+violently collapse, eroding 
+impeller surfaces.
+
+Figure 5. Cavitation in a Centrifugal Pump
+
+Valve seats experience wear problems caused by 
+erosive fluids and high-velocity flow. Oversizing 
+a pump can create high pressure drops across 
+throttle valves and high flow rates through bypass 
+valves. In both cases, the valve seats may wear 
+quickly, shortening the interval between valve 
+overhauls.
+
+pressure at a certain temperature. In centrifugal 
+pumps, the acceleration of fluid into the impeller 
+causes the fluid pressure to drop. If this pressure 
+drop is sufficient, the liquid vaporizes, forming 
+tiny bubbles that are unstable and prone to 
+violent collapse. These violent bubble collapses 
+can throw tiny, destructive water jets onto 
+impeller surfaces.
+
+Pipe Supports and Equipment Foundations. In 
+general, unless a system is poorly designed, the 
+hangers that hold piping and the foundations that 
+support system equipment should last throughout 
+the life of the system. However, high vibration 
+levels can create fatigue loads that cause struc-
+tural members to yield or crack. Pumps that are 
+substantially oversized can induce such vibrations.
+
+ Centrifugal Pump Problems
+Some of the benefits of centrifugal pumps are that 
+they are simple to operate, reliable, and long-
+lasting. In order to realize these benefits, however, 
+certain problems must be prevented, such as 
+cavitation, internal recirculation, seal or packing 
+wear, poor material selection, and improper shaft 
+loading.
+
+Crackling and popping noises that often sound 
+like marbles passing through the pump are 
+indications of cavitation. Not selecting the right 
+pump—or operating the system at either higher-
+than-design temperatures or lower-than-design 
+suction pressure—can be a cause of cavitation. 
+Cavitation usually occurs at high flow rates, 
+when a pump is operating far to the right along 
+its performance curve; however, under certain 
+conditions, cavitation damage can occur at low 
+flow rates as well.
+
+Cavitation and Internal Recirculation. Cavitation 
+is a damaging condition that erodes pump 
+impellers, shortening their operating lives and 
+accelerating the wear rate of bearings and seals in 
+the process. As illustrated in Figure 5, cavitation 
+is both a problem itself and an indication of poor 
+system performance.
+
+Cavitation occurs when the fluid’s static pressure 
+at a given flow rate falls below the fluid’s vapor
+
+Cavitation damage can also result when the pump 
+suction is starved because of the formation of air 
+pockets or fouling of pipes. The most important 
+effects of sustained cavitation are reductions in 
+pump performance and erosion of the pump 
+impeller. Cavitation degrades pump performance 
+because the vapor in the pump restricts flow and 
+lowers the generated head.
+
+20
+Improving Pumping System Performance

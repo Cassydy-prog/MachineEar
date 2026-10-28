@@ -1,0 +1,99 @@
+Section 4. Where To Find Help
+
+Engineered Software Inc.
+4531 Intelco Loop SE
+Lacey, WA  98584-5941
+Phone: 360-412-0702
+www.eng-software.com
+
+HYDROFLO 
+This software is a hydraulic system design tool 
+that substantially reduces the time involved in 
+designing systems that convey a fluid from point 
+to point. Up to nine parallels (10 pumps) can be 
+modeled with a drag-and-drop system. In a matter 
+of minutes an engineer can lay out, analyze, 
+and present a number of design alternatives for 
+gravity, pump station, and forced-flow systems. 
+HYDROFLO can launch PumpBase and transfer 
+operating point, project information, and liquid 
+property data with a single click. Detailed reports, 
+diagrams and graphs of system data are available 
+for output to screen, printer, or file.
+
+FLO-SERIES
+FLO-SERIES software consists of these four 
+programs: (1) PIPE-FLO: piping system design 
+and hydraulic system analysis containing a graphic 
+flowsheet user interface; (2) PUMP-FLO: centri-
+fugal pump selection and evaluation capable of 
+containing over 50 manufacturer’s catalog curves; 
+(3) ORI-FLO: flow meters and orifice sizing; and 
+(4) CON-FLO: control valves. These programs are 
+available individually or as a package. They share 
+and exchange data for complete system analysis 
+but are not interdependent.
+
+SYSTEK Technologies, Inc.
+Phone:  928-453-9587
+Fax:  630-214-6951
+www.systek.us
+
+PumpBase
+This program is an advanced pump specification 
+software package for Windows. Fluid-handling 
+specialists and hydraulic system designers can 
+specify up to 40 different selection criteria and 
+view graphs of the most efficient pump curves that 
+meet their needs. The software includes a database 
+of thousands of curves from dozens of manu-
+facturers as well as an extensive database of liquid 
+properties. It creates a detailed report that can be 
+submitted to pump manufacturers or sales 
+representatives for further application verification 
+and price quotes. Custom selection software for 
+specific product lines is available.
+
+Unicade, Inc.
+P.O. Box 70405
+Bellevue, WA 98015, USA
+Phone/Fax:  425-702-0700 
+www.unicade.com
+
+PUMPCALC Centrifugal Pump Analysis
+Using affinity laws, PUMPCALC analyzes the 
+performance of a centrifugal pump at different 
+impeller sizes, speeds, and stages from the pump 
+manufacturer’s data. The speed or diameter 
+required to meet a specific design condition can 
+be calculated. Performance of pumps in series and 
+in parallel can be predicted. For high-viscosity 
+liquids, the water performance curve is corrected 
+for viscosity using the Hydraulic Institute Method. 
+PUMPCALC, a Web-based program, performs the 
+viscosity correction calculations quickly and 
+accurately using built-in charts. The resulting 
+performance curves can be plotted on the screen as 
+well as on the connected printer.
+
+Tahoe Design Software
+P.O. Box 187
+Nevada City, CA 95959
+Phone: 530-470-8413
+www.tahoesoft.com/index.html
+
+C-MAX Pump Software
+The software performs energy and performance 
+calculations for various pump/compressor systems. 
+Economic analyses are also performed and energy 
+savings for different scenarios can be calculated. 
+The program allows the user to set up a pump/
+compressor system, including choices for different 
+pipe fittings, valves, and geometries. Energy and 
+performance calculations are then performed. The 
+software readily converts the results to any system 
+of units.
+
+86
+
+Improving Pumping System Performance

@@ -1,0 +1,61 @@
+4  Installation
+
+4.8  Discharge pipeline
+
+It is recommended that a non-return valve is assembled to the pumps discharge. The
+installation of a gate valve after the non-return valve is beneficial to aid in priming of the
+pump, trimming of the discharge flow and maintenance on the non return valve.
+
+4
+3
+
+2
+1
+
+1. Concentric taper pipe
+2. Check valve
+3. Gate valve
+4. Priming plug
+Discharge pipeline should be selected of a size applicable to carry the required capacity,
+such that the friction head created is not too much. When the pipeline is laid over undulating
+ground by using high points where air pockets can form, vent cocks must be put to expel the
+accumulation of air, which will affect the discharge capacity of the pump.
+
+4.9  Coupling arrangement
+
+After mounting to the foundation and the connection of the piping, the coupling must be
+adjusted again, even if the unit was delivered completely mounted on the frame.
+
+The following is intended as a guide only for the correct selection of the appropriate
+coupling .
+
+• Type of pump
+• Type of drive
+• The maximum output power/shaft power of the drive
+• Duty type: Continuous or Intermittent
+• Shaft diameter & key size of pump & drive
+• Alignment: Refer to coupling manufactures specifications.
+Contact the local sales and service representative for any requests or information.
+
+NOTICE:
+Improper alignment of the unit can lead to damages at coupling and unit.
+
+4.10  Electrical installation
+
+1. Remove the screws of the terminal box cover.
+2. Connect and fasten the power cables according to the applicable wiring diagram.
+a) Connect the ground (earth) lead.
+
+Make sure that the ground (earth) lead is longer than the phase leads.
+b) Connect the phase leads.
+3. Mount the terminal box cover.
+
+NOTICE:
+Tighten the cable glands carefully to ensure protection against cable slipping and
+humidity entering the terminal box.
+
+4. If the motor is not equipped with automatic reset thermal protection, then adjust the
+overload protection according to the list below.
+
+Series 1710 Installation, Operation, and Maintenance Manual
+19

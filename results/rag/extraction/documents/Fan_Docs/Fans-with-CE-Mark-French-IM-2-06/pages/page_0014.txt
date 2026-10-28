@@ -1,0 +1,177 @@
+Annexe A – Installation de Ventilateur Commercial (Suite)
+
+Figure 9. Installation de ventilateur de toit avec hotte typique.
+
+HOTTE À CHARNIÈRE
+
+TAILLES 12" - 42" PORTE D’ACCÈS 
+POUR INSPECTION
+
+ÉCRAN DE  SÉCURITÉ  STANDARD.
+ÉTOUFFOIR OPTIONNEL NON 
+REPRÉSENTE.
+
+enlever les deux boulons situés sous le champignon et le caler 
+avec les deux tiges de sécurité fournies. Pousser et verrouiller 
+en position. Une vis est installée au bout de chaque tige de 
+sécurité de la charnière dans l’angle de la hotte pour prévenir 
+un retrait accidentel de la hotte.  Pour fermer la hotte, replacer 
+les boulons pour verrouiller en position. Pour la taille 48, une 
+hotte boulonnée d’une pièce est connectée directement à la 
+cheminée du ventilateur. Pour soulever la hotte, enlever les 
+boulons situés sous le champignon. Pour les tailles 54–72, une 
+hotte boulonnée faite de deux pièces est connectée directement 
+à la cheminée du ventilateur. Pour soulever la hotte, enlever 
+les boulons de la feuille de métal qui est jointe aux côtés droit 
+et gauche de la hotte, puis enlever les boulons situés sous le 
+champignon. Voir Figure 9 ci-dessous.
+
+HOTTE BOULONNÉE
+
+TAILLES 48" - 60"
+
+PORTE  D’ACCÈS A L’ÉTOUFFOIR 
+ENLEVAGE
+
+ÉTOUFFOIR
+
+Annexe B - Ventilateurs Axiaux
+
+Ventilateurs axiaux – Assurer la roue sur l’arbre
+Si, pour quelque raison que ce soit, la roue doit être enlevée, 
+s’assurer qu’elle est bien attachée à l’arbre avant de redémarrer 
+le ventilateur. Si l’hélice est attachée par un manchon Trantorque, 
+utiliser la valeur de couple de serrage indiquée dans le Tableau 
+6 ci-dessous. Pour les autres manchons, voir Tableau 3 pour les 
+valeurs de couple de serrage correctes.
+
+Tableau 6. Couple de serrage pour manchons Trantorque
+
+Ajustement de l’aube sur ventilateurs hélico-centrifug­
+es Type TCVX, VJ
+La construction de cette roue brevetée maintient la pale en 
+position par friction et force centrifuge. Il n’est pas nécessaire 
+de démonter la roue pour changer l’angle des pales. S’il devient 
+nécessaire de changer l’angle des pales, la procédure suivante 
+doit être suivie:
+1. Travailler prudemment. Vérifier que les mesures de sécurité
+adéquates ont été suivies.  L’alimentation électrique doit être
+bloquée.
+
+Couple de Serrage
+
+Taille 
+Trantorque
+
+Diamètre 
+de l’arbre
+
+Ft-Lb
+N-m
+
+Taille de
+la douille 
+Trantorque
+
+7/8
+7/8
+1-1/2
+71
+96
+
+2. L’ajustement peut se faire par l’entrée d’air sur les ventila­
+teurs à entrée d’air ouverte. Sur les ventilateurs qui ont une
+entrée d’air sous forme de conduits, ouvrir la porte d’accès
+à la roue.
+
+1-1/8
+1-1/8
+1-3/4
+130
+176
+
+1-3/8
+1-3/8
+2
+141
+191
+
+1-5/8
+1-5/8
+2-1/4
+233
+316
+
+1-7/8
+1-7/8
+2-1/2
+325
+441
+
+2-1/8
+2-1/8
+2-3/4
+440
+597
+
+2-3/8
+2-3/8
+3
+470
+637
+
+2-7/8
+2-7/8
+3-1/2
+550
+746
+
+3. Placer l’appareil d’ajustement autour du périmètre de la roue
+(voir figure 10). Si nécessaire, utiliser une barre d’allonge
+autour du diamètre mesurant 11/4" (31.75mm) pour avoir plus
+de prise. Les pales peuvent être tournées à la main sur les
+ventilateurs à entrée d’air ouverte. Si plus de prise est néces­
+saire, appliquer une clé sur le bord de tête de la pale près
+du moyeu. Faites attention de ne pas abîmer la surface.
+
+Note: Ces valeurs de couple de serrage doivent être obtenues avec une 
+clé dynamométrique calibrée. NE PAS appliquer de lubrifiant sur aucune 
+des parties du couvercle TRANTORQUE.  NE PAS utiliser de filetage 
+adhésif anaérobique tels que Loctite®  sur les filetages.
+
+Ajustement de pale sur hélice de ventilateurs à angle 
+variable de type "E" 
+Méthode préférée (plus précise)
+1. Placer le moyeu sur une surface horizontale avec la surface
+concave des aubes (évacuation de l’air) vers le haut.
+
+2. Desserrer les boulons qui retiennent l’aube jusqu’à ce qu’ils
+puissent être tournés avec les doigts. Les aubes doivent
+maintenant tourner dans leurs cavités lorsqu’elles sont ferme­
+ment saisies, mais ne doivent pas tourner d’elles-mêmes.
+
+3. Placer une équerre de montage sur les deux marques de
+positionnement d’angle qui sont sur l’aube. Voir Figure 11.
+
+4. Tourner l’aube à l’angle désiré.
+
+Ventilateurs axiaux avec angles de pale ajustable
+Les pales sont ajustées en usine à l’angle donnant la perfor­
+mance spécifiée sur la commande. Cet angle doit être vérifié 
+avant la mise en service. L’angle de la pale ne doit pas être 
+changé de celui indiqué sur la commande sans s’assurer qu’un 
+changement de cet angle ne va pas surcharger le moteur, tout 
+contrôle ou autre élément. Les niveaux de vibrations doivent 
+aussi être vérifiés conformes avec ISO 14694: 2003, “Ventilateurs 
+Industriels – Spécifications pour équilibrage, qualité et niveau de 
+vibration“ si un changement d’angle de pale est opéré.
+
+5. Répéter les étapes 3 et 4 pour toutes les aubes.
+
+6. Resserrer les boulons retenant les aubes au couple de ser­
+rage indiqué sur le Tableau 7. Travailler selon un modèle
+en étoile, montant graduellement jusqu’au couple de serrage
+
+14
+
+IM-2-06

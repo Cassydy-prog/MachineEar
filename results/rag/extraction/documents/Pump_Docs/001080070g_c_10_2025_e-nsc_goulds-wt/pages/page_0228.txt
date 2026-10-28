@@ -1,0 +1,209 @@
+hu - Eredeti útmutató
+
+Ok
+Megoldás
+
+A csapágytömítések el‐
+lenőrzése
+
+Nincs tápfeszült‐
+ség
+
+Ellenőrizze, hogy a ten‐
+gelyre szerelt axiális tö‐
+mítőgyűrűk megfelelően
+ülnek-e. Csak finoman
+érintkezhetnek a tömítő‐
+peremmel.
+
+• Állítsa helyre a tápellátást.
+• Győződjön meg arról, hogy
+a tápellátáshoz kapcsoló‐
+dó valamennyi villamos
+csatlakozás ép legyen.
+
+Ellenőrzés csendes futás
+szempontjából
+
+Várjon, amíg lehűl a szivattyú.
+A termikus védelem automati‐
+kusan visszaáll.
+
+Ellenőrizze rendszeresen
+a szivattyút rezgésmérő
+eszközzel csendes futás
+szempontjából.
+
+A szivattyúba épí‐
+tett termikus véde‐
+lem (ha van) aktivá‐
+lódott.
+
+Állítsa alaphelyzetbe a hőkiol‐
+dót.
+
+A hőkioldó vagy
+a villamos kapcso‐
+lótáblán lévő mo‐
+torvédelem aktivá‐
+lódott.
+
+Ellenőrizze a következőt:
+
+6.3  A szivattyú alkatrészeinek kiszerelése és
+cseréje
+A pótalkatrészekre, valamint a szivattyú összesze‐
+relésére és szétszerelésére vonatkozó további infor‐
+mációkért forduljon a helyi értékesítési és szerviz‐
+képviselőhöz.
+
+A szárazon műkö‐
+dés elleni védőesz‐
+köz aktiválódott.
+
+7  Hibaelhárítás
+
+7.1  Hibaelhárítás felhasználók számára
+
+• a tartályban lévő folyadék‐
+szintet vagy a vízvezeték
+nyomását.
+• a védőberendezést és a vé‐
+dőberendezés kábeleit.
+
+A főkapcsoló be van kapcsolva, de az elektromos
+szivattyú nem indul be.
+
+Cserélje ki a biztosítékokat.
+
+Ok
+Megoldás
+
+A szivattyú vagy
+a segédáramkör
+biztosítékai kiolvad‐
+tak.
+
+A szivattyúba épített
+termikus védelem (ha
+van) aktiválódott.
+
+Várjon, amíg lehűl a szivat‐
+tyú. A termikus védelem au‐
+tomatikusan visszaáll.
+
+7.3  Az elektromos szivattyú beindul, de a
+termikus védelem azonnal aktiválódik vagy
+kiolvadnak a biztosítékok
+
+A szárazon működés
+elleni védőeszköz ak‐
+tiválódott.
+
+Ellenőrizze a tartályban lévő
+folyadékszintet vagy a vízve‐
+zeték nyomását.
+
+Ok
+Megoldás
+
+Az elektromos szivattyú beindul, de változó idő eltel‐
+tével a termikus védelem aktiválódik.
+
+Sérült a tápkábel.
+Ellenőrizze, szükség esetén
+pedig cserélje a kábelt.
+
+Ok
+Megoldás
+
+Ellenőrizze, szükség esetén
+pedig cserélje a az alkatré‐
+szeket.
+
+Forduljon az Értékesítési
+és Szervizszolgálathoz.
+
+HU
+
+A termikus védelem
+vagy a biztosítékok
+nem a motor áram‐
+felvételére vannak
+méretezve.
+
+A szivattyú belsejében
+a járókereket blokkoló
+idegen tárgyak (szilárd
+vagy rostos anyagok)
+vannak.
+
+A villanymotor rövid‐
+zárlatos.
+
+Ellenőrizze, szükség esetén
+pedig cserélje a az alkatré‐
+szeket.
+
+A motort túlterhelés
+éri.
+
+A szivattyú túlterhelt,
+mivel sűrűbb és viszkó‐
+zusabb folyadékot szál‐
+lít.
+
+Ellenőrizze a szivattyú műkö‐
+dési körülményeit és állítsa
+alapállapotba a védelmet.
+
+Ellenőrizze a szivattyúzott
+folyadék jellemzőin alap‐
+uló aktuális teljesítményi‐
+gényt, és forduljon az Érté‐
+kesítési és Szervizszolgá‐
+lathoz.
+
+Jár a szivattyú, de túl kevés vizet szállít, illetve nem
+szállít folyadékot.
+
+7.4  Az elektromos szivattyú beindul, de rövid
+idő elteltével a termikus védelem aktiválódik
+vagy kiolvadnak a biztosítékok
+
+Ok
+Megoldás
+
+Ok
+Megoldás
+
+A szivattyú eltö‐
+mődött.
+
+Forduljon az Értékesítési és
+Szervizszolgálathoz.
+
+Védje a kapcsolótáblát a
+hőforrásoktól és a közvet‐
+len napsugárzástól.
+
+Az elektromos kapcso‐
+lótábla túl meleg he‐
+lyen van, vagy közvet‐
+len napsugárzás éri.
+
+Az alábbi táblázatban található hibaelhárítási utasí‐
+tások csak a telepítést végző szakembereknek szól‐
+nak.
+
+Ellenőrizze a motor műkö‐
+dési feltételeit.
+
+A tápfeszültség nem
+esik a motor működési
+tartományába.
+
+7.2  A főkapcsoló be van kapcsolva, de az
+elektromos szivattyú nem indul be
+
+224

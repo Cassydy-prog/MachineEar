@@ -1,0 +1,100 @@
+Section 4. Where To Find Help
+
+formula with Bernoulli’s theorem for liquids and 
+the differential form of Bernoulli’s theorem with 
+numerical integration techniques for gases.
+
+Animated Software Company
+625 East Bunker Court
+Vernon Hills, IL  60061
+Phone: 800-323-4340
+www.animatedsoftware.com
+
+and motor-driven systems and (2) encourage 
+movement from a “component-focused” to a 
+“systems-oriented” market. Sections of the report 
+include the following discussions of Process 
+Pump Systems:  “Equipment and Market 
+Overview,” “Energy Savings Potential–
+Equipment,” “Efficiency Data, Standards, and 
+Potential Leverage Points,” “Specifying Practices 
+and Behavior,” “System-Level Energy Savings 
+Potential,” and “Strategy Options.”
+
+All About Pumps
+This interactive Flash program, intended to teach 
+all of the essentials about pumps, includes sections 
+titled “Where Pumps are Used,” “How Pumps 
+Work,” “Types of Pumps,” “Measuring Pump 
+Performance,” “The Right Pump for the Job,” 
+“Historical Background & Some Famous Pumps,” 
+and “The Most Amazing Pump of All.”  Also 
+included is a glossary of individual pumps.
+
+Applied Flow Technology
+400 W. Highway 24, Suite 201
+Woodland Park, CO 80863
+Phone: 800-589-4943
+www.aft.com
+
+United States Industrial Motor Systems Market 
+Opportunities Assessment
+This study, published in December 1998, is based 
+on surveys of motor systems in a probability-
+based sampling of 265 industrial facilities in the 
+United States. It profiles the stock of motor-driven 
+equipment in U.S. industrial facilities and 
+characterizes the opportunities to improve the 
+energy efficiency of industrial motor systems. 
+Designed for manufacturers, distributors, 
+engineers, and others in the supply channels for 
+motor systems, it also provides a profile of current 
+motor system purchase and maintenance practices. 
+It provides a detailed, highly differentiated 
+portrait of end-use markets. The study presents 
+information factory managers can use to identify 
+motor system energy savings opportunities in 
+their facilities and to benchmark their current 
+motor system purchase and management 
+procedures against best practices concepts.
+
+Software
+
+AFT Arrow 
+AFT Arrow provides comprehensive, compressible 
+pipe flow analysis and system modeling 
+capabilities. Addressing open- and closed-loop 
+systems, Arrow includes a built-in library of fluids 
+and fittings, variable model configurations, fan/
+compressor and control valve modeling, and more. 
+With the optional Chempak add-in, a thermo-
+physical database of approximately 600 gases is 
+available, allowing thermal analysis capabilities 
+including piping heat transfer, heat exchanger 
+modeling, and varying fluid properties.
+
+ABZ, Incorporated
+4451 Brookfield Corporate Drive, Suite 101
+Chantilly, VA 20151
+Phone: 800-747-7401
+www.abzinc.com
+
+AFT Fathom 
+AFT Fathom provides comprehensive, incom-
+pressible pipe flow analysis and system modeling 
+capabilities. Addressing open- and closed-loop 
+systems, Fathom includes a built-in library of 
+fluids and fittings, variable model configurations, 
+pump and control valve modeling and more. With
+
+Design Flow Solutions
+Complete hydraulic analysis of complex piping 
+systems, including up to 9,000 branches and 
+1,000 tees. Network branches can consist of any 
+combination of pipes, fittings, and valves, with 
+virtually no limit on the number or type of com-
+ponents. The program uses the Darcy-Weisbach
+
+84
+
+Improving Pumping System Performance

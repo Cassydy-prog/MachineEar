@@ -1,0 +1,62 @@
+4  Installation
+
+8. Use concrete to set the foundation bolts into the foundation.
+9. Wait until the concrete has set firmly, and then level the baseplate.
+10.Tighten the foundation bolts evenly and firmly.
+
+Note:
+
+• For baseplates, it is recommended to grout the baseplate with low-shrinkage concrete.
+• If the transmission of vibrations can be disturbing, provide vibration-damping supports
+between the pump and the foundation.
+
+Mount the pump to a base frame
+
+Be sure to check that the following are adhered to:
+
+• Solid base frame which does not twist or vibrate during operation (resonance).
+• Mounting surfaces of the pump feet and the motor on the base frame must be flat
+(machining is recommended).
+• Safe fastening of pump and motor must be guaranteed.
+• Adequate space between pump and motor shaft must be left depending on the used
+coupling.
+• Between pump and base frame must be an adequate shimming, so that in case of
+replacement the same height between bottom and centerline can be adjusted
+(recommended vertical adjustment 4-6 mm).
+
+4.6  Piping checklist
+
+Check that the following are adhered to:
+
+• The suction lift line has been laid with a rising slope, at positive suction head line with a
+downward slope towards the pump.
+• The nominal diameters of the pipelines are at least equal to the nominal diameters of the
+pump ports.
+• The pipelines have been anchored in close proximity to the pump and connected without
+transmitting any stresses or strains.
+
+CAUTION:
+Welding beads, scale and other impurities in the piping damage the pump.
+
+• Free the piping from any impurities.
+• If necessary, install a filter.
+
+4.7  Suction pipeline
+
+Suction pipeline must have no air leaks. Suction piping should be the same size or larger
+than that of the pump suction flange. Tapered eccentric reducer should be used when by
+using larger diameter pipe work. see figure
+
+1
+2
+
+1. Eccentric taper pipe
+2. Straight pipe
+The pump should be assembled by using a straight pipe of length not less than three times
+the pipe diameter. Identify that the end of the suction line is sufficiently below the lowest
+level of the liquid to prevent the formation of vortex, and the consequent entry of air into the
+suction pipe. Where there is suction lift, it is essential that a reputable foot valve by using a
+water opening of at least to that of the pipe, is used.
+
+18
+Series 1710 Installation, Operation, and Maintenance Manual

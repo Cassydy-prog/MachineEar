@@ -1,0 +1,189 @@
+en - Original instructions
+
+Maximum number of starts per hour
+
+differential switch (30 mA) [residual
+current device RCD].
+
+18.5
+
+4.1  Facility requirements
+
+kW
+0.25
+-
+3.00
+
+4.00
+-
+7.50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+4.1.1  Pump location
+
+60
+40
+30
+24
+16
+8
+4
+
+Starts
+per
+hour
+
+DANGER:
+Do not use this unit in environments
+that may contain flammable/explosive or
+chemically aggressive gases or powders.
+
+Noise level
+
+EN
+
+Guidelines
+
+Observe the following guidelines regarding the loca‐
+tion of the product:
+
+For the sound pressure levels of pump equipped
+with standard supplied motor, see Table 9 on page
+368.
+For sound pressure levels of pump without motor,
+see Table 10 on page 372.
+
+4  Installation
+
+Precautions
+
+WARNING:
+
+• Make sure that no obstructions hinder the normal
+flow of the cooling air that is delivered by the
+motor fan.
+• Make sure that the installation area is protected
+from any fluid leaks, or flooding.
+• If possible, place the pump slightly higher than
+the floor level.
+• The ambient temperature must be between 0°C
+(+32°F) and +40°C (+104°F).
+• The relative humidity of the ambient air must be
+less than 50% at +40°C (+104°F).
+• Contact the Sales and Service Department if:
+– The relative air humidity conditions exceed
+
+the guidelines.
+– The room temperature exceeds +40°C
+
+(+104°F).
+– The unit is located more than 1000 m
+
+• Observe accident prevention regula‐
+tions in force.
+• Use suitable equipment and protec‐
+tion.
+• Always refer to the local and/or na‐
+tional regulations, legislation, and co‐
+des in force regarding the selection
+of the installation site, plumbing, and
+power connections.
+
+Electrical Hazard:
+
+(3000 ft) above the sea level. The motor
+performance may need to be de-rated or re‐
+placed with a more powerful motor.
+For information about which value to de-rate the mo‐
+tor with, see Table 11 on page 379.
+
+Pump positions and clearance
+
+• Make sure that all connections are
+performed by qualified installation
+technicians and in compliance with
+the regulations in force.
+• Before starting work on the unit,
+make sure that the unit and the con‐
+trol panel are isolated from the power
+supply and cannot be energized. This
+applies to the control circuit as well.
+
+• To ensure suitable ventilation: ≥ 100 mm (4 in)
+• To permit inspection and removal of the motor: ≥
+300 mm (12 in)
+• If the space available is any less, refer to the
+technical catalogue.
+
+Grounding (earthing)
+
+Installation above liquid source (suction lift)
+
+Electrical Hazard:
+
+The theoretical maximum suction height of any
+pump is 10.33m. In practice, the following affect the
+suction capacity of the pump:
+
+• Temperature of the liquid
+• Elevation above the sea level (in an open system)
+• System pressure (in a closed system)
+• Resistance of the pipes
+• Own intrinsic flow resistance of the pump
+• Height differences
+The following equation is used to calculate the max‐
+imum height above the liquid level which the pump
+can be installed:
+(pb*10.2 - Z) ≥ NPSH + Hf + Hv + 0.5
+
+pb
+Barometric pressure in bar (in closed system
+is system pressure)
+
+NPSH
+Value in meter of the pump intrinsic flow
+resistance
+
+• Always connect the external protec‐
+tion conductor to ground (earth) ter‐
+minal before making other electrical
+connections.
+• You must ground (earth) all electrical
+equipment. This applies to the pump
+equipment, the driver, and any mon‐
+itoring equipment. Test the ground
+(earth) lead to verify that it is con‐
+nected correctly.
+• If the motor cable is jerked loose by
+mistake, the ground (earth) conduc‐
+tor should be the last conductor to
+come loose from its terminal. Make
+sure that the ground (earth) conduc‐
+tor is longer than the phase conduc‐
+tors. This applies to both ends of the
+motor cable.
+• Add additional protection against le‐
+thal shock. Install a high-sensitivity
+
+Hf
+Total losses in meters caused by passage of
+liquid in the suction pipe of the pump
+
+17

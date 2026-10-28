@@ -1,0 +1,160 @@
+is - Þýðing á upprunalegu
+
+Uppsetningar þar sem vökvayfirborð er ofan
+við dæluna (inntaksþrýstingur)
+
+Herðið þéttihring fyrir kapla vandlega til að hindra
+að kapallinn renni og að raki komist inn í tengik‐
+assann.
+
+Teikning sem sýnir hvar tapparnir á dælunni eru
+staðsettir, sjá Mynd 23 á blaðsíðu 394.
+
+4. Ef vélin er ekki búin sjálfvirkri endurstillingu hitaá‐
+lagsvarnar, skal stilla yfirálagsvörn í samræmi við
+skrána hér fyrir neðan.
+
+1. Lokið aðrennslisloka sem er staðsettur niður‐
+streymis frá dælunni.
+
+– Ef vélin er notuð á fullu álagi, skal setja gild‐
+
+ið á nafnstraum rafmagnsdælunnar (á upplýs‐
+ingaplötu)
+– Ef vélin er notuð á hlutaálagi, skal setja gildið
+
+2. Fjarlægið áfyllingar(3) eða mælitappann (1) og
+opnið on-off lokann sem er uppstreymis frá dæl‐
+unni þar til vatn byrjar að renna út um opið.
+
+a) Lokið áfyllingar- (3) eða mælitappanum (1).
+
+á rekstrarstraum (t.d. mælt með straummæli)
+– Ef dælan er með störnu-þríhyrnings ræsingu,
+
+Uppsetningar þar sem vökvastig er fyrir
+neðan dælu (soghækkun)
+
+skal stilla hitaliðann á 58% af nafnstraumi eða
+rekstrarstraumi (aðeins fyrir þriggja fasa vél‐
+ar).
+
+Teikning sem sýnir hvar tapparnir á dælunni eru
+staðsettir, sjá Mynd 24 á blaðsíðu 395.
+
+5  Útfærsla, ræsing, rekstur og stöðvun
+
+1. Öll pípukerfi tæmd:
+
+Varúðarráðstafanir
+
+a) Opnið aðrennslisloka sem er staðsettur upp‐
+
+streymis frá dælunni.
+b) Fjarlægið áfyllingartappana (3) og mælitapp‐
+
+AÐVÖRUN:
+Líkamlegar og hitatengdar hættur
+
+ana (1). Notið trekt til að fylla dæluna í gegn‐
+um opið þar til vatnið flæðir út úr þessu opi.
+c) Herðið áfyllingartappana (3) og mælitappann
+
+• Persónuhlífar skulu alltaf vera notað‐
+ar.
+• Athugið hvort tengivörnin sé uppsett.
+
+(1).
+
+2. Pípukerfi fullt af vökva:
+
+AÐVÖRUN:
+
+a) Opnið aðrennslisloka sem er staðsettur upp‐
+
+IS
+
+streymis frá dælunni og opnið aðrennslisloka
+niðurstreymis frá dælunni.
+b) Fjarlægið mælitappann (1) þar til vatnið flæðir
+
+• Tryggið að aftöppunarvökvi valdi
+hvorki skemmdum né líkamstjóni.
+• Vélarvörnin getur valdið því að vélin
+fari óvænt í gang. Það gæti valdið al‐
+varlegu líkamstjóni.
+
+út úr opinu.
+c) Herðið mælitappann (1) og .
+
+VARÚÐ:
+
+5.2  Kannaðu snúningsstefnu snúðs (þriggja
+fasa vél)
+Fylgdu þessu ferli fyrir gangsetningu.
+
+• Yfirborð dælu og vélar getur hitnað
+yfir 40 °C (104 °F) við notkun.
+• Látið ekki eldfimt efni nálægt dæl‐
+unni.
+
+1. Notið örvarnar á millistykki eða á vélarviftuhlíf til
+að ákvarða rétta snúningsstefnu.
+
+2. Ræsið vélina.
+
+ATHUGA:
+
+3. Kannaðu í fljótu bragði snúningsáttina með tilliti
+til tengjahlífarinnar eða viftuhlíf hreyfilsins.
+
+4. Stöðvið vélina.
+
+5. Ef snúningsáttin er röng, skal gera sem hér segir:
+
+a) Taktu búnað úr sambandi við rafmagn.
+b) Í tengjabretti hreyfilsins eða í stjórnborðinu
+
+skaltu víxla stöðunni á tveim til þrem vírum í
+rafmagnssnúrunni.
+
+Varðandi raftengimynd, sjá Mynd 21 á blað‐
+síðu 392.
+c) Kannaðu snúningsáttina aftur.
+
+5.3  Ræsa dæluna
+
+• Aldrei skal starfrækja dæluna undir lágmarksaf‐
+köstum hennar, né þurra né án þess að hún sé
+præmuð.
+• Dælan má aldrei vera í gangi með ON-OFF ein‐
+stefnulokann lokaðan lengur en nokkrar sekúnd‐
+ur.
+• Aldrei skal láta dæluna ganga með soglokann
+(ON-OFF) lokaðan.
+• Ekki skal láta dælu vera í frosti, ef hún er ekki
+í gangi. Tæmið allan vökva úr dælunni. Ef það
+er ekki gert, getur vökvinn frosið og skemmt dæl‐
+una.
+• Samanlagður þrýstingur á soghlið (aðallögn,
+vatnsgeymi) og hámarks dæluþrýstingur má ekki
+fara yfir leyfðan hámarks vinnuþrýsting (nafnþ‐
+rýsting PN) dælunnar.
+• Notið ekki dæluna ef straumtæring kemur upp.
+Straumtæring getur skemmt innri íhluti.
+
+ATHUGA:
+Eftir gangsetningu og þegar rekstrarhiti hefur náðst,
+skal athuga stillingu tengils samstæðunnar, sjá
+Skoðun og stilling tengibúnaðar á blaðsíðu 139.
+
+5.1  Fylla dæluna
+Varðandi upplýsingar um auka dælutengingar, sjá
+Mynd 22 á blaðsíðu 392.
+
+Ábyrgð á því að tryggja rétt flæði og hitastig dæl‐
+uvökvans hvílir á uppsetningaraðila eða eiganda bú‐
+naðarins.
+Áður en dælan er ræst, skal tryggja að:
+
+140

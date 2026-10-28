@@ -1,0 +1,47 @@
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+3.3.4.3 Slippage tracks
+Symptoms:
+
+Rolling element sliding, particularly
+in the case of large and heavy rollers e.g.
+in cageless bearings. Roughening of the
+raceways or rolling elements. Material
+often rolled up and with smear marks.
+Usually not evenly distributed on the
+surface but in spots, figs. 74 and 75. 
+Found frequently in connection with
+micro pittings, see "Fatigue as a result of
+poor lubrication" in section 3.3.2.1.
+
+Causes:
+- The rolling elements slide on the
+
+74: Slippage tracks on cylindrical rollers
+
+raceways when load is low and lubri-
+cation is poor. Also due sometimes to
+load zones which are too short, where
+the rolling elements brake in the un-
+loaded zone in the cage pockets and
+subsequently accelerate again when
+entering the load zone.
+- Fast changes in speed.
+
+Remedial measures:
+- Use bearings with lower load carrying
+
+capacity
+- Preload bearings, e.g. with springs
+- Reduce bearing clearance
+- Ensure sufficient load during the trial
+
+run also
+- Improve lubrication
+
+75: Slippage damage on the inner ring of a cylindrical roller bearing
+
+45
+FAG

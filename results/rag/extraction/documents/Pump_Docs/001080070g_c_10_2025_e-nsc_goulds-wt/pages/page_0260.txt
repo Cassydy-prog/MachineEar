@@ -1,0 +1,175 @@
+sl - Prevod izvirnih navodil
+
+Frekvenca Hz
+Faza ~
+UN [V] ± %
+
+3
+230/400 ± 10
+
+• Nadzorna plošča mora motor ščititi pred preobre‐
+menitvijo in kratkimi stiki.
+• Namestite ustrezno zaščito pred preobremenitvi‐
+jo (toplotni rele ali zaščita motorja).
+
+400/690 ± 10
+
+Vrsta črpalke
+Zaščita
+
+60
+1
+220 – 230 ± 6
+
+– Vgrajeno samo‐
+
+3
+220/380 ± 5
+
+380/660 ± 10
+
+Enofazna standardna
+električna črpalka ≤ 2,2
+kW
+
+dejno ponastavlji‐
+vo toplotno-ampero‐
+metrično varovalo
+(zaščita za motor)
+– Zaščita kratkega
+
+Uporabite kabel v skladu s pravili s 3 poli (2+ozemlji‐
+tev) za enofazne različice in s 4 poli (3+ozemljitev)
+za trifazno različico.
+
+4.3  Namestitev črpalke
+
+stika (mora biti
+zagotovljena z na‐
+mestitvenim progra‐
+mom)43
+
+4.3.1  Mehanska namestitev
+
+Trifazna električna čr‐
+palka44
+– Toplotna zaščita
+
+Območje namestitve
+
+(zagotoviti jo mora
+inštalater)
+– Zaščita pred krat‐
+
+Enoto namestite na betonsko ali kovinsko podlago,
+ki je dovolj močna, da zagotavlja trajno in trdno
+oporo. Upoštevajte zahteve v Namestitev črpalke na
+strani 254.
+
+kim stikom (zagoto‐
+viti jo mora inštala‐
+ter)
+
+Namestitev na betonske temelje
+
+Temeljne zahteve
+
+• Nadzorna plošča mora biti opremljena z zaščit‐
+nim sistemom za delovanje brez medija, na kate‐
+rega je priključeno tlačno stikalo, plavajoče stika‐
+lo, sonde ali druge ustrezne naprave.
+• Na črpalni strani črpalke je priporočena uporaba
+naslednjih naprav:
+
+– Pri črpanju tekočine iz vodnega sistema upo‐
+
+rabite tlačno stikalo.
+– Pri črpanju tekočine iz zbiralnika ali rezervoa‐
+
+rja uporabite plovno stikalo ali sonde.
+• Pri uporabi toplotnih relejev je priporočena upora‐
+ba relejev, ki so občutljivi na fazno okvaro.
+
+Kontrolni seznam za motor
+
+• Beton mora imeti kompresijsko upornost C12/15
+in izpolnjevati zahteve razreda izpostavljenosti
+XC1 v skladu z EN 206-1
+• Velikosti morajo ustrezati velikosti podporne plo‐
+šče enote
+• Temelj mora biti ≥ 1,5-kratnik teže enote (≥ 5-krat‐
+nik teže enote, če je potrebno tišje delovanje)
+• Površina mora biti čim bolj ravna in ravna.
+• Pobočje mora biti ≤ 1 mm/m.
+Dodatna navodila najdete v dokumentu št.
+001080247X: za prenos skenirajte kodo QR, ki jo naj‐
+dete v Slika 17 na strani 384.
+
+OPOZORILO:
+
+Pritrditev črpalke
+
+Za primere vodoravne in navpične namestitve si
+oglejte Slika 15 na strani 383.
+
+1. Glejte tehnični katalog za:
+– Premer in število temeljnih lukenj
+– Razdalje lukenj
+– Izračun velikosti in količine kravatnih palic s
+
+SL
+
+• Preberite si navodila za uporabo in se
+prepričajte, da je na voljo zaščitna na‐
+prava, če je uporabljen nestandardni
+motor.
+• Če je motor opremljen z avtomatski‐
+mi toplotnimi varovali, upoštevajte ne‐
+varnost nepričakovanih zagonov pri
+preobremenitvi. Takih motorjev ne
+uporabljajte za gašenje požarov.
+
+OPOMBA:
+
+• Uporabljajte samo dinamično uravnotežene mo‐
+torje s ključem polovične velikosti v koncu gredi
+(IEC 60034-14) in običajno stopnjo vibracij (N).
+• Preverite, ali omrežna napetost in frekvenca us‐
+trezata specifikacijam na tipski ploščici črpalke.
+
+Na splošno lahko motorji delujejo pod naslednjimi
+tolerancami omrežne napetosti:
+
+Frekvenca Hz
+Faza ~
+UN [V] ± %
+
+50
+1
+220 – 240 ± 6
+
+kemičnimi sidri, odvisno od modela enote.
+2. Izvrtajte temelje in pritrdite kravato.
+3. Enoto namestite na temelj in uporabite nivo žga‐
+nja na odvodni odprtini in gredi, da se prepričate,
+da je ravna.
+Največja dovoljena toleranca: 0,2 mm/m
+4. Če so prisotni, odstranite čepe, ki pokrivajo sesal‐
+ne in izpustne odprtine.
+5. Poravnajte sesalne in izpustne odprtine z njihovi‐
+mi cevmi.
+6. Pritrdite cevni sistem na enoto; glejte tudi Kon‐
+trolni seznam sistema cevi na strani 257.
+7. Po potrebi vstavite izravnalne podložne lističe
+med temelj in osnovo: če je razdalja med kravato
+> 800 mm, vstavite dva dodatna podložna lističa
+na sredino podnožja. Vsi podložni lističi morajo
+
+43
+zvaruje aM (zagon motorja) ali magnetotermalno stikalo s krivuljo C in Icn ≥ 4,5 kA ali drugo enakovred‐
+no napravo.
+44
+termični rele s potisnim razredom 10A + združuje aM (zagon motorja) ali magnetno-termalno stikalo za
+zaščito motorja z začetnim razredom 10A.
+
+256

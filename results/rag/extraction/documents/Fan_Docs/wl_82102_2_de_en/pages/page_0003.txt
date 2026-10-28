@@ -1,0 +1,36 @@
+Preface
+
+Rolling bearings are machine elements found in a wide field
+of applications. They are reliable even under the toughest con-
+ditions and  premature failure is very rare.
+
+The first sign of rolling bearing damage is primarily un-
+usual operating behaviour of the bearings. The examination of
+damaged bearings reveals a wide and varied range of phenome-
+na. Inspection of the bearings alone is normally not enough to
+pinpoint the cause of damage, but rather the inspection of the
+mating parts, lubrication, and sealing as well as the operating
+and environmental conditions. A set procedure for examina-
+tion facilitates the determination of the cause of failure.
+
+This brochure is essentially a workshop manual. It provides
+a survey of typical bearing damage, its cause and remedial
+measures. Along with the examples of damage patterns the
+possibility of recognising the bearing damage at an early stage
+are also presented at the start.
+
+Bearings which are not classified as damaged are also in-
+spected within the scope of preventive maintenance which 
+is frequently carried out. This brochure therefore contains 
+examples of bearings with the running features common to the
+life in question.
+
+Cover page: What may at first appear to be a photo of sand
+dunes taken at a high altitude is in fact the wave-shaped defor-
+mation-wear-profile of a cylindrical roller thrust bearing. 
+There is less than just 1 micron from peak to valley. At a slow
+speed mixed friction occurs in the areas stressed by sliding
+contact. Rippling results from the stick-slip effects.
+
+FAG
+2

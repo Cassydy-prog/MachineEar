@@ -1,0 +1,124 @@
+Packing
+
+NOTE: A bearing frame which feels hot to the touch of
+the hand is not necessarily running hot. Check
+with an accurate temperature measuring device
+to be sure.
+
+Stuffing box
+
+All pumps are packed before shipment, unless 
+otherwise requested. All packings used are the 
+highest grade material. Before pump is put into 
+operation, check the condition of the packing. If 
+pump is installed within 60 days after shipment, the 
+packing will be in good condition with a sufficient 
+supply of lubrication. If pump is stored for a longer 
+period, it may be necessary to repack the stuffing box. 
+In all cases, however, we recommend an inspection of 
+the packing before pump is started.
+
+The standard stuffing box consists of rings of packing,
+(See assembly section for number of rings) a seal cage,
+and a gland. A shaft sleeve which extends through the
+box and under the gland is normally provided to 
+protect the shaft.
+
+Fiber packing
+
+A tapped hole is supplied in the stuffing box directly 
+over the seal cage to introduce a clean, clear sealing
+medium. The stuffing box must at all times be supplied
+with sealing liquid at a high enough pressure to keep 
+the box free from foreign matter, which would quickly 
+destroy the packing and score the shaft sleeve.
+
+The standard packing is a soft, square asbestos, 
+impregnated with oil and graphite. A soft well-
+lubricated packing reduces stuffing box resistance, 
+and prevents excessive wear on the shaft or shaft 
+sleeve. Many brands of packing on the market have 
+the desired qualities. For specific recommendations, 
+consult the factory.
+
+Water lubrication
+
+Only a sufficient volume of sealing liquid to create a
+definite direction of flow from the stuffing box inward 
+to the pump casing is required, but the pressure is 
+important. Apply seal water at a rate of 0.5 - 1.0 GPM, 
+at  5 - 10 PSI above stuff box operating pressure.
+
+We recommend that piping supplying sealing liquid to
+stuffing box be sized to supply a sufficient volume of 
+water at the required pressure, based on the location 
+of the pump (or pumps) with respect to the liquid 
+source. A small pipe can be utilized for the connection 
+to the stuffing box. A valve should be installed to 
+adjust and regulate sealing liquid and a gauge 
+installed to check pressure to the box.
+
+When a pump with fiber packing is first started, it is
+advisable to have the packing slightly loose without 
+causing an air leak. As pump runs in, gradually tighten 
+the gland bolts evenly. The gland should never be 
+drawn to the point where packing is compressed 
+too tightly, and no leakage occurs. This will cause 
+the packing to burn, score the shaft or shaft sleeve, 
+and prevent liquid from circulating through the 
+stuffing box, cooling the packing. The stuffing box is 
+improperly packed or adjusted if friction in the box
+prevents turning the rotating element by hand. A 
+properly operated packed stuffing box should run 
+lukewarm with a slow drip of sealing liquid. After the 
+pump has been in operation for some time and the 
+packing has been completely run-in, drippage from 
+the stuffing box should be at least 40 to 60 drops per 
+minute. This will indicate proper packing and shaft 
+sleeve lubrication and cooling.
+
+NOTE: Eccentric operation of the shaft, or sleeve, 
+through the packing could result in excess leakage 
+that cannot be compensated for. Correction of this
+defect is very important.
+
+External sealing liquid should be adjusted to the point
+where the packing runs only slightly warm, with a very 
+slow drip from the stuffing box. Excess pressure from 
+an external source can be very destructive to packing. 
+More pressure is required, however, for abrasive 
+slurries than for clear liquids. Examination of the 
+leakage will indicate whether to increase or decrease 
+external pressure. If slurry is present in the leakage, 
+increase the pressure until only clear liquid drips from 
+the box. If the drippage is corrosive or harmful to 
+personnel, it should be collected and piped away.
+
+A common error is to open the external piping valve
+wide and then control the drippage by tightening the
+packing gland. Actually, a combination of both 
+adjustments is essential to arrive at the optimum 
+condition. The life of packing and sleeve depends on 
+this careful control more than any other factor.
+
+Grease lubrication
+
+Packing should be checked frequently and replaced 
+as service indicates. Six months might be a reasonable
+expected life, depending on operating conditions. It is
+impossible to give any exact predictions. A packing 
+tool may be used to remove all old packing from the 
+stuffing box. Never reuse old and lifeless packing 
+or merely add some new rings. Make sure that 
+the stuffing box is thoroughly cleaned before new 
+packing is installed. Also check the condition of the 
+shaft or sleeve for possible scoring or eccentricity, 
+making replacements where necessary.
+
+Pump stuffing boxes are also suitable for grease 
+lubrication. Several types of grease lubricators are 
+available. When using a grease lubricator, grease 
+pressure to the stuffing box should be equal to the 
+pump discharge pressure.
+
+30

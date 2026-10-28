@@ -1,0 +1,65 @@
+Declarations of Conformity
+
+Montecchio Maggiore, 25/03/2025  
+
+Rev.  00
+
+Alessio Vendraminelli  
+Rīkotājdirektors
+
+ES atbilstības deklarācija (Nr. 01) 
+ 
+1. EMCD - Aparāta/izstrādājuma modelis: NSCC… vai NSCF… (skatiet etiķeti pēdējā lappusē) 
+    RoHS - Unikāls EEI identifikācijas numurs: NSCC… vai NSCF…  
+2. Ražotāja nosaukums un adrese: 
+ Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ 36075 Montecchio Maggiore VI 
+ Italy 
+3. Par šīs atbilstības deklarācijas izdošanu ir atbildīgs tikai ražotājs. 
+4. Deklarācijas priekšmets: elektriskais sūknis. 
+5. Iepriekš aprakstītās deklarācijas priekšmets atbilst attiecīgajiem Eiropas Savienības tiesību aktiem par saskaņošanu 
+•  2014. gada 26. februāra Direktīva 2014/30/ES un sekojošie grozījumi (elektromagnētiskā savietojamība).  
+•  2011. gada 8. jūnija Direktīva 2011/65/ES un sekojošie grozījumi, tostarp Direktīva 2015/863/ES (dažu bīstamu vielu 
+izmantošanas ierobežojums elektriskās un elektroniskās iekārtās). 
+6. Atsauces uz attiecīgajiem izmantotajiem saskaņošanas standartiem vai atsauces uz citām tehniskām specifikācijām, ar kurām 
+tiek apliecināta atbilstība: 
+•  EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-4:2007 
++A1:2011, EN IEC 61000-6-4:2019. 
+•  EN IEC 63000:2018. 
+7. Informētā iestāde: - - - 
+8. Papildinformācija: 
+(RoHS) - III pielikums - atbrīvojums no ierobežojumiem svina izmantošanai par leģētājelementu tērauda, alumīnija, vara 
+sakausējumos [6(a), 6(b), 6(c)].  
+Optimyze: skatiet dokumentāciju, kas piegādāta kopā ar pārraudzības ierīci [Direktīva 2014/53/ES par radioiekārtām un sekojošie 
+grozījumi, Direktīva 2011/65/ES par dažu bīstamu vielu izmantošanas ierobežošanu elektriskās un elektroniskās iekārtās un 
+sekojošie grozījumi, tostarp Direktīva 2015/863/ES]. 
+Parakstīts šāda uzņēmuma vārdā: Xylem Service Italia S.r.l.
+
+Montecchio Maggiore, 25/03/2025  
+
+Rev.  00
+
+Alessio Vendraminelli  
+Rīkotājdirektors
+
+Atbilstības deklarācija(-s) nav derīga(-s), ja tiek izmantota atsevišķi no pārējā Xylem dokumentācijas (kods 001080070G) teksta. 
+ 
+Sūknis
+
+EK atbilstības deklarācija (tulkojums) 
+ 
+Uzņēmums Xylem Service Italia S.r.l., kura galvenais birojs atrodas Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - 
+Italy, ar šo apliecina, ka šis izstrādājums: 
+NSC… sūknis (skatiet etiķeti pēdējā lappusē) 
+atbilst šādu Eiropas direktīvu attiecīgajiem noteikumiem 
+•  Mašīnu Direktīva 2006/42/EK un sekojošie grozījumi (II PIELIKUMS - fiziskā vai juridiskā persona, kas sastāda tehnisko failu: 
+Xylem Service Italia S.r.l.), 
+•  Direktīva 2009/125/EK par ekodizainu un sekojošie grozījumi, Regula (ES) Nr. 547/2012 un sekojošie grozījumi (ūdens sūknis, ja 
+ir MEI marķējums) 
+un tehniskie standarti 
+•  EN 809:1998+A1:2009. 
+•  EN 16480:2021. 
+Papildinformācija:
+
+433

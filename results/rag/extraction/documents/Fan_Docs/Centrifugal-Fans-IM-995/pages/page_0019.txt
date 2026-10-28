@@ -1,0 +1,63 @@
+IM-995
+
+Optional Accessories (cont.)
+
+5.	 Outlet Dampers — Outlet dampers are usually provided 
+completely assembled like the inlet dampers. The damper 
+is bolted to the fan discharge for volume control.
+
+6.	 Shaft Cooler — Also referred to as “heat slingers” or 
+“cooling impellers,” these are small, radially bladed 
+aluminum impellers that are split and bolted for installation 
+between the inboard bearing and fan housing. The cooling 
+fins face the bearing for grease applications and away 
+from the bearing for oil applications to prevent oil from 
+being drawn out of the bearing.
+
+7.	 Anti-Rotation Clutch — Damage will occur if the fan is 
+operated in the wrong rotation. Run the motor uncoupled 
+from the fan to establish the proper rotation.
+
+8.	 Oil Lubrication:
+Static Oil – Warning: Some fans are supplied with oil 
+lubricated anti-friction bearings due to customer preference. 
+Some fans are supplied with oil as the fan speed exceeds 
+that which is acceptable for grease. Consult with the 
+factory before changing lubrication from oil to grease.
+a.	 Use non-detergent turbine oil specified on the fan's
+
+general assembly drawing.
+b.	 Oil level should be half way up the bottom rolling
+
+element. If leakage occurs, lower the oil level by 2-3 mm.
+c.	 A breather should be used to equalize pressure, which
+
+reduces oil leakage.
+d.	 If a heat slinger is supplied, place vanes facing away
+
+from the bearing to prevent oil from being drawn out of 
+the bearing.
+e.	 Change oil regularly if automatic oilers are not being used.
+
+Oil condition depends upon operating temperature, 
+hours of operation, moisture, environmental cleanliness 
+and overall vibration. Start at three month intervals and 
+adjust interval based on the condition of the used oil. 
+Clean the breather at this time.
+f.	 If removing the bearing cap, prior to reinstalling, clean
+
+Static Oil 
+Lubrication System
+
+the splits and apply a thin coat of Permatex in order to 
+minimize leakage.
+g.	 Set up automatic lubricators according to instructions
+
+supplied with the fan.
+h.	 Prior to start-up, be sure that the oil has been heated to
+
+a minimum of approximately 50° F.
+
+19
+
+Installation, Operation & Maintenance Manual

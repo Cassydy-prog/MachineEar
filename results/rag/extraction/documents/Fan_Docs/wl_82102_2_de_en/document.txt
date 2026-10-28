@@ -1,0 +1,5058 @@
+=== PDF page 1 of 74 | native ===
+
+Rolling Bearing Damage
+
+Recognition of damage and bearing inspection
+
+A Member of the
+
+Schaeffler Group
+
+
+
+=== PDF page 2 of 74 | native ===
+
+Rolling Bearing Damage
+
+Recognition of damage and bearing
+inspection
+
+Publ. No. WL 82 102/2 EA
+
+
+
+=== PDF page 3 of 74 | native ===
+
+Preface
+
+Rolling bearings are machine elements found in a wide field
+of applications. They are reliable even under the toughest con-
+ditions and  premature failure is very rare.
+
+The first sign of rolling bearing damage is primarily un-
+usual operating behaviour of the bearings. The examination of
+damaged bearings reveals a wide and varied range of phenome-
+na. Inspection of the bearings alone is normally not enough to
+pinpoint the cause of damage, but rather the inspection of the
+mating parts, lubrication, and sealing as well as the operating
+and environmental conditions. A set procedure for examina-
+tion facilitates the determination of the cause of failure.
+
+This brochure is essentially a workshop manual. It provides
+a survey of typical bearing damage, its cause and remedial
+measures. Along with the examples of damage patterns the
+possibility of recognising the bearing damage at an early stage
+are also presented at the start.
+
+Bearings which are not classified as damaged are also in-
+spected within the scope of preventive maintenance which 
+is frequently carried out. This brochure therefore contains 
+examples of bearings with the running features common to the
+life in question.
+
+Cover page: What may at first appear to be a photo of sand
+dunes taken at a high altitude is in fact the wave-shaped defor-
+mation-wear-profile of a cylindrical roller thrust bearing. 
+There is less than just 1 micron from peak to valley. At a slow
+speed mixed friction occurs in the areas stressed by sliding
+contact. Rippling results from the stick-slip effects.
+
+FAG
+2
+
+
+
+=== PDF page 4 of 74 | native ===
+
+Contents
+
+Page
+Page
+
+1
+Unusual operating behaviour
+indicating damage . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+1.1
+Subjective damage recognition . . . . . . . . . . . . . . . . .4
+1.2
+Bearing monitoring with technical devices . . . . . . . .4
+1.2.1
+Wide-spread damage . . . . . . . . . . . . . . . . . . . . . . . . .4
+1.2.2
+Damage in certain spots . . . . . . . . . . . . . . . . . . . . . . .6
+1.3
+Urgency of bearing exchange – remaining life . . . . .7
+
+2
+Securing damaged bearings . . . . . . . . . . . . . . . . . . .9
+2.1
+Determination of operating data . . . . . . . . . . . . . . . .9
+2.2
+Extraction and evaluation of lubricant samples . . . .9
+2.3
+Inspection of bearing environment . . . . . . . . . . . . .10
+2.4
+Assessment of bearing in mounted condition . . . . .10
+2.5
+Dismounting damaged bearing . . . . . . . . . . . . . . . .10
+2.6
+Seat check . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+2.7
+Assessment of complete bearing . . . . . . . . . . . . . . .10
+2.8
+Dispatch to FAG or 
+assessment of individual parts of bearing . . . . . . . .10
+
+3.3.4.2 Scratches on rolling element outside diameters . . .44
+3.3.4.3 Slippage tracks . . . . . . . . . . . . . . . . . . . . . . . . . . . . .45
+3.3.4.4 Score marks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .46
+3.3.5
+Damage due to overheating . . . . . . . . . . . . . . . . . . .47
+3.4
+Assessment of lip contact . . . . . . . . . . . . . . . . . . . . .48
+3.4.1
+Damage to lip and roller faces in roller bearings . . .48
+3.4.1.1 Scoring due to foreign particles . . . . . . . . . . . . . . . .48
+3.4.1.2 Seizure in lip contact . . . . . . . . . . . . . . . . . . . . . . . .49
+3.4.1.3 Wear in the lip contact area . . . . . . . . . . . . . . . . . . .50
+3.4.1.4 Lip fractures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .51
+3.4.2
+Wear of cage guiding surfaces . . . . . . . . . . . . . . . . .52
+3.4.3
+Damage to seal running areas . . . . . . . . . . . . . . . . .53
+3.4.3.1 Worn sealing lip tracks . . . . . . . . . . . . . . . . . . . . . .53
+3.4.3.2 Discolouration of sealing track . . . . . . . . . . . . . . . .53
+3.5
+Cage damage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .54
+3.5.1
+Wear due to starved lubrication and 
+contamination . . . . . . . . . . . . . . . . . . . . . . . . . . . . .54
+3.5.2
+Wear due to excess speed . . . . . . . . . . . . . . . . . . . . .54
+3.5.3
+Wear due to roller skewing . . . . . . . . . . . . . . . . . . .55
+3.5.4
+Wear in ball bearing cages due to tilting . . . . . . . . .55
+3.5.5
+Fracture of cage connections . . . . . . . . . . . . . . . . . .56
+3.5.6
+Cage fracture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .56
+3.5.7
+Damage due to incorrect mounting . . . . . . . . . . . .57
+3.6
+Sealing damage . . . . . . . . . . . . . . . . . . . . . . . . . . . .58
+3.6.1
+Wear of sealing lips . . . . . . . . . . . . . . . . . . . . . . . . .58
+3.6.2
+Damage due to incorrect mounting . . . . . . . . . . . .59
+
+4
+Other means of inspection at FAG . . . . . . . . . . . . .60
+4.1
+Geometric measuring of bearings and 
+bearing parts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .60
+4.2
+Lubricant analyses and lubricant inspections . . . . .63
+4.3
+Material inspection . . . . . . . . . . . . . . . . . . . . . . . . .65
+4.4
+X-ray micro structure analysis . . . . . . . . . . . . . . . . .66
+4.5
+Scanning electron microscope investigations . . . . .67
+4.6
+Component tests . . . . . . . . . . . . . . . . . . . . . . . . . . .69
+4.7
+Calculation of load conditions . . . . . . . . . . . . . . . .71
+
+3
+Evaluation of running features and 
+damage to dismounted bearings . . . . . . . . . . . . . . .11
+3.1
+Measures to be taken . . . . . . . . . . . . . . . . . . . . . . . .14
+3.1.1
+Marking separate parts . . . . . . . . . . . . . . . . . . . . . . .14
+3.1.2
+Measurements taken with complete bearing . . . . . .14
+3.1.3
+Dismantling bearing into separate parts . . . . . . . . .14
+3.1.4
+Assessment of bearing parts . . . . . . . . . . . . . . . . . . .14
+3.2
+The condition of the seats . . . . . . . . . . . . . . . . . . . .15
+3.2.1
+Fretting corrosion . . . . . . . . . . . . . . . . . . . . . . . . . .15
+3.2.2
+Seizing marks or sliding wear . . . . . . . . . . . . . . . . . .16
+3.2.3
+Uneven support of bearing rings . . . . . . . . . . . . . . .17
+3.2.4
+Lateral grazing tracks . . . . . . . . . . . . . . . . . . . . . . . .18
+3.3
+Pattern of rolling contact . . . . . . . . . . . . . . . . . . . . .19
+3.3.1
+Source and significance of tracks . . . . . . . . . . . . . . .19
+3.3.1.1 Normal tracks . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+3.3.1.2 Unusual tracks . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+3.3.2
+Indentations in raceways and
+rolling element surfaces . . . . . . . . . . . . . . . . . . . . . .27
+3.3.2.1 Fractures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .27
+3.3.2.2 Corrosion damage . . . . . . . . . . . . . . . . . . . . . . . . . .34
+3.3.2.3 False brinelling . . . . . . . . . . . . . . . . . . . . . . . . . . . . .36
+3.3.2.4 Rolling element indentations . . . . . . . . . . . . . . . . .37
+3.3.2.5 Craters and fluting due to
+passage of electric current . . . . . . . . . . . . . . . . . . . .38
+3.3.2.6 Rolling element edge running . . . . . . . . . . . . . . . . .39
+3.3.3
+Ring fractures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .40
+3.3.3.1 Fatigue fractures as a result of 
+raceway fatigue . . . . . . . . . . . . . . . . . . . . . . . . . . . . .40
+3.3.3.2 Axial incipient cracks and through cracks
+of inner rings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .40
+3.3.3.3 Outer ring fractures in circumferential
+direction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .41
+3.3.4
+Deep scratches and smear marks on the
+contact surfaces . . . . . . . . . . . . . . . . . . . . . . . . . . . .42
+3.3.4.1 Wear damage with poor lubrication . . . . . . . . . . . .42
+
+3
+FAG
+
+
+
+=== PDF page 5 of 74 | native ===
+
+Unusual operating behaviour indicating damage
+Subjective damage recognition · Bearing monitoring with technical devices
+
+1 Unusual operating behaviour indicating damage
+
+1: Recognition of damage by operating staff
+
+Symptoms
+Sources of trouble
+Examples
+
+Uneven running
+Damaged rings
+Motor vehicles:
+or rolling elements
+more and more wheel wobbling
+increased tilting clearance
+vibration of steering system
+Contamination
+
+Fans:
+growing 
+Excessive bearing clearance
+vibration
+
+Saw mills:
+more knocks and blows
+in connecting rods
+
+Gradual deterioration of the opera-
+ting behaviour is normally the first sign
+of bearing damage. Spontaneous damage
+is rare, for example that caused by mount-
+ing errors or a lack of lubrication, 
+which leads to immediate machine down-
+time. Depending on the operating con-
+ditions, a few minutes, or under some
+circumstances even a few months, may
+pass from the time damage begins to the
+moment the bearing actually fails. The
+case of application in question and the
+effects of bearing damage on the ma-
+chine operation are taken as a basis when
+selecting the type of bearing monitoring
+to be provided.
+
+Reduced
+Wear due 
+Lathe:
+working accuracy
+to contaminants
+gradual development
+or insufficient lubrication
+of chatter marks on workpiece
+
+Damaged rings
+Grinders:
+or rolling elements
+wavy ground surface
+
+Change in adjustment
+Cold rolling mill:
+(clearance or preload)
+Periodic surface defects 
+on rolled material
+such as stretcher strains,
+ghost lines etc.
+
+1.1 Subjective damage 
+recognition
+In the vast majority of bearing appli-
+cations it is sufficient when machine
+operators watch out for uneven running
+or unusual noise in the bearing system,
+see table 1.
+
+Unusual
+Insufficient operating clearance
+running noise:
+
+whining or squealing
+noise
+
+Electric motors
+rumbling
+Excessive clearance
+Gears
+or irregular
+Damaged contact areas
+(the bearing noise
+noise
+Contamination
+is hard to identify
+Unsuitable lubricant
+since it is generally
+drowned by the noise
+of the gears)
+
+1.2 Bearing monitoring with 
+technical devices
+Bearings which could be hazardous
+when damaged or which could lead to
+long production down-times require on
+the other hand accurate and constant
+monitoring. Two examples are jet engine
+turbines and paper-making machines.
+For monitoring to be reliable, its extent
+must be based on the type of damage
+which may be expected.
+
+gradual change
+Change in operating clearance
+in running noise
+due to temperature
+Damaged running track
+(e.g. due to contamination 
+or fatigue)
+
+1.2.1 Wide-spread damage
+A sufficient supply of clean lubricant
+is the main precondition for trouble-free
+operation. Undesirable changes can be
+detected by:
+
+FAG
+4
+
+
+
+=== PDF page 6 of 74 | native ===
+
+Unusual operating behaviour indicating damage
+
+Bearing monitoring with technical devices
+
+2: March of temperature with intact main spindle bearings in a machine tool. 
+Test condition: n · dm = 750 000 min–1 · mm.
+3: March of temperature with disturbed floating bearings. Test condition: n · dm = 750 000 min–1 · mm.
+
+50
+
+50
+
+°C
+
+°C
+
+3
+
+40
+
+40
+
+1
+2
+
+1
+2
+3
+
+4
+
+30
+
+30
+
+4
+5
+
+5
+
+Temper-
+
+Temper-
+
+ature
+
+ature
+
+20
+
+20
+
+10
+
+10
+0
+1
+2
+h
+
+Life
+
+1
+2
+3
+4
+5
+Life
+0
+1
+2
+h
+
+1
+2
+3
+4
+5
+
+2
+3
+
+– Monitoring lubricant supply
+
+A very reliable and relatively easy way of
+recognising damage caused by inade-
+quate lubrication is by measuring the
+temperature.
+
+• oil level window
+• measuring oil pressure
+• measuring oil flow
+
+4: March of temperature as a function
+of time with failing grease lubrica-
+tion. Test condition: 
+n · dm = 200 000 min–1 · mm.
+
+– Measuring abraded matter in
+
+Normal temperature behaviour:
+– reaching a steady state temperature in
+
+stationary operation, fig. 2.
+
+80
+
+°C
+
+Disturbed behaviour:
+– sudden rise in temperature caused by
+
+60
+
+lack of lubricant or by the occurrence
+of excessive radial or axial preload on
+the bearings, fig. 3.
+– uneven march of temperature with
+
+Temper-
+
+ature
+
+lubricant
+• at intervals
+magnetic plug
+spectral analysis of lubricant 
+samples
+inspection of oil samples in the lab
+• continuously
+magnetic signal transmitter
+finding amount of particles flowing
+through with an online particle 
+counter
+
+40
+
+maximum values tending to rise due
+to general deterioration of lubrica-
+tion condition , e.g. with attained
+grease service life, fig. 4.
+
+– Measuring temperature
+
+• generally with thermocouples
+
+0
+
+2
+4
+
+h
+Time
+
+Measuring the temperature is not 
+suitable, however, to register local 
+damage at an early stage, e.g. fatigue.
+
+5
+FAG
+
+
+
+=== PDF page 7 of 74 | native ===
+
+Unusual operating behaviour indicating damage
+Bearing monitoring with technical devices
+
+5: Frequency spectrum of envelope signal between 0 and 200 Hz,
+below: undamaged bearing; above: damaged bearing
+nIR
+Inner ring speed [min–1]
+fIR
+Frequency of inner ring signal (cycling frequency) [Hz]
+
+0,086g
+
+Damaged bearing
+
+Harmonic
+fIR
+nIR
+
+nIR
+
+2fIR
+nIR nIR
+
+3fIR
+nIR nIR
+
+4fIR
+
+Side
+bands
+
+Side
+bands
+
+0
+
+0,086g
+
+Undamaged bearing
+
+1.2.2 Damage in certain spots
+Should bearing damage be restricted
+to specific locations such as indentations
+caused by rolling elements, standstill
+corrosion or  fractures, it can be re-
+cognised at the earliest with vibration
+measurements. Shock waves which 
+originate from the cycling of local inden-
+tations can be recorded by means of
+path, speed and acceleration pick-ups.
+These signals can be processed further at
+little or great expense depending on the
+operating conditions and the accuracy of
+the expected confidence factor. The
+most common are:
+– measuring effective value
+– measuring shock value
+– signal analysis by envelope detection.
+
+Vibration acceleration
+
+20
+0
+
+40
+60
+80
+100
+120
+140
+160
+180
+200
+
+Frequency [Hz]
+
+Experience has shown that the latter
+procedure is particularly reliable and
+practical in use. The damaged bearing
+components can even be pinpointed
+with a special type of signal processing,
+figs. 5 and 6. Please refer to our TI No.
+WL 80-36 >Rolling Bearing Diagnosis
+with the FAG Bearing Analyser<" for
+more information.
+
+7: March of temperature and shock value as a function of time stopping 
+lubrication. Spindle bearing B7216E.TPA; P/C = 0.1; n = 9000 min–1; 
+Lubricating oil ISO VG100.
+
+160
+
+300
+
+°C
+
+140
+
+100
+
+6: Inner ring damage to a spherical
+roller bearing in a paper making
+machine found by means of the 
+envelope detection procedure.
+
+Temperature
+
+Shock value
+
+120
+
+80
+
+60
+
+100
+
+80
+40
+
+0
+4
+8
+12
+16
+20
+24
+min
+
+Lubrication stopped
+
+Operation time
+
+FAG
+6
+
+
+
+=== PDF page 8 of 74 | native ===
+
+Unusual operating behaviour indicating damage
+Bearing monitoring with technical devices · Urgency of bearing exchange
+
+cant cleanliness. Extensive examinations
+have been made on ball bearings on the
+progress of damage under various loads.
+The main results are as follows:
+
+In lots of cases a machine may remain
+in operation without the quality of the
+product suffering despite damage. How
+long it may do so depends on the bear-
+ing load, speed, lubrication, and lubri-
+
+8: Development of fatigue damage on the inner ring raceway of an angular
+contact ball bearing. The periodic intervals between inspections from damage
+begin on, are given in percentage of the nominal life L10.
+
+The vibration measuring procedures
+are very suitable for detecting fatigue 
+damage. It is easiest with bearings with
+point contact (ball bearings) and with
+more sophisticated evaluation proce-
+dures such as envelope detection, for ex-
+ample, damage to roller bearings is 
+found just as reliably. They are less suit-
+able, however, for observing the lubrica-
+tion condition. A fault in the lubricant
+supply can be reliably spotted by tem-
+perature measuring, as described above.
+This is particularly well illustrated in 
+figure 7.  The shock value is far less sen-
+sitive than the temperature sensor. 
+Hence, in the case of expensive technical
+plants, temperature and vibration 
+measurements complement one another
+ideally.
+
+1.3 Urgency of bearing exchange
+– remaining life
+Once bearing damage has been detec-
+ted, the question arises as to whether the
+bearing must be exchanged immediately
+or whether it is possible to leave it in
+operation until the machine's next sche-
+duled standstill. There are several condi-
+tions which must be given consideration
+before making any decision. If, for ex-
+ample, reduced working accuracy of a
+machine tool is reason to suspect bearing
+damage, the urgency of bearing exchan-
+ge primarily depends on how long parts
+can continue to be produced without
+lacking in quality. Bearings which block
+suddenly at a high speed due to hot run-
+ning caused by an interruption in lubri-
+cant supply going unrecognised, must be
+replaced immediately, of course.
+
+7
+FAG
+
+
+
+=== PDF page 9 of 74 | native ===
+
+Unusual operating behaviour indicating damage
+Urgency of bearing exchange
+
+9: Size of damage based on the running time after damage recognition 
+(when approx. 0.1% of track circumference is flaked)
+– With a moderate load, damage
+
+develops very slowly so that it is 
+normally not necessary to replace the
+bearing prior to the next scheduled
+standstill.
+– With an increasing load, damage
+
+12
+
+grows far more quickly. 
+– The damage develops slowly first but
+
+10
+
+as it becomes larger it spreads faster.
+
+8
+
+Figures 8 (page 7), 9 and 10 illustrate
+these findings.
+
+6
+
+4
+
+2
+
+Size of damage in % of track circumference
+
+0
+0
+10
+20
+30
+40
+
+Period of operation with damage [% L10]
+
+10: Mean remaining running time of angular contact ball bearings after recogni-
+tion of fatigue damage based on stress condition until 1/10 of the track cir-
+cumference is damaged. Operating condition prior to first signs of fatigue 
+damage: Utmost cleanliness in EHD lubricating gap.
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+1 900
+2 000
+2 100
+2 200
+2 300
+2 400
+2 500
+2 600
+
+mean running time after damage recognition [% L10]
+
+max. Hertzian contact pressure [MPa]
+
+FAG
+8
+
+
+
+=== PDF page 10 of 74 | native ===
+
+Securing damaged bearings
+Determination of operating data · Extraction and evaluation of lubricant samples
+
+2 Securing damaged bearings
+
+– Case of application:
+
+machine (device), bearing location,
+attained life, how many similar 
+machines and how many failures in
+these machines
+– Bearing construction:
+
+locating bearing, floating bearing
+floating bearing arrangement
+adjusted bearings (loose, rigid; with
+spacers, via fitting washers)
+– Speed:
+
+Should a bearing be removed from a
+machine due to damage the cause of the
+latter must be clarified as well as the me-
+ans to avoid future failure. For the most
+reliable results possible it is practical to
+follow a systematic procedure when se-
+curing and inspecting the bearing. By
+the way, several of the points listed be-
+low should be given consideration when
+inspecting bearings dismounted during
+preventive maintenance.
+
+life normally attainable 
+particularities during operational 
+period up to now
+repairs on other machine parts (con-
+struction measures, welding)
+machine trouble due to other 
+machine elements (e.g. seal damage,
+loss of oil)
+distance and means of transport of
+the machine or bearings
+packaging
+– Evaluate records and charts from
+
+Recommended sequence of measures:
+
+bearing monitoring devices if avail-
+able
+
+– Determine operating data, evaluate
+
+constant, changing (inner ring and
+outer ring)
+acceleration, deceleration or retarda-
+tion
+– Load:
+
+records and charts from bearing 
+monitoring devices 
+– Extract lubricant samples
+– Check bearing environment for ex-
+
+ternal influence and other damage 
+– Assessment of bearing in mounted
+
+axial, radial, combined, tilting 
+moment
+constant, changing (collective)
+oscillating (acceleration, oscillation
+amplitude)
+centrifugal force
+point load, circumferential load
+(which ring is rotating?)
+– Mating parts:
+
+condition
+– Mark mounting position
+– Dismount bearing
+– Mark bearings and parts 
+– Check bearing seats
+– Assessment of complete bearing
+– Examination of individual bearing
+
+parts or dispatch to FAG
+
+shaft seat, housing seat (fits)
+fastening parts (e.g. type of locknut,
+elastic bolts etc.)
+– Environmental conditions:
+
+2.2 Extraction and evaluation of
+lubricant samples
+Lubricants can reveal diverse indica-
+tions of damage causes in rolling bear-
+ings. Suitable test samples are a must
+(only with open bearings), please refer to
+DIN 51750, ASTM Standard D270-65
+and 4057-81.
+
+– Grease lubrication:
+
+external heat, cooling
+special media (e.g. oxygen, vacuum,
+radiation)
+vibrations in standstill
+dust, dirt, dampness,
+corrosive agents
+electric or magnetic fields
+– Lubrication:
+
+Important factors required for finding
+the cause of damage may be lost forever
+if the procedure selected is not suitable.
+Faults made when the damaged bearing
+is being secured can also disguise the 
+damage pattern or at least make it ex-
+tremely difficult to correctly explain the
+damage features.
+
+• Documentation of grease distribu-
+tion and colour in the bearing en-
+vironment
+• Extraction of samples from differ-
+ent places in the bearing and bear-
+ing environment with correspond-
+ing marking
+
+– Oil lubrication:
+
+lubricant, lubricant quantity
+lubricant supply
+relubrication interval
+date of last relubrication interval/last
+oil change
+– Sealing
+
+contact, non-contact
+– History of damaged bearing:
+
+2.1 Determination of operating
+data
+Not only the bearing itself is exami-
+ned when rolling bearing damage is
+being inspected but the environmental
+and application conditions are also
+checked in advance (with an assembly
+drawing if possible).
+
+• Remove samples from the oil flow 
+near the bearing or from the 
+middle of the supply container
+• Extract samples during machine 
+operation or directly after in order 
+to obtain a typical distribution of 
+foreign matter
+• Do not remove samples from the 
+bottom or from directly behind 
+filters (wrong concentration of 
+particles)
+
+first mounting or replacement bear-
+ing
+changes in bearing location/machine
+in the past
+failure frequency so far
+calculated L10 life
+
+9
+FAG
+
+
+
+=== PDF page 11 of 74 | native ===
+
+Securing damaged bearings
+
+2.4 Assessment of bearing in 
+mounted condition
+– Are there any ruptured or chipped
+
+• Independent of the oil samples, 
+filter residue should also be kept
+for inspection (indication of 
+history prior to damage)
+
+areas?
+– Are the seals damaged, particularly
+
+2.7 Assessment of complete 
+bearing
+The bearings should always be 
+handed over uncleaned, i.e. with lubri-
+cant remains, for assessment.
+
+– General
+
+deformed or hardened?
+– Is the bearing deformed at the visible
+
+The following should be checked:
+– General condition (cleanliness of
+
+areas?
+– Can scratches by foreign matter be
+
+detected?
+– Does the bearing run easily or tightly
+
+in mounted condition? (fit effect)
+
+bearing and condition of fitting sur-
+faces, i.e. traces of mounting, fretting
+corrosion, ring fractures, dimensional
+accuracy, seizing marks, discoloura-
+tion)
+– Condition of seals and dust shields.
+
+Photograph or description of place
+and extent of any grease escape.
+– Condition of cage
+– Manual rotation test (indication of
+
+contamination, damage or preload)
+– Measure bearing clearance (displace-
+
+ability of rings in radial and axial di-
+rection), whereby bearings are loaded
+equally and rotated!
+
+2.5 Dismounting damaged 
+bearing
+Great care should be given not to 
+distort the damage pattern when dis-
+mounting a damaged bearing. If this is
+not possible damaged caused when dis-
+mounting should be marked and noted
+down. The following procedure should
+be observed if possible:
+– Do not apply dismounting force via
+
+the rolling elements
+– High dismounting force could be an
+
+• How often had the bearing been 
+relubricated or had the oil been 
+changed? When was either last 
+carried out?
+• Check oil or grease for any pieces 
+broken off the bearing or other 
+components
+• Use clean vessels for the samples. 
+They should be made of suitable 
+material (glass, for example)
+• There should be enough room left 
+in the vessel for stirring the oil 
+sample in the laboratory
+• The analysis of the samples may 
+take place at the customer's, in an 
+external lubricant laboratory or at 
+FAG. Points of interest are gener-
+ally the degree of contamination 
+and its type (sand, steel, soft little 
+parts, water, cooling liquid) as well 
+as an analysis of the lubricity 
+(eg. ageing, consolidation, colour, 
+coking, share of additives). If 
+possible, a sample of fresh grease or 
+oil should be handed on and ex
+amined as well (in the case of un-
+known lubricants, effects of heat)
+
+indication of disturbed floating bear-
+ing function
+– Do not open sealed bearings
+– Do not destroy or damage heat-sensi-
+
+tive parts (lubricant, seal, cage) by
+heating too much
+– Mark bearing (mounting location,
+
+mounting direction)
+
+2.3 Inspection of bearing 
+environment  
+– Could surrounding parts have grazed
+
+2.8 Dispatch to FAG or 
+assessment of individual parts
+of bearing   
+The causes of failure basically possible
+can be detected very often by customers
+themselves or by an FAG employee on
+the site. Whether more specific examina-
+tions are required or not depends on the
+distinctness of each damage feature. The
+procedure for examining individual 
+bearing parts is described in detail below.
+
+against bearing parts anywhere?
+– Are any other parts close to the bear-
+
+2.6 Seat check 
+– Shaft and housing dimensions (detri-
+
+mental preload, seats too loose)
+– Form tolerances of seats (oval defor-
+
+ing damaged (consequential or 
+primary damage)?
+– Cleanliness within and externally to
+
+If it is quite obvious that an examina-
+tion is to be made at FAG the parts
+should be prepared for dispatch as 
+follows:
+– neither dismantle the bearing nor
+
+mation)
+– Roughness of seats (excessive material
+
+seals (any foreign matter in the bear-
+ing space?)
+– Loosening force of bearing fastening
+
+loss)
+– Fretting corrosion (varying degrees
+
+clean it. On no account should cold
+cleanser or gasoline be used for 
+rinsing (otherwise lubrication hints
+disappear, corrodibility).
+
+parts (was the bearing forced to de-
+form? Are the bolts loose?)
+
+indicate uneven support, load direc-
+tion)
+
+FAG
+10
+
+
+
+=== PDF page 12 of 74 | native ===
+
+Securing damaged bearings · Evaluation of running features and damage
+
+to dismounted bearings
+
+– Avoid contamination after dismount-
+
+3 Evaluation of running features and damage to dismounted 
+bearings
+
+ing. Pack the bearings separately in
+clean foil if possible, since paper and
+cloths remove oil from the grease.
+– Select sufficiently strong and thick
+
+packaging to prevent damage arising
+during transport.
+
+conditions or external features of the
+bearing frequently provide an indication
+of the cause of damage. The table in 
+fig. 12 illustrates the main damage 
+features in rolling bearings with their 
+typical causes.
+
+Bearing damage may not always im-
+ply a complete failure of a rolling bear-
+ing but also implies a reduction in the
+efficiency of the bearing arrangement. In
+this context it should be remembered
+that the earlier the particular bearing is
+dismounted the sooner the source of
+trouble can be detected.
+
+This summary cannot take all types of
+damage into account but just provide a
+rough outline. It should also be kept in
+mind that a number of damage patterns
+are exclusively or almost only found with
+certain types of bearings or under special
+application conditions. In many cases
+one bearing may reveal several damage
+features concurrently. It is then frequent-
+ly difficult to determine the primary
+cause of failure and a systematic clarifi-
+cation of diverse damage hypothesis is
+the only answer. The systematic proce-
+dure described below is recommended
+for such cases.
+
+A bearing arrangement can only func-
+tion smoothly if the operating and en-
+vironmental conditions and the compo-
+nents of the arrangement (bearings, 
+mating parts, lubrication, sealing) are
+correctly coordinated. The cause of bear-
+ing damage does not always lie in the
+bearing alone. Damage which originates
+from bearing material and production
+faults is very rare. Prior to inspecting
+bearing damage by means of individual
+parts the possible damage sources should
+be studied based on the facts found 
+according to Section 2. The operating
+
+11: Causes of failure in rolling bearings (Source: antriebstechnik 18 (1979) No. 3,
+71-74). Only about 0.35% of all rolling bearings do not reach expected life.
+
+20 % unsuitable
+lubricant
+20 % aged
+lubricant
+
+15 % insufficient
+lubricant
+
+<1 % material
+and production faults
+
+10 % unsuitable choice of bearing
+(design, size, load carrying
+capacity)
+
+20 % solid
+contamination
+
+5 % consequential damage
+5 % mounting faults
+
+5 % liquid
+contamination
+
+11
+FAG
+
+
+
+=== PDF page 13 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+12: Rolling bearing damage symptoms and their causes
+
+Symptom
+Damaged area of bearing
+Typical causes of rolling bearing damage
+
+Mounting
+
+Seats
+Rolling
+Lip
+Cage
+Sealing Incorrect
+Dirt
+Fit too
+Fit too
+Poor
+Misalignment
+contact
+and
+mounting
+tight,
+loose,
+support
+or
+areas
+roller
+procedure
+too much
+too little
+of
+shaft
+face
+or
+preload
+preload
+rings
+deflection
+areas
+tools
+
+a) Unusual running
+
+behaviour
+
+Uneven running
+I
+I
+I
+
+Unusual
+noise
+I
+I
+I
+I
+I
+I
+
+Disturbed 
+temperature behaviour
+I
+I
+
+b) Appearance of dis-
+
+mounted bearing parts
+
+1 Foreign particle
+indentations
+I
+I
+
+2 Fatigue
+I
+I
+I
+I
+I
+I
+
+3 Stationary 
+vibration marks
+I
+
+4 Molten dents
+and flutes
+I
+
+5 Skidding
+I
+I
+
+6 Rolling element 
+indentations, scuffing
+I
+I
+I
+
+7 Seizing marks
+I
+I
+I
+
+8 Wear
+I
+I
+I
+I
+I
+
+9 Corrosion
+I
+I
+I
+I
+
+10 Overheating damage
+I
+I
+I
+I
+I
+I
+
+11 Fractures
+I
+I
+I
+I
+I
+I
+I
+
+12 Fretting corrosion
+(false brinelling)
+I
+I
+I
+
+FAG
+12
+
+
+
+=== PDF page 14 of 74 | native ===
+
+Symptom
+Typical causes of rolling bearing damage
+
+Operational stress
+Environmental influence
+Lubrication
+
+Load
+Vibra-
+High
+Dust,
+Aggressive
+External
+Current
+Unsuitable
+Insufficient
+Excess
+too
+tions
+speeds
+dirt
+media,
+heat
+passage
+lubricant
+lubricant
+lubricant
+high or
+water
+too
+low
+
+a) Unusual
+
+running behaviour
+
+Uneven running
+I
+I
+I
+I
+I
+
+Unusual
+noise
+I
+I
+I
+I
+I
+I
+I
+
+Disturbed
+temperature behaviour
+I
+I
+I
+I
+I
+I
+
+b) Appearance of dis-
+
+mounted bearing parts
+
+1
+Foreign particle 
+indentations
+I
+
+2
+Fatigue
+I
+I
+I
+I
+I
+
+3
+Stationary
+vibration marks
+I
+
+4
+Molten dents
+and flutes
+I
+
+5
+Skidding
+I
+I
+
+6
+Rolling element
+indentations, scuffing
+I
+
+7
+Seizing marks
+I
+I
+I
+I
+
+8
+Wear
+I
+I
+I
+
+9
+Corrosion
+I
+I
+
+10 Overheating damage
+I
+I
+I
+I
+I
+
+11 Fractures
+
+12 Fretting corrosion
+(false brinelling)
+I
+
+13
+FAG
+
+
+
+=== PDF page 15 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Measures to be taken
+
+3.1 Measures to be taken
+
+3.1.4 Assessment of bearing parts
+A good look at the main running and
+mounting features is taken first without
+using any devices.
+
+3.1.1 Marking separate parts
+– When there are several bearings from
+
+A microscopic inspection of the bear-
+ing parts is recommended and often a
+must for the majority of bearings.
+
+The following procedure for assessing
+bearing parts is usually suitable:
+
+the same type of bearing location
+number all bearing parts and keep a
+record of their arrangement in the 
+location.
+– Mark lateral arrangement of bearing
+
+parts to one another and in their 
+mounting position.
+– Mark radial mounting direction of
+
+Assessment of:
+– Seats (axial mating surfaces, inner
+
+the rings with regard to external 
+forces.
+
+ring bore, outer ring outside diam-
+eter)
+– Raceways
+– Lips
+– Sealing seat surface/contact surface
+– Rolling elements (outside diameter
+
+and face in the case of rollers)
+– Cages
+– Seals
+
+3.1.2 Measurements taken with 
+complete bearing
+– Noise inspection
+– Inspection of radial/axial clearance
+– Inspection of radial/axial runout
+– Inspection of frictional moment
+
+Other inspections may also be required
+in order to clarify the cause of damage.
+These include lubricant analyses, 
+measurements, electron micro-scopical
+tests, etc. In FAG's laboratories for pro-
+duct research and development you will
+find competent employees ready to assist
+(refer to section 4).
+
+3.1.3 Dismantling bearing into 
+separate parts
+– Determine grease quantity if grease
+
+has escaped from sealed bearings.
+– Remove dust shields and seals care-
+
+fully from sealed bearings avoiding
+deformations as much as possible.
+– Assess grease distribution in the bear-
+
+ing.
+– Take grease sample; take several
+
+It must often be decided whether a
+bearing can be used again or whether it
+has to be replaced. There is no doubt 
+about the procedure to be followed
+when the damage is quite obvious. Such
+damage, however, is seldom. The bearing
+assessment often provides an indication
+of the operating condition nevertheless.
+When unusual symptoms and their 
+causes are detected extensive damage can
+frequently be avoided.
+
+samples if there is an irregular lubri-
+cant pattern.
+– If dismounting cannot be non-
+
+The following sections contain de-
+scriptions of symptoms, advice concern-
+ing their significance and cause and,
+where appropriate, preventive measures.
+
+destructive, those parts which are 
+assumed to have had no influence on
+the cause of damage should be de-
+stroyed (e.g. cut or turn off the retain-
+ing lip at the small cone diameter of
+tapered roller bearing).
+
+– Should damage be inevitable during
+
+the dismounting procedure it should
+be marked and taken note of.
+
+FAG
+14
+
+
+
+=== PDF page 16 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Condition of seats
+
+– Use dimensionally stable rings for high
+
+– Improve roundness of seats
+– Check and improve, if required, the
+
+surface quality of the seats
+
+operating temperatures (prevents fit
+loosening due to ring expansion as a
+result of changes in steel structure)
+
+13: Fretting corrosion in bore of a cylindrical roller bearing inner ring with 
+seat too loose
+
+3.2 The condition of the seats
+Diverse conclusions can be drawn
+from the condition of the seats about the
+supporting quality of the bearing rings
+on the shaft and in the housing. Ring
+movements against the seats cause noise
+which is often disturbing. They also lead
+to fretting corrosion and wear which in
+turn leads to lubricant contamination by
+corrosive and abrasive particles. In addi-
+tion to this, the ring support continues
+to deteriorate and fretting corrosion can
+make dismounting difficult. A few ex-
+amples are provided below.
+
+3.2.1 Fretting corrosion 
+Symptoms:
+
+Brownish-black spots on the seats, 
+occassionally with brown abraded matter
+near bearing or in the lubricant as well.
+Wear at the fitting surfaces (bore, out-
+side diameter), fatigue fracture possible
+in the case of rotating parts (usually the
+shaft), disturbance of floating bearing
+function possible in the case of statio-
+nary parts (usually the housing), fig. 13.
+With such fretting corrosion conclusions
+can frequently be made regarding the
+position and size of the load zone, 
+fig. 14, and creeping of the rings.
+
+14: Fretting corrosion reveals the size of the load zone at the stationary outer ring
+
+Causes:
+– Micromotion between fitted parts
+
+where fits are too loose in relation to
+the acting forces, but no creeping of
+rings
+– Form disturbance of fitting surfaces
+– Shaft deflection, housing deformation
+– Floating bearing function at ring with
+
+circumferential load
+
+Remedial measures:
+– Provide floating bearing function at
+
+ring with point load
+– Use bearing seats which are as tight as
+
+possible
+– Make shaft (housing) more rigid to
+
+bending
+– Coat bearing seats
+
+15
+FAG
+
+
+
+=== PDF page 17 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Condition of seats
+
+16: Seizing marks in the inner ring bore as a result of inner ring creeping on the
+shaft
+
+3.2.2 Seizing marks or sliding wear
+Symptoms:
+
+Cold welding at the fitting surfaces
+(inner ring bore, outer ring outside dia-
+meter) and axial mating surfaces or also
+shiny contact areas where surface rough-
+ness is good, figs. 15, 16.
+
+Wear of fitting surface and face, fig.
+17, perhaps reduction in preload or clea-
+rance enlargement.
+
+Causes:
+– Rotary motion between ring and
+
+shaft/housing with loose fits under
+circumferential load; with static load
+and unbalance also
+– Axial support of rings insufficient
+– Sluggish movement of floating bea-
+
+ring
+
+Remedial measures:
+– Use bearing seats which are as tight as
+
+possible
+– Extend axial mating surfaces
+– Secure axial support
+– Keep fitting surfaces dry
+– Improve floating bearing function
+
+15: Seizing marks on the outside diameter as a result of outer ring creeping in the
+housing
+
+17: Circumferential scoring and cold
+welding at the inner ring faces as a
+result of inner ring creeping on the
+shaft
+
+FAG
+16
+
+
+
+=== PDF page 18 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Condition of seats
+
+Remedial measures:
+– Change mating parts constructively
+
+Causes:
+– Unsuitable design
+– Inaccurate machining
+
+3.2.3 Uneven support of bearing 
+rings
+Symptoms:
+
+keeping uniform housing rigidity in
+mind; if necessary use other bearings
+– Check production of mating parts
+
+Seating marks not in the area of the
+expected load zone.
+
+19: Outer ring outside diameter, only half its width supported
+
+Machining structure of fitting sur-
+faces worn in some areas and completely
+untouched in others, figs. 18, 19. Later
+fatigue damage and fractures due to un-
+even load distribution and bending of
+rings. Lip fractures result from too little
+support of tapered roller bearing cones,
+fig. 20, and plastic setting phenomenon
+from contact surfaces which are too
+small.
+
+18: Outer ring outside diameter, 
+fretting corrosion at "tough points"
+(e.g. ribs) in the housing
+
+20: Lip fracture of a tapered roller bearing cone due to insufficient axial support 
+of face
+
+17
+FAG
+
+
+
+=== PDF page 19 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Condition of seats
+
+21: Circumferential scoring and cold welding at the faces due to grazing by a 
+mating part
+
+3.2.4 Lateral grazing tracks
+Symptoms:
+
+Circumferential scratch marks/wear
+on the faces of the bearing rings or seals,
+figs. 21, 22.
+
+Causes:
+– Insufficient fixation of the bearings in
+
+the housing or on the shaft
+– Large amount of external contamina-
+
+tion with narrow gap between bearing
+and mating part
+– Loose mating parts
+– Axial clearance too large
+
+Remedial measures:
+– Adjust parts correctly
+– Ensure lubricant cleanliness
+– Check axial clearance and make it
+
+closer perhaps
+
+22: Seal damage due to lateral grazing
+
+FAG
+18
+
+
+
+=== PDF page 20 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+3.3
+Pattern of rolling contact
+
+Usually brown or blue colours result.
+However, no obvious conclusions can be
+drawn from the colour about the operat-
+ing temperature which led to its origin.
+Very different shades of colour have at 
+times been observed on the rolling ele-
+ments of a bearing although the operat-
+ing conditions are very similar.
+
+when the lubricant film separates well.
+The individual pattern of the tracks is,
+however, largely dependent on the 
+illumination of the surface but it should
+be possible to recognise almost all the
+machining structure particularly when
+working with a magnifying glass and
+microscope (compare with non-contact
+areas at the edge of the raceway!). In-
+dividual indentations of small foreign
+particles are inevitable. When lubrica-
+tion is particularly good they are the
+only indication of the position of the
+load zones in the bearing, fig 23.
+
+This oil discolouration should on no
+account be confused with the tempering
+colours which are found on faulty bear-
+ings in rare cases and which arise as a re-
+sult of much higher temperatures, see
+section 3.3.5.
+
+3.3.1 Source and significance of tracks
+Regardless of the occurence of dam-
+age, there are changes in the contact sur-
+faces between rings and rolling elements
+called tracks to be found on every bear-
+ing which has been in operation. These
+tracks arise from the roughening or
+smoothening of the surface structure ori-
+ginally produced. They are also charac-
+terised by indentations made by cycled
+foreign particles which are often micro-
+scopically small. Conclusions can there-
+fore be drawn from the tracks about the
+quality of lubrication, lubricant clean-
+liness and the direction of load as well as
+its distribution in the bearing.
+
+Tracks in the form of equatorial lines
+are sometimes found on balls as well.
+They appear on angular contact ball 
+bearings when the balls always have the
+same rotary axis. Any significant reduc-
+tion in life does not derive from them,
+fig. 24.
+
+3.3.1.1 Normal tracks
+Under rotary motion and load the
+rolling elements leave tracks on the race-
+ways which are bright in appearance
+
+When temperatures are above 
+approximately 80 °C discolouration of
+the raceways or rolling elements is a fre-
+quent feature. It originates from chemi-
+cal reactions of the steel with the lubri-
+cant or its additives and has no negative
+effect on the service life of the bearing.
+Quite the contrary: These surface 
+features frequently indicate effective
+wear protection of an additive.
+
+24: Ball with equatorial circumferential lines
+
+23: Normal track, surface structure still
+visible, just small indentations by
+foreign particles
+
+19
+FAG
+
+
+
+=== PDF page 21 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+nJ
+
+nJ
+
+P
+P
+
+25: Radial load of a radial bearing, e.g.
+deep groove ball bearing. Under
+point load and with a sufficiently 
+rigid housing, the track on the 
+stationary ring is shorter than half
+the raceway circumference in so far
+as there is no radial preload. Under
+circumferential load, the track
+spreads over the entire raceway 
+circumference. 
+a:
+Point load for the outer ring, 
+circumferential load for the inner
+ring
+b: Point load for the inner ring,
+
+circumferential load for the outer
+ring
+
+P
+P
+
+nA
+
+nA
+
+rotating inner ring
+constant load direction
+
+rotating inner ring
+circumferential load direction
+
+rotating outer ring
+circumferential load direction
+
+rotating outer ring
+constant load direction
+
+25a
+25b
+
+26: Axial load of a radial bearing, e.g. deep groove ball bearing. On the inner and
+outer rings the tracks spread off-centre over the entire raceway circumference.
+
+27: Combined radial-axial load of a deep groove ball bearing. In the case of the 
+inner ring (circumferential load) there is a constant wide track over the entire
+raceway circumference. The track on the outer ring (point load) is wider in the
+radial load zone than on the rest of the circumference.
+
+27
+26
+
+The arrangement of the tracks is based
+on the direction of the external load and
+the cycling conditions (point load or 
+circumferential load, axial load, com-
+bined load), figs. 25 to 27. A "target-
+actual" comparison would also reveal
+important information on unexpected
+load conditions, e.g. a disturbed floating
+bearing function. In the case of radial
+load exclusively, the origination of tracks
+in circumferential direction on the 
+stationary ring depends mainly on the
+amount of load, the size of the bearing
+clearance, and the rigidity of the mating
+parts. The greater the load and smaller
+the clearance as well as the softer the
+housing, the longer the load zone is and
+thus the track also.
+
+FAG
+20
+
+
+
+=== PDF page 22 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+The thinner the lubricant film the
+greater the influence on the surface. We
+refer to poor surface separation in this
+case, fig. 28.
+
+When the specific load is high in the
+contact areas, the tracks are bright, 
+pressure-polished and frequently shiny
+and are a clear contrast to the uncycled
+part of the raceways, fig. 29.
+
+Causes:
+– Insufficient lubricant quantity avail-
+
+able in the bearing
+– The viscosity of the lubricant is in-
+
+3.3.1.2 Unusual tracks
+Whether tracks are considered nor-
+mal or unusual depends greatly on the
+case of application. Bearings could have
+perfectly normal tracks, for example,
+which are an indication of mainly radial
+load. If, however, the bearings should be
+operating under axial preload, the tracks
+would be an indication of incorrect bear-
+ing mounting. Therefore, in order to as-
+sess the tracks correctly the conditions of
+application should be known. Some fun-
+damental symptoms can, however, al-
+ways be assessed by means of the tracks.
+
+• Tracks in the case of inadequate 
+lubrication
+
+sufficient for the operating tempera-
+ture and speed (see catalgoue "FAG
+Rolling Bearings", adjusted rating life
+calculation)
+
+Symptoms:
+
+Remedial measures:
+– Improve lubricant supply
+– Adapt lubricant viscosity to operating
+
+conditions
+– Use lubricant with approved additives
+– Use bearing parts with surface coating
+
+The visual pattern of the tracks and
+the surface as observed by microscope,
+that is, roughness, make it possible to
+draw conclusions about the quality of 
+lubrication. Dull roughened tracks arise
+from a non-separating lubricant film 
+under moderate load.
+
+29: Pressure-polished track
+28: Track with surface wear
+
+21
+FAG
+
+
+
+=== PDF page 23 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+Symptoms with liquid contamination:
+
+• Tracks in the case of contamination in
+bearing or lubricant
+
+Causes:
+– Inadequate sealing
+– Mounting conditions not clean
+– Production residues, e.g. foundry
+
+We must first differentiate between
+solid and liquid contamination.
+
+sand
+– Temperature differences (condensa-
+
+Symptoms with solid contamination:
+
+tion of water)
+– Dirty oil
+
+Remedial measures:
+– Improve sealing constructively
+– Clean mounting and well washed
+
+Water is one of the main liquid conta-
+minants. It can be taken up by the lubri-
+cant in some small amounts. It degrades
+the effect of lubrication, however, and
+often leads to tracks like those illustrated
+in fig. 29. When there are large amounts
+of moisture in the bearing dull tracks 
+arise. Pressure-polished tracks with 
+fatigue damage result also from corro-
+sion or high load, please refer to "Fatigue
+as a result of poor lubrication" in section
+3.3.2.1.
+
+mating parts, coat if necessary
+– Rinse out entire oil system before
+
+taking into operation (before first
+bearing rotation!)
+
+Indentations are the result of foreign
+particles being cycled on the raceway. By
+means of the indentations, microscopic
+inspection of the tracks allows the differ-
+entiation between particles made of soft
+material, hardened steel and hard mine-
+rals, figs. 30, 31, 32. Foreign particles
+which are particularly large and hard are
+a hazard to the life. You can find more
+detail on this in the description of 
+fatigue damage, please refer also to 
+"Fatigue resulting from  the cycling of
+foreign particles" in section 3.3.2.1. 
+A large amount of small hard foreign
+particles leads to roughening as in fig. 28
+and accelerates abrasive wear.
+
+30: Indentations of soft foreign 
+particles
+
+31: Indentations of foreign particles
+made of hardened steel
+
+32: Indentations of hard mineral 
+foreign particles
+
+FAG
+22
+
+
+
+=== PDF page 24 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+• Tracks with detrimental radial preload
+
+• Tracks with oval deformation
+
+Symptoms:
+
+Symptoms:
+
+Several separate track areas form on
+the circumference of the stationary ring,
+fig. 34.
+
+Circumferential tracks appear on
+both rings in the case of detrimental 
+radial preload, fig. 33. Hot run damage
+can arise in extreme cases, section 3.3.5.
+
+Causes:
+– Oval housing or shaft, e.g. due to di-
+
+Causes:
+– Fit interference at shaft/housing too
+
+large
+– Temperature difference too great be-
+
+verse rigidness throughout the cir-
+cumference during machining or due
+to tap holes near the bearing seats
+– Different housing rigidness in cir-
+
+tween inner and outer rings 
+– Bearing clearance too small
+
+cumferential direction with high 
+interference of the outer ring
+– Storing thin-walled bearings in verti-
+
+cal position
+
+33: Deep groove ball bearing under 
+detrimental radial preload. The
+tracks extend over the entire 
+circumference, even on the point 
+loaded ring.
+
+34: Oval deformation of a deep groove
+ball bearing. Two opposed radial
+load zones formed in the raceway of
+the ovally deformed outer ring
+(point load).
+
+23
+FAG
+
+
+
+=== PDF page 25 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+• Tracks with detrimental axial preload
+
+Symptoms:
+
+Locating bearing
+Floating bearing
+
+Only the locating bearing of a locat-
+ing-floating bearing arrangement may
+have distinctive tracks, as illustrated in
+fig. 35b, as they originate under axial
+load (fig. 26). At the most, a slight axial
+load share (preferably none at all) should
+be detected on the floating bearing.
+
+Causes:
+– Disturbed floating bearing function
+
+a
+
+(wrong fit, radial-acting heat expan-
+sion, tilting, fretting corrosion)
+– Unexpectedly high axial-acting heat
+
+expansion
+
+Remedial measures:
+– Check fit and form accuracy of mat-
+
+ing parts 
+– Change mounting and operating con-
+
+ditions
+– Use bearing with axial displaceability:
+
+cylindrical roller bearing N, NU, NJ
+
+b
+
+35: Locating-floating bearing arrange-
+ment with two deep groove ball 
+bearings.
+a:
+The deep groove ball bearing on the
+work end is designed as the locating
+bearing, the bearing on the drive
+end as the floating bearing.
+b: Tracks on bearings in working or-
+
+c
+
+der. The locating bearing shows the 
+characteristics of a bearing under
+combined load, the floating bearing
+those of a bearing under 
+mainly/purely radial load.
+c:
+Tracks on bearings under detrimen-
+tal axial preload (outer ring of float-
+ing bearing does not move). Each
+bearing shows the characteristics of
+a combined load. The detrimental
+axial preload is clear from the 
+symmetric tracks of both bearings.
+
+FAG
+24
+
+
+
+=== PDF page 26 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+36: Flaking in one of the tracks on the
+outer ring of a self-aligning ball 
+bearing caused by detrimental axial
+preload
+
+37: Development of tracks in the case 
+of a self-aligning ball bearing with
+rotating inner ring under detrimen-
+tal axial preload and radial load
+
+25
+FAG
+
+
+
+=== PDF page 27 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+• Tracks with misalignment
+Symptoms:
+
+Remedial measures:
+– Observe mounting specifications re-
+
+Causes:
+– Shaft deflection
+– Misaligned housing halves or
+
+plummer block housings
+– Out-of-square abutment surfaces
+– Dirt between abutment surfaces and
+
+garding permissible tilting, see FAG
+Catalogue
+– Ensure cleanliness during mounting
+– Set suitable bearing clearance
+
+bearing rings during mounting
+– Too much bearing clearance in com-
+
+In the case of ball bearings the track
+of the stationary ring does not run verti-
+cally but diagonally to the axial direc-
+tion, figs. 38 and 39. With roller bear-
+ings the track is more distinct on one
+edge of the raceway than on the other
+under tilting, fig. 40.
+
+bination with moment load
+
+38: Misaligned bearings
+a:
+Tilting of the inner rings relative to the outer rings in the case of misaligned housing seats
+b: Tilting of the inner rings relative to each other in the case of shaft deflection
+c:
+Tracks of a misaligned deep groove ball bearing with rotating inner ring
+d: Tracks of a misaligned deep groove ball bearing with rotating outer ring
+
+F
+F
+
+b
+a
+
+c
+d
+
+FAG
+26
+
+
+
+=== PDF page 28 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+3.3.2 Indentations in raceways and 
+rolling element surfaces
+On damaged bearing parts indenta-
+tions are often found in the contact areas
+which could have the most diverse 
+causes. Since they generally occur evenly
+distributed in large numbers, the inden-
+tations originating from the cycling of
+foreign particles were taken into consid-
+eration when assessing tracks (section
+3.3.1). In the subsequent paragraphs 
+reference is made mainly to those which
+are locally restricted to the ring.
+
+39: Oblique track in inner ring of deep
+groove ball bearing
+
+40: Tilted track on a tapered roller 
+bearing
+
+3.3.2.1 Fractures
+During cycling, the material of the 
+raceways and rolling elements is subject
+to a continuous pulsating stress. This
+leads to failure patterns like those result-
+ing from the fatigue of mating parts un-
+der bending stress: fatigue fractures de-
+velop. In rolling bearings these fractured
+areas run largely parallel to the surface
+and lead to material flaking and are re-
+ferred to as fatigue damage, flaking, 
+pittings, spalling, grey stippiness, micro
+pittings, steel pittings etc.
+
+27
+FAG
+
+
+
+=== PDF page 29 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+• Classical fatigue 
+Even with very favourable operating
+conditions, i.e. hydrodynamic separating
+lubricating film, utmost cleanliness and
+moderate temperatures, fatigue damage
+can develop on rolling bearing parts 
+depending on the stress. Endurance
+strength is assumed where the index of
+stress is
+
+fs* = C0/P0* ≥8
+
+(C0 = static load rating, P0* = equivalent
+load). When the stress is greater, which
+means the fs* value is smaller, fatigue 
+damage can be expected after a more or
+less long operating period.
+
+42: Advanced fatigue damage on deep
+groove ball bearing
+
+41: Classical fatigue can be recognized
+by pitting in the raceway of a deep
+groove ball bearing inner ring. 
+Material flakes off the entire race-
+way when damage advances.
+
+Such damage due to classical fatigue
+with cracks starting below the surface
+seldom occurs. Fatigue damage starts far
+more often at the surface of the compo-
+nents in rolling contact as a result of in-
+adequate lubrication or cleanliness. The
+causes are no longer detectable when 
+damage has advanced.
+
+Symptoms:
+
+Subsurface cracks of raceway and 
+rolling elements, material flaking (rela-
+tively deep pitting), undamaged areas of
+the raceway indicate good lubrication in
+the early stage of damage, (see fig. 23),
+while more or less a lot of indentations
+by cycled fractured parts (see fig. 31) can
+be detected depending on how far 
+damage has progressed, figs. 41 to 43.
+
+43: Fatigue damage in the outer ring raceway of a tapered roller bearing
+
+FAG
+28
+
+
+
+=== PDF page 30 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+– Use dirt-protected bearing construc-
+
+• Fatigue as a result of foreign particle
+cycling
+
+Remedial measures:
+– Wash housing parts thoroughly, and
+
+coat perhaps
+– Cleanliness and caution required
+
+tion
+– Cleanliness of lubricant important
+– Rinsing procedure with filtering prior
+
+to putting unit into operation
+
+when mounting
+– Improve sealing
+
+44: Reduction in life due to different contaminants
+
+1
+
+0,1
+
+There is a great reduction in the 
+fatigue life when rough contaminants are
+present in the bearing, fig. 44. The
+harmfulness of damage caused by 
+foreign particles in actual cases of appli-
+cation depends on their hardness, size,
+and amount as well as the size of the 
+bearing. With regard to fatigue ball bear-
+ings react more sensitively to contamina-
+tion than roller bearings, and bearings
+with small rolling elements more sensi-
+tively than those with large ones. The
+rolled-up material plays a very important
+role where the indentation of foreign
+particles is concerned. It is particularly
+under stress during subsequent cycling
+and is responsible for the first incipient
+cracks, SEM fig. in section 4.
+
+relative life
+
+Symptoms:
+
+Material flaking; V-shaped spreading
+behind the foreign particle indentation
+in cycling direction (V pitting), fig. 45.
+
+0,01
+
+Cause:
+
+corundum grains
+
+no contamination
+
+iron chips
+
+grinding chips
+
+foundry sand grains
+
+Damaged raceway, indentations by
+hard particles (foundry sand, grinding
+agent) are particularly dangerous.
+
+45: Fatigue damage caused by foreign particle indentation spreads itself in the cycling direction forming a V shape
+a:
+Damage at the time of detection
+b: Damage after about 1,000 operating hours
+c:
+Damage after about 1,200 operating hours
+
+29
+FAG
+
+
+
+=== PDF page 31 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+• Fatigue as a result of static overload
+
+– Setting phenomenon of axial contact
+
+• Fatigue as a result of incorrect 
+mounting
+
+areas or in thread of clamping bolts
+– Radial preload
+
+Symptoms:
+
+Like foreign particle indentations,
+rolling element indentations develop
+due to the bearing's high static overload
+and their rolled-up edges lead to failure.
+
+Fatigue near the small shoulder in the
+case of angular contact ball bearings, 
+outside the contact angle area, fig. 46.
+
+Remedial measures:
+– Rigid surrounding parts
+– Correct mounting
+
+Symptoms:
+
+Causes:
+– Insufficient adjustment
+
+At the early stage evenly edged inden-
+tations at rolling element spacing from
+which fractures arise, often only on part
+of the circumference.
+
+Only on one ring sometimes. Usually
+asymmetric to centre of  raceway.
+
+46: Fatigue damage in groove bottom of an angular contact ball bearing's inner
+ring as a result of insufficient adjustment force
+
+Causes:
+– Static overload, shock impact
+– Mounting force applied via rolling
+
+element
+
+Remedial measure:
+– Mounting according to specification
+– Avoid high impact forces, do not
+
+overload
+
+FAG
+30
+
+
+
+=== PDF page 32 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+• Fatigue as a result of misalignment
+
+47: Fatigue may occur at the edge of the raceway of a misaligned tapered roller 
+bearing due to local overload.
+
+Symptoms:
+– Track asymmetric to bearing centre,
+
+fig. 40
+– Fatigue on the edges of raceway/
+
+rolling elements, fig. 47
+– Circumferential notches on the entire
+
+or part of ball surface caused by 
+plastic deformation and therefore 
+having smooth edges. In extreme 
+cases the bottoms of the notches may
+have cracks, fig. 48.
+
+Causes:
+
+48: Fatigue at the raceway edge in the case of ball bearings, e.g. with high moment
+load (edge running); left raceway edge, right ball.
+
+Due to housing misalignment or shaft
+bending the inner ring tilts as opposed
+to the outer ring and high moment loads
+result. In ball bearings this leads to a
+constraining force in the cage pockets
+(section 3.5.4) and to more sliding in
+the raceways as well as the balls running
+on the shoulder edge. In the case of rol-
+ler bearings, the raceway is asymmetri-
+cally loaded; when tilting of the rings is
+extreme, the edges of the raceways and
+rolling elements also carry the load 
+causing excess stress in those positions,
+please refer to "Tracks with misalign-
+ment" in section 3.3.1.2.
+
+Remedial measures:
+– Use self-aligning bearings
+– Correct misalignment 
+– Strengthen shaft
+
+31
+FAG
+
+
+
+=== PDF page 33 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+• Fatigue as a result of poor lubrication
+
+Symptoms:
+
+Depending on the load, diverse 
+damage patterns arise in the case of poor
+lubrication. When load is low and 
+slippage also occurs tiny superficial 
+fractures develop. Since they grow in 
+large numbers, they appear like spots on
+the raceway, fig. 49. We refer to the
+terms grey stippiness or micro pittings.
+When the load is very high and the lu-
+bricant has, for example,  thinned down
+due to water penetration, mussel-shaped
+pittings develop when the raceways 
+(fig. 29) are also pressure polished, 
+fig. 50.
+
+When loads are very high and lubrica-
+tion is poor very distinct heating zones
+develop in the raceway where, in turn,
+incipient cracks arise when cycling con-
+tinues.
+
+49: Micro pittings
+
+Causes:
+– Poor lubrication condition as a result
+
+of
+– • insufficient lubricant supply
+– • operating temperature too high
+– • water penetrates
+– causing more friction and material
+
+stress on the raceway surface
+– Slippage at times
+
+Remedial measures:
+– Increase lubricant quantity
+– Use lubricant with a higher viscosity,
+
+if possible with tested EP additives
+– Cool lubricant/bearing position
+– Use softer grease perhaps
+– Prevent penetration of water
+
+50: Mussel-shaped fatigue
+
+FAG
+32
+
+
+
+=== PDF page 34 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+• Fatigue as a result of wear
+
+• Fatigue due to fracture in case layer
+
+Symptoms:
+
+Symptoms:
+
+Local flaking, e.g. on the rolling ele-
+ments of tapered roller bearing, figs. 51
+and 52. Striped track, fig. 68.
+
+Remedial measures:
+– Replace lubricant on time
+– Filter lubricating oil
+– Improve sealing
+– Replace worn seals on time
+– Special heat treatment for rings and
+
+rollers
+
+Causes:
+
+Raceway peeling in thick chunks in
+the case of case-hardened bearing parts.
+Causes:
+– Fracture or separation of case layer
+– Load too high or case layer thickness
+
+too thin for given load, e.g. due to
+wrong design load 
+Remedial measures:
+- Adjust thickness of case layer to suit
+
+load conditions
+- Avoid overloading
+
+Change in geometry of components
+in rolling contact due to wear in the case
+of contaminated lubricant, for example
+due to the penetration of foreign par-
+ticles when sealing is damaged. Local
+overload results, partly in connection
+also with insufficient adjustment of 
+tapered roller bearings.
+
+25
+
+µm
+
+20
+
+15
+
+10
+
+5
+
+0
+0
+
+1
+
+4
+
+2
+3
+5
+6
+7
+8
+9
+10
+11
+mm
+
+a
+
+b
+
+52: Failure mechanism as in fig. 51 but
+with wear of the raceway edges,
+cross profile of the roller see fig. 69.
+
+51: Wear in diverse areas can change the geometry of the components in rolling
+contact to such an extent that local overload leads to fatigue
+a:
+Cross profile of a roller;
+b: Inner ring raceway and roller with fatigue damage.
+
+33
+FAG
+
+
+
+=== PDF page 35 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+3.3.2.2 Corrosion damage
+
+Remedial measures:
+– Suitable storage according to the
+
+• Corrosion due to humidity (rust)
+
+the contact areas when standstill is for a
+long period, fig. 54. This leads to wear 
+at a later stage and premature fatigue 
+originating at the rust pits.
+
+Symptoms:
+
+specifications of rolling bearing 
+manufacturer
+– Improvement in seals (additional
+
+Causes:
+– Incorrect storage in warehouse (rela-
+
+shields perhaps)
+– Use lubricant with corrosion inhibi-
+
+Brownish discolouration of the com-
+plete bearing surface, usually unevenly
+distributed in the form of individual
+pits, fig. 53.
+
+tive air humidity > 60%)
+– Extreme temperature variations (con-
+
+tors
+– Relubricate frequently in the case of
+
+densation moisture)
+– Sealing failure (accelerated by the
+
+grease lubrication, particularly prior
+to standstill periods
+
+In many cases there are also spots of
+rust with pits at the rolling element
+pitch (standstill corrosion). Capillary 
+effect causes humidity to concentrate on
+
+abrasive action of dirt, fig. 87)
+– Unsuitable lubricant
+
+53: Corrosion of the outer ring of a
+deep groove ball bearing, the 
+corrosion protection of which was
+destroyed by humidity
+
+54: Corrosion pits in the raceway at rolling element pitch
+
+FAG
+34
+
+
+
+=== PDF page 36 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+• Corrosion due to aggressive media
+
+Remedial measures:
+– Storage in accordance with rolling
+
+Symptoms:
+
+Usually black etching pits, fig. 55.
+
+bearing manufacturer's specifications
+– Improvement in seals 
+– Use lubricant with corrosion inhibi-
+
+tors
+
+Causes:
+– Incorrect storage in warehouse
+
+(storage of aggressive chemicals in
+same area)
+– Sealing failure
+– Unsuitable lubricant
+
+55: Surface damage due to attack of aggressive media. The etching pits are usually
+black.
+
+35
+FAG
+
+
+
+=== PDF page 37 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+56: On the inner ring of a cylindrical roller bearing, marks due to false brinelling
+have developed on the raceway at rolling element pitch.
+
+3.3.2.3 False brinelling 
+Symptoms:
+
+Marks on the raceway surface at the
+rolling element pitch, figs. 56 and 57.
+No raised edges as opposed to marks due
+to incorrect mounting (see section
+3.3.2.4 "Rolling element indentations").
+Surfaces in the indentations frequently
+brown in colour (corrosion) and particu-
+larly with ball bearings badly roughened
+(machining structure missing). Scratches
+in the axial direction may also be de-
+tected with ball bearings. When the 
+bearing rotates a little occasionally, 
+several patches due to false brinelling 
+arise.
+
+Causes:
+
+Vibrations in stationary machines
+which lead to micromotion in the
+contact areas of the components in 
+rolling contact.
+
+57: False brinelling on the ball bearing
+
+Remedial measures:
+– Eliminate or absorb vibrations
+– Avoid standstill of sensitive machines,
+
+leave running; use safety devices 
+during transport which unload or
+preload the bearings.
+– Use suitable lubricant (additives).
+– Select larger radial clearance for
+
+rotating loads.
+
+FAG
+36
+
+
+
+=== PDF page 38 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+3.3.2.4 Rolling element indentations
+Symptoms:
+
+Indentations at the rolling element
+pitch in the raceways of non-separable
+bearings, fig. 58. Fatigue sometines 
+arising therefrom, see also "Fatigue as a
+result of static overload" in section
+3.3.2.1.
+The indentations may also have 
+occured during dismounting: check 
+cycling features (shiny edges), determine
+mounting direction.
+
+Causes:
+– Static overload/shock impacts
+– Mounting or dismounting forces
+
+applied via rolling elements (incorrect
+mounting order, unsuitable accesso-
+ries)
+
+Remedial measures:
+
+Mount the ring with the tight fit first.
+When both rings have a tight fit mount
+them together with a suitable disk.
+
+58: Ball indentations in the shoulders
+of a deep groove ball bearing. The
+mounting tool was attached to the
+ring with a loose fit and the forces
+were therefore applied via the balls.
+
+37
+FAG
+
+
+
+=== PDF page 39 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+Causes:
+
+• Fluting
+Symptoms:
+
+Sparking over current, for example
+during welding or due to earth contact
+failure
+
+3.3.2.5 Craters and fluting due to 
+passage of electric current
+• Craters 
+Symptoms:
+
+Remedial measures:
+
+Brownish marks parallel to the axis on
+a large part of the raceway or covering
+the entire raceway circumference, fig.
+60.
+
+Causes:
+
+Do not direct current through the
+bearing during electro welding 
+(earthing).
+
+Constant passage of alternating or 
+direct current, even low currents cause
+marks.
+
+Craters in the raceway due to local
+melting at the contact area of the parts
+in rolling contact, sometimes several 
+craters in a row or whole chains around
+the circumference. The surface in the
+craters is partly formed like welding 
+beads, fig. 59.
+
+Remedial measures:
+– Prevent currents from flowing
+
+through the bearing (earthing, insula-
+tion).
+– Use current insulated bearings.
+
+60: Fluting in the outer ring raceway of
+a deep groove ball bearing was 
+caused by the constant passage of
+current.
+
+59: Current sparkover led to the formation of craters in the raceway of a 
+cylindrical roller bearing.
+
+FAG
+38
+
+
+
+=== PDF page 40 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+3.3.2.6  Rolling element edge running
+Symptoms:
+
+Causes:
+– Excessive (axial) load
+– Moment load too high
+– Operating clearance too large
+– Tilting
+
+Remedial measures:
+– Avoid overloading
+– Use bearing with higher load carrying
+
+capacity
+– Reduce operating clearance
+– Avoid tilting
+
+In the case of balls, arch-shaped 
+notches on the surface or what one could
+describe as "woolen balls" of notches,
+edges rounded since they are plastically
+deformed, figs. 61, 62. Circumferential
+notches near the faces in the case of 
+rollers. Not to be confused with 
+scratches by foreign particles, see section
+3.3.4.2 "Scratches on rolling element
+outside diameters".
+
+61: Ball with extreme edge tracks caused by long-term 
+constant load
+
+62: Ball with "woolen balls" of notches caused by long-term
+changing load
+
+39
+FAG
+
+
+
+=== PDF page 41 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+63: Outer ring fracture of a deep groove ball bearing in the axial direction as a 
+result of fatigue
+
+3.3.3
+Ring fractures
+3.3.3.1 Fatigue fractures as a result of 
+raceway fatigue
+Symptoms:
+
+Generally large-area fatigue damage
+in the raceway; frequently steps (lines of
+rest) in the fracture area, fig.63
+
+Causes:
+
+Well-advanced fatigue damage
+
+Remedial measures:
+
+See section 3.3.2.1 "Fractures"
+
+3.3.3.2 Axial incipient cracks and 
+through cracks of inner rings
+
+Remedial measures:
+– Improve lubrication (additives, in-
+
+crease oil quantity)
+– Find remedial measure for damage to
+
+– Select suitable fit
+– Avoid grazing of surrounding parts
+– Provide for better seating conditions
+– Special heat treatment for rings
+
+raceway
+
+Symptoms:
+
+64: Axial through crack of a spherical roller bearing's inner ring
+
+Ring partly or completely cracked in
+the axial direction. Fractured edges
+slightly rounded: indicates that the 
+fracture originated during operation and
+was cycled. Sharp-edged crack flanks in-
+dicate that fracture occured during dis-
+mounting. In the case of long periods of
+operation with cracks, the latter's edges
+may be partly broken off, fig. 64.
+
+Causes:
+– Bearing slippage
+– Fractures in the raceway
+– Rotation of inner ring on the shaft
+– Unsuitable lubrication
+– Fit too tight on the shaft
+– Shaft groove
+– Out-of-roundness
+– Grazing against surrounding parts
+
+FAG
+40
+
+
+
+=== PDF page 42 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+shows an irregular load carrying pattern,
+fig. 65.
+
+3.3.3.3 Outer ring fractures in 
+circumferential direction
+Symptoms:
+
+Causes:
+
+Poor support of the rings in the 
+housing
+
+Remedial measures:
+
+Constructive improvement in 
+mounting required
+
+Usually the crack spreads evenly in
+the circumferential direction. Several
+fractured pieces often originate. With
+axial load, these fractures occur as a rule
+a little beyond the middle of the race-
+way. Fatigue damage is often the cause.
+The outer ring outside surface normally
+
+65: Crack in outer ring in circumferential direction
+
+41
+FAG
+
+
+
+=== PDF page 43 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+66: Worn, roughened raceway
+
+3.3.4 Deep scratches and smear marks 
+on the contact surfaces
+In addition to local fractures, cracks,
+and other dents in the raceway or rolling
+element surfaces, large-area surface 
+damage also frequently arises as a result
+of sliding in the bearing which leads to
+wear. In addition to the cycling condi-
+tions, the extent of this damage is essen-
+tially influenced by the intensity and 
+cleanliness of the lubrication.
+
+3.3.4.1 Wear damage with poor 
+lubrication
+Symptoms:
+
+67: Wear traces can usually first be detected on the surfaces of the rolling elements
+
+The contact areas are dull and 
+roughened, figs. 28 and 66. Abraded
+matter turns the lubricant dark in
+colour; also yellow in the case of brass
+cages. The grease is also solidified. In
+many cases, however, moisture leads to
+the lubricant consistency growing wa-
+tery. Either preload is reduced or the
+bearing clearance is enlarged. If foreign
+particles are the cause of wear, the rolling
+element surfaces will be particularly 
+badly scored, fig. 67. Under adverse con-
+ditions, roller bearing raceways may be
+unevenly worn throughout their circum-
+ference. The appearance of the raceways
+is then stripy, fig. 68 and 69. This type
+of wear leads to fatigue damage, please
+refer to "Fatigue as a result of wear" in
+section 3.3.2.1.
+
+Causes:
+– Non-load-carrying lubricant film
+– Contaminants in lubricant (fine, hard
+
+particles, e.g. dust, or also water)
+– Insufficient adjustment of bearings in
+
+the case of uneven wear of tapered
+roller bearings
+
+FAG
+42
+
+
+
+=== PDF page 44 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+Remedial measures:
+– Use lubricant with higher load carry-
+
+ing capacity, e.g. with more viscosity
+or EP additives    
+– Shorten lubricant change intervals         
+– Improve sealing
+– Filter lubricant
+– Ensure correct adjustment of bearings
+
+68: Formation of stripes as a result of wear in certain areas.
+a: Roller
+
+b: Raceway
+
+69: Chart for fig. 68a
+
+43
+FAG
+
+
+
+=== PDF page 45 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+3.3.4.2 Scratches on rolling element 
+outside diameters
+Symptoms:
+
+70: Deep scratches on rollers as a result of foreign particles in the cage
+
+Circumferential notches in the con-
+tact areas of rolling elements. Parallel
+rings in the case of rollers, figs. 70 and
+71, and usually like "balls of wool" in
+the case of balls, fig. 72. Not to be con-
+fused with edge tracks (see section
+3.3.2.6). Edge running forms tracks
+with smooth edges due to plastic defor-
+mation; scratches have sharp edges.
+Hard particles are frequently pressed
+into the cage pockets which cause the
+scratches, fig. 73.
+
+Cause:
+
+Contaminated lubricant; hard par-
+ticles become fixed in the cage pockets
+and act like the grains in a grinding
+wheel.
+
+Remedial measures:
+– Ensure clean mounting conditions
+– Improve sealing
+– Filter lubricant
+
+71: Chart for fig. 70.
+
+72: Scratches on the ball surface re-
+sembling a ball of wool
+73: Embedding of foreign material in
+the cage crosspiece of a cylindrical
+roller bearing
+
+FAG
+44
+
+
+
+=== PDF page 46 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+3.3.4.3 Slippage tracks
+Symptoms:
+
+Rolling element sliding, particularly
+in the case of large and heavy rollers e.g.
+in cageless bearings. Roughening of the
+raceways or rolling elements. Material
+often rolled up and with smear marks.
+Usually not evenly distributed on the
+surface but in spots, figs. 74 and 75. 
+Found frequently in connection with
+micro pittings, see "Fatigue as a result of
+poor lubrication" in section 3.3.2.1.
+
+Causes:
+- The rolling elements slide on the
+
+74: Slippage tracks on cylindrical rollers
+
+raceways when load is low and lubri-
+cation is poor. Also due sometimes to
+load zones which are too short, where
+the rolling elements brake in the un-
+loaded zone in the cage pockets and
+subsequently accelerate again when
+entering the load zone.
+- Fast changes in speed.
+
+Remedial measures:
+- Use bearings with lower load carrying
+
+capacity
+- Preload bearings, e.g. with springs
+- Reduce bearing clearance
+- Ensure sufficient load during the trial
+
+run also
+- Improve lubrication
+
+75: Slippage damage on the inner ring of a cylindrical roller bearing
+
+45
+FAG
+
+
+
+=== PDF page 47 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+3.3.4.4 Score marks
+Symptoms:
+
+not concentric to one another or are 
+misaligned and are shoved together 
+forcefully. This can be particularly 
+dangerous with large moving masses
+(large shaft is shoved with the bearing
+inner ring and rolling elements into the
+outer ring which has already been 
+pressed into the housing).
+
+Material displacement at rolling ele-
+ment pitch parallel to the axis in race-
+ways and rolling elements of separable
+cylindrical roller bearings or tapered 
+roller bearings. Sometimes several sets of
+such marks displaced to one another by
+a few degress on the circumference. 
+Frequently found on just about 1/3 of
+the circumference and not on the whole
+circumference, fig. 76.
+
+Causes:
+
+Remedial measures:
+– Use suitable mounting aids
+– Avoid misalignment 
+– If possible assemble parts with a slow
+
+rotating movement
+
+During mounting the single ring and
+the ring with the rolling element set are
+
+76: Score marks in the raceway of a cylindrical roller bearing inner ring caused by
+out-of-square insertion into the rolling element set
+
+FAG
+46
+
+
+
+=== PDF page 48 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+3.3.5 Damage due to overheating
+Symptoms:
+
+– Inadequate lubrication
+– Radial preload due to external heating
+– Overlubrication
+– Impeded running due to cage fracture
+
+Bearing parts badly discoloured*).
+Raceway/rolling elements plastically de-
+formed to a large extent. Temperature
+surge. Bearing seizure frequent, fig. 77.
+Hardness well below 58 HRC.
+
+Causes:
+
+Remedial measures:
+– Increase bearing clearance
+– In the case of external heating ensure
+
+Usually no longer detectable from 
+damage pattern resulting from over-
+heated bearings. Possible causes:
+– Bearing clearance in operating condi-
+
+tion too low, particularly with high
+speed bearings
+
+sufficiently slow heating up and cool-
+ing down, that is, uniform heating of
+complete bearing
+– Avoid lubricant pile-up
+– Improve lubrication
+
+*) Note on discolouration:
+Tempering colours are related to
+overheating damage. Brown and blue
+shades develop depending on how high
+the temperature is and how long it takes
+effect. They resemble greatly the oil dis-
+colouration which appears far more fre-
+quently (see section 3.3.1.1). Therefore
+conclusions regarding an excess operat-
+ing temperature may on no account be
+drawn from discolouration alone. The
+spreading of the discolouration may 
+serve to differentiate between tempering
+colours and oil discolourating: while the
+latter is frequently found only on the
+rolling elements and directly in the track
+area the former usually covers a large
+part of the free bearing surfaces. How-
+ever, the only answer to the occurence of
+extremely high operating temperatures is
+a hardness inspection.
+
+77: The rollers left deep impressions in the raceway of a seized, overheated 
+cylindrical roller bearing.
+
+47
+FAG
+
+
+
+=== PDF page 49 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Lip contact
+
+Causes:
+
+3.4 Assessment of lip contact
+Fig. 78 illustrates a well run-in lip
+surface.
+
+Hard foreign particles in lubricant
+which are drawn into the area of contact
+between roller face and lip.
+
+3.4.1
+Damage to lip and roller faces 
+in roller bearings
+3.4.1.1 Scoring due to foreign particles
+Symptoms:
+
+Remedial measures:
+
+Improve lubricant cleanliness.
+
+Arc-shaped scratches in the lip surface
+or roller face (particularly frequent with
+tapered roller bearings), figs. 79 and 80.
+Their depth into the lip area depends on
+the rolling element radius the foreign
+particle became stuck in.
+
+80: Scoring on the face of a tapered 
+roller
+79: Lip area scoring due to foreign 
+particles
+78: Normal run-in lip contact track in a
+tapered roller bearing
+
+FAG
+48
+
+
+
+=== PDF page 50 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Lip contact
+
+3.4.1.2  Seizure in lip contact
+Symptoms:
+
+Partial or large-area welding and deep
+scratches in the lip and roller face areas,
+figs. 81 and 82. Also lubricant coking in
+this area. Frequently related to very high
+loads.
+
+Causes:
+– Inadequate lubrication with high
+
+loads and high speeds (quantity or
+operating viscosity of lubricant too
+low)
+– Inadequate lubrication with high
+
+loads and low speeds when there is no
+hydrodynamic lubricating film be-
+tween roller face and lip 
+– Too high preload of tapered roller
+
+81: Skewing rollers caused seizure marks at the lip when in contact with its edges.
+
+bearings 
+– Detrimental preload due to heat ex-
+
+pansion
+– Skewing of rollers for example in the
+
+case of raceway wear, ring tilting or
+insufficient adjustment, fig. 81
+– Axial load too high on cylindrical
+
+roller bearings
+– Axial preload of inner ring too high
+
+for out-of-square mating surfaces.
+
+Remedial measures:
+– Improve lubrication (increase vis-
+
+cosity, EP additives, increase lubricant
+quantity)
+– Ensure correct adjustment of bearings
+
+82: Seizure can arise at the roller face and lip when the lubricant supply is 
+inadequate and loads are high.
+
+49
+FAG
+
+
+
+=== PDF page 51 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Lip contact
+
+3.4.1.3  Wear in the lip contact area
+Symptoms:
+
+In the case of roller bearings poor 
+lubrication conditions are first revealed
+by the sliding contact roller face/lip. In
+serious cases the previously mentioned
+seizure phenomena result. In all cases,
+however, the contact areas have wear
+characteristics. This can be clearly seen
+in the cross profile chart of the lip or roller 
+faces, fig. 83. Rims frequently develop at
+the roller faces also. In the case of tapered
+roller bearings a reduction in preload or
+extended axial clearance results. This
+leads, for example in transmissions with
+load direction inversion, to increased
+running noise. The amount of wear in
+the lip contact area enters only about 
+1/3 of the axial clearance in the case of
+tapered roller bearings due to the geo-
+metric conditions. Lip wear is also an in-
+dication for wear in the raceway or roller
+outside diameter.
+
+83: Cross profile chart of a worn 
+tapered roller face
+
+Causes:
+– Inadequate lubrication (type, quanti-
+
+ty)
+– Contaminated lubricant
+
+Remedial measures:
+– Ensure utmost cleanliness
+– Choose suitable lubricant (viscosity,
+
+EP additives) and ensure sufficient
+supply
+
+84: Rim formation at the tapered roller
+
+FAG
+50
+
+
+
+=== PDF page 52 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Lip contact
+
+– Subsequent damage of cage and
+
+3.4.1.4  Lip fractures
+Symptoms:
+
+rolling element fracture
+– Mounting damage
+
+Supporting lips are completely or
+partly broken off or cracked, fig. 85.
+
+Remedial measures:
+– Ensure good lip support design
+– Keep load within the limits assumed
+
+Causes:
+– Axial load unacceptably high 
+– Lip insufficiently supported, fig. 20
+– Axial shock load
+
+for designing
+– Observe mounting specifications
+
+85: Lip broken off a barrel roller bearing. The inner ring was driven onto the shaft
+with a hammer.
+
+51
+FAG
+
+
+
+=== PDF page 53 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Lip contact
+
+3.4.2 Wear of cage guiding surfaces
+
+Causes:
+– Insufficient lubricant supply to
+
+Symptoms:
+
+contact areas, often inadequate 
+drainage of the lubricant
+– Contaminated lubricant
+– Speed too high for the bearings
+
+applied
+– Excess tilting during assembly
+– Unexpectedly high operating temper-
+
+ature in the case of outer ring guided
+brass cages (different heat expansion
+steel/brass)
+
+Remedial measures:
+– Improve lubrication (greater flow,
+
+more cleanliness)
+– Use bearings designed for operating
+
+Wear may result when cages – parti-
+cularly brass cages – are guided at the
+lips of bearing rings. The surface is
+usually badly roughened and seizure also
+results (cage material clings to lip). A
+shoulder develops at the lip when there
+is a lot of wear since the cage is not as a
+rule in contact with its entire width, 
+fig. 86. Similar wear characteristics are
+also found at the side edges of the corre-
+sponding cage, see section 3.5.1. It is
+particularly hazardous for the inner ring
+lip contact of high-speed bearings.
+
+conditions in question
+– Coat cage
+
+86: Bad contact marks on the cage guiding surface of an outer ring lip with 
+smeared on material
+
+FAG
+52
+
+
+
+=== PDF page 54 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Lip contact
+
+3.4.3.2  Discolouration of sealing track
+Symptoms:
+
+3.4.3
+Damage to seal running areas
+3.4.3.1 Worn sealing lip tracks
+Symptoms:
+
+Brown or blue colour in the area of
+sealing lip contact, particularly in the
+case of shaft seals. Excess heating leads to
+hardening and intense wear of the seal-
+ing, see section 3.6.1.
+
+Causes:
+– Intense heating of lip and shaft area
+
+At the area of the sealing lip contact a
+circumferential groove, usually shiny, 
+develops in the lip. Also in conjunction
+frequently with worn sealing lips and 
+damage to the bearing as a result of 
+penetrating contaminants. Corrosion in
+the sealing area is found in several cases
+as well, fig. 87.
+
+due to overlapping or to a high press-
+on force of the sealing
+– Sealing lip area of contact not suffi-
+
+ciently lubricated
+
+Causes:
+– Extreme amount of external dirt, par-
+
+ticularly in moist environment.
+– Lip runs dry.
+
+Remedial measures:
+– Lubricate sealing lip
+– Reduce press-on force insofar as per-
+
+missible for the sealing effect
+
+Remedial measures:
+– Use preseals, e.g. flinger rings.
+– Lubricate sealing lip.
+
+87: Corrosion in the area of the sealing track at the lip of an angular contact ball
+bearing
+
+53
+FAG
+
+
+
+=== PDF page 55 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Cage damage
+
+3.5 Cage damage
+
+Causes:
+– Lubricant contaminated with hard
+
+foreign particles
+– Too little or unsuitable lubricant
+
+3.5.1 Wear due to starved lubrication 
+and contamination
+Symptoms:
+
+Remedial measures:
+– Ensure clean assembly conditions
+– Filter lubricant
+– Increase lubricant flow through
+
+and/or apply a different viscosity
+
+In the case of cages with lip guidance
+wear in the side edges, for those guided
+by rolling elements wear in the pockets.
+Subsequent damage due to advanced
+wear could cause rolling element guid-
+ance to develop into lip guidance and
+abrade there also or vice versa. Wear is
+generally in the axial direction to a large
+extent symmetric in the pockets or in the
+case of cylindrical roller bearings at both
+side edges, fig. 88.
+
+88: Wear of cage side edges
+
+3.5.2 Wear due to excess speed
+Symptoms:
+
+Wear of cage outside diameter due to
+grazing at the bearing outer ring, fig. 89.
+
+Causes:
+– Excess speed
+– Unsuitable cage construction selected
+
+Remedial measures:
+– Use different type of cage
+
+89: Wear of cage outside diameter due
+to grazing at the bearing outer ring
+
+FAG
+54
+
+
+
+=== PDF page 56 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Cage damage
+
+90: Diagonal wear in cage pockets of roller bearings
+
+3.5.3 Wear due to roller skewing
+Symptoms:
+
+Roller skewing results when roller
+bearings carry low loads or badly tilt or
+when tapered roller bearings are not 
+sufficiently adjusted. If the skewing for-
+ces cannot be accommodated by the lips,
+wear areas which are diagonally opposite
+one another develop due to the unper-
+missibly high load in the cage pockets.
+This can lead to fractures between cross-
+piece and side edge in the advanced stage
+of damage, fig. 90.
+
+Causes:
+– Unpermissible tilting of bearings,
+
+partly due to misalignment
+– Faulty adjustment of clearance in the
+
+bearings
+
+Remedial measures:
+– Adjust bearings correctly
+– Use self-aligning bearings, avoid mis-
+
+alignment
+
+91: Bearing rings tilting towards one another led to high constraining forces 
+between balls and cage which, in turn, led to web fracture.
+
+3.5.4 Wear in ball bearing cages due to 
+tilting
+Symptoms:
+
+Intense wear at the webs between the
+cage pockets, deformation or fracture
+may occur, fig. 91 (tracks, compare with
+fig. 38).
+
+Causes:
+– Excess tilting of bearing rings to one
+
+another, e.g. ball bearings with com-
+bined load. Varying circumferential
+velocity of balls as a result.
+– Stress in cage area high, particularly
+
+with poor lubrication
+
+Remedial measures:
+– Avoid tilting as much as possible
+– Apply eventually self-aligning bear-
+
+ings or bearings with polyamide cages 
+– Special design: long hole pockets
+
+55
+FAG
+
+
+
+=== PDF page 57 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Cage damage
+
+92: Fractured cage-rivet connections may result from vibration stress.
+
+3.5.5 Fracture of cage connections
+Symptoms:
+– Loosening of riveted joints, rivet
+
+fracture (fig. 92)
+– Breaking off of cage prongs
+
+Causes:
+– Vibrations or shocks which super-
+
+impose the normal cage stress, e.g. 
+vibrating units or vehicles
+– Tilting in the case of deep groove ball
+
+bearings
+
+Remedial measures:
+– Use of solid cage rather than pressed
+
+cage
+– Use of window-type cage particularly
+
+when stress is great
+
+93: Disruptive fracture at the side edge of a spherical roller bearing cage
+3.5.6 Cage fracture
+Symptoms:
+
+Fracture of cage side edges (fig. 93),
+crosspiece fracture more seldom
+Causes:
+– Mounting damage
+– Kinematically permissible speed ex-
+
+ceeded
+– As a result of wear and due to poor
+
+lubrication (see section 3.5.1)
+– Moment load too high or tilting of
+
+ball bearings (see section 3.5.4)
+– In the case of tapered roller bearing
+
+pairs which have a large clearance,
+also when axial loads reverse quickly
+
+Remedial measures:
+– Mount carefully
+– Filter lubricant
+– Increase lubricant flow through
+
+and/or use different viscosity
+– Avoid tilting as much as possible
+– Operate bearing pair preloaded if
+
+possible
+
+FAG
+56
+
+
+
+=== PDF page 58 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Cage damage
+
+94: Melted fase of plastic cage in the case of incorrect bearing heating on a heating
+plate
+
+3.5.7 Damage due to incorrect 
+mounting
+Symptoms:
+
+Initial fusing in the case of plastic 
+cages, grooves or warping in the case of
+metal cages, figs. 94 and 95.
+
+Causes:
+– Incorrect heating of the bearings for
+
+mounting
+– Unsuitable mounting aids
+
+Remedial measures:
+
+Mount according to manufacturer's
+specifications (see for example FAG 
+Publication WL 80 100 "Mounting and
+Dismounting of Rolling Bearings").
+
+95: Metal cage with dents
+
+57
+FAG
+
+
+
+=== PDF page 59 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+Sealing damage
+
+Causes:
+– Operating temperatures too high for
+
+Remedial measures:
+– Adapt sealing material to suit oper-
+
+3.6 Sealing damage
+3.6.1 Wear of sealing lips
+Symptoms:
+
+sealing material 
+– Extreme amount of dirt at the sealing
+
+ating temperatures.
+– Use non-rubbing preseal
+– Grease sealing lip.
+
+Sealing lips no longer like edges but 
+widened. Cracks in sealing material, 
+sealing lip partly broken off, figs. 96, 97.
+
+lip
+– Sealing interference too high
+– Sealing lip not lubricated
+
+96: Cross section of a seal.
+a: new sealing lip; b: worn sealing lip
+
+97: a: Hardened sealing with wear and fractures
+b: Part of worn lip close up
+
+96a
+
+97a
+
+96b
+97b
+
+FAG
+58
+
+
+
+=== PDF page 60 of 74 | native ===
+
+Evaluation of running features and damage to dismounted bearings
+
+Sealing damage
+
+3.6.2 Damage due to incorrect 
+mounting
+Symptoms:
+
+Seal is too far inside, dented, dis-
+coloured, scratched. Sealing lips are 
+turned up, figs. 98 and 99.
+
+Causes:
+– Incorrect mounting aids
+– Bearing heated too much
+– Sealing occasionally removed
+– Bearing blown off with compressed
+
+air
+
+Remedial measures:
+– Ensure careful mounting with suit-
+
+able mounting devices.
+– Never open sealed bearings if they are
+
+to be subsequently used.
+
+98: Dented seal with scorings
+
+99: Turned-up sealing lips
+
+59
+FAG
+
+
+
+=== PDF page 61 of 74 | native ===
+
+Other means of inspection at FAG
+Geometric measuring
+
+4 Other means of inspection at FAG
+
+10 µm
+
+correct arc
+of circle
+(r = 4.053 mm)
+
+1 mm
+
+100: Profile of a deep groove ball bearing raceway with wear groove (raceway 
+curve compensated for by measuring device)
+
+Experience has revealed that in the
+majority of bearing damage cases, the
+cause of damage can be clarified by 
+closely considering the damage symp-
+toms together with the data on operating
+conditions. In a large amount of the re-
+maining unclarified cases the cause of
+damage can be determined with the aid
+of a stereomicroscope. Only a very small
+amount of bearing damage cases require
+a profound examination of the damage
+symptoms and an intensive analysis of
+the application conditions. FAG's re-
+search and development capacities in-
+clude the most diverse and highly devel-
+oped technical inspection means with
+some very special features. A cost-benefit
+comparison of such inspections is re-
+commended in advance as the latter may
+prove quite expensive.
+
+The main inspection areas accom-
+panied with some examples are present-
+ed in the following sections.
+
+101: Form Talysurf
+
+4.1 Geometric measurings of 
+bearings and bearing parts
+FAG strives constantly to improve the
+production quality of rolling bearings.
+We therefore have the most sophistic-
+ated equipment with diverse measuring
+devices for dimensional and form in-
+spection both on the spot in our quality
+assurance and in our own laboratory:
+– Length and diameter measuring
+
+exactly to the micrometer
+– Inspection of form and radius con-
+
+tours with a magnification of up to
+100 000 fold, figs. 69, 100 and 101
+
+FAG
+60
+
+
+
+=== PDF page 62 of 74 | native ===
+
+Other means of inspection at FAG
+
+Geometric measuring
+
+– Deviation of roundness check with
+
+2.5
+
+FOURIER ANALYSIS
+
+up to 100 000 fold  magnitude 
+including frequency analysis of 
+waviness, figs. 102 and 103
+
+Label
+:  IRR50
+1st harmonic
+:  7.3129 µm
+
+0.25
+
+0.025
+
+0.0025
+
+0
+2. harmonic
+0.5043 µm
+150
+
+PROFILE
+
+R
+
+Meas. cycle
+:  0.090 °
+Filter
+:  0-500 upr
+Represent.
+:  LSC soft-centered
+
+20000 fold
+:                  0.25 µm
+
+0°
+90°
+C
+270°
+360°
+
+102: Form drawing with frequency 
+analysis of waviness, inner ring
+6207
+
+103: Form measuring system
+
+61
+FAG
+
+
+
+=== PDF page 63 of 74 | native ===
+
+Other means of inspection at FAG
+Geometric measuring
+
+– Roughness measurements down to
+
+one hundredth of a micrometer, 
+fig. 104
+– Inspection of form and position toler-
+
+ances on form measuring systems
+(FMS) and coordinate measuring 
+machines, also for very irregularly 
+formed construction parts such as
+cast steel housings, fig. 105
+– Inspection of bearing clearances and
+
+radial runout of individual parts
+
+104: Roughness measuring chart with
+characteristic values
+
+105: Coordinate measuring machine
+
+FAG
+62
+
+
+
+=== PDF page 64 of 74 | native ===
+
+Other means of inspection at FAG
+
+Geometric measuring
+
+106 a: Inspection of contaminants, ICP-AES Analysis
+
+Element
+Lambda
+Factor
+Offset
+low
+low
+high
+high
+min
+max
+min
+max
+
+4.2 Lubricant analyses and 
+lubricant inspections
+FAG has laboratories and test floors
+for inspecting the quality and suitability
+of lubricants for rolling bearing applica-
+tions.
+
+Cobalt
+228,616
+1,673
+268
+962
+415
+179515
+107157
+Manganese
+257,610
+1,318
+-76
+-121
+-34
+67816
+51496
+Chromium
+267,716
+1,476
+381
+669
+195
+76696
+51688
+Copper
+324,754
+0,834
+-471
+80
+660
+2297
+3316
+Molybdenum
+281,615
+1,073
+-17
+89
+99
+47781
+44543
+Nickel
+231,604
+1,778
+4
+114
+62
+38487
+21640
+Vanadium
+311,071
+0,937
+-37
+5
+45
+64228
+68560
+Tungsten
+400,875
+0,742
+-16
+4
+26
+14129
+19053
+Silicon
+251,611
+2,173
+310
+509
+92
+2385
+955
+
+Laboratory analyses of lubricants
+from failed bearings frequently supply
+the decisive information necessary to
+clarify the cause of failure. The main in-
+spection means are:
+– Amount and type of contamination
+
+sample: solids in contaminated lubricant       method: steel 1     M(3)
+
+Co
+Mn
+Cr
+Cu
+Mo
+Ni
+V
+W
+Si
+
+x
+.0107
+0.636
+1.412
+0.185
+0.797
+0.271
+.327
+.002
+0.359 %
+
+s
+.0004
+.0002
+.011
+.0002
+.0032
+.0063
+.0007
+.0099
+.0006
+
+present
+• solid, fig. 106a
+• liquid (humidity)
+– Use of anti-oxidants
+– Ageing, fig. 106b
+– Change in viscosity
+– Additive content (reduction/degrada-
+
+sr
+4.11
+0.67
+0.03
+1.18
+0.40
+2.31
+0.22
+57.44
+0.06
+
+tion)
+– Oil-soap relation in greases
+– Determination of type and class of
+
+106 b: FT-IR Analysis of lubricant
+
+FAG OEM und Handel AG
+Research and Development 
+OHT-L-1/Lubricating Greases 
+and Org. Analytic, W. Wolz
+Product
+preservative oil, new (above, green)
+Cont. IR nr.:
+901495/901496
+preservative oil, used (below, red)
+Date of check:
+03.05.1990
+WE/Batch: 
+sample 26.04.1990/-  / dito after Oxbomb
+31.05.1990
+Date of receipt:
+26.04.1990
+Nr. of scans
+4
+Path length:
+67.98 µm / 68.04 µm
+Resolution
+2 cm–1
+Device:
+Perkin Elmer FT.-IR 1725 X
+Checker
+Ch. Hassiotis
+
+lubricant, e.g. evidence of lubricant
+mixture during relubrication, 
+fig. 106b
+The extraction of a suitable lubricant
+sample is an essential prerequisite for re-
+liable information based on the lubricant
+inspection (see section 2.2). The origin
+of contaminants can almost always be
+determined from the results of their 
+analyses. A direct indication of possible
+measures to stop wear, for example, can
+therefore be obtained just as conclusions
+regarding suitable oil change intervals or
+a fresh grease supply can be drawn from
+information on the general condition of
+an oil or grease after a certain running
+period.
+
+new oil
+
+used oil
+
+63
+FAG
+
+
+
+=== PDF page 65 of 74 | native ===
+
+Other means of inspection at FAG
+Lubricant analyses and lubricant inspections
+
+New lubricants, on which there are
+no findings concerning their suitability
+for lubricating rolling bearings, are also
+used in special cases of applications.
+FAG test rigs have been developed to
+check the properties of such greases and
+oils. They have also been standardized
+and adopted by the lubricant industry
+for testing new products, fig. 107.
+
+107: Test rig for determining lubricant quality
+
+FAG
+64
+
+
+
+=== PDF page 66 of 74 | native ===
+
+Other means of inspection at FAG
+
+Material inspections
+
+4.3 Material inspection
+
+– Metalographic assessment of structure
+– Making zones of unpermissible
+
+heating visible by etching the contact
+areas
+– Crack inspection by means of ultra-
+
+sound or eddy current
+– Radioscopic measuring of retained
+
+austenite
+– Inspection of material cleanliness
+– Material analysis
+
+The condition of the material of all
+bearing parts is of decisive importance if
+the bearings are to be fully efficient. 
+Indeed, bearing damage is very seldom
+due to material or production faults, fig.
+11, but a material inspection can provide
+important information in cases of doubt.
+In a number of cases changes in the ma-
+terial condition are due to unexpected
+bearing application conditions.
+
+The main inspections in this area are:
+– Inspection of hardness and more
+
+seldom, tensile strength or notch im-
+pact bending strength
+
+In addition to determining material
+faults, these inspections can provide in-
+formation for example on unpermissible
+slippage (sliding heat zones, fig. 108) or
+unexpectedly high operating tempera-
+tures (change in structural parts during
+operating and dimensional changes as a
+result).
+
+108: Section of heat influence zone
+
+65
+FAG
+
+
+
+=== PDF page 67 of 74 | native ===
+
+Other means of inspection at FAG
+X-ray micro structure analysis
+
+109: X-ray micro structure analysis equipment
+
+4.4 X-ray micro structure analysis
+The radioscopic investigation of the
+lattice structure (cf. Measuring retained
+austenite in section 4.3) also allows one
+to draw very important conclusions on
+the residual stress "frozen" in the ma-
+terial and the stressing on which it is 
+based. It is applied to determine with
+good approximation the actual load of
+bearings after operation. This may be
+particularly crucial in damage cases 
+where the actual load situation cannot
+be attained by calculation. The specific
+raceway stress, however, must have 
+reached a level of about 2,500 N/mm2
+for a longer period since it is only above
+this load that the plastic deformation of
+the material lattice occurs and only then
+can it be tested and quantified by means
+of X-ray diffraction, fig. 109. You could
+refer to the booklet "Schadenskunde in
+Maschinenbau", Expert Verlag 1990, for
+example, under "Schadensuntersuchung
+durch Röntgenfeinstructuranalyse" for a
+detailed report on determining residual
+stress and calculating stress. We have
+provided a brief summary for you below.
+
+110: Residual stress pattern as attained from an X-ray micro structure analysis;
+high tangential force portion in outer ring 6207E, no increased stress in 
+reference bearing 6303E
+
+200
+
+0
+
+-200
+
+-400
+
+-600
+
+Residual stress in N/mm2
+
+-800
+
+The residual stress present in small
+areas (size a few square millimeters sur-
+face, 1/100 millimeters in depth) can be
+calculated back from the lattice expan-
+sion measured by means of X-ray diffrac-
+tion. Measuring is carried out layer by
+layer for the different depths below the
+raceway of a bearing ring by an electro-
+chemical surface discharge. A pattern as
+in fig. 110 is then obtained. From the
+whole deformation depth and from the
+depth where stress is greatest, the maxi-
+mum external load can be deduced on
+the one hand and, on the other hand,
+the share of possible sliding stress in the
+raceway. This is a vital contribution to-
+wards the search for damage causes, par-
+ticularly if the values measured deviate
+greatly from those expected on the basis
+of calculations.
+
+AR 6306E
+
+-1 000
+
+AR 6207E
+
+-1 200
+
+0,2
+0,4
+0,6
+0,8
+1
+
+0
+
+Depth below the surface in mm
+
+FAG
+66
+
+
+
+=== PDF page 68 of 74 | native ===
+
+Other means of inspection at FAG
+
+Scanning electron microscope investigations
+
+4.5.Scanning electron microscope
+investigations (SEM)
+
+tion of raceways damaged by wear or the
+passage of current, fractured areas, for-
+eign particle indentations, and material
+inclusions, figs. 112a, b and c.
+
+With the usual surface uneveness of 
+damaged rolling bearing raceways, 
+photos can only be enlarged sharply de-
+fined up to 50 fold. This obstacle in
+light-optical inspection of surfaces can
+be bypassed with the very short-wave 
+electron beam in a scanning electron
+microscope (SEM). It makes the detec-
+tion of details several thousand times
+greater, fig. 111.
+
+When investigating damage a stereo-
+microscope is usually applied in addition
+to the naked eye to detect the individual
+failure causes. However, the damage-
+related details are sometimes tiny. Due
+to the relatively large wave length of 
+visible light, the definition of the image
+of light-optical projections is limited.
+
+The scanning electron microscope is
+therefore a vital aid for the visual inspec-
+
+112: SEM photos of surface structure
+in various sizes.
+a: raceway ok
+b: hard foreign particle indenta-
+
+tions
+c: fatigue damage commencing
+
+111: Scanning electron microscope
+a
+
+b
+
+c
+
+67
+FAG
+
+
+
+=== PDF page 69 of 74 | native ===
+
+Other means of inspection at FAG
+Scanning electron microscopic inspection
+
+113: Micro analysis of foreign particles
+a: Foreign particles in cage crosspiece
+
+It is also possible to make the socalled
+electron beam micro analysis when using
+spectrometers together with the SEM. It
+inspects the material composition in the
+volume range of approx. 1 micron3. This
+helps to determine the origin of foreign
+particles still stuck in the cage pockets of
+a bearing, figs. 113a and b. Other appli-
+cations with it include the inspection of
+coatings or of reaction layers on the
+contact areas or the examination of 
+material compositions in the micro area.
+
+113 b: Material composition of foreign particles
+
+dark
+= iron
+bright = aluminium oxide
+
+FAG
+68
+
+
+
+=== PDF page 70 of 74 | native ===
+
+Other means of inspection at FAG
+
+Component tests
+
+114: Test rig for inspecting the efficiency of rolling bearing seals
+
+4.6 Component tests
+There are numerous test rigs in FAG's
+development department for testing the
+efficiency of newly designed products. In
+some cases such tests can be used to cla-
+rify the cause of bearing damage. They
+include, on the one hand, direct tests on
+customer units for example deformation
+and vibration measuring on machines
+and, on the other hand, tightness inspec-
+tions, measuring of frictional moment,
+and life tests on test rigs, figs. 114 and
+115. The tests are performed under
+clearly defined conditions where the ex-
+pected results are reliably foreseeable.
+Once the bearings have met the require-
+ments in the experiment, the inspection
+of the damage case in question must
+then focus on the examination of actual
+operating conditions (unexpected extra
+load, also due to faulty mounting etc.).
+Should the bearings fail after an unex-
+pectedly short running period, the tech-
+nical monitoring facilities of the test rigs
+allow damage to be detected in its stage
+of origin. This is often a problem in the
+field but it is also frequently decisive for
+finding the cause of damage.
+
+69
+FAG
+
+
+
+=== PDF page 71 of 74 | native ===
+
+Other means of inspection at FAG
+Component tests
+
+115: Test rig for simulating operating stress of car wheel bearings
+
+FAG
+70
+
+
+
+=== PDF page 72 of 74 | native ===
+
+Other means of inspection at FAG
+
+Calculation of load conditions
+
+116: Calculation of stress on a journal roller bearing housing by means of the 
+Finite Element Method (FEM)
+
+4.7 Calculation of load 
+conditions
+In several cases bearings, whose load
+situation is not known completely, are
+selected for new constructions on the 
+basis of experience with older, similar
+units. When bearing damage arises at a
+later stage, an accurate calculation of the
+mounting conditions frequently helps in
+the search for its cause. A comparison of
+the expected life calculation and the life
+actually attained is particularly impor-
+tant as well as the calculation of lubricat-
+ing conditions. FAG has an extensive
+collection of calculation programs at its
+disposal. Even the most sophisticated
+bearing cases present no problem. The
+programs can calculate values for the ex-
+ternal bearing load, tilting between 
+mounted rings, internal stress, kinematic
+procedures within the bearing, deforma-
+tion of mating parts, temperature 
+marches and the like. The complexity of
+the programs ranges from simple evalua-
+tions of analytical formulae to the per-
+formance of various nummerical itera-
+tions with non-linear approximate solu-
+tions and even to extensive three-dimen-
+sional strength calculations for mating
+parts by means of the finite elements,
+fig. 116.
+
+71
+FAG
+
+
+
+=== PDF page 73 of 74 | native ===
+
+Notes
+
+
+
+=== PDF page 74 of 74 | native ===
+
+Every care has been taken to ensure the
+
+correctness of the information contained
+
+FAG Kugelfischer AG
+
+in this publication but no liability can be
+
+Business Unit Industrial
+
+accepted for any errors or omissions. We
+
+Bearings and Services
+
+reserve the right to make changes in the
+
+Postfach 1260
+
+interest of technical progress.
+
+D-97419 Schweinfurt
+
+© by FAG 2003.
+
+Georg-Schäfer-Strasse 30
+
+This publication or parts thereof may not
+
+97421 Schweinfurt
+
+be reproduced without our permission.
+
+Phone: +49 9721 912661
+
+Fax: +49 9721 914327
+
+95/08/03 Printed in Germany by Weppert GmbH & Co. KG
+
+WL 82 102/2 EA
+
+www.fag.com

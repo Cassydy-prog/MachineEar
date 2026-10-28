@@ -1,0 +1,152 @@
+hr - Izvorne upute
+
+Poravnavanje spojke sa podloškama na stranici
+269.
+9. Ponovno postavite zaštitu spojke.
+• M5 → 3 Nm (27 lbf·in) ± 15%
+• M6 → 5 Nm (44 lbf·in) ± 15%.
+
+Provjera poravnanja spojnice s laserskim
+aparatićem
+
+1. Odvijte vijke za zatvaranje poluškoljaka (5).
+2. Odvijte pričvrsne vijke koji pričvršćuju gornju po‐
+luškoljku (3).
+3. Uklonite gornju poluškoljku zaštite spojke (1).
+4. Odvijte pričvrsne vijke koji pričvršćuju donju polu‐
+školjku (4).
+5. Uklonite donju polovicu školjke zaštite spojke (2).
+6. Otvorite i podignite potporni prsten/prsten za
+podešavanje (6).
+
+Provjera i poravnanje spojke
+
+Možete provjeriti poravnanje spojke s laserskim apa‐
+ratićem za zube: pogledajte priručnik s uputama za
+aparatiće.
+
+Poravnavanje spojke sa podloškama
+
+NAPOMENA:
+Ponovno provjerite poravnanje spojke u vrućim rad‐
+nim uvjetima.
+
+Pogledajte Slika 17 na stranici 384 za informacije o
+tome gdje pričvrstiti pumpu i motor na bazu i gdje
+umetnuti isporučene podloške.
+
+NAPOMENA:
+Uvjerite se da se spojka može lako ručno okretati i
+da postoji određeni razmak između zuba.
+
+NAPOMENA:
+Nepravilno poravnanje jedinice može uzrokovati
+ozbiljna oštećenja sustava.
+
+1. Odvijte vijke koji pričvršćuju pumpu i motor na
+bazu.
+2. Lagano podignite pumpu i motor.
+3. Umetnite podloške između baze i nožica pumpe i
+motora, na jednu ili više naznačenih točaka.
+4. Postavite pumpu i motor na bazu, poravnavajući
+rupe za vijke.
+5. Pritegnite vijke.
+6. Ponovite provjeru poravnanja spojke.
+
+Instalacija zaštite spojke
+
+NAPOMENA:
+Ako spojka nije poravnata, to može uzrokovati vibra‐
+cije, što može rezultirati preuranjenim trošenjem roti‐
+rajućih komponenti jedinice.
+
+OPREZ:
+Nikad ne koristite pumpu bez ispravno
+instalirane zaštitne spojke.
+
+Provjerite poravnanje spojke jedinice nakon sljede‐
+ćeg:
+
+Vrsta zaštite: žičana mreža
+Za informacije pogledajte Slika 18 na stranici 386.
+
+• Transport i instalacija
+• Prvo pokretanje
+• Postizanje radne temperature.
+Izvršite provjeru čak i ako je jedinica isporučena pot‐
+puno sastavljena na okviru.
+
+Provjera poravnavanja spojke s ravnalom i
+mjernim uređajem
+
+1. Ispravno namjestite zaštitu (1) tako da okružuje
+izlazni kraj osovine pumpe i potporni prsten (3)
+na strani motora.
+2. Pritegnite vijke (2).
+Vrsta zaštite: metalni lim
+Za informacije pogledajte Slika 19 na stranici 388.
+
+Za informacije o poravnavanju standardne spojke
+(A) i spojke s odstojnikom (B), pogledajte Slika 27
+na stranici 397
+
+1. Uklonite zaštitu spojke.
+
+NAPOMENA:
+Zaštita može biti žičana mrežica (pogledajte Sli‐
+ka 18 na stranici 386) ili metalni lim (pogledajte
+Slika 19 na stranici 388)
+
+1. Postavite donju poluškoljku zaštite spojke (2).
+2. Zategnite pričvrsne vijke donje poluškoljke (4).
+3. Otvorite i umetnite potporni prsten/prsten za
+podešavanje (6) s kućištem okrenutim prema do‐
+lje i aksijalno ga pritisnite na motor.
+4. Postavite gornju poluškoljku zaštite spojke (1).
+5. Zategnite pričvrsne vijke gornje polovice čahure
+(3).
+6. Pritegnite vijke za zatvaranje poluškoljaka (5).
+
+HR
+
+4.3.4  Električne instalacije
+
+1. Uklonite vijke poklopca priključne kutije.
+
+2. Spojite i zategnite energetske kabele sukladno
+važećoj shemi ožičavanja:
+
+Za sheme ožičavanja pogledajte Slika 21 na stra‐
+nici 392. Sheme su također dostupne na poleđini
+poklopca priključne kutije.
+
+a) Spojite izvod uzemljenja.
+
+Provjerite da li je izvod uzemljenja dulji od
+izvoda faze.
+b) Spojite izvode faze.
+
+3. Montirajte poklopac priključne kutije.
+
+NAPOMENA:
+
+2. Postavite ravnalo na poluspojke.
+3. Izmjerite udaljenosti prikazane na slici.
+4. Ručno okrenite spojku u koracima od 90° i pono‐
+vite mjerenje.
+5. Ponovite korak 4 nekoliko puta: radijalno porav‐
+nanje ispravno je ako su udaljenosti iste u svim
+točkama oko opsega, unutar dopuštenog odstu‐
+panja; pogledajte Tablica 28 na stranici 399. Ina‐
+če pogledajte Poravnavanje spojke sa podloška‐
+ma na stranici 269.
+6. Provjerite udaljenost između poluspojki pomoću
+mjerača.
+7. Ručno okrenite spojku u koracima od 90° i ponov‐
+no provjerite udaljenost.
+8. Ponovite korak 7 nekoliko puta: aksijalno porav‐
+nanje je točno ako su udaljenosti iste u svim toč‐
+kama oko opsega, unutar dopuštenog odstupa‐
+nja; pogledajte Tablica 28 na stranici 399. Inače,
+
+269

@@ -1,0 +1,45 @@
+IM-1080
+
+Mixing Plenum Box Assembly and Installation
+The modular plenum mixing boxes are designed to allow for easy installation and future expandability. Single mixing plenum boxes 
+are fully assembled (less any dampers) to expedite installation. Depending on the size, multi-unit mixing boxes may or may not be 
+assembled. When installing the mixing box(es), it is important to follow the guidelines for lifting and rigging on page 5.
+
+When a single-unit mixing plenum box is installed, prepare the roof curb or mounting structure. Lay gasket material on the top edge 
+of the roof curb. Lift mixing box onto curb and square (level) mixing box.
+
+Depending on the air intake (side or bottom), the mixing box must be oriented to allow for direct duct connection into the mixing 
+plenum box. Match drill roof curb to mixing plenum box. Attach mixing plenum box to roof curb using 3/8" diameter, 3" length slotted, 
+hex washer head type F machine screws, stainless steel (by others).
+
+For multi-unit configurations, some assembly may be required. There are at least two different assemblies in a multi-unit configuration. 
+There is the mixing plenum box assembly and the mixing box spacer. See Figure 4. There will be one less spacer than the quantity of 
+mixing plenum boxes.
+
+To assemble, space the mixing boxes a distance apart that is slightly more than the width of the spacer section. Utilize a gasket 
+between the mixing box and the spacer section to provide a tight seal.
+
+Install 316 stainless steel bolts to attach the spacer and the mixing box. Repeat as necessary for each section.
+
+When the multi-unit mixing plenum box is assembled, rig the mixing box system into place in accordance with Figure 1 to avoid any 
+damage.
+
+Install mixing plenum box assembly onto a prepared (gasket material on mating surface) roof curb or mounting structure. Lay square 
+(level) mixing box. Install lag bolts into the mixing plenum box to roof curb as indicated.
+
+Figure 4. Mixing Box
+
+Dual Mixing
+Plenum Box
+Base Assembly
+
+Mixing Box
+Spacer
+
+Fan Installation with Curb Cap ONLY (no mixing plenum box)
+Securing the curb cap to the roof curb will be similar to attaching with a mixing box except the pre-drilled holes on the curb cap will 
+be 13/16" diameter. Drill pilot holes on the roof curb using the curb cap as reference, then secure curb cap to the roof curb with 3/8" 
+diameter, 3" length slotted, hex washer head type F machine screws, stainless steel (by others).
+
+Installation, Operation & Maintenance Manual
+8

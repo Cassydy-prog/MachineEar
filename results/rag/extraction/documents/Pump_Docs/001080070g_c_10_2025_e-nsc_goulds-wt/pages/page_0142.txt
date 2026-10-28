@@ -1,0 +1,160 @@
+is - Þýðing á upprunalegu
+
+Athugið:
+
+4.3  Uppsetning dælunnar
+
+4.3.1  Vélauppsetning
+
+• Fyrir undirstöður er mælt með að fylla undirstöð‐
+una með hægþornandi steinsteypu.
+
+Uppsetningarstaður
+
+Festið dæluna á botnrammann
+
+Verið viss um að farið sé eftir eftirfarandi:
+
+Setjið samstæðuna upp á undirstöðu úr steinsteypu
+eða stáli sem er nægilega sterk til að tryggja varan‐
+legan og stífan stuðning. Fylgið þeim kröfum sem
+fram koma í Dælustaðsetning á blaðsíðu 136.
+
+Uppsetning á steinsteyptum grunni
+
+Kröfur um undirstöðu
+
+• Stífur botnrammi sem hvorki snýst né titrar við
+notkun (sveiflutíðni).
+• Festiflötur dælu og vélar á botnramma skulu vera
+sléttir (mælt er með vélsmíði/vélvinnslu).
+• Örugg festing dælunnar og vélar verður að vera
+tryggð.
+• Hæfilegt bil milli dælu og vélarásar skal vera eftir
+því sem tengið krefst.
+• Milli dælunnar og botnrammans skal vera nægi‐
+leg grófreglun til að tryggja að hægt sé að stilla
+sömu hæð milli botns og miðlínu við endurnýjun
+(mælt er með lóðréttri stillingu 4-6 mm).
+
+Að draga úr titringi
+
+Samstæðan og vökvaflæði í kerfinu geta valdið titr‐
+ingi, sem getur magnast ef samstæðan eða pípukerf‐
+ið er ekki rétt uppsett: Fylgið leiðbeiningunum fyrir
+Uppsetning á steinsteyptum grunni á blaðsíðu 138
+og Festing á dælunni á blaðsíðu 138, auk þeirra sem
+tilgreindar eru á Gátlisti fyrir pípukerfi á blaðsíðu 138
+
+• Steypan skal vera af styrkleikaflokki C12/15 og
+uppfylla kröfur álagsflokks XC1 í samræmi við
+staðal EN 206-1
+• Stærðir skulu vera hæfilegar miðað við stærð
+stoðplötu einingarinnar
+• Þyngd undirstöðunnar skal vera ≥ 1,5 sinnum
+þyngd samstæðunnar (≥ 5 sinnum þyngd sam‐
+stæðunnar ef óskað er eftir hljóðlátari notkun)
+• Yfirborðið skal vera eins slétt og lárétt og unnt er
+• Hallinn má ekki vera meiri en ≤ 1 mm/m.
+Frekari leiðbeiningar má finna í skjali nr.
+001080247X: Til að hlaða því niður skaltu skanna
+QR-kóðann sem er að finna í Mynd 17 á blaðsíðu
+384.
+
+Einnig er mælt með að:
+
+Festing á dælunni
+
+IS
+
+Dæmi um láréttar og lóðréttar uppsetningar sjá
+Mynd 15 á blaðsíðu 383.
+
+• Tryggið að dælan og vélin séu tryggilega fest við
+undirstöðuna
+• Setjið titringsdeyfandi efni milli undirstöðunnar
+og undirlagsins.
+• Ef samstæðan er með soðna undirstöðu, skal
+fylla rýmið sem sýnt er í Mynd 25 á blaðsíðu 397
+með steinsteypu.
+
+1. Sjá tæknilýsingu fyrir:
+– Þvermál og fjöldi hola í undirstöðu
+– Fjarlægðir á milli hola
+– Reikna skal stærð og fjölda spennistanga
+
+ATHUGA:
+Ekki má fylla undirstöðu úr pressaðri stálplötu Mynd
+26 á blaðsíðu 397 með steypu.
+
+4.3.2  Gátlisti fyrir pípukerfi
+Athugið að farið sé eftir eftirfarandi:
+
+• Ef dælan er sett upp með soghækkun skal so‐
+grörið hafa hækkandi halla í átt að samstæðunni,
+að lágmarki 2%, til að koma í veg fyrir myndun
+loftpoka.
+• Nafnþvermál pípukerfisins verður að vera að
+minnsta kosti jafnt nafngildum þvermálum dæl‐
+uinntaka og -úttaka.
+• Tryggið að pípukerfið sé sjálfstætt stutt, svo það
+leggi ekki óþarfa álag á samstæðuna.
+• Skolið pípukerfið áður en það er tengt við sam‐
+stæðuna, til að fjarlægja suðuleifar, útfellingar og
+önnur óhreinindi. Setjið síu í ef þarf.
+
+með efnafestingum í samræmi við gerð sam‐
+stæðunnar.
+2. Borið í undirstöðuna og festið millistangirnar.
+3. Setjið samstæðuna á undirstöðuna og notið hall‐
+amál á úttaksop og öxul til að tryggja lárétta
+stöðu.
+Hámarksleyfileg skekkja: 0,2 mm/m.
+4. Ef við á skal fjarlægja tappana sem hylja sog- og
+úttaksopin.
+5. Stillið sog- og úttaksopin þannig að þau passi við
+pípulagnir.
+6. Festið pípulagningakerfið við samstæðunni; sjá
+einnig Gátlisti fyrir pípukerfi á blaðsíðu 138.
+7. Ef nauðsyn krefur skal setja stilliklossa milli un‐
+dirstöðu og grunns: ef fjarlægðin milli millistang‐
+anna er > 800 mm skal setja tvo auka klossa
+í miðju undirstöðunnnar. Allir stilliklossar skulu
+liggja alveg jafnt og þétt. Sjá Mynd 17 á blaðsíðu
+384.
+8. Herðið rær á millistöngum jafnt og að fullu og
+tryggið að togmælingar séu samkvæmt tilgreind‐
+um gildum í töflunni.
+
+VARÚÐ:
+Rafsuðudropar, flögur og önnur óhrein‐
+indi í pípum geta skemmt dæluna.
+
+Ró
+Snúningsvægi Nm (lbs-
+in)
+
+4.3.3  Tengi stillt
+
+M12
+60 (44)
+
+Að fjarlægja hlíf af tengingu
+
+M16
+120 (89)
+
+M20
+200 (148)
+
+M24
+350 (258)
+
+VARÚÐ:
+Aldrei skal láta dæluna vinna án þess að
+tengihlífin sé rétt sett á.
+
+M27
+530 (391)
+
+138

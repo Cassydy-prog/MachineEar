@@ -1,0 +1,63 @@
+IM-1080
+
+General Installation
+The installation of this equipment shall be in accordance with the regulations of authorities having jurisdiction and all applicable codes.
+
+This equipment is to be installed by an experienced installation company and fully trained personnel.
+
+The mechanical installation of the exhaust ventilator consists of making final connections between the unit and building services, duct 
+connections.
+
+CAUTION
+
+Fan systems include rotating components and electrical devices. 
+Proper care must be taken during installation and maintenance 
+of all fan system components to protect personnel. This includes, 
+but is not limited to the use of protective enclosures, guards, 
+locking devices to stop rotating parts and electrical disconnect 
+lock-outs. Refer to applicable local codes to ensure compliance for 
+all protective devices.
+
+Fans create a suction at the inlet. Care should be taken around the 
+inlet of the fan, whether it is in operation or not. Make sure the 
+inlet area is clear prior to energizing the system. This includes all 
+personnel and loose, foreign objects.
+
+Sheet metal parts, screws, clips and similar items inherently have 
+sharp edges and it is necessary that the installer and service 
+personnel exercise caution.
+
+CAUTION
+
+Roof Curb Installation
+Roof curbs shall be installed and fully attached to structural support 
+(by others), which is typically steel or concrete using 1/2" diameter 
+bolts with 1-3/8" washers (by others).
+
+Roof curbs should be square and level to ensure safe fan 
+installation and proper sealing of gas stream to the fan.
+
+Figure 2. Bolted Installation
+
+Figure 3. Welded Installation
+
+A
+A
+
+Hardware
+(by Customer)
+
+0.81" Ø Diameter Holes
+Evenly Spaced
+
+Stitch Weld
+3/8" x 6"
+3" Spacing
+
+For attachment to structural steel, the curb can be continuously-
+welded or stitch-welded using 3/8" x 6" welds with a maximum of 
+3" spacing between welds. Welds should be evenly spaced along 
+curb side and corners. See Figure 3.
+
+Installation, Operation & Maintenance Manual
+6

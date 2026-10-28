@@ -1,0 +1,162 @@
+nl - Vertaling van origineel
+
+niet, raadpleeg dan Lokaliseren van storingen op
+pagina 85.
+
+Installaties met vloeistofniveau onder de
+pomp (aanzuighoogte)
+
+6  Onderhoud
+
+Voor een illustratie waarop de pomppluggen staan
+afgebeeld, zie Afbeelding 24 op pagina 395.
+
+Voorzorgsmaatregelen
+
+1. Alle leidingen leeg:
+
+a) Open de aan-uitklep stroomopwaarts ten op‐
+
+zichte van de pomp.
+b) Verwĳder de vulplug (3) en de meetplug (1).
+
+Elektrisch gevaar:
+Schakel de machine uit en ontkoppel de
+stroomvoorziening voordat werkzaamhe‐
+den aan de machine worden verricht.
+
+Vul de pomp met een trechter via het vulgat
+tot er water uit dit gat komt.
+c) Draai de vulplug (3) en de meetplug (1) vast.
+
+WAARSCHUWING:
+
+2. Gevulde afvoerleidingen:
+
+a) Open de aan-uitklep stroomopwaarts ten op‐
+
+zichte van de pomp en open de aan-uitklep
+stroomafwaarts.
+b) Verwĳder de meetplug (1)en totdat water uit
+
+dit gat stroomt.
+c) Draai de meetplug (1)en .
+
+NL
+
+• Alleen bevoegd en gekwalificeerd per‐
+soneel mag onderhoud plegen.
+• Neem de geldende regels ter voorko‐
+ming van ongelukken in acht.
+• Gebruik geschikte apparatuur en be‐
+schermingsmiddelen.
+• Zorg ervoor dat de afgevoerde vloei‐
+stof geen schade of letsel veroor‐
+zaakt.
+
+5.2  Controleer de draairichting
+(driefasenmotor)
+Volg deze procedure vóór het opstarten.
+
+1. Zoek de pĳlen op de adapter of de motorventila‐
+tor om de juiste draairichting te bepalen.
+
+2. Start de motor.
+
+3. Controleer snel de draairichting door de koppe‐
+lingsbeveiliging of door de bescherming van de
+motorventilator.
+
+4. Zet de motor stil.
+
+5. Doe het volgende als de draairichting onjuist is:
+
+6.1  Onderhoud
+Als de gebruiker van de pomp regelmatige onder‐
+houdstermĳnen wil inplannen, zĳn deze afhankelĳk
+van het soort gepompte vloeistof en de bedrĳfsom‐
+standigheden van de pomp.
+Neem contact op met de plaatselĳke verkoop-
+en servicevertegenwoordiger voor eventuele vragen
+met betrekking tot routineonderhoud of service.
+Er kan bĳzonder onderhoud nodig zĳn om de vloei‐
+stof te reinigen en/of versleten onderdelen te vervan‐
+gen.
+
+a) Ontkoppel de stroomtoevoer.
+b) Verwissel in het contactbord van de motor of
+
+Pompen met lagers die gesmeerd zĳn voor
+levenslange werking
+
+het elektrische besturingspaneel de posities
+van twee van de drie draden van de aanvoer‐
+kabel.
+
+Voor pompen met lagers die gesmeerd zĳn voor le‐
+venslange werking is geen schema voor routinema‐
+tig onderhoud nodig.
+
+Voor de bedradingschema´s, zie Afbeelding
+21 op pagina 392.
+c) Controleer nogmaals de draairichting.
+
+Pompen met opnieuw smeerbare lagers
+
+5.3  Start de pomp
+
+• Opnieuw smeren na 4000 bedrĳfsuren, maar min‐
+stens eenmaal per jaar. Reinig eerst de smeernip‐
+pels (SN).
+• Gebruik vet van NLGI klasse 2 of vergelĳkbaar.
+Neem voor vragen of informatie contact op met de
+plaatselĳke verkoop- en servicevertegenwoordiger.
+
+OPMERKING:
+Controleer na de eerste keer opstarten en nadat de
+bedrĳfstemperatuur is bereikt de uitlĳning van de
+koppeling van de eenheid, zie Koppelingscontrole en
+uitlĳning op pagina 82.
+
+Motorlagers
+
+De verantwoordelĳkheid voor het controleren van
+het juiste debiet en de juiste temperatuur van de ge‐
+pompte vloeistof ligt bĳ de installateur of eigenaar.
+Zorg voor het starten van de pomp dat:
+
+Na ongeveer vĳf jaar is het vet in de motorlagers zo
+oud dat aangeraden wordt om de lagers te vervan‐
+gen. De lagers moeten vervangen worden na 25.000
+werkuren of volgens de instructies van de motorleve‐
+rancier, welke van de twee het snelst is.
+
+Motor met hersmeerbare lagers
+
+Volg de onderhoudsinstructies van de motorleveran‐
+cier.
+
+• de pomp op de juiste manier op de stroomvoor‐
+ziening is aangesloten.
+• De pomp is goed gevuld conform de instructies
+in De pomp vullen (hoofdstuk 5).
+• De aan-uitklep stroomafwaarts ten opzichte van
+de pomp is gesloten.
+
+Koppeling
+
+1. Start de motor.
+
+2. Open geleidelĳk de aan-uitklep aan de afvoerzĳde
+van de pomp.
+
+Onder de verwachte bedrĳfsomstandigheden
+moet de pomp soepel en stil functioneren. Zo
+
+Controleer regelmatig, maar minstens één keer per
+jaar, de speling in de onderdelen van de koppeling.
+Wĳ adviseren elke 1000 bedrĳfsuren of elke drie
+maanden, welke van beide het eerste van toepassing
+is.
+
+84

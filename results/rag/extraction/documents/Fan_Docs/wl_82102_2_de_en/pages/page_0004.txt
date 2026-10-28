@@ -1,0 +1,154 @@
+Contents
+
+Page
+Page
+
+1
+Unusual operating behaviour
+indicating damage . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+1.1
+Subjective damage recognition . . . . . . . . . . . . . . . . .4
+1.2
+Bearing monitoring with technical devices . . . . . . . .4
+1.2.1
+Wide-spread damage . . . . . . . . . . . . . . . . . . . . . . . . .4
+1.2.2
+Damage in certain spots . . . . . . . . . . . . . . . . . . . . . . .6
+1.3
+Urgency of bearing exchange – remaining life . . . . .7
+
+2
+Securing damaged bearings . . . . . . . . . . . . . . . . . . .9
+2.1
+Determination of operating data . . . . . . . . . . . . . . . .9
+2.2
+Extraction and evaluation of lubricant samples . . . .9
+2.3
+Inspection of bearing environment . . . . . . . . . . . . .10
+2.4
+Assessment of bearing in mounted condition . . . . .10
+2.5
+Dismounting damaged bearing . . . . . . . . . . . . . . . .10
+2.6
+Seat check . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+2.7
+Assessment of complete bearing . . . . . . . . . . . . . . .10
+2.8
+Dispatch to FAG or 
+assessment of individual parts of bearing . . . . . . . .10
+
+3.3.4.2 Scratches on rolling element outside diameters . . .44
+3.3.4.3 Slippage tracks . . . . . . . . . . . . . . . . . . . . . . . . . . . . .45
+3.3.4.4 Score marks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .46
+3.3.5
+Damage due to overheating . . . . . . . . . . . . . . . . . . .47
+3.4
+Assessment of lip contact . . . . . . . . . . . . . . . . . . . . .48
+3.4.1
+Damage to lip and roller faces in roller bearings . . .48
+3.4.1.1 Scoring due to foreign particles . . . . . . . . . . . . . . . .48
+3.4.1.2 Seizure in lip contact . . . . . . . . . . . . . . . . . . . . . . . .49
+3.4.1.3 Wear in the lip contact area . . . . . . . . . . . . . . . . . . .50
+3.4.1.4 Lip fractures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .51
+3.4.2
+Wear of cage guiding surfaces . . . . . . . . . . . . . . . . .52
+3.4.3
+Damage to seal running areas . . . . . . . . . . . . . . . . .53
+3.4.3.1 Worn sealing lip tracks . . . . . . . . . . . . . . . . . . . . . .53
+3.4.3.2 Discolouration of sealing track . . . . . . . . . . . . . . . .53
+3.5
+Cage damage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .54
+3.5.1
+Wear due to starved lubrication and 
+contamination . . . . . . . . . . . . . . . . . . . . . . . . . . . . .54
+3.5.2
+Wear due to excess speed . . . . . . . . . . . . . . . . . . . . .54
+3.5.3
+Wear due to roller skewing . . . . . . . . . . . . . . . . . . .55
+3.5.4
+Wear in ball bearing cages due to tilting . . . . . . . . .55
+3.5.5
+Fracture of cage connections . . . . . . . . . . . . . . . . . .56
+3.5.6
+Cage fracture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .56
+3.5.7
+Damage due to incorrect mounting . . . . . . . . . . . .57
+3.6
+Sealing damage . . . . . . . . . . . . . . . . . . . . . . . . . . . .58
+3.6.1
+Wear of sealing lips . . . . . . . . . . . . . . . . . . . . . . . . .58
+3.6.2
+Damage due to incorrect mounting . . . . . . . . . . . .59
+
+4
+Other means of inspection at FAG . . . . . . . . . . . . .60
+4.1
+Geometric measuring of bearings and 
+bearing parts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .60
+4.2
+Lubricant analyses and lubricant inspections . . . . .63
+4.3
+Material inspection . . . . . . . . . . . . . . . . . . . . . . . . .65
+4.4
+X-ray micro structure analysis . . . . . . . . . . . . . . . . .66
+4.5
+Scanning electron microscope investigations . . . . .67
+4.6
+Component tests . . . . . . . . . . . . . . . . . . . . . . . . . . .69
+4.7
+Calculation of load conditions . . . . . . . . . . . . . . . .71
+
+3
+Evaluation of running features and 
+damage to dismounted bearings . . . . . . . . . . . . . . .11
+3.1
+Measures to be taken . . . . . . . . . . . . . . . . . . . . . . . .14
+3.1.1
+Marking separate parts . . . . . . . . . . . . . . . . . . . . . . .14
+3.1.2
+Measurements taken with complete bearing . . . . . .14
+3.1.3
+Dismantling bearing into separate parts . . . . . . . . .14
+3.1.4
+Assessment of bearing parts . . . . . . . . . . . . . . . . . . .14
+3.2
+The condition of the seats . . . . . . . . . . . . . . . . . . . .15
+3.2.1
+Fretting corrosion . . . . . . . . . . . . . . . . . . . . . . . . . .15
+3.2.2
+Seizing marks or sliding wear . . . . . . . . . . . . . . . . . .16
+3.2.3
+Uneven support of bearing rings . . . . . . . . . . . . . . .17
+3.2.4
+Lateral grazing tracks . . . . . . . . . . . . . . . . . . . . . . . .18
+3.3
+Pattern of rolling contact . . . . . . . . . . . . . . . . . . . . .19
+3.3.1
+Source and significance of tracks . . . . . . . . . . . . . . .19
+3.3.1.1 Normal tracks . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+3.3.1.2 Unusual tracks . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+3.3.2
+Indentations in raceways and
+rolling element surfaces . . . . . . . . . . . . . . . . . . . . . .27
+3.3.2.1 Fractures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .27
+3.3.2.2 Corrosion damage . . . . . . . . . . . . . . . . . . . . . . . . . .34
+3.3.2.3 False brinelling . . . . . . . . . . . . . . . . . . . . . . . . . . . . .36
+3.3.2.4 Rolling element indentations . . . . . . . . . . . . . . . . .37
+3.3.2.5 Craters and fluting due to
+passage of electric current . . . . . . . . . . . . . . . . . . . .38
+3.3.2.6 Rolling element edge running . . . . . . . . . . . . . . . . .39
+3.3.3
+Ring fractures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .40
+3.3.3.1 Fatigue fractures as a result of 
+raceway fatigue . . . . . . . . . . . . . . . . . . . . . . . . . . . . .40
+3.3.3.2 Axial incipient cracks and through cracks
+of inner rings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .40
+3.3.3.3 Outer ring fractures in circumferential
+direction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .41
+3.3.4
+Deep scratches and smear marks on the
+contact surfaces . . . . . . . . . . . . . . . . . . . . . . . . . . . .42
+3.3.4.1 Wear damage with poor lubrication . . . . . . . . . . . .42
+
+3
+FAG

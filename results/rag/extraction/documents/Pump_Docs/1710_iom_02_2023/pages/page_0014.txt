@@ -1,0 +1,92 @@
+3  Product Description
+
+• If the density and/or viscosity value of the pumped liquid exceeds the value of water,
+such as water with glycol; as it may require a more powerful motor.
+• If the pumped liquid is chemically treated (for example softened, deionized,
+demineralized etc.).
+• Any situation that is different from the ones that is described and relate to the nature of
+the liquid.
+
+3.3  Pump denomination and construction features
+
+Identification Code
+
+* Available for Coupling option [F] & [C]
+** Available for Coupling option [S]
+***Available for Coupling option [  ]
+
+COMPONENT
+STANDARD
+
+OPTION
+OTHER AVAILABLE OPTION
+
+Casing
+Cast Iron
+Ductile Iron
+304 SS
+316 SS
+Super Duplex
+
+Shaft (seal on
+
+shaft)
+420 SS
+Duplex SS
+
+Shaft (seal on
+
+sleeve)*
+420 SS
+4135
+
+Impeller
+304 SS
+Bronze C87600
+316 SS
+Super Duplex
+
+Casing Wear
+
+Rings
+Bronze C90300
+304 SS
+316 SS
+Super Duplex
+
+Mechanical
+
+Seal
+
+Carbon/
+Ceramic/FPM
+SiC/SiC/FPM
+
+Shaft Sleeves*
+304 SS
+316 SS
+Duplex SS
+
+Shaft sleeve
+
+nuts*
+304 SS
+316 SS
+Duplex SS
+
+Packing*
+PTFE
+—
+
+Lantern ring*
+304 SS
+—
+
+Seal flush lines*
+304 SS
+316 SS
+
+*Note: Available for Gland Packing (gland packing is an optional against mechanical seal).
+
+12
+Series 1710 Installation, Operation, and Maintenance Manual

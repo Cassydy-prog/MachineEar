@@ -1,0 +1,169 @@
+nl - Vertaling van origineel
+
+Frequentie Hz
+Fase ~
+UN [V] ± %
+
+50
+1
+220 - 240 ± 6
+
+3
+230/400 ± 10
+
+perfect zĳn uitgelĳnd. Zie Afbeelding 17 op pagi‐
+na 384.
+8. Draai de moeren van de trekstang gelĳkmatig en
+volledig aan, waarbĳ u ervoor zorgt dat de aan‐
+haalmomenten overeenkomen met de waarden
+in de tabel.
+
+400/690 ± 10
+
+60
+1
+220 - 230 ± 6
+
+Moer
+Aanhaalmoment, Nm
+(lbf·in)
+
+3
+220/380 ± 5
+
+M12
+60 (44)
+
+380/660 ± 10
+
+M16
+120 (89)
+
+M20
+200 (148)
+
+Gebruik een kabel conform de regelgeving met 3
+draden (2+aarde) voor enkelfasige versies en met 4
+draden (3+aarde) voor driefasige versies.
+
+M24
+350 (258)
+
+4.3  De pomp installeren
+
+M27
+530 (391)
+
+4.3.1  Mechanische installatie
+
+Opmerking:
+
+Installatieplaats
+
+• Voor onderplaten wordt aanbevolen om ze met
+beton te vullen dat nauwelĳks krimpt.
+
+NL
+
+Monteer de pomp op een onderstel
+
+Installeer de eenheid op een betonnen of metalen
+funderingsbasis die sterk genoeg is om permanente
+en stĳve steun te garanderen. Volg de vereisten in
+Locatie van de pomp op pagina 79.
+
+Controleer of aan de volgende punten wordt vol‐
+daan:
+
+Installatie op betonnen fundering
+
+Funderingsvereisten
+
+• Een stevig onderstel dat niet beweegt of trilt tĳ‐
+dens werking (resonantie).
+• De bevestigingsoppervlakken van de pompvoe‐
+ten en de motor op het onderstel moeten egaal
+zĳn (bewerkt wordt aanbevolen).
+• De pomp en de motor moeten gegarandeerd ge‐
+borgd zĳn.
+• Afhankelĳk van de gebruikte koppeling moet vol‐
+doende ruimte tussen de pomp en de motoras
+gehandhaafd blĳven.
+• Tussen de pomp en het basisframe moeten vol‐
+doende vulstukken zĳn, zodat in het geval van
+vervanging dezelfde hoogte tussen de onderkant
+en de middenlĳn kan worden aangepast (aanbe‐
+volen verticale afstelling 4-6 mm
+
+Trillingen verminderen
+
+• Het beton moet een compressieweerstand van
+C12/15 hebben en voldoen aan de vereisten van
+blootstellingsklasse XC1 volgens EN 206-1
+• De afmetingen moeten geschikt zĳn voor de af‐
+metingen van de steunplaat van de eenheid
+• Het gewicht van de fundering moet ≥ 1,5 keer het
+gewicht van de eenheid zĳn (≥ 5 keer het gewicht
+van de eenheid als een stillere werking nodig is)
+• Het oppervlak moet zo vlak en zo vlak mogelĳk
+zĳn
+• De helling moet ≤ 1 mm/m zĳn.
+Aanvullende instructies zĳn te vinden in documentnr.
+001080247X: scan de QR-code in om deze te down‐
+loadenAfbeelding 17 op pagina 384.
+
+De pomp bevestigen
+
+Voor voorbeelden van horizontale en verticale instal‐
+laties, zie Afbeelding 15 op pagina 383.
+
+De unit en de vloeistofstroom in het systeem kunnen
+trillingen veroorzaken, die kunnen worden versterkt
+als de unit of het leidingsysteem niet correct zĳn ge‐
+installeerd: volg de instructies in Installatie op beton‐
+nen fundering op pagina 81 en De pomp bevestigen
+op pagina 81, naast de Controlelĳst leidingsysteem
+op pagina 81
+
+1. Zie de technische catalogus voor:
+– Diameter en aantal funderingsgaten
+– Gatafstanden
+– Berekenen van de grootte en hoeveelheid van
+
+Het wordt ook aanbevolen om:
+
+• Controleer of de pomp en de motor stevig aan de
+basis zĳn bevestigd
+• Breng antitrillingsmateriaal in tussen de basis en
+de fundering
+• Als het apparaat een gelaste basis heeft, vul dan
+met beton de ruimtes die worden getoond in Af‐
+beelding 25 op pagina 397.
+
+OPMERKING:
+Vul de gevouwen plaatwerkbasis niet Afbeelding 26
+op pagina 397 met beton.
+
+4.3.2  Controlelijst leidingsysteem
+Controleer of de installatie aan de volgende punten
+voldoet:
+
+de trekstangen met chemische ankers, afhan‐
+kelĳk van het model van de eenheid.
+2. Boor de fundering en zet de trekstangen vast.
+3. Plaats de eenheid op de fundering en gebruik een
+waterpas op de afvoerpoort en de as om ervoor
+te zorgen dat deze waterpas staat.
+Maximaal toegestane tolerantie: 0,2 mm/m.
+4. Verwĳder, indien aanwezig, de stoppen uit de
+zuig- en persaansluiting.
+5. Zorg ervoor dat de zuig- en persaansluiting op
+één lĳn zĳn met de betreffende leiding.
+6. Bevestig het leidingsysteem aan de eenheid; zie
+ook Controlelĳst leidingsysteem op pagina 81.
+7. Plaats zo nodig stelringen tussen de fundering en
+de basis: als de afstand tussen de trekstangen
+> 800 mm is, plaats dan twee extra pasringen in
+het midden van de basis. Alle pasringen moeten
+
+81

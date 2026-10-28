@@ -1,0 +1,175 @@
+pl - Tłumaczenie oryginału
+
+Nadzwyczajna konserwacja może być konieczna w
+celu oczyszczenia pompy po stronie cieczy i/lub do‐
+konania wymiany zużytych części.
+
+Dodatkowe informacje na temat części zamiennych
+oraz montażu i demontażu pompy można uzyskać
+od lokalnego przedstawiciela działu sprzedaży i ser‐
+wisu.
+
+Pompy z bezobsługowymi łożyskami smaro‐
+wanymi fabrycznie
+
+7  Rozwiązywanie problemów
+
+Pompy z bezobsługowymi łożyskami smarowanymi
+fabrycznie nie wymagają stosowania zaplanowanej
+rutynowej konserwacji.
+
+7.1  Wykrywanie i usuwanie usterek przez
+użytkowników
+Główny wyłącznik jest ustawiony w położeniu włą‐
+czenia, lecz pompa elektryczna nie uruchamia się.
+
+Pompy z łożyskami wymagającymi smarowa‐
+nia
+
+Przyczyna
+Środek zaradczy
+
+Zadziałał przekaźnik ter‐
+moelektryczny w pompie
+(jeśli jest zainstalowa‐
+ny).
+
+Poczekać na ostygnięcie
+pompy. Przekaźnik ter‐
+moelektryczny przestawi
+się automatycznie.
+
+• Należy je smarować co 4000 roboczogodzin i co
+najmniej raz na rok. Należy najpierw wyczyścić
+smarowniczki (SN).
+• Stosować smar NLGI klasy 2 lub jego odpowied‐
+nik.
+W razie jakichkolwiek wątpliwości lub pytań nale‐
+ży skontaktować się z lokalnym przedstawicielem
+handlowym lub serwisowym.
+
+Sprawdzić poziom cieczy
+w zbiorniku lub ciśnienie
+w sieci.
+
+Łożyska silnika
+
+Zostało uruchomione
+urządzenie zabezpiecza‐
+jące przed pracą pompy
+na sucho.
+
+Pompa elektryczna uruchamia się, lecz przekaźnik
+termoelektryczny uaktywnia się po upływie różnej
+długości okresów czasu po uruchomieniu.
+
+Po około pięciu latach smar w łożyskach silnika jest
+tak stary, że zaleca się wymianę łożysk. Łożyska na‐
+leży wymieniać po 25000 godzinach pracy lub zgod‐
+nie z instrukcjami konserwacji dostawcy silnika, w
+zależności od tego, co nastąpi wcześniej.
+
+Silnik z łożyskami wielokrotnego smarowania
+
+Przyczyna
+Środek zaradczy
+
+Postępować zgodnie z instrukcjami konserwacji do‐
+stawcy.
+
+Skontaktować się z dzia‐
+łem sprzedaży i serwisu.
+
+Sprzęg
+
+Wewnątrz pompy znalaz‐
+ły się obce ciała (cia‐
+ła stałe lub substan‐
+cje włókniste), które spo‐
+wodowały zakleszczenie
+wirnika napędzanego.
+
+PL
+
+Regularnie sprawdzać luz elementów sprzęgła, co
+najmniej raz w roku. Zalecane jest sprawdzanie ele‐
+mentów co 1000 godzin pracy lub co trzy miesiące,
+w zależności od tego, który warunek wystąpi wcześ‐
+niej.
+
+6.2  Lista kontrolna podczas inspekcji
+
+Pompa jest przeciążona
+w wyniku pompowania
+cieczy o zbyt dużej gęs‐
+tości lub lepkości.
+
+Sprawdzić rzeczywiste
+wymagania dotyczące
+zasilania energią w opar‐
+ciu o właściwości po‐
+mpowanej cieczy, a na‐
+stępnie skontaktować się
+z działem sprzedaży i
+serwisu.
+
+Sprawdzić sprzęgło
+Sprawdzić elastyczne
+części sprzęgła. Wymie‐
+nić odpowiednie części,
+jeśli noszą jakiekolwiek
+oznaki zużycia. Spraw‐
+dzić wyosiowanie.
+
+Pompa pracuje, lecz dostarcza zbyt mało cieczy lub
+wcale jej nie dostarcza.
+
+Sprawdzić uszczelnienie
+mechaniczne
+
+Przyczyna
+Środek zaradczy
+
+Pompa jest zatka‐
+na.
+
+Skontaktować się z działem
+sprzedaży i serwisu.
+
+Sprawdzić szczelność
+uszczelnienia mecha‐
+nicznego. Wymienić usz‐
+czelnienie mechaniczne
+po wykryciu nieszczel‐
+ności.
+
+Sprawdzić uszczelnienia
+łożyska
+
+Przedstawione w poniższych tabelach zalecenia do‐
+tyczące wykrywania i usuwania usterek są przezna‐
+czone wyłącznie dla instalatorów.
+
+Sprawdzić poprawność
+osadzenia osiowych
+pierścieni uszczelniają‐
+cych na wale. Warga usz‐
+czelniająca powinna sty‐
+kać się nieznacznie z ele‐
+mentem.
+
+7.2  Główny wyłącznik jest w położeniu
+włączenia, lecz pompa elektryczna nie
+uruchamia się.
+
+Sprawdzić, czy układ pra‐
+cuje cicho
+
+Sprawdzać często ci‐
+chość pracy pompy za
+pomocą przyrządów do
+pomiaru drgań.
+
+6.3  Demontaż i wymiana części pompy
+
+188

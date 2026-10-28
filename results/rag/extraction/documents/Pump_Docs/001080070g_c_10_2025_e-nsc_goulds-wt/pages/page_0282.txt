@@ -1,0 +1,161 @@
+sr - Prevod originalnog
+
+• Električni izvodi su zaštićeni od visoke tempera‐
+ture, vibracija i sudara.
+• Vod za napajanje je opremljen:
+– Uređajem za zaštitu od kratkog spoja
+– Prekidačem za odvajanje od mreže sa mini‐
+
+Poštujte sve propise koje izdaju organi koji imaju
+nadležnost i kompanije koje upravljaju javnim vod‐
+nim zalihama ako je pumpa povezana sa javnim
+vodnim sistemom. Ako je potrebno, postavite odgo‐
+varajući uređaj za sprečavanje povratnog protoka na
+usisnu stranu.
+
+malnim razmakom kontakata od 3 mm
+
+Kontrolna lista za elektronsku kontrolnu tablu
+
+Kontrolna lista za cevi
+
+Proverite da li su ispunjeni sledeći zahtevi:
+
+NAPOMENA:
+Kontrolna tabla mora da odgovara ocenama električ‐
+ne pumpe. Neodgovarajuće kombinacije mogu dove‐
+sti do nemogućnosti zaštite motora.
+
+Proverite da li su ispunjeni sledeći zahtevi:
+
+• Kontrolna tabla mora da štiti motor od preoptere‐
+ćenja i kratkog spoja.
+• Instalirati ispravnu zaštitu od preopterećenja (ter‐
+mički relej ili zaštita motora).
+
+Tip pumpe
+Zaštita
+
+– Ugrađena termo-
+
+Jednofazna standard‐
+na električna pumpa ≤
+2,2 kW
+
+ampermetarska za‐
+štita od automat‐
+skog resetovanja
+(zaštita motora)
+– Zaštita kratkog spo‐
+
+ja (mora biti obez‐
+beđena od strane
+instalatera)47
+
+Trofazna električna
+pumpa48
+– Termička zaštita
+
+(mora je obezbediti
+instalater)
+– Zaštita od kratkog
+
+spoja (mora je
+obezbediti instala‐
+ter)
+
+• Ceo cevovod ima nezavisnu potporu; cevovod ne
+sme predstavljati teret za jedinicu.
+• Koriste se savitljive cevi ili spojevi kako bi se iz‐
+beglo prenošenje vibracija pumpe na cevi i obrnu‐
+to.
+• Koristite široke zavoje, izbegavajte upotrebu kole‐
+na koja uzrokuju preveliku otpornost na protok.
+• Usisni cevovod je savršeno zaptiven i hermeti‐
+čan.
+• Ako se pumpa koristi u otvorenom kolu, prečnik
+usisne cevi je pogodan za uslove instalacije.
+Usisna cev ne sme biti manja od prečnika usis‐
+nog priključka.
+• Ako usisni cevovod mora da bude veći od usisne
+strane pumpe, instalira se reduktor sa ekscentrič‐
+nom cevčicom.
+• Ukoliko se pumpa nalazi iznad nivoa tečnosti, na
+kraj usisne cevi se ugrađuje nožni ventil.
+• Nožni ventil je potpuno uronjen u tečnost, tako
+da vazduh ne može ući kroz usisni vrtlog, kada je
+tečnost na minimalnom nivou a pumpa ugrađena
+iznad izvora tečnosti.
+• On-off ventili odgovarajuće veličine se ugrađuju
+na usisnim cevima i dopremnim cevima (nizvod‐
+no do kontrolnog ventila) radi regulacije kapacite‐
+ta pumpe, pregleda pumpe, kao i za održavanje.
+• Da bi se sprečio povratni tok u pumpu kada je
+ona isključena instaliran je kontrolni ventil na do‐
+premnim cevima.
+
+• Kontrolna tabla mora da sadrži sistem zaštite od
+rada na suvo na koji je priključen prekidač priti‐
+ska, plivajući prekidač, sonde ili drugi pogodan
+uređaj.
+• Sledeći prekidači se preporučuju za upotrebu na
+usisnoj strani pumpe:
+
+– Kada se tečnost upumpava iz vodovodai, kori‐
+
+stite prekidač pritiska.
+– Kada se tečnost upumpava iz rezervoara za
+
+UPOZORENJE:
+Nemojte koristiti on-off ventil na ispusnoj
+strani u zatvorenom položaju da biste
+gasili pumpu duže od nekoliko sekundi.
+Ako pumpa mora da radi kada je ispus‐
+na strana zatvorena duže od nekoliko se‐
+kundi, mora se ugraditi zaobilazno kolo
+kako bi se sprečilo pregrevanje tečnosti
+unutar pumpe.
+
+skladištenje ili cisterne, koristite plutajući pre‐
+kidač ili sonde.
+• Kada se koriste termički releji, preporučuju se re‐
+leji koji su osetljivi na neispravnost faze.
+
+Za slike koje pokazuju zahteve u vezi cevovoda, po‐
+gledajte Slika 13 na stranici 380 i Slika 14 na stranici
+380.
+
+SR
+
+Kontrolna lista za motor
+
+UPOZORENJE:
+
+4.2  Električni zahtevi
+• Lokalni propisi na snazi imaju prednost nad tim
+specifikovanim zahtevima.
+• U slučaju protivpožarnih sistema (hidranti i/ili pr‐
+skalice), proverite lokalne propise koji su na sna‐
+zi.
+
+Kontrolna lista za električne veze
+
+Proverite da li su ispunjeni sledeći zahtevi:
+
+• Pročitati uputstva za upotrebu kako
+bi se osiguralo postojanje zaštitnog
+uređaja ako se koristi motor koji nije
+standardan.
+• Ako je motor opremljen automatskim
+toplotnim zaštitnicima, budite svesni
+rizika od neočekivanih početaka u ve‐
+zi sa preopterećenjem. Ne koristite
+
+47
+spaja aM (motorno pokretanje) ili magneto-termalni prekidač sa krivom C i Icn ≥ 4,5 kA ili drugim
+ekvivalentnim uređajem.
+48
+toplotnog releja sa trip klase 10A + osiguračima aM (motorno pokretanje) ili magneto-termalni prekidač
+za zaštitu motora sa startnom klasom 10A.
+
+278

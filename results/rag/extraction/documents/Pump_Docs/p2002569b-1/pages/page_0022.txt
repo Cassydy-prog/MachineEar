@@ -1,0 +1,101 @@
+Packing lubrication
+
+Internal liquid lubricant
+
+Pumped liquid may be used to lubricate the packing 
+when the following conditions prevail:
+1. Liquid is clean, free from sediment and chemical
+	 precipitation and is compatible with seal materials.
+2. Temperature is above 32°F and below 160°F.
+3. Suction pressure is below 75 psig.
+4. Liquid has lubricating qualities.
+5. Liquid is non-toxic and non-volatile.
+
+External liquid lubricant
+
+Figure 12 - Controlled pressure system
+
+for stuffing box
+
+When the liquid being pumped contains solids or is
+otherwise not compatible with packing materials, an
+outside supply of seal liquid should be furnished. In 
+general, external-injection liquid (from an outside 
+source) is required when the following conditions 
+prevail:
+1.  Liquid being pumped contains dirt, grit, or 
+other impurities.
+2. Temperature of the pumped liquid is below 
+32°F or above 160°F.
+3. Liquid being pumped has non-lubricating 
+properties.
+4. Liquid is toxic or volatile.
+5. Suction pressure is above 75 psig, vacuum, 
+or high lift.
+
+therefore, is to use the lowest possible flushing 
+pressure which the operating conditions will permit. 
+If the pump system pressure conditions vary during 
+the day, the packing problem becomes difficult. 
+Consideration should be given to using a mechanical 
+seal. (See "Mechanical Seals".)
+
+Stuffing box operating 
+pressure
+
+The actual stuffing box operating pressure may be 
+obtained by installing a pressure gauge on the box. 
+This is done with an extra seal cage temporarily 
+replacing the two rings of packing in the bottom 
+of the box to obtain accurate gauge readings. Take 
+gauge readings with the pump running under
+various head and capacity conditions. Then set the 
+pressure of flushing or lubrication liquid at a value
+5 to 10 psi above the maximum expected stuffing box 
+operating pressure.
+
+One recommended method to minimize error in
+regulating flushing water is a "Controlled Pressure 
+System" (Figure 12). Most important is the pressure 
+reducing valve adjusted to a value slightly exceeding 
+the maximum stuffing box operating pressure 
+(assuming it is reasonably constant). A flow indicating 
+device will serve to indicate a failing of the bottom 
+packing rings allowing leakage into the pump. 
+With this arrangement, the packing gland need be 
+tightened only against the lowest necessary pressure. 
+Longer packing life and less frequent adjustments 
+are possible with the "Controlled Pressure System" if 
+properly installed and operated. (See "Stuffing Box 
+Operating Pressure".)
+
+Packing
+
+Even under the best conditions, a properly packed
+stuffing box should be watched closely. If pressure
+conditions change slightly, there will be a resultant 
+change in packing "seating" which should be 
+compensated by a change in gland adjustment. 
+Consideration should also be given to the lubrication 
+pressure. A wide variation indicates a need to use a 
+mechanical seal.
+
+Mechanical seals
+
+Standard pumps are normally packed before 
+shipment. If the pump is installed within 60 days after 
+shipment, the packing will be in good condition with 
+a sufficient supply of lubrication. If the pump is stored 
+for a longer period, it may be necessary to repack the 
+stuffing box. In all cases, however, inspect the packing 
+before the pump is started.
+
+NOTE: Packing adjustment is covered on page 31.
+
+Mechanical seals are preferred over packing on some
+applications because of better sealing qualities and 
+longer serviceability. Leakage is eliminated when 
+a seal is properly installed, and normal life is much 
+greater than that of packing on similar applications.
+
+22

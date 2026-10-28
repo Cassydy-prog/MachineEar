@@ -1,0 +1,200 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+Deutsch
+
+Español
+
+Português
+
+1. Pumpentyp
+2. a. = Seriennummer + Herstel‐
+lungsdatum; b. = Produktion‐
+sjahr + Auftragsnummer +
+Auftragspositionsnummer
+3. Maximaler Betriebsdruck
+4. Maximale Medientemperatur
+für den Betrieb
+5. Mindest-Betriebstemperatur
+der Flüssigkeit
+6. Pumpen-Code
+7. Durchmesser des kompletten
+Laufrads (nur für komplette
+Laufräder)
+8. Durchmesser des reduzierten
+Laufrads (nur für gekürzte
+Laufräder)
+9. Durchflussbereich
+10. Förderhöhenbereich
+11. Geschwindigkeit
+12. Nenn- oder maximale Pum‐
+pleistung (elektrische Pumpe‐
+neinheit); Maximale Pumpen‐
+leistungsaufnahme (Pumpe)
+13. Minimaler Effizienzindex
+14. Hydraulische Effizienz am be‐
+sten Effizienzpunkt (nur für
+gekürzte Laufräder)
+15. Gewicht
+
+1. Tipo de bomba
+2. a. = Número de serie + fecha
+de fabricación; b. = Año de
+producción + número de pedi‐
+do + número de posición de
+pedido
+3. Presión máxima de funciona‐
+miento
+4. Temperatura máxima del lí‐
+quido en funcionamiento
+5. Temperatura del líquido de
+funcionamiento mínima
+6. Código de la bomba
+7. Diámetro del impulsor com‐
+pleto (solo para impulsores
+completos)
+8. Diámetro del impulsor reduci‐
+do (solo para impulsores acti‐
+vados)
+9. Rango del caudal
+10. Rango de carga hidráulica
+11. Velocidad
+12. Potencia de la bomba nomi‐
+nal o máxima (unidad de
+bomba eléctrica); potencia
+máxima de la bomba absorbi‐
+da (bomba)
+13. Índice de eficiencia mínimo
+14. Eficiencia hidráulica en el me‐
+jor punto de eficiencia (solo
+para impulsores activados)
+15. Peso
+
+1. Tipo de bomba
+2. a. = Número de série + data
+de fabrico; b. = Ano de produ‐
+ção + número da encomenda
++ número da posição da en‐
+comenda
+3. Pressão máxima de funciona‐
+mento
+4. Temperatura máxima do líqui‐
+do de funcionamento
+5. Temperatura mínima do líqui‐
+do de funcionamento
+6. Código da bomba
+7. Diâmetro integral do impul‐
+sor (apenas para rotores inte‐
+grais)
+8. Diâmetro reduzido do impul‐
+sor (apenas para rotores apa‐
+rados)
+9. Intervalo de fluxo
+10. Intervalo da cabeça
+11. Velocidade
+12. Potência nominal ou máxima
+da bomba (unidade de bom‐
+beamento eléctrica); potência
+máxima da bomba absorvida
+(bomba)
+13. Índice de eficiência mínima
+14. Eficiência hidráulica no ponto
+de melhor eficiência (apenas
+para rotores aparados)
+15. Peso
+
+Nederlands
+
+Dansk
+
+Norsk
+
+1. Pumpetype
+2. a. = Serienummer + produk‐
+sjonsdato; b. = Produksjonsår
++ ordrenummer + ordreposi‐
+sjonsnummer
+3. Maksimalt brukstrykk
+4. Maksimal væsketemperatur
+ved bruk
+5. Minimal væsketemperatur
+ved bruk
+6. Pumpekode
+7. Full løpehjulsdiameter (kun
+ved fulle løpehjul)
+8. Reduser løpehjulsdiameter
+(kun ved justert løpehjul)
+9. Strømningsområde
+10. Trykkhøydeområde
+11. Hastighet
+12. Nominell eller maksimal pum‐
+pekraft (elektrisk pumpeen‐
+het). Maksimal absorbert
+pumpekraft
+13. Minimal virkningsindeks
+14. Hydraulisk virkning på beste
+virkingspunkt (kun ved tilpas‐
+sede løpehjul)
+15. Vekt
+
+APPX
+
+1. Pumpetype
+2. a. = Serienummer + fremstil‐
+lingsdato; b. = Produktionsår
++ ordrenummer + ordreposi‐
+tionsnummer
+3. Maksimalt driftstryk
+4. Driftsvæskens maksimum‐
+stemperatur
+5. Minimum driftsvæsketempe‐
+ratur
+6. Pumpekode
+7. Fuld pumpehjul diameter (kun
+fulde pumpehjul)
+8. Fuld pumpehjul diameter (kun
+beskårne pumpehjul)
+9. Flowinterval
+10. Løftehøjdeområde
+11. Hastighed
+12. Nominel eller maksimal pum‐
+peeffekt (elektrisk pumpeen‐
+hed); maksimal absorberet
+pumpeeffekt (pumpe)
+13. Indeks for minimumseffektivi‐
+tet
+14. Hydraulisk effektivitet i bed‐
+ste driftspunkt (kun for be‐
+skårne pumpehjul)
+15. Vægt
+
+1. Type pomp
+2. a. = Serienummer + fabrica‐
+gedatum; b. = productiejaar +
+ordernummer + orderpositie‐
+nummer
+3. Maximale systeemdruk
+4. Maximale bedrijfstempera‐
+tuur van de vloeistof
+5. Minimale werktemperatuur
+van de vloeistof
+6. Pompcode
+7. Diameter volledige waaier (al‐
+leen voor volledige waaiers)
+8. Gereduceerde diameter van
+de waaier (alleen voor inge‐
+korte waaiers)
+9. Stroombereik
+10. Opvoerhoogtebereik
+11. Snelheid
+12. Nominale of maximale pomp‐
+vermogen (elektrische pomp);
+maximale pompvermogen
+geabsorbeerd (pomp)
+13. Index voor minimale efficiën‐
+tie
+14. Hydraulische efficiëntie in
+beste efficiëntiepunt (alleen
+voor ingekorte waaiers)
+15. Gewicht
+
+347

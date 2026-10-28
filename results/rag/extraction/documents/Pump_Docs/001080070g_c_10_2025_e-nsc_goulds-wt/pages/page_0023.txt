@@ -1,0 +1,176 @@
+en - Original instructions
+
+Pump Type
+Protection
+
+Three phase electric
+pump4
+– Thermal protection
+
+Install the unit on a concrete or metal foundation
+base sufficiently strong to ensure permanent and
+rigid support. Follow the requirements in Pump loca‐
+tion on page 17.
+
+Installation on concrete foundation
+
+(must be supplied
+by the installer)
+– Short circuit protec‐
+
+Foundation requirements
+
+tion (must be sup‐
+plied by the instal‐
+ler)
+
+EN
+
+• The control panel must be equipped with a dry-
+running protection system to which a pressure
+switch, float switch, probes, or other suitable de‐
+vice is connected.
+• The following devices are recommended for use
+on the suction side of the pump:
+
+– When the liquid is pumped from a water sys‐
+
+tem, use a pressure switch.
+– When the liquid is pumped from a storage
+
+tank or reservoir, use a float switch or probes.
+• When thermal relays are used, relays that are
+sensitive to phase failure are recommended.
+
+• The concrete must have a compression resist‐
+ance of C12/15 and meet the requirements of
+exposure class XC1 according to EN 206-1
+• Sizes must be appropriate for the sizes of the
+unit support plate
+• The foundation weight must be ≥ 1.5 times the
+unit weight (≥ 5 times the weight of the unit if a
+quieter operation is required)
+• The surface should be as flat and as level as
+possible
+• The slope must be ≤ 1 mm/m.
+Additional instructions can be found in document
+no. 001080247X: to download it, scan the QR code
+found in Figure 17 on page 384.
+
+The motor checklist
+
+Fixing the pump
+
+WARNING:
+
+For examples of horizontal and vertical installations,
+see Figure 15 on page 383.
+
+1. See the technical catalogue for:
+– Diameter and number of foundation holes
+– Hole distances
+– Calculating the size and quantity of the tie
+
+• Read the operating instructions in or‐
+der to ensure whether a protection
+device is provided if another motor
+other than the standard is used.
+• If the motor is equipped with auto‐
+matic thermal protectors, be aware of
+the risk of unexpected starts in con‐
+nection to overload. Do not use such
+motors for fire-fighting applications.
+
+NOTICE:
+
+• Only use dynamically balanced motors with
+a half-sized key in the shaft extension (IEC
+60034-14) and with normal vibration rate (N).
+• The mains voltage and frequency must agree
+with the specifications on the data plate.
+
+In general, motors can operate under the following
+mains voltage tolerances:
+
+Frequency Hz
+Phase ~
+UN [V] ± %
+
+50
+1
+220 – 240 ± 6
+
+3
+230/400 ± 10
+
+rods with chemical anchors, depending on the
+model of the unit.
+2. Drill the foundation and secure the tie rods.
+3. Place the unit on the foundation and use a spirit
+level on the discharge port and the shaft to make
+sure that it is level.
+Maximum permissible tolerance: 0.2mm/m.
+4. If present, remove the plugs covering the suction
+and discharge ports.
+5. Align the suction and discharge ports to their
+piping.
+6. Fix the piping system to the unit; see also Piping
+system checklist on page 20.
+7. If necessary, insert levelling shims between the
+foundation and the base: if the distance between
+the tie rods is > 800 mm, insert two additional
+shims at the centre of the base. All shims must
+be perfectly flush. See Figure 17 on page 384.
+8. Evenly and fully tighten the tie rod nuts, making
+sure that the torques are as indicated in the ta‐
+ble.
+
+400/690 ± 10
+
+60
+1
+220 – 230 ± 6
+
+Nut
+Torque, Nm (lbf·in)
+
+3
+220/380 ± 5
+
+M12
+60 (44)
+
+380/660 ± 10
+
+M16
+120 (89)
+
+M20
+200 (148)
+
+M24
+350 (258)
+
+Use cable according to rules with 3 leads (2+earth/
+ground) for single phase versions and with 4 leads
+(3+earth/ground) for three phase version.
+
+M27
+530 (391)
+
+4.3  Install the pump
+
+Note:
+
+4.3.1  Mechanical installation
+
+• For baseplates, it is recommended to grout the
+baseplate with low-shrinkage concrete.
+
+Installation area
+
+4
+Overload thermal relay with trip class 10A + fuses aM (motor starting) or motor protection magneto-
+thermal switch with starting class 10A.
+
+19

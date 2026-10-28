@@ -1,0 +1,31 @@
+7. Positive Displacement Pump Applications
+
+Positive displacement pumps also typically have 
+pulsating flow characteristics. In some systems, 
+these pulsations can create vibration problems, 
+especially if the pulse rate has a harmonic com-
+ponent that coincides with the natural frequency 
+of any piping or structure. Flow-induced piping 
+vibrations create cyclic loading on piping welds 
+and piping supports; they can also accelerate the 
+loosening of mechanical joints. These vibrations 
+can be dampened by using accumulators to absorb 
+some of the vibrational energy.
+
+Another consideration is the need for storage of 
+spare parts. Because of the relatively high number 
+of moving parts associated with many positive 
+displacement pumps, some facilities have to 
+maintain a large spare parts inventory. For 
+example, mating surfaces on the internal valves of 
+many reciprocating pumps are susceptible to wear 
+and require periodic replacement.  Although these 
+parts can be obtained from a manufacturer or parts 
+supplier, plants often prefer to keep common 
+replacement parts on hand to minimize downtime. 
+Consequently, using pumps with a large number of 
+moving parts can increase a plant’s maintenance 
+workload and inventory holding costs.
+
+42
+Improving Pumping System Performance

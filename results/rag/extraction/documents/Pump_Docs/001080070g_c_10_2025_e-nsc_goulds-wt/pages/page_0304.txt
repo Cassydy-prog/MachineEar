@@ -1,0 +1,147 @@
+tr - Orijinal talimatlar
+
+Uygun olmayan kullanım
+
+dana getirir. Kuplajı yapan kişi kombine
+ünitenin tüm güvenlik özelliklerinden ve
+CE işareti için sorumludur.
+
+2.3  Depolama talimatları
+
+UYARI:
+Pompanın nizami olmayan kullanımı teh‐
+likeli durumlar yaratabilir, yaralanmalara
+ve maddi hasara yol açabilir.
+
+Depolama konumu
+
+Ürün üzeri örtülü bir şekilde ısı, kir ve titreşimin bu‐
+lunmadığı kuru yerlerde depolanmalıdır.
+
+Ürünün uygunsuz kullanımı garantinin geçersiz olma‐
+sına neden olur.
+Uygun olmayan kullanıma örnekler:
+
+UYARI:
+Ürünü nem, ısı kaynakları ve mekanik hasarlara karşı
+koruyun.
+
+UYARI:
+Ambalajlı ürünün üzerine ağır yükler koymayın.
+
+• Pompa üretim malzemeleriyle uyumlu olmayan
+sıvılar
+• Tehlikeli sıvılar (toksik, patlayıcı, yanıcı veya koro‐
+zif sıvılar)
+• Su dışındaki içilebilir sıvılar (örneğin, şarap veya
+süt)
+Uygun olmayan montaja örnekler:
+
+2.3.1  Uzun süreli depolama
+
+Ünite 6 aydan uzun bir süre depolanmışsa, şu gerek‐
+lilikler geçerlidir:
+
+• Tehlikeli konumlar (patlayıcı veya aşındırıcı at‐
+mosferler gibi).
+• Hava sıcaklığının çok yüksek veya havalandırma‐
+nın kötü olduğu konumlar.
+• Yağmur veya dondurucu hava sıcaklıklarına karşı
+koruma bulunmayan dış mekan kurulumları.
+
+TEHLİKE:
+Bu pompayı alev alabilir ve/veya patlayıcı
+sıvılar için kullanmayın.
+
+UYARI:
+
+• Kapalı ve kuru bir yerde saklayın.
+• Üniteyi ısı, kir ve titreşimlerden uzak tutun.
+• Mili en az üç ayda bir birkaç kez el ile döndürün.
+Uzun süreli depolama prosedürleri için tahrik ünitesi
+ve kaplin üreticilerine danışın.
+Olası uzun süreli depolama işlemi hizmetleriyle ilgili
+sorularınız için lütfen yerel satış ve servis temsilciniz
+ile irtibata geçin.
+
+Ortam sıcaklığı
+
+• Bu pompayı aşındırıcı, katı veya lifli sıvılar için
+kullanmayın.
+• Veri plakasında belirtilen akış hızlarını aşan akış
+hızları için pompayı kullanmayın.
+
+Ürün, -5°C ila +40°C (23°F ila 104°F) arasında ortam
+sıcaklığında saklanmalıdır.
+
+Özel uygulamalar
+
+3  Ürün Açıklaması
+
+Aşağıdaki durumlarda yerel satıcılar ve servis temsil‐
+cileriyle irtibat kurun:
+
+3.1  Pompa tasarımı
+Pompa, standart elektrik motorlara yakından bağlan‐
+mış, salyangoz gövdeli yatay bir pompadır.
+Pompa, taşıma için kullanılabilir:
+
+• Pompalanan sıvının yoğunluğu ve/veya viskozite
+değeri su değerini aşarsa (örn. glikol içeren su);
+bu durumda daha güçlü bir motor gerekebilir.
+• Pompalanan sıvı kimyasal işlem görmüşse (örne‐
+ğin yumuşatma, deiyonize etme, demineralize et‐
+me, vs.).
+• Açıklananlardan farklı olan ve sıvının yapısına uy‐
+gun tüm durumlar.
+
+• Soğuk veya sıcak su
+• Temiz sıvılar
+• Pompa malzemelerine kimyasal ve mekanik bir
+zararı olmayan sıvılar.
+Ürün, bir pompa ünitesi (pompa ve elektrik motoru)
+ya da sadece bir pompa olarak sağlanabilir.
+
+3.2  Pompa adlandırması
+Pompa adlandırma açıklaması için bkz. Şekil 2 sayfa
+0
+
+UYARI:
+Motorsuz bir pompa satın aldıysanız, motorun pom‐
+pa kuplajına uygun olduğundan emin olun.
+
+Kullanım amacı
+
+TR
+
+Pompa şunlar için uygundur:
+
+3.3  İsim plakası
+İsim plakası rulman braketinde yer alır. İsim plakası,
+ürünün önemli özelliklerini listeler. Daha fazla bilgi
+için bkz. Şekil 1 sayfa 345.
+İsim plakası, çark ve gövde malzemesi, mekanik ke‐
+çe ve malzemeleriyle ilgili bilgi verir. Daha fazla bilgi
+için bkz. Şekil 3 sayfa 363.
+
+IMQ , TUV veya IRAM ya da diğer işaretler
+(sadece elektrikli pompa için)
+
+• Su tedariki ve su arıtımı
+• Sanayi ve bina hizmetlerinde soğuk ve sıcak su
+tedariki
+• Sulama ve yağmurlama sistemleri
+• Isıtma sistemleri
+• Yangınla mücadele uygulamaları
+İsteğe bağlı materyaller için ilave kullanımlar:
+
+Aksi belirtilmedikçe, elektrik güvenliği onay işareti
+olan ürünler için, onay özellikle elektrik pompasına
+işaret eder.
+
+• Merkezi ısıtma
+• Genel sanayi
+
+3.4  Pompa açıklaması
+
+300

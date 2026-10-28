@@ -1,0 +1,146 @@
+Procédures d’assemblage
+
+décrite précédemment utilisant l’index de marquage est suffisam-
+ment précise.
+
+Table 8. Couple de serrage pour les boulons en U des pales
+
+Couple de Serrage
+
+Taille des
+
+Aluminium
+Fibre de verre
+
+Taille de
+
+Taille du
+
+boulons
+
+l’hélice
+
+moyeu
+
+Ft-lb
+N-m
+Ft-lb
+N-m
+
+en U
+
+54 - 72
+14
+1/2”
+20
+27
+30
+41
+
+81 - 96
+18
+3/4”
+45
+61
+50
+68
+
+108 - 144
+18
+3/4”
+45
+61
+50
+68
+
+1. Placer le moyeu sur une surface horizontale avec l’ouverture
+d’assemblage du corps vers le haut. Ceci est normalement
+le côté évacuation de l’assemblage.
+2. Placer la parie jonction de la pale dans les ouvertures, le
+côté évacuation de la pale étant placé vers le haut. Le côté
+évacuation de la pale est le côté qui porte la marque de
+réglage d’angle. Aligner la marque index de la pale avec la
+marque d’angle correcte de l’extrémité du corps (Figures 14
+et 15), de l’autre côté de l’assemblage.
+3. Placer le capuchon sur le corps de la pale avec la partie
+en biais dirigée vers le centre. Mettre en place les boulons
+en U et les écrous de blocage élastiques. Avant de serrer
+les écrous de blocage, tirer la pale vers l’extérieur contre la
+rainure et vérifier la valeur de l’angle (Figures 14 et 15).
+
+4. Serrer les boulons élastiques de façon uniforme et ajuster le
+couple de serrage aux valeurs suivantes (en pied-livres):
+
+Figure 14. Marques de réglage de l’angle
+
+Si une précision plus grande est désirée, utiliser un incli-
+nomètre à bulle. Avant de procéder au serrage final des bou-
+lons, placer l’inclinomètre sur la marque de réglage d’angle. 
+(L’assemblage pale moyeu doit être de niveau pour obtenir un 
+réglage exact.)
+ 
+Ajuster l’angle en frappant l’extrémité du corps avec un 
+maillet.
+ 
+Serrer les écrous de blocage au couple de serrage cor-
+rect selon le Tableau 8. Re-vérifier le réglage de l’angle. Faire 
+tourner l’hélice pour vérifier que l’angle de chaque pale soit 
+dans la même position.
+ 
+Les hélices peuvent être assemblées de telle façon que le 
+côté couvercle du moyeu se trouve du côté de l’entrée d’air 
+(âme inverse) Si les pales n’ont pas de marques d’index du 
+côté évacuation, il est nécessaire d’ajuster l’angle avec un 
+inclinomètre.
+
+Le moyeu et les pales sont balancées indépendamment l’un
+
+Figure 16. Pales et marques de réglage d’angle.
+
+Index de réglage de l’angle sur la jonction du corps. Les marques
+
+vont de 10° à 50°. Chaque marque correspond à 2°.
+
+Boulon en U
+
+Figure 15. Explosion de la vue d’assemblage
+Marque de
+réglage
+d’angle
+
+Capuchon
+
+Pale
+
+Moyeu
+de pale
+
+Marques index
+
+Marque
+index
+
+Écrous de blocage élastiques
+
+Côté entrée d’air 
+Côté évacuation
+
+moyeu
+
+de l’autre. La distribution pondérale tout au long de la pale varie 
+légèrement. Par conséquent, la balance est relative à un moment 
+donné et les pales peuvent être assemblées dans n’importe quel 
+ordre bien que leur poids diffère quelque peu.
+
+5. S’assurer que la valeur de l’angle n’a pas changé pendant
+l’assemblage. Si c’est le cas, desserrer les boulons et régler
+l’angle de nouveau. Serrer les boulons au couple de serrage
+approprié. Ne pas trop serrer. S’assurer que les boulons en
+U sont serrés uniformément.
+
+Réglage de l’angle avec un inclinomètre (optionnel)
+Dans la plupart des conditions, la procédure d’assemblage
+
+TWIN CITY FAN & BLOWER  |  WWW.TCF.COM
+
+5959 Trenton Lane N  |  Minneapolis, MN 55442  |  Phone: 763-551-7600  |  Fax: 763-551-7601

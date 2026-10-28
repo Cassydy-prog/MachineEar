@@ -1,0 +1,50 @@
+Other means of inspection at FAG
+
+Material inspections
+
+4.3 Material inspection
+
+– Metalographic assessment of structure
+– Making zones of unpermissible
+
+heating visible by etching the contact
+areas
+– Crack inspection by means of ultra-
+
+sound or eddy current
+– Radioscopic measuring of retained
+
+austenite
+– Inspection of material cleanliness
+– Material analysis
+
+The condition of the material of all
+bearing parts is of decisive importance if
+the bearings are to be fully efficient. 
+Indeed, bearing damage is very seldom
+due to material or production faults, fig.
+11, but a material inspection can provide
+important information in cases of doubt.
+In a number of cases changes in the ma-
+terial condition are due to unexpected
+bearing application conditions.
+
+The main inspections in this area are:
+– Inspection of hardness and more
+
+seldom, tensile strength or notch im-
+pact bending strength
+
+In addition to determining material
+faults, these inspections can provide in-
+formation for example on unpermissible
+slippage (sliding heat zones, fig. 108) or
+unexpectedly high operating tempera-
+tures (change in structural parts during
+operating and dimensional changes as a
+result).
+
+108: Section of heat influence zone
+
+65
+FAG

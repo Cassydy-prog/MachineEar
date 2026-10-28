@@ -1,0 +1,155 @@
+es - Traducción del original
+
+• La temperatura del líquido
+• Elevación por encima del nivel del mar (en los
+sistemas abiertos)
+• Presión del sistema (en sistemas cerrados)
+• La resistencia de las tuberías
+• La resistencia intrínseca del caudal de la bomba
+• Diferencias de altura
+La siguiente ecuación se usa para calcular la altura
+máxima sobre el nivel del líquido en el que puede
+instalarse la bomba:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+• Si el cable del motor se desconecta
+por error, el conductor a tierra debería
+ser el último conductor en desconec‐
+tarse de su terminal. Asegúrese de
+que el conductor de tierra sea más
+largo que los conductores de fase.
+Esto se aplica a los dos extremos del
+cable del motor.
+• Añada una protección adicional con‐
+tra las descargas letales. Instale un
+conmutador diferencial de alta sen‐
+sibilidad (30 mA) [dispositivo de co‐
+rriente residual RCD].
+
+pb
+Presión barométrica en bar (en sistemas ce‐
+rrados es la presión del sistema)
+
+4.1  Requisitos de la instalación
+
+NPSH
+Valor en metros de la resistencia intrínseca
+del caudal de la bomba
+
+4.1.1  Ubicación de la bomba
+
+ES
+
+Hf
+Pérdidas totales en metros causadas por el
+paso del líquido en la tubería de aspiración
+de la bomba
+
+Hv
+presión del vapor en metros que correspon‐
+de a la temperatura del líquido T °C
+
+PELIGRO:
+No utilice esta unidad en entornos que
+puedan contener gases o polvo inflama‐
+bles/explosivos o químicamente agresi‐
+vos.
+
+0,5
+Margen de seguridad recomendado (m)
+
+Pautas
+
+Z
+Altura máxima a la que se puede instalar la
+bomba (m)
+
+Respete las siguientes directrices relativas a la ubi‐
+cación del producto:
+
+(pb*10,2 - Z) debe ser siempre un número positivo.
+Para obtener más información, consulte Figura 12
+en la página 380.
+
+NOTA:
+No exceda la capacidad de aspiración de la bomba,
+ya que esto puede provocar cavitación y dañar la
+bomba.
+
+4.1.2  Requisitos de las tuberías
+
+Precauciones
+
+ADVERTENCIA:
+
+• Asegúrese de que ninguna obstrucción impide el
+flujo normal del aire de refrigeración proporciona‐
+do por el ventilador del motor.
+• Asegúrese de que el área de instalación está pro‐
+tegida contra cualquier posible fuga de líquidos o
+desbordamiento.
+• Si es posible, coloque la bomba ligeramente más
+alta que el nivel del suelo.
+• La temperatura ambiente debe estar entre 0 °C
+(+32 °F) y +40 °C (+104 °F).
+• La humedad relativa del ambiente debe ser infe‐
+rior al 50 % a +40 °C (+104 °F).
+• Póngase en contacto con el departamento de
+ventas y servicio si:
+
+– Las condiciones de humedad relativa del aire
+
+superan las indicadas en las directrices.
+– La temperatura ambiente supera los +40 °C
+
+(+104 °F).
+– La unidad se encuentra a más de 1000 m
+
+• Utilice tubos adecuados para la máxi‐
+ma presión de trabajo de la bomba.
+De lo contrario, se pueden producir
+roturas en el sistema, lo que puede
+ocasionar riesgo de lesiones.
+• Asegúrese de que técnicos de insta‐
+lación cualificados realicen todas las
+conexiones y que cumplan las norma‐
+tivas vigentes.
+
+(3000 ft) sobre el nivel del mar. Puede ser
+necesario evaluar el rendimiento del motor o
+reemplazarlo por un motor más potente.
+Para obtener más información sobre el valor con el
+que se evaluará el motor, consulte Tabla 11 en la
+página 379.
+
+Posición y holgura de la bomba
+
+NOTA:
+Si conecta la bomba al sistema público de aguas,
+respete todas las normativas de las autoridades que
+tengan jurisdicción y de las empresas que gestionen
+el suministro de agua. Si se requiere, instale un dis‐
+positivo de prevención de reflujo adecuado en el la‐
+do de aspiración.
+
+Lista de verificación de las tuberías
+
+• Para garantizar una ventilación adecuada: ≥ 100
+mm (4 pulg.)
+• Para permitir la inspección y extracción del mo‐
+tor: ≥ 300 mm (12 pulg.)
+• Si el espacio disponible es inferior, consulte el
+catálogo técnico.
+
+Compruebe que se cumplen los siguientes requisi‐
+tos:
+
+Instalación por encima de la fuente de líquido
+(desnivel)
+
+La altura de aspiración teórica máxima de cualquier
+bomba es de 10,33 m. En la práctica, los siguientes
+factores afectan a la capacidad de aspiración de la
+bomba:
+
+54

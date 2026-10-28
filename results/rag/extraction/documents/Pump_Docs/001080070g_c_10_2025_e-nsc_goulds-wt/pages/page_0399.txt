@@ -1,0 +1,126 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+Eesti
+
+latviski
+
+lietuvių
+
+1. Ventilatsioonikork PM1
+2. Äravoolukork E
+3. Täitekork F
+
+1. Manometra aizgrieznis PM1
+2. Drenāžas aizgrieznis E
+3. Uzpildes aizgrieznis F
+
+1. Matuoklio angos kamštis
+PM1
+2. Išleidimo angos kamštis E
+3. Pildymo angos kamštis F
+
+Polski
+
+Čeština
+
+slovenský
+
+1. Wtyczka miernika PM1
+2. Wtyczka spustu E
+3. Wtyczka napełniania F
+
+1. Místo pro měřidlo PM1
+2. Vypouštěcí zátka E
+3. Plnicí zátka F
+
+1. Zástrčka manometra PM1
+2. Vypúšťacia zátka E
+3. Zátka plniaceho otvoru F
+
+Magyar
+
+Română
+
+български
+
+1. Mérőnyílás, PM1
+2. Leeresztőnyílás, E
+3. Feltöltőnyílás, F
+
+1. Calibru tampon PM1
+2. Bușon de golire E
+3. Bușon de umplere F
+
+1. Измервателна пробка PM1
+2. Пробка за източване E
+3. Пробка за пълнене F
+
+Slovenščina
+
+Hrvatski
+
+Српски
+
+1. Čep za merjenje PM1
+2. Čep za izpust E
+3. Čep za polnjenje F
+
+1. Priključak za mjerenje PM1
+2. Priključak za pražnjenje E
+3. Priključak za ispunu F
+
+1. Priključak za merenje PM1
+2. Priključak za odvod E
+3. Priključak za ispunu F
+
+Ελληνικά
+
+Türk
+
+Русский
+
+1. Μετρητής PM1
+2. Βάνα αποστράγγισης E
+3. Τάπα πλήρωσης F
+
+1. Ölçek kapağı PM1
+2. Boşaltma kapağı E
+3. Doldurma kapağı F
+
+1. Контрольная заглушка PM1
+2. Дренажная заглушка E
+3. Заливная пробка F
+
+Україна
+
+عربي
+
+1
+.سدادة
+ 
+المقياس
+ PM1
+
+2
+.سدادة
+ 
+التصريف
+ E
+
+1. Контрольна заглушка PM1
+2. Зливна заглушка E
+3. Заливна пробка F
+
+3
+.سدادة
+ 
+التعبئة
+ F
+
+24.
+
+APPX
+
+NSC_M0045_A_sc
+
+395

@@ -1,0 +1,66 @@
+1  Introduction and Safety
+
+• Do not open any vent or drain valve or remove any plugs while the system is pressurized.
+Make sure that the pump is isolated from the system and that pressure is relieved before
+you disassemble the pump, remove plugs, or disconnect piping.
+• Never operate a pump without a properly installed coupling guard.
+
+1.2.3  Protecting the environment
+
+Emissions and waste disposal
+
+Observe the local regulations and codes regarding:
+
+• Reporting of emissions to the appropriate authorities
+• Sorting, recycling and disposal of solid or liquid waste
+• Clean-up of spills
+
+Exceptional sites
+
+CAUTION: Radiation Hazard
+Do NOT send the product to Xylem if it has been exposed to nuclear radiation, unless Xylem
+has been informed and appropriate actions have been agreed upon.
+
+Recycling guidelines
+
+Always follow local laws and regulations regarding recycling.
+
+1.3  Spare parts
+
+WARNING:
+Only use original spare parts to replace any worn or faulty components. The use of
+unsuitable spare parts may cause malfunctions, damage, and injuries as well as void the
+guarantee.
+
+CAUTION:
+Always specify the exact product type and part number when requesting technical
+information or spare parts from the Sales and Service Department.
+
+1.4  Product warranty
+
+Coverage
+
+Xylem undertakes to remedy defects in products from Xylem under these conditions:
+
+• The faults are due to defects in design, materials, or workmanship.
+• The faults are reported to a local sales and service representative within the warranty
+period.
+• The product is used only under the conditions that are described in this manual.
+• The monitoring equipment that is incorporated in the product is correctly connected and
+in use.
+• All service and repair work that is done by Xylem authorized personnel.
+• Genuine Xylem parts are used.
+
+Limitations
+
+The warranty does not cover defects that are caused by these situations:
+
+• Deficient maintenance
+• Improper installation
+• Modifications or changes to the product and installation that are made without consulting
+a Xylem authorized representative
+• Incorrectly executed repair work
+• Normal wear and tear
+
+6
+Series 1710 Installation, Operation, and Maintenance Manual

@@ -1,0 +1,187 @@
+IM-895
+
+Fan Installation – Factory Assembled Units (refer to lifting/safety section)
+All fan impellers are statically and dynamically balanced using state of the art equipment in the factory. Final trim balancing is 
+performed on factory assembled fans, unless the specified electrical characteristics of the motor are outside the limits of the factory 
+test equipment. If the motor and drives are supplied, the complete assembly is run tested and balanced. Infrequently, fans are 
+supplied with unusual electrical characteristics and cannot be tested with the motor. In this situation the fans are run and balanced 
+using a factory driver. Likewise, if motors and/or drives are not supplied, the fan is tested with the factory driver. Final balancing, at 
+the buyer’s expense, should be performed in the field after the motor and/or drives are installed. This service is available from TCF, 
+otherwise this should be entrusted to a qualified technician.
+
+Carefully level the fan on the foundation
+
+Tightening Torque
+
+FASTENER - TIGHTENING TORQUE (Ft. Lbs.)
+
+SIZE
+
+GRADE 2
+GRADE 5
+GRADE 8
+
+Follow proper handling instructions as given earlier.
+1.	
+Move the fan to the final mounting position.
+2.	
+Remove skid, crates and packing materials carefully.
+3.	
+Attach vibration isolators (if used) to appropriate mounting 
+locations on fan. Locate fan in position using lifting 
+instructions on page 5.
+4.	
+Place the fan on mounting structure. Carefully level the unit 
+on the foundation and shim as necessary using stainless 
+steel shims on both sides of each anchor bolt. Back off 
+leveling nuts if used. Be careful not to force the fan to the 
+mounting structure/foundation. This may cause the bearings 
+to become misaligned or pinched causing vibration and 
+premature failure.
+5.	
+Check the alignment of the bearings. Shim or reposition the 
+bearings if necessary.
+6.	
+Check alignment of sheaves on belt driven fans.
+7.	
+Check tension of belts to see if it is sufficient. Sheaves on 
+belt driven fans are often provided with taper lock bushings. 
+When tightening bushing bolts, proceed in a progressive 
+manner to avoid cocking the tapered surfaces between the 
+bushing and the sheave. Torque per tables on the right.
+
+Click To View Our
+Sheave Installation video
+
+#10
+—
+—
+—
+1⁄4-20
+5.5
+8
+12
+5⁄16-18
+11
+17
+25
+3⁄8-16
+22
+30
+45
+7⁄16-14
+30
+50
+70
+1⁄2-13
+55
+75
+110
+9⁄16-12
+—
+—
+—
+5⁄8-11
+100
+150
+220
+3⁄4-10
+170
+270
+380
+7⁄8-9
+165
+430
+600
+1-8
+250
+645
+900
+11⁄4-7
+500
+1120
+1500
+
+TAPER BUSHINGS - TIGHTENING TORQUE (Ft. Lbs.)
+
+SIZE
+
+8.	
+Check the tightness of the impeller on the shaft. Check the 
+tightness of foundation bolts, motor bolts, sheaves and 
+bearings. Make sure there is no rubbing or binding and that 
+the impeller-inlet cone clearances and overlap are correct.
+9.	
+Check that bearings are fully lubricated. For spherical roller 
+bearings with split pillow block housings, the bottom half 
+of the housings should be 1/3 full of grease. For oil lube 
+bearings, the oil level should reach the midpoint of the 
+bottom roller or ball.
+10.	 Install any accessories shipped loose from the factory.
+
+SPLIT
+QD 
+FOR DRIVE
+IN IRON
+IN ALUM. HUB
+#10
+—
+—
+5
+1⁄4-20
+7.9
+7.5
+9
+5⁄16-18
+16
+13
+15
+3⁄8-16
+29
+24
+30
+7⁄16-14
+—
+—
+—
+1⁄2-13
+70
+—
+60
+9⁄16-12
+—
+—
+75
+5⁄8-11
+—
+—
+135
+3⁄4-10
+—
+—
+—
+7⁄8-9
+—
+—
+—
+1-8
+—
+—
+—
+11⁄4-7
+—
+—
+—
+
+The above torque values are for nonlubricated fasteners and Browning 
+Bushings. For bearing set screws, use manufacturer’s recommendations. 
+If other bushings are used, utilize bushing manufacturer's specifications.
+
+Twin City Fan
+
+Tolerance: +/- 5%
+For impeller set screws use Grade 2 values.
+
+9
+
+Installation, Operation & Maintenance Manual

@@ -1,0 +1,194 @@
+fr - Instructions initiales
+
+Un entretien autre que courant peut être nécessaire
+pour nettoyer le côté produit ou remplacer des piè‐
+ces usagées.
+
+Pour en savoir sur les pièces de rechange, le monta‐
+ge et le démontage de la pompe, contacter votre re‐
+présentant commercial et service après-vente local.
+
+Pompes avec roulements graissés à vie
+
+7  Dépannage
+
+Les pompes avec roulements graissés à vie n'exi‐
+gent aucun entretien programmé.
+
+7.1  Dépannage pour les utilisateurs
+L'interrupteur principal est activé, mais la pompe
+électrique ne démarre pas.
+
+Pompes avec roulements à regarnissage en
+graisse
+
+Cause
+Remède
+
+FR
+
+Le protecteur thermi‐
+que intégré à la pompe
+(le cas échéant) s'est
+déclenché.
+
+Attendre que la pompe
+ait refroidi. Le protecteur
+thermique va se réinitiali‐
+ser automatiquement.
+
+• Regraisser toutes les 4000 heures de fonctionne‐
+ment, mais au moins une fois par an. Nettoyer
+d'abord les graisseurs (SN).
+• Utiliser une graisse qualité NLGI 2 ou équivalen‐
+te.
+Contactez le représentant commercial local pour
+toute demande ou information.
+
+Roulements de moteur
+
+Le système de protec‐
+tion contre le fonction‐
+nement à sec s'est dé‐
+clenché.
+
+Vérifier le niveau de liqui‐
+de dans le réservoir ou la
+pression d'alimentation du
+réseau.
+
+La pompe électrique démarre mais la protection
+thermique se déclenche après un délai variable.
+
+Après environ cinq ans, la graisse dans les roule‐
+ments du moteur a vieilli et le remplacement des
+roulements est recommandé. Les roulements doi‐
+vent être remplacés après 25000 heures de fonction‐
+nement ou selon les instructions d'entretien du four‐
+nisseur du moteur, au premier terme atteint.
+
+Cause
+Remède
+
+Moteur avec roulements à regarnir
+
+Contacter le service com‐
+mercial et après-vente.
+
+Respecter les instructions d'entretien du fournisseur
+du moteur
+
+Des corps étrangers
+(solides ou fibres) à l'in‐
+térieur de la pompe ont
+coincé la roue.
+
+Accouplement
+
+La pompe est surchar‐
+gée parce qu'elle pom‐
+pe du liquide trop den‐
+se ou trop visqueux.
+
+Contrôlez le jeu dans les éléments de couplage ré‐
+gulièrement, au moins une fois par an. Nous recom‐
+mandons une vérification toutes les 1 000 heures
+de fonctionnement ou tous les trois mois, selon la
+première éventualité.
+
+Vérifier la puissance réel‐
+le nécessaire en fonction
+des caractéristiques du li‐
+quide pompé, puis contac‐
+ter le Service commercial
+et après-vente.
+
+6.2  Liste de contrôle
+
+La pompe fonctionne mais ne fournit que trop peu
+ou pas du tout de liquide.
+
+Cause
+Remède
+
+La pompe est col‐
+matée.
+
+Contacter le service commer‐
+cial et après-vente.
+
+Vérifier l'accouplement
+Vérifier les éléments sou‐
+ples de l'accouplement.
+Remplacer les pièces
+correspondantes en cas
+de détection de trace
+d'usure et vérifier l'aligne‐
+ment.
+
+Vérifier le joint mécani‐
+que
+
+Les instructions de dépannage des tableaux ci-des‐
+sous ne sont destinées qu'aux installateurs.
+
+Recherche des fuites du
+joint mécanique. Rem‐
+placer le joint mécanique
+en cas de détection de
+fuite.
+
+7.2  L'interrupteur principal est activé, mais la
+pompe électrique ne démarre pas.
+
+Vérification des joints de
+roulement
+
+Cause
+Remède
+
+Il n'y a pas d'alimenta‐
+tion électrique.
+
+Vérifier le bon appui des
+bagues d'étanchéité axia‐
+les montées sur l'arbre.
+Seul un léger contact de
+la lèvre d'étanchéité doit
+exister.
+
+• Rétablir l'alimentation.
+• S'assurer que tous
+les branchements élec‐
+triques à l'alimentation
+sont en bon état.
+
+Vérifier le bon fonction‐
+nement
+
+Vérifier fréquemment le
+bon fonctionnement de
+la pompe avec des outils
+de mesure de vibrations.
+
+Le protecteur thermi‐
+que intégré à la pompe
+(le cas échéant) s'est
+déclenché.
+
+Attendre que la pompe ait
+refroidi. Le protecteur ther‐
+mique va se réinitialiser au‐
+tomatiquement.
+
+6.3  Démontage et remplacement des pièces
+de la pompe
+
+Réinitialiser la protection
+thermique.
+
+Le relais ou la protec‐
+tion thermique du mo‐
+teur dans le tableau
+
+35

@@ -1,0 +1,48 @@
+Evaluation of running features and damage to dismounted bearings
+Lip contact
+
+3.4.1.3  Wear in the lip contact area
+Symptoms:
+
+In the case of roller bearings poor 
+lubrication conditions are first revealed
+by the sliding contact roller face/lip. In
+serious cases the previously mentioned
+seizure phenomena result. In all cases,
+however, the contact areas have wear
+characteristics. This can be clearly seen
+in the cross profile chart of the lip or roller 
+faces, fig. 83. Rims frequently develop at
+the roller faces also. In the case of tapered
+roller bearings a reduction in preload or
+extended axial clearance results. This
+leads, for example in transmissions with
+load direction inversion, to increased
+running noise. The amount of wear in
+the lip contact area enters only about 
+1/3 of the axial clearance in the case of
+tapered roller bearings due to the geo-
+metric conditions. Lip wear is also an in-
+dication for wear in the raceway or roller
+outside diameter.
+
+83: Cross profile chart of a worn 
+tapered roller face
+
+Causes:
+– Inadequate lubrication (type, quanti-
+
+ty)
+– Contaminated lubricant
+
+Remedial measures:
+– Ensure utmost cleanliness
+– Choose suitable lubricant (viscosity,
+
+EP additives) and ensure sufficient
+supply
+
+84: Rim formation at the tapered roller
+
+FAG
+50

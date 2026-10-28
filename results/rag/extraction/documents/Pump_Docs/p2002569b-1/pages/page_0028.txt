@@ -1,0 +1,78 @@
+Pump takes too much power
+
+CAUSES
+CURES
+
+32. Head lower than rating; thereby 
+pumping too much liquid.
+Machine impeller's OD to size advised by factory.
+
+33. Cavitation
+See item 14.
+
+34. Mechanical defects
+See items 15, 16 and 17.
+
+35. Suction inlet not immersed 
+enough.
+See item 18.
+
+36. Liquid heavier (in either viscosity or 
+specific gravity) than allowed for.
+
+Use larger driver. Consult factory for recommended size. Test liquid 
+for viscosity and specific gravity.
+
+37. Wrong direction of rotation.
+See item 6
+
+38. Stuffing boxes too tight.
+
+Release gland pressure. Tighten reasonably. If sealing liquid does 
+not flow while pump operates, replace packing. If packing is wearing 
+too quickly, replace scored shaft sleeves and keep liquid seeping for 
+lubrication.
+
+Check alignment. Examine pump for friction between impeller and 
+casing. Replace damaged parts.
+
+39. Casing distorted by excessive 
+strains from suction or discharge 
+piping.
+
+40. Shaft bent due to damage through 
+shipment, operation or overhaul.
+
+Check deflection of rotor by turning on bearing journals. Total 
+indicator run-out should not exceed 0.001 on shaft and 0.004 inch on 
+impeller wearing surface.
+
+41. Mechanical failure of critical 
+pump parts.
+
+Check bearings and impeller for damage. Any irregularity in these 
+parts will cause a drag on shaft.
+
+42. Misalignment
+Realign pump and driver.
+
+Check voltage on motor.
+
+43. Speed may be too high (brake 
+hp of pump varies as the cube of 
+the speed; therefore, any increase 
+in speed means considerable 
+increase in power demand).
+
+44. Electrical defects
+The voltage and frequency of the electrical current may be lower 
+than that for which motor was built; or there may be defects in motor. 
+The motor may not be ventilated properly due to a poor location.
+
+If trouble cannot be located, consult factory.
+
+45. Mechanical defects in turbine, 
+engine or other type of drive 
+exclusive of motor.
+
+28

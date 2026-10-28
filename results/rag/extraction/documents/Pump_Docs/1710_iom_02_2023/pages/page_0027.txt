@@ -1,0 +1,20 @@
+6  Maintenance
+
+Checking the bearing seals
+Check correct seating of axial seal rings mounted
+on the shaft. Only gentle contact of the sealing lip
+shall be established.
+
+Check for quiet running
+Check frequently for quiet running of the pump with
+vibration measurements tools.
+
+Check for leakage of the mechanical seal. Replace the mechanical seal if leakage is found.
+
+6.3  Disassemble and replace the pump parts
+
+For more information about spare parts and assembly and disassembly of the pump, contact
+the local sales and service representative.
+
+Series 1710 Installation, Operation, and Maintenance Manual
+25

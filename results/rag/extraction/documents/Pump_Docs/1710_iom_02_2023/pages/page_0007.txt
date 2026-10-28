@@ -1,0 +1,67 @@
+1  Introduction and Safety
+
+1.2.2  User safety
+
+General safety rules
+
+These safety rules apply:
+
+• Always keep the work area clean.
+• Pay attention to the risks presented by gas and vapors in the work area.
+• Avoid all electrical dangers. Pay attention to the risks of electric shock or arc flash
+hazards.
+• Always bear in mind the risk of drowning, electrical accidents, and burn injuries.
+
+Safety equipment
+
+Use safety equipment according to the company regulations. Use this safety equipment
+within the work area:
+
+• Hard hat
+• Safety goggles, preferably with side shields
+• Protective shoes
+• Protective gloves
+• Gas mask
+• Hearing protection
+• First-aid kit
+• Safety devices
+Note: Never operate a unit unless safety devices are installed.
+
+Electrical connections
+
+Electrical connections must be made by certified electricians in compliance with all
+international, national, state, and local regulations. For more information about requirements,
+see sections dealing specifically with electrical connections.
+
+Precautions before work
+
+Observe these safety precautions before you work with the product or are in connection with
+the product:
+
+• Provide a suitable barrier around the work area, for example, a guard rail.
+• Make sure that all safety guards are in place and secure.
+• Make sure that you have a clear path of retreat.
+• Make sure that the product cannot roll or fall over and injure people or damage property.
+• Make sure that the lifting equipment is in good condition.
+• Use a lifting harness, a safety line, and a breathing device as required.
+• Allow all system and pump components to cool before you handle them.
+• Make sure that the product has been thoroughly cleaned.
+• Disconnect and lock out power before you service the pump.
+• Check the explosion risk before you weld or use electric hand tools.
+
+Precautions during work
+
+Observe these safety precautions when you work with the product or are in connection with
+the product:
+
+• Never work alone.
+• Always wear protective clothing and hand protection.
+• Stay clear of suspended loads.
+• Always lift the product by its lifting device.
+• Beware of the risk of a sudden start if the product is used with an automatic level control.
+• Beware of the starting jerk, which can be powerful.
+• Rinse the components in water after you disassemble the pump.
+• Do not exceed the maximum working pressure of the pump.
+
+Series 1710 Installation, Operation, and Maintenance Manual
+5

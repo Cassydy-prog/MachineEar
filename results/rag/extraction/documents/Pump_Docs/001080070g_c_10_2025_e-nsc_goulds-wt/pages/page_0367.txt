@@ -1,0 +1,221 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+7. Nično
+8. Nično
+9. Nično
+10. Material ohišja
+11. Material rotorja
+12. Konfiguracija materialov za
+mehansko tesnilo + O-tesnilo
+13. Prosti znaki za možnosti
+
+7. Prazno
+8. Prazno
+9. Prazno
+10. Materijal kućišta
+11. Materijal rotora
+12. Konfiguracija materijala me‐
+haničkog zatvarača + O-prste‐
+na
+13. Slobodan unos za opcije
+
+7. Prazno
+8. Prazno
+9. Prazno
+10. Materijal kućišta
+11. Materijal radnog kola
+12. Konfiguracija materijala me‐
+haničkog zatvarača + O-prste‐
+na
+13. Slobodan unos cifara za opci‐
+je
+
+Ελληνικά
+
+Türk
+
+Русский
+
+1. NSC = Pompa tipi
+2. Kaplin gösterimi; geçersiz =
+çıplak mil
+3. Geçersiz
+4. 125–315 = Pompa boyutu
+5. D310 = Çarkın çapı
+6. Geçersiz
+7. Geçersiz
+8. Geçersiz
+9. Geçersiz
+10. Gövde malzemesi
+11. Pervane malzemesi
+12. Mekanik mühür + O-halka
+malzeme yapılandırması
+13. Seçenekler için serbest ra‐
+kamlar
+
+1. NSC = Τύπος αντλίας
+2. Ένδειξη σύζευξης, κενό =
+γυμνός άξονας
+3. Κενό
+4. 125–315 = Μέγεθος αντλίας
+5. D310 = Διάμετρος φτερωτής
+6. Κενό
+7. Κενό
+8. Κενό
+9. Κενό
+10. Υλικό κελύφους
+11. Υλικό φτερωτής
+12. Διαμόρφωση μηχανικής
+στεγανοποίησης + υλικού
+δακτυλίου κυκλικής
+διατομής
+13. Ελεύθερα ψηφία για
+επιλογές
+
+1. NSC = тип насоса
+2. Обозначения на муфте;
+пустота = свободный вал
+3. Пустота
+4. 125–315 = типоразмер
+насоса
+5. D310 = диаметр рабочего
+колеса
+6. Пустота
+7. Пустота
+8. Пустота
+9. Пустота
+10. Материал кожуха
+11. Материал рабочего колеса
+12. Конфигурация материалов
+механического уплотнения
++ уплотнительного кольца
+13. Свободные позиции для
+опций
+
+Україна
+
+عربي
+
+1
+.
+NSC
+ 
+ =نوع
+ 
+المضخة
+
+2
+.مؤشر
+ 
+اإلقران؛
+ لا 
+شيء
+ = 
+عمود
+
+مكشوف
+
+3
+.لا 
+شيء
+
+4
+.
+125
+–
+315
+ 
+ =مقاس
+ 
+المضخة
+
+5
+.
+D310
+ 
+ =قطر
+ 
+الدفاعة
+
+6
+.لا 
+شيء
+
+7
+.لا 
+شيء
+
+8
+.لا 
+شيء
+
+9
+.لا 
+شيء
+
+10
+.مواد
+ 
+العلبة
+
+11
+.مواد
+ 
+الدفاعة
+
+12
+.مانع
+ 
+التسرب
+ 
+الميكانيكي
+ + تكوين
+
+المواد
+ 
+بحلقة
+ 
+دائرية
+
+13
+.أرقام
+ 
+حرة
+ 
+للخيارات
+
+1. NSC = тип насоса
+2. Позначення на муфті; Void =
+вільний кінець вала
+3. Void
+4. 125–315 = типорозмір
+двигуна
+5. D310 = діаметр робочого
+колеса
+6. Void
+7. Void
+8. Void
+9. Void
+10. Матеріал корпусу
+11. Матеріал робочого колеса
+12. Конфігурація матеріалів
+збірки механічне
+ущільнення +
+ущільнювальне кільце
+13. Вільні позиції для опцій
+
+3.
+
+NSC F H 125-315 / 220 A / W 4 5V 
+4 
+C 
+.... 
+C
+
+APPX
+
+10 11 12
+
+NSC_M0030_A_sc
+
+363

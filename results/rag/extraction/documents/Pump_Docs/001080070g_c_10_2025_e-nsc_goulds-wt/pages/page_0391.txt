@@ -1,0 +1,161 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+Svenska
+
+Suomalainen
+
+íslenskur
+
+1. Trådnätskopplingsskydd
+2. Skruvar
+3. Stöd-/justeringsring
+
+1. Vírnetshlíf fyrir tengingu
+2. Skrúfur
+3. Stuðnings/stillihringur
+
+1. Lankaverkkokytkennän suo‐
+jaus
+2. Ruuvit
+3. Tuki/säätörengas
+
+Eesti
+
+latviski
+
+lietuvių
+
+1. Traatvõrgu sidestuskaitse
+2. Kruvid
+3. Tugi-/reguleerimisrõngas
+
+1. Stiepļu režģa savienojuma
+aizsardzība
+2. Skrūves
+3. Balsta/regulēšanas gredzens
+
+1. Vielos tinklelio movos apsau‐
+ga
+2. Varžtai
+3. Atraminis / reguliavimo žie‐
+das
+
+Polski
+
+Čeština
+
+slovenský
+
+1. Ochrana drátěných spojek
+2. Šrouby
+3. Podpěrný/seřizovací kruh
+
+1. Ochrana spojky drôtenej sie‐
+ťoviny
+2. Skrutky
+3. Podporný/nastavovací krúžok
+
+1. Zabezpieczenie sprzęgła siat‐
+kowego
+2. Śruby
+3. Pierścień podpierający/regu‐
+lacyjny
+
+Magyar
+
+Română
+
+български
+
+1. Huzalhálós tengelykapcsoló
+védelem
+2. Csavarok
+3. Alátámasztó / beállító gyűrű
+
+1. Protecție cuplaj plasă de sâr‐
+mă
+2. Şuruburi
+3. Inel de susţinere/reglare
+
+1. Защита от свързване на
+телена мрежа
+2. Винтове
+3. Опорен/коригиращ пръстен
+
+Slovenščina
+
+Hrvatski
+
+Српски
+
+1. Zaščita spojke žične mreže
+2. Vijaki
+3. Podporni/namestitveni obro‐
+ček
+
+1. Zaštita od spajanja žičane
+mrežice
+2. Vijci
+3. Potporni prsten/prsten za po‐
+dešavanje
+
+1. Zaštita spojnice mrežice sa
+žicama
+2. Zavrtnji
+3. Potporni prsten/prsten za po‐
+dešavanje
+
+Ελληνικά
+
+Türk
+
+Русский
+
+1. Tel örgü kaplin koruması
+2. Vidalar
+3. Destek/ayar halkası
+
+1. Προστασία συνδέσμου
+συρμάτινου πλέγματος
+2. Βίδες
+3. Δακτύλιος υποστήριξης/
+ρύθμισης
+
+1. Защита муфты
+проволочной сетки
+2. Винты
+3. Опорное/установочное
+кольцо
+
+Україна
+
+عربي
+
+1
+.حماية
+ 
+القارنة
+ 
+بشبكة
+ 
+سلكية
+
+2
+.البراغي
+
+3
+.حلقة
+ 
+الدعم
+/
+الضبط
+
+1. Захист муфти металевою
+сіткою
+2. Гвинти
+3. Опорне/регулювальне
+кільце
+
+APPX
+
+387

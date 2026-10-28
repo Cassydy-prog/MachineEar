@@ -1,0 +1,217 @@
+pt - Tradução do original
+
+Causa
+Solución
+
+Causa
+Solución
+
+Hay una fuga de
+tierra.
+
+nente defectuo‐
+so.
+
+Compruebe el aislamiento de los
+componentes del sistema eléctri‐
+co.
+
+• La tubería de aspiración
+• La válvula de pie o la válvula
+de retención
+
+Drene el aire.
+
+Hay aire en la tubería de aspira‐
+ción.
+
+7.8  La bomba funciona pero no bombea o
+bombea poco líquido
+
+Causa
+Solución
+
+7.10  La bomba se pone en marcha
+demasiado a menudo
+
+• Drene el aire.
+
+Causa
+Solución
+
+Hay aire dentro de
+la bomba o de las
+tuberías.
+
+Hay una fuga en uno o los dos
+siguientes componentes:
+
+Repare o cambie el
+componente defec‐
+tuoso.
+
+La bomba no es‐
+tá cebada correcta‐
+mente.
+
+Detenga la bomba y repita el
+procedimiento de cebado.
+Si el problema persiste:
+
+• La tubería de aspiración
+• La válvula de pie o la válvu‐
+la de retención
+
+PT
+
+Hay una membrana rota o no
+hay precarga de aire en el tan‐
+que de presión.
+
+Consulte las co‐
+rrespondientes ins‐
+trucciones en el
+manual del tanque
+de presión.
+
+• Asegúrese de que el sello
+mecánico no tenga fugas.
+• Asegúrese de que la tube‐
+ría de aspiración está per‐
+fectamente estanca.
+• Sustituya cualquier válvula
+que tenga fugas.
+
+Abra la válvula.
+
+7.11  La bomba vibra y genera demasiado
+ruido
+
+El estrangulamiento
+por el lateral de des‐
+carga es demasiado
+grande.
+
+Causa
+Solución
+
+Desmonte y limpie las válvu‐
+las.
+
+Cavitación de la
+bomba
+
+Las válvulas están
+bloqueadas en la
+posición de cerra‐
+das o parcialmente
+cerradas.
+
+La bomba está
+atascada.
+
+Póngase en contacto con el
+representante local de ventas
+y servicio.
+
+Reduzca el caudal necesario ce‐
+rrando parcialmente la válvula
+ON-OFF aguas abajo de la bom‐
+ba. Si el problema persiste, com‐
+pruebe las condiciones de fun‐
+cionamiento de la bomba (por
+ejemplo, diferencia de altura, re‐
+sistencia al flujo, temperatura del
+líquido).
+
+La tubería está obs‐
+truida.
+
+Compruebe y limpie las tube‐
+rías.
+
+Los cojinetes del
+motor están des‐
+gastados.
+
+Póngase en contacto con el re‐
+presentante local de ventas y ser‐
+vicio.
+
+Cambie la posición de las dos
+fases en el tablero de termi‐
+nales del motor o en el panel
+de control eléctrico.
+
+La dirección de ro‐
+tación del impulsor
+es incorrecta.
+(versión trifásica)
+
+Hay objetos ex‐
+traños dentro de
+la bomba.
+
+Póngase en contacto con el re‐
+presentante local de ventas y ser‐
+vicio.
+
+Compruebe las condiciones
+de funcionamiento de la bom‐
+ba. Si es necesario, proceda
+del siguiente modo:
+
+Caucho del im‐
+pulsor en el ani‐
+llo de desgaste
+
+Póngase en contacto con el re‐
+presentante local de ventas y ser‐
+vicio.
+
+El desnivel es de‐
+masiado alto o la
+resistencia del flujo
+en las tuberías de
+aspiración es dema‐
+siado grande.
+
+Compruebe la alineación del aco‐
+plamiento.
+
+• Disminuya el desnivel
+• Aumente el diámetro de la
+tubería de aspiración.
+
+Acoplamiento
+alineado inco‐
+rrectamente
+
+7.9  La bomba eléctrica se para y después
+gira en la dirección incorrecta
+
+Compruebe y reemplace las pie‐
+zas correspondientes si hay al‐
+gún signo de desgaste.
+
+Elementos flexi‐
+bles desgasta‐
+dos del acopla‐
+miento
+
+Causa
+Solución
+
+Para cualquier otra situación, consulte con el repre‐
+sentante local de ventas y servicio.
+
+Hay una fuga en uno o los dos
+siguientes componentes:
+
+Repare o cam‐
+bie el compo‐
+
+1  Introdução e segurança
+1.1  Introdução
+
+62

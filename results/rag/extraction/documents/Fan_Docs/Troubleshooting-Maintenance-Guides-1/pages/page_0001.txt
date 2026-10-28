@@ -1,0 +1,64 @@
+AirP@)- PROCESS AIRMOVINGEQUIPMENT
+
+INDUSTRIAL FAN
+TROUBLESHOOTING GUIDE
+
+Possible Causes of Excessive
+Vibration and/or Noise:
+
+l.Imbalanced wheel
+2.Damaged wheel (wrong rotation,
+material buildup)
+3.Damaged base
+4. Improper shimming
+5.Damaged vibration isolators
+6.Loose connections(screws, bolts,
+motor slide base)
+7.Misaligned belt drive or bearing
+connection
+8.Bent shaft
+9. Wheel grating against inlet
+10. Shaft grating against housing
+11. Defective bearings
+12. System natural frequency
+excitation
+
+13. Loose damper
+
+Overheated Bearings:
+
+1.Improper lubrication
+2. imbalanced wheel
+3. Improper belt tension
+4.Damaged/defective bearings
+5.Misaligned bearings
+6. Excessive ambient temperature
+7.Poor airflow across bearings
+
+8. Air temp that exceeds design
+imit
+
+9. Manufacturer supplied cooling
+wheel is absent
+
+Underperformance:
+
+1.Improper wheel rotation
+2.Cracked welds
+3.Worn or warped blades
+4.Restricted airflow
+5.Wheel housing misalignment
+6.Improper duct setup restricting
+airflow
+7.lmproper operating speed
+
+Overheated Motor:
+
+1.Improper belt tension
+2.Restricted or poor ventilation
+3. Operation beyond design speed
+
+[1e)Sia 9
+715-365-3267
+sales@airprofan.com
+airprofan.com

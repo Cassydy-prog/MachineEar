@@ -1,0 +1,118 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+F
+Punto di riempimento • Filling point • Point de remplissage • Füllpunkt • Punto de llenado • Ponto de enchi‐
+mento • Vulpunt • Fyldningspunkt • Fyllpunkt • Påfyllningspunkt • Täyttöpiste • Fyllingarstaður • Täitumi‐
+spunkt • Uzpildes punkts • Pildymo anga • Punkt napełniania • Místo pro plnění • Úroveň plnenia • Feltölté‐
+si pont • Punct de umplere • Точка на пълнене • Točka polnjenja • Priključak za punjenje • Priključak za
+punjenje • Σημείο πλήρωσης • Dolma noktası • Точка заливки • Отвір для заповнювання • نقطة
+ 
+التعبئة
+
+T
+Sensore di temperatura • Temperature sensor • Capteur de température • Temperatursensor • Sensor de
+temperatura • Sensor de temperatura • Temperatuursensor • Temperatursensor • Temperatursensor •
+Temperaturgivare • Lämpötila-anturi • Hitaskynjari • Temperatuuriandur • Temperatūras sensors • Tempe‐
+ratūros jutiklis • Czujnik temperatury • Snímač teploty • Teplotný snímač • Hőmérséklet-érzékelő • Senzor
+de temperatură • Температурен датчик • Senzor temperature • Temperaturni senzor • Temperaturni sen‐
+zor • Αισθητήρας θερμοκρασίας • Sıcaklık sensörü • Датчик температуры • Датчик температури •
+
+مستشعر
+ 
+درجة
+ 
+الحرارة
+
+*)
+Opzionale su richiesta • Optional on request • En option sur demande • Optional auf Anfrage • Opcional a
+petición • Opcional mediante solicitação • Optioneel op verzoek • Valgfri på anmodning • Valgtfrtt på ano‐
+modning • Tillval på begäran • Valinnainen pyynnöstä • Valfrjáls gegn beiðni • Valikuline nõudmisel • Piee‐
+jams pēc pieprasījuma • Pasirenkama, jei reikia • Opcjonalnie na życzenie • Volitelné na vyžádání • Možné
+na vyžiadanie • Kérésre rendelhető • Opţional, la cerere • Опция при поискване • Izbirno na zahtevo • Do‐
+datno na zahtjev • Dodatno na zahtev • Προαιρετικό κατ' απαίτηση • • Дополнительно по запросу •
+Додатково за запитом • اختياري
+ 
+حسب
+ 
+الطلب
+
+23.
+
+NSC_M0046_A_sc
+
+Italiano
+
+English
+
+Français
+
+1. Tappo presa manometro PM1
+2. Tappo di scarico E
+3. Tappo di riempimento F
+
+1. Gauge plug PM1
+2. Drain plug E
+3. Fill plug F
+
+1. Bouchon de jauge PM1
+2. Bouchon de vidange E
+3. Bouchon de remplissage F
+
+Deutsch
+
+Español
+
+Português
+
+1. Tapón del calibrador PM1
+2. Tapón de drenaje E
+3. Tapón de llenado F
+
+1. Tampão do indicador PM1
+2. Tampão de drenagem E
+3. Tampão de enchimento F
+
+1. Manometeranschlussstopfen
+PM1
+2. Ablassschraube E
+3. Füllstopfen F
+
+Nederlands
+
+Dansk
+
+Norsk
+
+1. Peilmeterplug PM1
+2. Afvoerplug E
+3. Vulplug
+
+1. Målerprop PM1
+2. Drænprop E
+3. Fyldningsprop F
+
+1. Målplugg PM1
+2. Dreneringsplugg
+3. Fyllplugg F
+
+Svenska
+
+Suomalainen
+
+íslenskur
+
+APPX
+
+1. Mätplugg PM1
+2. Avtappningsplugg E
+3. Påfyllningsplugg F
+
+1. Tulkkitulppa PM1
+2. Tyhjennystulppa E
+3. Täyttötulppa F
+
+1. Mælistappi PM1
+2. Botntappi E
+3. Áfyllingartappi F
+
+394

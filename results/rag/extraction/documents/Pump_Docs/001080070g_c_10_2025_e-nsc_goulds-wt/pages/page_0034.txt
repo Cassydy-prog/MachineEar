@@ -1,0 +1,157 @@
+fr - Instructions initiales
+
+– Un dispositif de protection contre les courts-
+
+circuits
+– Un dispositif d'isolement du secteur avec
+
+écartement des contacts d'au moins 3 mm
+
+Liste de contrôle du tableau électrique de
+commande
+
+REMARQUE:
+Le tableau électrique de commande doit correspon‐
+dre aux valeurs nominales de la pompe électrique.
+Des combinaisons incorrectes pourraient ne pas as‐
+surer une protection efficace du moteur.
+
+FR
+
+Vérifier que les conditions suivantes sont respec‐
+tées :
+
+• Le tableau de commande doit protéger le moteur
+contre la surcharge et les courts-circuits.
+• Installer une protection correcte contre les sur‐
+charges (relais thermique ou protecteur de mo‐
+teur).
+
+Type de pompe
+Protection
+
+– Protection
+
+Pompe électrique stan‐
+dard monophasée ≤ 2,2
+kW
+
+thermique-ampère‐
+métrique intégrée à
+réinitialisation auto‐
+matique (protection
+du moteur)
+– Protection contre
+
+les courts-5
+
+tions de la pompe aux canalisations et inverse‐
+ment.
+• Utiliser des coudes à grand rayon, éviter l'utilisa‐
+tion de coudes qui causeraient une trop grande
+résistance au passage.
+• Les canalisations d'aspiration doivent être parfai‐
+tement jointives et étanches à l'air.
+• En cas d'utilisation de la pompe en circuit ouvert,
+le diamètre de la canalisation d'aspiration doit
+être adapté aux conditions d'installation. La ca‐
+nalisation d'aspiration ne doit pas être de diamè‐
+tre inférieur à celui de l'orifice d'aspiration.
+• Si la canalisation d'aspiration doit être de dimen‐
+sion supérieure au côté aspiration de la pompe,
+un réducteur excentrique de canalisation doit
+être installé.
+• Si la pompe est située au-dessus du niveau du
+liquide, un clapet de pied doit être installé à l'ex‐
+trémité de la canalisation d'aspiration.
+• Le clapet de pied doit être totalement immergé
+dans le liquide pour éviter toute pénétration d'air
+par le tourbillon d'aspiration, quand le liquide se
+trouve au niveau minimal et que la pompe est
+installée au-dessus de la source de liquide.
+• Des vannes d'arrêt de dimension appropriée doi‐
+vent être posées sur les canalisations d'aspira‐
+tion et de sortie (en aval du clapet) pour assurer
+la régulation du débit de la pompe, son contrôle
+et son entretien.
+• Un clapet antiretour doit être installé dans la ca‐
+nalisation de sortie pour éviter tout débit inverse
+dans la pompe à l'arrêt de celle-ci.
+
+Pompe électrique tri‐
+phasée6
+– Protection thermi‐
+
+que (doit être four‐
+nie par l'installa‐
+teur)
+– Protection contre
+
+le court-circuit (doit
+être fournie par
+l'installateur)
+
+AVERTISSEMENT:
+Ne pas utiliser la vanne d'arrêt côté re‐
+foulement pour réguler le débit de la
+pompe pendant plus de quelques secon‐
+des. Si la pompe doit fonctionner plus de
+quelques secondes sur un refoulement
+fermé, un circuit de dérivation doit être
+installé pour éviter une surchauffe du li‐
+quide à l'intérieur de la pompe.
+
+Pour des illustrations présentant les exigences de
+canalisation, voir Figure 13 en page 380 et Figure 14
+en page 380.
+
+• Le tableau de commande doit être équipé d'un
+système de protection contre le fonctionnement
+à sec relié à un manomètre, un interrupteur à flot‐
+teur, des sondes ou autres dispositifs adaptés.
+• Les équipements ci-dessous sont recommandés
+pour le côté aspiration de la pompe :
+
+– Quand le liquide est pompé depuis un circuit
+
+d'eau, utiliser un manocontact.
+– Quand le liquide est pompé dans un réservoir
+
+4.2  Caractéristiques électriques
+• Les réglementations locales applicables ont prio‐
+rité sur ces préconisations.
+• Pour les systèmes de lutte contre l'incendie (bou‐
+ches d'incendie et/ou systèmes d'arrosage), con‐
+sulter les réglementations locales en vigueur.
+
+ou un bassin de stockage, utiliser un interrup‐
+teur à flotteur ou des sondes.
+• En cas d'utilisation de relais thermiques, il est
+recommandé d'utiliser des relais sensibles à la
+défaillance d'une phase.
+
+Liste de vérification des branchements élec‐
+triques
+
+Liste de contrôle du moteur
+
+Vérifier que les conditions suivantes sont respec‐
+tées :
+
+AVERTISSEMENT:
+
+• Lire les instructions d'utilisation pour
+vérifier si un dispositif de protection
+
+• Les fils électriques sont protégés contre les tem‐
+pératures élevées, les vibrations et les chocs.
+• La ligne d'alimentation est équipée de :
+
+5
+circuits (doit être fournie par l'installateur) fusibles aM (démarrage du moteur) ou interrupteur magnéto‐
+thermique avec courbe C et Icn ≥ 4,5 kA ou autre dispositif équivalent.
+6
+du relais thermique avec déclenchement classe 10A + fusibles aM (démarrage du moteur) ou interrup‐
+teur magnétothermique de protection du moteur avec classe de démarrage 10A.
+
+30

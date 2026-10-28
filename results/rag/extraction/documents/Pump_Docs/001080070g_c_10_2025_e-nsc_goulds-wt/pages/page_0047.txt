@@ -1,0 +1,165 @@
+de - Übersetzung des Originals
+
+• Das Bedienfeld muss den Motor gegen Überlast
+und Kurzschluss schützen.
+• Installieren Sie einen geeigneten Überlastschutz
+(Thermorelais oder Motorschutzschalter).
+
+Wellenverlängerung (IEC 60034-14) und mit nor‐
+malen Vibrationsraten (N).
+• Die Angaben auf dem Typenschild müssen mit
+der Netzspannung und -frequenz übereinstim‐
+men.
+
+Pumpentyp
+durch
+
+– Integrierte thermi‐
+
+Allgemein können Motoren an einer Netzspannung
+mit folgenden Toleranzen betrieben werden:
+
+Elektrische Standard-
+Pumpe, einphasige Ver‐
+sorgung ≤ 2,2 kW
+
+Frequenz Hz
+Phase ~
+Un V ± %
+
+50
+1
+220 – 240 ± 6
+
+sche Überlastsi‐
+cherung, rücksetz‐
+bar (Motorschutz‐
+schalter)
+– Kurzschlussschutz
+
+3
+230/400 ± 10
+
+400/690 ± 10
+
+(muss vom Instal‐
+lateur bereitgestellt
+werden)7
+
+DE
+
+60
+1
+220 – 230 ± 6
+
+Dreiphasige elektrische
+Pumpe8
+– Thermoschütz (vom
+
+3
+220/380 ± 5
+
+Monteur zu stellen)
+– Kurzschlussschutz
+
+380/660 ± 10
+
+(vom Monteur zu
+stellen)
+
+Verwenden Sie ein den Vorschriften entsprechendes
+3-adriges Kabel (2 Leiter + Erde) für einphasige Ver‐
+sionen und 4-adrige Kabel (3 Leiter + Erde) für die
+Drehstromversion.
+
+4.3  Montage der Pumpe
+
+4.3.1  Mechanische Installation
+
+• Die Schalttafel muss mit einem Schutzsys‐
+tem gegen Trockenlauf ausgestattet sein, an
+das Druckschalter, Schwimmerschalter, Senso‐
+ren oder andere geeignete Vorrichtungen ange‐
+schlossen sind.
+• Auf der Saugseite der Pumpe werden die folgen‐
+den Geräte empfohlen:
+
+– Wann das Medium aus einem Wassersystem
+
+Installationsbereich
+
+gepumpt wird, verwenden Sie einen Druck‐
+schalter.
+– Wenn das Medium aus einem Lagertank oder
+
+Montieren Sie die Einheit auf einem Beton- oder Me‐
+tallfundament, das so stark ist, dass eine dauerhafte
+und starre Stützung gewährleistet ist. Befolgen Sie
+die Anforderungen in Aufstellort der Pumpe auf Sei‐
+te 41.
+
+Montage auf Betonfundament
+
+Reservoir gepumpt wird, verwenden Sie ei‐
+nen Schwimmerschalter oder Schwimmersen‐
+soren.
+• Wenn Thermorelais verwendet werden, werden
+Relais empfohlen, die auf Phasenfehler anspre‐
+chen.
+
+Voraussetzungen für das Fundament
+
+Die Motor-Checkliste
+
+WARNUNG:
+
+• Der Beton muss eine Druckfestigkeit von C12/15
+aufweisen und die Anforderungen der Expositi‐
+onsklasse XC1 gemäß EN 206-1 erfüllen
+• Die Größen müssen den Größen der Stützplatte
+der Einheit entsprechen
+• Das Gewicht des Fundaments muss ≥ 1,5 Mal so
+hoch sein wie das Gewicht der Einheit (≥ 5 Mal
+so hoch wie das Gewicht der Einheit, wenn ein
+leiserer Betrieb erforderlich ist)
+• Die Oberfläche sollte so flach und waagerecht
+wie möglich sein
+• Die Neigung muss ≤ 1 mm/m sein.
+Weitere Anweisungen entnehmen Sie bitte dem Do‐
+kument Nr. 001080247X: Scannen Sie zum Herunter‐
+laden den QR-Code in Abbildung 17 auf Seite 384.
+
+• Lesen Sie die Betriebsanweisungen
+und stellen Sie sicher, dass eine ge‐
+eignete Schutzvorrichtung vorhanden
+ist, falls ein anderer Motor als der
+Standardmotor verwendet wird.
+• Wenn der Motor mit automatischen
+thermischem Überlastschützen aus‐
+gestattet ist, beachten Sie die Ge‐
+fahr, dass der Motor nach einer Über‐
+lastung wieder unerwartet anlaufen
+kann. Verwenden Sie derartige Moto‐
+ren nicht für Anwendungen zur Brand‐
+bekämpfung.
+
+Befestigung der Pumpe
+
+HINWEIS:
+
+Beispiele für die horizontale und vertikale Montage
+finden Sie in Abbildung 15 auf Seite 383.
+
+• Verwenden Sie nur dynamisch ausgewuchtete
+Motoren mit einer Feder halber Baugröße in der
+
+1. Im technischen Katalog finden Sie:
+
+7
+Sicherungen aM (Motorstart) oder magnetothermischer Schalter mit Kurve C und Icn ≥ 4,5 kA oder ein
+anderes gleichwertiges Gerät.
+8
+-Überlastrelais mit Auslöseklasse 10A + Sicherungen aM (Motorstart) oder Motorschutzmagnetschalter
+mit Startklasse 10A.
+
+43

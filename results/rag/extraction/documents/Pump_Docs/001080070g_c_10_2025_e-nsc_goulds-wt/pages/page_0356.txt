@@ -1,0 +1,273 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+6. Impeller; void = full diameter,
+A = trimmed diameter, B =
+trimmed diameter, X = other
+7. Motor type, P = PLM, S = SM,
+W = WEG, X = Other
+8. Number of poles; 2 = 2–pole,
+4 = 4–pole, 6 = 6–pole
+9. Electrical voltage and fre‐
+quency;
+
+6. Girante; vuoto = diametro in‐
+tero, A = diametro tornito, B =
+diametro tornito, X = altro
+7. Tipo di motore, P = PLM, S =
+SM, W = WEG, X = Altro
+8. Numero di poli; 2 = a 2 poli, 4
+= a 4 poli, 6 = a 6 poli
+9. Tensione e frequenza elettri‐
+ca;
+
+50 Hz
+
+50 Hz
+
+5. 220 = Puissance nominale du
+moteur (kWx10)
+6. Roue ; vide = diamètre com‐
+plet, A = diamètre rectifié, B =
+diamètre rectifié, X = autre
+7. Type de moteur, P = PLM, S =
+SM, W = WEG, X = Autre
+8. Nombre de pôles ; 2 = 2 pôles,
+4 = 4 pôles, 6 = 6 pôles
+9. Tension et fréquence électri‐
+que :
+
+5H
+1x220-240 V
+
+5H
+1x220-240 V
+
+50 Hz
+
+5R
+3x220-240/380-415 V
+
+5R
+3x220-240/380-415 V
+
+5H
+1x220-240 V
+
+5V
+3x380-415/660-690 V
+
+5V
+3x380-415/660-690 V
+
+5R
+3x220-240/380-415 V
+
+5P
+3x200-208/346-360 V
+
+5P
+3x200-208/346-360 V
+
+5V
+3x380-415/660-690 V
+
+5S
+3x255-265/440-460 V
+
+5S
+3x255-265/440-460 V
+
+5P
+3x200-208/346-360 V
+
+5T
+3x290-300/500-525 V
+
+5T
+3x290-300/500-525 V
+
+5S
+3x255-265/440-460 V
+
+5W
+3x440-460/- V
+
+5W
+3x440-460/- V
+
+5T
+3x290-300/500-525 V
+
+5W
+3x440-460/- V
+
+60 Hz
+
+60 Hz
+
+6F
+1x220-230 V
+
+6F
+1x220-230 V
+
+60 Hz
+
+6E
+1x200-210 V
+
+6E
+1x200-210 V
+
+6F
+1x220-230 V
+
+6P
+3x220-230/380-400 V
+
+6P
+3x220-230/380-400 V
+
+6E
+1x200-210 V
+
+6R
+3x255-277/440-480 V
+
+6R
+3x255-277/440-480 V
+
+6P
+3x220-230/380-400 V
+
+6V
+3x440-480/- V
+
+6V
+3x440-480/- V
+
+6R
+3x255-277/440-480 V
+
+6U
+3x380-400/660-690 V
+
+6U
+3x380-400/660-690 V
+
+6V
+3x440-480/- V
+
+6N
+3x200-208/346-360 V
+
+6N
+3x200-208/346-360 V
+
+6U
+3x380-400/660-690 V
+
+6T
+3x330-346/575-600 V
+
+6T
+3x330-346/575-600 V
+
+6N
+3x200-208/346-360 V
+
+6T
+3x330-346/575-600 V
+
+10. Casing material
+11. Impeller material
+12. Mechanical seal + O-ring ma‐
+terial configuration
+13. Free digits for options
+
+10. Materiale corpo pompa
+11. Materiale girante
+12. Tenuta meccanica + configu‐
+razione materiale O-ring
+13. Cifre libere per le opzioni
+
+10. Matériau du corps
+11. Matériau de la roue
+12. Configuration de joint mécani‐
+que et matériau de joint tori‐
+que
+13. Chiffres libres pour options
+
+Deutsch
+
+Español
+
+Português
+
+APPX
+
+1. NSC = tipo de bomba
+2. Indicação do acoplamento; F
+= montado na estrutura, C
+= montado na estrutura com
+acoplamento espaçador
+3. Tipo de accionamento; nulo=
+motor assíncrono padrão, H
+= equipado com Hydrovar, X
+=outros accionadores
+4. 125–315 = Dimensão da
+bomba
+5. 220 = Alimentação nominal
+do motor (kW x 10)
+6. Impulsor; nulo = diâmetro in‐
+tegral, A = diâmetro aparado,
+B = diâmetro aparado, X = ou‐
+tro
+7. Tipo de motor, P = PLM, S =
+SM, W = WEG, X = Outro
+
+1. NSC = Pumpentyp
+2. Kupplungsangabe; F = Rah‐
+menmontiert, C = Rahmen‐
+montiert mit Kupplung mit
+Abstandshalter
+3. Antriebstyp; leer = standard‐
+mäßiger Asynchronmotor, H =
+ausgestattet mit Hydrovar, X
+= sonstige Antriebe
+4. 125–315 = Pumpengröße
+5. 220 = Motornennleistung (kW
+x 10)
+6. Laufrad; leer = kompletter
+Durchmesser, A = gekürzter
+Durchmesser, B = gekürzter
+Durchmesser, X = Sonstige
+7. Motortyp, P = PLM, S = SM, W
+= WEG, X = Sonstige
+8. Anzahl der Pole; 2 = 2–poli‐
+ger, 4 = 4–poliger, 6 = 6–poli‐
+ger
+
+1. NSC = tipo de bomba
+2. Indicación de acoplamiento; F
+= montado en bastidor, C =
+montado en bastidor con aco‐
+plamiento con espaciador
+3. Tipo de motor; nulo= motor
+asíncrono estándar, H = equi‐
+pado con Hydrovar, X = otros
+motores
+4. 125–315 = tamaño de la
+bomba
+5. 220 = Potencial nominal de
+motor (kWx10)
+6. Impulsor; vacío = diámetro
+completo, A = diámetro acti‐
+vado, B = diámetro activado,
+X = otros
+7. Tipo de motor, P = PLM, S =
+SM, W = WEG, X = otros
+8. Número de polos; 2 = 2 polos,
+4 = 4 polos, 6 = 6 polos
+
+352

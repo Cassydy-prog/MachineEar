@@ -1,0 +1,35 @@
+Evaluation of running features and damage to dismounted bearings
+Condition of seats
+
+21: Circumferential scoring and cold welding at the faces due to grazing by a 
+mating part
+
+3.2.4 Lateral grazing tracks
+Symptoms:
+
+Circumferential scratch marks/wear
+on the faces of the bearing rings or seals,
+figs. 21, 22.
+
+Causes:
+– Insufficient fixation of the bearings in
+
+the housing or on the shaft
+– Large amount of external contamina-
+
+tion with narrow gap between bearing
+and mating part
+– Loose mating parts
+– Axial clearance too large
+
+Remedial measures:
+– Adjust parts correctly
+– Ensure lubricant cleanliness
+– Check axial clearance and make it
+
+closer perhaps
+
+22: Seal damage due to lateral grazing
+
+FAG
+18

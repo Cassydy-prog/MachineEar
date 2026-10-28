@@ -1,0 +1,161 @@
+IM-995
+
+Impeller Placement
+
+PBW  Impeller Gap
+Housing Size
+Impeller Size
+A (REF)
+3
+19 & 22
+0.36
+4
+
+5
+21 & 22
+0.61
+23 & 26
+0.36
+
+6
+21 & 22
+0.86
+23 & 26
+0.36
+
+Note: Distance from inside surface of housing to impeller blade is 
+constant on all sizes and arrangements.
+
+Model PBW
+
+TPD, TPB  Impeller Placement
+Impeller Size
+A
+B
+8" Housing / Width
+R7 X 2.44
+0.58
+3.14
+R8 X 2.50
+0.52
+9" Housing / Width
+R8 X 2.50
+0.56
+
+3.18
+
+R8.5 X 2.75
+0.30
+R9 X 2.88
+0.19
+R9.75 X 2.88
+0.31
+R10.63 X 2.63
+0.46
+BC10.25 X 3
+0.25
+10" Housing / Width
+R9 x 2.88
+0.23
+
+3.22
+
+R9.75 x 2.88
+0.35
+R10.63 x 2.63
+0.50
+R11 x 2.75
+0.28
+R11.5 x 2.88
+0.27
+R12 x 2.88
+0.23
+R12.25 x 2.88
+0.21
+BC10.25 x 3
+0.29
+BC11 x 3
+0.29
+12" Housing / Width
+R10.63 x 2.63
+1.22
+
+TPD, TPB  Impeller Gap
+Impeller Size
+A
+B
+15" Housing / Width
+R14 x 3.25
+2.49
+
+3.94
+
+Model TPD, TPB
+
+5.82
+
+R15.5 x 5
+0.70
+R16.5 x 4.38
+1.37
+BC14 x 3.25
+2.45
+BC15.5 x 5
+0.81
+BC16.5 x 4.38
+1.45
+18" Housing / Width
+R14 x 3.25
+1.31
+
+R11 x 2.75
+1.00
+R11.5 x 2.88
+0.99
+R12 x 2.88
+0.95
+R12.25 x 2.88
+0.93
+R13 x 3.25
+0.55
+R14 x 3.25
+0.61
+BC11 x 3
+1.01
+BC13 x 3.25
+0.57
+BC14 x 3.25
+0.57
+14" Housing / Width
+R12.25 x 2.88
+1.59
+
+4.64
+
+4.60
+
+R16.5 x 4.38
+0.19
+R18 x 4.38
+0.36
+BC14 x 3.25
+1.27
+BC16.5 x 4.38
+0.27
+BC18 x 4.38
+0.14
+
+R13 x 3.25
+1.21
+R14 x 3.25
+1.27
+R14.75 x 4
+0.48
+BC13 x 3.25
+1.23
+BC14 x 3.25
+1.23
+
+27
+
+Installation, Operation & Maintenance Manual

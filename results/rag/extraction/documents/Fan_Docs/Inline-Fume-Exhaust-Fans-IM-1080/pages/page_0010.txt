@@ -1,0 +1,71 @@
+IM-1080
+
+Windband Installation
+1.	 Using the windband lifting lugs, raise the windband above the outlet of the fan assembly. Align the support brackets with the fan 
+assembly discharge.
+2.	 Using caution not to swing the windband, insert the 316 stainless steel mounting hardware (provided) coated with anti-seize 
+compound to join the two components.
+
+Drain Connection/Installation
+Each section of the plenum mixing box as well as the fan housing contains a 3/4" NPT drain pipe for connecting to drainage system 
+to ensure safe routing of any liquid that may form in the system. Due to the potential of hazardous chemical contamination, proper 
+disposal of liquids is required (by customer). See Figure 5.
+
+Notes:
+•	 A minimum of 1" of water must be placed in trap prior to start-up to create proper “lock” of system pressure.
+•	 Drain should periodically be cleaned out for proper operation.
+
+Figure 5. Drain
+Figure 6. Damper and Actuator Assembly
+
+ACCESS DOOR
+
+MODULAR MIXING 
+PLENUM BOX
+
+WEATHER
+
+COVER
+OPPOSED BLADE 
+BYPASS DAMPER
+
+Close-Up of
+
+Drain
+
+PARALELL BLADE
+ISOLATION DAMPER
+
+2-POSITION SPRING 
+RETURN ACTUATOR
+MODULATING ACTUATOR
+
+DISTANCE 
+EQUAL TO
+THE SYSTEM
+
+PRESSURE
+
+3/4"Ø NPT DRAIN IN 
+PLENUM MIXING BOX
+
+AND FAN HOUSING
+
+DISTANCE EQUAL TO
+
+CLEAN OUT TRAP LOCATION
+
+ONE-HALF THE
+SYSTEM PRESSURE
++1 INCH OR GREATER
+
+CW Rotation
+
+3/4" NP DRAIN IN PLENUM 
+MIXING BOX AND FAN 
+HOUSING
+
+Exploded View of Damper Actuator
+
+Installation, Operation & Maintenance Manual
+10

@@ -1,0 +1,212 @@
+no - Oversettelse av opprinnelige instruksjoner
+
+Årsak
+Middel
+
+Årsak
+Middel
+
+Motoren overbelastes. Kontroller pumpens drifts‐
+
+Det finnes en jor‐
+dingslekkasje.
+
+forhold, og tilbakestill be‐
+skyttelsen.
+
+Kontroller isolasjonen på kom‐
+ponentene i det elektriske sy‐
+stemet.
+
+7.8  Pumpen går, men leverer for lite væske
+eller ikke væske i det hele tatt
+
+7.4  Den elektriske pumpen starter, men
+den termiske bryteren utløses eller sikringen
+ryker kort tid etterpå
+
+Årsak
+Middel
+
+Årsak
+Middel
+
+• Tøm ut luften
+
+Det finnes luft i
+pumpene eller i rø‐
+rene.
+
+Beskytt det elektriske pa‐
+nelet mot varmekilden
+og direkte sollys.
+
+Det elektriske panelet er
+plassert i et svært varmt
+område, eller er utsatt for
+direkte sollys.
+
+Pumpen er ikke pri‐
+met riktig.
+
+Stopp pumpen, og gjenta pri‐
+mingprosedyren.
+Dersom problemet vedvarer:
+
+Kontroller pumpens drift‐
+forhold.
+
+Strømspenning ligger ik‐
+ke innenfor motorens ar‐
+beidsgrenser.
+
+Kontroller
+
+Det manger en strømfa‐
+se.
+
+• Kontroller at den mekani‐
+ske tetningen ikke lekker.
+• Kontroller at sugepumpen
+er strammet helt til.
+• Skift ut alle ventilene som
+lekker.
+
+NO
+
+• strømforsyningen
+• den elektriske tilkop‐
+lingen
+
+Åpne ventilen.
+
+Det må ikke fore‐
+komme for mye
+struping på tilfør‐
+selssiden.
+
+7.5  Den elektriske pumpen starter, men den
+termiske bryteren ble utløst på forskjellige
+tidspunkter etterpå
+
+Demonter og rengjør ventile‐
+ne.
+
+Ventiler er låst i
+steng eller delvis
+stengt stilling.
+
+Årsak
+Middel
+
+Pumpen er tilstop‐
+pet.
+
+Kontakt den lokale salgs- og
+servicerepresentanten.
+
+Kontakt den lokale salgs-
+og servicerepresentanten.
+
+Kontroller og rengjør rørene.
+
+Rørene er tilstop‐
+pet.
+
+Det finnes fremmed‐
+legemer (faste stof‐
+fer eller fibermateria‐
+le) inni pumpen slik
+at pumpehjulet er kilt
+fast.
+
+Bytt om plasseringen av to av
+fasene på motorens terminal‐
+bord eller det elektriske kon‐
+trollpanelet.
+
+Feil rotasjonsret‐
+ning på pumpehju‐
+let.
+(trefaseversjon)
+
+Pumpens tilførselsha‐
+stighet er høyere enn
+grensene som står på
+dataskiltet.
+
+Lukk AV/PÅ-ventilen delvis
+ned strøm til tilførselsha‐
+stigheten er lik eller mindre
+enn grensene som er angitt
+på dataskiltet.
+
+Kontroller pumpens driftfor‐
+hold. Gjør følgende om nød‐
+vendig:
+
+Sugeløftet er for
+høy, eller strøm‐
+ningsmotstanden i
+sugerørene er for
+stort.
+
+Pumpen er overbela‐
+stet fordi den pumper
+væske som er for tett
+og viskøs.
+
+• Reduser sugeløftet
+• Øk diameteren på sugerø‐
+ret.
+
+Kontroller de aktuelle
+strømkravene basert på
+egenskapene til væsken
+som pumpes, og skift ut
+motoren deretter.
+
+Motorlagrene er slitt.
+Kontakt den lokale salgs-
+og servicerepresentanten.
+
+7.9  Den elektriske pumpen stopper, og
+etterpå roterer den i feil retning.
+
+Årsak
+Middel
+
+7.6  Den elektrisk pumpen starter, men
+systemets generelle beskyttelse ble aktivert
+
+Det finnes en lekkasje i én eller
+flere av følgende komponenter:
+
+Årsak
+Middel
+
+Reparer eller
+bytt ut den de‐
+fekte kompo‐
+nenten.
+
+• Sugerøret
+• Fotventilen eller tilbakeslags‐
+ventilen
+
+Kortslutning i det elektri‐
+ske systemet.
+
+Kontroller det elektriske
+systemet.
+
+Det finnes luft i sugerøret.
+Tøm ut luften.
+
+7.10  Pumpen starter opp for ofte
+
+7.7  Den elektriske pumpen starter, men
+systemet lekkasjestrømsinnretning (RCD) ble
+aktivert
+
+109

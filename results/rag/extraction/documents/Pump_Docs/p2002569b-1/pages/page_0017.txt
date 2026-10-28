@@ -1,0 +1,124 @@
+FLANGES OR BY THE EYEBOLTS FOUND ON THE 
+MOTOR. BE VERY CAREFUL NOT TO DAMAGE ANY 
+AUXILIARY PIPING OR CONTROLS WHEN MOVING 
+PUMPS.
+
+General pump 
+instruction
+
+Introduction
+
+Purpose of manual
+
+This manual is furnished to acquaint you with some of 
+the practical ways to install, operate, and maintain this 
+pump. Read it completely before doing any work on 
+your unit and keep it handy for future reference.
+
+Horizontal pumps and drivers are normally shipped 
+from the factory mounted on a baseplate and painted 
+with primer and one finish coat. Couplings may either 
+be completely assembled or have the coupling 
+hubs mounted on the shafts and the connecting 
+members removed. When the connecting members 
+are removed, they will be packaged in a separate 
+container and shipped with the pump or attached to 
+the baseplate.
+
+Equipment cannot operate well without proper 
+care. To keep this unit at top efficiency, follow the 
+recommended installation and servicing procedures 
+outlined in this manual. The Industrial Pump Division's 
+Customer Service Department is available to expertly 
+guide the installation of the pump for maximum 
+operating life and minimum downtime.
+
+Goulds Water Technology service organization
+
+Shafts are in alignment when unit is shipped; however, 
+due to shipping, the pumps may arrive misaligned 
+and, therefore, alignment must be established during 
+installation. Series A-C 2000 pump has determined 
+that proper and correct alignment can only be made 
+by accepted erection practices. Refer to the following 
+paragraphs on " Foundation'', "Baseplate Setting", 
+and "Grouting Procedure''.
+
+Temporary storage
+
+Experienced, factory-trained servicemen offer prompt,
+efficient service at reasonable rates. These servicemen 
+can find and correct costly errors such as poor 
+grouting, misalignment, pipe stresses transmitted to 
+the pump casing, or improperly cleaned piping. A 
+serviceman may be requested through your nearest 
+Goulds Water Technology Sales Representative.
+
+If the pump is not to be installed and operated soon
+after arrival, store it in a clean, dry place having slow,
+moderate changes in ambient temperature. Rotate 
+the shaft periodically to coat the bearings with 
+lubricant and to retard oxidation, corrosion, and 
+to reduce the possibility of false brinelling of 
+the bearings.
+
+Replacement and spare parts, including special 
+attention to your individual problems, may also be 
+obtained through the same Sales Representative.
+
+Location
+
+Warranty
+
+Refer to your sales contract for coverages.
+
+Pump identification
+
+The pump should be installed as near the suction 
+supply as possible, with the shortest and most direct 
+suction pipe practical. The total dynamic suction lift 
+(static lift plus friction losses in suction line) should not 
+exceed the limits for which the pump was sold.
+
+All pumps are designated by Serial Number, Model
+Number, Size and Type. This information is stamped 
+on an identification plate which is mounted on the 
+pump. Refer to pump identification in the specific 
+instruction section of this manual for detailed 
+information (page 11).
+
+The pump must be primed before starting. Whenever
+possible, the pump should be located below the fluid 
+level to facilitate priming and assure a steady flow of 
+liquid. This condition provides a positive suction head 
+on the pump. It is also possible to prime the pump by 
+pressurizing the suction vessel.
+
+Installation
+
+Receiving pump
+
+When installing the pump, consider its location in
+relation to the system to assure that sufficient Net 
+Positive Suction Head (NPSH) at pump suction is 
+provided. Available NPSH must always equal or 
+exceed the required NPSH of the pump.
+
+Check pump for shortages and damage immediately 
+upon arrival. (An absolute must). Prompt reporting to 
+the carrier's agent with notations made on the freight 
+bill, will expedite satisfactory adjustment by the carrier.
+
+The pump should be installed with sufficient 
+accessibility for inspection and maintenance. A clear 
+space with ample head room should be allowed for 
+the use of an overhead crane or hoist sufficiently 
+strong to lift the unit.
+
+WARNING: WHEN UNLOADING HORIZONTAL PUMPS, 
+LIFT EQUALLY AT FOUR OR MORE POINTS ON THE 
+BASEPLATE. DO NOT LIFT ON THE DRIVER OR PUMP. 
+FOR VERTICAL PUMPS, USE THE LIFTING LUGS OR 
+EYEBOLTS FOUND ON THE PUMP. DO NOT LIFT BY
+
+17

@@ -1,0 +1,84 @@
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+– Use dirt-protected bearing construc-
+
+• Fatigue as a result of foreign particle
+cycling
+
+Remedial measures:
+– Wash housing parts thoroughly, and
+
+coat perhaps
+– Cleanliness and caution required
+
+tion
+– Cleanliness of lubricant important
+– Rinsing procedure with filtering prior
+
+to putting unit into operation
+
+when mounting
+– Improve sealing
+
+44: Reduction in life due to different contaminants
+
+1
+
+0,1
+
+There is a great reduction in the 
+fatigue life when rough contaminants are
+present in the bearing, fig. 44. The
+harmfulness of damage caused by 
+foreign particles in actual cases of appli-
+cation depends on their hardness, size,
+and amount as well as the size of the 
+bearing. With regard to fatigue ball bear-
+ings react more sensitively to contamina-
+tion than roller bearings, and bearings
+with small rolling elements more sensi-
+tively than those with large ones. The
+rolled-up material plays a very important
+role where the indentation of foreign
+particles is concerned. It is particularly
+under stress during subsequent cycling
+and is responsible for the first incipient
+cracks, SEM fig. in section 4.
+
+relative life
+
+Symptoms:
+
+Material flaking; V-shaped spreading
+behind the foreign particle indentation
+in cycling direction (V pitting), fig. 45.
+
+0,01
+
+Cause:
+
+corundum grains
+
+no contamination
+
+iron chips
+
+grinding chips
+
+foundry sand grains
+
+Damaged raceway, indentations by
+hard particles (foundry sand, grinding
+agent) are particularly dangerous.
+
+45: Fatigue damage caused by foreign particle indentation spreads itself in the cycling direction forming a V shape
+a:
+Damage at the time of detection
+b: Damage after about 1,000 operating hours
+c:
+Damage after about 1,200 operating hours
+
+29
+FAG

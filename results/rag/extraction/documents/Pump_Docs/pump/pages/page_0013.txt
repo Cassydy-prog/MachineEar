@@ -1,0 +1,104 @@
+Section 1: Pumping System Basics
+
+selected, each pump can operate closer to its 
+highest efficiency point. An added flow control 
+benefit of parallel pumps is that a system curve 
+remains the same whether one or several pumps 
+are operating; what changes is the operating point 
+along this system curve.
+
+different speeds according to system needs. During 
+a period of low system demand, the pump is 
+operated at low speeds. The primary functional 
+difference between ASDs and multiple-speed 
+motors is the degree of speed control available. 
+ASDs typically modify the speed of a single-speed 
+motor through mechanical or electrical methods, 
+while multiple-speed motors contain a different set 
+of windings for each speed. ASDs are practical for 
+applications in which flow demands change 
+continuously. For more information, see the fact 
+sheet in Section 2 titled Controlling Pumps with 
+Adjustable Speed Drives.
+
+Multiple pumps in parallel are well suited for 
+systems with high static head. Another advantage 
+is system redundancy; one pump can fail or be 
+taken off line for maintenance while the other 
+pumps support system operation. When identical 
+parallel pumps are used, the pump curves should 
+remain matched; therefore, operating hours should 
+be the same for each pump, and reconditioning 
+should be done at the same time for all of them. 
+For more information on this configuration, see 
+the fact sheet in Section 2 titled Multiple Pump 
+Arrangements.
+
+Multiple-speed motors are practical for systems in 
+which the flow demands change between distinct, 
+discrete levels that feature lengthy periods of 
+operation. One of the drawbacks to multiple-speed 
+motors is the added cost of equipment. Since each 
+speed has its own set of motor windings, multiple-
+speed motors are more expensive than single-
+speed motors. Also, multiple-speed motors are 
+slightly less efficient than single-speed ones.
+
+ System Operating Costs
+The amount of fluid power that a system consumes 
+is a product of head and flow, according to this 
+equation:
+
+Fluid power  =  HQ  (s.g.)
+
+3,960
+where
+
+Multiple pump arrangements typically consist 
+of pumps placed in parallel in one of two basic 
+configurations: a large pump/small pump config-
+uration, or a series of identical pumps placed in 
+parallel. In the large pump/small pump case, 
+the small pump, often called the “pony pump,” 
+operates during normal conditions. The large 
+pump is used during periods of high demand. 
+Because the pony pump is sized for normal system 
+operation, this configuration operates more 
+efficiently than a system would that relies on the 
+large pump to handle loads far below its optimum 
+capacity. For more information on this type of 
+pump, see the Section 2 fact sheet titled Pony 
+Pumps.
+
+H 	 = 	head (ft)
+Q 	 = 	flow rate (gallons  per minute [gpm])
+s.g.	= 	specific gravity of the fluid
+3,960 is a units conversion to state fluid 
+power in terms of horsepower.
+  
+The motor power required to generate these head 
+and flow conditions is somewhat higher, because 
+of motor and pump inefficiencies. The efficiency 
+of a pump is measured by dividing the fluid 
+power by the pump shaft power; for directly 
+coupled pump/motor combinations, this is the 
+brake horsepower (bhp) of the motor.
+
+With a series of identical pumps placed in parallel, 
+the number of operating pumps can be changed 
+according to system demands. Because the pumps 
+are the same size they can operate together, 
+serving the same discharge header. If the pumps 
+were different sizes, the larger pumps would tend 
+to dominate the smaller pumps and could cause 
+them to be inefficient. If the proper pumps are
+
+Pumps have varying efficiency levels. The 
+operating point of centrifugal pumps at which 
+their efficiency is highest is known as the best 
+efficiency point (BEP). Efficiencies range widely, 
+from 35% to more than 90%, and they are a 
+function of many design characteristics. Operating 
+a pump at or near its BEP not only minimizes
+
+A Sourcebook for Industry

@@ -1,0 +1,218 @@
+lt - Originalo vertimas
+
+Priežastis
+Sprendimas
+
+Priežastis
+Sprendimas
+
+Pakeiskite saugiklius.
+
+Perdegė lydieji siur‐
+blio ar pagalbinių
+grandinių saugikliai.
+
+Suveikė siurblyje įmon‐
+tuotas šiluminis apsau‐
+ginis įrenginys (jei toks
+yra).
+
+Palaukite, kol siurblys at‐
+vės. Šiluminis apsauginis
+įrenginys bus automatiš‐
+kai nustatytas iš naujo.
+
+Patikrinkite siurblio lygį
+talpykloje arba hidrostatinį
+slėgį.
+
+7.3  Elektrinis siurblys įsijungia, bet iš karto
+suveikia šiluminis apsauginis įrenginys arba
+perdega saugikliai
+
+Suveikė apsauginis
+įrenginys, neleidžiantis
+siurbliui veikti sausąja
+eiga.
+
+Priežastis
+Sprendimas
+
+Elektrinis siurblys įsijungia, bet praėjus neapibrėž‐
+tam laikui suveikia šiluminis apsauginis įrenginys.
+
+Pažeistas maitinimo
+kabelis.
+
+Patikrinkite kabelį ir, jei rei‐
+kia, jį pakeiskite.
+
+Priežastis
+Sprendimas
+
+Patikrinkite komponentus ir,
+jei reikia, pakeiskite.
+
+Kreipkitės į pardavimo ir
+techninės priežiūros skyrių.
+
+Šiluminis apsauginis
+įrenginys arba saugik‐
+liai netinka dėl varik‐
+lio srovės.
+
+Siurblyje yra pašali‐
+nių objektų (kietų ob‐
+jektų arba pluoštinių
+medžiagų), todėl spar‐
+nuotė užstrigo.
+
+Patikrinkite komponentus ir,
+jei reikia, pakeiskite.
+
+Įvyko elektrinio varik‐
+lio trumpasis sujungi‐
+mas.
+
+Variklis perkrauna‐
+mas.
+
+Siurblys perkrautas,
+nes siurbiamas per
+tirštas ir per klampus
+skystis.
+
+Patikrinkite siurblio eksploa‐
+tavimo sąlygas ir iš naujo
+nustatykite apsaugą.
+
+Atsižvelgdami į siurbiamo
+skysčio savybes patikrinki‐
+te faktinius galios reikalavi‐
+mus, tada kreipkitės į pa‐
+rdavimo ir techninės prie‐
+žiūros skyrių.
+
+Siurblys veikia, bet siurbia per mažai skysčio arba iš
+viso nesiurbia.
+
+7.4  Elektrinis siurblys įsijungia, bet praėjus
+neapibrėžtam laikui suveikia šiluminis
+apsauginis įrenginys arba netrukus perdega
+saugikliai
+
+Priežastis
+Sprendimas
+
+Priežastis
+Sprendimas
+
+LT
+
+Siurblys yra užsi‐
+kimšęs.
+
+Kreipkitės į pardavimo ir techni‐
+nės priežiūros skyrių.
+
+Apsaugokite elektros pultą
+nuo karščio šaltinių ir tie‐
+sioginės saulės šviesos.
+
+Toliau esančiose lentelėse pateiktos nesklandumų
+šalinimo instrukcijos yra skirtos tik montuotojams.
+
+Elektros valdymo pul‐
+tas yra per daug karšto‐
+je vietoje arba jį veikia
+tiesioginė saulės švie‐
+sa.
+
+7.2  Maitinimo jungiklis įjungtas, bet
+elektrinis siurblys neveikia
+
+Patikrinkite variklio eks‐
+ploatavimo sąlygas.
+
+Maitinimo įtampa ne‐
+atitinka variklio įtam‐
+pos.
+
+Priežastis
+Sprendimas
+
+Patikrinkite
+
+Nėra maitinimo grandi‐
+nės fazės.
+
+• maitinimo tiekimą
+• elektros jungtis
+
+Nėra maitinimo.
+• Įjunkite maitinimą.
+• Įsitikinkite, kad nepažeis‐
+tos jokios elektros jung‐
+tys, jungiančios su maiti‐
+nimo šaltiniu.
+
+7.5  Elektrinis siurblys įsijungia, bet praėjus
+neapibrėžtam laikui suveikia šiluminis
+apsauginis įrenginys
+
+Suveikė siurblyje
+įmontuotas šiluminis
+apsauginis įrenginys
+(jei toks yra).
+
+Palaukite, kol siurblys atvės.
+Šiluminis apsauginis įrengi‐
+nys bus automatiškai nusta‐
+tytas iš naujo.
+
+Priežastis
+Sprendimas
+
+Kreipkitės į vietos prekybos ir
+techninės priežiūros atstovą.
+
+Nustatykite pradinę šilumi‐
+nio apsauginio įrenginio pa‐
+dėtį.
+
+Suveikė šiluminė relė
+arba variklio saugik‐
+lis, esantis elektros
+valdymo skyde.
+
+Siurblyje yra pašali‐
+nių objektų (kietų
+objektų arba pluošti‐
+nių medžiagų), todėl
+sparnuotė užstrigo.
+
+Patikrinkite:
+
+Suveikė apsauginis
+įrenginys, neleidžian‐
+tis siurbliui veikti sau‐
+sąja eiga.
+
+Siurblio išleidimo
+srautas viršija duo‐
+menų plokštelėje nu‐
+rodytą srautą.
+
+• skysčio lygį talpykloje ar‐
+ba hidrostatinį slėgį;
+• apsauginį įrenginį ir jun‐
+giamuosius kabelius.
+
+Iš dalies uždarykite ĮJUNGI‐
+MO-IŠJUNGIMO vožtuvo nu‐
+leidimo srautą, kol tiekimo
+greitis bus lygus arba mažes‐
+nis už duomenų plokštelėje
+nurodytas ribas.
+
+176

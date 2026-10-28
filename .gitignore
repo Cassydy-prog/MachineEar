@@ -6,6 +6,28 @@ venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-data/
+# Version requested manuals/features, excluding recordings and temporary data.
+/data/*
+!/data/manuals/
+!/data/features/
+/data/features/*
+!/data/features/machineear_features_all_snr.csv
 *.zip
 .env
+
+# Local audio experiments and individual recording analyses remain excluded.
+# Prepared results/rag assets are versioned at the user's explicit request.
+results/audio/
+results/analysis/
+dist/
+node_modules/
+.pytest_cache/
+*.py[cod]
+*.log
+.env.*
+!.env.example
+.vscode/
+.idea/
+*.wav
+*.WAV
+*.onnx

@@ -1,0 +1,157 @@
+sr - Prevod originalnog
+
+Mere predostrožnosti
+
+4. Postavite pumpu i motor na bazu, poravnavajući
+otvore zavrtnja.
+5. Zategnite zavrtnje.
+6. Ponovite proveru poravnanja spojnice.
+
+UPOZORENJE:
+Fizičke i toplotne opasnosti
+
+Ugradnja za zaštitu spojeva
+
+• Uvek nosite ličnu zaštitnu opremu.
+• Proverite da li je postavljena zaštita
+spojnice.
+
+OPREZ:
+Nikad ne rukujte pumpom bez ispravno
+instalirane zaštite spojnice.
+
+UPOZORENJE:
+
+Vrsta zaštite: žičana mreža
+Za informacije, pogledajte Slika 18 na stranici 386.
+
+• Uverite se da ispuštena tečnost ne
+uzrokuje oštećenja ili povrede.
+• Zaštitnici motora mogu izazvati neo‐
+čekivano ponovno pokretanje motora.
+To bi moglo uzrokovati teške povre‐
+de.
+
+OPREZ:
+
+1. Postavite zaštitu (1) pravilno tako da okružuje
+kraj odvoda osovine pumpe i potporni prsten (3)
+na strani motora.
+2. Zategnite zavrtnje (2).
+Vrsta zaštite: lim
+Za informacije, pogledajte Slika 19 na stranici 388.
+
+• Spoljašnje površine pumpe i motora
+mogu da prelaze 40oC (104oF) to‐
+kom rada.
+• Ne ostavljajte nikakve zapaljive mate‐
+rijale u blizini pumpe.
+
+NAPOMENA:
+
+1. Postavite donju poluljusku zaštite spojnice (2).
+2. Pritegnite zavrtnje za pričvršćivanje donje polovi‐
+ne školjke (4).
+3. Otvorite i ubacite potporni/prilagođavajući prsten
+(6) sa kućištem nadole i aksijalno ga pritisnite na
+motor.
+4. Postavite gornju poluljusku zaštite spojnice (1).
+5. Pritegnite zavrtnje za pričvršćivanje gornje polo‐
+vine školjke (3).
+6. Pritegnite zavrtnje za zatvaranje poluljuski (5).
+
+4.3.4  Električna instalacija
+
+1. Uklonite zavrtnje poklopca priključne kutije.
+
+2. Povežite i pritegnite kablove za napajanje prema
+važećoj šemi ožičenja.
+
+Za dijagrame ožičenja, pogledajte Slika 21 na
+stranici 392. Šeme su dostupne i na poleđini po‐
+klopca priključne kutije.
+
+a) Povežite izvod uzemljenja.
+
+• Nikad ne koristite pumpu ispod minimalnog na‐
+zivnog protoka, kada je suva ili bez punjenja.
+• Nikada ne koristite pumpu ako je dopremni ON-
+OFF ventil zatvoren duže od nekoliko sekundi.
+• Nikada ne koristite pumpu kada je usisni ON-OFF
+ventil zatvoren.
+• Nemojte izlagati praznu pumpu uslovima zamr‐
+zavanja. Ispustite svu tečnost koja se nalazi unu‐
+tar pumpe. Ako to ne učinite, može doći do mr‐
+žnjenja tečnosti i oštećenja pumpe.
+• Zbir pritiska na usisnoj strani (vodovod, gravita‐
+cioni rezervoar) i maksimalnog pritiska koji pum‐
+pa predaje ne sme da pređe maksimalni dozvolje‐
+ni radni pritisak (nazivni pritisak PN) pumpe.
+• Nemojte koristiti pumpu ako dođe do kavitacije.
+Kavitacija može oštetiti unutrašnje komponente.
+
+Proverite da li je izvod uzemljenja duži od iz‐
+voda faze.
+b) Povežite izvode faze.
+
+3. Postavite poklopac priključne kutije.
+
+5.1  Punjenje pumpe
+Za informacije o dodatnim priključcima pumpe po‐
+gledajte Slika 22 na stranici 392.
+
+Instalacija kada je nivo tečnosti iznad pumpe
+(usisni pritisak)
+
+NAPOMENA:
+Pažljivo zategnite zaptivke kabla kako bi se obez‐
+bedila zaštita od klizanja kabla i prodora vlage u
+priključnu kutiju.
+
+Za ilustraciju koja pokazuje gde se nalaze priključci
+pumpe, pogledajte Slika 23 na stranici 394.
+
+SR
+
+4. Ako motor nije opremljen termičkom zaštitom od
+automatskog resetovanja, prilagodite zaštitu od
+preopterećenja prema donjoj listi.
+
+1. Zatvorite on-off ventil lociran nizvodno od pum‐
+pe.
+
+– Ako se motor koristi pod punim optereće‐
+
+2. Uklonite priključak za ispunu (3) ili merenje (1) i
+otvorite on/off ventil uzvodno dok voda ne počne
+da protiče kroz otvor.
+
+njem, postavite vrednost na vrednost naziv‐
+ne struje električne pumpe (pločica sa podaci‐
+ma).
+– Ako se motor koristi pod delimičnim optere‐
+
+a) Zatvorite priključak za ispunu (3) ili merenje
+
+(1).
+
+ćenjem, postavite vrednost na radnu struju
+(npr. merena strujnim klještima).
+– Ako pumpa ima sistem za pokretanje zvezda-
+
+Instalacija kada je nivo tečnosti ispod pumpe
+(usisni podizač)
+
+trougao, prilagodite termički relej na 58% na‐
+zivne struje ili radne struje (samo za trofazne
+motore).
+
+Za ilustraciju koja pokazuje gde se nalaze priključci
+pumpe, pogledajte Slika 24 na stranici 395.
+
+1. Cio sistem cevovoda je prazan:
+
+5  Puštanje u rad, pokretanje, rad i
+isključenje
+
+281

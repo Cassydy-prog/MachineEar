@@ -1,0 +1,30 @@
+IM-895
+
+Impeller Nomenclature
+
+Impeller Cone
+(End Ring, Shroud, Front Plate)
+
+Blade
+
+Back Plate
+
+Impeller Rotation
+
+Rotation View From Drive Side
+
+CLOCKWISE (CW)
+
+example shown
+
+AIRFLOW
+
+AIRFLOW
+
+Mixed Flow Fans
+
+Inline Centrifugal Fans
+
+3
+
+Installation, Operation & Maintenance Manual

@@ -1,0 +1,210 @@
+cs - Překlad originálu
+
+Przyczyna
+Środek zarad‐
+czy
+
+7.8  Pompa pracuje, lecz dostarcza zbyt mało
+cieczy lub wcale jej nie dostarcza.
+
+Przyczyna
+Środek zaradczy
+
+• rurociąg ssawny,
+• zawór stopowy lub zawór
+zwrotny.
+
+• Odpowietrzyć pompę.
+
+Do rurociągu ssawnego przedo‐
+stało się powietrze.
+
+Odpowietrzyć
+rurociąg.
+
+Do pompy lub
+do rurociągu przed‐
+ostało się powie‐
+trze.
+
+7.10  Pompa uruchamia się zbyt często
+
+Pompa nie została
+prawidłowo zalana.
+
+Zatrzymać pompę i powtórzyć
+procedurę zalewania.
+Jeśli problem nadal występuje:
+
+Przyczyna
+Środek zaradczy
+
+Występuje nieszczelność w
+jednym lub w obu następują‐
+cych elementach:
+
+Naprawić lub wy‐
+mienić wadliwy ele‐
+ment.
+
+• Sprawdzić szczelność usz‐
+czelnienia mechanicznego.
+• Sprawdzić, czy rurociąg
+ssawny jest doskonale
+szczelny.
+• Wymienić wszystkie nie‐
+szczelne zawory.
+
+• rurociąg ssawny,
+• zawór stopowy lub zawór
+zwrotny.
+
+Otworzyć zawór.
+
+Występuje zbyt sil‐
+ne dławienie po
+stronie tłocznej.
+
+W zbiorniku wyrównawczym
+jest przerwana membrana lub
+brak powietrza wstępnego na‐
+ładowania.
+
+Zapoznać się z od‐
+powiednimi zalece‐
+niami w instrukcji
+zbiornika ciśnienio‐
+wego.
+
+Rozebrać zawory na części i
+oczyścić.
+
+Zawory są zabloko‐
+wane w pozycji za‐
+mkniętej lub częś‐
+ciowo zamkniętej.
+
+7.11  Pompa drga i wytwarza zbyt silny hałas
+
+Przyczyna
+Środek zaradczy
+
+Pompa jest zatka‐
+na.
+
+Skontaktować się z lokalnym
+przedstawicielem działu sprze‐
+daży i serwisu.
+
+Kawitacja po‐
+mpy
+
+Rurociąg jest zatka‐
+ny.
+
+Sprawdzić i oczyścić przewo‐
+dy rurowe.
+
+Niewłaściwy kieru‐
+nek obrotów wirni‐
+ka napędzanego.
+(wersja trójfazowa)
+
+Zmniejszyć wymagane natężenie
+przepływu, częściowo zamykając
+zawór WŁ.-WYŁ. za pompą. Je‐
+żeli problem nie ustępuje, spraw‐
+dzić warunki robocze pompy (na
+przykład, różnica wysokości, opo‐
+ry przepływu, temperatura cie‐
+czy).
+
+CS
+
+Zmienić położenia dwóch
+przewodów fazowych na płyt‐
+ce zaciskowej silnika elek‐
+trycznego lub na tablicy połą‐
+czeń elektrycznych.
+
+Łożyska silnika
+są zużyte.
+
+Skontaktować się z lokalnym
+przedstawicielem działu sprzeda‐
+ży i serwisu.
+
+Sprawdzić warunki robocze
+pompy. W razie potrzeby wyko‐
+nać następujące czynności:
+
+Do pompy przed‐
+ostały się obce
+ciała.
+
+Skontaktować się z lokalnym
+przedstawicielem działu sprzeda‐
+ży i serwisu.
+
+Wysokość ssania
+jest zbyt duża lub
+opory przepływu
+w rurowym przewo‐
+dzie ssawnym są
+zbyt wysokie.
+
+• Zmniejszyć wysokość ssa‐
+nia.
+• Zwiększyć średnicę ruro‐
+ciągu ssawnego.
+
+Wirnik ociera o
+pierścień ścierny
+
+Skontaktować się z lokalnym
+przedstawicielem działu sprzeda‐
+ży i serwisu.
+
+Sprawdzić wyosiowanie sprzęgła.
+
+7.9  Pompa elektryczna zatrzymuje się, a
+następnie pracuje w przeciwnym kierunku.
+
+Nieprawidłowe
+wyosiowanie
+sprzęgła
+
+Przyczyna
+Środek zarad‐
+czy
+
+Zużycie elemen‐
+tów elastycz‐
+nych sprzęgła
+
+Skontrolować odpowiednie częś‐
+ci i w razie wykrycia jakichkol‐
+wiek śladów zużycia wymienić je.
+
+Występuje nieszczelność w jed‐
+nym lub w obu następujących ele‐
+mentach:
+
+Naprawić lub
+wymienić wadli‐
+wy element.
+
+W przypadkach wszelkich innych sytuacji należy
+zwracać się do lokalnego przedstawiciela działu
+sprzedaży i serwisu.
+
+Účel této příručky
+
+1  Úvod a bezpečnost
+
+Účelem této příručky je poskytnout potřebné infor‐
+mace pro tyto činnosti:
+
+1.1  Úvod
+
+190

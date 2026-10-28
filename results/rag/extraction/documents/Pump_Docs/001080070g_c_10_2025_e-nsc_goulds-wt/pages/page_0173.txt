@@ -1,0 +1,226 @@
+lt - Originalo vertimas
+
+valan‐
+dą
+
+3.5  Medžiaga
+Metalinės siurblio dalys, kurias veikia skystis, paga‐
+mintos iš toliau nurodytų medžiagų:
+
+Triukšmo lygis
+
+Medžiagos ko‐
+
+das
+
+Korpuso / spar‐
+nuotės medžia‐
+
+Standartinis /
+pasirenkamas
+
+ga
+
+CC
+Ketus / ketus
+Standartas
+
+Jei reikia informacijos apie siurblio su standartiniu
+varikliu garso slėgio lygį, žr. 9 lentelė 368 psl..
+Siurblio be variklio garso slėgio lygius žr. 10 lentelė
+372 psl..
+
+CB
+Ketus / bronza
+Standartas
+
+4  Montavimas
+
+Standartas
+
+CS
+Ketus /
+Nerūdijantysis
+
+Atsargumo priemonės
+
+plienas
+
+PERSPĖJIMAS:
+
+Standartas
+
+CN
+Ketus /
+Nerūdijantysis
+
+plienas
+
+DC
+Tąsusis ketus /
+
+Standartas
+
+ketus
+
+DB
+Tąsusis ketus /
+
+Standartas
+
+bronza
+
+DN
+Tąsusis ketus /
+
+Standartas
+
+• Laikykitės galiojančių nelaimingų at‐
+sitikimų prevencijos taisyklių.
+• Naudokite tinkamą įrangą ir jos ap‐
+saugą.
+• Būtina laikytis galiojančių vietinių ir
+(arba) nacionalinių teisinių nuostatų,
+teisės aktų ir kodeksų, reglamentuo‐
+jančių montavimo vietos parinkimą,
+santechnikos įrengimą ir elektros tie‐
+kimo linijų prijungimą.
+
+nerūdijantysis
+
+plienas
+
+Elektros pavojus:
+
+NN
+Nerūdijantysis
+
+Standartas
+
+plienas /
+Nerūdijantysis
+
+plienas
+
+RR
+Tąsusis ketus /
+
+Pasirinktinai
+
+tąsusis ketus
+
+LT
+
+• Pasirūpinkite, kad visas jungtis su‐
+jungtų kvalifikuoti montuotojai, laiky‐
+damiesi galiojančių teisinių nuostatų.
+• Prieš pradėdami darbus su įrenginiu
+patikrinkite, ar jis ir valdymo skydelis
+atjungti nuo maitinimo sistemos ir jų
+neįmanoma netyčia įjungti. Tai taiko‐
+ma ir valdymo grandinei.
+
+Kaip įžeminti
+
+3.6  Mechaninis tarpiklis
+Nesubalansuotas viengubas mechaninis sandariklis
+pagal EN 12756, K versija.
+
+Elektros pavojus:
+
+3.7  Taikymo apribojimai
+
+Maksimalus darbinis slėgis
+
+4 paveikslėlis 367 psl. nurodytas maksimalus darbi‐
+nis slėgis, kuris priklauso nuo siurblio modelio ir siur‐
+biamo skysčio temperatūros.
+P1 maks. + P maks.≤ PN
+
+P1 maks.
+Maksimalus įėjimo slėgis
+
+P maks.
+Maksimalus siurblio sukurtas slėgis
+
+PN
+Maksimalus darbinis slėgis
+
+Skysčio temperatūros intervalai
+
+4 paveikslėlis 367 psl. nurodyti darbinės temperatū‐
+ros intervalai.
+Dėl specialių reikalavimų kreipkitės į vietos pardavi‐
+mo ir techninės priežiūros atstovą.
+
+• Prieš prijungdami kitas elektros jung‐
+tis visada prijunkite išorinį apsauginį
+laidininką prie įžeminimo gnybto.
+• Turite įžeminti visą elektros įrangą.
+Tai taikoma siurblio įrangai, pavarai ir
+visai stebėjimo įrangai. Patikrinkite, ar
+tinkamai prijungtas įžeminimo laidas
+– išbandykite jį.
+• Jeigu variklio kabelis buvo staiga at‐
+jungtas per klaidą, įžeminimo laidinin‐
+kas turi būti paskutinis laidininkas, at‐
+jungtas nuo gnybto. Įsitikinkite, kad
+įžeminimo laidininkas ilgesnis už fa‐
+zės laidininkus. Tai galioja abiem va‐
+riklio kabelio galams.
+• Norint apsisaugoti nuo mirtino šoko
+reikia papildomos apsaugos. Įtaisyki‐
+te itin jautrų diferencinį jungiklį (30
+mA) [liekamosios srovės prietaisas
+RCD].
+
+Maksimalus paleidimų per valandą skaičius
+
+4.1  Įstaigai taikomi reikalavimai
+
+18,5
+
+4.1.1  Siurblio vieta
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+PAVOJUS:
+
+60
+40
+30
+24
+16
+8
+4
+
+Palei‐
+dimai
+per
+
+169

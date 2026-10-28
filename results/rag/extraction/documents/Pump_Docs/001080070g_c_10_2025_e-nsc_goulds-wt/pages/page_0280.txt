@@ -1,0 +1,231 @@
+sr - Prevod originalnog
+
+Posebne primene
+
+Kod materijala
+Materijal kući‐
+
+Standardno/
+
+šta / rotora
+
+Opcionalno
+
+Kontaktirajte lokalnog predstavnika prodaje i servisa
+u sledećim slučajevima:
+
+DN
+Nodularno gvož‐
+
+Standardno
+
+đe / Nerđajući
+
+čelik
+
+Standardno
+
+NN
+Nerđajući čelik /
+Nehrđajući čelik
+
+RR
+Dupleks/
+
+Opciono
+
+Dupleks
+
+• Ako gustina i/ili viskoznost upumpane tečnosti
+prelazi vrednost vode, kao u slučaju smese vode
+i glikola, s obzirom na to da se može zahtevati
+snažniji motor.
+• Ako je upumpana tečnost hemijski obrađena (na
+primer, omekšana, dejonizovana, demineralizova‐
+na itd.).
+• Svaka situacija koja se razlikuje od onih koje su
+opisane a odnosi se na prirodu tečnosti.
+
+3.6  Mehanički zatvarač
+Neuravnoteženi pojedinačni mehanički zaptivač acc.
+EN 12756, verzija K.
+
+3.2  Pumpa denominacija
+Pogledajte Slika 2 na stranici 351 u vezi objašnjenja
+šifre denominacije za pumpu i jedan primer.
+
+3.7  Ograničenja u primeni
+
+3.3  Natpisna pločica
+
+Maksimalni radni pritisak
+
+Slika 4 na stranici 367 pokazuje maksimalni radni
+pritisak u zavisnosti od modela pumpe i temperature
+upumpane tečnosti.
+P1max + Pmax≤ PN
+
+P1max
+Maksimalni ulazni pritisak
+
+Ploča sa podacima se nalazi na nosaču ležaja. Na
+pločici sa nazivima navedene su ključne specifikaci‐
+je proizvoda. Za više informacija pogledajte: Slika 1
+na stranici 345.
+Pločica sa nazivima pruža informacije o rotoru i
+materijalu kućišta, mehaničkom zaptivaču i njihovim
+materijalima. Za više informacija pogledajte: Slika 3
+na stranici 363.
+
+Pmax
+Maksimalni pritisak koji generiše pumpa
+
+PN
+Maksimalni radni pritisak
+
+IMQ ili TUV ili IRAM ili druge oznake (samo
+za električnu pumpu)
+
+Temperaturni intervali tečnosti
+
+Osim ako nije drugačije navedeno, za proizvode sa
+oznakom odobrenja za električnu bezbednost, odo‐
+brenje se odnosi isključivo na električnu pumpu.
+
+Slika 4 na stranici 367 pokazuje opsege radnih tem‐
+peratura.
+Za posebne zahteve kontaktirajte predstavnika pro‐
+daje i servisa.
+
+Maksimalni broj pokretanja na sat
+
+18,5
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+3.4  Opis pumpe
+• Dimenzije spojeva prema standardu EN 733
+(modeli 32-125…-200; 40-125…-250; 50-125…-250;
+65-125…-315;80-160…-315; 100-200…-400;
+125-250…-400; 150-315…-400).
+• Pumpa sa spiralnim kućištem i zadnjim izvlači‐
+vim nosačem ležaja.
+
+60
+40
+30
+24
+16
+8
+4
+
+3.5  Materijal
+Metalni delovi koji dolaze u kontakt sa tečnošću izra‐
+đeni su od sledećeg:
+
+Po‐
+kreta‐
+nja na
+sat
+
+Kod materijala
+Materijal kući‐
+
+Standardno/
+
+Nivo buke
+
+šta / rotora
+
+Opcionalno
+
+CC
+Liveno gvožđe/
+
+Standardno
+
+Liveno gvožđe
+
+SR
+
+CB
+Liveno gvožđe/
+
+Standardno
+
+Bronza
+
+Za nivoe zvučnog pritiska pumpe opremljene stan‐
+dardnim isporučenim motorom pogledajte Tabela 9
+na stranici 368.
+Za nivoe zvučnog pritiska pumpe bez motora pogle‐
+dajte Tabela 10 na stranici 372.
+
+Standardno
+
+4  Instalacija
+
+CS
+Liveno gvožđe/
+Nehrđajući čelik
+
+Mere predostrožnosti
+
+Standardno
+
+CN
+Liveno gvožđe/
+Nehrđajući čelik
+
+UPOZORENJE:
+
+DC
+Nodularno gvož‐
+
+Standardno
+
+đe / Liveno
+
+gvožđe
+
+DB
+Nodularno gvož‐
+
+Standardno
+
+đe / Bronza
+
+• Obratite pažnju da li se poštuju propi‐
+si za sprečavanje nezgoda.
+• Koristite prikladnu opremu i zaštitu.
+• Uvek poštujte lokalne i/ili nacionalne
+propise, zakonodavstvo i pravilnike
+koji su na snazi, u vezi izbora mesta
+instalacije, cevovoda i struje.
+
+276

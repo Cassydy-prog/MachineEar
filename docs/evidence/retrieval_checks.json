@@ -1,0 +1,859 @@
+{
+  "note": "Development reference checks; questions and result metadata only, no source passages. Cutoff tuned on development questions.",
+  "cases": [
+    {
+      "case_id": "fan_grease",
+      "query": "What NLGI grease grade is specified for fan bearings?",
+      "machine_type": "fan",
+      "language_filter": "en",
+      "reference_source": "Fan_Docs/463687CentFans_iom.pdf",
+      "reference_pages": [
+        11
+      ],
+      "reference_hit_rank": 2,
+      "check_passed": true,
+      "status": "passages_for_review",
+      "returned_sources": [
+        {
+          "rank": 1,
+          "source_relative_path": "Fan_Docs/Centrifugal-Fans-IM-995.pdf",
+          "pdf_page_number": 13,
+          "semantic_similarity": 0.8852361440658569,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 2,
+          "source_relative_path": "Fan_Docs/463687CentFans_iom.pdf",
+          "pdf_page_number": 11,
+          "semantic_similarity": 0.8543715476989746,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 3,
+          "source_relative_path": "Fan_Docs/Inline-Fume-Exhaust-Fans-IM-1080.pdf",
+          "pdf_page_number": 17,
+          "semantic_similarity": 0.8589085340499878,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 4,
+          "source_relative_path": "Fan_Docs/Inline-Centrifugal-Mixed-Flow-Fans-IM-895.pdf",
+          "pdf_page_number": 11,
+          "semantic_similarity": 0.8583714365959167,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 5,
+          "source_relative_path": "Fan_Docs/Inline-Centrifugal-Mixed-Flow-Fans-IM-895.pdf",
+          "pdf_page_number": 10,
+          "semantic_similarity": 0.8556561470031738,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        }
+      ]
+    },
+    {
+      "case_id": "fan_belts",
+      "query": "What happens if the fan drive belts are too tight?",
+      "machine_type": "fan",
+      "language_filter": "en",
+      "reference_source": "Fan_Docs/463687CentFans_iom.pdf",
+      "reference_pages": [
+        12
+      ],
+      "reference_hit_rank": 1,
+      "check_passed": true,
+      "status": "passages_for_review",
+      "returned_sources": [
+        {
+          "rank": 1,
+          "source_relative_path": "Fan_Docs/463687CentFans_iom.pdf",
+          "pdf_page_number": 12,
+          "semantic_similarity": 0.8577572107315063,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 2,
+          "source_relative_path": "Fan_Docs/463687CentFans_iom.pdf",
+          "pdf_page_number": 10,
+          "semantic_similarity": 0.8619580268859863,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 3,
+          "source_relative_path": "Fan_Docs/Inline-Centrifugal-Mixed-Flow-Fans-IM-895.pdf",
+          "pdf_page_number": 14,
+          "semantic_similarity": 0.8503150939941406,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 4,
+          "source_relative_path": "Fan_Docs/463687CentFans_iom.pdf",
+          "pdf_page_number": 15,
+          "semantic_similarity": 0.8476816415786743,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 5,
+          "source_relative_path": "Fan_Docs/Centrifugal-Fans-IM-995.pdf",
+          "pdf_page_number": 29,
+          "semantic_similarity": 0.8455697298049927,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        }
+      ]
+    },
+    {
+      "case_id": "fan_noise",
+      "query": "What should be checked when a centrifugal fan has excessive noise or vibration?",
+      "machine_type": "fan",
+      "language_filter": "en",
+      "reference_source": "Fan_Docs/463687CentFans_iom.pdf",
+      "reference_pages": [
+        15
+      ],
+      "reference_hit_rank": null,
+      "check_passed": false,
+      "status": "passages_for_review",
+      "returned_sources": [
+        {
+          "rank": 1,
+          "source_relative_path": "Fan_Docs/463687CentFans_iom.pdf",
+          "pdf_page_number": 10,
+          "semantic_similarity": 0.8885207176208496,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 2,
+          "source_relative_path": "Fan_Docs/Inline-Centrifugal-Mixed-Flow-Fans-IM-895.pdf",
+          "pdf_page_number": 17,
+          "semantic_similarity": 0.8528234958648682,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 3,
+          "source_relative_path": "Fan_Docs/Centrifugal-Fans-IM-995.pdf",
+          "pdf_page_number": 17,
+          "semantic_similarity": 0.8531671762466431,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 4,
+          "source_relative_path": "Fan_Docs/Centrifugal-Fans-IM-995.pdf",
+          "pdf_page_number": 29,
+          "semantic_similarity": 0.8525567054748535,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 5,
+          "source_relative_path": "Fan_Docs/Troubleshooting-Vibration-Problems-ES-202-1.pdf",
+          "pdf_page_number": 1,
+          "semantic_similarity": 0.853239893913269,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        }
+      ]
+    },
+    {
+      "case_id": "fan_vibration_measurements",
+      "query": "What measurements and information are needed to troubleshoot fan vibration?",
+      "machine_type": "fan",
+      "language_filter": "en",
+      "reference_source": "Fan_Docs/Troubleshooting-Vibration-Problems-ES-202-1.pdf",
+      "reference_pages": [
+        1
+      ],
+      "reference_hit_rank": null,
+      "check_passed": false,
+      "status": "passages_for_review",
+      "returned_sources": [
+        {
+          "rank": 1,
+          "source_relative_path": "Fan_Docs/463687CentFans_iom.pdf",
+          "pdf_page_number": 10,
+          "semantic_similarity": 0.8673641681671143,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 2,
+          "source_relative_path": "Fan_Docs/Centrifugal-Fans-IM-995.pdf",
+          "pdf_page_number": 17,
+          "semantic_similarity": 0.8595826029777527,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 3,
+          "source_relative_path": "Fan_Docs/Inline-Centrifugal-Mixed-Flow-Fans-IM-895.pdf",
+          "pdf_page_number": 17,
+          "semantic_similarity": 0.8534191846847534,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 4,
+          "source_relative_path": "Fan_Docs/Centrifugal-Fans-IM-995.pdf",
+          "pdf_page_number": 29,
+          "semantic_similarity": 0.8554660081863403,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 5,
+          "source_relative_path": "Fan_Docs/463687CentFans_iom.pdf",
+          "pdf_page_number": 15,
+          "semantic_similarity": 0.8412183523178101,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        }
+      ]
+    },
+    {
+      "case_id": "fan_motor",
+      "query": "Why should dust and dirt be removed from a fan motor to prevent overheating?",
+      "machine_type": "fan",
+      "language_filter": "en",
+      "reference_source": "Fan_Docs/Centrifugal-Fans-IM-995.pdf",
+      "reference_pages": [
+        16
+      ],
+      "reference_hit_rank": 2,
+      "check_passed": true,
+      "status": "passages_for_review",
+      "returned_sources": [
+        {
+          "rank": 1,
+          "source_relative_path": "Fan_Docs/Inline-Centrifugal-Mixed-Flow-Fans-IM-895.pdf",
+          "pdf_page_number": 14,
+          "semantic_similarity": 0.8647246360778809,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 2,
+          "source_relative_path": "Fan_Docs/Centrifugal-Fans-IM-995.pdf",
+          "pdf_page_number": 16,
+          "semantic_similarity": 0.8584942817687988,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 3,
+          "source_relative_path": "Fan_Docs/Inline-Fume-Exhaust-Fans-IM-1080.pdf",
+          "pdf_page_number": 4,
+          "semantic_similarity": 0.8679221272468567,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 4,
+          "source_relative_path": "Fan_Docs/463687CentFans_iom.pdf",
+          "pdf_page_number": 2,
+          "semantic_similarity": 0.857835054397583,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 5,
+          "source_relative_path": "Fan_Docs/Centrifugal-Fans-IM-995.pdf",
+          "pdf_page_number": 7,
+          "semantic_similarity": 0.8544723987579346,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        }
+      ]
+    },
+    {
+      "case_id": "fan_french_grease",
+      "query": "Peut-on mélanger des graisses de bases différentes pour les roulements du ventilateur ?",
+      "machine_type": "fan",
+      "language_filter": "fr",
+      "reference_source": "Fan_Docs/Fans-with-CE-Mark-French-IM-2-06.pdf",
+      "reference_pages": [
+        10
+      ],
+      "reference_hit_rank": 1,
+      "check_passed": true,
+      "status": "passages_for_review",
+      "returned_sources": [
+        {
+          "rank": 1,
+          "source_relative_path": "Fan_Docs/Fans-with-CE-Mark-French-IM-2-06.pdf",
+          "pdf_page_number": 10,
+          "semantic_similarity": 0.8656323552131653,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 2,
+          "source_relative_path": "Fan_Docs/Fans-with-CE-Mark-French-IM-2-06.pdf",
+          "pdf_page_number": 3,
+          "semantic_similarity": 0.8581756353378296,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 3,
+          "source_relative_path": "Fan_Docs/Fans-with-CE-Mark-French-IM-2-06.pdf",
+          "pdf_page_number": 12,
+          "semantic_similarity": 0.8459798097610474,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 4,
+          "source_relative_path": "Fan_Docs/Fans-with-CE-Mark-French-IM-2-06.pdf",
+          "pdf_page_number": 9,
+          "semantic_similarity": 0.8597352504730225,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 5,
+          "source_relative_path": "Fan_Docs/Fans-with-CE-Mark-French-IM-2-06.pdf",
+          "pdf_page_number": 2,
+          "semantic_similarity": 0.8464813232421875,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        }
+      ]
+    },
+    {
+      "case_id": "fan_french_vibration",
+      "query": "Quelles sont les causes possibles de vibrations excessives du ventilateur ?",
+      "machine_type": "fan",
+      "language_filter": "fr",
+      "reference_source": "Fan_Docs/Fans-with-CE-Mark-French-IM-2-06.pdf",
+      "reference_pages": [
+        13
+      ],
+      "reference_hit_rank": 4,
+      "check_passed": true,
+      "status": "passages_for_review",
+      "returned_sources": [
+        {
+          "rank": 1,
+          "source_relative_path": "Fan_Docs/Fans-with-CE-Mark-French-IM-2-06.pdf",
+          "pdf_page_number": 10,
+          "semantic_similarity": 0.8414225578308105,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 2,
+          "source_relative_path": "Fan_Docs/Fans-with-CE-Mark-French-IM-2-06.pdf",
+          "pdf_page_number": 12,
+          "semantic_similarity": 0.8500446677207947,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 3,
+          "source_relative_path": "Fan_Docs/Fans-with-CE-Mark-French-IM-2-06.pdf",
+          "pdf_page_number": 3,
+          "semantic_similarity": 0.8256728649139404,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 4,
+          "source_relative_path": "Fan_Docs/Fans-with-CE-Mark-French-IM-2-06.pdf",
+          "pdf_page_number": 13,
+          "semantic_similarity": 0.839599609375,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 5,
+          "source_relative_path": "Fan_Docs/Fans-with-CE-Mark-French-IM-2-06.pdf",
+          "pdf_page_number": 2,
+          "semantic_similarity": 0.8255939483642578,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        }
+      ]
+    },
+    {
+      "case_id": "pump_cavitation",
+      "query": "How does vapor pressure cause cavitation in a centrifugal pump?",
+      "machine_type": "pump",
+      "language_filter": "en",
+      "reference_source": "Pump_Docs/pump.pdf",
+      "reference_pages": [
+        11,
+        12,
+        18
+      ],
+      "reference_hit_rank": 1,
+      "check_passed": true,
+      "status": "passages_for_review",
+      "returned_sources": [
+        {
+          "rank": 1,
+          "source_relative_path": "Pump_Docs/pump.pdf",
+          "pdf_page_number": 11,
+          "semantic_similarity": 0.9040422439575195,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 2,
+          "source_relative_path": "Pump_Docs/pump.pdf",
+          "pdf_page_number": 24,
+          "semantic_similarity": 0.9027973413467407,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 3,
+          "source_relative_path": "Pump_Docs/pump.pdf",
+          "pdf_page_number": 18,
+          "semantic_similarity": 0.900141716003418,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 4,
+          "source_relative_path": "Pump_Docs/pump.pdf",
+          "pdf_page_number": 109,
+          "semantic_similarity": 0.8821045160293579,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 5,
+          "source_relative_path": "Pump_Docs/pump.pdf",
+          "pdf_page_number": 99,
+          "semantic_similarity": 0.8714078664779663,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        }
+      ]
+    },
+    {
+      "case_id": "pump_priming",
+      "query": "How must an A-C 2000 pump be primed before starting?",
+      "machine_type": "pump",
+      "language_filter": "en",
+      "reference_source": "Pump_Docs/p2002569b-1.pdf",
+      "reference_pages": [
+        23
+      ],
+      "reference_hit_rank": 5,
+      "check_passed": true,
+      "status": "passages_for_review",
+      "returned_sources": [
+        {
+          "rank": 1,
+          "source_relative_path": "Pump_Docs/p2002569b-1.pdf",
+          "pdf_page_number": 3,
+          "semantic_similarity": 0.8648699522018433,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 2,
+          "source_relative_path": "Pump_Docs/p2002569b-1.pdf",
+          "pdf_page_number": 10,
+          "semantic_similarity": 0.8870306015014648,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 3,
+          "source_relative_path": "Pump_Docs/p2002569b-1.pdf",
+          "pdf_page_number": 11,
+          "semantic_similarity": 0.8738910555839539,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 4,
+          "source_relative_path": "Pump_Docs/p2002569b-1.pdf",
+          "pdf_page_number": 1,
+          "semantic_similarity": 0.8620766997337341,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 5,
+          "source_relative_path": "Pump_Docs/p2002569b-1.pdf",
+          "pdf_page_number": 23,
+          "semantic_similarity": 0.8515551686286926,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        }
+      ]
+    },
+    {
+      "case_id": "pump_alignment",
+      "query": "How should pump and motor alignment be checked during installation?",
+      "machine_type": "pump",
+      "language_filter": "en",
+      "reference_source": "Pump_Docs/p2002569b-1.pdf",
+      "reference_pages": [
+        17,
+        18,
+        19
+      ],
+      "reference_hit_rank": 1,
+      "check_passed": true,
+      "status": "passages_for_review",
+      "returned_sources": [
+        {
+          "rank": 1,
+          "source_relative_path": "Pump_Docs/p2002569b-1.pdf",
+          "pdf_page_number": 18,
+          "semantic_similarity": 0.8930878043174744,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 2,
+          "source_relative_path": "Pump_Docs/pump.pdf",
+          "pdf_page_number": 38,
+          "semantic_similarity": 0.8858879804611206,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 3,
+          "source_relative_path": "Pump_Docs/1710_iom_02_2023.pdf",
+          "pdf_page_number": 20,
+          "semantic_similarity": 0.900871753692627,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 4,
+          "source_relative_path": "Pump_Docs/001080070g_c_10_2025_e-nsc_goulds-wt.pdf",
+          "pdf_page_number": 24,
+          "semantic_similarity": 0.8773356676101685,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 5,
+          "source_relative_path": "Pump_Docs/pump.pdf",
+          "pdf_page_number": 116,
+          "semantic_similarity": 0.8854178786277771,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        }
+      ]
+    },
+    {
+      "case_id": "pump_six_months",
+      "query": "What alignment checks are required every six months for the A-C 2000 pump?",
+      "machine_type": "pump",
+      "language_filter": "en",
+      "reference_source": "Pump_Docs/p2002569b-1.pdf",
+      "reference_pages": [
+        32
+      ],
+      "reference_hit_rank": null,
+      "check_passed": false,
+      "status": "passages_for_review",
+      "returned_sources": [
+        {
+          "rank": 1,
+          "source_relative_path": "Pump_Docs/p2002569b-1.pdf",
+          "pdf_page_number": 1,
+          "semantic_similarity": 0.8498194217681885,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 2,
+          "source_relative_path": "Pump_Docs/p2002569b-1.pdf",
+          "pdf_page_number": 17,
+          "semantic_similarity": 0.8649930953979492,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 3,
+          "source_relative_path": "Pump_Docs/p2002569b-1.pdf",
+          "pdf_page_number": 11,
+          "semantic_similarity": 0.843597412109375,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 4,
+          "source_relative_path": "Pump_Docs/p2002569b-1.pdf",
+          "pdf_page_number": 3,
+          "semantic_similarity": 0.8376985788345337,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 5,
+          "source_relative_path": "Pump_Docs/p2002569b-1.pdf",
+          "pdf_page_number": 10,
+          "semantic_similarity": 0.8625403642654419,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        }
+      ]
+    },
+    {
+      "case_id": "pump_overgreasing",
+      "query": "Why can excessive grease make pump bearings overheat?",
+      "machine_type": "pump",
+      "language_filter": "en",
+      "reference_source": "Pump_Docs/p2002569b-1.pdf",
+      "reference_pages": [
+        29
+      ],
+      "reference_hit_rank": 1,
+      "check_passed": true,
+      "status": "passages_for_review",
+      "returned_sources": [
+        {
+          "rank": 1,
+          "source_relative_path": "Pump_Docs/p2002569b-1.pdf",
+          "pdf_page_number": 29,
+          "semantic_similarity": 0.9041273593902588,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 2,
+          "source_relative_path": "Pump_Docs/001080070g_c_10_2025_e-nsc_goulds-wt.pdf",
+          "pdf_page_number": 27,
+          "semantic_similarity": 0.8806924819946289,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 3,
+          "source_relative_path": "Pump_Docs/1710_iom_02_2023.pdf",
+          "pdf_page_number": 26,
+          "semantic_similarity": 0.8776751160621643,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 4,
+          "source_relative_path": "Fan_Docs/wl_82102_2_de_en.pdf",
+          "pdf_page_number": 10,
+          "semantic_similarity": 0.879194974899292,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 5,
+          "source_relative_path": "Pump_Docs/pump.pdf",
+          "pdf_page_number": 37,
+          "semantic_similarity": 0.8719247579574585,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        }
+      ]
+    },
+    {
+      "case_id": "pump_1710_grease",
+      "query": "What grease grade and lubrication interval are specified for Series 1710 pump bearings?",
+      "machine_type": "pump",
+      "language_filter": "en",
+      "reference_source": "Pump_Docs/1710_iom_02_2023.pdf",
+      "reference_pages": [
+        26
+      ],
+      "reference_hit_rank": 2,
+      "check_passed": true,
+      "status": "passages_for_review",
+      "returned_sources": [
+        {
+          "rank": 1,
+          "source_relative_path": "Pump_Docs/1710_iom_02_2023.pdf",
+          "pdf_page_number": 15,
+          "semantic_similarity": 0.8736923933029175,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 2,
+          "source_relative_path": "Pump_Docs/1710_iom_02_2023.pdf",
+          "pdf_page_number": 26,
+          "semantic_similarity": 0.8681191205978394,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 3,
+          "source_relative_path": "Pump_Docs/p2002569b-1.pdf",
+          "pdf_page_number": 29,
+          "semantic_similarity": 0.8686142563819885,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 4,
+          "source_relative_path": "Pump_Docs/001080070g_c_10_2025_e-nsc_goulds-wt.pdf",
+          "pdf_page_number": 26,
+          "semantic_similarity": 0.8602432012557983,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 5,
+          "source_relative_path": "Pump_Docs/1710_iom_02_2023.pdf",
+          "pdf_page_number": 13,
+          "semantic_similarity": 0.8453491926193237,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        }
+      ]
+    },
+    {
+      "case_id": "pump_1710_dry",
+      "query": "Can a Series 1710 pump operate dry or without being primed?",
+      "machine_type": "pump",
+      "language_filter": "en",
+      "reference_source": "Pump_Docs/1710_iom_02_2023.pdf",
+      "reference_pages": [
+        23
+      ],
+      "reference_hit_rank": 2,
+      "check_passed": true,
+      "status": "passages_for_review",
+      "returned_sources": [
+        {
+          "rank": 1,
+          "source_relative_path": "Pump_Docs/1710_iom_02_2023.pdf",
+          "pdf_page_number": 29,
+          "semantic_similarity": 0.8732320070266724,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 2,
+          "source_relative_path": "Pump_Docs/1710_iom_02_2023.pdf",
+          "pdf_page_number": 23,
+          "semantic_similarity": 0.8605124354362488,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 3,
+          "source_relative_path": "Pump_Docs/1710_iom_02_2023.pdf",
+          "pdf_page_number": 13,
+          "semantic_similarity": 0.8619961142539978,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 4,
+          "source_relative_path": "Pump_Docs/1710_iom_02_2023.pdf",
+          "pdf_page_number": 24,
+          "semantic_similarity": 0.8612381219863892,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 5,
+          "source_relative_path": "Pump_Docs/1710_iom_02_2023.pdf",
+          "pdf_page_number": 12,
+          "semantic_similarity": 0.8542996048927307,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        }
+      ]
+    },
+    {
+      "case_id": "pump_efficiency",
+      "query": "Why should a pump operate near its best efficiency point?",
+      "machine_type": "pump",
+      "language_filter": "en",
+      "reference_source": "Pump_Docs/pump.pdf",
+      "reference_pages": [
+        18,
+        41
+      ],
+      "reference_hit_rank": 4,
+      "check_passed": true,
+      "status": "passages_for_review",
+      "returned_sources": [
+        {
+          "rank": 1,
+          "source_relative_path": "Pump_Docs/pump.pdf",
+          "pdf_page_number": 13,
+          "semantic_similarity": 0.8834058046340942,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 2,
+          "source_relative_path": "Pump_Docs/pump.pdf",
+          "pdf_page_number": 59,
+          "semantic_similarity": 0.8719667792320251,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 3,
+          "source_relative_path": "Pump_Docs/pump.pdf",
+          "pdf_page_number": 47,
+          "semantic_similarity": 0.8711533546447754,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 4,
+          "source_relative_path": "Pump_Docs/pump.pdf",
+          "pdf_page_number": 41,
+          "semantic_similarity": 0.868634819984436,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        },
+        {
+          "rank": 5,
+          "source_relative_path": "Pump_Docs/pump.pdf",
+          "pdf_page_number": 111,
+          "semantic_similarity": 0.8702036738395691,
+          "citation_verified": true,
+          "original_pdf_text_verified": true
+        }
+      ]
+    },
+    {
+      "case_id": "out_of_scope_food",
+      "query": "How do I bake a chocolate cake with buttercream frosting?",
+      "machine_type": "fan",
+      "language_filter": "en",
+      "reference_source": null,
+      "reference_pages": [],
+      "reference_hit_rank": null,
+      "check_passed": true,
+      "status": "no_supported_passages",
+      "returned_sources": []
+    },
+    {
+      "case_id": "out_of_scope_geography",
+      "query": "What is the capital city of France?",
+      "machine_type": "pump",
+      "language_filter": "en",
+      "reference_source": null,
+      "reference_pages": [],
+      "reference_hit_rank": null,
+      "check_passed": true,
+      "status": "no_supported_passages",
+      "returned_sources": []
+    }
+  ]
+}

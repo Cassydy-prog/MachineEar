@@ -1,0 +1,68 @@
+Declarations of Conformity
+
+6. Referencias a los estándares relevantes armonizados usados o referencias a otras especificaciones técnicas, en relación a cuya 
+conformidad se declara: 
+• EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-4:2007 
++A1:2011, EN IEC 61000-6-4:2019. 
+• EN IEC 63000:2018. 
+7. Organismo notificado: - - - 
+8. Información adicional: 
+RoHS - Anexo III - Aplicaciones exentas de restricciones: plomo como elemento aglutinante en aleaciones de acero, aluminio, 
+cobre [6(a), 6(b), 6(c)].  
+Optimyze: consulte la documentación suministrada con el dispositivo de monitorización [Equipos radioeléctricos 2014/53/UE y 
+subsiguientes enmiendas, Restricciones a la utilización de determinadas sustancias peligrosas en aparatos eléctricos y 
+electrónicos 2011/65/UE y subsiguientes enmiendas, incluida la Directiva (UE) 2015/863]. 
+Firmado por y en nombre de: Xylem Service Italia S.r.l.
+
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Director gerente
+
+La(s) declaración(es) de conformidad no es(son) válida(s) si se utiliza(n) por separado del resto del texto del documento de Xylem 
+código 001080070G. 
+ 
+Bomba 
+ 
+Declaración de conformidad de la UE (traducción del original) 
+ 
+Xylem Service Italia S.r.l., con sede en Vía Vittorio Lombardi, 14 - 36075 Montecchio Maggiore VI - Italia, por la presente declara 
+que el producto 
+NSC… bomba (consulte la etiqueta en la última página) 
+cumple la provisiones relevantes de las siguientes Directivas europeas 
+•  Maquinaria 2006/42/CE y subsiguientes enmiendas (ANEXO II: persona natural o legal autorizada para compilar el archivo 
+técnico: Xylem Service Italia S.r.l.), 
+•  Eco-design 2009/125/CE y subsiguientes enmiendas, Reglamento (UE) n.° 547/2012 y subsiguientes enmiendas (bomba 
+hidráulica, si tiene la marca MEI) 
+y las normas técnicas 
+•  EN 809:1998+A1:2009. 
+•  EN 16480:2021. 
+Información adicional: 
+Optimyze: si se suministra con la bomba, consulte la documentación suministrada con el dispositivo de monitorización [Equipos 
+radioeléctricos 2014/53/UE y modificaciones posteriores, Restricciones a la utilización de determinadas sustancias peligrosas en 
+aparatos eléctricos y electrónicos 2011/65/UE y modificaciones posteriores, incluida la Directiva (UE) 2015/863].
+
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Director gerente
+
+La(s) declaración(es) de conformidad no es(son) válida(s) si se utiliza(n) por separado del resto del texto del documento de Xylem 
+código 001080070G. 
+ 
+Declarações de conformidade 
+Consultar a declaração de marcação específica presente no produto. 
+ 
+Eletrobomba 
+ 
+Declaração CE de Conformidade (tradução) 
+ 
+A Xylem Service Italia S.r.l., com sede em Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italy, declara que o produto: 
+NSCC… ou NSCF… bomba elétrica (ver etiqueta na última página) 
+está em conformidade com as disposições das seguintes Diretivas Europeias
+
+420

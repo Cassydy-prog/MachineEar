@@ -1,0 +1,169 @@
+Securing damaged bearings
+Determination of operating data · Extraction and evaluation of lubricant samples
+
+2 Securing damaged bearings
+
+– Case of application:
+
+machine (device), bearing location,
+attained life, how many similar 
+machines and how many failures in
+these machines
+– Bearing construction:
+
+locating bearing, floating bearing
+floating bearing arrangement
+adjusted bearings (loose, rigid; with
+spacers, via fitting washers)
+– Speed:
+
+Should a bearing be removed from a
+machine due to damage the cause of the
+latter must be clarified as well as the me-
+ans to avoid future failure. For the most
+reliable results possible it is practical to
+follow a systematic procedure when se-
+curing and inspecting the bearing. By
+the way, several of the points listed be-
+low should be given consideration when
+inspecting bearings dismounted during
+preventive maintenance.
+
+life normally attainable 
+particularities during operational 
+period up to now
+repairs on other machine parts (con-
+struction measures, welding)
+machine trouble due to other 
+machine elements (e.g. seal damage,
+loss of oil)
+distance and means of transport of
+the machine or bearings
+packaging
+– Evaluate records and charts from
+
+Recommended sequence of measures:
+
+bearing monitoring devices if avail-
+able
+
+– Determine operating data, evaluate
+
+constant, changing (inner ring and
+outer ring)
+acceleration, deceleration or retarda-
+tion
+– Load:
+
+records and charts from bearing 
+monitoring devices 
+– Extract lubricant samples
+– Check bearing environment for ex-
+
+ternal influence and other damage 
+– Assessment of bearing in mounted
+
+axial, radial, combined, tilting 
+moment
+constant, changing (collective)
+oscillating (acceleration, oscillation
+amplitude)
+centrifugal force
+point load, circumferential load
+(which ring is rotating?)
+– Mating parts:
+
+condition
+– Mark mounting position
+– Dismount bearing
+– Mark bearings and parts 
+– Check bearing seats
+– Assessment of complete bearing
+– Examination of individual bearing
+
+parts or dispatch to FAG
+
+shaft seat, housing seat (fits)
+fastening parts (e.g. type of locknut,
+elastic bolts etc.)
+– Environmental conditions:
+
+2.2 Extraction and evaluation of
+lubricant samples
+Lubricants can reveal diverse indica-
+tions of damage causes in rolling bear-
+ings. Suitable test samples are a must
+(only with open bearings), please refer to
+DIN 51750, ASTM Standard D270-65
+and 4057-81.
+
+– Grease lubrication:
+
+external heat, cooling
+special media (e.g. oxygen, vacuum,
+radiation)
+vibrations in standstill
+dust, dirt, dampness,
+corrosive agents
+electric or magnetic fields
+– Lubrication:
+
+Important factors required for finding
+the cause of damage may be lost forever
+if the procedure selected is not suitable.
+Faults made when the damaged bearing
+is being secured can also disguise the 
+damage pattern or at least make it ex-
+tremely difficult to correctly explain the
+damage features.
+
+• Documentation of grease distribu-
+tion and colour in the bearing en-
+vironment
+• Extraction of samples from differ-
+ent places in the bearing and bear-
+ing environment with correspond-
+ing marking
+
+– Oil lubrication:
+
+lubricant, lubricant quantity
+lubricant supply
+relubrication interval
+date of last relubrication interval/last
+oil change
+– Sealing
+
+contact, non-contact
+– History of damaged bearing:
+
+2.1 Determination of operating
+data
+Not only the bearing itself is exami-
+ned when rolling bearing damage is
+being inspected but the environmental
+and application conditions are also
+checked in advance (with an assembly
+drawing if possible).
+
+• Remove samples from the oil flow 
+near the bearing or from the 
+middle of the supply container
+• Extract samples during machine 
+operation or directly after in order 
+to obtain a typical distribution of 
+foreign matter
+• Do not remove samples from the 
+bottom or from directly behind 
+filters (wrong concentration of 
+particles)
+
+first mounting or replacement bear-
+ing
+changes in bearing location/machine
+in the past
+failure frequency so far
+calculated L10 life
+
+9
+FAG

@@ -1,0 +1,161 @@
+nl - Vertaling van origineel
+
+4.1  Eisen aan de installatie
+
+4.1.1  Locatie van de pomp
+
+Hf
+Totale verlies in meters veroorzaakt door
+passerende vloeistof in de aanvoerleiding
+van de pomp
+
+Hv
+Stoomdruk in meters die correspondeert
+met de temperatuur van de vloeistof T °C
+
+0,5
+Aanbevolen veiligheidsmarge (m)
+
+GEVAAR:
+Gebruik deze pomp niet in omgevingen
+waarin mogelĳk ontvlambare/explosieve
+of chemisch agressieve gassen of poe‐
+ders aanwezig zĳn.
+
+Z
+Maximale hoogte waarop de pomp geïnstal‐
+leerd kan worden (m)
+
+Richtlĳnen
+
+(pb*10,2 - Z) moet altĳd een positief getal zĳn.
+Voor meer informatie, zie Afbeelding 12 op pagina
+380.
+
+Neem de volgende richtlĳnen in acht met betrekking
+tot de locatie van het product:
+
+OPMERKING:
+Voorkom dat de zuigcapaciteit van de pomp wordt
+overschreden, omdat dit kan leiden tot cavitatie en
+schade aan de pomp.
+
+4.1.2  Vereisten voor leidingen
+
+NL
+
+Voorzorgsmaatregelen
+
+WAARSCHUWING:
+
+• Zorg dat de koellucht die door de motorventilator
+wordt geleverd niet geblokkeerd wordt.
+• Zorg ervoor dat het gebied van de installatie be‐
+schermd wordt tegen vloeistoflekkages of over‐
+stroming.
+• Plaats de pomp zo mogelĳk enigszins hoger dan
+het vloeroppervlak.
+• De omgevingstemperatuur moet liggen tussen de
+0 °C (+32 °F) en +40 °C (+104 °F).
+• De relatieve vochtigheid van de omgevingslucht
+moet minder zĳn dan 50% bĳ +40 °C (+104 °F).
+• Neem contact op met de afdeling Verkoop en
+Service in de volgende situaties:
+
+– De relatieve vochtigheid is hoger dan de richt‐
+
+lĳn.
+– De kamertemperatuur is hoger dan +40 °C
+
+(+104 °F).
+– Het apparaat staat hoger dan 1000 m boven
+
+• Gebruik leidingen die geschikt zĳn
+voor de maximale bedrĳfsdruk van de
+pomp. Nalatigheid kan ertoe leiden
+dat het systeem gaat scheuren, met
+de kans op letsel.
+• Zorg dat alle aansluitingen worden
+uitgevoerd door gekwalificeerde tech‐
+nicus in overeenstemming met de
+geldende regelgeving.
+
+zeeniveau. De prestaties van de motor dienen
+mogelĳk opnieuw te worden berekend, of te
+worden vervangen door een sterkere motor.
+Voor informatie over met welke waarde de motor
+opnieuw moet worden berekend, zie Tabel 11 op pa‐
+gina 379.
+
+Pompplaatsing en vrĳe ruimte
+
+OPMERKING:
+Houd u aan alle regelgeving van de overheid en van
+bedrĳven die de openbare watervoorziening verzor‐
+gen als u de pomp aansluit op een openbaar water‐
+systeem. Indien vereist, installeert u een geschikt
+apparaat ter voorkoming van terugstromen aan de
+aanzuigzĳde.
+
+Controlelĳst voor leidingen
+
+• Voor een goede ventilatie: ≥ 100 mm (4 in)
+• Om inspectie en verwĳdering van de motor mo‐
+gelĳk te maken: ≥ 300 mm (12 in)
+• Als de beschikbare ruimte kleiner is, raadpleeg
+dan de technische catalogus.
+
+Controleer of aan de volgende vereisten is voldaan:
+
+Installatie boven vloeistofbron (aanzuighoog‐
+te)
+
+De theoretisch maximale aanzuighoogte van elke
+pomp is 10,33 m. In de praktĳk zĳn de volgende
+elementen van invloed op de aanzuigcapaciteit van
+de pomp:
+
+• Temperatuur van de vloeistof
+• Hoogte boven zeeniveau (in een open systeem)
+• Systeemdruk (in een gesloten systeem)
+• Weerstand van de leidingen
+• Eigen intrinsieke doorvoerweerstand van de
+pomp
+• Hoogteverschillen
+Gebruik de volgende vergelĳking voor het bereke‐
+nen van de maximale hoogte boven vloeistofniveau
+waarop de pomp geïnstalleerd kan worden:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+Barometrische druk in bar (in gesloten sys‐
+teem is systeemdruk)
+
+• Alle leidingen worden onafhankelĳk ondersteund.
+Leidingen moeten geen belasting zĳn voor het
+apparaat.
+• Er worden flexibele leidingen of slangen gebruikt
+om te voorkomen dat de transmissie van de
+pomp voor trillen van de leidingen zorgt en vice
+versa.
+• Gebruik brede bochten in plaats van ellebogen
+die overmatige doorvoerweerstand veroorzaken.
+• De aanzuigleiding is perfect afgedicht en lucht‐
+dicht.
+• Als de pomp gebruikt wordt in een open circuit, is
+de diameter van de aanzuigleiding geschikt voor
+de installatieomstandigheden. De aanzuigleiding
+mag niet kleiner zĳn dan de diameter van de aan‐
+zuigopening.
+• Als de aanzuigleidingen groter moeten zĳn dan
+de aanzuigkant van de pomp, moet een excen‐
+trisch reductiestuk geïnstalleerd worden.
+• Als de pomp boven waterniveau geplaatst is, is
+een voetklep geïnstalleerd aan het einde van de
+aanzuigleiding.
+
+NPSH
+Waarde in meter van de intrinsieke doorvoer‐
+weerstand van de pomp
+
+79

@@ -1,0 +1,145 @@
+ro - Traducerea originalului
+
+ATENȚIE:
+Picăt. de sudură, piatra și alte impur. din
+cond. pot deteriora pompa.
+
+NOTĂ:
+Protecția poate fi plasă de sârmă (consultați Fi‐
+gura 18 la pagina 386) sau tablă (consultați Figu‐
+ra 19 la pagina 388)
+
+4.3.3  Alinierea cuplajului
+
+Scoaterea protecției cuplajului
+
+ATENȚIE:
+Nu exploataţi niciodată pompa fără pro‐
+tecţia cuplajului instalată corect.
+
+Tip de protecție: plasă de sârmă
+Pentru informații, consultați Figura 18 la pagina 386.
+
+1. Deșurubați șuruburile (2).
+2. Scoateți plasa de sârmă. (1).
+Tip de protecție: tablă
+Pentru informații, consultați Figura 19 la pagina 388.
+
+2. Așezați o riglă pe jumătățile cuplajelor.
+3. Măsurați distanțele prezentate în figură.
+4. Rotiți manual cuplajul în pași de 90° și repetați
+măsurătoarea.
+5. Repetați pasul 4 de mai multe ori: alinierea radia‐
+lă este corectă dacă distanțele sunt aceleași în
+toate punctele din jurul circumferinței, în cadrul
+abaterii permise; consultați Tabelul 28 la pagina
+399. În caz contrar, consultați Alinierea cuplajului
+cu bailaguri la pagina 233.
+6. Verificați distanța dintre cele două cuplaje cu un
+calibru pentru joc.
+7. Rotiți manual cuplajul în pași de 90° și verificați
+din nou distanța.
+8. Repetați pasul 7 de mai multe ori: alinierea axială
+este corectă dacă distanțele sunt aceleași în toa‐
+te punctele din jurul circumferinței, în cadrul aba‐
+terii permise; consultați Tabelul 28 la pagina 399.
+În caz contrar, Alinierea cuplajului cu bailaguri la
+pagina 233.
+9. Remontați protecția cuplajului.
+• M5 → 3 Nm (27 lbf·in) ± 15%
+• M6 → 5 Nm (44 lbf·in) ± 15%.
+
+Verificarea alinierii cuplajului cu aliniatorul
+laser
+
+1. Deșurubați șuruburile de închidere ale semi-car‐
+caselor (5).
+2. Deșurubați șuruburile de fixare care fixează car‐
+casa jumătății superioare (3).
+3. Scoateți jumătatea superioară a carcasei protec‐
+ției cuplajului (1).
+4. Deșurubați șuruburile de fixare care fixează jumă‐
+tatea inferioară a carcasei (4).
+5. Scoateți jumătatea inferioară a carcasei de pro‐
+tecție a cuplajului (2).
+6. Deschideți și ridicați inelul de susținere/reglare
+(6).
+
+Verificarea și alinierea cuplajului
+
+Puteți verifica alinierea cuplajului cu un aliniator cu
+laser: consultați manualul de instrucțiuni al aliniato‐
+rului.
+
+Alinierea cuplajului cu bailaguri
+
+NOTĂ:
+Verificați din nou alinierea cuplajului în condiții de
+funcționare la cald.
+
+Consultați Figura 17 la pagina 384 pentru informații
+privind locul de atașare a pompei și a motorului la
+bază și locul de introducere a garniturilor de reglare
+furnizate.
+
+NOTĂ:
+Asigurați-vă că cuplajul poate fi rotit manual cu ușu‐
+rință și că există un anumit joc între dinți.
+
+RO
+
+NOTĂ:
+Alinierea incorectă a unității poate cauza deteriora‐
+rea gravă a sistemului.
+
+1. Deșurubați șuruburile care fixează pompa și mo‐
+torul pe bază.
+2. Ridicați ușor pompa și motorul.
+3. Introduceți bailagurile între bază și picioarele
+pompei și motor, în unul sau mai multe dintre
+punctele indicate.
+4. Așezați pompa și motorul pe bază, aliniind orifi‐
+ciile pentru buloane.
+5. Strângeţi buloanele.
+6. Repetați verificarea alinierii cuplajului.
+
+NOTĂ:
+În cazul în care cuplajul nu este aliniat corect, acesta
+poate cauza vibrații, care pot duce la uzura prematu‐
+ră a componentelor rotative ale unității.
+
+Instalare de protecție a cuplajului
+
+Verificați alinierea cuplajului unității după următoare‐
+le:
+
+ATENȚIE:
+Nu exploataţi niciodată pompa fără pro‐
+tecţia cuplajului instalată corect.
+
+Tip de protecție: plasă de sârmă
+Pentru informații, consultați Figura 18 la pagina 386.
+
+• Transport și instalare
+• Pornirea inițială
+• Atingerea temperaturii de funcționare.
+Efectuați verificarea chiar dacă unitatea a fost livrată
+complet asamblată pe cadru.
+
+Verificarea alinierii cuplajului cu o riglă și o
+leră
+
+1. Repoziționați corect protecția (1), astfel încât să
+înconjoare capătul de ieșire al axului pompei și
+inelul de susținere (3) de pe partea motorului.
+2. Strângeți șuruburile (2).
+Tip de protecție: tablă
+Pentru informații, consultați Figura 19 la pagina 388.
+
+Pentru informații privind alinierea unui cuplaj stan‐
+dard (A) și a unui cuplaj cu distanțier (B), consultați
+Figura 27 la pagina 397
+
+1. Scoateți protecția cuplajului.
+
+233

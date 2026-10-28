@@ -1,0 +1,160 @@
+pl - Tłumaczenie oryginału
+
+4.1  Wymagania dotyczące obiektu
+
+4.1.1  Umiejscowienie pompy
+
+pb
+ciśnienie barometryczne w barach (w ukła‐
+dzie zamkniętym oznacza ciśnienie w ukła‐
+dzie)
+
+NPSH
+wartość wewnętrznych oporów przepływu
+pompy, wyrażona w metrach
+
+Hf
+wyrażone w metrach całkowite opory spo‐
+wodowane przepływem cieczy przez ruro‐
+ciąg ssawny pompy
+
+NIEBEZPIECZEŃSTWO:
+Nie używać jednostki w środowiskach,
+w których mogą występować łatwopal‐
+ne/wybuchowe lub agresywne chemicz‐
+nie gazy bądź proszki.
+
+Wytyczne
+
+Hv
+prężność pary, w metrach, odpowiadająca
+temperaturze cieczy T °C
+
+0,5
+zalecany margines bezpieczeństwa (m)
+
+Stosować się do poniższych wskazówek dotyczą‐
+cych umiejscowienia pompy.
+
+Z
+maksymalna wysokość, na jakiej można za‐
+instalować pompę
+
+Wartość (pb*10,2 - Z) zawsze musi być liczbą dodat‐
+nią.
+Więcej informacji zawiera rozdział Rysunek 12 na
+stronie 380.
+
+UWAGA:
+Nie wolno przekraczać wydajności ssącej pomp, po‐
+nieważ może to spowodować kawitację i uszkodze‐
+nie pompy.
+
+• Zadbać, aby żadne przeszkody nie utrudniały nor‐
+malnego przepływu powietrza chłodzącego, wy‐
+muszanego przez wentylator silnika.
+• Upewnić się, czy miejsce instalacji jest zabezpie‐
+czone przed wyciekami płynów lub zalewaniem.
+• Jeżeli jest to możliwe, umieszczać pompę nieco
+powyżej poziomu podłoża.
+• Temperatura otoczenia nie może wykraczać poza
+przedział od 0°C (+32°F) do +40°C (+104°F).
+• Wilgotność względna powietrza otoczenia mu‐
+si być niższa od 50% w temperaturze +40°C
+(+104°F).
+• Kontaktować się z działem sprzedaży i serwisu,
+jeżeli:
+
+4.1.2  Wymagania dotyczące przewodów
+rurowych
+
+– Względna wilgotność powietrza przekracza
+
+Środki ostrożności
+
+wartość podaną we wskazówkach.
+– Temperatura otoczenia przekracza +40°C
+
+OSTRZEŻENIE:
+
+(+104°F).
+– Zespół znajduje się na wysokości powyżej
+
+PL
+
+1000 m (3000 stóp) nad poziomem morza.
+Może wystąpić potrzeba zmiany parametrów
+znamionowych silnika lub zastąpienia silni‐
+kiem o większej mocy.
+Patrz Tabela 11 na stronie 379, aby uzyskać informa‐
+cje, która wielkość powoduje obniżenie parametrów
+znamionowych silnika.
+
+Położenia pompy i odstępy wokół niej
+
+• Używać rur dostosowanych do mak‐
+symalnego ciśnienia roboczego po‐
+mpy. Niestosowanie się do tego zale‐
+cenia może wywołać rozerwanie ukła‐
+du, co grozi obrażeniami.
+• Sprawdzić, czy wszystkie połączenia
+zostały wykonane przez technika wy‐
+kwalifikowanego w zakresie montażu,
+zgodnie z obowiązującymi przepisa‐
+mi.
+
+• Aby zapewnić odpowiednią wentylację: ≥ 100
+mm (4 cale)
+• Aby umożliwić kontrolę i demontaż silnika: ≥ 300
+mm (12 cali)
+• Jeśli dostępna jest mniejsza przestrzeń, należy
+zapoznać się z katalogiem technicznym.
+
+Instalacja powyżej źródła cieczy (wysokość
+ssania)
+
+UWAGA:
+Stosować się do wszystkich regulacji prawnych
+wydawanych przez uprawnione władze oraz firmy
+zarządzające dostarczaniem wody do instalacji pu‐
+blicznych, jeżeli pompa jest przyłączona do publicz‐
+nej sieci wodociągowej Jeśli jest to wymagane, po
+stronie ssawnej należy zamontować odpowiednie
+zabezpieczenie przed przepływem wstecznym.
+
+Lista kontrolna orurowania
+
+Teoretyczna maksymalna wysokość ssania każdej
+pompy wynosi 10,33 m. W praktyce, na wysokość
+ssania pompy mają wpływ następujące czynniki:
+
+Sprawdzić, czy spełnione są następujące wymaga‐
+nia:
+
+• temperatura cieczy,
+• wysokość nad poziomem morza ( w przypadku
+układów otwartych),
+• ciśnienie w układzie (w przypadku układów za‐
+mkniętych),
+• opory przepływu przez rury,
+• własne, wewnętrzne opory przepływu pompy.
+• różnice wysokości.
+Poniższy wzór służy do obliczania maksymalnej wy‐
+sokości nad poziomem cieczy, na jakiej można zain‐
+stalować pompę:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+• Wszystkie przewody rurowe są niezależnie pod‐
+parte - przewody rurowe nie mogą obciążać po‐
+mpy.
+• W celu uniknięcia przenoszenia drgań pompy na
+rurociągi i odwrotnie stosowane są elastyczne
+przewody rurowe lub złączki.
+• Zastosowano łagodne łuki, unikając kolan, które
+powodują nadmierne opory przepływu.
+• Rurociąg ssawny jest doskonale uszczelniony i
+powietrznoszczelny.
+• Jeśli pompa jest użytkowana w obwodzie otwar‐
+tym, średnica rury ssawnej jest dostosowana do
+
+182

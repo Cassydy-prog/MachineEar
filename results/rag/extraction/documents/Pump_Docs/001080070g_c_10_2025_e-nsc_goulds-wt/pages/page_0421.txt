@@ -1,0 +1,65 @@
+Declarations of Conformity
+
+Optimyze : s'il est fourni avec la pompe, se reporter à la documentation fournie avec le dispositif de surveillance (Équipement radio 
+2014/53/UE et modifications ultérieures, Restriction de l'utilisation de certaines substances dangereuses dans les équipements 
+électriques et électroniques 2011/65/UE et modifications ultérieures, y compris la directive (UE) 2015/863).
+
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Directeur général
+
+La ou les déclarations de conformité ne sont pas valables si elles sont utilisées séparément du reste du texte du document Xylem 
+code 001080070G.
+
+Pour le Royaume du Maroc (Cmim)
+
+Déclaration 
+ de conformité 
+ 
+1. Produit/appareil: NSCC… ou NSCF… (voir étiquette en dernière page) 
+2. Nom et adresse du producteur: 
+Xylem Service Italia S.r.l. 
+Via Vittorio Lombardi 14 
+36075 Montecchio Maggiore VI 
+Italie. 
+3. La présente déclaration de conformité est établie sous la seule responsabilité du producteur. 
+4. Objet de la déclaration: électropompe 
+5. Objet de la déclaration décrit ci-dessus est conforme à (aux) l’arrêté(s): 
+ • Arrêté du ministre de l’Industrie, du commerce, de l'investissement et de l'économie numérique n° 2573-14 du 29 ramadan 1436 
+(16 juillet 2015) relatif au matériel électrique destiné à être employé dans certaines limites de tension 
+ • Arrêté du ministre de l’Industrie, du commerce, de l'investissement et de l'économie numérique n° 2574-14 du 29 ramadan 1436 
+(16 juillet 2015) relatif à la compatibilité électromagnétique des équipements. 
+6. Références des normes pertinentes appliquées ou des autres spécifications techniques par rapport auxquelles la conformité est 
+déclarée: 
+ • NM 21.7.066 (2004). 
+ • NM EN 61000 3 3 (2022), NM EN 61000 3 12 (2022), NM EN 61000 6 2 (2022), NM EN 61000 6 4 (2022). 
+7. Organisme agréé: - - - 
+8. Informations complémentaires: NM EN 809+A1 (2015). 
+Signé par et au nom de: Xylem Service Italia S.r.l.
+
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Directeur général
+
+La déclaration de conformité n'est pas valable si elle est utilisée séparément du reste du texte du document Xylem code 
+001080070G. 
+ 
+Konformitätserklärung 
+Es wird auf die spezifische Erklärung für die am Produkt vorhandene Kennzeichnung verwiesen. 
+ 
+Elektrische Pumpe 
+ 
+EU-Konformitätserklärung (Übersetzung des Originals) 
+ 
+Xylem Service Italia S.r.l., mit Standort in Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore (VI) - Italien, erklärt hiermit, dass 
+das Produkt 
+NSCC… oder NSCF… Elektropumpe (siehe Etikett auf der letzten Seite) 
+die einschlägigen Vorschriften der folgenden europäischen Richtlinien erfüllt
+
+417

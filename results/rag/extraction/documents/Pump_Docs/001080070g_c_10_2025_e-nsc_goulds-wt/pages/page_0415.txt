@@ -1,0 +1,68 @@
+Declarations of Conformity
+
+Fare riferimento alla specifica dichiarazione relativa alla marcatura presente sul prodotto. 
+ 
+Elettropompa
+
+Dichiarazione CE di conformità (Originale) 
+ 
+Xylem Service Italia S.r.l., con sede in Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italy, dichiara che il prodotto 
+elettropompa NSCC… o NSCF… (vedere etichetta sull’ultima pagina) 
+è conforme alle disposizioni delle seguenti Direttive Europee 
+• Macchine 2006/42/CE e successive modifiche (ALLEGATO II – persona fisica o giuridica autorizzata alla compilazione del 
+fascicolo tecnico: Xylem Service Italia S.r.l.). 
+• Eco-design 2009/125/CE e successive modifiche, Regolamento (UE) 2019/1781 e successive modifiche (motore elettrico, se 
+marcato IE2, IE3 o IE4), Regolamento (UE) n. 547/2012 e successive modifiche (pompa per acqua, se marchiata MEI) 
+e norme tecniche 
+•  EN 809:1998+A1:2009, EN 60204-1:2018. 
+•  EN 60034-30:2009, EN 60034-30-1:2014, EN 60034-2-1:2007, EN 60034-2-1:2014, EN 16480:2021. 
+Montecchio Maggiore, 25/03/2025
+
+Alessio Vendraminelli
+
+Managing Director 
+rev.00 
+
+Dichiarazione di conformità UE (N° 01)  
+ 
+1. EMCD - Modello di apparecchio/Prodotto: NSCC… o NSCF… (vedere etichetta sull’ultima pagina) 
+ 
+RoHS - Identificazione unica dell’AEE: NSCC… o NSCF…  
+Nome e indirizzo del fabbricante:  
+Xylem Service Italia S.r.l. 
+Via Vittorio Lombardi 14 
+36075 Montecchio Maggiore VI 
+Italy 
+2. La presente dichiarazione di conformità è rilasciata sotto la responsabilità esclusiva del fabbricante. 
+3. Oggetto della dichiarazione: elettropompa  
+4. L’oggetto della dichiarazione di cui sopra è conforme alla pertinente normativa di armonizzazione dell’Unione: 
+• Direttiva 2014/30/UE del 26 febbraio 2014 e successive modifiche (compatibilità elettromagnetica)  
+• Direttiva 2011/65/UE dell’8 giugno 2011 e successive modifiche, inclusa la direttiva (UE) 2015/863 (restrizione dell’uso di 
+determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche).  
+5. Riferimento alle pertinenti norme armonizzate utilizzate o riferimenti alle altre specifiche tecniche in relazione alle quali è 
+dichiarata la conformità: 
+• EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-
+4:2007 +A1:2011, EN IEC 61000-6-4:2019. 
+• EN IEC 63000:2018. 
+6. Organismo notificato: - 
+7. Informazioni supplementari: 
+ 
+RoHS - Allegato III – Applicazioni esentate dalle restrizioni: piombo come elemento legante nell’acciaio, alluminio e leghe di rame 
+[6 a), 6 b), 6 c)]. 
+Optimyze: fare riferimento alla documentazione fornita con il dispositivo di monitoraggio (direttiva 2014/53/UE apparecchiature 
+radio e successive modifiche, Restrizioni sull'uso di determinate sostanze pericolose nelle apparecchiature elettriche ed 
+elettroniche; 2011/65/UE e successive modifiche, compresa la direttiva (UE) 2015/863). 
+Firmato a nome e per conto di: Xylem Service Italia S.r.l. 
+Montecchio Maggiore, 25/03/2025
+
+Alessio Vendraminelli
+
+Managing Director 
+rev.00 
+
+Le dichiarazioni di conformità non sono valide se utilizzate separatamente dal resto del testo del documento di Xylem con codice 
+001080070G. 
+Goulds è un marchio registrato di Goulds Pumps, Inc. ed è usato sotto licenza. Optimyze è un marchio registrato da Xylem Inc. o 
+da una delle sue affiliate.
+
+411

@@ -1,0 +1,156 @@
+pl - Tłumaczenie oryginału
+
+Kontrola osiowania sprzęgła z nakładką lase‐
+rową
+
+UWAGA:
+Ostrożnie dokręcić dławnice kabli, aby zapew‐
+nić zabezpieczenie przed ślizganiem się kabli i
+przedostawaniem się wilgoci do skrzynki zacis‐
+kowej.
+
+Można sprawdzić wyrównanie sprzęgła z nakładką
+laserową: należy zapoznać się z instrukcją obsługi
+nakładki.
+
+Wyrównanie sprzęgła z podkładkami
+
+4. Jeżeli silnik nie jest wyposażony w termiczne
+urządzenie zabezpieczające, ustawić zabezpie‐
+czenie przeciążeniowe zgodnie z poniższą listą.
+
+– Jeżeli silnik jest użytkowany przy pełnym
+
+Patrz , aby Rysunek 17 na stronie 384 uzyskać infor‐
+macje na temat miejsca mocowania pompy i silnika
+do podstawy oraz miejsca wkładania dostarczonych
+podkładek.
+
+obciążeniu, nastawić wartość równą wartoś‐
+ci prądu znamionowego pompy elektrycznej
+(tabliczka znamionowa).
+– Jeżeli silnik jest użytkowany przy częściowym
+
+obciążeniu, nastawić wartość równą wartoś‐
+ci prądu roboczego (na przykład na wartość
+zmierzoną przy użyciu kleszczy prądowych).
+– Jeżeli pompa posiada system rozruchowy
+
+1. Odkręcić śruby mocujące pompę i silnik do pod‐
+stawy.
+2. Lekko podnieść pompę i silnik.
+3. Umieścić podkładki między podstawą a stopami
+pompy i silnika w jednym lub kilku wskazanych
+punktach.
+4. Umieścić pompę i silnik na podstawie, wyrównu‐
+jąc otwory na śruby.
+5. Dokręcić śruby.
+6. Powtórzyć kontrolę osiowania sprzęgła.
+
+gwiazda-trójkąt, nastawić przekaźnik termoe‐
+lektryczny na wartość 58% wartości prądu
+znamionowego lub prądu roboczego (dotyczy
+tylko silników trójfazowych).
+
+Montaż zabezpieczenia sprzęgła
+
+5  Wprowadzenie do eksploatacji,
+uruchomienie, eksploatacja i wyłączenie
+
+Środki ostrożności
+
+PRZESTROGA:
+Eksploatacja pompy bez odpowiednio
+zamontowanej osłony sprzęgła jest za‐
+broniona.
+
+OSTRZEŻENIE:
+Zagrożenia fizyczne i termiczne
+
+Rodzaj ochrony: siatka druciana
+Informacje na ten temat zawiera Rysunek 18 na stro‐
+nie 386.
+
+• Zawsze używaj środków ochrony
+osobistej.
+• Sprawdzić, czy zainstalowano zabez‐
+pieczenie sprzęgła.
+
+OSTRZEŻENIE:
+
+PL
+
+1. Ustawić zabezpieczenie (1) prawidłowo, tak aby
+otaczało wylot wału pompy i pierścień podpiera‐
+jący (3) po stronie silnika.
+2. Dokręcić śruby (2).
+Rodzaj ochrony: blacha
+Informacje na ten temat zawiera Rysunek 19 na stro‐
+nie 388.
+
+• Sprawdzić, czy spuszczana ciecz nie
+powoduje uszkodzeń lub obrażeń cia‐
+ła.
+• Ochronniki silnika mogą spowodo‐
+wać nieoczekiwane ponowne urucho‐
+mienie silnika. Może to spowodować
+poważne obrażenia ciała.
+
+PRZESTROGA:
+
+1. Ustawić dolną połowę osłony sprzęgła (2).
+2. Dokręcić śruby mocujące dolnej połowy obudowy
+(4).
+3. Otworzyć i włożyć pierścień podporowy/regula‐
+cyjny (6) z obudową skierowaną w dół i wcisnąć
+go osiowo do silnika.
+4. Ustawić górną połowę osłony sprzęgła (1).
+5. Dokręcić śruby mocujące górnej połowy obudo‐
+wy (3).
+6. Dokręcić śruby zamykające półskorup (5).
+
+4.3.4  Instalacja elektryczna
+
+• Temperatury zewnętrznych powierz‐
+chni pompy i silnika elektrycznego
+mogą przekraczać 40ºC (104ºF) pod‐
+czas pracy.
+• W pobliżu pompy nie wolno kłaść
+żadnych materiałów palnych.
+
+1. Zdjąć śruby pokrywy skrzynki zaciskowej.
+
+UWAGA:
+
+2. Przyłączyć i zamocować przewody zasilające
+zgodnie z odpowiednim schematem okablowa‐
+nia.
+
+Patrz Rysunek 21 na stronie 392, aby zapoznać
+się ze schematami okablowania. Schematy znaj‐
+dują się także z tyłu pokrywy skrzynki zacisko‐
+wej.
+
+a) Przyłączyć przewód masy (uziemienia).
+
+Zadbać, aby przewód masy (uziemienia) był
+dłuższy od przewodów fazowych.
+b) Przyłączyć przewody fazowe.
+
+3. Zamontować pokrywę skrzynki zaciskowej.
+
+• Pompa nie może pracować z przepływem niż‐
+szym niż minimalny znamionowy, gdy jest pusta
+lub bez zalania.
+• Nigdy nie użytkować pompy z zaworem odcinają‐
+cym po stronie tłocznej zamkniętym przez okres
+dłuższy niż kilka sekund.
+• Nigdy nie użytkować pompy z zamkniętym zawo‐
+rem odcinającym po stronie ssawnej.
+• Pompa w stanie bezczynności nie powinna znaj‐
+dować się w temperaturze poniżej zera. Spuścić
+cały płyn znajdujący się wewnątrz pompy. Za‐
+niedbanie tej czynności może spowodować za‐
+marznięcie cieczy i uszkodzenie pompy.
+
+186

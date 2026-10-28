@@ -1,0 +1,104 @@
+2. Common Pumping System Problems
+
+ation. Packing typically requires some leakage in 
+order to remain lubricated and cooled. If packing 
+rings are overtightened, friction between the 
+packing and shaft will generate excessive heat, 
+which can destroy the packing and possibly 
+damage the shaft.
+
+Seal faces are held together by a force that is 
+usually provided by springs or bellows. However, 
+compressive properties are often lost because of 
+fatigue, fouling, and/or corrosive environments, 
+which degrade spring and bellows materials. 
+To minimize fatigue loads on mechanical seals, 
+the seal must be precisely aligned so that spring 
+movement is minimal during each shaft 
+revolution. In systems with highly corrosive 
+fluids, mechanical seals with external springs 
+are recommended.
+
+The face materials require alignment, with 
+tolerances on the order of microns (one-millionth 
+of a meter). The precise flatness and proper align-
+ment of the seals are important because these 
+faces must remain in constant contact as the pump 
+shaft spins. Since pumps often rotate at 1,800 or 
+3,600 revolutions per minute (rpm), even slight 
+variations in the contact between two seal faces 
+can quickly destroy a seal’s effectiveness.
+
+Since packing comes in direct contact with the 
+pump shaft, it wears over time, increasing the 
+leakage rate. Consequently, the packing gland 
+must be periodically tightened to squeeze the 
+packing against the shaft and keep leakage to an 
+acceptable level. Improper packing installation 
+leads to uneven compression of the packing rings 
+(overtightening of one, insufficient tightening of 
+others) or an overly loose fit between the packing 
+and shaft. This often results in excessive leakage, 
+which in turn can cause housekeeping problems 
+(such as wet floors), high ambient moisture 
+levels, and, if the fluid is toxic, contamination 
+problems. If the fluid is expensive, leakage also 
+has a direct economic cost.
+
+Shaft Deflection. Shaft deflection is a problem 
+among long-shafted centrifugal pumps. Shaft 
+deflection is caused by the force resulting from 
+an unequal pressure distribution around an 
+impeller. The side of the impeller that is nearest 
+the pump discharge connection sees a higher 
+pressure than the other side of the impeller, 
+creating a radial force on the shaft. Some pumps 
+are equipped with multiple volutes to minimize 
+this imbalance.
+
+If the fluid pressure at the stuffing box is below 
+atmospheric pressure, then improperly installing 
+the packing seal can allow air to enter the system. 
+Pulling air into the suction region can degrade 
+pump performance 3% or more. Also, for systems 
+that require precise fluid chemistries, especially 
+those that are sensitive to oxygen content, pulling 
+in air can contaminate the system. Excess air 
+leakage can keep pumps from staying primed and 
+prevent self-priming pumps from repriming on 
+start-up.
+
+Mechanical Seals. Mechanical seals are typically 
+used in applications that call for superior sealing. 
+The effectiveness of mechanical seals is highly 
+dependent on correct installation and a contin-
+uously clean operating environment. Mechanical 
+seals have two primary failure mechanisms:  
+degradation of the face material and loss of 
+spring or bellows tension, which allows the faces 
+to separate more easily. Degradation of the seal 
+face is usually caused by debris that wedges into 
+a seal face and causes damage. To minimize the 
+risk of this type of damage, mechanical seals are 
+often serviced by special flushing lines that have 
+filters to catch debris.
+
+In general, shaft deflection is most problematic 
+when a pump is operated at low flow conditions. 
+The consequences of severe shaft deflection 
+include high wear rate on bearings, shaft seal 
+leakage, and fatigue bending of the pump shaft. 
+Although pump shafts are typically designed to 
+last the life of the pump, severe shaft deflections 
+can load shafts in ways that they were not 
+designed to handle. If they are sustained for 
+extended periods, severe shaft deflections can 
+result in catastrophic failure of a pump shaft. 
+Pump shaft failure is costly; at times, it requires 
+the replacement of the entire pump. The risk of 
+shaft failure is particularly prevalent in pumps 
+with relatively long distances and small shaft 
+diameters between shaft bearings. Operating
+
+22
+Improving Pumping System Performance

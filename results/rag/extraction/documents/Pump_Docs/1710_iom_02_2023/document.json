@@ -1,0 +1,25 @@
+{
+  "document_id": "4df0943a01d8cb6d3d192a356106f9d810ceebceffca501761bf2e39c85b6c96",
+  "source_filename": "1710_iom_02_2023.pdf",
+  "source_relative_path": "Pump_Docs/1710_iom_02_2023.pdf",
+  "source_sha256": "08f2f5205baf5c6aad2529364edf76fc03a65a10fc5736448c4a3a41e1d5e472",
+  "document_title": "Installation, Operation, and Maintenance Manual",
+  "machine_type_hint": "pump",
+  "source_type_hint": "installation_operation_maintenance_manual",
+  "applicability": "generic_guidance_equipment_match_unverified",
+  "applicability_verified": false,
+  "page_count": 32,
+  "method_counts": {
+    "native": 31,
+    "none": 1
+  },
+  "ocr_attempted_pages": 0,
+  "blank_pages": 1,
+  "review_pages": [
+    2
+  ],
+  "character_count": 52859,
+  "document_text_file": "documents/Pump_Docs/1710_iom_02_2023/document.txt",
+  "searchable_pdf": null,
+  "errors": []
+}

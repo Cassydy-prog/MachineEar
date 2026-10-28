@@ -1,0 +1,100 @@
+Section 1: Pumping System Basics
+
+machinery, pressure is the key system need. 
+Pumps and pumping system components must 
+be sized and configured according to the needs 
+of the end-use processes.
+
+surging flow characteristics. Smaller pipes also 
+operate at higher liquid velocity, increasing 
+erosion effects, wear, and friction head. Increased 
+friction head affects the energy required for 
+pumping.
+
+Pumping System Principles
+
+ Valves
+The flow in a pumping system may be controlled 
+by valves. Some valves have distinct positions, 
+either shut or open, while others can be used to 
+throttle flow. There are many different types of 
+valves; selecting the correct valve for an appli-
+cation depends on a number of factors, such as 
+ease of maintenance, reliability, leakage tenden-
+cies, cost, and the frequency with which the 
+valve will be open and shut.
+
+ Design Practices
+Fluid system designs are usually developed to 
+support the needs of other systems. For example, 
+in cooling system applications, the heat transfer 
+requirements determine how many heat exchan-
+gers are needed, how large each heat exchanger 
+should be, and how much flow is required. Pump 
+capabilities are then calculated based on the 
+system layout and equipment characteristics. In 
+other applications, such as municipal wastewater 
+removal, pump capabilities are determined by the 
+amount of water that must be moved and the 
+height and pressure to which it must be pumped. 
+The pumps are sized and configured according to 
+the flow rate and pressure requirements of the 
+system or service.
+
+After the service needs of a pumping system are 
+identified, the pump/motor combination, layout, 
+and valve requirements must be engineered. 
+Selecting the appropriate type of pump and its 
+speed and power characteristics requires an 
+understanding of its operating principles.
+
+Valves can be used to isolate equipment or regu-
+late flow. Isolation valves are designed to seal off 
+a part of a system for operating purposes or main-
+tenance. Flow-regulating valves either restrict flow 
+through a system branch (throttle valve) or allow 
+flow around it (bypass valve). A throttle valve 
+controls flow by increasing or decreasing the flow 
+resistance across it. In contrast, a bypass valve 
+allows flow to go around a system component by 
+increasing or decreasing the flow resistance in a 
+bypass line. A check valve allows fluid to move 
+in only one direction, thus protecting equipment 
+from being pressurized from the wrong direction 
+and helping to keep fluids flowing in the right 
+direction. Check valves are used at the discharge 
+of many pumps to prevent flow reversal when the 
+pump is stopped.
+
+The most challenging aspect of the design process 
+is cost-effectively matching the pump and motor 
+characteristics to the needs of the system. This 
+process is often complicated by wide variations 
+in flow and pressure requirements. Ensuring that 
+system needs are met during worst-case con-
+ditions can cause designers to specify equipment 
+that is oversized for normal operation. In addition, 
+specifying larger than necessary pumps increases 
+material, installation, and operating costs. Design-
+ing a system with larger piping diameters might 
+reduce pumping energy costs, however. See the 
+fact sheet titled Piping Configurations To Improve 
+Pumping System Efficiency in Section 2 and the tip 
+sheet in Appendix C titled Reduce Pumping Costs 
+Through Optimum Pipe Sizing.
+
+ End-Use Equipment (Heat Exchangers,
+     Tanks, and Hydraulic Equipment)
+The essential purpose of a pumping system may 
+be to provide cooling, to supply or drain a tank 
+or reservoir, or to provide hydraulic power to 
+a machine. Therefore, the nature of the end-
+use equipment is a key design consideration in 
+determining how the piping and valves should 
+be configured. There are many different types 
+of end-use equipment; the fluid pressurization 
+needs and pressure drops across this equipment 
+vary widely. For heat exchangers, flow is the 
+critical performance characteristic; for hydraulic
+
+Improving Pumping System Performance

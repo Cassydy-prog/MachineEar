@@ -1,0 +1,159 @@
+ro - Traducerea originalului
+
+nească în mod neaşteptat. Ca urma‐
+re, ar putea rezulta vătămări grave.
+
+ATENȚIE:
+
+• Suprafeţele exterioare ale pompei şi
+motorului pot depăşi 40º C (104º F)
+în timpul funcţionării.
+• Nu puneţi niciun material combustibil
+în apropierea pompei.
+
+NOTĂ:
+
+1. Poziționați jumătatea inferioară a carcasei de
+protecție a cuplajului (2).
+2. Strângeți șuruburile de fixare ale jumătății infe‐
+rioare a carcasei (4).
+3. Deschideți și introduceți inelul de susținere/regla‐
+re (6) cu carcasa în jos și apăsați-l axial pe motor.
+4. Poziționați jumătatea superioară a carcasei pro‐
+tecției cuplajului (1).
+5. Strângeți șuruburile de fixare ale jumătății supe‐
+rioare a carcasei (3).
+6. Strângeți șuruburile de închidere ale jumătăților
+de carcasă (5).
+
+4.3.4  Instalaţia electrică
+
+1. Scoateţi şuruburile de pe capacul cutiei termina‐
+le.
+
+2. Conectaţi şi fixaţi cablurile de alimentare în con‐
+formitate cu schema de cablaj aplicabilă:
+
+Pentru schemele cablajului, consultaţi Figura 21
+la pagina 392. Diagramele sunt disponibile şi pe
+partea din spate a capacului cutiei terminale.
+
+a) Conectați cablul de împământare (legare la
+
+pământ).
+
+Asiguraţi-vă că este mai lung cablul de legare
+la pământ (împământare) decât cablurile de
+fază.
+b) Conectaţi cablurile de fază.
+
+• Nu exploataţi niciodată pompa sub debitul nomi‐
+nal minim, în stare uscată sau fără a fi amorsată.
+• Nu exploataţi niciodată pompa cu ventilul DES‐
+CHIS-ÎNCHIS de evacuare închis mai mult de câ‐
+teva secunde.
+• Nu exploataţi niciodată pompa cu ventilul DES‐
+CHIS-ÎNCHIS de admisie închis.
+• Nu expuneţi condiţiilor de îngheţ o pompă în
+repaus. Goliți tot lichidul din interiorul pompei.
+Nerespectarea indicaţiei poate conduce la înghe‐
+ţarea lichidului şi deteriorarea pompei.
+• Suma presiunii de pe partea de aspirație (con‐
+ducte, rezervor cu scurgere liberă) și a presiunii
+maxime exercitate de pompă nu trebuie să depă‐
+șească presiunea maximă de lucru permisă (pre‐
+siunea nominală PN) pentru pompă.
+• Nu utilizaţi pompa dacă survine cavitaţia. Cavita‐
+ţia poate deteriora componentele interne.
+
+3. Montaţi capacul cutiei terminale.
+
+5.1  Umplerea pompei
+Pentru informații privind cuplajele suplimentare ale
+pompei, consultați Figura 22 la pagina 392.
+
+NOTĂ:
+Strângeţi cu atenţie mufele cablurilor pentru a vă
+asigura că nu alunecă şi că nu pătrunde umidita‐
+tea în cutia cu borne.
+
+Instalarea cu nivelul lichidului peste pompă
+(cap de aspiraţie)
+
+4. Dacă motorul nu este echipat cu protecţie termi‐
+că cu resetare automată, reglaţi protecţia la su‐
+prasarcină conform listei de mai jos.
+
+– Dacă motorul se utilizează la sarcină maximă,
+
+Pentru o imagine care afişează amplasarea buşoa‐
+nelor pompei, consultaţi Figura 23 la pagina 394.
+
+1. Închideţi supapa de deschidere-închidere locali‐
+zată în aval faţă de pompă.
+
+setaţi valoarea la valoarea curentului nominal
+al pompei electrice (plăcuţa de date)
+– Dacă motorul se utilizează la sarcină parţială,
+
+RO
+
+setaţi valoarea la curentul de regim (de exem‐
+plu, măsurat cu aparatul de măsură).
+– Dacă pompa are un sistem de pornire stea-
+
+2. Scoateţi buşonul de umplere (3) sau de calibra‐
+re (1) şi deschideţi supapa pornit-oprit aflată în
+amonte până când apa curge prin orificiu.
+
+a) Închideți bușonul de umplere (3) sau de cali‐
+
+brare (1).
+
+triunghi, reglaţi releul termic la 58% din curen‐
+tul nominal sau curentul de exploatare (numai
+pentru motoare trifazate).
+
+Instalarea cu nivelul lichidului sub pompă
+(înălţime de aspiraţie)
+
+5  Punerea în funcţiune, pornirea,
+exploatarea şi oprirea
+
+Pentru o imagine care afişează amplasarea buşoa‐
+nelor pompei, consultaţi Figura 24 la pagina 395.
+
+Precauții
+
+1. Întregul sistem de conducte este gol:
+
+a) Deschideţi supapa pornit-oprit aflată în amon‐
+
+AVERTISMENT:
+Pericole fizice și termice
+
+te faţă de pompă.
+b) Scoateţi buşonul de umplere (3) şi buşonul de
+
+• Purtaţi întotdeauna echipament indi‐
+vidual de protecţie.
+• Verificați dacă este instalată protec‐
+ția cuplajului.
+
+calibrare (1). Utilizaţi o pâlnie pentru a umple
+pompa prin orificiul de umplere până când
+apa iese prin acest orificiu.
+c) Strângeți bușonul de umplere (3) și bușonul
+
+de calibrare (1).
+
+AVERTISMENT:
+
+2. Sistemul de conducte de evacuare este plin:
+
+• Asiguraţi-vă că lichidul drenat nu pro‐
+voacă defecţiuni sau răni.
+• Dispozitivele de protecţie a motorului
+pot determina ca motorul să repor‐
+
+234

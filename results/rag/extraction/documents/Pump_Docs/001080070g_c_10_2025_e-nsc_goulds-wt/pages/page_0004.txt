@@ -1,0 +1,109 @@
+it 
+Sicurezza 
+dell'utilizzatore
+
+AVVERTENZA: 
+L'utilizzo dell’unità è riservato esclusivamente a personale qualificato. Con 
+personale qualificato s’intendono le persone che sono in grado di riconoscere i rischi 
+e di evitare i pericoli durante l’installazione, l’uso e la manutenzione dell’unità. 
+en 
+User safety 
+WARNING: 
+This unit must be used only by qualified users. Qualified users are people able to 
+recognise the risks and avoid hazards during installation, use and maintenance of 
+the unit. 
+fr 
+Sécurité de 
+l'utilisateur
+
+AVERTISSEMENT : 
+Cette unité doit être utilisée uniquement par des utilisateurs qualifiés. Les 
+utilisateurs qualifiés sont en mesure de reconnaître les risques et d'éviter les 
+dangers pendant l'installation, l'utilisation et la maintenance de l'unité. 
+de 
+Sicherheit des 
+Benutzers
+
+WARNUNG: 
+Dieses Gerät darf nur von qualifizierten Benutzern verwendet werden. Qualifizierte 
+Benutzer sind Personen, die in der Lage sind, Risiken zu erkennen und Gefahren 
+bei der Installation, der Verwendung und der Wartung des Gerätes zu vermeiden. 
+es 
+Seguridad del 
+usuario
+
+ADVERTENCIA: 
+Esta unidad tiene que ser utilizada exclusivamente por usuarios cualificados. Con 
+la definición "usuarios cualificados" se entiende cualquier persona capaz de 
+reconocer riesgos y evitar peligros durante la instalación, el uso y el mantenimiento 
+de la unidad. 
+pt 
+Segurança do 
+utilizador
+
+ATENÇÃO: 
+Este produto só deve ser utilizado por utilizadores qualificados. Os utilizadores 
+qualificados são capazes de reconhecer e evitar riscos durante a instalação, a 
+utilização e a manutenção do produto. 
+nl 
+Veiligheid van de 
+gebruiker
+
+POUCZENIE:
+
+WAARSCHUWING: 
+Deze unit mag alleen gebruikt worden door gekwalificeerde gebruikers. 
+Gekwalificeerde gebruikers zijn personen die de risico’s en gevaren kunnen 
+herkennen en vermijden tijdens de installatie, het gebruik en het onderhoud van de 
+unit. 
+da 
+Brugersikkerhed 
+ADVARSEL: 
+Denne enhed må kun bruges af kvalificerede brugere. Kvalificerede brugere er folk, 
+der er i stand til at genkende risiciene og undgå farer under installation, brug og 
+vedligeholdelse af enheden. 
+no 
+Brukersikkerhet 
+ADVARSEL: 
+Denne enheten må kun brukes av kvalifiserte brukere. Kvalifiserte brukere er 
+personer som er i stand til å gjenkjenne farene og unngå dem under installasjon, 
+bruk og vedlikehold av enheten. 
+sv 
+Användarsäkerhet 
+VARNING: 
+Enheten får endast användas av kvalificerade användare. Kvalificerade användare 
+är personer som är kapabla att identifiera och förebygga risker vid installation, 
+användning och underhåll av enheten. 
+fi 
+Käyttäjäturvallisuus 
+VAROITUS: 
+Tätä yksikköä saavat käyttää vain pätevät käyttäjät. Pätevät käyttäjät ovat 
+henkilöitä, jotka kykenevät tunnistamaan riskit ja välttämään vaaroja yksikön 
+asennuksen, käytön ja huollon aikana. 
+is 
+Öryggi notanda 
+AÐVÖRUN: 
+Aðeins hæfir notendur mega nota eininguna. Hæfir notendur eru manneskjur sem 
+geta þekkt áhættur og forðast hættur við uppsetningu, notkun og viðhald á 
+einingunni. 
+et 
+Kasutaja ohutus 
+HOIATUS: 
+Seda seadet võivad kasutada ainult kvalifitseeritud kasutajad. Kvalifitseeritud 
+kasutajad on võimelised tuvastama ja vältima ohte seadme paigaldamise, 
+kasutamise ja hooldamise ajal 
+lv 
+Lietotāja drošība 
+BRĪDINĀJUMS 
+Iekārtu drīkst izmantot tikai kvalificēti lietotāji. Kvalificēti lietotāji ir cilvēki, kas spēj 
+atpazīt riskus un izvairīties no bīstamības iekārtas uzstādīšanas, lietošanas un 
+apkopes darbu laikā. 
+lt 
+Naudotojo sauga 
+ĮSPĖJIMAS 
+Šį įrenginį gali naudoti tik kvalifikuoti specialistai. Kvalifikuoti naudotojai geba 
+atpažinti rizikas ir vengti pavojų montavimo metu, žino, kaip tinkamai naudoti ir 
+prižiūrėti įrenginį. 
+pl 
+Bezpieczeństwo 
+użytkownika

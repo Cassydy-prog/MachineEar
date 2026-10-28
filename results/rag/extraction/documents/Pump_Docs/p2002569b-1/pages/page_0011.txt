@@ -1,0 +1,34 @@
+Specific Series A-C 2000 close-coupled 
+pumps instruction
+
+Pump identification
+
+There are two identification plates on each pump. 
+The pump rating plate gives identification and rating 
+information. Figure 3 shows an example of a typical 
+Rating Plate.
+
+Permanent records for this pump are kept by the 
+Serial Number and it must, therefore, be used with 
+all correspondence and spare parts orders. The last 
+digit indicates the specific pump on orders for more 
+than one pump. For example, if an order called for six 
+pumps, all pumps would have the same first three sets 
+of digits and the last digit will change to identify each 
+of the six. (e.g. 1-21938-1-1, 1-21938-1-2, etc.)
+
+Figure 3 - Rating Plate
+
+The identification number is a number which the end 
+user of the pump requests to be put on the rating 
+plate to identify the pump in his operation. (e.g. 
+CWP-11 stands for Chilled Water Pump No. 11.)
+
+The frame plate, Figure 4, gives information 
+concerning the bearing and their lubrication. The 
+inboard and outboard bearing numbers refer to the 
+bearing manufacturer's numbers.
+
+Figure 4 - Frame Plate
+
+11

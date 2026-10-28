@@ -1,0 +1,208 @@
+a. Les pièces des équipements DWDI sont assemblées
+
+séparément ou en pièces détachées. Voir les instructions don­
+nées précédemment concernant la manutention correcte des 
+éléments de ventilateur. L’assemblage doit seulement être fait 
+par un personnel formé et familier avec l’assemblage de ce type 
+d’équipement.
+
+1.
+Placer la partie inférieure du cadre à l’emplacement où il
+doit être monté (cadres partagés).
+
+dans l’ordre suivant, vues de côté opposé au mécan­
+isme d’entraînement. Assemblage de la barre de palier
+et du palier opposé, cône (côté cadre), roue, (côté
+cadre), cône, assemblage de la barre de palier côté
+mécanisme d’entraînement, palier d’entraînement et
+poulies. Monter l’assemblage de la barre de palier au
+cadre. Centrer la roue dans les cônes.
+
+b. Les pièces des équipements DWDI sont assemblées
+
+2.
+Enlever le traîneau, les caisses et le matériel d’emballage avec
+soin.
+
+3.
+Si une isolation contre les vibrations est utilisée, placer
+cette isolation sur les boulons de montage. Aligner les
+trous de la base avec les boulons.
+
+dans l’ordre suivant, vues de côté opposé au mécanisme
+d’entraînement. Assemblage de la barre de palier et du
+palier opposé, cône (côté cadre), roue, (côté cadre),
+assemblage de la barre de palier côté mécanisme
+d’entraînement, palier d’entraînement et poulies. Monter
+l’assemblage de la barre de palier au cadre.
+
+c. Assembler les pièces sur l’arbre dans l’ordre ci-dessus.
+
+4.
+Placer le cadre inférieur sur la structure de montage.
+Niveler l’unité avec soin sur la fondation et caler comme
+nécessaire utilisant des cales en acier inoxydable des deux
+côtés de chaque boulon d’ancrage.
+
+Figure 3. Assemblage des Éléments de l’entraînement
+
+5.
+Si le(s) socle(s) de palier est/sont séparé, installer le(s)
+maintenant.
+
+a. Installer le(s) socle(s) de palier dans sa/leur position de
+
+montage.
+
+b. Installer la base de vibration, si applicable. Fixer le(s)
+
+socle sur le(s) boulon(s).
+
+c. Ne pas déformer le socle de palier en le forçant à
+
+s’aligner sur une fondation inégale. Calez-le si néces­
+saire.
+
+d. Vérifier la hauteur de l’axe de palier. Ajuster cette hau­
+
+d. Placer l’assemblage en position. Boulonner légèrement
+
+les paliers en position.
+
+teur pour qu’elle corresponde avec celle de l’axe du
+cadre. Les machines haute température doivent avoir
+leur axe de cadre plus basse quand elles sont froides
+afin qu’il soit centré lorsqu’elles sont chaudes.
+
+e. L’arbre doit être parallèle à l’évacuation du cadre.
+
+e. Placer le socle de palier d’équerre avec le cadre en
+
+Déplacer les paliers pour les ajuster. Suivre les instruc­
+tions pour alignement de palier selon l’étape 5 de la
+section Unités assemblées en usine ci-dessus.
+
+utilisant des mensurations précises ou une équerre de
+grande taille.
+
+f.
+Boulonner le socle en position.
+
+f.
+Mettre l’arbre à niveau, caler les paliers si nécessaire.
+Serrer les vis sans tête des paliers.
+
+6.
+Si la roue et l’arbre ont été expédié séparément, vous
+devez maintenant installer l’arbre dans la roue.
+
+9.
+Installer le moteur sur sa base. Aligner soigneusement les
+arbres pour l’installation de l’entraînement.
+
+a. Utiliser d’abord un solvant pour enlever l’enduit protect­
+
+10.
+Monter les entraînements comme suit:
+
+a. Faire glisser (ne pas marteler) la poulie adéquate
+
+eur de l’arbre. Inspecter toutes les surfaces pour corro­
+sion ou éraflures et le nettoyer avec une toile émeri ou
+une pierre si nécessaire, Après avoir nettoyé l ; arbre
+consciencieusement avec un solvant, ne plus le toucher
+à mains nues; la transpiration peut causer de la rouille
+ou de la corrosion avec le temps.
+
+sur l’arbre correspondant. ATTENTION: PLACER LA
+POULIE DE VENTILATEUR SUR LE MOTEUR PEUT
+FAIRE TOURNER LA ROUE A GRANDE VITESSE ET
+PROVOQUER UNE DÉFAILLANCE STRUCTURELLE.
+
+b. Ôter les clavettes de l’arbre.
+
+b. Aligner les poulies avec une règle de précision étendue
+
+c. Nettoyer l’intérieur de l’orifice de la roue avec un solvant.
+
+S’assurer que les vis sans tête ne vont pas interférer
+lors de l’insertion de l’arbre dans l’orifice de la roue.
+
+le long du périmètre des deux poulies, en la faisant
+juste toucher le périmètre externe de chaque poulie
+(voir figure 5). L’alignement parallèle doit être moins de
+5mm par mètre de la distance au centre. Le désaligne­
+ment angulaire doit être moins de 1 degré.
+
+7.
+Montage 1, 9 ou 10: Assemblage de l’Élément
+d’Entrainement:
+
+c. Serrer les boulons de poulies.
+
+a. Insérer l’arbre dans la roue par l’arrière de la roue
+
+d. Installer un jeu de courroies. Ajuster la tension des
+
+(Fig. 3).
+
+courroies comme indiqué dans la section Montage du
+
+b. Lorsque l’arbre est aligné avec le moyeu de la roue,
+
+Figure 4. Assemblage des Éléments de cadre séparé.
+
+placer la clavette dans son logement et serrer les vis
+sans tête (pour les moyeux avec trous droits), ou, pour
+les moyeux à manchons, serrer progressivement les
+boulons de manchons selon le Tableau 3. Noter les
+valeurs de couple de serrage mesurées.
+
+Côtés cadre
+
+c. Insérer l’arbre dans l’ouverture du mécanisme d’entraînement.
+
+Cheminée d’admission
+
+Roue
+
+(Dans le cas d’un cadre séparé, baisser en position.)
+
+Palier
+
+Poulie
+
+d. Installer les paliers sur l’arbre. Ne pas serrer les vis de
+
+Palier Arbre,
+Cône, et  Cadre
+Assemblés Angles 
+du bâti non représentés.
+
+Axe central
+
+de l’arbre
+
+paliers maintenant. Le cadre du palier doit être perpen­
+diculaire et le socle de palier parallèle à l’axe de l’arbre
+pour éviter les charges dues à un mauvais alignement.
+
+Socle du
+
+palier
+
+e. Monter l’ensemble, et boulonner les paliers sur le
+
+support du mécanisme d’entraînement. L’arbre doit être
+parallèle au côté du socle de palier.
+
+système d’entraînement, étape 3.
+
+8.
+Montage 3 (cadre séparé) (voir Figure 4):
+
+e. Tendre les courroies à la tension correcte. Noter la
+
+4
+
+IM-2-06

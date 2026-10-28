@@ -1,0 +1,183 @@
+3.
+Si une isolation contre les vibrations est utilisée, placer
+cette isolation sur les boulons de montage. Aligner les
+trous de la base du ventilateur comme indiqué sur le plan
+de fondations du dessin soumis au client.
+
+Le dessin du plan de fondations faisant partie de l’offre au 
+client indique la taille hors-tout du montage et l’emplacement 
+des ventilateurs.
+	
+Si une base d’acier ou une plate-forme est utilisée, la struc­
+ture doit être conçue pour le poids du ventilateur, les charges 
+mobiles imposées par la rotation de l’arbre et de l’actionneur, 
+et toute charge mobile externe. La structure doit être conçue 
+pour assurer qu’aucune fréquence naturelle ne se produise dans 
+les 30% de la vitesse du ventilateur. Ceci est particulièrement 
+valide si la structure doit supporter plus d’un ventilateur.
+
+Tous les conduits doivent posséder un support indépendant.
+
+Figure 2. Section de fondation typique
+
+4.
+Consulter tous les dessins spécifiques à la soumission
+du ventilateur pour une installation, un positionnement et
+un montage corrects. Placer le ventilateur sur la structure
+de montage. Niveler l’unité avec soin (vérifier que l’arbre
+est de niveau) sur la fondation et caler comme néces­
+saire utilisant des cales en acier inoxydable des deux
+côtés de chaque boulon d’ancrage. Les boulons d’ancrage
+doivent être pré-serrés selon le Tableau 1. Pour des bou­
+lons métriques ou tout autre matériel non inclus dans le
+Tableau 1, vérifier le couple de serrage correct avec le
+fabricant de boulons. (voir détails spécifiques aux ventila­
+teurs commerciaux dans l’Annexe A pour cette étape).
+
+5.
+Vérifier l’alignement des paliers. Caler ou repositionner les
+paliers si nécessaire. Dans bien des roulements à rouleaux à
+boîtiers séparables, l’espace entre le porte-joint et le boîtier
+peut être mesuré avec un calibre à lames. La variation de
+cet espace doit être moins de la moitié de l’espace maxi­
+mum mesuré. Dans le cas des roulements à rouleaux pour
+lesquels cet espace n’est pas visible, l’alignement peut être
+vérifié en s’assurant que le roulement est d’équerre avec
+le dessus du socle. Dans le cas des roulements à billes,
+la bague externe pivote dans le boîtier pour accommoder
+un léger désalignement. Vérifier que les vis de fixation du
+roulement, les boulons de boîtier, et les bagues sont serrés
+selon les Tableaux 2a, 2b et 2c.
+
+NOTES:
+¿
+Moule temporaire pour le cimentage.
+¡
+Écrous hex, rondelle d’arrêt à bague fendue, et rondelles plates ou biaises.
+¬
+1" to 1.5" de jeu pour cimentage à remplir avec enduit de jointement
+pour machines irrétrécissable.
+√
+Manchon de boulon d’un diamètre 2 à 2,5 fois celui du boulon pour
+corriger les erreurs d’alignement.
+ƒ	
+S’assurer que les manchons des boulons d’ancrage sont remplis d’enduit 
+de jointement.
+≈
+Les boulons de type L doivent être fixés sur les barres d’armature des
+fondations.
+≤
+La surface de calage doit être lisse, plane, et dressée si nécessaire.
+«
+Cales d’acier inoxydable toute largeur.
+»
+Angle de support du ventilateur ou base d’acier.
+…	
+Les boulons de nivellement, s’ils sont utilisés, doivent être relâchés après
+calage pour un serrage final des écrous hex.
+
+6.
+Vérifier l’alignement des poulies pour les ventilateurs à cour­
+roies. L’alignement parallèle doit être dans une tolérance de
+5mm par mètre de la distance au centre. Le désalignement
+angulaire doit être moins de 1 degré. Vérifier et noter la
+tension des courroies pour s’assurer qu’elle est suffisante.
+La tension de courroie correcte est indiquée sur la fiche
+technique jointe. Si la tension de la courroie doit être ajus­
+tée, les instructions pour tendre la courroie sont données
+dans la section Mécanisme d’Entraînement de ce manuel.
+Les poulies des ventilateurs entraînés par courroies sont
+souvent fournies avec des manchons coniques fendus. Lors
+du serrage des boulons du manchon, procéder de manière
+progressive pour éviter de biaiser la surface effilée entre le
+manchon et la poulie. Les spécifications pour la torque des
+boulons à manchons sont données dans le Tableau 3.
+
+7.
+Vérifier l’alignement des accouplements montés en usines,
+ils sont sujets à se fausser durant le transport. Réaligner si
+nécessaire selon les instructions jointes à l’expédition. NOTE:
+La plupart des accouplements doivent être lubrifiés.
+
+8.
+S’assurer qu’il n’y a pas de frottement ou de gêne et que les
+espaces ou chevauchements entre le cône d’entrée de et la
+roue et le cadre sont corrects. Les valeurs de chevauchement
+ou autres dimensions pour vérifier que la roue est dans une
+position correcte sont incluses dans les spécifications particu­
+lières au ventilateur. Le jeu de la roue doit être vérifié afin
+de correspondre à la valeur spécifiée et doit être uniforme.
+Les valeurs mesurées doivent être notées.
+
+9.
+Vérifier le serrage de la roue sur l’arbre selon le Tableau
+4. Le couple de serrage mesuré doit être noté.
+
+10.
+Vérifier le serrage des boulons de fondation, des boulons
+de montage du moteur, et les boulons de montage des
+roulements selon le Tableau 1. Pour les boulons ou grades
+métriques non spécifié dans le Tableau 1, vérifier la valeur
+de couple de serrage correcte avec le fabricant du boulon.
+
+Ne pas utiliser le ventilateur pour soutenir des conduites. Le 
+cadre du ventilateur peut être conçu pour supporter des charges 
+externes. Consulter l’usine si ceci est une préoccupation. Le 
+fait d’isoler le ventilateur des conduits de distribution avec des 
+raccords flexibles élimine la transmission des vibrations. Les 
+ventilateurs traitant des gaz chauds requièrent des raccords de 
+dilatation à l’admission et à l’évacuation afin d’empêcher les 
+charges excessives dues à la montée en température. Voir la 
+publication AMCA 201 pour de bonnes pratiques concernant la 
+géométrie et la configuration de conduits de distribution. Quand 
+cela est possible, les conduits de distribution seront placés où il 
+y a le mois de risques pour le personnel de trébucher, marcher 
+ou tomber sur les conduits de distribution. Si cela n’est pas 
+possible, des avertissements doivent identifier ce risque.
+	
+Voir l’appendice A Instructions d’installation de ventilateurs 
+commerciaux pour les détails de fondations des ventilateurs 
+commerciaux.
+	
+Les ventilateurs ne doivent pas être installés au-dessous 
+d’autres machines où il y a risque de liquides nuisibles tombant 
+sur les ventilateurs de par en haut.
+	
+Les ventilateurs doivent être installés dans une location facile­
+ment accessible au personnel de maintenance, de telle façon que 
+ce personnel n’ait pas à se voûter ou à ramper pour les accéder.
+
+11.
+S’assurer que les roulements sont lubrifiés et vérifier
+le niveau d’huile dans les systèmes de lubrification par
+barbotage (si fourni).
+
+12.
+Installer tous les accessoires envoyés non montés de l’usine.
+
+Installation du ventilateur – Unités Assemblées en Usine
+Instructions générales pour ventilateurs centrifuges industriels- Pour 
+les ventilateurs axiaux et les ventilateurs commerciaux, suivre les 
+étapes ci-dessous tout en prêtant attention aux instructions spéci­
+fiques à ces types de ventilateurs dans les Annexes A et B.
+Suivre les instructions de manutention correctes comme 
+décrites précédemment.
+
+1.
+Placer le ventilateur dans sa position de montage finale.
+
+Installation du ventilateur- Unités non Assemblées
+Instructions générales pour ventilateurs centrifuges industriels- Pour 
+les ventilateurs axiaux(y compris les dispositions de montage pour 
+ventilateurs commerciaux en ligne), suivre les instructions de mon­
+tage de ventilateurs ci-dessus et utiliser l’Annexe B pour les détails 
+d’assemblage.
+	
+Une machine est considérée non assemblée si un quelconque 
+élément nécessaire à son fonctionnement est expédié ou fourni
+
+2.
+Enlever le traîneau, les caisses et le mat riel d’emballage
+avec soin.
+
+IM-2-06

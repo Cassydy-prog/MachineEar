@@ -1,0 +1,225 @@
+11. Controlling Pumps with Adjustable Speed Drives
+
+Reduced Speed
+
+180
+
+Direction of the Shift as 
+Speed Decreases
+
+160
+
+Performance  
+Curve
+
+140
+
+BEP
+
+Efﬁciency (%)
+
+Efﬁciency
+
+70
+
+Head
+
+120
+
+(ft)
+
+60
+
+100
+
+50
+
+12
+
+80
+
+40
+
+bhp
+
+60
+
+8
+
+30
+
+40
+
+bhp
+
+20
+
+4
+
+10
+
+20
+
+0 
+0
+
+0
+
+0 
+50 
+100 
+150 
+200 
+250 
+300
+
+Flow (gpm)
+
+often reveals opportunities for reducing operating 
+costs. For example, in many systems, increasing 
+flow through bypass lines does not have a 
+noticeable impact on the backpressure on a pump. 
+Consequently, in these applications, pump 
+efficiency does not necessarily decline during 
+periods of low flow demand. However, analyzing 
+the entire system allows operators to identify the 
+energy lost in pushing fluid through bypass lines 
+and across throttle valves. Figure 19 depicts 
+energy losses attributable to bypass valve 
+operation; Figure 20 depicts energy losses 
+attributable to throttling. (Note that Figures 19 
+and 20 are illustrative and do not represent actual 
+pump curves.)
+
+Figure 18. Effects of Reducing Speed on a Pump’s 
+Operating Characteristics
+
+200
+
+180
+
+Original System 
+Curve
+
+160
+
+System Curve with 
+Open Bypass Line
+
+140
+
+Head
+
+Fluid Energy Lost to Bypass
+
+120
+
+(ft)
+
+100
+
+deciding whether to use ASDs. Operators should 
+review the performance of ASDs in similar 
+applications and consult ASD manufacturers to 
+avoid the damage that can result when a pump 
+operates too slowly against high-static-head 
+conditions.
+
+80
+
+Actual Flow
+
+60
+
+Required Flow
+
+40 
+20
+
+0
+
+0 
+50 
+100 
+150 
+200 
+250
+
+Flow (gpm)
+
+Figure 19. Power Lost through a Bypass Line
+
+200
+
+180
+
+Pump Curve
+
+160
+
+140
+
+Fluid Energy Lost to Throttling
+
+Head
+
+120
+
+(ft)
+
+100
+
+ Pump Operating Efficiency Improvements
+For many systems, VFDs can help to improve 
+pump operating efficiency despite changes in 
+operating conditions. The effect of slowing pump 
+speed on pump operation is illustrated by the three 
+curves in Figure 18. When a VFD slows a pump, 
+its head/flow and brake horsepower (bhp) curves 
+drop down and to the left, and its efficiency curve 
+shifts to the left. This efficiency response provides 
+an essential cost advantage; keeping the operating 
+efficiency as high as possible across variations in 
+the system’s flow demand can reduce the energy 
+and maintenance costs of the pump significantly. 
+VFDs can also be used with positive displacement 
+pumps.
+
+80
+
+System Curve  
+after Throttling 
+Required Flow
+
+60
+
+Original System 
+Curve
+
+40 
+20
+
+0
+
+0 
+50 
+100 
+150 
+200 
+250
+
+ System Operating Efficiency Improvements
+VFDs can provide operating cost reductions by 
+increasing a pump’s operating efficiency. 
+However, the majority of savings derive from the 
+reduction in frictional or bypass flow losses.
+
+Flow (gpm)
+
+Figure 20. Fluid Power Lost across a Throttle Valve
+
+Using a system perspective to identify areas in 
+which fluid energy is dissipated in nonuseful work
+
+52
+Improving Pumping System Performance

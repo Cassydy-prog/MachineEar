@@ -1,0 +1,218 @@
+sv - Översättning av orginal instruktioner
+
+Säkerhetsåtgärder
+
+Materialnum‐
+
+Material hus/
+
+Standard/tillval
+
+mer
+
+pumphjul
+
+VARNING!:
+
+CC
+Gjutjärn/gjutjärn
+Standard
+
+CB
+Gjutjärn/brons
+Standard
+
+Standard
+
+CS
+Gjutjärn/
+Rostfritt stål
+
+Standard
+
+CN
+Gjutjärn/
+Rostfritt stål
+
+• Iaktta gällande förordningar för
+olycksförebyggande åtgärder.
+• Använd lämplig utrustning och skydd.
+• Hänvisa alltid till gällande lokala och/
+eller nationella föreskrifter och lag‐
+stiftningar angående val av installa‐
+tionsplats samt rör- och strömanslut‐
+ningar.
+
+DC
+Segjärn/gjutjärn
+Standard
+
+Risk för elstötar:
+
+DB
+Segjärn/brons
+Standard
+
+DN
+Segjärn/rostfritt
+
+Standard
+
+stål
+
+NN
+Rostfritt stål/
+
+Standard
+
+Rostfritt stål
+
+RR
+Duplex/duplex
+Tillval
+
+• Säkerställ att alla anslutningar är ut‐
+förda av kvalificerade installationstek‐
+niker och i enlighet med gällande fö‐
+reskrifter.
+• Säkerställ att enheten och manöver‐
+panelen är isolerade från strömför‐
+sörjningen och inte kan spänningsför‐
+sörjas innan arbete på enheten på‐
+börjas. Det här gäller även styrkret‐
+sen.
+
+3.6  Mekanisk tätning
+
+Jord (jordning)
+
+En obalanserad mekanisk tätning enligt EN 12756,
+version K.
+
+SV
+
+Risk för elstötar:
+
+3.7  Användningsgränser
+
+Maximalt arbetstryck
+
+Figur 4 på sidan 367 visar det maximala arbetstryck‐
+et beroende på pumpmodellen och temperaturen på
+vätskan som pumpas.
+P1max + Pmax≤ PN
+
+P1max
+Maximalt inloppstryck
+
+Pmax
+Maximalt tryck genererat av pumpen
+
+PN
+Maximalt driftstryck
+
+Vätsketemperaturområden
+
+Figur 4 på sidan 367 visar arbetstemperaturområde‐
+na.
+Kontakta försäljnings- och serviceavdelningen om
+särskilda krav föreligger.
+
+• Anslut alltid den externa skyddsleda‐
+ren till jordplinten innan andra elekt‐
+riska anslutningar görs.
+• All elektrisk utrustning måste jor‐
+das. Detta gäller pumputrustningen,
+motorn och eventuell övervaknings‐
+utrustning. Testa jordledningen (jord‐
+ning) för att bekräfta att den är kor‐
+rekt ansluten.
+• Om motorkabeln rycks loss av miss‐
+tag ska jordledningen vara den sista
+ledningen som lossas från plinten.
+Kontrollera att jordledningen är längre
+än fasledarna. Detta gäller båda än‐
+darna av motorkabeln.
+• Lägg till ytterligare skydd mot dödlig
+stöt. Installera en högkänslig differen‐
+tialbrytare (30 mA) [RCD, residual cur‐
+rent device, jordfelsbrytare].
+
+Max. antal starter per timme
+
+4.1  Anläggningskrav
+
+18,5
+
+4.1.1  Pumpens placering
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+60
+40
+30
+24
+16
+8
+4
+
+FARA:
+Använd inte enheten i omgivningar som
+kan innehålla brännbara/explosiva eller
+kemiskt aggressiva gaser eller pulver.
+
+Star‐
+ter
+per
+tim‐
+ma
+
+Riktlinjer
+
+Ljudnivå
+
+Observera följande riktlinjer för placeringen av pro‐
+dukten:
+
+Se Tabell 9 på sidan 368 för information om ljud‐
+trycksnivåerna för pumpar utrustade med den leve‐
+rerade standardmotorn.
+För ljudtrycksnivåer för pump utan motor, se Tabell
+10 på sidan 372.
+
+• Kontrollera att inga hinder hejdar det normala
+flödet av kylande luft som levereras av motorfläk‐
+ten.
+• Se till att installationsområdet skyddas från even‐
+tuella läckande vätskor, eller översvämning.
+• Placera om möjligt pumpen något över golvni‐
+vån.
+
+4  Installation
+
+113

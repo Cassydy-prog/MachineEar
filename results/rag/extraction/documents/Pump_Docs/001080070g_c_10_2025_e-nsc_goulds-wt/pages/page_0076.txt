@@ -1,0 +1,158 @@
+pt - Tradução do original
+
+Bombas com rolamentos novamente lubrifi‐
+cados
+
+AVISO:
+Após o arranque inicial e assim que a temperatura
+de funcionamento for alcançada, verifique o alinha‐
+mento do acoplamento da unidade, consulte Verifi‐
+cação e alinhamento do acoplamento na página 69 .
+
+• Volte a lubrificar às 4.000 horas de funcionamen‐
+to, mas pelo menos uma vez por ano. Em primei‐
+ro lugar, limpe o bocal de lubrificação (SN).
+• Utilize massa de gama 2 NLGI ou equivalente.
+Contacte o representante de vendas e assistência
+local devido a quaisquer solicitações ou informa‐
+ções.
+
+Rolamentos do motor
+
+A responsabilidade pela verificação do fluxo e tem‐
+peratura correctos do líquido bombeado é do insta‐
+lador ou proprietário.
+Antes de colocar a bomba a funcionar, certifique-se
+de que:
+
+Após aproximadamente cinco anos, a massa lubrifi‐
+cante nos rolamentos do motor já está tão usada
+que é recomendada a substituição dos rolamentos.
+Os rolamentos devem ser substituídos após 25.000
+horas de funcionamento ou de acordo com as ins‐
+truções de manutenção do fornecedor do motor,
+consoante o período mais curto.
+
+• A bomba está correctamente ligada à fonte de
+alimentação.
+• A bomba está cheia correctamente de acordo
+com as instruções em Encher a bomba (capítulo
+5).
+• A válvula de ligar-desligar localizada a jusante da
+bomba está fechada.
+
+PT
+
+1. Inicie o motor.
+
+Motor com rolamentos novamente lubrifica‐
+dos
+
+2. Abra gradualmente a válvula de ligar-desligar no
+lado da descarga da bomba.
+
+Siga as instruções de manutenção do fornecedor do
+motor.
+
+Acoplamento
+
+Nas condições de funcionamento esperado, a
+bomba deve funcionar sem problemas e silencio‐
+samente. Caso contrário, consulte Resolução de
+problemas na página 72 .
+
+6  Manutenção
+
+Verifique a folga nos elementos do acoplamento
+regularmente, pelo menos, uma vez por ano. Reco‐
+mendamos a verificação a cada 1000 horas de fun‐
+cionamento ou trimestralmente, o que ocorrer pri‐
+meiro.
+
+Precauções
+
+6.2  Inspecção da lista de verificação
+
+Choque elétrico:
+Desligue e bloqueie a electricidade antes
+de instalar ou efectuar manutenção à
+unidade.
+
+ADVERT.:
+
+Verificar o acoplamento
+Verifique os elementos
+flexíveis do acoplamen‐
+to. Substitua as peças re‐
+levantes se existir qual‐
+quer sinal de desgaste e
+verifique o alinhamento.
+
+Verificar o vedante me‐
+cânico
+
+Verifique se existem fu‐
+gas no vedante mecâni‐
+co. Caso existam fugas,
+substitua o vedante me‐
+cânico.
+
+• A manutenção e a assistência devem
+ser efectuadas apenas por pessoal
+qualificado.
+• Observe as regulamentações de pre‐
+venção de acidentes em vigor.
+• Utilize equipamento e protecção ade‐
+quados.
+• Certifique-se de que o líquido drena‐
+do não causa danos nem lesões.
+
+Verificar os vedantes do
+rolamento
+
+Verifique o assento cor‐
+recto dos anéis do ve‐
+dante axial montados
+no eixo. Apenas deve
+ser estabelecido contac‐
+to suave na bica do ve‐
+dante.
+
+Verifique por um funcio‐
+namento silencioso
+
+Verfique frequentemente
+pelo funcionamento si‐
+lencioso da bomba com
+ferramentas de medição
+da vibração.
+
+6.1  Serviço
+Se o utilizador pretender agendar prazos de manu‐
+tenção regulares, eles estão dependentes do tipo de
+líquido bombeado e das condições de funcionamen‐
+to da bomba.
+Contacte um representante de vendas e assistência
+para qualquer solicitação ou informação sobre a as‐
+sistência ou manutenção de rotina.
+Pode ser necessária uma manutenção extraordiná‐
+ria para limpar a saída do líquido e/ou substituir as
+peças gastas.
+
+Bombas com rolamentos lubrificados duran‐
+te toda a vida útil
+
+6.3  Desmontagem e substituição das peças
+da bomba
+Para obter mais informações acerca das peças so‐
+bresselentes e da montagem e desmontagem da
+bomba, contacte um representante de vendas e as‐
+sistência.
+
+Bombas com rolamentos lubrificados durante toda
+a vida útil não necessitam de manutenção de rotina
+programada.
+
+7  Resolução de problemas
+
+72

@@ -1,0 +1,173 @@
+et - Originaali tõlkimine
+
+Ühenduslüli
+
+• Pump on toiteallikaga õigesti ühendatud.
+• Pump on õigesti täidetud lähtuvalt juhistest jaoti‐
+ses Pumba täitmine (peatükk 5).
+• Pumbast allavoolu asuv sulgeklapp on suletud.
+
+1. Käivitage mootor.
+
+Kontrollige ühenduslülide töövahet korrapäraselt, vä‐
+hemalt kord aastas. Soovitame kontrollida iga 1000
+töötunni või iga kolme kuu järel, olenevalt sellest,
+kumb tuleb enne.
+
+6.2  Ülevaatuse kontroll-loend
+
+2. Avage järk-järgult sulgeklapp pumba väljalaske‐
+küljel.
+
+Eeldatavatel töötingimustel peab pump toimima
+sujuvalt ja vaikselt. Kui ei, vt jaotist Tõrkeotsing
+leheküljel 152.
+
+6  Hooldus
+
+Kontrollige sidurit
+Kontrollige siduri paindu‐
+vaid osasid. Vahetage
+välja kõik kulumismärki‐
+dega osad ja kontrollige
+joondust.
+
+Ettevaatusabinõud
+
+Kontrollige mehaanilist
+tihendit
+
+Kontrollige mehaaniliselt
+tihendilt lekkeid. Kui lek‐
+ke leiate, vahetage me‐
+haaniline tihend välja.
+
+Elektrilöögi oht:
+Enne seadme paigaldamist tuleb elektri‐
+toide välja lülitada ja lukustada.
+
+Laagritihendite kontrolli‐
+mine
+
+HOIATUS:
+
+Kontrollige võllile paigal‐
+datud aksiaalsete tihen‐
+dirõngaste õiget asetust.
+Lubatud on ainult õrn
+kokkupuude.
+
+Kontrollige, kas pump
+töötab vaikselt
+
+Kontrollige sageli vibrat‐
+siooni mõõtevahendite‐
+ga, kas pump töötab
+vaikselt.
+
+• Hooldus- ja parandustöid võivad teos‐
+tada vaid vastava väljaõppe ning kva‐
+lifikatsiooniga töötajad.
+• Järgige kõiki ohutusnõudeid.
+• Kasutage nõuetekohaseid seadmeid
+ja kaitsmeid.
+• Veenduge, et väljutatud vedelik ei
+põhjustaks kahjustusi või kehavigas‐
+tusi.
+
+ET
+
+6.3  Pumba osade lahtivõtmine ja
+asendamine
+Pumba varuosade, monteerimise ja lahtivõtmise
+kohta lisateabe saamiseks võtke ühendust kohaliku
+müügi- ja teenindusesindajaga.
+
+7  Tõrkeotsing
+
+7.1  Rikkeotsing kasutajatele
+Pealüliti on sees, aga elektripump ei käivitu.
+
+6.1  Hooldustööd
+Kui kasutaja soovib planeerida korralise hoolduse
+aegu, sõltuvad need pumbatava vedeliku tüübist ja
+pumba talitlustingimustest.
+Korralise hoolduse või teeninduse läbiviimiseks või
+teabe saamiseks pöörduge kohaliku müügi- ja tee‐
+nindusesinduse poole.
+Erakorraline hooldus võib osutuda vajalikuks vedeli‐
+kuosa puhastamiseks ja/või kulunud osade väljava‐
+hetamiseks.
+
+Põhjus
+Kõrvaldamise abinõud
+
+Eluaegse määrdega laagritega pumbad
+
+Oodake pumba jahtumiseni.
+Temperatuurikaitse lähtesta‐
+takse automaatselt.
+
+Eluaegse määrdega laagritega pumbad ei vaja plaa‐
+nilist hooldust.
+
+Pumbas olev tempe‐
+ratuurikaitse (kui on
+olemas) on lahti tul‐
+nud.
+
+Taasmääritavate laagritega pumbad
+
+Kontrollige vedeliku taset
+mahutis või toruvõrgustikus.
+
+Kuivalt töötamise
+kaitseseade on lahti
+tulnud.
+
+Elektripump käivitub, aga temperatuurikaitse lülitub
+muutliku aja tagant välja.
+
+• Määrige pärast 4000 töötundi, aga vähemalt kord
+aastas. Puhastage kõigepealt määrdenippel.
+• Kasutage NLGI 2. klassi või sellega samaväärset
+määret.
+Kui teil tekib küsimusi või soovite lisateavet, pöördu‐
+ge kohaliku müügi- ja hooldusesindaja poole.
+
+Põhjus
+Kõrvaldamise abinõud
+
+Mootori laagrid
+
+Pöörduge müügi- ja teenin‐
+dusosakonna poole.
+
+Pumbas on võõrke‐
+had (tahked või kiu‐
+dained), mis on um‐
+mistanud tiiviku.
+
+Pärast umbes viit aastat on mootori laagrites olev
+määre nii vana, et soovitatav on laagrid välja vahe‐
+tada. Laagrid tuleb välja vahetada pärast 25 000
+töötundi või mootori tarnija hooldusjuhiste järgi, läh‐
+tudes sellest, kumb aeg on lühem.
+
+Uuesti määritavate laagritega mootor
+
+Järgige mootori tarnija hooldusjuhiseid.
+
+Pumbal on ülekoor‐
+mus, sest see pum‐
+pab liiga tihedat ja
+viskoosset vedelikku.
+
+Kontrollige tegelikke nõudmi‐
+si võimsusele, lähtudes pum‐
+batud vedeliku omadustest,
+ja seejärel võtke ühendust
+müügi- ja teenindusosakon‐
+naga.
+
+152

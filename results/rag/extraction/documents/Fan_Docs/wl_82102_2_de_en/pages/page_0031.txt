@@ -1,0 +1,58 @@
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+• Fatigue as a result of static overload
+
+– Setting phenomenon of axial contact
+
+• Fatigue as a result of incorrect 
+mounting
+
+areas or in thread of clamping bolts
+– Radial preload
+
+Symptoms:
+
+Like foreign particle indentations,
+rolling element indentations develop
+due to the bearing's high static overload
+and their rolled-up edges lead to failure.
+
+Fatigue near the small shoulder in the
+case of angular contact ball bearings, 
+outside the contact angle area, fig. 46.
+
+Remedial measures:
+– Rigid surrounding parts
+– Correct mounting
+
+Symptoms:
+
+Causes:
+– Insufficient adjustment
+
+At the early stage evenly edged inden-
+tations at rolling element spacing from
+which fractures arise, often only on part
+of the circumference.
+
+Only on one ring sometimes. Usually
+asymmetric to centre of  raceway.
+
+46: Fatigue damage in groove bottom of an angular contact ball bearing's inner
+ring as a result of insufficient adjustment force
+
+Causes:
+– Static overload, shock impact
+– Mounting force applied via rolling
+
+element
+
+Remedial measure:
+– Mounting according to specification
+– Avoid high impact forces, do not
+
+overload
+
+FAG
+30

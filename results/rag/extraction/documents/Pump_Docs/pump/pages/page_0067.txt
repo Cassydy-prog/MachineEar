@@ -1,0 +1,119 @@
+Section 3. The Economics of Improving Pumping Systems
+
+where C = a cost element, and
+
+being evaluated. So it is necessary to calculate a 
+present or discounted value of the LCC to assess 
+the different solutions accurately. As a result, other 
+financial factors need to be taken into consider-
+ation in developing the LCC. These include the 
+following:
+
+■	 Discount rate
+
+■	 Interest rate
+
+■	 Expected equipment life (calculation period)
+
+■	 Expected price increases for each LCC factor
+
+over the estimated lifetime of the equipment.
+
+ic	 =	initial cost or purchase price (e.g., 
+	
+	 	 of the pump, system, pipe, auxiliary 
+	
+	 	 equipment)
+	
+in	 =	installation and commissioning
+	
+e	 =	energy costs
+	
+o	 =	operating costs (the labor costs for 
+	
+	 	 normal system supervision)
+	
+m	 =	maintenance costs (e.g., parts, 
+	
+	 	 worker-hours)
+ 	
+s	 =	downtime (loss of production)
+	
+env	 =	environmental costs
+	
+d	 =	decommissioning.
+
+These elements should also include the costs 
+associated with loans, depreciation, and taxes.
+
+When used as a tool for comparing alternative 
+solutions, the LCC process will indicate the most 
+cost-effective one within the limits of available 
+data. When applying the evaluation process, or 
+selecting pumps and other equipment, the best 
+information concerning the output and operation 
+of the plant must be obtained. Using bad or 
+imprecise information results in a bad or imprecise 
+assessment. The LCC process does not guarantee 
+a particular result, but it does allow plant 
+personnel to make a reasonable comparison 
+between several alternatives.
+
+The cost of the energy consumed by pumps is 
+always a significant factor in pump life-cycle 
+costs. But many end users are already stretched 
+thin in carrying out day-to-day facility operations. 
+They lack the time and resources needed to 
+perform a methodical engineering study of the 
+pumps (sometimes hundreds of them) in their 
+facilities that will show their energy costs as well 
+as opportunities for savings.
+
+For most facilities, lifetime energy costs or 
+maintenance costs (or both) dominate life-cycle 
+costs. It is thus important to determine as 
+accurately as possible the current cost of energy 
+and the expected annual escalation in energy 
+prices over the system’s estimated life, along with 
+expected labor and material costs for maintenance. 
+Other elements, such as the lifetime costs of 
+downtime, decommissioning, and environmental 
+protection (including disposal costs), can often be 
+estimated using historical data for the facility. 
+Depending on the process, downtime costs can be 
+more important than the energy or maintenance 
+elements of the equation. Careful consideration 
+should thus be given to productivity losses caused 
+by downtime.
+
+Pumping systems often have a lifespan of 15 to 
+20 years. Thus, some costs will be incurred at the 
+outset and others will be incurred at different 
+times during the lifetimes of the different solutions
+
+LCC analysis is concerned with assessments in 
+which the details of the system design are being 
+reviewed. To make a fair comparison, the plant 
+designer or manager should consider the unit of 
+measure used. For example, if two items being 
+evaluated do not reflect the same volume of 
+output, it might be appropriate to express them in 
+terms of cost per unit of output (e.g., $/ton). The 
+analysis should take into account all significant 
+differences between the solutions being evaluated. 
+Finally, the plant designer or manager should 
+consider maintenance or servicing costs, for 
+example, when they will be subcontracted or when 
+spare parts will be provided with the initial supply 
+of equipment. Everything should be considered on 
+a comparable basis. In other words, if the plant 
+designer or manager decides to subcontract 
+maintenance or inventory spare parts strictly for 
+the sake of convenience, this criterion must be 
+used for all the systems assessed. However, if 
+maintenance of a particular component can be 
+carried out only by a subcontracted specialist, or
+
+63
+
+A Sourcebook for Industry

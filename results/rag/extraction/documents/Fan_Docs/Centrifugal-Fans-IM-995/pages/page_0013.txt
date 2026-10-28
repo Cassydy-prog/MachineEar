@@ -1,0 +1,290 @@
+IM-995
+
+Safety & Bearing Lubrication Instructions
+
+WARNING
+
+1.	 This equipment must not be operated without proper guarding of all moving parts. While performing maintenance be sure remote 
+power switches are locked off. See installation manual for recommended safety practices.
+
+2.	 Before starting: Check all setscrews for tightness and rotate impeller by hand to make sure it has not moved in transit.
+
+Fans with Spherical Roller Bearings
+
+Fans with Unit Roller Bearings
+
+with Split Pillow Block Housings
+
+Relubrication Schedule (Months)*
+Spherical Roller Bearing - Solid Pillow Blocks
+
+Grease to 
+be added
+
+Relubrication Schedule (Months)*
+Spherical Roller Bearing - Split Pillow Blocks
+
+Shaft DIA
+Speed (RPM)
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+1" thru 17⁄16"
+(25 – 35)
+6
+4
+4
+2
+1
+1
+1
+1
+1/2
+
+at each 
+interval
+Shaft DIA
+Speed (RPM)
+500
+750
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+17⁄16" thru 115⁄16"
+(35 – 50)
+6
+41/2
+4
+4
+31/2
+21/2
+21/2
+1
+1
+0.50 oz.
+
+111⁄16" thru 23⁄16"
+(40 – 55)
+4
+2
+11/2
+1
+1/2
+1/2
+1/2
+1/2
+1/2
+
+23⁄16" thru 213⁄16"
+(55 – 70)
+5
+41/2
+4
+21/2
+21/2
+11/2
+1/2
+1/4
+1/4
+0.75 oz.
+
+27⁄16" thru 37⁄16"  
+(60 – 85)
+3
+11/2
+1
+1/2
+1/2
+1/4
+1/4
+
+215⁄16" thru 315⁄16"  
+(75 – 100)
+41/2
+4
+31/2
+21/2
+11/2
+1
+1/2
+2.00 oz.
+
+315⁄16" thru 415⁄16"
+(90 – 125)
+21/2
+1
+1/2
+1/4
+
+47⁄16" thru 415⁄16"
+(110 – 135)
+4
+4
+21/2
+1
+1/2
+4.00 oz.
+
+57⁄16" thru 615⁄16"
+(140 – 180)
+4
+21/2
+11/2
+8.5 oz.
+
+*Suggested lubrication interval under ideal continuous operating conditions. Relubricate 
+while running, if safety permits, until some purging occurs at seals. Adjust lubrication 
+frequency depending on conditions of purged grease. Use one-half of listed interval for 
+vertical shaft applications or for 24 hour operation. Hours of operation, temperature and 
+surrounding conditions will affect the relubrication frequency required.
+
+1.	
+Lubricate with a high quality NLGI No. 2 lithium-base grease having rust inhibitors and 
+antioxidant additives, and a minimum oil viscosity of 500 SUS at 100°F (38°C). Some 
+greases having these properties are:
+	
+Shell - Gadus S2 V100 2	
+Mobil - Ronex MP 
+Mobil - Mobilith SHC100	
+Mobil - Mobilith SHC220
+
+*Suggested lubrication interval under ideal continuous operating conditions. Remove 
+bearing cap and observe condition of used grease after lubricating. Adjust lubrication 
+frequency as needed. Use one-half of listed interval for vertical shaft applications or 
+for 24 hour operation.  Hours of operation, temperature and surrounding conditions 
+will affect the relubrication frequency required. Clean and repack bearings annually. 
+Remove old grease, pack bearing full and fill housing reservoir on both sides of 
+bearings to bottom of shaft.
+
+2.	 Lubricate bearings prior to extended shutdown or storage and rotate shaft 
+monthly to aid corrosion protection.
+
+3.	 Any lubrication requirements noted on the general assembly drawing supersede 
+requirements found here.
+
+1.	
+Lubricate with a high quality NLGI No. 2 lithium-base grease having rust inhibitors 
+and antioxidant additives, and a minimum oil viscosity of 500 SUS at 100°F (38°C). 
+Some greases having these properties are:
+	
+Shell - Gadus S2 V100 2	
+Mobil - Ronex MP 
+Mobil - Mobilith SHC100	
+Mobil - Mobilith SHC220
+
+2.	 Lubricate bearings prior to extended shutdown or storage and rotate shaft 
+monthly to aid corrosion protection.
+
+Fans with Ball Bearings
+
+3.	 Purge or remove old grease when changing lubrication brands or types.
+
+Relubrication Schedule (Months)*
+
+4.	 Any lubrication requirements noted on the general assembly drawing supersede 
+requirements found here.
+
+Ball Bearing Pillow Blocks
+
+Static Oil Lubrication
+
+Shaft DIA
+Speed (RPM)
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+
+1.	
+Use only high quality mineral oil with a VG grade indicated on the customer 
+submittal drawing.
+
+1⁄2" thru 111⁄16"
+(13 – 45)
+6
+6
+5
+3
+3
+2
+2
+2
+1
+
+2.	 Static oil level should be at the center of the lower-most roller. (Do not overfill.)
+
+115⁄16" thru 27⁄16"
+(50 – 60)
+6
+5
+4
+2
+2
+1
+1
+1
+1
+
+3.	 Complete lubrication change should be made annually.
+
+211⁄16" thru 215⁄16"  
+(65 – 75)
+5
+4
+3
+2
+1
+1
+1
+
+37⁄16" thru 315⁄16"
+(80 – 100)
+4
+3
+2
+1
+1
+
+*Suggested lubrication interval under ideal continuous operating conditions. Relubricate 
+while running, if safety permits, until some purging occurs at seals. Adjust lubrication 
+frequency depending on conditions of purged grease. Use one-half of listed interval for 
+vertical shaft applications or for 24 hour operation. Hours of operation, temperature and 
+surrounding conditions will affect the relubrication frequency required.
+
+1.	
+Lubricate with a high quality NLGI No. 2 lithium-base grease having rust inhibitors and 
+antioxidant additives, and a minimum oil viscosity of 500 SUS at 100°F (38°C). Some 
+greases having these properties are:
+	
+Shell - Gadus S2 V100 2	
+Mobil - Ronex MP 
+Mobil - Mobilith SHC100	
+Mobil - Mobilith SHC220
+
+2.	
+Lubricate bearings prior to extended shutdown or storage and rotate shaft monthly 
+to aid corrosion protection.
+
+3.	 Any lubrication requirements noted on the general assembly drawing supersede 
+requirements found here.
+
+Twin City Fan
+
+13
+
+Installation, Operation & Maintenance Manual

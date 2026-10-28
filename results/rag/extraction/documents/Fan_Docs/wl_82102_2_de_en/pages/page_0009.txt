@@ -1,0 +1,78 @@
+Unusual operating behaviour indicating damage
+Urgency of bearing exchange
+
+9: Size of damage based on the running time after damage recognition 
+(when approx. 0.1% of track circumference is flaked)
+– With a moderate load, damage
+
+develops very slowly so that it is 
+normally not necessary to replace the
+bearing prior to the next scheduled
+standstill.
+– With an increasing load, damage
+
+12
+
+grows far more quickly. 
+– The damage develops slowly first but
+
+10
+
+as it becomes larger it spreads faster.
+
+8
+
+Figures 8 (page 7), 9 and 10 illustrate
+these findings.
+
+6
+
+4
+
+2
+
+Size of damage in % of track circumference
+
+0
+0
+10
+20
+30
+40
+
+Period of operation with damage [% L10]
+
+10: Mean remaining running time of angular contact ball bearings after recogni-
+tion of fatigue damage based on stress condition until 1/10 of the track cir-
+cumference is damaged. Operating condition prior to first signs of fatigue 
+damage: Utmost cleanliness in EHD lubricating gap.
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+1 900
+2 000
+2 100
+2 200
+2 300
+2 400
+2 500
+2 600
+
+mean running time after damage recognition [% L10]
+
+max. Hertzian contact pressure [MPa]
+
+FAG
+8

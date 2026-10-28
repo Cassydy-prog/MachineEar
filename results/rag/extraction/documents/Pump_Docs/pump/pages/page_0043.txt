@@ -1,0 +1,164 @@
+6. Centrifugal Pumps
+
+200
+
+Impeller
+
+Efﬁciency
+
+180
+
+160
+
+7"
+
+68% 70% 72% 76% 
+78%
+
+140
+
+6"
+
+120
+
+Head
+
+(ft)
+
+100
+
+5" 
+9 hp
+
+80
+
+2' 
+3' 
+4' 
+5' 
+6' 
+7' 
+NPSHR
+
+8 hp
+7 hp
+
+60
+
+Size
+of such experience, pump speed can be estimated 
+by using a dimensionless pump performance 
+parameter known as specific speed. Specific 
+speed can be used in two different references:  
+impeller specific speed and pump suction specific 
+speed. The impeller specific speed (Ns) is used 
+to evaluate a pump’s performance using different 
+impeller sizes and pump speeds.
+
+40
+
+6 hp 
+5 hp 
+4 hp 
+2.5 hp
+
+bhp
+
+20
+
+0 
+0
+50
+100
+150
+200
+250
+
+Flow (gpm)
+
+Specific speed is an index that, in mechanical 
+terms, represents the impeller speed necessary 
+to generate 1 gallon per minute at 1 foot of head. 
+The equation for impeller specific speed is as 
+follows:
+
+Figure 13. Performance Curves for a 4x1.5-6 Pump Used for 
+Water Service
+
+—
+Ns =
+
+n √ Q
+         H 3/4
+
+where
+
+to that shown in Figure 11, for each pump 
+manufacturer to identify pumps that meet the 
+service needs.
+
+Ns	 =	 specific speed
+n	
+=	 pump rotational speed (rpm)
+Q	
+=	 flow rate (gpm)
+H	
+=	 total head per stage (ft).
+
+For standard impellers, specific speeds range from 
+500 to 10,000. Pumps with specific speed values 
+between 2,000 and 3,000 usually have the highest 
+efficiency.
+
+The next step is to evaluate the performance 
+curves of each pump selected. Each pump usually 
+has a range of performance curves for each 
+impeller size offered with that pump. In addition 
+to different stock impeller sizes, an impeller can 
+be trimmed to further “fine tune” a pump’s 
+performance (see the Impeller Trimming fact 
+sheet).
+
+ Example of Pump Selection
+The data required to size and source a pump 
+include system flow demands and the system’s 
+resistance curve. To determine the system curve, 
+the required data include the system config-
+uration, the total pipe length, the pipe size, and 
+the number of elbows, tees, fittings, and valves. 
+A designer can use these data—along with known 
+fluid properties and the head available from the 
+suction source—to estimate the system’s head loss 
+and its NPSHA at the pump suction.
+
+In Figure 13, a 4x1.5-6 pump is used as an 
+example. The design point is just below the curve 
+for the 6-inch impeller. For this particular pump 
+size, at these operating conditions, the pump 
+efficiency is 74%, and the 5-hp motor appears 
+strong enough to meet service requirements. The 
+pump’s BEP is just slightly to the right of the 
+design point and the NPSHR is 6 ft. If the NPSHA 
+is more than 7.5 ft, or at least 25% higher than the 
+NPSHR, the 4x1.5-6 pump should be suitable.
+
+ Pump Manufacturer’s Software
+The complexity of pump selection has motivated 
+most pump manufacturers to develop electronic 
+selection catalogs. Using specific system require-
+ments, these catalogs help designers identify 
+pumps capable of meeting the end user’s service 
+needs.
+
+At this point, the designer must review the 
+manufacturers’ data to find pumps that can meet 
+system requirements. Unfortunately, this process 
+requires repeated evaluations of many different 
+pump characteristics, including the BEP, pump 
+speed, NPSHR, and pump type. Using the 
+expected system operating range, a designer must 
+evaluate the family of performance curves, similar
+
+39
+
+A Sourcebook for Industry

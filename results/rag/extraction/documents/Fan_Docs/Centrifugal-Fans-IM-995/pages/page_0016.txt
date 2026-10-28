@@ -1,0 +1,80 @@
+IM-995
+
+Maintenance (refer to safety section)
+Develop a regular maintenance schedule according to your needs and the criticality of the fan. Periodic inspections, lubrication 
+and observations of sound and vibration will help prolong the life of the fan. If changes are noted check bolt tightness, 
+foundation integrity, cleanliness of the impeller and or motor, bearing lubrication and drive components. Always keep records of 
+the maintenance that is performed.
+
+CAUTION
+
+1.	 Swingout fans should be opened for impeller cleaning and 
+inspection only and should be closed immediately after 
+cleaning. Isolate from the electrical supply before opening.
+2.	 Do not run swingout fans the fan in the open position.
+
+Motor Lubrication Schedule
+
+Motor Maintenance
+
+Motors Less than 10HP
+
+Motors Between
+
+Motors Running 24/7
+
+or if in dirty/dusty
+
+Running 8 Hrs/Day
+(clean environments)
+
+15-40HP
+(clean environments)
+
+environments
+
+The three basic rules of motor maintenance are:
+1.	 Keep the motor clean.
+2.	 Keep the motor dry.
+3.	 Keep the motor properly lubricated.
+
+Lube every 5 Years
+Lube every 3 years
+Divide the service
+
+interval by 4
+
+Do not over lubricate.
+
+Blow dust off periodically (with low pressure air) to prevent 
+motor from overheating.
+
+Some smaller motors are lubricated for life. Lubrication requirements are normally attached to the motor. Use the motor 
+manufacturer’s recommendations for relubrication. Often motor lubricants are not the same as the fan bearings. If this 
+information is not available, the Motor Lubrication Schedule may be used.
+
+Shaft grounding rings are recommended for some VFD applications. If the motor is equipped with a shaft grounding ring a 
+yearly inspection for wear and shaft corrosion is recommended. Replace the ring if it is making minimal contact with the shaft. If 
+corrosion is present, treat the shaft with colloidal silver per the ring manufacturer's instructions.
+
+Drive Maintenance (refer to safety section)
+
+WARNING
+
+When working around belts and pulleys, 
+keep hands away from pinch points.
+
+V-belt drives need periodic inspection, retensioning and occasional belt 
+replacement. When inspecting drives, look for dirt buildup, burrs or obstructions 
+that can cause premature belt or drive replacement. If burrs are found, use fine 
+emery cloth or a stone to remove them. Be careful that dust does not enter the 
+bearings.
+
+Check sheaves for wear. Excessive slippage of belts on sheaves can cause wear and vibration. Replace worn sheaves with new 
+ones. Carefully align sheaves to avoid premature sheave failure. If fraying or other wear is observed to be mostly on one side of 
+the belts, the drives may be misaligned. Realign and reinstall new belts. Tighten sheave bolts (or setscrews if appropriate).
+
+When replacing belts, replace the entire set. Never use belt dressing on any belts, as it may cause belt wear.
+
+Installation, Operation & Maintenance Manual
+16

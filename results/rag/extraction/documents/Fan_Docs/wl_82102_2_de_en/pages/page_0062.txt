@@ -1,0 +1,58 @@
+Other means of inspection at FAG
+
+Geometric measuring
+
+– Deviation of roundness check with
+
+2.5
+
+FOURIER ANALYSIS
+
+up to 100 000 fold  magnitude 
+including frequency analysis of 
+waviness, figs. 102 and 103
+
+Label
+:  IRR50
+1st harmonic
+:  7.3129 µm
+
+0.25
+
+0.025
+
+0.0025
+
+0
+2. harmonic
+0.5043 µm
+150
+
+PROFILE
+
+R
+
+Meas. cycle
+:  0.090 °
+Filter
+:  0-500 upr
+Represent.
+:  LSC soft-centered
+
+20000 fold
+:                  0.25 µm
+
+0°
+90°
+C
+270°
+360°
+
+102: Form drawing with frequency 
+analysis of waviness, inner ring
+6207
+
+103: Form measuring system
+
+61
+FAG

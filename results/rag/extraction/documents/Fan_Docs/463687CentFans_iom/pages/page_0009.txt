@@ -1,0 +1,172 @@
+Radial Gap, Overlap and Wheel Alignment
+
+Overlap
+
+Wheel
+
+Inlet 
+Cone
+
+Efficient fan performance can be maintained by having 
+the correct radial gap, overlap and wheel alignment. 
+These items should be checked after the fan has been 
+in operation for 24 hours and before start-up after 
+the unit has been serviced. Radial gap and overlap 
+information applies to IP with air handling wheel.
+
+A
+
+Radial
+
+Gap
+
+Unit  
+Size
+
+IP (Air Handling)
+
+Radial Gap is adjusted 
+by loosening the inlet 
+cone bolts and centering 
+the cone on the wheel. 
+If additional adjustment 
+is required to maintain 
+a constant radial gap, 
+loosening the bearing 
+bolts and centering the 
+wheel is acceptable as a 
+secondary option.
+
+IP (Air Handling)  
+Inlet Cone to Backplate
+A Dimension
+± Tolerance (in.)
+
+Equal Spacing
+
+Overlap or offset, is 
+adjusted by loosening 
+the wheel hub from the 
+shaft and moving the 
+wheel to the desired 
+position along the 
+shaft.
+
+Housing
+
+Wheel
+
+Wheel Alignment  
+IP (Open Radial or Backplated)
+
+Dimension
+± Tolerance (mm)
+5
+3.67
+± 1/8
+93
+± 3
+7
+5.36
+± 1/8
+136
+± 3
+9
+6.88
+± 1/8
+175
+± 3
+11
+8.38
+± 1/4
+213
+± 6
+13
+9.92
+± 1/4
+252
+± 6
+15
+11.39
+± 3/8
+289
+± 10
+17
+12.95
+± 3/8
+329
+± 10
+19
+14.48
+± 3/8
+368
+± 10
+21
+15.95
+± 3/8
+405
+± 10
+23
+17.50
+± 1/2
+445
+± 13
+26
+20.00
+± 1/2
+508
+± 13
+29
+22.31
+± 1/2
+567
+± 13
+33
+25.75
+± 1/2
+654
+± 13
+37
+28.82
+± 1/2
+732
+± 13
+41
+31.38
+± 1/2
+797
+± 13
+
+The transition between 
+the inlet cone and 
+wheel should be as 
+shown; there is a 
+smooth feel to the 
+profile when moving 
+from one component  
+to the other. Overlap  
+on double width fans is 
+set by having equal spacing on each side of the wheel.
+
+Correct wheel alignment for an industrial process fan 
+(open radial or backplated/wool wheel) is achieved by 
+centering the wheel in the housing.
+
+Clockwise Rotation
+
+Centrifugal
+
+Industrial Process
+
+Airfoil
+
+Radial Blade
+
+Centrifugal 
+Backward Inclined
+
+Always viewed from the drive side.
+
+Industrial Process Fans
+9
+®

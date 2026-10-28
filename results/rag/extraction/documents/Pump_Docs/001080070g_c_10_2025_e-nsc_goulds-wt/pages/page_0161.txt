@@ -1,0 +1,230 @@
+lv - Oriģinālās instrukcijas
+
+Materiāla kods
+Materiāla ap‐
+valks/darbrats
+
+Standarta/
+papildaprīko‐
+
+Neizmantojiet šo sūkni, lai sūknētu uzlie‐
+smojošus un/vai sprādzienbīstamus šķi‐
+drumus.
+
+jums
+
+Nerūsējošais tē‐
+
+PAZIŅOJUMS:
+
+rauds
+
+Standarts
+
+DC
+Kaļamais ču‐
+guns/čuguns
+
+• Neizmantojiet šo sūkni, lai sūknētu šķidrumus,
+kas satur abrazīvas, cietas vai šķiedrainas vielas.
+• Neizmantojiet sūkni plūsmas ātrumiem, kas pārs‐
+niedz datu plāksnītē norādīto plūsmas ātrumu.
+
+Standarts
+
+DB
+Kaļamais ču‐
+guns/bronza
+
+Speciāli pielietojumi
+
+Standarts
+
+DN
+Kaļamais ču‐
+guns/nerūso‐
+
+Sazinieties ar vietējo pārdošanas un servisa pārstāvi
+šajos gadījumos:
+
+šais tērauds
+
+NN
+Nerūsošais tē‐
+
+Standarts
+
+rauds/
+Nerūsējošais tē‐
+
+rauds
+
+RR
+Duplekss/
+
+Papildaprīko‐
+
+duplekss
+
+jums
+
+• Ja sūknētā šķidruma blīvuma un viskozitātes vēr‐
+tība pārsniedz ūdens vērtību, piemēram, ūdens
+un glikola maisījumam; jo tam ir nepieciešams
+jaudīgāks motors.
+• Ja sūknētais šķidrums tiek ķīmiski apstrādāts
+(piemēram, mīkstināts, dejonizēts, demineralizēts
+utt.).
+• Jebkurā situācijā, kas atšķiras no aprakstītajām
+un attiecas uz šķidruma dabu.
+
+3.6  Mehāniskais blīvējums
+
+3.2  Sūkņa apzīmējumi
+
+Nebalansējams atsevišķs mehāniskais blīvslēgs at‐
+bilstoši. EN 12756, K versija.
+
+Skatiet šeit Attēls 2 351 lappusē sūkņa apzīmējumu
+skaidrojuma kodus un vienu piemēru.
+
+3.7  Izmantošanas ierobežojumi
+
+3.3  Tehniskā pase
+
+Maksimālais darba spiediens
+
+LV
+
+Attēls 4 367 lappusē parāda maksimālo darba spie‐
+dienu atkarībā no sūkņa modeļa un sūknētā šķidru‐
+ma temperatūras.
+P1maks. + Pmaks.≤ PN
+
+Nosaukuma plāksne atrodas uz gultņu kronšteina.
+Tehniskajā pasē ir norādīti galvenie tehniskie dati.
+Papildinformāciju skatiet šeit: Attēls 1 345 lappusē.
+Tehniskajā pasē norādīta informācija par darbrata un
+apvalka materiālu, mehāniskajiem blīvslēgiem un to
+materiāliem. Papildinformāciju skatiet šeit: Attēls 3
+363 lappusē.
+
+P1maks.
+Maksimālais ieejas spiediens
+
+Pmaks.
+Maksimālais sūkņa ģenerētais spiediens
+
+PN
+Maksimālais darba spiediens
+
+IMQ vai TUV, vai IRAM, vai cita veida
+marķējums (tikai elektriskajam sūknim)
+
+Šķidruma temperatūras intervāli
+
+Ja nav norādīts citādi, produktiem ar elektriskās dro‐
+šības apstiprinājuma marķējumu apstiprinājums at‐
+tiecas tikai uz elektrisko sūkni.
+
+Attēls 4 367 lappusē parāda darba temperatūras am‐
+plitūdu.
+Speciālu prasību gadījumā sazinieties ar pārdošanas
+un servisa pārstāvi.
+
+Maksimālais palaišanas reižu skaits stundā
+
+18,5
+
+3.4  Sūkņa apraksts
+• Savienojumu izmēri saskaņā ar EN 733
+(32-125…-200; 40-125…-250; 50-125…-250;
+65-125…-315; 80-160…-315; 100-200…-400;
+125-250…-400; 150-315…-400 modeļiem).
+• Spirālveida apvalka sūknis ar izvirzītu gultņu
+kronšteinu.
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+60
+40
+30
+24
+16
+8
+4
+
+3.5  Materiāls
+Sūkņa metāla daļas, kas saskaras ar šķidrumu, izga‐
+tavotas no šādiem materiāliem.
+
+Palai‐
+šanas
+reizes
+stun‐
+dā
+
+Materiāla kods
+Materiāla ap‐
+valks/darbrats
+
+Standarta/
+papildaprīko‐
+
+jums
+
+Trokšņa līmenis
+
+CC
+Čuguns/čuguns
+Standarts
+
+CB
+Čuguns/bronza
+Standarts
+
+Standarts
+
+Skaņas spiediena līmeņus ar standarta motoru aprī‐
+kotam sūknim skatiet Tabula 9 368 lappusē.
+Skaņas spiediena līmeņus sūknim bez motora ska‐
+tiet šeit: Tabula 10 372 lappusē.
+
+CS
+Čuguns/
+Nerūsējošais tē‐
+
+rauds
+
+4  Uzstādīšana
+
+CN
+Čuguns/
+Standarts
+
+157

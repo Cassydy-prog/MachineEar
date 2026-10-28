@@ -1,0 +1,145 @@
+1. Assessing Pumping System Needs
+
+Head/Flow Curve 
+200
+
+Head
+
+(ft)
+
+response to a small decrease in backpressure is a  
+large increase in flow. This sensitivity can lead to 
+system instability, especially in systems that have 
+substantial changes in throttle or bypass valve 
+positions. For example, in the pump curve of 
+Figure 3, at 160 feet (ft) of head and 250 gallons 
+per minute (gpm) flow, a 10-ft increase in system 
+backpressure results in a 100-gpm drop-off in 
+pump flow.
+
+180 
+160 
+140 
+120 
+100 
+80 
+60 
+40 
+20
+
+50 
+100 
+150 
+200 
+250
+
+Flow (gpm)
+
+Figure 3. Illustration of the Sensitivity of Flow to Changes 
+in Backpressure
+
+Internal Recirculation. Internal recirculation is 
+another performance-degrading effect that 
+damages pumps in much the same way that 
+cavitation does. Internal recirculation tends to 
+occur at low flow rates when fluid leaving the 
+impeller forms damaging vortices. To avoid this 
+problem, manufacturers list the minimum flow 
+rates for their pumps. Operators should be aware 
+of this minimum flow requirement and avoid 
+overly restricting pump output.
+
+The performance curves of some pumps droop 
+at low flow rates. This characteristic applies 
+primarily to pumps with low specific speeds. As 
+shown in Figure 4 (which is illustrative and does 
+not represent an actual pump curve), the perfor-
+mance curves of these pumps point upward at 
+low flow rates. Since system curves also point 
+upward, the system curve and the pump curve 
+can intersect at more than one point, occasionally 
+leading to instability. In some cases, a pump 
+operating in this range will “hunt,” that is, 
+repeatedly adjust its output as it searches for a 
+stable operating point. Although most manu-
+facturers publish a minimum flow requirement 
+to prevent a design engineer from specifying a 
+pump that operates in this region, pumps can 
+wear out, allowing their operating points to drift 
+into this region. Operators should be aware that 
+surging pump operation may be the combined 
+result of a deteriorating pump and a drooping 
+head curve. On the positive side, pumps with 
+drooping head curves tend to be more efficient.
+
+200
+
+180
+
+Pump Curve
+
+160
+
+140
+
+Poor Flow Control. Poor flow control can result 
+from several conditions, including improper 
+pump selection and poor system design. The 
+performance curve characteristics of some pumps 
+indicate the need for careful consideration of 
+the variability in operating requirements. Perfor-
+mance curves that are relatively flat, or curves 
+that “droop” at low flow rates, mean that the 
+designer should be aware of all the operating 
+demands on the pump when selecting one.
+
+120
+
+Head
+
+100
+
+(ft)
+
+80
+
+Region in which pump curve 
+and system curve point in the 
+same direction. Operation in 
+this region should be avoided.
+
+60
+
+System Curve
+
+40
+
+20
+
+0
+
+Generally, head curves arc downward from the 
+zero-flow condition—that is, as the backpressure 
+on the pump decreases, the flow increases. The 
+specific slope and shape of the curve depend 
+largely on the shape of the impeller vanes and the 
+pump speed.
+
+0 
+50 
+100 
+150 
+200 
+250
+
+Flow (gpm)
+
+Figure 4. Drooping Performance Curve
+
+The slope of the pump curve demonstrates the 
+response of the pump’s output to changes in 
+backpressure. A flat pump curve shows that the
+
+15
+
+A Sourcebook for Industry

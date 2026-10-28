@@ -1,0 +1,176 @@
+sl - Prevod izvirnih navodil
+
+Причина
+Решение
+
+Причина
+Решение
+
+Кухини в по‐
+мпата
+
+Свържете се с местния търгов‐
+ски и сервизен представител.
+
+Роторът се
+трие в износ‐
+ващия се пръ‐
+стен
+
+Разместени ку‐
+плунги
+
+Проверете подредбата на ку‐
+плунгите.
+
+Намалете необходимия дебит
+чрез частично затваряне на
+клапана за ВКЛ.-ИЗКЛ. надо‐
+лу от помпата. Ако проблемът
+продължи, проверете работни‐
+те условия на помпата (напри‐
+мер, разлика във височините,
+съпротивление на потока, тем‐
+пература на течността).
+
+Износени гъв‐
+кави елементи
+на куплунга
+
+Проверявайте и сменяйте съо‐
+тветните части, ако има някак‐
+ви признаци на износване.
+
+Свържете се с местния търгов‐
+ски и сервизен представител.
+
+Лагерите на
+мотора са из‐
+носени.
+
+За всяка друга ситуация се отнасяйте към мест‐
+ния търговски и сервизен представител.
+
+Свържете се с местния търгов‐
+ски и сервизен представител.
+
+Има чужди
+предмети в по‐
+мпата.
+
+Raven nevarnosti
+Oznaka
+
+1  Uvod in varnost
+
+1.1  Uvod
+
+POZOR:
+
+Namen tega priročnika
+
+Nevarna situacija, ki jo
+morate preprečiti, ker
+lahko povzroči manjšo
+ali srednje hudo poškod‐
+bo.
+
+Namen tega priročnika je priskrbeti informacije o na‐
+slednjih temah:
+
+OPOMBA:
+
+• Namestitev
+• Upravljanje
+• Vzdrževanje
+
+Obvestila se uporablja‐
+jo, kadar obstaja nevar‐
+nost poškodbe opreme
+ali slabšega delovanja,
+vendar ne poškodb oseb.
+
+Posebni simboli
+
+Nekatere kategorije nevarnosti imajo posebne sim‐
+bole, kot so prikazani v naslednji tabeli.
+
+POZOR:
+Pred namestitvijo in uporabo naprave na‐
+tančno preberite ta priročnik. Nepravilna
+uporaba naprave lahko povzroči telesne
+poškodbe in poškodbe imetja ter izniči
+garancijo.
+
+Nevarnost električnega
+udara
+
+Nevarnost zaradi mag‐
+netnih polj
+
+OPOMBA:
+Ta priročnik shranite za poznejšo uporabo. Naj bo
+vedno na voljo in priložen napravi.
+
+POZOR:
+
+1.2  Izrazi in simboli, povezani z varnostjo
+
+Nevarnost
+električnega
+udara:
+
+O varnostnih opozorilih
+
+SL
+
+Nevarnost vroče površine
+
+Zelo pomembno je, da še pred začetkom uporabe
+naprave preberete varnostna opozorila in predpise,
+jih razumete in upoštevate. Njihov namen je prepre‐
+čiti naslednje nevarnosti:
+
+Nevarnosti vroče površine so označene s posebnim
+simbolom, ki nadomesti običajne simbole za raven
+nevarnosti:
+
+POZOR:
+
+• Nesreče in zdravstvene težave oseb
+• Poškodba izdelka in okolice
+• Napake v delovanju naprave
+
+Ravni nevarnosti
+
+Navodila
+
+Raven nevarnosti
+Oznaka
+
+NEVAR‐
+NOST:
+
+Nevarna situacija, ki jo
+morate preprečiti, ker
+lahko povzroči smrt ali
+hudo poškodbo.
+
+OPOZORILO:
+
+Navodila in opozorila, ki so na voljo v tem priročniku,
+se nanašajo na standardno različico, kot je opisano
+v prodajnem dokumentu. Posebni različici črpalk so
+lahko priloženi prospekti z dodatnimi navodili. Glede
+morebitnih sprememb ali značilnosti posebne različi‐
+ce glejte prodajno pogodbo. Glede navodil, situacij
+ali dogodkov, ki niso omenjeni v tem priročniku ali
+prodajnem dokumentu, se obrnite na najbližji servis‐
+ni center .
+
+Nevarna situacija, ki jo
+morate preprečiti, ker
+lahko povzroči smrt ali
+hudo poškodbo.
+
+251

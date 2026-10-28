@@ -1,0 +1,179 @@
+sv - Översättning av orginal instruktioner
+
+Årsak
+Middel
+
+Årsak
+Middel
+
+Det finnes en lekkasje i én eller
+flere av følgende komponenter:
+
+peratur, osv.) dersom problemet
+vedvarer.
+
+Reparer eller bytt
+ut den defekte
+komponenten.
+
+Motorlagrene er
+slitt.
+
+Kontakt den lokale salgs- og servi‐
+cerepresentanten.
+
+• Sugerøret
+• Fotventilen eller tilbake‐
+slagsventilen
+
+Kontakt den lokale salgs- og servi‐
+cerepresentanten.
+
+Det finnes frem‐
+medlegemer
+inni pumpen.
+
+Det finnes en sprukket mem‐
+bran eller ikke noe forhåndsfylt
+luft i trykktanken.
+
+Se de aktuelle an‐
+visningene i trykk‐
+tankhåndboken.
+
+Kontakt den lokale salgs- og servi‐
+cerepresentanten.
+
+7.11  Pumpen vibrerer og avgir for mye støy.
+
+Løpehjulet gnir
+på slitasjerin‐
+gen.
+
+Årsak
+Middel
+
+Feiljustering av
+koblingen
+
+Kontroller justeringen av koblin‐
+gen.
+
+Hulrom i pum‐
+pen
+
+Kontroller og skift ut de aktuelle
+delen hvis det finnes tegn til slita‐
+sje.
+
+De fleksible ele‐
+mentene på
+koblingen er
+slitt
+
+Reduser den nødvendige strøm‐
+ningshastigheten ved å delvis luk‐
+ke PÅ-AV-ventilen nedstrøms fra
+pumpen. Kontroller driftsforholde‐
+ne til pumpen (høydeforskjell,
+strømningsmotstand, væsketem‐
+
+Kontakt den lokale salgs- og servicerepresentanten
+vedrørende eventuelle andre forhold.
+
+SV
+
+Faronivåer
+
+1  Introduktion och säkerhet
+
+Faronivå
+Indikering
+
+1.1  Inledning
+
+Manualens syfte
+
+FARA:
+
+En farlig situation som,
+om den inte undviks, le‐
+der till dödsfall eller all‐
+varliga personskador
+
+Syftet med denna manual är att tillhandahålla den
+information som krävs för:
+
+VARNING!:
+
+• Installation
+• Drift
+• Underhåll
+
+En farlig situation som,
+om den inte undviks, kan
+leda till dödsfall eller all‐
+varliga personskador
+
+VAR FÖR‐
+SIKTIG!:
+
+En farlig situation som,
+om den inte undviks,
+kan leda till lindriga eller
+måttliga personskador
+
+VAR FÖRSIKTIG!:
+Läs denna manual noga innan du instal‐
+lerar och börjar använda produkten. Fel‐
+aktig användning av produkten kan orsa‐
+ka personskador och egendomsskador
+samt upphäva garantin.
+
+OBS!:
+
+Meddelanden används
+när det finns risk för ska‐
+dor på utrustningen el‐
+ler sänkt prestanda, men
+inte personskador.
+
+OBS!:
+Spara denna handbok och håll den enkelt tillgänglig
+där enheten är placerad.
+
+Specialsymboler
+
+1.2  Säkerhetsterminologi och -symboler
+
+Om säkerhetsmeddelanden
+
+Vissa farokategorier har specifika symboler som vi‐
+sas i nedanstående tabell.
+
+Risk för elstötar
+Risk för magnetfält
+
+Det är mycket viktigt att du läser, förstår och följer
+säkerhetsanvisningarna och säkerhetsföreskrifterna
+noggrant innan du använder produkten. Informatio‐
+nen syftar till att förebygga dessa faror:
+
+Risk för els‐
+tötar:
+
+VAR FÖR‐
+SIKTIG!:
+
+• Olyckor och hälsoproblem för personalen
+• Skador på produkten och dess omgivning
+• Fel på produkten
+
+Fara för het yta
+
+Fara för het yta indikeras med en specifik symbol
+som ersätter de vanliga faronivåsymbolerna:
+
+VAR FÖRSIKTIG!:
+
+110

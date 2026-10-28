@@ -1,0 +1,73 @@
+IM-895
+
+Motor Support Adjustment (refer to safety section)
+Two different types of motor mounts, post and saddle, are used on TSL/TCLB Inline Centrifugal and QSL/QCLB Mixed Flow fans. The 
+mount to use depends on the size of the fan and motor.
+
+On the post type motor mount, the motor plate is supported on four threaded rods. Belt tension is adjusted by loosening the four nuts 
+on top of the motor plate and raising the motor plate by adjusting the four nuts underneath it. The top nuts should then be tightened 
+to hold the motor plate in place.
+
+On the saddle type motor mount, the motor pivots on one side and adjustment of belt tension is achieved by loosening the nuts on 
+top of the motor plate on the other side, then raising the motor plate by adjusting the nuts underneath the motor plate. The nuts 
+on top of the motor plate should again be tightened to hold the motor plate in place. The saddle mount on QCLB Mixed Flow fans 
+also incorporate a fastener to the motor plate flange that needs to be loosened prior to adjusting the motor plate. Several holes 
+are provided on the pivot side and the pivot point can be raised for gross belt adjustment. If this adjustment is made, however, the 
+motor plate should be as parallel as possible to the fan centerplane. Care should be taken to maintain drive alignment and proper 
+belt tension.
+
+Maintenance (refer to safety section)
+Develop a regular maintenance schedule according to your needs and the 
+criticality of the fan. Periodic inspections, lubrication and observations 
+of sound and vibration will help prolong the life of the fan. If changes 
+are noted check bolt tightness, foundation integrity, cleanliness of 
+the impeller and or motor, bearing lubrication and drive components. 
+Always keep records of the maintenance that is performed.
+
+Motor Lubrication Schedule
+
+Motor Maintenance
+
+Motors Less than 10 HP
+
+Motors Between
+
+Motors Running 24/7
+
+or if in dirty/dusty
+
+Running 8 Hrs/Day
+(clean environments)
+
+15-40 HP
+(clean environments)
+
+environments
+
+The three basic rules of motor maintenance are:
+1.	 Keep the motor clean.
+2.	 Keep the motor dry.
+3.	 Keep the motor properly lubricated.
+
+Lube every 5 Years
+Lube every 3 years
+Divide the service
+
+interval by 4
+
+Do not over lubricate.
+
+Blow dust off periodically (with low pressure air) to prevent 
+motor from overheating.
+
+Some smaller motors are lubricated for life. Lubrication requirements are normally attached to the motor. Use the motor manufacturer’s 
+recommendations for relubrication. Often motor lubricants are not the same as the fan bearings. If this information is not available, 
+the Motor Lubrication Schedule may be used.
+
+Shaft grounding rings are recommended for some VFD applications. If the motor is equipped with a shaft grounding ring a yearly 
+inspection for wear and shaft corrosion is recommended. Replace the ring if it is making minimal contact with the shaft. If corrosion 
+is present, treat the shaft with colloidal silver per the ring manufacturer's instructions.
+
+13
+
+Installation, Operation & Maintenance Manual

@@ -1,0 +1,162 @@
+ro - Traducerea originalului
+
+Îv
+Presiunea de vapori în metri care corespun‐
+de temperaturii lichidului T °C
+
+0,5
+Toleranţa de siguranţă recomandată (m)
+
+PERICOL:
+Nu utilizaţi unitatea în medii care pot
+conţine gaze sau pulberi inflamabile/ex‐
+plozive ori agresive din punct de vedere
+chimic.
+
+Z
+Înălţimea maximă la care se poate instala
+pompa (m)
+
+Îndrumări
+
+Respectaţi următoarele îndrumări referitoare la am‐
+plasarea pompei.
+
+(pb*10,2 - Z) trebuie să fie întotdeauna un număr
+pozitiv.
+Pentru mai multe informații, consultați Figura 12 la
+pagina 380.
+
+NOTĂ:
+Nu depăşiţi capacitatea de absorbţie a pompei deoa‐
+rece prin aceasta s-ar cauza cavitaţia şi deteriorarea
+pompei.
+
+4.1.2  Cerințe privind conductele
+
+Precauții
+
+AVERTISMENT:
+
+• Asiguraţi-vă că niciun obstacol nu împiedică flu‐
+xul normal al aerului de răcire furnizat de ventila‐
+torul motorului.
+• Asiguraţi-vă că zona de montare este protejată
+împotriva scurgerilor de lichid sau a inundării.
+• Dacă este posibil, amplasaţi pompa puţin deasu‐
+pra nivelului solului.
+• Temperatura ambiantă trebuie să fie între 0 °C
+(+32 °F) şi +40 °C (+104 °F).
+• Umiditatea relativă a aerului ambiant trebuie să
+fie sub 50 % la +40 °C (+104 °F).
+• Contactaţi Departamentul de vânzări şi servicii
+dacă:
+
+– Condiţiile de umiditate relativă a aerului depă‐
+
+şesc îndrumările.
+– Temperatura încăperii depăşeşte +40 °C
+
+(+104 °F).
+– Unitatea este amplasată la peste 1.000 m
+
+• Utilizaţi conducte adecvate pentru
+presiunea maximă de lucru a pompei.
+În caz contrar, poate surveni deterio‐
+rarea sistemului, cu riscul de vătăma‐
+re.
+• Asiguraţi-vă că toate conexiunile sunt
+efectuate de către tehnicieni de insta‐
+lare calificaţi şi în conformitate cu re‐
+glementările în vigoare.
+
+(3.000 ft) deasupra nivelului mării.  Este po‐
+sibil ca performanţele motorului să necesite
+reducere sau ca motorul să fie înlocuit cu unul
+mai puternic.
+Pentru informaţii privind valoarea de reducere a per‐
+formanţelor motorului, consultaţi Tabelul 11 la pagi‐
+na 379.
+
+Poziţiile pompei şi spaţiul liber
+
+NOTĂ:
+Respectaţi toate reglementările emise de către auto‐
+rităţile care au jurisdicţie în regiunea dvs. şi de către
+companiile care gestionează alimentarea publică cu
+apă, în cazul în care pompa este conectată la un
+sistem de apă public. Dacă este necesar, instalaţi
+un dispozitiv de prevenire a refluxului pe partea de
+absorbţie.
+
+Lista de verificare a conductelor
+
+• Pentru a asigura o ventilație adecvată: ≥ 100 mm
+(4 in)
+• Pentru a permite inspectarea și scoaterea moto‐
+rului: ≥ 300 mm (12 in)
+• Dacă spațiul disponibil este mai mic, consultați
+catalogul tehnic.
+
+Verificaţi dacă sunt îndeplinite următoarele cerinţe:
+
+RO
+
+Instalarea deasupra sursei de lichid (înălţi‐
+mea de aspiraţie)
+
+Înălţimea maximă teoretică de aspiraţie a oricărei
+pompe este de 10,33 m. Practic, capacitatea de as‐
+piraţie a pompei este influenţată de factorii următori:
+
+• Temperatura lichidului
+• Înălţimea faţă de nivelul mării (într-un sistem des‐
+chis)
+• Presiunea sistemului (într-un sistem închis)
+• Rezistenţa conductelor
+• Rezistenţa hidraulică intrinsecă a pompei
+• Diferenţele de înălţime
+Se utilizează următoarea ecuaţie pentru a calcula
+înălţimea maximă deasupra nivelului de lichid la care
+se poate instala pompa:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+Presiune barometrică în bari (în sistem în‐
+chis este presiunea sistemului)
+
+NPSH
+Valoarea în metri a rezistenţei hidraulice in‐
+trinseci a pompei
+
+Îf
+Pierderile totale în metri cauzate de trecerea
+lichidului în conducta de aspiraţie a pompei
+
+• Toate conductele sunt susţinute independent,
+conductele nu trebuie să aplice o greutate asupra
+unităţii.
+• Conductele flexibile sau racordurile se utilizează
+pentru a evita transmiterea vibraţiilor pompei că‐
+tre conducte şi invers.
+• Utilizaţi coturi late, evitaţi utilizarea coturilor as‐
+cuţite care provoacă rezistenţă hidraulică excesi‐
+vă.
+• Conductele de aspiraţie sunt etanşate perfect, in‐
+clusiv la aer.
+• Dacă pompa se utilizează într-un circuit deschis,
+diametrul conductei de aspiraţie este corespun‐
+zător condiţiilor de instalare. Conducta de aspira‐
+ţie nu trebuie să fie mai mică decât diametrul
+orificiului de aspiraţie.
+• În cazul în care conducta de aspiraţie trebuie să
+fie mai mare decât partea de aspiraţie a pompei,
+este instalat un reductor excentric pentru con‐
+ductă.
+• Dacă pompa se amplasează deasupra nivelului
+lichidului, se fixează o supapă de aspiraţie la ca‐
+pătul conductei de aspiraţie.
+• Supapa de aspiraţie se introduce complet în li‐
+chid pentru a împiedica pătrunderea aerului în
+
+230

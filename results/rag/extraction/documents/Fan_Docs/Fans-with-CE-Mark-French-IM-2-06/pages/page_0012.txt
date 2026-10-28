@@ -1,0 +1,172 @@
+d. Un puisard va être ajouté pour prévoir une panne de la
+
+M	Vérifier tous les écrous, boulons et vis sans tête et les
+
+pompe de circulation d’huile. Des joints seront fournis
+pour pallier les éclaboussures qui en résultent.
+
+resserrer si nécessaire.
+M	Re-vérifier la tension du mécanisme d’entraînement si néces­
+
+e. Le graisseur zerk au sommet du palier sera enlevé, et
+
+saire. (voir Tableau 5 pour le programme de maintenance du 
+système d’entraînement.)
+
+cet orifice servira pour l’entrée de l’huile.
+
+Instructions de Dépannage
+Employer toutes les mesures de sécurité lors de la recherche
+
+Figure 7. Orientation des pales du régulateur relativement à la rotation du ventilateur
+
+Accessoires optionnels
+1. Mécanisme de rotation — Un mécanisme de rotation est par­
+fois utilisé dans des applications par lesquelles le ventilateur 
+est exposé à des gaz à haute température alors qu’il n’est 
+pas en service. La roue et l’arbre peuvent se dilater de façon 
+irrégulière lors du repos, ce qui peur causer des vibrations au 
+démarrage et/ou une prise permanente du rotor.  Le mécan­
+isme de rotation fait tourner le ventilateur doucement du côté 
+extérieur lorsqu’il n’est pas en opération, permettant une 
+expansion thermique régulière. Il s’enclenche automatique­
+ment lorsque le ventilateur arrête et débraye automatiquement 
+quand le ventilateur redémarre. Des renseignements plus 
+spécifiques seront fournis avec chaque application.
+
+Correct
+Incorrect
+
+2. Joints d’arbre — Le joint d’arbre standard est un élément en
+fibre de céramique avec une plaque de support et des clips
+en aluminium. D’autres configurations de joints d’arbre sont
+disponibles pour des applications spéciales, comme quand il
+est nécessaire de maintenir les joints d’arbre aussi impermé­
+ables au gaz que possible. Les manuels d’application de joints
+d’arbre sont fournis dans le Supplément engineering ES-595.
+
+de la cause des problèmes de  ventilateur ou de performance 
+du système. Les pratiques de sécurité générale et les instruc­
+tions de dépannage sont disponibles dans les Publications 
+AMCA 410 et 202, respectivement. Les applications pour 
+ventilateurs et mesures in situ peuvent être trouvées dans les 
+publications AMCA 201 et 203.
+	
+Nous incluons ci-dessous une liste de zones qui peuvent 
+être potentiellement contrôlées lorsque les valeurs relatives à 
+l’air ou au bruit ne correspondent pas aux attentes La plupart 
+des problèmes rencontrés avec les ventilateurs se résument à 
+l’une de ces causes communes.
+
+3. Ailettes d’admission variables — Des ailettes d’admission vari­
+ables sont fournies comme alternative d’assemblage du cône
+d’admission ou d’un cylindre à ailes. Les ailettes sont utilisées
+pour contrôler le volume et conserver de l’énergie dans des
+installations pour lesquelles différents volumes opérationnels sont
+rencontrés. Les manuels d’installations sont fournis dans d’autres
+suppléments engineering spécifiques à ces types de ventilateurs.
+Des ailettes d’admission variables peuvent être fournies avec
+des opérateurs électriques, et dans ce cas, les installations du
+fabricant et les manuels d’opération sont fournis.
+
+Problèmes de Capacité d’air
+1. La résistance du système n’est pas conforme à celle de sa
+conception.  Si la résistance est plus basse que prévue,
+le débit d’air et la puissance en chevaux peuvent être trop
+élevées. Si la résistance est supérieure à celle qui a été
+prévue, le volume d’air est plus faible.
+
+2. La vitesse du ventilateur n’est pas celle pour laquelle il a
+été conçu.
+
+3. La densité de l’air n’est pas celle de la conception. Vérifiez
+aussi les techniques/procédures de mesure de performance
+de l’air.
+
+4. Les dispositifs de régulation d’air sont fermés ou obstrués.
+Vérifiez aussi les filtres.
+
+4. Boite d’admission et Régulateurs de boites d’admission — Des
+boites d’admission peuvent être fournies pour permettre la tran­
+sition d’un conduit à l’admission du ventilateur. Des régulateurs
+de boîtes d’admission sont aussi fournis pour fournir une régula­
+tion volumétrique similaire à celle des ailettes d’admission. Les
+régulateurs sont normalement fournis comme partie d’un assem­
+blage complet et sont installés avec des arbres de régulateurs
+parallèles aux arbres du ventilateur.  Ils doivent être installés
+pour faire subir à l’air une rotation préliminaire tournant dans la
+même direction que celle du ventilateur.  Voir Figure 7.
+
+5. La roue n’est pas correctement montée ou tourne en sens
+contraire.
+
+5. Régulateurs d’évacuation — Les régulateurs d’évacuation
+sont normalement fournis complètement assemblés comme
+les régulateurs d’admission. Le régulateur est boulonné à
+l’évacuation du ventilateur pour contrôler le volume.
+
+6. Certaines pièces du système ou du ventilateur ont été
+endommagées ou nécessitent un nettoyage.
+
+Problèmes de bruit
+1. La performance de l’air n’est pas correcte et le ventilateur
+ne fonctionne pas selon les critères de conception. Le ven­
+tilateur se trouve dans une zone d’écoulement instable.
+
+2. Défaillance de palier. Vérifier les paliers (lubrification).
+
+6. Refroidisseur d’arbre — Aussi appelés “roues de refroidisse­
+ment”, ce sont de petites roues en aluminium lamées et
+fendues qui sont  installées par boulonnage entre l’intérieur
+du palier et le cadre du ventilateur. La plaque postérieure
+est normalement la plus proche du cadre et les lames sont
+en face du palier.  Des instructions spécifiques sont fournies
+pour leur application.
+
+3. La tension d’alimentation est trop forte ou la fréquence
+d’alimentation n’est pas constante. Les contrôles de régula­
+tion de fréquence peuvent provoquer un bruit de moteur.
+
+7. Systèmes de circulation d’huile — en général, les modifica­
+tions suivantes doivent être apportées au palier si un sys­
+tème de circulation d’huile est utilisé. Lorsqu’un système de
+circulation d’huile est inclus, un manuel pour l’installation, le
+fonctionnement et l’entretien l’accompagne.
+
+4. Des objets se trouvant dans une location où l’air circule à
+haute vélocité peuvent provoquer un bruit Parmi ces objets:
+capteurs d’écoulement, aubes directrices, etc.
+
+a. Quatre trous de vidanges doivent être percés dans le
+
+5. Mauvaise condition à l’admission du ventilateur.
+
+palier, deux de chaque côté. Conséquemment, le palier
+peut être vidangé des deux côtés. (Le vider en utilisant
+les deux trous sur un des côtés du palier.)
+
+6. Les procédures de mesure de l’acoustique ou du son est
+incorrecte.
+
+b. Il n’est pas nécessaire de vidanger le palier.
+
+c. Le palier sera rempli de graisse pour éviter toute corro­
+
+Problèmes de vibrations
+1. Mauvais alignement des composantes du système
+d’entraînement.
+
+2. Mauvaise fondation ou structure de montage (résonance).
+
+3. Matériau étranger fixé à un élément rotatif.
+
+sion jusqu’à l’installation et mise en service. Les trous
+de vidange seront bouchés avec des couvercles de plas­
+tique pour s’assurer qu’ils sont ouverts. Le client DOIT
+ENLEVER la plus grande partie de cette graisse à l’aide
+d’un dissolvant et enlever les couvercles de plastique
+avant de démarrer le système de circulation d’huile.
+
+12
+
+IM-2-06

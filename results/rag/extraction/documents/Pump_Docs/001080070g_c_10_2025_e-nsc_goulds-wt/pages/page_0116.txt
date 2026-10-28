@@ -1,0 +1,149 @@
+sv - Översättning av orginal instruktioner
+
+Exempel på felaktig installation:
+
+Om enheten lagras i mer än 6 månader gäller följan‐
+de krav:
+
+• Farliga platser (som explosiva eller frätande at‐
+mosfärer).
+• Platser med hög lufttemperatur eller dålig ventila‐
+tion.
+• Utomhusinstallationer som inte är skyddade mot
+regn eller temperaturer under 0 °C.
+
+FARA:
+Denna pump får inte användas för han‐
+tering av brännbara eller explosiva väts‐
+kor.
+
+• Förvara på en skyddad och torr plats.
+• Förvara enheten skyddad från värme, smuts och
+vibrationer.
+• Rotera axeln för hand flera gånger minst var tred‐
+je månad.
+Se information från tillverkaren av drivenheten och
+kopplingarna angående långtidsförvaring.
+Om du har frågor om behandlingstjänster för lång‐
+tidsförvaring, kontakta din lokala försäljnings- och
+servicerepresentant.
+
+Omgivningstemperatur
+
+OBS!:
+
+Produkten måste lagras i en omgivningstemperatur
+på -5 °C till +40 °C (23 °F till 104 °F).
+
+3  Produktbeskrivning
+
+• Använd inte denna pump för att hantera vätskor
+som innehåller repande eller solida substanser
+eller substanser som innehåller fibrer.
+• Använd inte pumpen för flödeshastigheter utan‐
+för de på märkskylten specificerade flödeshastig‐
+heterna.
+
+3.1  Pumpkonstruktion
+
+Specialtillämpningar
+
+Pumpen är en horisontell pump med snäckformat
+pumphus kopplad till standardelmotorer.
+Pumpen kan användas för att hantera:
+
+Kontakta den lokala försäljnings- och servicerepre‐
+sentanten i följande fall:
+
+SV
+
+• Kallt eller varmt vatten
+• Rena vätskor
+• Vätskor som inte är kemiskt eller mekaniskt ag‐
+gressiva mot materialen i pumpen.
+Produkten kan tillhandahållas som en pumpenhet
+(pump och elektrisk motor) eller enbart som en
+pump.
+
+• Om densitets- och/eller viskositetsvärdet för
+vätskan som pumpas överskrider det för vatten,
+som vatten med glykol, då en kraftfullare motor
+kan behövas.
+• Om vätskan som pumpas är kemiskt behandlad
+(till exempel mjukgjord, avjoniserad, avminerali‐
+serad).
+• Alla situationer som skiljer sig från de beskrivna
+och som relaterar till vätskans beskaffenhet.
+
+OBS!:
+Om du har köpt en pump utan motor måste du
+säkerställa att motorn är lämplig för inkoppling till
+pumpen.
+
+3.2  Pumpbeteckning
+Se Figur 2 på sidan 351 för en förklaring av beteck‐
+ningskoden för pumpen samt ett exempel.
+
+Avsedd användning
+
+Pumpen är lämpad för:
+
+3.3  Dataskylt
+Typskylten sitter på lagerbocken. Typskylten anger
+viktiga produktspecifikationer. Mer information finns
+i Figur 1 på sidan 345.
+Typskylten ger information angående pumphjulet
+och materialet i huset, den mekaniska tätningen och
+dess material. Mer information finns i Figur 3 på
+sidan 363.
+
+• Vattenförsörjning och vattenrening
+• Kyl-och varmvattenförsörjning i industrier och
+fastigheter
+• Bevattnings- och sprinklersystem
+• Uppvärmningssystem
+• Brandbekämpning
+Ytterligare användningsområden med tillvalsmateri‐
+al:
+
+IMQ eller TUV eller IRAM eller andra märken
+(endast för elektrisk pump)
+
+• Disktriktsuppvärmning
+• Allmänna industriella tillämpningar
+
+Felaktig användning
+
+För produkter med ett godkännandemärke som är
+elektricitetsrelaterat, hänvisar godkännandet enbart
+till den elpumpen såvida inget annat är angivet.
+
+VARNING!:
+Felaktig användning av pumpen kan ge
+upphov till farliga situationer och leda till
+personskador och egendomsskador.
+
+3.4  Pumpbeskrivning
+• Anslutningsmått i enlighet med EN 733 (model‐
+lerna 32-125…-200; 40-125…-250; 50-125…-250;
+65-125…-315;80-160…-315; 100-200…-400;
+125-250…-400; 150-315…-400).
+• Pump med snäckformat pumphus med utdrag‐
+bart lagerfäste.
+
+Felaktig användning av produkten ogiltigförklarar ga‐
+rantin.
+Exempel på felaktig användning:
+
+3.5  Material
+Metalldelarna i pumpen som kommer i kontakt med
+vätskan är tillverkade av följande:
+
+• Vätskorna är kompatibla med pumpens tillverk‐
+ningsmaterial
+• Farliga vätskor (som giftiga, explosiva, brandfarli‐
+ga eller frätande vätskor)
+• Drickbara vätskor förutom vatten (t.ex. vin eller
+mjölk)
+
+112

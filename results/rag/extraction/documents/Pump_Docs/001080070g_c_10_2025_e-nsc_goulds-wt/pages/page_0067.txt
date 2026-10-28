@@ -1,0 +1,163 @@
+pt - Tradução do original
+
+Objetivo deste manual
+
+Perigo de superfície quente
+
+O objectivo deste manual é fornecer as informações
+necessárias à:
+
+Os perigos de superfície quente são indicados por
+um símbolo específico que substitui os símbolos
+habituais de nível de perigo:
+
+CUIDADO:
+
+• Instalação
+• Funcionamento
+• Manutenção
+
+Instruções
+
+CUIDADO:
+Leia este manual com atenção antes de
+instalar e utilizar o produto. Uma utiliza‐
+ção inadequada do produto pode causar
+lesões e danos à propriedade, bem como
+invalidar a garantia.
+
+AVISO:
+Guarde este manual para referência futura, e mante‐
+nha-o pronto a consultar no local da unidade.
+
+PT
+
+As instruções e as advertências que são fornecidas
+neste manual referem-se à versão padrão, conforme
+descrito no documento de vendas. Podem ser forne‐
+cidas versões especiais de bombas com panfletos
+de instruções suplementares. Consulte o contrato
+de vendas para obter todas as modificações ou
+características especiais da versão. Para obter ins‐
+truções, situações ou eventos que não estejam con‐
+siderados neste manual ou documento de vendas,
+contacte um Centro de assistência da .
+
+1.2  Terminologia e símbolos de segurança
+
+Acerca das mensagens de segurança
+
+1.3  Garantia
+
+Para obter informações sobre garantia, consulte o
+contrato de vendas.
+
+1.4  Peças sobressalentes
+
+É extremamente importante que leia, entenda e siga
+cuidadosamente as regulamentações e as mensa‐
+gens de segurança antes de manusear o produto.
+Elas são publicadas para ajudar a evitar estes ris‐
+cos:
+
+• Acidentes pessoais e problemas de saúde
+• Danos no produto e no respetivo meio envolvente
+• Avarias no produto
+
+Níveis de perigo
+
+ADVERT.:
+Use somente peças sobressalentes ori‐
+ginais para substituir qualquer compo‐
+nente gasto ou com falhas. O uso de pe‐
+ças sobressalentes não adequadas pode
+causar avarias, danos e lesões, bem co‐
+mo anular a garantia.
+
+Nível de perigo
+Indicação
+
+PERIGO:
+
+Situação perigosa que,
+não sendo evitada, resul‐
+tará em morte ou lesão
+grave
+
+CUIDADO:
+Especifique sempre o tipo de produto e o
+número da peça exacto, quando solicitar
+informações técnicas ou peças sobres‐
+salentes ao Departamento de vendas e
+assistência.
+
+ADVERT.:
+
+Situação perigosa que,
+não sendo evitada, pode‐
+rá resultar em morte ou
+lesão grave
+
+Para obter mais informações sobre as peças so‐
+bressalentes dos produtos, visite o website da rede
+comercial.
+
+CUIDADO:
+
+2  Transporte e armazenamento
+
+Situação perigosa que,
+não sendo evitada, pode‐
+rá resultar em lesão mí‐
+nima ou moderada
+
+2.1  Verificar a entrega
+
+AVISO:
+
+1. Verifique o exterior da embalagem para ver se
+existem sinais evidentes de danos.
+
+2. Notifique o nosso distribuidor no prazo de oito
+dias a partir da data de entrega, caso o produto
+apresente sinais visíveis de danos.
+
+As notificações alertam
+para situações em que
+exista risco de danos
+materiais ou redução de
+desempenho do equipa‐
+mento, mas não exista
+risco de lesão corporal.
+
+Desembalar a unidade
+
+Símbolos especiais
+
+1. Siga o passo aplicável:
+– Se a unidade estiver embalada numa caixa de
+
+Algumas categorias de perigo têm símbolos especí‐
+ficos, conforme ilustrado na tabela seguinte.
+
+cartão, retire os agrafos e abra a caixa.
+– Se a unidade estiver embalada numa caixa
+
+Perigo elétrico
+Perigo de campos mag‐
+néticos
+
+de madeira, abra a tampa enquanto presta
+atenção aos pregos e correias.
+
+2. Retire os parafusos de fixação o as correias da
+base de madeira.
+
+CUIDADO:
+
+Choque elé‐
+trico:
+
+2.1.1  Examinar a unidade
+
+63

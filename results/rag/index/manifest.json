@@ -1,0 +1,29 @@
+{
+  "chunk_count": 3353,
+  "embedding_dimension": 384,
+  "model_repo": "Xenova/multilingual-e5-small",
+  "model_revision": "761b726dd34fb83930e26aab4e9ac3899aa1fa78",
+  "runtime": {
+    "ready": true,
+    "node": "v24.19.0",
+    "onnxruntime": "1.31.1",
+    "inputNames": [
+      "input_ids",
+      "attention_mask",
+      "token_type_ids"
+    ],
+    "outputNames": [
+      "last_hidden_state"
+    ]
+  },
+  "pages_jsonl_sha256": "0b70b4e0b1f14c18d36e1860830172fa72cf8eac07c322ac79e325a40f858376",
+  "chunks_jsonl_sha256": "1ed085ddf745183acb76293f69c04c0bc292d1a83c20bf3b62638c97e9d973c7",
+  "embedding_sha256": "bd264b25ab2d553de1946a5620cda7a2fbd86bb4376789a5b31ca128760a3acf",
+  "sqlite_sha256": "a52665bd2ee14203d298e0afb8d1df12d1dbc5b5f3c79bf0c19a0ed9424b5f3b",
+  "tokenizer_sha256": "0b44a9d7b51c3c62626640cda0e2c2f70fdacdc25bbbd68038369d14ebdf4c39",
+  "keyword_search": "SQLite FTS5 BM25, Unicode and diacritic normalization",
+  "fusion": "equal-weight reciprocal rank fusion, constant 60",
+  "unreviewed_ocr_included": false,
+  "remote_inference": false,
+  "source_applicability": "generic guidance; equipment match unverified"
+}

@@ -1,0 +1,160 @@
+fi - Alkuperäisen käännöksen
+
+Putkiston tarkistusluettelo
+
+Sähköohjauspaneelin tarkistusluettelo
+
+Tarkista, että seuraavat vaatimukset täyttyvät:
+
+HUOMIO:
+Ohjauspaneelin täytyy vastata sähköpumpun nimelli‐
+sarvoja. Väärät yhdistelmät voivat laiminlyödä moot‐
+torin suojauksen.
+
+Tarkista, että seuraavat vaatimukset täyttyvät:
+
+• Ohjauspaneelin täytyy suojata moottoria ylikuor‐
+malta ja oikosululta.
+• Asenna sopiva ylikuormitussuoja (lämpörele tai
+moottorin suojakytkin).
+
+Pumpputyyppi
+Suojaus
+
+– Sisäänrakennettu
+
+Yksivaiheinen tavalli‐
+nen sähköpumppu ≤
+2,2 kW
+
+automaattinen nol‐
+laava lämpöam‐
+peerimittarisuojaus
+(moottorin suojakyt‐
+kin)
+– Oikosulkusuojaus
+
+(asentajan on toimi‐
+tettava)21
+
+Kolmivaihesähköpump‐
+pu22
+– Lämpösuojaus
+
+(asentajan toimitet‐
+tava)
+– Oikosulkusuojaus
+
+FI
+
+(asentajan toimitet‐
+tava)
+
+• Kaikki putkisto on tuettu itsenäisesti; putkisto ei
+saa kuormittaa yksikköä.
+• Joustavia putkia tai liitoksia käytetään, jotta tä‐
+rinät eivät siirry pumpusta putkiin tai putkista
+pumppuun.
+• Käytä leveitä mutkia, vältä käyriä, jotka rajoittavat
+virtausta liikaa.
+• Imuputkisto on täysin tiivistetty ja ilmatiivis.
+• Jos pumppua käytetään avoimessa piirissä, imu‐
+putken halkaisijan täytyy sopia asennusolosuh‐
+teisiin. Imuputki ei saa olla pienempi kuin imupor‐
+tin halkaisija.
+• Jos imuputkiston täytyy olla suurempi kuin pum‐
+pun imupuoli, asennetaan putken epäkeskinen
+supistuskappale.
+• Jos pumppu sijoitetaan nesteen pinnan yläpuo‐
+lelle, imuputkiston päähän asennetaan pohjavent‐
+tiili.
+• Pohjaventtiili upotetaan nesteeseen kokonaan
+niin, että imupyörteen läpi ei pääse ilmaa, kun
+neste on minimitasolla ja pumppu on asennettu
+nestelähteen yläpuolelle.
+• Asianmukaisesti mitoitetut sulkuventtiilit asenne‐
+taan imuputkistoon ja päästöputkistoon (alavir‐
+taan tarkistusventtiilistä) pumpun kapasiteetin
+säätelyä, pumpun tarkastusta ja kunnossapitoa
+varten.
+• Takaisinvirtauksen estämiseksi pumppuun, kun
+pumppu on sammutettu, päästöputkistoon asen‐
+netaan tarkistusventtiili.
+
+• Ohjauspaneelissa täytyy olla kuivakäynnin esto‐
+järjestelmä, johon on liitetty painekytkin, pintakyt‐
+kin, sondi tai muu sopiva laite.
+• Pumpun imupuolella suositellaan käytettäviksi
+seuraavia laitteita:
+
+– Käytä painekytkintä, kun pumpataan nestettä
+
+vesijärjestelmästä.
+– Käytä pintakytkintä tai uimuriantureita, kun
+
+VAROITUS:
+Älä sulje poistopuolen sulkuventtiiliä
+muutamaa sekuntia pidemmäksi ajaksi
+pumpun kuristamiseksi. Jos pumpun
+täytyy toimia poistopuoli suljettuna muu‐
+tamaa sekuntia pidempään, täytyy asen‐
+taa ohituspiiri pumpun sisällä olevan
+nesteen ylikuumenemisen estämiseksi.
+
+nestettä pumpataan nestesäiliöstä tai -altaas‐
+ta.
+• Jos käytetään lämpöreleitä, on suositeltavaa
+käyttää vaihevirheelle herkkiä releitä.
+
+Putkiston vaatimukset esittävät kuvat ovat kohdissa
+Kuva 13 sivulla 380 ja Kuva 14 sivulla 380.
+
+Moottorin tarkistuslista
+
+VAROITUS:
+
+4.2  Sähkövaatimukset
+• Voimassa olevat paikalliset määräykset ohittavat
+nämä määritetyt vaatimukset.
+• Tarkista palontorjuntajärjestelmien (palopostit
+ja/tai sprinklerit) osalta voimassa olevat paikalli‐
+set määräykset.
+
+Sähköliitäntöjen tarkistusluettelo
+
+• Tarkista käyttöohjeista, onko suojalai‐
+te toimitettu, kun käytetään muuta
+kuin vakiomoottoria.
+• Jos moottori on varustettu automaat‐
+tisilla lämpösuojaimilla, varo odotta‐
+mattomia käynnistyksiä ylikuormitus‐
+tilanteissa. Älä käytä tällaisia mootto‐
+reita palontorjuntasovelluksiin.
+
+Tarkista, että seuraavat vaatimukset täyttyvät:
+
+HUOMIO:
+
+• Sähköjohdot on suojattu korkealta lämpötilalta,
+tärinältä ja törmäyksiltä.
+• Virransyöttöjohto sisältää:
+– Oikosulkusuojalaitteen
+– Päävirtakytkin, jonka kosketinväli on vähin‐
+
+tään 3 mm
+
+• Käytä ainoastaan dynaamisesti tasapainotettuja
+moottoreita, joissa on puolikokoinen kiila akselin
+jatkeessa (IEC 60034-14) ja jossa on normaali
+värähtelynopeus (N).
+• Verkkovirran jännitteen ja taajuuden tulee vastata
+tietokilvessä olevia tietoja.
+
+21
+sulakkeet aM (moottorin käynnistys) tai magneettilämpökytkin, jonka käyrä C ja Icn ≥ 4,5 kA, tai muu
+vastaava laite.
+22
+, laukaisuluokka 10A + sulakkeet aM (moottorin käynnistys) tai moottorin suojamagneettilämpökytkin,
+käynnistysluokka 10A.
+
+126

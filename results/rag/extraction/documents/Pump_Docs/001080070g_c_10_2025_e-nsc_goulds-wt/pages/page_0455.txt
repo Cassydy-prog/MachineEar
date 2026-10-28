@@ -1,0 +1,62 @@
+Declarations of Conformity
+
+Elektrikli pompa
+
+AT Uygunluk Beyanı (tercümesi) 
+ 
+Merkezi Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italy adresinde bulunan Xylem Service Italia S.r.l., işbu belge 
+ile 
+NSCC… veya NSCF… elektrikli pompa (son sayfadaki etikete bakın) 
+aşağıdaki Avrupa Direktiflerinin geçerli koşullarını karşılar 
+•  2006/42/AT Makine Direktifi ve müteakip değişikliklern(EK II - teknik dosyayı doldurmakla yetkilendirilmiş gerçek ya da tüzel kişi: 
+Xylem Service Italia S.r.l.), 
+•  Eko-tasarım 2009/125/AT ve sonraki değişiklikler, Yönetmelik (AB) 2019/1781 ve sonraki değişiklikler (elektrik motoru, eğer IE2 
+veya IE3 veya IE4 işaretliyse), Yönetmelik (AB) no. 547/2012 ve sonraki değişiklikler (su pompası MEI işaretliyse) 
+ve teknik standartlar 
+•  EN 809:1998+A1:2009, EN 60204-1:2018. 
+•  EN 60034-30:2009, EN 60034-30-1:2014, EN 60034-2-1:2007, EN 60034-2-1:2014, EN 16480:2021. 
+Montecchio Maggiore, 25/03/2025
+
+Alessio Vendraminelli
+
+Murahhas Aza 
+ 
+rev. 00 
+AB Uygunluk Taahhütnamesi (n. 01) 
+ 
+1. EMCD - Aparat/Ürün modeli: NSCC… veya NSCF… (son sayfadaki etikete bakın) 
+    RoHS - özgün EEE tanımlanması: NSCC… veya NSCF…  
+2. Üreticinin isim ve adresi: 
+ Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ 36075 Montecchio Maggiore VI 
+ Italy 
+3. Bu uygunluk taahhütnamesi üreticinin yegane sorumluluğu altında çıkarılmıştır. 
+4. Taahhütnamenin içeriği: Elektrik pompası. 
+5. Yukarıda açıklanan beyanın hedefi, ilgili Birlik uyumlaştırma mevzuatı ile uyumludur 
+•  Direktif 2014/30/AB, 26 Şubat 2014 ve müteakip değişiklikler (elektromanyetik uyumluluk).  
+•  8 Haziran 2011 tarihli 2011/65/AB Direktifi ve müteakip değişiklikler, 2015/863/EU direktifi dahil (bazı tehlikeli maddelerin 
+elektrikli ve elektronik cihazlarda kullanımının kısıtlanması). 
+6. Kullanılan ilgili uyumlaştırılmış standartlara ya da diğer teknik özelliklere yapılan atıflar, uygunluk beyanı ile uyumludur: 
+• EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-4:2007 
++A1:2011, EN IEC 61000-6-4:2019. 
+• EN IEC 63000:2018. 
+7. Onaylanmış kuruluş: - - - 
+8. Ek bilgiler: 
+(RoHS) - Ek III - Kısıtlamalardan muaf uygulamalar: çelik, alüminyum, bakır alaşımlarında [6(a), 6(b), 6(c)].  
+Optimyze: İzleme cihazıyla birlikte verilen belgelere bakın [Radyo ekipmanı 2014/53/EU ve sonraki değişiklikler, Elektrikli ve 
+elektronik ekipmanlarda belirli tehlikeli maddelerin kullanımının kısıtlanması 2011/65/EU ve sonraki değişiklikler, (AB) 2015/863 
+Direktifi dahil]. 
+Namına imzalanan: Xylem Service Italia S.r.l. 
+Montecchio Maggiore, 25/03/2025
+
+Alessio Vendraminelli
+
+Murahhas Aza 
+rev. 00 
+
+Uygunluk beyanı/beyanları, 001080070G kodlu Xylem belgesinin geri kalan metninden ayrı olarak kullanıldığında geçerli değildir. 
+ 
+Pompa
+
+451

@@ -1,0 +1,151 @@
+pt - Tradução do original
+
+Alinhamento do acoplamento com calços
+
+Consulte Figura 17 na página 384 para obter infor‐
+mações sobre onde ligar a bomba e o motor à base
+e onde inserir os calços fornecidos.
+
+AVISO:
+Certifique-se de que o acoplamento pode ser facil‐
+mente rodado manualmente e que existe alguma
+folga entre os dentes.
+
+AVISO:
+O alinhamento incorrecto da unidade pode causar
+danos graves no sistema.
+
+AVISO:
+Se o acoplamento estiver desalinhado, pode causar
+vibrações, o que pode resultar no desgaste prematu‐
+ro dos componentes rotativos da unidade.
+
+1. Desaperte os parafusos que fixam a bomba e o
+motor à base.
+2. Levante ligeiramente a bomba e o motor.
+3. Insira os calços entre a base e os pés da bomba
+e do motor, num ou mais dos pontos indicados.
+4. Coloque a bomba e o motor na base, alinhando
+os orifícios dos parafusos.
+5. Aperte os parafusos.
+6. Repita a verificação do alinhamento do acopla‐
+mento.
+
+Instalação da protecção do acoplamento
+
+Verifique o alinhamento do acoplamento da unidade
+após o seguinte:
+
+PT
+
+CUIDADO:
+Nunca ponha a bomba a funcionar sem
+que a protecção de acoplamento esteja
+correctamente instalada.
+
+• Transporte e instalação
+• Arranque inicial
+• Atingir a temperatura de funcionamento.
+Efectue a verificação mesmo se a unidade tiver sido
+entregue totalmente montada na estrutura.
+
+Tipo de protecção: rede metálica
+Para obter informações, consulte Figura 18 na pági‐
+na 386 .
+
+Verificar o alinhamento do acoplamento com
+uma régua e um calibrador de espessura
+
+Para obter informações sobre como alinhar um aco‐
+plamento padrão (A) e um acoplamento com espa‐
+çador (B), consulte Figura 27 na página 397
+
+1. Remova a protecção do acoplamento.
+
+1. Reposicione a protecção (1) correctamente de
+modo a que rodeie a extremidade de saída do
+eixo da bomba e o anel de suporte (3) no lado do
+motor.
+2. Aperte os parafusos (2).
+Tipo de protecção: chapa metálica
+Para obter informações, consulte Figura 19 na pági‐
+na 388 .
+
+AVISO:
+A protecção pode ser de rede metálica (consulte
+Figura 18 na página 386 ) ou de chapa metálica
+(consulte Figura 19 na página 388 )
+
+1. Posicione a meia-protecção inferior da protecção
+de acoplamento (2).
+2. Aperte os parafusos de fixação da meia-protec‐
+ção inferior (4).
+3. Abra e insira o anel de suporte/ajuste (6) com
+o compartimento para baixo e pressione-o axial‐
+mente contra o motor.
+4. Posicione a meia-protecção superior do acopla‐
+mento (1).
+5. Aperte os parafusos de fixação da meia-protec‐
+ção superior (3).
+6. Aperte os parafusos de fecho das meias protec‐
+ções (5).
+
+4.3.4  Instalação eléctrica
+
+1. Retire os parafusos da tampa da caixa de termi‐
+nais.
+
+2. Ligue e aperte os cabos de alimentação de acor‐
+do com o diagrama de ligações aplicável:
+
+Para os diagramas de ligações, consulte Figura
+21 na página 392 . Os diagramas também estão
+disponíveis na parte posterior da tampa da caixa
+de terminais.
+
+a) Ligue o fio de terra.
+
+2. Coloque uma régua nos meios acoplamentos.
+3. Meça as distâncias mostradas na figura.
+4. Rode manualmente o acoplamento em incremen‐
+tos de 90° e repita a medição.
+5. Repita o passo 4 várias vezes: o alinhamento
+radial está correcto se as distâncias forem as
+mesmas em todos os pontos em redor da circun‐
+ferência, dentro do desvio permitido; consulte Ta‐
+bela 28 na página 399 . Caso contrário, consulte
+Alinhamento do acoplamento com calços na pá‐
+gina 70 .
+6. Verifique a distância entre os meios acoplamen‐
+tos com um calibrador de espessura.
+7. Rode manualmente o acoplamento em incremen‐
+tos de 90° e verifique novamente a distância.
+8. Repita o passo 7 várias vezes: o alinhamento
+axial está correcto se as distâncias forem as
+mesmas em todos os pontos em redor da cir‐
+cunferência, dentro do desvio permitido; consulte
+Tabela 28 na página 399 . Caso contrário, Alinha‐
+mento do acoplamento com calços na página
+70 .
+9. Reinstale a protecção do acoplamento.
+• M5 → 3 Nm (27 lbf·pol) ± 15%
+• M6 → 5 Nm (44 lbf·pol) ± 15%.
+
+Certifique-se de que o fio de terra é maior que
+os fios de fase.
+b) Ligue os fios de fase.
+
+Verificação do alinhamento do acoplamento
+com o alinhador laser
+
+3. Monte a tampa da caixa de terminais.
+
+Pode verificar o alinhamento do acoplamento com
+um alinhador a laser: consulte o manual de instru‐
+ções do alinhador.
+
+AVISO:
+Aperte cuidadosamente os bucins dos cabos pa‐
+ra garantir a protecção contra deslizamento do
+
+70

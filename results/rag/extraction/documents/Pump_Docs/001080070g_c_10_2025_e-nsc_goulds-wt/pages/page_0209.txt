@@ -1,0 +1,232 @@
+sk - Preklad originálu
+
+Kód materiálu
+Puzdro materiá‐
+
+lu/obežné kole‐
+
+Štandard/
+Doplnkové vy‐
+
+so
+
+bavenie
+
+Nehrdzavejúca
+
+oceľ
+
+napríklad voda s glykolom, keďže môže byť po‐
+trebný výkonnejší motor.
+• Ak je čerpaná kvapalina chemicky ošetrovaná
+(napríklad zmäkčovaná, deionizovaná, deminera‐
+lizovaná, atď.).
+• Akákoľvek situácia odlišujúca sa od tých, ktoré
+popísané, a týkajúca sa povahy kvapaliny.
+
+RR
+Duplex/Duplex
+Doplnkové vyba‐
+
+venie
+
+3.2  Význam čerpadla
+V tabuľke Obrázok 2 na strane 351 sa nachádza po‐
+pisného kódu čerpadla a jeden príklad.
+
+3.6  Mechanické tesnenie
+Jedno nevyvážené mechanické tesniace príslušen‐
+stvo EN 12756, verzia K.
+
+3.7  Medzné hodnoty
+
+Maximálny pracovný tlak
+
+3.3  Továrenský štítok
+Typový štítok sa nachádza na ložiskovom štíte. To‐
+várenský štítok uvádza kľúčové technické parametre
+výrobku. Ďalšie informácie nájdete v časti Obrázok 1
+na strane 345.
+Továrenský štítok obsahuje údaje o obežnom kolese
+a materiáli puzdra, mechanickom tesnení a jeho ma‐
+teriáloch. Ďalšie informácie nájdete v časti Obrázok
+3 na strane 363.
+
+Obrázok 4 na strane 367 zobrazuje maximálny pra‐
+covný tlak v závislosti od modelu čerpadla a teploty
+čerpanej kvapaliny.
+P1 max +Pmax≤ PN
+
+P1 max
+Maximálny prívodný tlak
+
+IMQ, TUV, IRAM alebo iné značky (iba pri
+elektrických čerpadlách)
+
+Pmax
+Maximálny tlak vytváraný čerpadlom
+
+PN
+Maximálny prevádzkový tlak
+
+Intervaly teploty kvapaliny
+
+Ak nie je uvedené inak, pri elektrických výrobkoch
+s označením schválenia sa toto schválenie týka vý‐
+hradne elektrického čerpadla.
+
+3.4  Popis čerpadla
+
+Obrázok 4 na strane 367 zobrazuje rozsahy pracov‐
+nej teploty.
+Pre špecifické požiadavky kontaktujte zástupcu pre
+predaj a služby.
+
+Maximálny počet štartov za hodinu
+
+• Rozmery prípojky podľa normy EN 733 (mo‐
+dely 32-125…-200; 40-125…-250; 50-125…-250;
+65-125…-315;80-160…-315; 100-200…-400;
+125-250…-400; 150-315…-400).
+• Čerpadlo so špirálovou skriňou so zadným vyťa‐
+hovacím ložiskovým štítom.
+
+18,5
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+60
+40
+30
+24
+16
+8
+4
+
+3.5  Materiál
+Kovové časti čerpadla, ktoré prichádzajú do styku
+s kvapalinou, sú vyrobené z nasledovných materiá‐
+lov:
+
+SK
+
+Kód materiálu
+Puzdro materiá‐
+
+Štarty
+za
+hodi‐
+nu
+
+lu/obežné kole‐
+
+Štandard/
+Doplnkové vy‐
+
+so
+
+bavenie
+
+Hladina hluku
+
+CC
+Liatina/liatina
+Štandard
+
+CB
+Liatina/bronz
+Štandard
+
+Štandard
+
+CS
+Liatina/
+Nehrdzavejúca
+
+Úrovne tlaku zvuku čerpadla vybaveného štandardne
+dodávaným motorom nájdete v Tabuľka 9 na strane
+368.
+Údaje o úrovniach akustického tlaku čerpadla bez
+motora nájdete v časti Tabuľka 10 na strane 372.
+
+oceľ
+
+Štandard
+
+4  Inštalácia
+
+CN
+Liatina/
+Nehrdzavejúca
+
+Bezpečnostné opatrenia
+
+oceľ
+
+DC
+Kované železo/
+
+Štandard
+
+VAROVANIE:
+
+liatina
+
+DB
+Kované železo/
+
+Štandard
+
+bronz
+
+DN
+Kované železo/
+
+Štandard
+
+nehrdzavejúca
+
+oceľ
+
+• Rešpektujte platné predpisy na pred‐
+chádzanie haváriám.
+• Použite vhodné zariadenia a ochranu.
+• Vždy si preštudujte a rešpektujte plat‐
+né miestne alebo vnútroštátne pred‐
+pisy, legislatívu a pravidlá výberu mie‐
+sta inštalácie a vodnej a elektrickej
+prípojky.
+
+NN
+Nehrdzavejúca
+
+Štandard
+
+oceľ/
+
+205

@@ -1,0 +1,172 @@
+lt - Originalo vertimas
+
+• Siurblio siurbimo dalyje rekomenduojama naudo‐
+ti šiuos įrenginius:
+
+– Skystį siurbdami iš vandens sistemos, naudo‐
+
+kite slėgio jungiklį.
+– Skystį siurbdami iš saugyklos ar rezervuaro,
+
+Nenaudokite uždaryto atidarymo / užda‐
+rymo vožtuvo išleidimo pusėje, kad neuž‐
+blokuotumėte siurblio srauto ilgiau nei
+kelias sekundes. Jei siurblį reikia naudoti
+ilgiau nei kelias sekundes, kai išleidimo
+pusė uždaryta, reikalinga gretšakė, kad
+neperkaistų siurblyje esantis skystis.
+
+naudokite plūdinį jungiklį ar jutiklius.
+• Jei naudojamos šiluminės relės, rekomenduoja‐
+ma naudoti į fazės gedimus reaguojančias reles.
+
+Nurodymai dėl variklio
+
+Brėžinių, kuriuose nurodyti vamzdžiams keliami rei‐
+kalavimai, ieškokite 13 paveikslėlis 380 psl. ir 14 pa‐
+veikslėlis 380 psl..
+
+PERSPĖJIMAS:
+
+4.2  Elektros sistemai taikomi reikalavimai
+• Galiojančių vietos teisės aktų nuostatos turi pir‐
+menybę prieš šiuos nurodytus reikalavimus.
+• Jei naudojamos gaisro gesinimo sistemos (van‐
+dens kolonėlės ir (arba) purkštuvai), laikykitės
+vietoje taikomų normų.
+
+Nurodymai dėl elektros jungties
+
+• Perskaitykite naudojimo instrukcijas,
+kad įsitikintumėte, jog yra apsauginis
+įtaisas naudojant kitą nei standartinis
+variklį.
+• Jei variklis yra su automatiniais ter‐
+miniais saugikliais, nepamirškite, kad
+perkrovos atveju kyla netikėto paleidi‐
+mo rizika. Šių variklių nenaudokite su
+gaisro gesinimo įranga.
+
+Patikrinkite, ar tenkinami toliau nurodyti reikalavimai.
+
+PASTABA:
+
+• Elektros laidai apsaugoti nuo aukštos temperatū‐
+ros, vibracijos ir susilietimo.
+• Maitinimo tiekimo sistemoje yra:
+– Apsaugos nuo trumpojo jungimo įtaisas
+– maitinimo tinklo izoliatoriaus jungiklis su ma‐
+
+žiausiai 3 mm tarpu tarp kontaktų.
+
+• Naudokite tik dinamiškai balansuojamus varik‐
+lius su pusiniu raktu veleno ilgintuve (IEC
+60034-14), pasižyminčius normalia vibracija (N).
+• Elektros tinklo įtampa ir dažnis turi atitikti duo‐
+menų plokštėje pateikiamas specifikacijas.
+
+Nurodymai dėl elektros valdymo skydo
+
+Apibendrinus, varikliai veikia šiose elektros tinklo
+įtampos ribose:
+
+Dažnis Hz
+Fazė ~
+UN [V] ± %
+
+PASTABA:
+Valdymo skydas turi atitikti elektrinio siurblio rodik‐
+lius. Naudojant netinkamus derinius gali nebūti užtik‐
+rinta variklio apsauga.
+
+50
+1
+220–240 ± 6
+
+Patikrinkite, ar tenkinami toliau nurodyti reikalavimai.
+
+LT
+
+3
+230/400 ± 10
+
+400/690 ± 10
+
+60
+1
+220–230 ± 6
+
+• Valdymo skydas turi apsaugoti variklį nuo perkro‐
+vos ir trumpojo sujungimo.
+• Sumontuokite tinkamą apsaugą nuo perkrovos
+(šiluminę relę arba variklio saugiklį).
+
+3
+220/380 ± 5
+
+Siurblio tipas
+Apsauga
+
+380/660 ± 10
+
+– Įmontuota automa‐
+
+Standartinis vienfazis
+elektrinis siurblys ≤ 2,2
+kW
+
+Naudokite kabelius pagal taisykles: 3 laidų (2 + įže‐
+minimo laidas), kai naudojama vienfazė versija, ir 4
+laidų (3 + įžeminimo laidas), kai naudojama trifazė
+versija.
+
+tinio nustatymo iš
+naujo šiluminė am‐
+perometrinė apsau‐
+ga (variklio saugik‐
+lis)
+– Trumpojo jungimo
+
+4.3  Siurblio montavimas
+
+4.3.1  Mechaninis montavimas
+
+apsauga (turi būti
+tiekiama montuoto‐
+jo)29
+
+Įrengimo vieta
+
+Trifazis elektrinis siurb‐
+lys30
+– Šiluminis apsaugi‐
+
+nis įrenginys (tiekia‐
+ma montuotojo)
+– Apsauga nuo trum‐
+
+Sumontuokite įrenginį ant betono arba metalinio pa‐
+grindo, kad būtų užtikrinta nuolatinė ir tvirta atrama.
+Laikykitės reikalavimų, pateiktų Siurblio vieta 169
+psl..
+
+pojo sujungimo (tie‐
+kiama montuotojo)
+
+Montavimas ant betono pagrindo
+
+Fondo reikalavimai
+
+• Valdymo skyde privalo būti sauso veikimo apsau‐
+gos sistema, prie kurios prijungtas slėgio jungik‐
+lis, plūdinis jungiklis, zondai arba kitas tam tinka‐
+mas įrenginys.
+
+29
+sujungia aM (variklio užvedimą) arba magnetoterminį jungiklį su C kreive ir Icn ≥ 4,5 kA ar kitu lygiaverčiu
+įtaisu.
+30
+šiluminė relė su 10A klasės kelioniniais saugikliais aM (variklio paleidimas) arba variklio apsaugos
+magnetoterminiu jungikliu su 10A pradine klase.
+
+171

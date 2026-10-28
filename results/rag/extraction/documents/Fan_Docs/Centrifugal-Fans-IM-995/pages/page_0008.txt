@@ -1,0 +1,40 @@
+IM-995
+
+WARNING
+
+Refer to handling section prior to lifting equipment.
+
+Foundations & Supporting Structures (refer to lifting/safety section)
+The best means of floor mounting a fan is on a well-designed, flat, level and prepared concrete foundation. The foundation should 
+have a mass of at least three times that of the supported assembly. Rigid foundation stiffness must be between 1x106 lbs./in. 
+to 4x106 lbs./in. depending upon size and speed. The foundation should extend 6" beyond the outer dimensions of the fan and 
+driver; however, it should be no more than twice the area required for the equipment. If it is made larger, the mass should be 
+increased accordingly to resist rocking modes of vibration. Anchor bolts should be carefully located by a competent tradesman as 
+impeller to inlet, bearing location and motor location are critical to final fan alignment. J or T type anchor bolts of sufficient size 
+should be used and should be tied into the reinforcing bar for the foundation. Pipe sleeves may be incorporated when pouring 
+the concrete. After the concrete is poured, a pipe sleeve with a diameter of 2 to 21⁄2 times the anchor bolt diameter should be 
+provided around the anchor bolt for final adjustment. The mounting surface of the foundation should be smooth for good shim 
+contact. It may be necessary to grind high spots. When deciding the thickness of the foundation, approximately 1 to 11⁄2" height 
+should be allowed for shimming, grouting, leveling, washers, nuts, etc. The above represents industry best practice. Actual 
+foundation design should be entrusted to a qualified engineer. Anchor bolts should be accurately placed to coincide with the 
+predetermined fan securing holes, or the manufactured base, to ensure that the fan is not distorted. (This may impact alignment 
+and vibration.)
+
+Fan mounted on an inertia base.
+Base and pedestal shown filled with reinforced concrete.
+
+Fans mounted on a sub-floor or mezzanine must have adequate stiffness or be mounted on an inertia base with springs properly 
+selected. An inertia base is recommended for arrangement 8 fans to ensure alignment of the rotor and drive.
+
+If a structural steel base or platform is to be used, the structure must be designed for the weight of the fan, live loads imposed 
+by rotation of the rotor and driver, and any external live loads. The structure should be designed to ensure that no natural 
+frequency will occur within 30% of the fan speed. This is especially true if the structure supports more than one fan.  Inertia bases 
+are generally recommended to provide adequate mass and stiffness for fan operation.
+
+Any ducting should have independent support. Do not use the fan to support ducting as the housing or pedestal may become 
+distorted. The fan frame can be designed to carry some external loads. Consult the factory if this is a concern. Isolating the fan 
+from ductwork with flex connections eliminates transmission of vibration. Fans handling hot gases require expansion joints at 
+both the inlet and discharge to prevent excessive loads caused by thermal growth.
+
+Installation, Operation & Maintenance Manual
+8

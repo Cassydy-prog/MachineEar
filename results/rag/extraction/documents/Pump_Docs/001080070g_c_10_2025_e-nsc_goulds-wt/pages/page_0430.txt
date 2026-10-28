@@ -1,0 +1,68 @@
+Declarations of Conformity
+
+6. Henvisninger til de relevante harmoniserte standardene som er anvendt, eller henvisninger til andre tekniske spesifikasjoner det 
+erklæres samsvar med: 
+• EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-4:2007 
++A1:2011, EN IEC 61000-6-4:2019. 
+• EN IEC 63000:2018. 
+7. Meldt organ: - - - 
+8. Tilleggopplysninger: 
+RoHS – Vedlegg III – Anvendelser unntatt fra begrensningene: bly som bindeelement i stål, aluminium, kobberlegeringer [6(a), 6(b), 
+6(c)].  
+Optimyse: Se dokumentasjonen som følger med overvåkingsenheten (Radioutstyr 2014/53/EU og senere endringer. Begrensning 
+av bruk av visse farlige stoffer i elektrisk og elektronisk utstyr 2011/65/EU og senere endringer, inkludert direktiv (EU) 2015/863). 
+Undertegnet for og på vegne av: Xylem Service Italia S.r.l.
+
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Administrerende direktør
+
+Samsvarserklæringen(e) er ikke gyldig(e) hvis den(de) brukes separat fra resten av teksten i Xylems dokumentkode 001080070G. 
+ 
+Pumpe 
+ 
+EF-samsvarserklæring (oversettelse) 
+ 
+Xylem Service Italia S.r.l., med hovedkontor i Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italy, erklærer hermed at 
+produktet 
+NSC… pumpe (se etikett på siste side) 
+oppfyller de aktuelle bestemmelsene i følgende europeiske direktiver 
+•  Maskiner 2006/42/EF og senere endringer (Vedlegg II - person som har fått fullmakt til å utarbeide de tekniske dataene: Xylem 
+Service Italia S.r.l.), 
+•  Eco-design 2009/125/EF og senere endringer, forordning (EU) nr. 547/2012 og senere endringer (vannpumpe hvis MEI-merket) 
+og tekniske standarder 
+•  EN 809:1998+A1:2009. 
+•  EN 16480:2021. 
+Tilleggopplysninger: 
+Optimyse: Hvis levert med pumpen, se dokumentasjonen som følger med overvåkingsenheten (Radioutstyr 2014/53/EU og senere 
+endringer. Begrensning av bruk av visse farlige stoffer i elektrisk og elektronisk utstyr 2011/65/EU og senere endringer, inkludert 
+direktiv (EU) 2015/863).
+
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Administrerende direktør
+
+Samsvarserklæringen(e) er ikke gyldig(e) hvis den(de) brukes separat fra resten av teksten i Xylems dokumentkode 001080070G. 
+ 
+Försäkran om överensstämmelse 
+Se den specifika märkningsförklaringen som sitter på produkten. 
+ 
+Elektropump
+
+EG-intyg om överensstämmelse (översättning) 
+Xylem Service Italia Srl, med huvudkontor i Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italy, försäkrar härmed att 
+produkten: 
+NSCC… eller NSCF… elektrisk pump (se etiketten på sista sidan) 
+uppfyller gällande krav i följande europeiska direktiv 
+•  Maskindirektiv 2006/42/EG och senare ändringar (BILAGA II – fysisk eller juridisk person som är behörig att sammanställa den 
+tekniska dokumentationen: Xylem Service Italia S.r.l.), 
+•  Ekodesign 2009/125/EG och senare ändringar, förordning (EU) 2019/1781 och senare ändringar (elmotor, om IE2-, IE3- eller IE4-
+märkt), förordning (EU) nr. 547/2012 och senare ändringar (vattenpump om MEI-märkt)
+
+426

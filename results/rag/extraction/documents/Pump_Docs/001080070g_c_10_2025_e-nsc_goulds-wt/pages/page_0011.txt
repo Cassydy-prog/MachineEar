@@ -1,0 +1,167 @@
+it - Traduzione dell'originale
+
+schio di avviamenti imprevisti in rela‐
+zione al sovraccarico. Non utilizzare
+tali motori per applicazioni antincen‐
+dio.
+
+• I conduttori elettrici sono protetti da temperature
+troppo elevate, vibrazioni e urti.
+• La linea di alimentazione è dotata di:
+– Un dispositivo di protezione da corto circuito
+– Un isolatore-sezionatore con distanza tra i
+
+contatti di almeno 3 mm
+
+NOTA BENE:
+
+La lista di controllo per il quadro elettrico di
+comando
+
+IT
+
+• Utilizzare solo motori bilanciati dinamicamente
+con mezza linguetta posta all'estremità dell'albe‐
+ro (IEC 60034-14) e con grado di vibrazione nor‐
+male (N).
+• La tensione e la frequenza di rete devono corri‐
+spondere alle specifiche riportate sulla targa dati.
+
+NOTA BENE:
+Il quadro elettrico deve essere idoneo rispetto ai 
+valori nominali dell’elettropompa. Combinazioni non 
+appropriate non garantiscono la protezione del mo‐
+tore.
+
+Generalmente i motori possono funzionare con una
+tensione di alimentazione avente una tolleranza di:
+
+Controllare che siano soddisfatti i seguenti requisiti:
+
+Frequenza Hz
+Fase ~
+UN [V] ± %
+
+50
+1
+220 – 240 ± 6
+
+3
+230/400 ± 10
+
+• Il quadro elettrico deve proteggere il motore da
+eventuali sovraccarichi e cortocircuiti.
+• Installare la protezione da sovraccarico adeguata
+(relè termico o salvamotore)
+
+400/690 ± 10
+
+Tipo di pompa
+rispettivamente
+
+60
+1
+220 – 230 ± 6
+
+– Protezione termo-
+
+Elettropompa monofa‐
+se di serie ≤ 2,2 kW:
+
+3
+220/380 ± 5
+
+380/660 ± 10
+
+amperometrica a
+riarmo automatico
+incorporata (moto‐
+protettore)
+– Protezione da cor‐
+
+Usare cavi a norma con 3 conduttori (2 + Terra) per
+versioni monofase e con 4 conduttori (3 + Terra) per
+versioni trifase.
+
+tocircuito (deve es‐
+sere fornita dall'in‐
+stallatore)1
+
+4.3  Installare la pompa
+
+Elettropompa trifase2
+– Protezione termica
+
+4.3.1  Installazione meccanica
+
+Area di installazione
+
+(a cura dell’installa‐
+tore)
+– protezione da corto‐
+
+circuito (a cura del‐
+l'installatore)
+
+Installare l’unità su una fondazione in calcestruzzo o
+in metallo sufficientemente pesante da garantire un
+supporto permanente e rigido. Osservare le prescri‐
+zioni riportate in Collocazione della pompa a pagina
+5.
+
+Installazione su fondazione in calcestruzzo
+
+Requisiti della fondazione
+
+• Il quadro elettrico deve essere dotato di un si‐
+stema di protezione contro la marcia a secco a
+cui collegare un pressostato, un galleggiante, le
+sonde o altri dispositivi altri dispositivi idonei al
+sistema di protezione.
+• Per l’utilizzo sul lato di aspirazione della pompa
+si consigliano i seguenti dispositivi:
+
+– Se il liquido viene pompato da un acquedotto,
+
+utilizzare un pressostato.
+– Se il liquido viene pompato da una vasca o
+
+un serbatoio di stoccaggio, utilizzare un gal‐
+leggiante o delle sonde.
+• In caso di utilizzo di relè termici, si consiglia di
+scegliere relè sensibili al guasto di fase.
+
+La lista di controllo per il motore
+
+AVVERTENZA:
+
+• Il calcestruzzo deve avere resistenza alla com‐
+pressione C12/15 e soddisfare i requisiti della
+classe di esposizione XC1 secondo EN 206-1
+• Le dimensioni devono essere adeguate alle di‐
+mensioni della piastra di appoggio dell’unità
+• Il peso della fondazione deve essere ≥ 1.5 x peso
+unità (≥ 5 x peso unità se richiesta maggiore si‐
+lenziosità di funzionamento)
+• La superficie deve essere il più possibile orizzon‐
+tale e piana
+• La pendenza deve essere ≤ 1 mm/m.
+Istruzioni supplementari sono contenute nel docu‐
+mento cod. 001080247X: per scaricarlo, scansionare
+il codice QR presente in Figura 17 a pagina 384.
+
+• Leggere il manuale d'uso per verifica‐
+re la presenza di un dispositivo di pro‐
+tezione se si utilizza un motore diver‐
+so da quello di serie.
+• Se il motore è dotato di protettori ter‐
+mici automatici, fare attenzione al ri‐
+
+1
+fusibili aM (avviamento motore) o interruttore magnetotermico con curva C e Icn ≥ 4,5 kA o altro
+dispositivo equivalente.
+2
+relè termico con classe di intervento 10A + fusibili aM (avviamento motore) o interruttore magnetotermi‐
+co di protezione motore con classe di avviamento 10A.
+
+7

@@ -1,0 +1,185 @@
+no - Oversettelse av opprinnelige instruksjoner
+
+PN
+Maksimalt brukstrykk
+
+Væskens temperaturintevaller
+
+gjelder for begge endene av motorka‐
+belen.
+• Legg til tilleggsvern mot dødelig støt.
+Installer en differensialbryter (30 mA)
+med høy sensitivitet [lekkasjestrøm‐
+sinnretning RCD].
+
+Figur 4 på side 367 viser områdene til arbeidstempe‐
+raturen.
+Ta kontakt med din lokale salgs- og servicerepresen‐
+tant om spesielle krav.
+
+4.1  Krav til anlegget
+
+Maksimal antall start per time
+
+4.1.1  Pumpeplassering
+
+18,5
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+FARE:
+Bruk ikke denne enheten i miljøer som
+kan inneholde brennbare/eksplosive eller
+kjemisk aggressive gasser eller pulvere.
+
+60
+40
+30
+24
+16
+8
+4
+
+Retningslinjer
+
+Opp‐
+start
+per ti‐
+me
+
+Overhold følgende retningslinjer når det gjelder plas‐
+sering av produktet:
+
+Støynivå
+
+NO
+
+Se Tabell 9 på side 368 vedrørende lydtrykksnivået til
+pumpe som er utstyrt med standard levert motor.
+Se Tabell 10 på side 372 vedrørende lydtrykksnivåe‐
+ne til pumpe uten motor.
+
+4  Installasjon
+
+Forholdsregler
+
+ADVARSEL:
+
+• Sørg for å at det ikke finnes noe som hindrer den
+normale strømmen av nedkølingsluft fra mortor‐
+viften.
+• Sørg for at installasjonsområdet er beskyttet mot
+væskelekkasje eller oversvømmelse.
+• Plasser pumpen litt høyere enn gulvnivået der‐
+som det er mulig.
+• Omgivelsestemperaturen må være mellom 0 °C
+(+32°F) og +40 °C (+104°F).
+• Den relative fuktigheten i omgivelsesluften må
+være mindre enn 50 % ved +40 °C.
+• Kontakt Salgs og service-avdelingen dersom:
+– Den relative luftfuktigheten overstiger ret‐
+
+ningslinjene.
+– Romtemperaturen overstiger +40 °C (+104°F).
+– Enheten plasseres høyere enn 1000 m.o.h.
+
+• Ta hensyn til gjeldende ulykkes- og
+sikkerhetsforskrifter.
+• Bruk egnet utstyr og beskyttelse.
+• Følg alltid lokale og/eller nasjonale
+forskrifter, lover og koder som gjelder
+for valg av installasjonssted og vann-
+og strømtilkoplinger.
+
+Verdien på motorytelsen må kanskje endres
+eller man må skifte til kraftigere motor.
+Se Tabell 11 på side 379 for å finne informasjon om
+hva den nye ytelsesverdien skal være.
+
+Elektrisk fare:
+
+Pumpeplasseringer og klaringer
+
+• For å sikre egnet ventilasjon: ≥ 100 mm (4")
+• Slik tillater du inspeksjon og fjerning av motoren:
+≥ 300 mm (12 tommer)
+• Hvis den tilgjengelige plassen er mindre, se den
+tekniske katalogen.
+
+Installasjon over væskekilden (sugeløft)
+
+• Forviss deg om at alle tilkoblinger er
+utført av autoriserte installatører og i
+samsvar med gjeldende forskrifter.
+• Før du begynner å arbeide på enheten
+må du forvisse deg om at enheten og
+kontrollpanelet er isolert fra strømfor‐
+syningen og ikke kan startes. Dette
+gjelder også for kontrollkretsen.
+
+Jording
+
+Den teoretiske maksimale sugehøyden til enhver
+pumpe er 10,33 m. I praksis påvirker følgende pum‐
+pens sugekapasitet:
+
+Elektrisk fare:
+
+• Væskens temperatur
+• M.o.h. (i et åpent system)
+• Systemtrykk (i et lukket system)
+• Rørmotstand
+• Intrinsik strømningsmotstand i pumpen
+• Høydeforskjeller
+Følgende ligning brukes for å beregne maks. høye
+over væskenivået som pumpen kan monteres ved:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+Barometertrykket i bar (i et lukket system
+vises systemtrykk)
+
+• Den eksterne vernelederen må alltid
+være koplet til en jordingsterminal før
+andre elektriske tilkoblinger utføres.
+• Alt elektrisk utstyr må jordes. Dette
+gjelder for pumpeutstyret, drivverket
+og eventuelt overvåkingsutstyr. Test
+jordledningen for å sikre at den er rik‐
+tig tilkoplet.
+• Hvis motorkabelen rykkes løs ved en
+feiltakelse, skal jordlederen være den
+siste lederen som skal løsnes fra ter‐
+minalen. Forviss deg om at jordlede‐
+ren er lengre enn faselederne. Dette
+
+NPSH
+Verdi i meter som gjelder pumpens intrisik
+strømningsmotstand
+
+102

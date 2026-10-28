@@ -1,0 +1,45 @@
+IM-1080
+
+Troubleshooting Guidelines (continued)
+
+Lubrication – The major cause of bearing failure is contamination 
+of grease, insufficient grease or incompatibility of grease. If a fan 
+is to be stored for any length of time at the job site, the bearings 
+immediately should be filled with grease while rotating the shaft 
+and then the bearings should be regreased and rotated monthly. 
+This will prevent moisture, which condenses within the bearing, 
+from corroding the raceways. Most greases used on fan pillow 
+blocks are lithium base. Use the greases shown on the bearing 
+decal. Do not mix the bases without completely purging out the 
+initial grease.
+
+Initially, follow the lubrication instruction on the side of the 
+fan. The frequency of lubrication should be adjusted depending 
+on the condition of the old grease being purged. This is the 
+responsibility of the user. If the grease is dirty, the lubrication 
+frequency should be more often.
+
+a.	 Noise – If a bearing is increasing in noise intensity and/or
+
+vibration, it will probably result in failure.
+b.	 Temperature – If a bearing temperature begins to gradually
+
+rise, it will generally result in failure. A bearing can operate up 
+to 200° and operate satisfactorily if the temperature remains 
+constant and the bearing receives adequate lubrication. 
+Remember that a roller bearing under the same load and 
+speed will be somewhat more noisy and run warmer than a 
+ball bearing. This is normal.
+
+Rough handling and/or dropping a fan can result in brinelling the 
+bearing. This appears as a clicking noise at first, then gradually 
+worsens until failure.
+
+When replacing a bearing, always align the bearings first, then 
+bolt the pillow blocks to their support, rotate the shaft, fasten 
+the bearings to it. If the bearing is fastened to the shaft first, 
+tightening the pillow block bolts may bind the shaft and preload 
+the bearings.
+
+Installation, Operation & Maintenance Manual
+20

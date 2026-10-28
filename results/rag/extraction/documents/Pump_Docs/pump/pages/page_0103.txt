@@ -1,0 +1,97 @@
+Appendix B: Pumping System Assessment Tool
+
+Appendix B: Pumping System Assessment Tool
+
+(flow and head) required by the application. It 
+estimates a system’s achievable efficiency based 
+on pump efficiencies (from Hydraulic Institute 
+standards) and performance characteristics of 
+pumps and motors (based on the MotorMaster+ 
+database).
+
+PSAT can be used to perform the following 
+key functions:
+
+■	 Establish system efficiency
+
+The Pumping System Assessment Tool (PSAT) is a 
+software program developed by the Department of 
+Energy’s (DOE) Industrial Technologies Program 
+(ITP) to assist engineers and facility operators in 
+performing assessments of pumping system energy 
+usage. PSAT is also well suited for performing 
+plant energy usage surveys by consultants or plant 
+engineers. End users in the field will find PSAT 
+easy to use because it was carefully designed to 
+require only the minimum essential operation data 
+(or requirements) to perform an analysis.
+
+■	 Quantify potential energy savings
+
+■	 Examine the economic and energy impacts
+
+of different operating scenarios
+
+■	 Provide data for trending system performance
+
+■	 Clarify impacts of operational changes on
+
+demand charges
+
+■	Identify degraded or poorly performing pumps.
+
+For many industrial facilities, the energy 
+consumed in pumping fluids comprises a large 
+fraction of the total energy consumption of the 
+facility. However, operators are often not aware 
+of how effectively energy is being consumed in 
+pumping systems. The PSAT tool provides a 
+relatively simple and fast means of determining 
+system efficiency and potential alternatives. In 
+addition, the PSAT prescreening filter can identify 
+areas that are likely to offer the greatest savings.
+
+Additional information on PSAT is provided in 
+Section 3.
+
+PSAT identifies energy savings opportunities 
+in pumping systems and quantifies those oppor-
+tunities in both dollars and electrical energy 
+savings. Although PSAT does not tell how to 
+improve systems, it does prioritize attractive 
+opportunities and supports broader or narrower 
+searches for improving efficiency.
+
+Qualification Program
+The U.S. Department of Energy offers a quali-
+fication training program for pumping system 
+specialists in the use of its PSAT software. 
+Attendees who successfully complete a PSAT 
+qualification workshop will be recognized as 
+Qualified Pump System Specialists and will 
+receive a certificate from DOE with this 
+designation.
+
+PSAT requires three fundamental field measured 
+parameters: flow rate, head, and motor power (or 
+current). Using this data, along with some general 
+design and nameplate information, such as pump 
+style (selected from a list), motor size (hp), rated 
+speed, and fluid density, generally achievable 
+pump and motor efficiencies and optimal power 
+requirements are estimated.
+
+How to Obtain PSAT
+The PSAT and its User Manual can be down-
+loaded from the ITP BestPractices Web site, 
+www.eere.energy.gov/industry/bestpractices. 
+The user can also obtain a version by contacting 
+the EERE Information Center at 877-337-3463.
+
+PSAT assesses current pump system operating 
+efficiency by comparing field measurements of the 
+power delivered to the motor with the fluid work
+
+99
+
+A Sourcebook for Industry

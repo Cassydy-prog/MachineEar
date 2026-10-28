@@ -1,0 +1,39 @@
+Evaluation of running features and damage to dismounted bearings
+Lip contact
+
+Causes:
+
+3.4 Assessment of lip contact
+Fig. 78 illustrates a well run-in lip
+surface.
+
+Hard foreign particles in lubricant
+which are drawn into the area of contact
+between roller face and lip.
+
+3.4.1
+Damage to lip and roller faces 
+in roller bearings
+3.4.1.1 Scoring due to foreign particles
+Symptoms:
+
+Remedial measures:
+
+Improve lubricant cleanliness.
+
+Arc-shaped scratches in the lip surface
+or roller face (particularly frequent with
+tapered roller bearings), figs. 79 and 80.
+Their depth into the lip area depends on
+the rolling element radius the foreign
+particle became stuck in.
+
+80: Scoring on the face of a tapered 
+roller
+79: Lip area scoring due to foreign 
+particles
+78: Normal run-in lip contact track in a
+tapered roller bearing
+
+FAG
+48

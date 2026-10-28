@@ -1,0 +1,163 @@
+hr - Izvorne upute
+
+Instalacija kada je razina tekućine iznad
+pumpe (usisna visina)
+
+Pažljivo zategnite kabelske brtve kako bi se osi‐
+gurala zaštita protiv klizanja kabela i ulaska vlage
+u priključnu kutiju.
+
+Za ilustraciju koja pokazuje gdje su priključci pumpe,
+pogledajte Slika 23 na stranici 394.
+
+4. Ako motor nije opremljen toplinskom zaštitom od
+automatskog resetiranja, prilagodite zaštitu od
+preopterećenja prema donjem popisu.
+
+1. Zatvorite on-off ventil smješten nizvodno od
+pumpe.
+
+– Ako se motor koristi s punim opterećenjem,
+
+postavite vrijednost na nazivnu vrijednost
+struje električne pumpe (ploča s podacima)
+– Ako se motor koristi s djelomičnim optereće‐
+
+2. Skinite priključak za ispunu (3) ili mjerenje (1) i
+otvorite on/off ventil uzvodno dok voda ne protje‐
+če iz otvora.
+
+a) Zatvorite priključak za ispunu (3) ili mjerenje
+
+(1).
+
+njem, postavite vrijednost na vrrijednost radne
+struje (npr. struja mjerena strujnim kliještima).
+– Ako pumpa ima sustav za pokretanje vrste
+
+Instalacija kada je razina tekućine ispod
+pumpe (usisna visina)
+
+zvijezda-trokut, prilagodite toplinski relej na
+58% nazivne struje ili radne struje (samo za
+trofazne motore).
+
+Za ilustraciju koja pokazuje gdje su priključci pumpe,
+pogledajte Slika 24 na stranici 395.
+
+1. Cio sustav cjevovoda je prazan:
+
+5  Puštanje u rad, pokretanje, rad i
+isključenje
+
+a) Otvorite on-off ventil smješten uzvodno od
+
+Mjere opreza
+
+pumpe.
+b) Uklonite priključak za ispunu (3) i mjerenje
+
+UPOZORENJE:
+Fizičke i toplinske opasnosti
+
+(1). Koristite lijevak za punjenje pumpe kroz
+otvor za ispunu sve dok voda ne počne istje‐
+cati iz ovog otvora.
+c) Zategnite priključak za ispunu (3) i mjerenje
+
+(1).
+
+• Uvijek nosite osobnu zaštitnu opremu
+• Provjerite je li zaštita spojke instalira‐
+na.
+
+2. Ispunjen sustav odvodne cijevi:
+
+UPOZORENJE:
+
+a) Otvorite on-off ventil smješten uzvodno od
+
+pumpe i otvorite on-off ventil nizvodno od
+pumpe.
+b) Uklonite priključak za mjerenje (1) dok voda
+
+ne potječe iz ovog otvora.
+c) Zategnite priključak za mjerenje (1).
+
+• Provjerite da drenirana tekućina ne
+uzrokuje oštećenja ili ozljede.
+• Štitnici motora mogu uzrokovati neo‐
+čekivano ponovno pokretanje motora.
+To bi moglo rezultirati teškim ozljeda‐
+ma.
+
+OPREZ:
+
+5.2  Provjeriti smjer okretanja (trofazni
+motor)
+Slijedite ovaj postupak prije stavljanja u rad.
+
+1. Pronađite strelice na prilagodniku ili poklopcu
+ventilatora motora kako bi se utvrdio ispravan
+smjer okretanja.
+
+• Temperatura vanjskih površina pum‐
+pe i motora tijekom rada može prela‐
+ziti 40ºC (104°F).
+• Ne stavljajte nikakve zapaljive materi‐
+jale u blizini pumpe.
+
+2. Pokrenite motor.
+
+NAPOMENA:
+
+3. Brzo provjerite smjer okretanja kroz štitnik spojke
+ili kroz poklopac ventilatora motora.
+
+4. Zaustavite motor.
+
+HR
+
+5. Ako je smjer okretanja pogrešan, učinite kako sli‐
+jedi:
+
+a) Isključite napajanje.
+b) Na priključnoj ploči motora ili na električnoj
+
+upravljačkoj ploči, izmijenite položaj dvije od
+tri žice kabela napajanja.
+
+Za sheme ožičavanja pogledajte Slika 21 na
+stranici 392.
+c) Ponovno provjerite smjer okretanja.
+
+5.3  Pokretanje pumpe
+
+• Nikad ne koristite pumpu ispod najmanjeg naziv‐
+nog protoka, kada je suha, ili bez punjenja.
+• Nikada ne radite s pumpom kada je dopremni
+ON-OFF ventil zatvoren dulje od nekoliko sekundi.
+• Nikada ne radite s pumpom kada je usisni ON-
+OFF ventil zatvoren.
+• Ne izlažite pumpu u mirovanju uvjetima zamrza‐
+vanja. Ispustite svu tekućinu koja se nalazi unu‐
+tar pumpe. Ako to ne učinite, može doći do zamr‐
+zavanja tekućine i oštećenja pumpe.
+• Zbroj tlaka na usisnoj strani (vodovod, gravitacij‐
+ski spremnik) i najvećeg tlaka koji pumpa predaje
+ne smije preći najveći radni tlak (nazivni tlak PN)
+koji je dopušten za pumpu.
+• Ne koristite pumpu ako dođe do kavitacije. Kavi‐
+tacija može oštetiti unutarnje komponente.
+
+NAPOMENA:
+Nakon prvog pokretanja i nakon postizanja radne
+temperature, provjerite poravnanje spojke jedinice,
+pogledajte Provjera i poravnanje spojke na stranici
+269.
+
+5.1  Punjenje pumpe
+Za informacije o dodatnim priključcima pumpe po‐
+gledajte Slika 22 na stranici 392.
+
+270

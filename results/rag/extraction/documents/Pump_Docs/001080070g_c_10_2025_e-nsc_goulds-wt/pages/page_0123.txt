@@ -1,0 +1,176 @@
+sv - Översättning av orginal instruktioner
+
+Säkerhetsåtgärder
+
+Kontrollera den mekanis‐
+ka tätningen
+
+Kontrollera den mekanis‐
+ka tätningen med avse‐
+ende på läckage. Byt ut
+den mekaniska tätningen
+om den läcker.
+
+Risk för elstötar:
+Säkerställ att enheten och manöverpane‐
+len är isolerade fran strömförsörjningen
+och inte kan spänningsförsörjas innan
+arbete på enheten pabörjas.
+
+Kontrollera lagertätning‐
+arna
+
+VARNING!:
+
+Kontrollera att de axi‐
+ella tätningsringarna sit‐
+ter rätt monterade på
+axeln. De får endast
+finns lätt kontakt med
+tätningsflänsen.
+
+Kontrollera om tyst gång
+Kontrollera regelbundet
+att pumpen går tyst
+med vibrationsmätnings‐
+verktyg.
+
+6.3  Demontering och byte av pumpdelar
+
+• Underhåll och service får endast utfö‐
+ras av kunnig och kvalificerad perso‐
+nal.
+• Iaktta gällande förordningar för
+olycksförebyggande åtgärder.
+• Använd lämplig utrustning och skydd.
+• Säkerställ att dränerad vätska inte
+orsakar skada på person eller utrust‐
+ning.
+
+Kontakta den lokala sälj- och servicerepresentanten
+för mer information om reservdelar och montering
+och demontering av pumpen.
+
+7  Felsökning
+
+7.1  Felsökning för användare
+
+SV
+
+Huvudströmbrytaren är på, men elpumpen startar
+inte.
+
+6.1  Service
+Om användaren vill schemalägga regelbundna da‐
+tum för underhåll beror detta på typen av vätska
+som pumpas och pumpens driftsvillkor.
+Kontakta den lokala försäljnings- och servicerepre‐
+sentanten om du har frågor eller söker information
+angående rutinunderhåll och service.
+Specialunderhåll kan vara nödvändigt för att rengöra
+vätskeänden och/eller byta ut slitna delar.
+
+Orsak
+Lösning
+
+Pumpar med permanentsmorda lager
+
+Pumpar med permanentsmorda lager kräver inget
+regelbundet underhåll.
+
+Termoskyddet som
+ingår i pumpen (om så‐
+dant finns) har utlösts.
+
+Vänta tills pumpen har
+svalnat. Termoskyddet
+återställs automatiskt.
+
+Pumpar med smörjbara lager
+
+Skyddsenheten som
+förhindrar torrkörning
+har utlösts.
+
+Kontrollera vätskenivån i
+tanken eller trycket i vat‐
+tenledningsnätet.
+
+• Smörj vid 4000 driftstimmar men minst en gång
+om året. Rengör först smörjnipplarna (SN).
+• Använd fett av NLGI grad 2 eller motsvarande.
+Kontakta den lokala försäljnings- och servicerepre‐
+sentanten om du har frågor eller söker information.
+
+Elpumpen startar, men termoskyddet utlöses varie‐
+rande tid efter
+
+Motorlager
+
+Orsak
+Lösning
+
+Kontakta försäljnings-
+och serviceavdelningen.
+
+Efter cirka fem år är fettet i motorlagren så gam‐
+malt att vi rekommenderar att lagren byts ut. Lagren
+måste bytas ut efter 25 000 driftstimmar eller enligt
+underhållsanvisningarna från motorleverantören, vad
+som är kortast.
+
+Främmande föremål (so‐
+lider eller fibersubstan‐
+ser) inuti pumpen har
+gjort att pumphjulet sitter
+fast.
+
+Motor med omfettbara lager
+
+Följ underhållsanvisningarna från motorleverantören.
+
+Koppling
+
+Pumpen är överlastad på
+grund av att vätskan som
+pumpas har alltför hög
+densitet och viskositet.
+
+Kontrollera de faktiska
+effektkraven baserat på
+egenskaperna på väts‐
+kan som pumpas och
+kontakta sedan försälj‐
+nings- och serviceavdel‐
+ningen.
+
+Kontrollera regelbundet spelet i kopplingselementen,
+åtminstone en gång per år. Vi rekommenderar kon‐
+troll var 1 000:e driftstimme eller var tredje månad,
+beroende på vilket som kommer först.
+
+Pumpen kör men levererar för lite eller ingen vätska.
+
+6.2  Checklista för inspektion
+
+Orsak
+Lösning
+
+Pumpen är igen‐
+satt.
+
+Kontakta försäljnings- och servi‐
+ceavdelningen.
+
+Kontrollera kopplingen
+Kontrollera de flexibla
+elementen i kopplingen.
+Byt ut relevanta delar om
+det finns tecken på sli‐
+tage och kontrollera upp‐
+riktningen.
+
+Felsökningsanvisningarna i tabellerna nedan är en‐
+dast för installatörer.
+
+119

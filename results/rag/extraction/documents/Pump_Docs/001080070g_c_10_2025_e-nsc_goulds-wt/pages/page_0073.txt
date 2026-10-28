@@ -1,0 +1,152 @@
+pt - Tradução do original
+
+• Verifique se a bomba e o motor estão bem fixa‐
+dos à base
+• Insira material anti-vibração entre a base e a fun‐
+dação
+• Se a unidade tiver uma base soldada, encha com
+betão os espaços mostrados em Figura 25 na
+página 397 .
+
+AVISO:
+Não encha a base de chapa metálica dobrada Figura
+26 na página 397 com betão.
+
+4.3.2  Lista de verificação do sistema de
+tubagem
+Verifique se os seguintes requisitos são cumpridos:
+
+3. Coloque a unidade na fundação e utilize um nível
+de bolha na porta de descarga e no eixo para ter
+a certeza de que está nivelada.
+Tolerância máxima permitida: 0,2 mm/m.
+4. Se presentes, retire os tampões que cobrem as
+bocas de aspiração e descarga.
+5. Alinhar as bocas de aspiração e descarga com
+as respectivas tubagens.
+6. Fixe o sistema de tubagem à unidade; consulte
+também Lista de verificação do sistema de tuba‐
+gem na página 69 .
+7. Se necessário, insira calços de nivelamento entre
+a fundação e a base: se a distância entre os
+tirantes for > 800 mm, insira dois calços adicio‐
+nais no centro da base. Todos os calços devem
+estar perfeitamente alinhados. Consulte Figura
+17 na página 384 .
+8. Aperte de forma uniforme e completa as porcas
+do tirante, certificando-se de que os binários es‐
+tão conforme indicado na tabela.
+
+PT
+
+Porca
+Binário, Nm (lbf·pol.)
+
+M12
+60 (44)
+
+M16
+120 (89)
+
+M20
+200 (148)
+
+M24
+350 (258)
+
+• Em caso de instalação de içamento de sucção,
+para evitar bolsas de ar, o tubo de sucção deve
+ter uma inclinação crescente na direcção da uni‐
+dade que exceda 2%.
+• Os diâmetros nominais do sistema de tubagem
+devem ser, pelo menos, iguais aos diâmetros no‐
+minais das portas da bomba.
+• Apoie o sistema de tubagem de forma indepen‐
+dente, para não sobrecarregar a unidade.
+• Lave o sistema de tubagem antes de ligá-los à
+unidade, para remover quaisquer resíduos de sol‐
+dadura, depósitos e impurezas. Instale um filtro,
+se necessário.
+
+M27
+530 (391)
+
+Nota:
+
+CUIDADO:
+Aparas de soldadura, escala e outras im‐
+purezas na tubagem danificam a bomba.
+
+4.3.3  Alinhamento do acoplamento
+
+• Para as placas de base, é recomendado colocar
+argamassa na placa de base com betão com
+pouca retracção.
+
+Remoção da protecção de acoplamento
+
+Monte a bomba a uma estrutura de base
+
+Assegure-se de verificar a bomba está instalada em:
+
+CUIDADO:
+Nunca ponha a bomba a funcionar sem
+que a protecção de acoplamento esteja
+correctamente instalada.
+
+Tipo de protecção: rede metálica
+Para obter informações, consulte Figura 18 na pági‐
+na 386 .
+
+1. Desaperte os parafusos (2).
+2. Remova a rede de arame. (1).
+Tipo de protecção: chapa metálica
+Para obter informações, consulte Figura 19 na pági‐
+na 388 .
+
+• Estrutura de base sólida que não roda ou vibre
+durante o funcionamento (ressonância).
+• As superfícies de montagem dos pés da bomba
+e o motor na estrutura da base devem ser planas
+(usinagem é recomendada).
+• A fixação segura da bomba e do motor deve es‐
+tar garantida.
+• Deve existir espaço entre a bomba e o eixo do
+motor dependendo do acoplamento utilizado.
+• Entre a bomba e a estrutura da base deve ter
+um calço adequado, para que, em caso de sub‐
+stituição, a mesma altura entre a linha inferior
+e central possa ser ajustada (ajuste vertical reco‐
+mendado de 4-6 mm
+
+Reduzir a vibração
+
+A unidade e o fluxo de líquidos no sistema podem
+gerar vibrações, que podem ser ampliadas se a uni‐
+dade ou o sistema de tubagem não estiverem ins‐
+talados correctamente: cumpra as instruções em
+Instalação em fundação de betão na página 68 e
+Fixação da bomba na página 68 , além do Lista de
+verificação do sistema de tubagem na página 69
+
+1. Desaperte os parafusos de fecho das meias pro‐
+tecções (5).
+2. Desaperte os parafusos de fixação que fixam a
+meia-protecção superior (3).
+3. Remova a meia-protecção superior do acopla‐
+mento (1).
+4. Desaperte os parafusos de fixação que fixam a
+meia-protecção inferior (4).
+5. Remova a meia-protecção inferior da protecção
+de acoplamento (2).
+6. Abra e levante o anel de suporte/ajuste (6).
+
+Também é recomendado:
+
+Verificação e alinhamento do acoplamento
+
+AVISO:
+Verifique novamente o alinhamento do acoplamento
+sob condições de funcionamento quentes.
+
+69

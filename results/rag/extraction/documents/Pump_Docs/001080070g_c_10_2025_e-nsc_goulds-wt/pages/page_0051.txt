@@ -1,0 +1,156 @@
+de - Übersetzung des Originals
+
+Führen Sie vor der Inbetriebnahme die folgenden
+Schritten aus.
+
+1. Bestimmen Sie die Drehrichtung anhand der Pfei‐
+le auf Adapter oder Motorlüfterabdeckung.
+
+• Verwenden Sie geeignete Geräte und
+Schutz.
+• Stellen Sie sicher, dass die abgelas‐
+sene Flüssigkeit keine Schäden oder
+Verletzungen verursacht.
+
+2. Starten Sie den Motor.
+
+3. Prüfen Sie die Drehrichtung durch den Kupp‐
+lungsschutz oder durch die Motorlüfterabde‐
+ckung hindurch.
+
+4. Stoppen Sie den Motor.
+
+5. Wenn die Drehrichtung falsch ist, gehen Sie wie
+folgt vor:
+
+a) Trennen Sie die Stromversorgung.
+b) Vertauschen Sie an der Klemmenleiste des
+
+DE
+
+Motors oder an der Schalttafel zwei der drei
+Adern der Versorgungsleitung.
+
+6.1  Service
+Wenn die Festlegung von regelmäßigen Wartungs‐
+terminen gewünscht ist, hängen diese Wartungsin‐
+tervalle von der Art des Fördermediums und den Be‐
+triebsbedingungen der Pumpe ab.
+Wenden Sie sich an den lokalen Vertriebs- und Ser‐
+vicevertreter, wenn Sie weitere Informationen zur re‐
+gelmäßigen Wartung oder Instandhaltung benötigen.
+Außerhalb eines eventuellen Wartungsplans kann
+die Reinigung der Förderseite und/oder der Aus‐
+tausch von verschlissenen Teile erforderlich werden.
+
+Pumpen mit auf Lebenszeit geschmierten
+Lagern
+
+Der Schaltplan ist in Abbildung 21 auf Seite
+392 abgebildet.
+c) Prüfen Sie die Drehrichtung erneut.
+
+5.3  Starten Sie die Pumpe.
+
+Pumpen mit auf Lebenszeit geschmierten Lagern er‐
+fordern keine regelmäßige Wartung.
+
+Pumpen mit nachschmierbaren Lagern
+
+HINWEIS:
+Prüfen Sie nach der ersten Inbetriebnahme und so‐
+bald die Betriebstemperatur erreicht ist, die Ausrich‐
+tung der Kupplung der Einheit, siehe Kupplungsprü‐
+fung und Ausrichtung auf Seite 45.
+
+• Nachschmierung bei 4000 Betriebsstunden, min‐
+destens jedoch einmal jährlich. Zuerst sind die
+Schmiernippel (SN) zu reinigen.
+• Verwenden Sie Schmierfett NLGI Nr. 2 oder
+gleichwertig.
+Wenden Sie sich an den lokalen Vertriebs- und Ser‐
+vicevertreter, wenn Sie weitere Informationen benöti‐
+gen.
+
+Der Aufsteller oder Eigner ist für die Prüfung des
+korrekten Durchflusses und der richtigen Temperatur
+des Fördermediums verantwortlich.
+Stellen Sie vor dem Starten der Pumpe sicher, dass
+folgende Punkte erfüllt sind:
+
+Motorlager
+
+Wegen der Alterung des Lagerfetts wird nach ca.
+5 Jahren der Austausch der Motorlager empfohlen.
+Die Lager sind gemäß den Wartungsrichtlinien des
+Motorherstellers zu erneuern, mindestens jedoch
+nach 25.000 Betriebsstunden.
+
+• Die Pumpe ist korrekt an die Spannungsversor‐
+gung angeschlossen.
+• Die Pumpe ist wie in den Anweisungen unter Fül‐
+len der Pumpe (Kapitel 5) gefüllt.
+• Das Auf-/Zu-Ventil hinter der Pumpe ist geschlos‐
+sen.
+
+1. Starten Sie den Motor.
+
+Motor mit nachschmierbaren Lagern
+
+2. Öffnen Sie sukzessive das Auf-/Zu-Ventil auf der
+Auslassseite der Pumpe.
+
+Wartung gemäß den Anweisungen des Motorherstel‐
+lers.
+
+Kupplung
+
+Die Pumpe muss bei den erwarteten Betriebsbe‐
+dingungen ruhig und rund laufen. Wenn dies nicht
+der Fall ist, siehe Fehlerbehebung auf Seite 48.
+
+6  Wartung
+
+Prüfen Sie das Spiel in den Kupplungselementen
+regelmäßig, mindesten jedoch einmal jährlich. Wir
+empfehlen eine Prüfung alle 1000 Betriebsstunden,
+mindestens jedoch alle drei Monate.
+
+Vorsichtsmaßnahmen
+
+6.2  Checkliste für die Überprüfungen
+
+Gefahr durch Elektrizität:
+Trennen Sie vor Installations- oder War‐
+tungsarbeiten die Stromverbindung der
+Einheit und sichern Sie sie gegen ein ver‐
+sehentliches Wiedereinschalten.
+
+WARNUNG:
+
+Prüfung der Kupplung
+Prüfen Sie die flexiblen
+Bauteile der Kupplung.
+Bei den geringsten An‐
+zeichen von Verschleiß
+tauschen sie die betreff‐
+enden Bauteile aus und
+überprüfen die Sie Aus‐
+richtung.
+
+Prüfung der Gleitring‐
+dichtung
+
+• Wartung und Service dürfen nur
+von ausgebildetem und qualifiziertem
+Personal ausgeführt werden.
+• Beachten Sie alle geltenden Unfallver‐
+hütungsvorschriften.
+
+Prüfen Sie die Gleitring‐
+dichtung auf Leckagen.
+Bei einer festgestellten
+Leckage ersetzen Sie die
+Gleitringdichtung.
+
+47

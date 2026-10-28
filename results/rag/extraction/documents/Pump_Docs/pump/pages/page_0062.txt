@@ -1,0 +1,107 @@
+Section 3. The Economics of Improving Pumping Systems
+
+ Calculating Electricity Costs
+Electricity costs can be determined by several 
+methods, including any of the following:
+
+■	 The use of motor nameplate data
+
+■	 Direct measurement of motor current
+
+■	 The use of performance curve data.
+
+Alternatively, flow rate can be estimated using the 
+measured differential pressure and pump perform-
+ance curves. This method of estimating the flow 
+rate is not the preferred approach, but in some 
+cases it is the only one available. In many cases, 
+other sources of data can help corroborate or 
+refine flow rate estimates. When using pump 
+performance curves, be sure to measure actual 
+speed. If it is significantly different from the speed 
+at which the curve was developed, adjust the 
+curve using pump affinity laws.
+
+With any of these methods, the usefulness of the 
+data is limited by the extent to which it represents 
+average system operating conditions. In systems 
+with widely varying operating conditions, taking 
+data just once will probably not provide a true 
+indication of pumping system energy consumption.
+
+Nameplate Data. A quick way to determine 
+energy costs is to use the pump motor nameplate 
+data. In many applications, the pump/motor 
+assembly is oversized, which means the motor 
+operates below its full-load nameplate data. 
+Estimating the load factor allows the pump’s 
+annual operating costs to be calculated.
+
+ Pumping System Energy Costs
+To properly evaluate pumping system projects, 
+system operating costs must be quantified; these 
+costs generally include several fixed and variable 
+components. Of these costs, energy is often the 
+largest component. Tools such as PSAT can 
+provide guidance in estimating energy costs and 
+the potential to reduce them. However, other 
+methods can be used to help the user estimate the 
+amount of energy used and the associated cost of 
+this energy. The following sections describe some 
+of these alternative methods.
+
+Simple Calculation
+
+Annual electricity costs = 
+ (motor full-load brake horsepower [bhp]) x 
+ (0.746 kW/hp) / (motor efficiency) x (annual hours 
+ of operation) x (unit electricity cost) x (load factor)
+
+ Load Factor 
+A pump’s economics is largely determined by the 
+amount of time that a pump operates and the 
+percentage of full capacity at which it operates. 
+Regardless of how pumping system energy use is 
+measured at any point in time, this “snapshot” 
+data must be translated to a representative 
+indication of energy use over time. Then, the 
+pumping system’s average load factor can be 
+estimated. The term load factor refers to the 
+average percentage of full-load power at which 
+the pump operates over a period of time.
+
+Use the following data to illustrate this calculation: 
+· Motor full-load brake horsepower = 100 bhp
+· Annual hours of operation = 8,760 hours 
+ (3-shift, continuous operation)
+· Unit electricity cost = $0.05/kWh
+· Load factor = 65%
+· Motor efficiency = 95%
+
+∑   (Actual load x number of operating hours at this load)
+Load factor  =
+
+(Rated full load x number of operating hours in the period)
+
+Annual electricity costs = 
+(100 hp) x (0.746 kW/hp) x (1/0.95) x (8,760 hours) 
+ x ($0.05/kWh) x 0.65
+Annual electricity costs = $22,356
+
+Other data needed include annual hours of 
+operation (hours/year) and the unit cost of 
+electricity ($/kWh). The unit cost of electricity is 
+an average value that includes both consumption
+
+Unless operators maintain comprehensive records 
+or are highly familiar with pump operating data, 
+however, it might be difficult to determine the 
+load factor accurately; instead, it might be 
+necessary to rely on a reasonable estimate. If 
+the pump is at full load whenever it is operating, 
+the load factor is just the percentage of time the 
+pump operates within the time period.
+
+58
+
+Improving Pumping System Performance

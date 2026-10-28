@@ -1,0 +1,42 @@
+Suction piping
+
+When installing the suction piping, observe the 
+following precautions (See Figure 10).
+
+The sizing and installation of the suction piping is
+extremely important. It must be selected and installed 
+so that pressure losses are minimized and sufficient 
+liquid will flow into the pump when started and 
+operated. Many NPSH (Net Positive Suction Head) 
+problems can be directly attributed to improper 
+suction piping systems. Suction piping should be 
+short in length, as direct as possible, and never 
+smaller in diameter than the pump suction opening. 
+If the suction pipe is short, the pipe diameter can be 
+the same size as the suction opening. If longer suction 
+pipe is required, pipes should be one or two sizes 
+larger than the opening depending on piping length.
+
+Suction piping for horizontal double suction pumps
+should not be installed with an elbow close to the 
+suction flange of the pump except when the suction 
+elbow is in the vertical plane. A suction pipe of the 
+same size as the suction nozzle approaching at any 
+angle other than straight up or straight down must 
+have the elbow located 10 pipe diameters from the 
+suction flange of the pump. Vertical mounted pumps 
+and other space limitations require special piping.
+
+There is always an uneven turbulent flow around an
+elbow and when it is in a position other than the 
+vertical it causes more liquid to enter one side of the 
+impeller than the other. (See Figure 11) This results 
+in high unequalized thrust loads that will overheat the 
+bearings and cause rapid wear in addition to affecting 
+hydraulic performance.
+
+Figure 10 - Suction pipe installation
+
+(Piping supports not shown)
+
+20

@@ -1,0 +1,64 @@
+1  Introduction and Safety
+
+CAUTION:
+You must observe the instructions contained in this manual. Failure to do so could result in
+physical injury, damage, or delays.
+
+1.2.1  Safety terminology and symbols
+
+About safety messages
+
+It is extremely important that you read, understand, and follow the safety messages and
+regulations carefully before handling the product. They are published to help prevent these
+hazards:
+
+• Personal accidents and health problems
+• Damage to the product and its surroundings
+• Product malfunction
+
+Hazard levels
+
+Hazard level
+Indication
+
+A hazardous situation which, if not avoided, will
+result in death or serious injury
+
+DANGER:
+
+A hazardous situation which, if not avoided, could
+result in death or serious injury
+
+WARNING:
+
+A hazardous situation which, if not avoided, could
+result in minor or moderate injury
+
+CAUTION:
+
+NOTICE:
+
+Notices are used when there is a risk of equipment
+damage or decreased performance, but not
+personal injury.
+
+Special symbols
+
+Some hazard categories have specific symbols, as shown in the following table.
+
+Electrical hazard
+Magnetic fields hazard
+
+Electrical Hazard:
+
+CAUTION:
+
+Hot surface hazard
+
+Hot surface hazards are indicated by a specific symbol that replaces the typical hazard level
+symbols:
+
+CAUTION:
+
+4
+Series 1710 Installation, Operation, and Maintenance Manual

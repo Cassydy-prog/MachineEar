@@ -1,0 +1,208 @@
+pt - Tradução do original
+
+Causa
+Solução
+
+eléctrico foi acciona‐
+do.
+
+7.1  Solução de problemas para os
+utilizadores
+O interruptor principal está ligado mas a bomba
+eléctrica não arranca.
+
+Verifique:
+
+Causa
+Solução
+
+O dispositivo protec‐
+tor contra o funcio‐
+namento a seco foi
+accionado.
+
+O protector térmico in‐
+tegrado na bomba (se
+algum) foi accionado.
+
+Aguarde até a bomba arre‐
+fecer. O protector térmico
+será redefinido automatica‐
+mente.
+
+• o nível de líquido no de‐
+pósito ou a pressão prin‐
+cipal.
+• o dispositivo de proteção
+e os respectivos cabos de
+ligação.
+
+Substitua os fusíveis.
+
+Verifique o nível do líquido
+no tanque ou a pressão da
+canalização.
+
+O dispositivo protector
+contra o funcionamen‐
+to a seco foi acciona‐
+do.
+
+Os fusíveis da bom‐
+ba ou circuitos auxi‐
+liares estão queima‐
+dos.
+
+A bomba eléctrica arranca, mas o protector térmico
+é accionado de seguida.
+
+PT
+
+7.3  A bomba eléctrica arranca, mas o
+protector térmico é accionado ou os fusíveis
+queimam imediatamente
+
+Causa
+Solução
+
+Causa
+Solução
+
+Contacte o Departamento
+de vendas e assistência.
+
+Verifique o cabo e substi‐
+tua, se for necessário.
+
+O cabo da fonte de ali‐
+mentação está danifi‐
+cado.
+
+Existem objectos estra‐
+nhos (substâncias sóli‐
+das ou fibrosas) dentro
+da bomba que obstruí‐
+ram o impulsor.
+
+Verifique os componentes
+e substitua, se for necessá‐
+rio.
+
+A protecção ou os
+fusores térmicos não
+são adequados à cor‐
+rente do motor.
+
+A bomba está sobrecar‐
+regada porque está a
+bombear líquido que é
+demasiado denso e vis‐
+coso.
+
+O motor eléctrico apre‐
+senta curto-circuito.
+
+Verifique os requisitos de
+energia actuais com ba‐
+se nas características do
+líquido bombeado e, em
+seguida, contacte o De‐
+partamento de vendas e
+assistência.
+
+Verifique os componentes
+e substitua, se for necessá‐
+rio.
+
+O motor apresenta so‐
+brecarga.
+
+A bomba funciona mas fornece pouco ou nenhum
+líquido.
+
+Verifique as condições de
+funcionamento da bomba
+e redefina a protecção.
+
+Causa
+Solução
+
+Bomba obstruí‐
+da.
+
+Contacte o Departamento de ven‐
+das e assistência.
+
+7.4  A bomba eléctrica arranca, mas o
+protector térmico é accionado ou os fusíveis
+queimam pouco depois
+
+Causa
+Solução
+
+As instruções de solução de problemas nas tabelas
+abaixo são apenas para instaladores.
+
+7.2  O interruptor principal está ligado mas a
+bomba eléctrica não arranca
+
+Proteja o painel eléctrico
+da fonte de calor e da
+luz do sol directa.
+
+O painel eléctrico está si‐
+tuado numa área excessi‐
+vamente quente, ou está
+exposto à luz do sol di‐
+recta.
+
+Causa
+Solução
+
+Não existe fonte de
+alimentação.
+
+Verifique as condições
+de funcionamento do
+motor.
+
+A tensão da fonte de ali‐
+mentação não está den‐
+tro dos limites de funcio‐
+namento do motor.
+
+Verifique a
+
+Uma fase de energia está
+em falta.
+
+• Restaure a fonte de ali‐
+mentação.
+• Certifique-se de que to‐
+das as ligações eléctricas
+á fonte de alimentação
+estão nas devidas condi‐
+ções.
+
+• fonte de alimentação
+• ligação eléctrica
+
+Aguarde até a bomba arrefe‐
+cer. O protector térmico será
+redefinido automaticamente.
+
+O protector térmico
+integrado na bomba
+(se algum) foi accio‐
+nado.
+
+7.5  A bomba eléctrica arranca, mas o
+protector térmico é accionado de seguida
+
+Redefina a protecção térmica
+
+O relé térmico ou
+protector do motor
+no painel de controlo
+
+73

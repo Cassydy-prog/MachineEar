@@ -1,0 +1,179 @@
+it - Traduzione dell'originale
+
+Pressione massima di esercizio
+
+Messa a terra (massa)
+
+Pericolo elettrico:
+
+Figura 4 a pagina 367 mostra la massima pressione
+di lavoro in base al modello di pompa e alla tempera‐
+tura del liquido pompato.
+P1max + Pmax≤ PN
+
+P1max
+Pressione massima di ingresso
+
+Pmax
+Pressione massima generata dalla pompa
+
+PN
+Pressione massima d'esercizio
+
+IT
+
+Intervalli di temperatura del liquido
+
+Figura 4 a pagina 367 sono visibili le gamme delle
+temperature d’esercizio.
+Per i requisiti speciali, contattare il rappresentante di
+vendita e assistenza.
+
+Numero massimo di avviamenti orari
+
+18.5
+
+90
+-
+160
+
+45
+-
+75
+
+30
+-
+37
+
+11
+-
+15
+
+22
+
+4,00
+-
+7,50
+
+kW
+0,25
+-
+3,00
+
+60
+40
+30
+24
+16
+8
+4
+
+• Collegare sempre il conduttore ester‐
+no di protezione al morsetto di terra
+prima di effettuare altri collegamenti
+elettrici.
+• È necessario collegare a terra tutte
+le apparecchiature. Questo vale per
+l’elettropompa, per il motore e per
+qualsiasi apparecchiatura di monito‐
+raggio. Testare il conduttore di messa
+a terra (massa) per verificare se è col‐
+legato correttamente.
+• Se per errore si stacca il cavo del mo‐
+tore, il conduttore di messa a terra
+deve essere l'ultimo a staccarsi dal
+terminale. Verificare che il condutto‐
+re di messa a terra sia più lungo dei
+conduttori di fase. Vale per entrambe
+le estremità del cavo del motore.
+• Aggiungere protezione supplementa‐
+re dalle scosse elettriche letali. Instal‐
+lare un interruttore differenziale ad al‐
+ta sensibilità (30 mA).
+
+Avvia‐
+menti
+l’ora
+
+4.1  Requisiti dell’impianto
+
+4.1.1  Collocazione della pompa
+
+Livello di rumore
+
+Per i livelli di pressione sonora della pompa con mo‐
+tore standard in dotazione, vedere Tabella 9 a pagina
+368.
+Per i livelli di pressione sonora della pompa senza
+motore, vedere Tabella 10 a pagina 372.
+
+PERICOLO:
+Non utilizzare questa unità in ambienti 
+che possono contenere polveri o gas in‐
+fiammabili/esplosivi o chimicamente ag‐
+gressivi.
+
+Istruzioni
+
+4  Installazione
+
+Precauzioni
+
+Rispettare le seguenti linee guida relative alla collo‐
+cazione del prodotto:
+
+AVVERTENZA:
+
+• Osservare le vigenti norme antinfortu‐
+nistiche.
+• Utilizzare adeguate attrezzature e
+protezioni.
+• Fare sempre riferimento alle norme,
+alla legislazione e ai codici locali e/o
+nazionali vigenti relativi alla selezione
+del luogo di installazione e all'allac‐
+ciamento di linee idrauliche ed elettri‐
+che.
+
+Pericolo elettrico:
+
+• Assicurarsi che non vi siano ostacoli al regolare
+flusso dell’aria di raffreddamento emesso dalla
+ventola del motore.
+• Assicurarsi che eventuali perdite di liquido o altri
+eventi simili non possano allagare il luogo di in‐
+stallazione o sommergere l’unità
+• Se possibile, posizionare la pompa poco al di
+sopra del livello del pavimento.
+• La temperatura ambiente deve essere compresa
+tra 0 °C (+32 °F) e +40 °C (+104 °F)
+• L'umidità relativa dell'aria ambiente deve essere
+inferiore al 50% a +40 °C (+104 °F).
+• Contattare il Servizio di Vendita ed Assistenza se:
+– Le condizioni di umidità relativa dell'aria supe‐
+
+rano quelle previste dalle linee guida.
+– La temperatura ambiente supera i +40 °C
+
+(+104 °F).
+– L'unità è posizionata a più di 1000m (3000
+
+• Verificare che tutti i collegamenti sia‐
+no eseguiti da installatori qualificati e
+in conformità alle norme vigenti.
+• Prima di iniziare a lavorare sull’unità,
+controllare che l’alimentazione elettri‐
+ca sia disinserita e che l’unità e il qua‐
+dro di comando non possano riavviar‐
+si. Questo vale anche per il circuito
+ausiliario. Questo vale anche per il cir‐
+cuito di controllo.
+
+piedi) sul livello del mare. Può essere neces‐
+sario ridurre il valore nominale della potenza
+erogabile dal motore o sostituirlo con uno più
+potente.
+Per informazioni sul livello di riduzione della poten‐
+za, vedere Tabella 11 a pagina 379.
+
+5

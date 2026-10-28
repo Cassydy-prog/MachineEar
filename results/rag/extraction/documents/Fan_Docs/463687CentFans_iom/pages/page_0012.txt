@@ -1,0 +1,111 @@
+Belt Drive Maintenance
+
+Belt Adjustment
+
+Belts on model IP are adjusted from the exterior of the 
+fan. Covers should be opened or removed so the belt(s) 
+can be inspected and checked for proper tension.
+
+L-Adjustment
+
+Bolts
+
+V-belt drives must be checked on a regular basis 
+for wear, tension, alignment and dirt accumulation. 
+Premature or frequent belt failures can be caused by 
+improper belt tension, (either too loose or too tight) 
+or misaligned sheaves. Abnormally high belt tension 
+or drive misalignment will cause excessive bearing 
+loads and may result in failure of the fan and/or motor 
+bearings. Conversely, loose belts will cause squealing 
+on start-up, excessive belt flutter, slippage, and 
+overheated sheaves. Either excessively loose or tight 
+belts may cause fan vibration.
+
+Plate Bolts
+
+When replacing V-belts on multiple groove drives all 
+belts should be changed to provide uniform drive 
+loading. Use a set of matched belts whenever possible. 
+Do not pry belts on or off the sheave. Loosen belt 
+tension until belts can be removed by simply lifting 
+the belts off the 
+sheaves.
+
+Deﬂection  =  Belt Span
+
+64
+
+The tension of the belt(s) are adjusted by raising and 
+lowering the motor plate. There are bolts on each side of 
+the fan that must be used in order to adjust the belt(s). 
+Each side has two plate bolts and two L-adjustment 
+bolts.
+
+Belt Span
+
+1.	 Loosen, but DO NOT remove the two plate bolts on 
+each side of the motor plate.
+
+After replacing 
+belts, insure that 
+slack in each belt 
+is on the same 
+side of the drive. 
+Belt dressing 
+should never be 
+used.
+
+Do not install new belts on worn sheaves. If the sheaves 
+have grooves worn in them, they must be replaced 
+before new belts are installed.
+
+2.	 Loosen, then adjust the L-bolts to raise or lower 
+the motor in order to tighten or loosen the belt(s) as 
+needed. The nuts on the L-adjustment bolts should 
+be adjusted evenly so the motor plate is raised or 
+lowered as level as possible.
+
+3.	 Tighten all the L-adjustment bolts and the plate 
+bolts to lock motor in place after proper tension is 
+reached.
+
+NOTE
+
+The proper tension for operating a V-belt drive is the 
+lowest tension at which the belts will not slip at peak 
+load conditions. For more information about measuring 
+belt tension, refer to Greenheck’s Product Application 
+Guide, FA/127-11, Measuring Belt Tension, found online 
+at greenheck.com in the Resources section.
+
+Loosen the plate bolts as minimal as possible to 
+allow the plate to move, but so the plate has minimal 
+movement when bolts are re-tightened.
+
+Check belt tension before start up and after the first 
+24 hours of operation. The belt tension should also be 
+checked periodically thereafter.
+
+WARNING
+
+Be sure to raise or lower the motor plate as even as 
+possible for proper belt engagement and to avoid 
+jamming the plate.
+
+Improper sheave
+
+Proper sheave
+
+alignment
+
+alignment
+
+WARNING
+
+Do not overtighten belts. Excessive belt tension can 
+lead to premature belt and/or bearing failure.
+
+Industrial Process Fans
+12
+®

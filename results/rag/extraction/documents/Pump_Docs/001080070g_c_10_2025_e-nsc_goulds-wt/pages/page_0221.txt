@@ -1,0 +1,219 @@
+hu - Eredeti útmutató
+
+Anyagkód
+Ház/járókerék
+
+Standard / Vá‐
+
+4  Beszerelés
+
+anyaga
+
+lasztható
+
+Szabvány
+
+Óvintézkedések
+
+CS
+Öntöttvas/
+Rozsdamentes
+
+FIGYELMEZTETÉS:
+
+acél
+
+Szabvány
+
+CN
+Öntöttvas/
+Rozsdamentes
+
+acél
+
+DC
+Lágyvas/öntött‐
+
+Szabvány
+
+vas
+
+DB
+Lágyvas/bronz
+Szabvány
+
+• Tartsa be a hatályos baleset-megelő‐
+zési előírásokat.
+• Használjon megfelelő védőfelszere‐
+lést.
+• Vegye figyelembe a berendezés tele‐
+pítésére, a vízvezetékekre és az ener‐
+giaellátásra vonatkozó helyi és/vagy
+országos előírásokat, törvényeket és
+szabványokat.
+
+Szabvány
+
+DN
+Lágyvas/rozs‐
+damentes acél
+
+Áramütés veszélye!:
+
+NN
+Rozsdamentes
+
+Szabvány
+
+acél /
+Rozsdamentes
+
+acél
+
+RR
+Duplex acél/
+
+Választható
+
+duplex acél
+
+3.6  Mechanikus tömítés
+
+• A csatlakozásokat megfelelő képesí‐
+téssel rendelkező szakembernek, a
+helyi előírásoknak megfelelően kell
+bekötnie.
+• A keverőn való munkavégzés előtt
+kapcsolja le a berendezés és a vezér‐
+lőpanel áramellátását, és bizonyosod‐
+jon meg arról, hogy azok nem kerül‐
+hetnek áram alá. Ez vonatkozik a ve‐
+zérlőáramkörre is.
+
+Kiegyensúlyozatlan mechanikus tömítés EN 12756,
+K verzió.
+
+Földelés
+
+3.7  Alkalmazási határértékek
+
+Áramütés veszélye!:
+
+Maximális üzemi nyomás
+
+4. ábra 367. oldalon a szivattyúmodelltől és a sziv‐
+attyúzott folyadék hőmérsékletétől függő maximális
+üzemi nyomást jeleníti meg.
+P1max + Pmax≤ PN
+
+P1max
+Maximális bemeneti nyomás
+
+Pmax
+A szivattyú által előállított maximális nyomás
+
+PN
+Maximális üzemi nyomás
+
+HU
+
+Folyadék-hőmérsékleti tartományok
+
+4. ábra 367. oldalon az üzemi hőmérséklettartomá‐
+nyokat mutatja.
+Speciális igények esetén lépjen kapcsolatba az érté‐
+kesítési- és szervizképviselettel.
+
+Óránkénti indítások maximális száma
+
+18,5
+
+• Az egyéb elektromos csatlakozások
+létesítése előtt minden esetben csat‐
+lakoztassa a külső védővezetéket a
+földelőcsatlakozóhoz.
+• Minden elektromos berendezést föl‐
+delni kell. Ez egyaránt vonatkozik a
+keverő, meghajtó, és egyéb megfigye‐
+lő berendezésekre. Ellenőrizze, hogy
+a földelővezeték megfelelően van-e
+csatlakoztatva.
+• A motorkábel véletlen meglazulása‐
+kor a földelővezeték legyen az utol‐
+só vezeték, amely az érintkezőből ki‐
+lazulhat. Ügyeljen arra, hogy a földe‐
+lővezeték hosszabb legyen a fázisve‐
+zetékeknél. Ez a motorkábel mindkét
+végére vonatkozik.
+• További védelem szükséges halálos
+áramütés ellen. Szereljen be nagy ér‐
+zékenységű differenciálkapcsolót (30
+mA) [maradékáram berendezést –
+RCD].
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37.
+
+45
+-
+75
+
+90
+-
+160
+
+60
+40
+30
+24
+16.
+8
+4
+
+4.1  A létesítménnyel kapcsolatos
+követelmények
+
+4.1.1  A szivattyú elhelyezése
+
+Órán‐
+kénti
+indí‐
+tások
+szá‐
+ma
+
+Zajszint
+
+VESZÉLY:
+Ne használja a berendezést gyúlékony,
+robbanásveszélyes vagy vegyileg agresz‐
+szív gázok és porok közelében.
+
+Irányelvek
+
+A termék elhelyezésével kapcsolatban tartsa be a
+következő irányelveket:
+
+A mellékelt szabványos motorral felszerelt szivattyú
+hangnyomás-szintjeit lásd a következő helyen: 9.
+táblázat 368. oldalon.
+A motor nélküli szivattyúegység hangnyomásszint‐
+jeire vonatkozóan lásd: 10. táblázat 372. oldalon.
+
+217

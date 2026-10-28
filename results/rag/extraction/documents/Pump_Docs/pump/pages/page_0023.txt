@@ -1,0 +1,96 @@
+2. Common Pumping System Problems
+
+Common Pumping System Problems
+
+Related Tip Sheets
+
+Poor design and improper system operation can 
+create problems in both pumps and pumping 
+systems. As rotating equipment, pumps are subject 
+to wear, erosion, cavitation, and leakage. Many 
+pumping system problems can result from 
+improper pump selection and operation. If they 
+are not selected or operated properly, pumps can 
+require considerable maintenance.
+
+Related information is available in two ITP 
+BestPractices Tip Sheets titled Select an 
+Energy-Efficient Centrifugal Pump and Test 
+for Pumping System Efficiency. Tip sheets 
+can be found in Appendix C, accessed on the 
+Web at www.eere.energy.gov/industry/
+bestpractices, or obtained by contacting the 
+EERE Information Center at 877-337-3463.
+
+ system Problems
+Many pumping system components are not 
+dynamic. That is, these components allow fluid or 
+heat transfer but, aside from thermal expansion or 
+structural vibration, they do not move and do not 
+have dynamic surfaces that wear out. (Hydraulic 
+systems are a notable exception, but they have 
+a unique set of operating problems.) The most 
+common types of problems in these components 
+are leakage, fouling,2 valve failure, and cracks 
+in pipe supports.
+
+Valve Problems. Valves are susceptible to wear 
+and leakage, and they require a considerable 
+amount of maintenance. Depending on the 
+service environment, they must occasionally 
+be overhauled. Valves are often installed in a 
+pumping system using bolted flange connections. 
+These valves can experience the same leakage 
+problems as mechanical joints. Valve packing 
+can also develop leaks. Much like the packing 
+used in pumps, valve packing controls leakage 
+around a valve stem. However, leakage can 
+result from improper installation or degradation 
+of the packing.
+
+Leakage. In most systems, leakage first occurs at 
+mechanical joints. Once they have been hydro-
+statically tested (pressurized higher than system 
+operating pressure and inspected for leaks), solid 
+pipe and welded joints do not typically develop 
+leaks unless the pipe walls erode and/or corrode. 
+Mechanical joints rely on fastener tension to 
+ensure tightness. Over time, these joints can 
+loosen or the gasket material can degrade. 
+Repairing a leaking mechanical joint can be as 
+simple as tightening the joint fasteners or as 
+difficult as disassembling the joint and replacing 
+the gaskets or O-rings.
+
+In some systems, a little leakage from around 
+valve stems is not a problem. In other systems, 
+such as those with toxic fluids, such leakage 
+requires immediate attention. In many systems, 
+valve packing leakage is allowed during initial 
+operation, until the valves have been opened 
+and shut enough times to break in the packing. 
+Also, in high-temperature systems such as steam 
+systems, valve packing may leak at low temper-
+atures and then seal at high temperatures, as the 
+valve heats up and expands.
+
+Causes of mechanical joint leakage include 
+sagging pipes, the result of inadequate support; 
+thermal strain; and fluid-borne and structure-
+borne vibrations. Since improper pump selection 
+and operation can induce high levels of vibration 
+in a system, a pump problem can quickly become 
+a pumping system problem, and vice versa.
+
+Adjustments to valve packing should be made 
+cautiously. Overtightening a valve packing gland 
+can significantly increase the amount of torque 
+required to operate a valve. If packing is too tight, 
+the valve’s handwheel torque may be too high to 
+turn by hand, posing a potential safety problem.
+
+2 Fouling can also increase the pressure drop.
+
+19
+
+A Sourcebook for Industry

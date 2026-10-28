@@ -1,0 +1,160 @@
+fr - Instructions initiales
+
+• Température du liquide
+• Altitude au-dessus du niveau de la mer (en circuit
+ouvert)
+• Pression dans le circuit (en circuit fermé)
+• Perte de charge des canalisations
+• Perte de charge interne de la pompe
+• Différences de hauteur
+L'équation ci-dessous permet de calculer la hauteur
+maximale au-dessus du niveau de liquide à laquelle
+la pompe peut être installée:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+• Si le câble de moteur est arraché de
+la prise par erreur, le conducteur de
+terre (masse) doit être le dernier à se
+décrocher de sa borne. Vérifier que le
+fil de terre (masse) est plus long que
+les fils de phase. Ceci s'applique aux
+deux extrémités du câble de moteur.
+• Ajouter une protection supplémentai‐
+re contre les électrocutions mortel‐
+les. Poser un interrupteur différentiel
+à haute sensibilité (30 mA) [RCD : re‐
+sidual current device].
+
+4.1  Exigences d'installation
+
+pb
+Pression barométrique en bars, (pression du
+circuit pour un circuit fermé)
+
+FR
+
+4.1.1  Emplacement de la pompe
+
+NPSH
+Valeur en mètres de la perte de charge inter‐
+ne de la pompe
+
+Hf
+Pertes totales en mètres causées par le pas‐
+sage du liquide dans la canalisation d'aspira‐
+tion de la pompe
+
+DANGER:
+Ne pas utiliser ce groupe dans des
+environnements qui peuvent contenir
+des gaz inflammables/explosifs ou chi‐
+miquement agressifs ou des poudres.
+
+Hv
+Pression de vapeur en mètres correspondant
+à la température du liquide T °C
+
+0,5
+Marge de sécurité recommandée (m)
+
+Conseils
+
+Z
+Hauteur maximale à laquelle la pompe peut
+être installée (m)
+
+Respecter les règles suivantes concernant l'empla‐
+cement du produit :
+
+(pb*10,2 - Z) doit toujours être positif.
+Pour plus d'informations, voir Figure 12 en page 380.
+
+REMARQUE:
+Ne pas dépasser la capacité d'aspiration de la pom‐
+pe, car ceci peut occasionner une cavitation et en‐
+dommager la pompe.
+
+4.1.2  Exigences pour les canalisations
+
+Précautions
+
+• S'assurer qu'aucune obstruction n'empêche le dé‐
+bit normal d'air de refroidissement fourni par le
+ventilateur du moteur.
+• S'assurer que la zone d'installation est protégée
+contre toute fuite de liquide ou inondation.
+• Si possible, placer la pompe légèrement au-des‐
+sus du niveau du sol.
+• La température ambiante doit être comprise en‐
+tre 0°C (+32°F) et +40°C (+104°F).
+• L'humidité relative de l'air ambiant doit être infé‐
+rieure à 50 % à +40 °C (+104 °F).
+• Prenez contact avec le Service commercial et
+après-vente si :
+
+AVERTISSEMENT:
+
+– L'humidité relative de l'air dépasse les valeurs
+
+indiquées.
+– La température ambiante dépasse +40 °C
+
+(+104 °F).
+– Le groupe est situé à plus de 1000 m
+
+• Utiliser des canalisations qui corres‐
+pondent à la pression de fonctionne‐
+ment maximale de la pompe. Le non-
+respect de cette consigne peut ame‐
+ner une rupture du système et en con‐
+séquence occasionner des risques de
+blessure.
+• S'assurer que toutes les connexions
+sont effectuées par des techniciens
+qualifiés et qu'elles sont conformes
+aux réglementations en vigueur.
+
+(3000 pi) au-dessus du niveau de la mer. Les
+performances du moteur peuvent en être ré‐
+duites ou nécessiter un remplacement par un
+moteur plus puissant.
+Pour plus d'information sur les valeurs de dégrada‐
+tion des performances du moteur, voir Tableau 11 en
+page 379.
+
+Positions de la pompe et dégagement
+
+REMARQUE:
+Respecter toutes les réglementations des autorités
+compétentes et des sociétés de gestion du service
+public de l'eau si la pompe est reliée à un réseau
+public d'alimentation en eau. Si nécessaire, installer
+un dispositif antiretour approprié à l'aspiration.
+
+• Pour assurer une ventilation adaptée : ≥ 100 mm
+(4 po)
+• Pour permettre l'inspection et la dépose du mo‐
+teur : ≥ 300 mm (12 po)
+• Si l'espace disponible est inférieur, se reporter au
+catalogue technique.
+
+Liste de contrôle des canalisations
+
+Installation au-dessus de la source de liquide
+(levage d'aspiration)
+
+Vérifier que les conditions suivantes sont respec‐
+tées :
+
+La hauteur maximale d'aspiration théorique pour
+n'importe quel type de pompe est de 10,33 m. En
+pratique, les facteurs suivants peuvent réduire la ca‐
+pacité d'aspiration de la pompe :
+
+• Toutes les canalisations sont soutenues indépen‐
+damment, les canalisations ne doivent exercer
+aucune contrainte sur le groupe.
+• Des canalisations ou raccords souples doivent
+être utilisés pour éviter la transmission des vibra‐
+
+29

@@ -1,0 +1,169 @@
+is - Þýðing á upprunalegu
+
+Tegund dælu
+Vörn
+
+hita-straumvörn
+(vélarálagsvörn)
+– Skammhlaupsvörn
+
+(skal sett upp
+af uppsetningarað‐
+ila):23
+
+Þriggja fasa rafmagns‐
+dæla24
+– Hitaálagsvörn (skal
+
+fylgja frá uppsetn‐
+ingaraðila)
+– Skammhlaupsvörn
+
+(skal fylgja frá upp‐
+setningaraðila)
+
+• Ef dælan er tengd við opna rás skal þvermál sog‐
+pípu fara eftir uppsetningaraðstæðum. Sogpípan
+skal ekki vera grennri en þvermál sogopsins.
+• Ef sogpípan þarf að vera stærri en inntak dælu,
+skal setja upp hjámiðjuminnkun.
+• Ef dæla er staðsett ofan við vökvayfirborð, skal
+setja upp sogloka á enda sogpípu.
+• Fótventilinn er alveg á kafi í vökvanum til að
+koma í veg fyrir að loft sogist inn í sogleiðsluna,
+jafnvel þegar vökvayfirborðið er í lægtu stöðu og
+dælan er uppsett fyrir ofan vökvayfirborðið.
+• Aðrennslisloki af réttri stærð eru uppsettir á sog‐
+pípunni og á framrásarlögn (aftan við einstefnis‐
+lokann) til að stýra afköstum dælunnar, en einnig
+vegna skoðunar og viðhaldsvinnu.
+• Einstefnisloki er settur upp í framrásarlögn til að
+hindra bakflæði inn í dæluna þegar slökkt er á
+henni.
+
+• Stjórnskápurinn skal vera búinn varnarkerfi gegn
+þurrgangi, þar sem þrýstirofi, flotrofi, skynjarar
+eða önnur sambærileg tæki eru tengd við.
+• Mælt er með eftirfarandi tækjum inntaksmegin á
+dælunni:
+
+– Ef vökva er dælt úr vatnskerfi skal nota þrýst‐
+
+irofa.
+– Þegar vökva er dælt úr geymi eða safngeymi,
+
+skal nota flotrofa eða nema.
+• Þegar hitaliðar eru notaðir, er mælt með rafliðum
+sem eru næmir fyrir fasabilunum.
+
+AÐVÖRUN:
+Ekki skal nota aðrennslisloka á framrás‐
+arlögn í lokaðri stöðu til að hægja á dælu
+lengur en nokkrar sekúndur. Ef dælan
+þarf að vera í gangi með framrásarlögn
+lokaða lengur en nokkrar sekúndur, skal
+setja upp hjáveitulögn til að hindra yfirhit‐
+un á vökva inni í dælunni.
+
+Gátlisti fyrir vél
+
+AÐVÖRUN:
+
+Varðandi teikningar sem sýna pípulagnakröfur, sjá
+Mynd 13 á blaðsíðu 380 og Mynd 14 á blaðsíðu 380.
+
+IS
+
+4.2  Raftæknilegar kröfur
+• Reglur sem eru í gildi á staðnum eru æðri þess‐
+um sérkröfum.
+• Varðandi slökkvikerfi (brunahana og/eða úð‐
+akerfi), skal fara eftir gildandi reglum.
+
+• Lesið notkunarreglur til að tryggja að
+varnarbúnaður sé fyrir hendi ef notuð
+er önnur en stöðluð vél.
+• Ef vélin er búin sjálfvirkri hitavörn, ver‐
+ið þá viðbúin óvæntum gangsetning‐
+um við yfirálag. Ekki skal nota slíkar
+vélar fyrir eldvarnir.
+
+Gátlisti fyrir raftengingu
+
+Athugið hvort eftirfarandi kröfur eru uppfylltar:
+
+ATHUGA:
+
+• Rafleiðarar eru varðir fyrir háum hita, titringi og
+hnjaski.
+• Á rafveitulögninni er:
+– Skammhlaupsvörn
+– Skilrofi á aðallögn með snertibili a.m.k. 3 mm.
+
+• Notið aðeins jafnvægisstilltar vélar með hálfan
+kíl í öxulframlengingunni (IEC 60034‑14) og með
+eðlilegri titringstíðni (N).
+• Inntaksspenna og tíðni skulu vera í samræmi við
+tæknilegar upplýsingar á upplýsingaplötunni.
+
+Gátlisti fyrir stjórnskápinn
+
+Vélar geta venjulega starfað við eftirfarandi spenn‐
+ufrávik:
+
+Tíðni Hz
+Fasi ~
+UN [Nafn‐
+spenna] [V] ± %
+
+ATHUGA:
+Stjórnskápur skal vera í samræmi við afköst rafkn‐
+únu dælunnar. Ef málgildin eru í ekki í samræmi gæti
+það gert vörnina á vélinni óvirka.
+
+50
+1
+220 – 240 ± 6
+
+Athugið hvort eftirfarandi kröfur eru uppfylltar:
+
+3
+230/400 ± 10
+
+400/690 ± 10
+
+60
+1
+220 – 230 ± 6
+
+• Stjórnskápur skal verja vélina fyrir yfirálagi og
+skammhlaupi.
+• Setjið upp rétta yfirálagsvörn (hitaliða eða vélarál‐
+agsvörn).
+
+3
+220/380 ± 5
+
+Tegund dælu
+Vörn
+
+380/660 ± 10
+
+– Innbyggð sjálfvirk
+
+Einfasa stöðluð rafknú‐
+in dæla ≤ 2,2 kW
+
+endurstilling með
+
+Strengir skulu samkvæmt reglunum vera 3ja þráða
+(2+jarðtenging) á einfasa gerðunum og 4ra þráða
+(3+jarðtenging) á þrífasa gerðunum.
+
+23
+aM öryggi (mótorstart), eða segulvarma-rofi með kúrfu C og Icn ≥ 4,5 kA, eða annað jafngilt tæki.
+24
+Yfirhitaálagsliði með útsláttarflokki 10A + aM-öryggjum (vélræsing) eða vélarvörn með segulvarmarofa í
+byrjunarflokki 10 A.
+
+137

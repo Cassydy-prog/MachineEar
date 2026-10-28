@@ -1,0 +1,169 @@
+hr - Izvorne upute
+
+– Kada se tekućina upumpava iz vodovoda, ko‐
+
+ko sekundi, mora se instalirati zaobilazni
+krug kako bi se spriječilo pregrijavanje
+tekućine unutar pumpe.
+
+ristite tlačnu sklopku.
+– Kada se tekućina upumpava iz spremnika ili
+
+rezervoara, koristite davač razine ili sonde.
+• Kada se koriste toplinski releji, preporučaju se
+releji koji su osjetljivi na zatajenje faze.
+
+Za slike koje pokazuju zahtjeve u vezi cjevovoda, po‐
+gledajte Slika 13 na stranici 380 i Slika 14 na stranici
+380.
+
+Kontrolni popis za motor
+
+UPOZORENJE:
+
+4.2  Električni zahtjevi
+• Lokalni propisi na snazi imaju prednost nad tim
+specificiranim zahtjevima.
+• U slučaju protupožarnih sustava (hidranti i/ili
+sprinkleri), provjerite lokalne propise na snazi.
+
+Kontrolni popis za električne spojeve
+
+Provjerite jesu li ispunjeni sljedeći zahtjevi:
+
+• Pročitati upute za uporabu kako bi se
+osigurala isporuka zaštitnog uređaja
+ako se koristi motor koji nije standar‐
+dan.
+• Ako je motor opremljen automatskim
+toplinskim zaštitnicima, vodite računa
+o opasnosti od neočekivanih pokreta‐
+nja u vezi s preopterećenjem. Nemoj‐
+te koristiti takve motore u primjena‐
+ma za gašenje požara.
+
+• Električni izvodi su zaštićeni od visoke tempera‐
+ture, vibracija te sudara.
+• Napojni vod je opremljen:
+– Uređajem za zaštitu od kratkog spoja
+– Sklopkom za odvajanje od mreže s razmakom
+
+NAPOMENA:
+
+između kontakata od najmanje 3 mm
+
+Kontrolni popis za električnu upravljačku plo‐
+ču
+
+• Koristite samo dinamički uravnotežene motore s
+ključem smanjene veličine u nastavku osovine
+(IEC 60034-14) i sa normalnom razinom vibracija
+(N).
+• Mrežni napon i frekvencija moraju se složiti sa
+specifikacijama na pločici s podacima.
+
+NAPOMENA:
+Upravljačka ploča mora odgovarati nazivnim vrijed‐
+nostima električne pumpe. Nepodesne kombinacije
+mogu dovesti do nemogućnosti zaštite motora.
+
+Općenito, motori mogu raditi pod sljedećim toleran‐
+cijama mrežnog napona:
+
+Provjerite jesu li ispunjeni sljedeći zahtjevi:
+
+Frekvencija u
+
+Faza ~
+UN [V] ± %
+
+Hz
+
+50
+1
+220 – 240 ± 6
+
+• Upravljačka ploča mora štititi motor od preopte‐
+rećenja i kratkog spoja.
+• Instalirati ispravnu zaštitu od preopterećenja (to‐
+plinski relej ili zaštita motora).
+
+3
+230/400 ± 10
+
+Vrsta pumpe
+Zaštita
+
+400/690 ± 10
+
+– Ugrađena automat‐
+
+60
+1
+220 – 230 ± 6
+
+Jednofazna standard‐
+na električna pumpa ≤
+2,2 kW
+
+3
+220/380 ± 5
+
+380/660 ± 10
+
+ska toplinsko-ampe‐
+rometrijska zaštita
+od resetiranja (za‐
+štita motora)
+– Zaštita od kratkog
+
+spoja (mora isporu‐
+čiti instalater)45
+
+Koristite kabel prema pravilima s 3 izvoda (2+uzem‐
+ljenje) za jednofazne verzije i s 4 izvoda (3+uzemlje‐
+nje) za trofazne verzije.
+
+Trofazna električna
+pumpa46
+– Toplinska zaštita
+
+4.3  Instaliranje pumpe
+
+HR
+
+(mora je osigurati
+instalater)
+– Zaštita od kratkog
+
+4.3.1  Mjehanička instalacija
+
+spoja (mora je osi‐
+gurati instalater)
+
+Područje instalacije
+
+Instalirajte jedinicu na betonsku ili metalnu bazu koja
+je dovoljno snažna da osigura trajnu i čvrstu potporu.
+Pridržavajte se zahtjeva u odjeljku Lokacija pumpe
+na stranici 265.
+
+Instalacija na betonskom temelju
+
+• Upravljačka ploča mora biti opremljena sustavom
+za zaštitu od rada na suho na koji se spaja tlačna
+sklopka, davač razine, sonde ili drugi prikladni
+uređaj.
+• Sljedeći uređaji se preporučaju za korištenje na
+usisnoj strani pumpe:
+
+Temeljni zahtjevi
+
+45
+osigurači aM (pokretanje motora) ili magnetotermalna sklopka s krivuljom C i Icn ≥ 4,5 kA ili drugim
+ekvivalentnim uređajem.
+46
+termalnog releja s klasom prekida 10A + osiguračima aM (pokretanje motora) ili magnetotermalnom
+sklopkom zaštite motora s početnom klasom 10A.
+
+267

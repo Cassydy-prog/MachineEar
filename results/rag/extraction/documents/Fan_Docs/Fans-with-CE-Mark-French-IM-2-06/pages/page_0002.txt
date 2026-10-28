@@ -1,0 +1,162 @@
+Stockage de la machine
+Si l’installation du ventilateur doit être retardée, stocker la 
+machine dans une zone protégée et dans un environnement 
+stable. Les pointes de vibrations ne doivent pas excéder 0,051 
+mm – pointe de déplacement à l’emplacement de stockage, 
+à moins que le ventilateur ne soit proprement isolé des vibra-
+tions. L’unité doit être raisonnablement protégée de tout impact 
+accidentel. Couvrir le ventilateur pour protéger son revêtement 
+et pour prévenir l’entrée de matières étrangères dans les brides 
+d’admission et d’évacuation. S’assurer que le moteur, mécan-
+isme d’entraînement et les paliers soient protégés. Les précau-
+tions suivantes doivent être prises lors d’un stockage prolongé 
+pour s’assurer que l’équipement ne subira pas de dommages:
+
+•
+Un stockage de longue durée requiert des inspections
+mensuelles. Vérifiez qu’il n’y a pas de signes de corro-
+sion sur la machine et qu’elle ne soit pas endommagée,
+et qu’il n’y ait aucun débris dans le ventilateur.
+
+manutention sécurisées. Vérifier la capacité de levage et l’état 
+de fonctionnement de l’équipement de manutention. Maintenir 
+les équipements de manutention afin d’éviter les accidents de 
+personnes graves.
+ 
+Sur la plupart des unités, de taquets de levage sont constru-
+its pour protéger le ventilateur et son cadre. Fixer l’équipement 
+de levage à tous les taquets de levage fournis pour éviter 
+qu’il ne devienne instable lors de son déplacement. Les unités 
+livrées complètement assemblées peuvent être levées avec des 
+élingues ou des barres de préhension. (Employer des chaînes 
+proprement garnies, des câbles ou des courroies en nylon.) 
+Ne jamais soulever un ventilateur par la bride d’admission 
+ou d’évacuation, les arbres de transmissions, les mécanismes 
+d’entraînement, le tourniquet ou la roue, le moteur ou sa base, 
+ou de toute autre manière pouvant tordre ou déformer les 
+pièces. Ne jamais le lever par des élingues ou des madriers 
+passés à travers les brides d’admission du ventilateur.
+Les unités non-assemblées demandent une manutention spéciale.
+
+Figure 1. Section de fondation typique
+
+Taquets de levage
+
+•
+Les paliers ont tendance à retenir l’humidité quand ils
+ne sont pas entreposés dans un milieu à température
+constante. Pour éviter la corrosion, il est nécessaire de
+garder les paliers remplis de graisse et de les tourner
+périodiquement. Même emplis de graisse, les paliers vont
+retenir de l’humidité, et il est par conséquent nécessaire
+de les purger tous les trente jours avec de la graisse
+fraîche pour éliminer l’humidité. Il est recommandé de
+purger les paliers avec de la graisse fraîche tout en
+les tournant manuellement. Ne pas utiliser de graisseurs
+haute pression, ils peuvent détruire les joints de paliers.
+
+Taquets de
+
+levage
+
+•
+Les mécanismes d’entraînement et les courroies doivent
+être enlevés si le ventilateur doit être stocké pour une
+longue période. Les mécanismes d’entraînement doivent
+porter la mention ‘pour service’ et stockés dans un
+endroit sec. Les courroies doivent être enlevées, roulés
+sans cassures, placées dans un carton solide, et stockés
+dans un endroit sec et bien ventilé. Pour prévenir toute
+détérioration, les conditions de stockage des courroies ne
+devraient pas excéder 85F (29,5 C) et 70% d’humidité. Si
+les courroies montrent des signes de détérioration, elles
+doivent être remplacées avant la mise en service.
+
+•
+Les moteurs doivent être stockés dans un endroit pro-
+pre, sec, et à l’abri des vibrations. L’emballage doit être
+ouvert suffisamment pour permettre à l’air de circuler
+autour du moteur. La température du bobinage doit être
+gardée légèrement supérieure à celle des conditions
+environnantes pour éviter la condensation. Ceci peut
+être achevé en alimentant les dispositifs de chauffage
+interne, si le moteur en est équipé ou par l’utilisation de
+chauffages d’appoint. S’il n’est pas possible de chauffer
+le bobinage, le moteur doit être bien emballé dans un
+matériel imperméable contenant quelques sacs de dessi-
+catif. Remplacer le dessicatif régulièrement pour éviter les
+problèmes d’humidité. Le rotor du moteur doit aussi être
+tourné de façon régulière (mensuellement) pour assurer
+que les pièces des roulements sont bien graissées.
+
+Toutes les pièces doivent être manipulées de manière à protéger 
+le revêtement et les pièces de dommages éventuels. Les pièces 
+doivent être manipulées de telle façon que les forces ne soient 
+pas concentrées pour éviter toute déformation ou distorsion.
+ 
+Le cadre doit être levé au moyen de courroies ou de barres 
+de préhension. Ne pas déformer le cadre ou les plaques laté-
+rales pendant le levage.
+ 
+Les socles de palier doivent être soulevés avec des cour-
+roies ou des chaînes garnies. Un socle de palier joint ou séparé 
+ne doit jamais être soulevé par son arbre, par les paliers, par 
+l’entraînement, le moteur ou la roue motrice.
+ 
+L’ensemble arbre et roue peut être soulevé avec un éléva-
+teur et une barre de préhension munie d’une élingue autour de 
+l’arbre aux points les plus proches de la roue. Utiliser la barre 
+de préhension pour assurer que les élingues ne pressent pas 
+les côtés de la roue, ce qui pourrait la fausser. Veillez à ne pas 
+rayer l’arbre aux endroits où la roue et les paliers seront montés. 
+Ne jamais soulever ou supporter l’ensemble par la roue. Toujours 
+supporter l’ensemble par l’arbre lorsqu’il est soulevé ou stocké. 
+Ne pas supporter l’arbre ou la roue du côté du cadre.
+ 
+Les roues expédiées séparément peuvent être soulevées 
+par des élingues passant entre les pales ou autour du moyeu. 
+Ne jamais soulever la roue par ses pales ou par ses brides. 
+Toujours transporter les roues en les soulevant. Ne pas faire 
+rouler les roues ; ceci peut endommager leur revêtement et 
+modifier leur équilibre.
+ 
+Une distorsion de l’arbre est une source de vibrations et 
+de défaillance du palier et par conséquent l’arbre doit être 
+manipulé avec précaution Toute rayure de l’arbre peut être 
+réparée ave une toile émeri fine ou une pierre.
+ 
+Pour les ventilateurs de toit, voir aussi les instructions 
+spécifiques pour la manipulation de ventilateurs de toit dans 
+l’Annexe A.
+ 
+Des goupilles pour maintenir l’isolation du cadre sont fournies 
+pour certains modèles de ventilateurs haute température. Soyez 
+prudent lors de la manutention et lors de travail autour des ventila-
+teurs qui ont de ces goupilles d’isolation, qui sont très pointues.
+
+Bases et Structures de Support
+— Ventilateurs industriels
+La meilleure méthode de monter un ventilateur sur le sol est 
+sur une fondation de béton plate, plane, et bien conçue. La 
+masse de la fondation doit être au moins trois fois celle de 
+l’assemblage supporté. La fondation doit s’étendre 150 mm 
+au-delà des dimensions externes du ventilateur et du mécan-
+isme d’entraînement ; cependant, elle ne doit pas être plus 
+du double de la surface requise par l’équipement. Si elle est 
+plus grande, la masse doit alors être accrue en conséquence 
+pour résister à un balancement dû aux vibrations. Des boulons 
+d’ancrage de type « L » et « T » d’une taille plus petite que 
+la dimension nominale du trou de la base doivent être utilisés. 
+Les boulons d’ancrage doivent être liés aux barres d’armature 
+de la fondation Un manchon d’un diamètre de deux à deux fois 
+et demi le diamètre du boulon d’ancrage doit être placé autour 
+du boulon d’ancrage pour permettre les réglages finaux (voir 
+Figure 2). La surface de montage de la fondation doit être lisse 
+pour avoir un bon contact statique. Lors de la décision relative 
+à l’épaisseur des fondations, approximativement 25 à 40 mm 
+d’épaisseur doivent être prévus pour ajustements, cimentage, 
+mise à niveau, rondelles, écrous, etc.
+
+2
+
+IM-2-06

@@ -1,0 +1,155 @@
+it - Traduzione dell'originale
+
+Posizioni della pompa e spazio attorno alla
+pompa
+
+Se la pompa viene collegata a un sistema idrico
+pubblico, osservare tutte le normative emesse dalle
+autorità preposte e dalle aziende responsabili della
+gestione idrica al pubblico. Se richiesto, installare un
+appropriato dispositivo antiriflusso sul lato di aspira‐
+zione.
+
+Lista di controllo delle tubazioni
+
+• Per assicurare adeguata ventilazione: ≥ 100 mm
+(4 in)
+• Per consentire l’ispezione e la rimozione del mo‐
+tore: ≥ 300 mm (12 in)
+• Nel caso in cui lo spazio disponibile sia inferiore,
+vedere il catalogo tecnico.
+
+Controllare che siano soddisfatti i seguenti requisiti:
+
+IT
+
+Installazione al di sopra del liquido da aspira‐
+re (soprabattente)
+
+La massima altezza di aspirazione teorica per qual‐
+siasi pompa è di 10,33 m. In pratica, quanto segue
+influisce sulla capacità di aspirazione della pompa:
+
+• Temperatura del liquido pompato
+• Altezza sul livello del mare (in un impianto aper‐
+to)
+• Pressione di sistema (in un impianto chiuso)
+• Resistenza delle tubazioni
+• Perdita di carico intrinseca della pompa
+• Differenze di altezza
+Per calcolare l'altezza massima dal livello del liqui‐
+do su cui installare la pompa utilizzare la seguente
+equazione.
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+Pressione barometrica in bar (in un impianto
+chiuso è la pressione del sistema)
+
+NPSH
+Valore in metri della perdita di carico intrin‐
+seca della pompa
+
+Hf
+Perdita di carico totale in metri causata dal
+passaggio del liquido la tubazione di aspira‐
+zione della pompa
+
+Hv
+Pressione di vapore in metri corrispondente
+alla temperatura T °C del liquido
+
+0,5
+Margine di sicurezza consigliato (m)
+
+Z
+Altezza massima alla quale è installabile la
+pompa (m)
+
+• Tutte le tubazioni sono supportate in modo indi‐
+pendente e non gravano sull’unità.
+• Sono utilizzati tubi o raccordi flessibili, per evitare
+che le vibrazioni della pompa si trasferiscano alle
+tubazioni e viceversa.
+• Sono utilizzate curve ampie, evitando gomiti che
+causino eccessiva perdita di carico.
+• La tubazione di aspirazione è a perfetta tenuta
+ermetica.
+• Se la pompa è utilizzata in un circuito aperto,
+il diametro del tubo di aspirazione è adatto alle
+condizioni di installazione. Il tubo di aspirazione
+non deve essere più piccolo del diametro della
+bocca di aspirazione.
+• Se la tubazione di aspirazione ha un diametro
+maggiore del diametro della bocca della pompa,
+deve essere installata una riduzione eccentrica.
+• Se la pompa è posta al di sopra del liquido da
+aspirare (soprabattente), è installata una valvola
+di fondo all’estremità della tubazione di aspira‐
+zione.
+• La valvola di fondo è completamente immersa
+nel liquido affinché l’aria non possa entrare attra‐
+verso il vortice di aspirazione, quando il liquido è
+al livello minimo.
+• Valvole di intercettazione di dimensioni adatte
+sono installate nella tubazione di aspirazione e
+nella tubazione di mandata (a valle della valvola
+di ritegno) per la regolazione della portata, per
+l’ispezione e per la manutenzione della pompa.
+• Una valvola di ritegno è installata sulla tubazione
+di mandata per prevenire il riflusso attraverso la
+pompa quando la pompa viene spenta.
+
+(pb*10,2 - Z) deve essere sempre un numero positi‐
+vo.
+Per ulteriori informazioni, vedere Figura 12 a pagina
+380.
+
+NOTA BENE:
+Non superare la capacità di aspirazione della pom‐
+pa in quanto questo potrebbe causare cavitazione e 
+danneggiare la pompa.
+
+AVVERTENZA: 
+Non utilizzare la valvola di intercettazio‐
+ne sul lato di mandata in posizione chiu‐
+sa, per ridurre la portata della pompa, per 
+più di pochi secondi. Se la pompa deve 
+funzionare con il lato di mandata chiuso 
+per più di qualche secondo, installare un 
+circuito di by-pass per impedire il surri‐
+scaldamento del liquido all’interno della 
+pompa.
+
+4.1.2  Requisiti delle tubazioni
+
+Precauzioni
+
+AVVERTENZA:
+
+Per illustrazioni che mostrano i requisiti delle tuba‐
+zioni, vedere Figura 13 a pagina 380 e Figura 14 a
+pagina 380.
+
+4.2  Requisiti elettrici
+• Le normative in vigore localmente prevalgono sui
+requisiti specificati.
+• In caso di impianti antincendio (idranti e/o
+sprinkler) verificare le normative locali vigenti.
+
+Lista di controllo per i collegamenti elettrici
+
+• Utilizzare tubi adatti alla massima
+pressione di lavoro della pompa. In
+caso contrario, l'impianto può subire
+cedimenti, con il rischio di lesioni per‐
+sonali
+• Verificare che tutti i collegamenti sia‐
+no eseguiti da installatori qualificati e
+in conformità alle norme vigenti.
+
+Controllare che siano soddisfatti i seguenti requisiti:
+
+NOTA BENE:
+
+6

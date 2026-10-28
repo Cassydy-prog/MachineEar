@@ -1,0 +1,161 @@
+da - Oversættelse af original instruktioner
+
+Den følgende udligning bruges til at beregne den
+maksimale højde over væskeniveauet, hvor pumpen
+kan installeres:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+Barometrisk tryk i bar (i et lukket system er
+det systemtryk)
+
+NPSH
+Værdi i meter af pumpens indvendige gen‐
+nemstrømningsmodstand
+
+• Hvis motorkablet rykkes løs ved en
+fejl, skal den jordforbundne leder væ‐
+re den leder, der sidst løsnes fra sin
+klemrække. Sørg for, at den jordfor‐
+bundne leder er længere end fasele‐
+derne. Dette gælder for begge ender
+af motorkablet.
+• Tilføj ekstra beskyttelse mod dødeligt
+elektrisk stød. Installér en højsensi‐
+tiv differentialkontakt (30 mA) [rests‐
+trømsenhed RCD].
+
+Hf
+Totale tab i meter, forårsaget af passage af
+væske i pumpens indsugningsrør.
+
+4.1  Facilitetskrav
+
+Hv
+Damptryk i meter, der svarer til væsketempe‐
+raturen T °C
+
+4.1.1  Pumpeplacering
+
+0,5
+Anbefalet sikkerhedsmargin (m)
+
+Z
+Maksimal højde, hvor pumpen kan installe‐
+res (m)
+
+FARE:
+Brug ikke denne enhed i miljøer, der kan
+indeholde antændelige/eksplosive eller
+kemiske aggressive gasser eller pulvere.
+
+(pb*10,2 - Z) skal altid være et positivt tal.
+Du kan finde flere oplysninger i Figur 12 på side 380.
+
+Retningslinjer
+
+DA
+
+Overhold følgende retningslinjer vedrørende place‐
+ring af produktet:
+
+BEMÆRKNING:
+Overskrid ikke pumpens sugekapacitet, da dette kan
+resultere i tæring og beskadigelse af pumpen.
+
+4.1.2  Rørlægningskrav
+
+Forholdsregler
+
+ADVARSEL:
+
+• Sørg for, at der ikke er obstruktioner, der hindrer
+den normale gennemstrømning af den kølende
+luft, der kommer fra motorventilatoren.
+• Sørg for, at installationsområdet er beskyttet
+mod væskelækager eller oversvømmelse.
+• Placér, om muligt, pumpen lidt højere end gulvni‐
+veau.
+• Den omgivende temperatur skal være mellem
+0°C (+32°F) og +40°C (+104°F).
+• Den relative fugtighed i den omgivende luft skal
+være mindre end 50 % ved +40°C (+104°F).
+• Kontakt salgs- og serviceafdelingen, hvis:
+– Betingelserne for den relative luftfugtighed
+
+overskrider retningslinjerne.
+– Rumtemperaturen overskrider +40°C
+
+• Anvend forbindelser, der er beregnet
+til maksimalt arbejdstryk på pumpen.
+Manglende overholdelse af dette kan
+resultere i brud på systemet med risi‐
+ko for kvæstelse.
+• Sørg for, at alle tilslutninger foretages
+af en kvalificeret installationstekniker
+og i overensstemmelse med gælden‐
+de bestemmelser.
+
+(+104°F).
+– Enheden er placeret mere end 1000 m (3000
+
+fod) over havets overflade. Motoreffekten
+skal måske reduceres eller udskiftes med en
+kraftigere motor.
+Se Tabel 11 på side 379 for information om, hvilken
+værdi motoren skal reduceres med.
+
+Pumpeposition og -afstand
+
+BEMÆRKNING:
+Overhold alle bestemmelser, der er udstedt af myn‐
+digheder, der har jurisdiktion, og af virksomheder,
+der leder den offentlige vandforsyning, hvis pumpen
+er forbundet til et offentligt vandsystem. Installér
+en passende tilbagestrømningsenhed på sugesiden,
+hvis det er nødvendigt.
+
+Kontrolliste for rørlægning
+
+Kontroller, at følgende krav opfyldes:
+
+• For at sikre passende ventilation: ≥ 100 mm (4
+tommer)
+• For at muliggøre inspektion og fjernelse af moto‐
+ren: ≥ 300 mm (12 tommer)
+• Se det tekniske katalog, hvis der er mindre ledig
+plads.
+
+Installation over væskekilde (indsugnings‐
+løft)
+
+Enhver pumpes teoretiske maksimale indsugnings‐
+højde er på 10,33 m. I praksis er den følgende effekt
+på pumpens sugekapacitet:
+
+• Al rørlægning støttes uafhængigt, rørlægning må
+ikke placere en belastning på enheden.
+• Fleksible rør eller sammenskruninger bruges for
+at undgå transmission af pumpevibrationerne til
+rørene og vice versa.
+• Brug vide bøjninger, undgå at bruge albuer, som
+forårsager en for stor gennemstrømningsmod‐
+stand.
+• Indsugningsrøret er perfekt plomberet og lufttæt.
+• Hvis pumpen bruges i et åbent kredsløb, er rø‐
+rets sugediameter tilpasset til installationsbetin‐
+gelserne. Indsugningsrøret må ikke være mindre
+end diameteren på indsugningsporten.
+• Hvis indsugningsrøret skal være større end pum‐
+pens indsugningsside, installeres der en særlig
+rørreduktionsmuffe.
+
+• Væsketemperaturen
+• Højde over havets overflade (i et åbent system)
+• Systemtryk (i et lukket system)
+• Rørmodstand
+• Pumpens egne indvendige gennemstrømnings‐
+modstand
+• Højdedifferencer
+
+91

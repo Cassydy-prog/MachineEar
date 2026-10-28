@@ -1,0 +1,148 @@
+es - Traducción del original
+
+4. Desatornille los tornillos de fijación que sujetan
+la mitad inferior de la carcasa (4).
+5. Extraiga la mitad inferior de la carcasa de la pro‐
+tección del acoplamiento (2).
+6. Abra y levante el anillo de soporte/ajuste (6).
+
+Comprobación y alineación del acoplamiento
+
+La unidad y el caudal de líquidos en el sistema pue‐
+den generar vibraciones, que pueden amplificarse si
+la unidad o el sistema de tuberías no están instala‐
+dos correctamente: siga las instrucciones de Instala‐
+ción en cimentación de hormigón en la página 56 y
+Fijación de la bomba en la página 56, además del
+Lista de verificación del sistema de tuberías en la
+página 57
+
+También se recomienda:
+
+NOTA:
+Vuelva a comprobar la alineación del acoplamiento
+en condiciones de funcionamiento en caliente.
+
+NOTA:
+Asegúrese de que el acoplamiento puede girarse fá‐
+cilmente a mano y de que hay algo de holgura entre
+los dientes.
+
+• Compruebe que la bomba y el motor están bien
+sujetos a la base
+• Insertar material antivibración entre la base y la
+cimentación
+• Si la unidad tiene una base soldada, rellene con
+hormigón los espacios mostrados en Figura 25
+en la página 397.
+
+ES
+
+NOTA:
+No rellene la base de chapa metálica plegada Figura
+26 en la página 397 con hormigón.
+
+NOTA:
+Una alineación incorrecta de la unidad puede causar
+graves daños en el sistema.
+
+4.3.2  Lista de verificación del sistema de
+tuberías
+
+Compruebe que se cumple lo siguiente:
+
+NOTA:
+Si el acoplamiento está mal alineado, puede causar
+vibraciones, que pueden provocar un desgaste pre‐
+maturo de los componentes giratorios de la unidad.
+
+Compruebe la alineación del acoplamiento de la uni‐
+dad después de lo siguiente:
+
+• Transporte e instalación
+• Puesta en funcionamiento inicial
+• Alcanzar la temperatura de funcionamiento.
+Realice la comprobación incluso si la unidad se en‐
+tregó totalmente montada en el bastidor.
+
+Comprobación de la alineación del acopla‐
+miento con una regla y un calibrador de se‐
+paraciones
+
+• En caso de instalación de elevación de aspira‐
+ción, para evitar bolsas de aire, la tubería de aspi‐
+ración debe tener una pendiente creciente hacia
+la unidad que exceda el 2 %.
+• Los diámetros nominales del sistema de tuberías
+deben ser al menos iguales a los diámetros no‐
+minales de los puertos de la bomba.
+• Sujete el sistema de tuberías de forma indepen‐
+diente para no sobrecargar la unidad.
+• Enjuague el sistema de tuberías antes de conec‐
+tarlas a la unidad para eliminar cualquier residuo
+de soldadura, depósitos e impurezas. Si es nece‐
+sario, instale un filtro.
+
+Para obtener información sobre la alineación de un
+acoplamiento estándar (A) y un acoplamiento con
+espaciador (B), consulte Figura 27 en la página 397
+
+¡PRECAUCIÓN!:
+Cordones de soldadura, escala y otras
+impurezas en la tubería dañan la bomba.
+
+1. Extraiga la protección del acoplamiento.
+
+4.3.3  Alineación de acoplamiento
+
+Extracción de la protección del acoplamiento
+
+NOTA:
+La protección puede ser de malla metálica (con‐
+sulte la Figura 18 en la página 386) o de chapa
+metálica (consulte la Figura 19 en la página 388)
+
+¡PRECAUCIÓN!:
+No haga funcionar nunca la bomba sin
+un protector del acoplamiento correcta‐
+mente instalado.
+
+Tipo de protección: malla metálica
+Para obtener información, consulte Figura 18 en la
+página 386.
+
+1. Desatornille los tornillos (2).
+2. Extraiga la malla metálica. (1).
+Tipo de protección: chapa metálica
+Para obtener información, consulte Figura 19 en la
+página 388.
+
+1. Desatornille los tornillos de cierre de las medias
+cajas (5).
+2. Desatornille los tornillos de fijación que sujetan
+la mitad superior de la carcasa (3).
+3. Extraiga la mitad superior de la carcasa de la
+protección del acoplamiento (1).
+
+2. Coloque una regla en los acoplamientos de la
+mitad.
+3. Mida las distancias mostradas en la figura.
+4. Gire el acoplamiento a mano en pasos de 90° y
+repita la medición.
+5. Repita el paso 4 varias veces: la alineación radial
+es correcta si las distancias son las mismas en
+todos los puntos alrededor de la circunferencia,
+dentro de la desviación permitida; consulte Tabla
+28 en la página 399. De lo contrario, consulte
+Alineación del acoplamiento con separadores en
+la página 58.
+6. Compruebe la distancia entre los acoplamientos
+de la mitad con un calibrador de separaciones.
+7. Gire el acoplamiento a mano en pasos de 90° y
+vuelva a comprobar la distancia.
+8. Repita el paso 7 varias veces: la alineación axial
+es correcta si las distancias son las mismas en
+todos los puntos alrededor de la circunferencia,
+dentro de la desviación permitida; consulte Tabla
+
+57

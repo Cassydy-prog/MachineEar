@@ -1,0 +1,144 @@
+tr - Orijinal talimatlar
+
+Kaplin kontrolü ve hizalaması
+
+Kaplinin şimlerle hizalanması
+
+Şekil 17 sayfa 384 Pompanın ve motorun tabana
+nereye takılacağı ve sağlanan şimlerin nereye takıla‐
+cağı hakkında bilgi için bkz. .
+
+UYARI:
+Sıcak çalışma koşullarında kaplinin hizasını tekrar
+kontrol edin.
+
+UYARI:
+Kaplinin elle kolayca döndürülebildiğinden ve dişler
+arasında biraz boşluk olduğundan emin olun.
+
+UYARI:
+Ünitenin yanlış hizalanması sisteme ciddi zarar vere‐
+bilir.
+
+1. Pompayı ve motoru tabana sabitleyen cıvataları
+sökün.
+2. Pompayı ve motoru hafifçe kaldırın.
+3. Pompa ve motorun tabanı ve ayakları arasına
+belirtilen noktalardan birine veya daha fazlasına
+şimleri yerleştirin.
+4. Pompayı ve motoru, cıvata deliklerini hizalayarak
+tabana yerleştirin.
+5. Cıvataları sıkın.
+6. Kaplin hizalama kontrolünü tekrarlayın.
+
+Kaplin koruması kurulumu
+
+UYARI:
+Kaplin yanlış hizalanırsa, ünitenin dönen bileşenleri‐
+nin erken aşınmasına neden olabilecek titreşimlere
+neden olabilir.
+
+DİKKAT:
+Asla pompayı kaplin koruması doğru bir
+şekilde takılmamış olarak çalıştırmayın.
+
+Aşağıdakilerden sonra ünite kaplininin hizasını kon‐
+trol edin:
+
+Koruma tipi: tel örgü
+Daha fazla bilgi için bkz. Şekil 18 sayfa 386.
+
+• Taşıma ve kurulum
+• İlk çalıştırma
+• Çalışma sıcaklığına ulaşma.
+Ünite kadroya tam olarak monte edilmiş olarak tes‐
+lim edilmiş olsa bile kontrolü yapın.
+
+1. Korumayı (1), pompa mili çıkış ucunu ve motor
+tarafındaki destek halkasını (3) çevreleyecek şe‐
+kilde doğru şekilde yeniden konumlandırın.
+2. Vidaları (2) sıkın.
+Koruma türü: sac
+Daha fazla bilgi için bkz. Şekil 19 sayfa 388.
+
+Kaplin hizalamasının bir cetvel ve kalınlık
+mastarı ile kontrol edilmesi
+
+Standart bir kuplajın (A) ve aralayıcılı bir kuplajın (B)
+hizalanması hakkında bilgi için bkz. Şekil 27 sayfa
+397
+1. Kaplin korumasını çıkarın.
+
+UYARI:
+Koruma tel örgü (bkz. Şekil 18 sayfa 386) veya
+sac (bkz. Şekil 19 sayfa 388) olabilir
+
+1. Kaplin korumasının (2) alt yarım kovanını konum‐
+landırın.
+2. Alt yarım kabuğun (4) tespit vidalarını sıkın.
+3. Destek/ayar halkasını (6) açın ve muhafaza aşağı
+bakacak şekilde takın ve motora eksenel olarak
+bastırın.
+4. Kaplin korumasının (1) üst yarı kabuğunu konum‐
+landırın.
+5. Üst yarım kabuğun (3) sabitleme vidalarını sıkın.
+6. Yarı kabukların (5) kapama vidalarını sıkın.
+
+4.3.4  Elektrik montajı
+
+1. Terminal kutu kapağının vidalarını çıkarın.
+
+2. Güç kablolarını mevcut kablo şemasına göre bağ‐
+layın ve sıkın.
+
+Kablo şemaları için, bkz. Şekil 21 sayfa 392. Şe‐
+killer, terminal kutu kapağının arkasında da mev‐
+cuttur.
+
+a) Topraklama ucunu bağlayın.
+
+Toprak ucunun faz uçlarından daha uzun ol‐
+masını sağlayın.
+b) Faz uçlarını bağlayın.
+
+3. Terminal kutusu kapağını monte edin.
+
+TR
+
+UYARI:
+Kablo kaydırmaya ve terminal kutusuna giren ne‐
+me karşı koruma için kablo kovanlarını dikkatlice
+sıkın.
+
+2. Yarım kaplinlere bir cetvel yerleştirin.
+3. Şekilde gösterilen mesafeleri ölçün.
+4. Kaplini 90°'lik adımlarla elle çevirin ve ölçümü
+tekrarlayın.
+5. Adım 4'ü birkaç kez tekrarlayın: izin verilen sap‐
+ma dahilinde, çevre etrafındaki tüm noktalarda
+mesafeler aynıysa radyal hizalama doğrudur; bkz.
+Tablo 28 sayfa 399. Aksi takdirde, bkz. Kaplinin
+şimlerle hizalanması sayfa 305.
+6. Yarım kaplinler arasındaki mesafeyi bir kalınlık
+mastarıyla kontrol edin.
+7. Kaplini 90°'lik adımlarla elle çevirin ve mesafeyi
+tekrar kontrol edin.
+8. Adım 7'yi birkaç kez tekrarlayın: İzin verilen sap‐
+ma dahilinde, çevre etrafındaki tüm noktalarda
+mesafeler aynıysa eksenel hizalama doğrudur;
+bkz. Tablo 28 sayfa 399. Aksi takdirde, Kaplinin
+şimlerle hizalanması sayfa 305.
+9. Kaplin korumasını yeniden takın.
+• M5 → 3 Nm (27 lbf·in) ± %15
+• M6 → 5 Nm (44 lbf·in) ± %15.
+
+Lazer aligner ile kaplin hizalama kontrolü
+
+4. Motor, otomatik sıfırlama termal koruması ile do‐
+natılmış ise aşağıdaki listeye göre aşırı yük koru‐
+masını ayarlayın.
+
+Kaplinin lazer aligner ile hizalanmasını kontrol edebi‐
+lirsiniz: alignerın kullanım kılavuzuna bakın.
+
+305

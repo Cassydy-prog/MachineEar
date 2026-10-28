@@ -1,0 +1,222 @@
+pt - Tradução do original
+
+Causa
+Solução
+
+Causa
+Solução
+
+Desmonte e limpe as válvulas.
+
+Contacte um representan‐
+te de vendas e assistên‐
+cia.
+
+As válvulas estão
+bloqueadas na posi‐
+ção fechada ou par‐
+cialmente fechada.
+
+Existem objectos estra‐
+nhos (substâncias sóli‐
+das ou fibrosas) dentro
+da bomba que obstruí‐
+ram o impulsor.
+
+Bomba obstruída.
+Contacte um representante de
+vendas e assistência.
+
+Verifique e limpe a tubagem.
+
+A tubagem está ob‐
+struída.
+
+A taxa de fornecimen‐
+to das bombas é mais
+elevada que os limites
+especificados na placa
+de dados.
+
+Feche parcialmente a vál‐
+vula de LIGAR-DESLIGAR a
+jusante até a taxa de for‐
+necimento ser igual ou in‐
+ferior aos limites especifi‐
+cados na placa de dados.
+
+Altere a posição de duas das
+fases na placa de terminais
+do motor, ou no painel de con‐
+trolo eléctrico.
+
+A direcção da rota‐
+ção do impulsor é
+incorrecta.
+(versão tri-fásica)
+
+A bomba está sobre‐
+carregada porque está
+a bombear líquido que
+é demasiado denso e
+viscoso.
+
+PT
+
+Verifique os requisitos de
+energia actuais com base
+nas características do lí‐
+quido bombeado, e substi‐
+tua o motor em conformi‐
+dade.
+
+Verifique as condições de fun‐
+cionamento da bomba. Se ne‐
+cessário, proceda do seguinte
+modo:
+
+A altura de sucção
+é demasiado alta,
+ou a resistência do
+fluxo nos tubos de
+sucção é demasia‐
+do grande.
+
+Os rolamentos do mo‐
+tor estão gastos.
+
+Contacte um representan‐
+te de vendas e assistên‐
+cia.
+
+• Reduza o içamento de suc‐
+ção
+• Aumente o diâmetro do tu‐
+bo de sucção.
+
+7.6  A bomba eléctrica arranca, mas a
+protecção geral do sistema está activada
+
+7.9  A bomba eléctrica pára e, depois, roda na
+direcção errada
+
+Causa
+Solução
+
+Causa
+Solução
+
+Um curto-circuito no sis‐
+tema eléctrico.
+
+Verifique o sistema eléc‐
+trico.
+
+Existe uma fuga num dos, ou em
+ambos os, seguintes componen‐
+tes:
+
+Repare ou sub‐
+stitua o compo‐
+nente com fa‐
+lha.
+
+7.7  A bomba eléctrica arranca, mas o
+dispositivo de corrente residual do sistema
+(RCD) está activado
+
+• O tubo de sucção
+• A válvula de pé ou a válvula de
+verificação
+
+Existe ar no tubo de sucção.
+Sangre o ar.
+
+Causa
+Solução
+
+Existe uma fuga
+na terra (solo).
+
+7.10  A bomba arranca com demasiada
+frequência
+
+Verifique o isolamento dos
+componentes do sistema eléc‐
+trico.
+
+Causa
+Solução
+
+7.8  A bomba funciona mas fornece pouco ou
+nenhum líquido.
+
+Existe uma fuga num dos, ou
+em ambos os, seguintes com‐
+ponentes:
+
+Repare ou substi‐
+tua o componente
+com falha.
+
+Causa
+Solução
+
+• Sangre o ar.
+
+• O tubo de sucção
+• A válvula de pé ou a válvula
+de verificação
+
+Existe ar no interior
+da bomba ou tuba‐
+gem.
+
+Existe uma membrana com
+ruptura, ou não há pré-carga de
+ar no tanque de pressão.
+
+A bomba não es‐
+tá correctamente
+escorvada.
+
+Consulte as instru‐
+ções relevantes no
+manual do tanque
+de pressão.
+
+Pare a bomba e repita o pro‐
+cedimento de escorvamento.
+Se o problema continuar:
+
+7.11  A bomba vibra e gera demasiado ruído
+
+Causa
+Solução
+
+Cavitação da
+bomba
+
+• Verifique se o vedante me‐
+cânico são apresenta fu‐
+gas.
+• Verifique se o tubo de suc‐
+ção está perfeitamente ve‐
+dado.
+• Substitua todas as válvu‐
+las que apresentem fugas.
+
+Abra a válvula.
+
+Reduza o caudal requerido fe‐
+chando parcialmente a válvula
+LIGAR-DESLIGAR a jusante da
+bomba. Se o problema persistir,
+verifique as condições de funcio‐
+namento da bomba (por exem‐
+
+A pressão no lado
+de fornecimento é
+demasiado elevada.
+
+74

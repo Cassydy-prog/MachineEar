@@ -1,0 +1,153 @@
+es - Traducción del original
+
+1. Extraiga los tornillos de la cubierta de la caja de
+terminales.
+
+2. Conecte y apriete los cables de alimentación de
+acuerdo con el diagrama de cables correspon‐
+diente.
+
+28 en la página 399. De lo contrario, Alineación
+del acoplamiento con separadores en la página
+58.
+9. Vuelva a colocar la protección del acoplamiento.
+• M5 → 3 Nm (27 lbf·pulg.) ± 15%
+• M6 → 5 Nm (44 lbf·pulg.) ± 15%.
+
+Comprobación de la alineación del acopla‐
+miento con el alineador láser
+
+Para ver los esquemas de cables, consulte la Fi‐
+gura 21 en la página 392. Los diagramas también
+están disponibles en la parte posterior de la cu‐
+bierta de la caja de terminales.
+
+a) Conecte el conductor de tierra.
+
+Puede comprobar la alineación del acoplamiento
+con un alineador láser: consulte el manual de ins‐
+trucciones del alineador.
+
+Alineación del acoplamiento con separadores
+
+Asegúrese de que el cable de conexión a tie‐
+rra sea más largo que los cables de fase.
+b) Conecte los cables de fase.
+
+3. Monte el cubierta de la caja de terminales.
+
+ES
+
+Consulte Figura 17 en la página 384 para obtener
+información sobre dónde conectar la bomba y el
+motor a la base y dónde insertar los separadores
+suministrados.
+
+NOTA:
+Apriete con cuidado los casquillos prensacables
+para asegurar la protección contra posibles des‐
+lizamientos y que entre humedad en la caja de
+terminales.
+
+4. Si el motor no está equipado con una protección
+térmica de restablecimiento automático, ajuste
+la protección contra sobrecargas conforme a las
+siguientes indicaciones.
+
+– Si se usa el motor con carga completa, ajuste
+
+1. Desatornille los pernos que sujetan la bomba y el
+motor a la base.
+2. Levante ligeramente la bomba y el motor.
+3. Inserte los separadores entre la base y los pies
+de la bomba y el motor, en uno o más de los
+puntos indicados.
+4. Coloque la bomba y el motor en la base, alinean‐
+do los orificios de los pernos.
+5. Apriete los pernos.
+6. Repita la comprobación de alineación del acopla‐
+miento.
+
+el valor al de la corriente nominal de la bomba
+eléctrica (placa de características)
+– Si se usa el motor con una carga parcial, ajus‐
+
+Instalación de protección de acoplamiento
+
+te el valor a la corriente de funcionamiento
+(por ejemplo medida con unas pinzas de co‐
+rriente).
+– Si la bomba tiene un sistema de arranque
+
+¡PRECAUCIÓN!:
+No haga funcionar nunca la bomba sin
+un protector del acoplamiento correcta‐
+mente instalado.
+
+en estrella-triángulo, ajuste el relé térmico en
+58 % de la corriente nominal o la corriente
+de funcionamiento (sólo para motores trifási‐
+cos).
+
+Tipo de protección: malla metálica
+Para obtener información, consulte Figura 18 en la
+página 386.
+
+5  Puesta en marcha, arranque,
+funcionamiento y apagado
+
+Precauciones
+
+ADVERTENCIA:
+Peligros físicos y térmicos
+
+1. Vuelva a colocar la protección (1) correctamente
+para que rodee el extremo de salida del eje de la
+bomba y el anillo de soporte (3) en el lado del
+motor.
+2. Apriete los tornillos (2).
+Tipo de protección: chapa metálica
+Para obtener información, consulte Figura 19 en la
+página 388.
+
+• Utilice siempre equipo de protección
+personal.
+• Compruebe que la protección del
+acoplamiento esté instalada.
+
+ADVERTENCIA:
+
+• Asegúrese de que el líquido evacuado
+no produzca daños o lesiones.
+• Los protectores del motor pueden ha‐
+cer que el motor vuelva a arrancar de
+manera inesperada. Esto puede pro‐
+vocar lesiones graves.
+
+¡PRECAUCIÓN!:
+
+1. Coloque la mitad inferior de la carcasa de la pro‐
+tección del acoplamiento (2).
+2. Apriete los tornillos de fijación de la mitad infe‐
+rior de la carcasa (4).
+3. Abra e inserte el anillo de soporte/ajuste (6) con
+la carcasa hacia abajo y presiónelo axialmente
+sobre el motor.
+4. Coloque la mitad superior de la carcasa de la
+protección del acoplamiento (1).
+5. Apriete los tornillos de fijación de la mitad supe‐
+rior de la carcasa (3).
+6. Apriete los tornillos de cierre de las medias car‐
+casas (5).
+
+4.3.4  Instalación eléctrica
+
+• Durante el funcionamiento, las super‐
+ficies externas de la bomba y el mo‐
+tor pueden superar los 40ºC (104ºF).
+• No coloque materiales combustibles
+cerca de la bomba.
+
+NOTA:
+
+58

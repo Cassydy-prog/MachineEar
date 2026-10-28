@@ -1,0 +1,220 @@
+hu - Eredeti útmutató
+
+Ok
+Megoldás
+
+Ok
+Megoldás
+
+Ellenőrizze
+
+Hiányzik az áramellá‐
+tás egyik fázisa.
+
+• az áramellátást
+• villamos csatlakozások
+
+• Ellenőrizze a mechanikus tö‐
+mítések megfelelő tömített‐
+ségét.
+• Ellenőrizze a szívó csőveze‐
+ték tökéletes tömítettségét.
+• Cserélje ki az összes szivár‐
+gó szelepet.
+
+7.5  Az elektromos szivattyú beindul, de
+a termikus védelem változó idő elteltével
+aktiválódik
+
+Nyissa ki a szelepet.
+
+Túl nagy mértékű
+a nyomóoldali foj‐
+tás.
+
+Ok
+Megoldás
+
+Szerelje szét és tisztítsa meg a
+szelepeket.
+
+Forduljon a helyi értékesítési
+és szervizképviselethez.
+
+A szelepek zárt,
+vagy részben zárt
+helyzetben ragad‐
+tak.
+
+A szivattyú belsejé‐
+ben a járókereket
+blokkoló idegen tár‐
+gyak (szilárd vagy
+rostos anyagok) van‐
+nak.
+
+A szivattyú eltö‐
+mődött.
+
+Forduljon a helyi értékesítési és
+szervizképviselethez.
+
+A csővezeték eltö‐
+mődött.
+
+Ellenőrizze és tisztítsa ki a cső‐
+vezetéket.
+
+A szivattyú az adat‐
+tábláján feltüntetett
+értéknél nagyobb ka‐
+pacitással üzemel.
+
+Részlegesen zárja el az ON-
+OFF szelep lefolyását, amíg
+a szállítási sebesség nem
+éri el az adattáblán mega‐
+dott határértékeket.
+
+Cseréljen meg két fázist a mo‐
+tor sorkapocslemezén vagy az
+elektromos kapcsolótáblán.
+
+A járókerék forgá‐
+siránya nem meg‐
+felelő.
+(háromfázisú vál‐
+tozat)
+
+A szivattyú túlterhelt,
+mivel sűrűbb és visz‐
+kózusabb folyadékot
+szállít.
+
+A szivattyúzott folyadék jel‐
+lemzői alapján ellenőrizze a
+ténylegesen szükséges telje‐
+sítményt, és ennek megfe‐
+lelően cserélje ki a motort.
+
+Ellenőrizze a szivattyú működé‐
+si feltételeit. Szükség esetén vé‐
+gezze el az alábbi műveletet:
+
+A motor csapágyai el‐
+koptak.
+
+Forduljon a helyi értékesítési
+és szervizképviselethez.
+
+Az emelési ma‐
+gasság túl nagy,
+vagy túl nagy a
+szívóoldali csőve‐
+zeték áramlási el‐
+lenállása.
+
+• csökkentse a szívómagas‐
+ságot
+• növelje a szívócső átmérő‐
+jét.
+
+7.6  Az elektromos szivattyú beindul, de a
+rendszer általános védelme aktiválódik
+
+Ok
+Megoldás
+
+7.9  Az elektromos szivattyú leáll, majd rossz
+irányba kezd forogni
+
+Az elektromos rendszer
+rövidzárlata.
+
+Ellenőrizze a villamos
+rendszert.
+
+Ok
+Megoldás
+
+HU
+
+Szivárgás az alábbi részegysé‐
+gek egyikénél vagy mindkettő‐
+nél:
+
+Javítsa meg, vagy
+cserélje ki a hibás
+alkatrészt.
+
+7.7  Az elektromos szivattyú beindul, de
+a rendszer maradékáram védelmi rendszere
+(RCD) aktiválódik
+
+• szívócső
+• lábszelep vagy visszacsa‐
+pó szelep
+
+Ok
+Megoldás
+
+Levegő van a szívóoldali cső‐
+vezetékben.
+
+Légtelenítse a cső‐
+vezetéket.
+
+Földzárlatveszte‐
+ség tapasztalható.
+
+Ellenőrizze a villamos rendszer
+alkatrészeinek szigetelését.
+
+7.10  A szivattyú túl gyakran indul el
+
+7.8  Jár a szivattyú, de túl kevés vizet szállít,
+illetve nem szállít folyadékot.
+
+Ok
+Megoldás
+
+Ok
+Megoldás
+
+• Légtelenítsen.
+
+Szivárgás az alábbi ré‐
+szegységek egyikénél vagy
+mindkettőnél:
+
+Javítsa meg, vagy
+cserélje ki a hibás al‐
+katrészt.
+
+Levegő került a
+szivattyúba vagy a
+csővezetékbe.
+
+• szívócső
+• lábszelep vagy vissza‐
+csapó szelep
+
+A szivattyú nem
+megfelelően van
+feltöltve.
+
+Állítsa le a szivattyút és ismétel‐
+je meg a felszívási eljárást.
+Ha a probléma nem szűnik
+meg.
+
+Átszakadt a membrán, vagy
+nincs levegő előtöltés a kie‐
+gyenlítőtartályban.
+
+Lásd a kiegyenlítőtar‐
+tály kézikönyvében az
+erre vonatkozó utasí‐
+tásokat.
+
+225

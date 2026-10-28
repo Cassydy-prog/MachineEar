@@ -1,0 +1,148 @@
+en - Original instructions
+
+Mount the pump to a base frame
+
+Be sure to check that the following are adhered to:
+
+1. Unscrew the screws (2).
+2. Remove the wire mesh. (1).
+Type of protection: sheet metal
+For information, see Figure 19 on page 388.
+
+EN
+
+1. Unscrew the closing screws of the half shells (5).
+2. Unscrew the fastening screws securing the upper
+half shell (3).
+3. Remove the upper half shell of the coupling pro‐
+tection (1).
+4. Unscrew the fastening screws securing the lower
+half shell (4).
+5. Remove the lower half shell of the coupling pro‐
+tection (2).
+6. Open and lift the support/adjustment ring (6).
+
+Coupling check and alignment
+
+• Solid base frame which does not twist or vibrate
+during operation (resonance).
+• Mounting surfaces of the pump feet and the mo‐
+tor on the base frame must be flat (machining is
+recommended).
+• Safe fastening of pump and motor must be guar‐
+anteed.
+• Adequate space between pump and motor shaft
+must be left depending on the used coupling.
+• Between pump and base frame must be an ade‐
+quate shimming, so that in case of replacement
+the same height between bottom and centerline
+can be adjusted (recommended vertical adjust‐
+ment 4-6 mm).
+
+Reducing vibrations
+
+NOTICE:
+Check the alignment of the coupling again under hot
+operating conditions.
+
+NOTICE:
+Ensure that the coupling can be easily rotated by
+hand and that there is some play between the teeth.
+
+The unit and the flow of liquids in the system may
+generate vibrations, which can be amplified if the
+unit or the piping system are not installed correctly:
+comply with the instructions in Installation on con‐
+crete foundation on page 19 and Fixing the pump on
+page 19, in addition to the Piping system checklist
+on page 20
+
+It is also recommended to:
+
+NOTICE:
+Incorrect alignment of the unit can cause serious
+damage to the system.
+
+• Check that the pump and the motor are securely
+fastened to the base
+• Insert anti-vibration material between the base
+and the foundation
+• If the unit has a welded base, fill with concrete
+the spaces shown in Figure 25 on page 397.
+
+NOTICE:
+If the coupling is misaligned, it can cause vibrations,
+which can result in premature wear of the rotating
+components of the unit.
+
+Check the alignment of the unit coupling after the
+following:
+
+NOTICE:
+Do not fill the folded sheet metal base Figure 26 on
+page 397 with concrete.
+
+4.3.2  Piping system checklist
+Check that the following are adhered to:
+
+• Transport and installation
+• Initial start-up
+• Reaching of the operating temperature.
+Perform the check even if the unit was delivered fully
+assembled on the frame.
+
+Checking the coupling alignment with a ruler
+and feeler gauge
+
+For information on aligning a standard coupling (A)
+and a coupling with spacer (B), see Figure 27 on
+page 397
+
+1. Remove the coupling protection.
+
+• In case of suction lift installation, to avoid air
+pockets the suction pipe must have an increasing
+slope towards the unit exceeding 2%.
+• The nominal diameters of the piping system
+must be at least equal to the nominal diameters
+of the pump ports.
+• Support the piping system independently, so as
+not to burden the unit.
+• Flush the piping system before connecting them
+to the unit, to remove any welding residue, depos‐
+its and impurities. If necessary, install a filter.
+
+NOTICE:
+The protection can be wire mesh (see Figure 18
+on page 386) or sheet metal (see Figure 19 on
+page 388)
+
+CAUTION:
+Welding beads, scale and other impuri‐
+ties in the piping damage the pump.
+
+4.3.3  Coupling alignment
+
+Removing the coupling protection
+
+CAUTION:
+Never operate the pump without the cou‐
+pling guard correctly installed.
+
+Type of protection: wire mesh
+For information, see Figure 18 on page 386.
+
+2. Place a ruler on the half couplings.
+3. Measure the distances shown in the figure.
+4. Turn the coupling by hand in 90° steps and repeat
+the measurement.
+5. Repeat step 4 several times: the radial alignment
+is correct if the distances are the same at all
+points around the circumference, within the per‐
+missible deviation; see Table 28 on page 399.
+Otherwise, see Alignment of the coupling with
+shims on page 21.
+6. Check the distance between the half couplings
+with a feeler gauge.
+
+20

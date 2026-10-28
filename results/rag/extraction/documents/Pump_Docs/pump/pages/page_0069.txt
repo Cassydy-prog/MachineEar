@@ -1,0 +1,112 @@
+Section 3. The Economics of Improving Pumping Systems
+
+numerical optimization techniques, which provide 
+a practical way to treat the pipe system as a 
+variable at the design stage. A well-designed 
+system will last longer than other types, and this 
+should be taken into account in an LCC analysis.
+
+A simple (and widely used) measure of project 
+economics is the payback period. This is the 
+period of time required for a project to “break 
+even” in terms of costs—the time needed for the 
+net benefits of an investment to accrue to the point 
+where they equal the cost of the initial outlay. For 
+a project that returns benefits in consistent, annual 
+increments, the simple payback equals the initial 
+investment divided by the annual benefit.
+
+The LCC analysis is also a valuable tool to use 
+when comparing alternative retrofit designs for 
+existing pumping systems.  Opportunities for 
+upgrading existing systems can be found in the 
+inefficiencies that develop over time—such as 
+changing system requirements, routine wear and 
+tear, and poorly optimized controls. Furthermore, 
+the installed base of pumping systems exceeds the 
+number of new pumps built each year by a factor 
+of about 20.
+
+The simple payback does not take into account the 
+time value of money; in other words, it makes no 
+distinction between a dollar earned today and a 
+dollar of future (and thus uncertain) earnings. Still, 
+the measure is easy to use and understand, and 
+many companies use simple payback in making a 
+quick “go/no-go” decision on a project. Here are 
+five important factors to remember when calcu­­
+lating a simple payback:
+
+■	 It is an approximation, not an exact economic
+
+analysis
+
+■	 All benefits are measured without considering
+
+their timing
+
+■	 All economic consequences beyond the payback
+
+are ignored
+
+■	 Payback calculations will not always identify
+
+ Measuring the Dollar Impact of Pumping 
+System Efficiency
+Pumping system efficiency and performance 
+improvement projects can move to the top of the 
+list of corporate priorities if proposals respond to 
+corporate needs. Corporate challenges are many 
+and varied, and this in turn opens up more 
+opportunities to “sell” pumping system efficiency 
+as a solution. Many pumping system opportunities 
+for improvement are discussed in this sourcebook. 
+Once selections are made, the task becomes one of 
+communicating the proposals in corporate 
+(dollars-and-cents) language.
+
+the best solution (because of the two factors 
+listed before this one) among several project 
+options
+
+■	 Paybacks do not take into consideration the
+
+time value of money or tax consequences.
+
+The first step is to identify and evaluate the total 
+dollar impact of a pumping system efficiency 
+measure. One proven way to do this is through 
+an LCC analysis, as discussed earlier. The result—
+a net gain or loss on balance—can be compared 
+with other investment options or with the 
+anticipated outcome of doing nothing.
+
+More sophisticated analyses take into account 
+factors such as discount rates, tax impacts, and the 
+cost of capital. One approach involves calculating 
+the net present value of a project, which is defined 
+in this equation:
+
+Net present value = present worth of benefits – 
+
+       present worth of costs.
+
+Another commonly used calculation for determin-
+ing the economic feasibility of a project is internal 
+rate of return. This is defined as the discount rate 
+that equates future net benefits (cash) to an initial 
+investment outlay. This discount rate can be
+
+ Presenting the Finances of Pumping 
+System Improvements
+As with any corporate investment, there are many 
+ways to measure the financial impact of a 
+pumping system investment. Some methods are 
+more complex than others, and presenters might 
+want to use several of them side by side. That 
+choice will depend on the sophistication of the 
+presenter and the audience.
+
+65
+
+A Sourcebook for Industry

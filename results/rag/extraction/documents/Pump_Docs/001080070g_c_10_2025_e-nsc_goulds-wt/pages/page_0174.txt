@@ -1,0 +1,163 @@
+lt - Originalo vertimas
+
+Z
+Maksimalus aukštis (m), kuriame gali‐
+ma montuoti siurblį
+
+Nenaudokite šios įrangos aplinkoje, ku‐
+rioje gali būti degių / sprogių ar chemiš‐
+kai agresyvių dujų arba miltelių.
+
+Nurodymai
+
+(pb*10,2 – Z) visada turi būti teigiamas skaičius.
+Daugiau informacijos žr. 12 paveikslėlis 380 psl..
+
+Rinkdamiesi siurblio įrengimo vietą laikykitės toliau
+pateiktų nurodymų.
+
+PASTABA:
+Neviršykite siurblio siurbiamosios galios, nes tai gali
+sukelti kavitaciją ir pažeisti siurblį.
+
+4.1.2  Vamzdžiams taikomi reikalavimai
+
+Atsargumo priemonės
+
+PERSPĖJIMAS:
+
+• Įsitikinkite, kad niekas neblokuoja įprasto aušina‐
+mojo oro srauto, kurį perduoda variklio ventiliato‐
+rius.
+• Įsitikinkite, kad montavimo vieta tinkamai apsau‐
+gota nuo pratekančių skysčių ar užliejimo.
+• Jei įmanoma, siurblį sumontuokite šiek tiek aukš‐
+čiau grindų lygio.
+• Aplinkos temperatūra turi būti nuo 0 °C (+32 °F)
+iki +40 °C (+104 °F).
+• Santykinis aplinkos oro drėgnis turi būti mažes‐
+nis nei 50 %, kai oro temperatūra +40 °C (+104
+°F).
+• Kreipkitės į pardavimo ir techninės priežiūros
+skyrių, jei:
+
+• Naudokite vamzdžius, kurie tiktų
+maksimaliam darbiniam siurblio slė‐
+giui. Kitaip gali sutrūkti sistema ir su‐
+kelti sužalojimo pavojų.
+• Pasirūpinkite, kad visas jungtis su‐
+jungtų kvalifikuoti montuotojai, laiky‐
+damiesi galiojančių teisinių nuostatų.
+
+– santykinis oro drėgnis viršija rekomenduoja‐
+
+mą drėgnį;
+– patalpos temperatūra didesnė nei +40 °C
+
+(+104 °F);
+– blokas yra aukščiau nei 1 000 m virš jūros
+
+PASTABA:
+Jei siurblys prijungtas prie komunalinės vandens sis‐
+temos, būtina laikytis taisyklių, nustatytų tos jurisdik‐
+cijos valdžios atstovų ir vandens tiekimą tvarkančių
+įmonių. Jei reikia, siurbimo dalyje įmontuokite atitin‐
+kamą atgalinės srovės apsaugos įrenginį.
+
+lygio. Gali reikėti sumažinti variklio galią arba
+jį pakeisti galingesniu varikliu.
+Norėdami gauti informacijos, kokia verte sumažinti
+variklio galią, žr. 11 lentelė 379 psl..
+
+Nurodymai, susiję su vamzdžiais
+
+Siurblio padėtys ir tarpai
+
+Patikrinkite, ar tenkinami toliau nurodyti reikalavimai.
+
+LT
+
+• Tinkamam vėdinimui užtikrinti: ≥ 100 mm (4 col.)
+• Kad būtų galima patikrinti ir išimti variklį: ≥ 300
+mm (12 col.)
+• Jei yra mažiau vietos, žr. techninį katalogą.
+
+Montavimas virš skysčio šaltinio (siurbimas
+aukštyn)
+
+Teoriškai didžiausias bet kurio siurblio siurbimo
+aukštis yra 10,33 m. Toliau išvardinti veiksniai, nuo
+kurių priklauso siurblio siurbimo galingumas:
+
+• skysčio temperatūra,
+• pakilimas virš jūros lygio (atviroje sistemoje),
+• sistemos slėgis (uždaroje sistemoje),
+• vamzdžių pasipriešinimas,
+• siurblio vidinis hidraulinis pasipriešinimas,
+• aukščio skirtumai.
+Naudojant toliau pateiktą lygtį galima apskaičiuoti
+maksimalų aukštį virš skysčio lygio, kuriame galima
+montuoti siurblį:
+(pb*10,2 – Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+Barometrinis slėgis barais (uždaroje
+sistemoje – sistemos slėgis)
+
+Vertė metrais, nurodanti siurblio vidinį
+hidraulinį pasipriešinimą
+
+NPSH (per‐
+teklinis slė‐
+ginis įsiur‐
+bimo aukš‐
+tis)
+
+Hf
+Bendras praradimas metrais dėl skys‐
+čio perėjimo siurblio siurbimo vamzdy‐
+je
+
+• Visi vamzdžiai palaikomi atskirai, todėl jie neturi
+bloko apkrauti.
+• Naudojami lankstūs vamzdžiai arba jų junginiai,
+kad siurblio keliama vibracija nepasiektų vamz‐
+džių ir atvirkščiai.
+• Naudokite plačias alkūnines jungtis, nenaudoki‐
+te alkūnių, dėl kurių gali susidaryti per didelis hi‐
+draulinis pasipriešinimas.
+• Siurbimo vamzdžiai visiškai sandarūs ir hermetiš‐
+ki.
+• Jei siurblys naudojamas atviroje grandinėje, siur‐
+bimo vamzdžio skersmuo taikomas pagal monta‐
+vimo sąlygas. Siurbimo vamzdis negali būti ma‐
+žesnis už siurbimo angos skersmenį.
+• Jei siurbimo vamzdžiai turi būti didesni už siur‐
+blio siurbimo pusę, įmontuojamas ekscentrinis
+vamzdžio reduktorius.
+• Jei siurblys yra aukščiau nei skysčio lygis, siurbi‐
+mo vamzdžio gale įmontuojamas apatinis atgali‐
+nis vožtuvas.
+• Apatinis atgalinis vožtuvas visiškai panardina‐
+mas į skystį, kad siurbiant, kai skysčio lygis yra
+minimalus, o siurblys yra sumontuotas virš skys‐
+čio šaltinio, susidarius sūkuriui nepatektų oro.
+• Tinkamai išmatuoti atidarymo / uždarymo vož‐
+tuvai yra įmontuoti siurbimo ir išleidimo vamz‐
+džiuose (srovės kryptimi link atgalinio vožtuvo)
+ir yra naudojami siurblio našumui reguliuoti, siur‐
+bliui tikrinti bei techninei priežiūrai atlikti.
+• Siekiant išvengti atgalinės srovės į siurblį, kai
+siurblys išjungtas, išleidimo vamzdžiuose įmon‐
+tuotas atgalinis vožtuvas.
+
+PERSPĖJIMAS:
+
+Hv
+Garo slėgis metrais, atitinkantis skys‐
+čio temperatūrą T °C
+
+0,5
+Rekomenduojama saugos atsarga (m)
+
+170

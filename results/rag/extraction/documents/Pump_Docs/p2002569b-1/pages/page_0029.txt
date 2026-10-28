@@ -1,0 +1,124 @@
+Maintenance
+
+exclude outside liquid. Therefore, it should not be 
+necessary to go beyond the bearings, stuffing box, 
+and coupling when servicing the pump.
+
+General maintenance
+
+Bearing lubrication - grease
+
+Grease lubricated ball bearings are packed with 
+grease at the factory and ordinarily will require no 
+attention before starting provided the pump has 
+been stored in a clean, dry place prior to its first 
+operation. The bearings should be watched the first 
+hour or so after the pump has been started to see 
+that they are operating properly.
+
+Operating conditions vary so widely that to 
+recommend one schedule of preventative 
+maintenance for all centrifugal pumps is not possible. 
+Yet some sort of regular inspection must be planned 
+and followed. We suggest a permanent record be 
+kept of the periodic inspections and maintenance 
+performed on your pump. This recognition of 
+maintenance procedure will keep your pump in good 
+working condition, and prevent costly breakdowns.
+
+The importance of proper lubrication cannot be over
+emphasized. It is difficult to say how often a bearing 
+should be greased, since that depends on the 
+conditions of operation. It is well to add one ounce of 
+grease at regular intervals, but it is equally important 
+to avoid adding too much grease. For average 
+operating conditions, it is recommended that 1oz. of 
+grease be added at intervals of three to six months, 
+and only clean grease be used. It is always best if 
+unit can be stopped while grease is added to avoid 
+overloading.
+
+NOTE: Excess grease is the most common cause 
+of overheating.
+
+One of the best rules to follow in the proper
+maintenance of your centrifugal pump is to keep 
+a record of actual operating hours. Then, after a 
+predetermined period of operation has elapsed, the 
+pump should be given a thorough inspection. The 
+length of this operating period will vary with different 
+applications, and can only be determined from 
+experience. New equipment, however, should be 
+examined after a relatively short period of
+operation. The next inspection period can be 
+lengthened somewhat. This system can be followed 
+until a maximum period of operation is reached 
+which should be considered the operating schedule 
+between inspections.
+
+Maintenance of pump due 
+to flood damage
+
+The bearing frame should be kept clean, since any
+contamination of foreign matter which gets into the
+housing will destroy bearings in a short time. When 
+cleaning bearings, use a bearing cleaning solvent, or 
+an industrial cleaning solvent. Do not use gasoline. 
+Use lint free cloths. Do not use waste rags.
+
+The servicing of centrifugal pumps after a flooded
+condition is a comparatively simple matter under 
+normal conditions.
+
+A regular ball bearing grease should be used, but a
+standard commercial vaseline can be substituted if
+necessary.
+
+Do not use graphite. A NGLI No. 1 or 2 grease is 
+generally satisfactory for operation at ordinary 
+temperatures, the lighter grease for operation at high 
+speed or low room temperature.
+
+Bearings are a primary concern on pumping units. 
+First, dismantle the bearings; clean and inspect them 
+for any rusted or badly worn surfaces. If bearings are 
+free from rust and wear, reassemble and relubricate 
+them with one of the recommended pump lubricants. 
+Depending on the length of time the pump has 
+remained in the flooded area, it is unlikely that 
+bearing replacement is necessary; however, in the 
+event that rust or worn surfaces appear, it may be 
+necessary to replace the bearings.
+
+Mineral greases with a soda soap base are 
+recommended. Grease made from animal or 
+vegetable oils are not recommended due to the 
+danger of deterioration and forming of acid. Most 
+of the leading oil companies have special bearing 
+greases which are satisfactory. For specific
+recommendations, consult the factory.
+
+Next, inspect the stuffing box, and clean out any 
+foreign matter that might clog the box. Packing that 
+appears to be worn, or no longer regulates leakage 
+properly should be replaced. Mechanical seals should 
+be cleaned and thoroughly flushed.
+
+The maximum desirable operating temperature for 
+ball bearings is 180°F. Should the temperature of the 
+bearing frame rise above 180°F, the pump should be 
+shut down to determine the cause.
+
+Couplings should be dismantled and thoroughly 
+cleaned. Lubricate the coupling with one of the 
+coupling manufacturer's recommended lubricants 
+where required.
+
+Grease lubricated bearings should not be used 
+where temperature of the pumped liquid exceeds 
+350°F.
+
+Any pump that is properly sealed at all joints and
+connected to both the suction and discharge should
+
+29

@@ -1,0 +1,51 @@
+Appendix C: Pumping Systems Tip Sheet Number 4
+
+Potential energy savings can be determined by using the difference between actual system operating efficiency (ηa) and the 
+design (or optimal) operating efficiency (ηo), or by consulting published pump curves, as available, for design efficiency 
+ratings.
+
+Software tools like DOE’s Pumping System Assessment Tool (PSAT) also provide estimates of optimal efficiency. When 
+the required head and flow rate, as well as actual electrical data, are input into the software, PSAT will account for artifi-
+cial head and flow losses. The equation for calculating potential energy savings is as follows:
+
+Savings = kWin x t x ( 1 – ηa/ηo )
+
+where 
+
+savings  =	 energy savings, in kilowatt-hours (kWh) per year 
+
+kWin  =	 input electrical energy, in kilowatts (kW) 
+
+t  =	 annual operating hours 
+
+ηa  =	 actual system efficiency, calculated from field measurements 
+
+ηo  =	 optimal system efficiency.
+
+ Example 
+Efficiency testing and analysis indicate that a 300-horsepower centrifugal pump has an operating efficiency of 55%. 
+However, the manufacturer’s pump curve indicates that it should operate at 78% efficiency. The pump draws 235 kW and 
+operates 6,000 hours per year. Assuming that the pump can be restored to its original or design performance conditions, 
+estimated energy savings are as follows:
+
+Savings = 235 kW x 6,000 hours/year x [ 1 – (0.55/0.78) ] = 415,769 kWh/year.
+
+At an energy cost of 5¢ per kWh, the estimated savings would be $20,786 per year.
+
+  Suggested Actions  
+
+Survey the priority pumps in your plant and conduct efficiency tests on them.
+
+• Identify misapplied, oversized, or throttled pumps, or those that have bypass lines.
+
+• Identify pumps with operating points below the manufacturer’s pump curve (if available); estimate energy savings of restoring 
+the system to its original efficiency.
+
+• Identify pumps with flow rates of 30% or more from the BEP flow rates, or with system imbalances greater than 20%.
+
+• Determine the cost effectiveness of each improvement.
+
+DOE/GO-102005-2158 • October 2005 • Pumping Systems Tip Sheet #4
+
+110
+Improving Pumping System Performance

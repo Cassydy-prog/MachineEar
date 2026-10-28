@@ -1,0 +1,162 @@
+no - Oversettelse av opprinnelige instruksjoner
+
+Sørg for følgende før pumpen startes:
+
+Se Figur 22 på side 392 for å finne informasjon om
+andre pumpekoplinger.
+
+Installasjoner med væskenivå over pumpen
+(sugehode)
+
+• Pumpen er koplet riktig til strømforsyningen.
+• Pumpen fylles på riktig måte iht. instruksjonene i
+Fyll pumpen (kapittel 5).
+• På-av-ventilen som befinner seg nedstrøms fra
+pumpen, er stengt.
+
+1. Start motoren.
+
+Se Figur 23 på side 394 for å se en illustrasjon som
+viser hvor pumpepluggene befinner seg.
+
+2. Åpne på-av-ventilen sakte på utløpsdelen av
+pumpen.
+
+1. Lukk på-av-ventilen som befinner seg nedstrøms
+fra pumpen.
+
+Under forventede driftsforhold må pumpen gå
+jevnt og stille. Se Feilsøking på side 108 dersom
+dette ikke skjer.
+
+2. Fjern fyllpluggen (3) eller målepluggen (1), og
+åpne på/av-ventilen oppstrøms helt til vannet
+strømmer ut av hullet.
+
+a) Lukk fyllpluggen (3) eller målepluggen (1).
+
+6  Vedlikehold
+
+Forholdsregler
+
+Installasjoner med væskenivå under pumpen
+(sugeløft)
+
+Se Figur 24 på side 395 for å se en illustrasjon som
+viser hvor pumpepluggene befinner seg.
+
+1. Hele rørsystemet er tomt:
+
+Elektrisk fare:
+Kople fra og isoler den elektriske strøm‐
+men før du installerer eller utfører service
+på enheten.
+
+a) Åpne på/av-ventilen som befinner seg opp‐
+
+ADVARSEL:
+
+strøms fra pumpen.
+b) Fjern til fyllpluggen (3) og målepluggen (1).
+
+NO
+
+Bruk en trakt til å fylle pumpen gjennom fyll‐
+hullet til vann strømmer ut av dette hullet.
+c) Stram til fyllpluggen (3) og målepluggen (1).
+
+2. Fylt utløpsrørsystem:
+
+a) Åpne på/av-ventilen som befinner seg opp‐
+
+strøms fra pumpen, og åpne på/av-ventilen
+nedstrøms.
+b) Fjern målepluggen (1) til vann strømmer ut av
+
+• Vedlikehold og service skal bare ut‐
+føres av erfarne og kvalifiserte perso‐
+ner.
+• Ta hensyn til gjeldende ulykkes- og
+sikkerhetsforskrifter.
+• Bruk egnet utstyr og beskyttelse.
+• Forviss deg om at den drenerte væ‐
+sken ikke forårsaker ødeleggelser el‐
+ler personskader.
+
+dette hullet.
+c) Stram til målepluggen (1).
+
+5.2  Kontroller rotasjonsretningen (trefaset
+motor)
+Følg denne prosedyren før oppstart.
+
+1. Finn pilene på adapteren eller motorviftedekslet
+for å bestemme riktig rotasjonsretning.
+
+2. Start motoren.
+
+6.1  Tjeneste
+Dersom brukeren ønsker å planlegge rutinemessig
+vedlikehold, er dette avhengig av type væske som
+pumpes og pumpens driftsforhold.
+Kontakt den lokale salgs- og servicerepresentanten
+med eventuelle spørsmål eller for å få informasjon
+om rutinemessig vedlikehold eller service.
+Vedlikehold uten om det vanlige kan være nødvendig
+for å rengjøre væskedelen og/eller for å skifte ut
+slitte deler.
+
+3. Foreta en rask kontroll av rotasjonsretningen
+gjennom koplingsskjermen eller gjennom motor‐
+sviftedeksel.
+
+4. Stopp motoren.
+
+Pumper med lagre som er smurt for å vare
+for livet
+
+5. Gjør følgende dersom rotasjonsretningen er feil:
+
+Pumper med lagre som er smurt for å vare for livet,
+krever ikke planlagt rutinemessige vedlikehold.
+
+a) Koble fra strømforsyningen.
+b) Bytt om plasseringen av to av de tre ledninge‐
+
+Pumper som kan smøres på nytt
+
+ne på tilførselskabelen på motorens terminal‐
+bord eller det elektriske kontrollpanelet.
+
+Se Figur 21 på side 392 for å finne montasje‐
+skjemaet.
+c) Kontroller rotasjonsretningen igjen.
+
+5.3  Starte pumpen
+
+• Smør på nytt etter 4000 driftstimer, men ikke
+mindre enn én gang per år. Rengjør smøreniplene
+(SN) først.
+• Bruk NLGI klasse 2 smørefett eller tilsvarende
+Kontakt den lokale salgs- og servicerepresentanten
+med eventuelle forespørsler eller for å få informa‐
+sjon.
+
+Motorlagre
+
+MERK:
+Etter den første oppstarten og når driftstemperatu‐
+ren er nådd, kontroller innrettingen av enhetens kob‐
+ling, se Kontroll og innretting av kopling på side 105.
+
+Etter omtrent fem år, vil fettet på motorlagrene være
+så gammelt at det anbefales at motorlagrene byttes
+ut. Lagrene må byttes ut etter det som skjer først av
+25 000 driftstimer eller iht. vedlikeholdsinstruksjone‐
+ne til motorleverandøren.
+
+Det er installatørens eller eieren ansvar å kontroller
+at den pumpede væsken har riktig strømning og
+temperatur.
+
+107

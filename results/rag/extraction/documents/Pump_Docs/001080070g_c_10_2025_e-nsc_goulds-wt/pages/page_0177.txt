@@ -1,0 +1,153 @@
+lt - Originalo vertimas
+
+Apsaugos tipas: lakštinis metalas
+Informacijos žr. 19 paveikslėlis 388 psl..
+
+krypiui; žr. 28 lentelė 399 psl.. Priešingu atveju –
+Movos sulygiavimas su pleištais 173 psl..
+9. Sumontuokite movos apsaugą.
+• M5 → 3 Nm (27 lbf·in) ± 15 %
+• M6 → 5 Nm (44 lbf·in) ± 15 %.
+
+Movos lygiavimo patikra su lazerio kapa
+
+Movos lygiavimą su lazerine kapa galite patikrinti: žr.
+kapos naudojimo instrukciją.
+
+Movos sulygiavimas su pleištais
+
+1. Atsukite pusinių gaubtų uždarymo varžtus (5).
+2. Atsukite tvirtinimo varžtus, tvirtinančius viršutinį
+pusvalandį (3).
+3. Nuimkite movos apsaugos viršutinį pusvalandį
+(1).
+4. Atsukite tvirtinimo varžtus, tvirtinančius apatinį
+pusvalandį (4).
+5. Nuimkite apatinę movos apsaugos pusę (2).
+6. Atidarykite ir pakelkite atraminį / reguliavimo žie‐
+dą (6).
+
+Movos patikra ir lygiavimas
+
+17 paveikslėlis 384 psl. Informacijos, kur prijungti
+siurblį ir variklį prie pagrindo ir kur įdėti pateiktus
+pleištus, žr. .
+
+PASTABA:
+Patikrinkite movos sulygiavimą karštomis darbo są‐
+lygomis.
+
+PASTABA:
+Įsitikinkite, kad movą galima lengvai pasukti ranka ir
+kad tarp dantų yra šiek tiek žaismo.
+
+1. Atsukite varžtus, kuriais siurblys ir variklis tvirti‐
+nami prie pagrindo.
+2. Šiek tiek pakelkite siurblį ir variklį.
+3. Įkiškite pleištus tarp pagrindo ir siurblio bei varik‐
+lio kojelių viename ar keliuose nurodytuose taš‐
+kuose.
+4. Uždėkite siurblį ir variklį ant pagrindo, sulygiuoda‐
+mi varžtų skyles.
+5. Priveržkite varžtus.
+6. Pakartokite movos lygiavimo patikrą.
+
+Movos apsaugos montavimas
+
+PASTABA:
+Netinkamai sulygiavus įrenginį, galima rimtai suga‐
+dinti sistemą.
+
+ĮSPĖJIMAS:
+JOKIU BŪDU siurblys neturi veikti be tin‐
+kamos movos apsaugos.
+
+PASTABA:
+Jei mova netinkamai sulygiuota, ji gali sukelti vibra‐
+ciją, dėl kurios įrenginio besisukantys komponentai
+gali nusidėvėti per anksti.
+
+Apsaugos tipas: vielos tinklelis
+Informacijos žr. 18 paveikslėlis 386 psl..
+
+Patikrinkite bloko movos lygiavimą, atlikdami toliau
+nurodytus veiksmus.
+
+LT
+
+1. Tinkamai uždėkite apsaugą (1), kad ji apsuptų
+siurblio veleno galą ir atraminį žiedą (3) variklio
+pusėje.
+2. Priveržkite varžtus (2).
+Apsaugos tipas: lakštinis metalas
+Informacijos žr. 19 paveikslėlis 388 psl..
+
+• Transportavimas ir montavimas
+• Pradinis paleidimas
+• Pasiekti darbinę temperatūrą.
+Patikrinkite, net jei įrenginys buvo pristatytas visiškai
+sumontuotas ant rėmo.
+
+Movos lygiavimo tikrinimas su liniuote ir ju‐
+tiklio matuokliu
+
+Informacijos apie standartinės movos (A) ir movos
+su tarpikliu (B) lygiavimą žr. 27 paveikslėlis 397 psl.
+
+1. Nuimkite movos apsaugą.
+
+1. Nustatykite movos apsaugos (2) apatinį pusva‐
+landį.
+2. Priveržkite apatinės pusės korpuso (4) tvirtinimo
+varžtus.
+3. Atverkite ir įstatykite atramos / reguliavimo žiedą
+(6) korpusui nuleidžiant žemyn ir ašiniu būdu pri‐
+spauskite jį prie variklio.
+4. Nustatykite movos apsaugos (1) viršutinį pusva‐
+landį.
+5. Priveržkite viršutinės pusės korpuso (3) tvirtini‐
+mo varžtus.
+6. Priveržkite pusvalandžių uždarymo varžtus (5).
+
+PASTABA:
+Apsauga gali būti vielos tinklelis (žr. 18 paveiks‐
+lėlis 386 psl.) arba lakštinis metalas (žr. 19 pa‐
+veikslėlis 388 psl.)
+
+4.3.4  Elektros instaliacija
+
+1. Pašalinkite gnybtų skydo dangtelio varžtus.
+
+2. Prijunkite ir pritvirtinkite maitinimo kabelius pagal
+atitinkamą kabelių schemą.
+
+Laidų schemų ieškokite 21 paveikslėlis 392 psl..
+Schemos taip pat pateiktos ant gnybtų skydelio
+dangtelio vidinės pusės.
+
+a) Prijunkite įžeminimo laidą.
+
+Įsitikinkite, kad įžeminimo laidas ilgesnis už
+fazės laidus.
+b) Prijunkite fazės laidus.
+
+3. Uždėkite gnybtų dėžutės dangtelį.
+
+2. Uždėkite reguliatorių ant pusinių movų.
+3. Išmatuokite paveikslėlyje nurodytus atstumus.
+4. Pasukite movą ranka 90° žingsniais ir pakartokite
+matavimą.
+5. Pakartokite 4 veiksmą kelis kartus: radialinis ly‐
+giavimas yra teisingas, jei atstumai yra vienodi
+visuose apskritimo taškuose, esant leidžiamam
+nuokrypiui; žr. 28 lentelė 399 psl.. Priešingu atve‐
+ju žr. Movos sulygiavimas su pleištais 173 psl..
+6. Jausmo matuokliu patikrinkite atstumą tarp pus‐
+kabių.
+7. Pasukite movą ranka 90° žingsniais ir dar kartą
+patikrinkite atstumą.
+8. Pakartokite 7 veiksmą kelis kartus: ašinis lygiavi‐
+mas yra teisingas, jei atstumai visuose apskriti‐
+mo taškuose yra vienodi, esant leidžiamam nuo‐
+
+173

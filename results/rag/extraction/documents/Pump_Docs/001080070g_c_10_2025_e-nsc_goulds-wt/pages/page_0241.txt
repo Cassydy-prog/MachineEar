@@ -1,0 +1,217 @@
+ro - Traducerea originalului
+
+Cauză
+Remediu
+
+Cauză
+Remediu
+
+Verificaţi
+
+Lipseşte o fază de pute‐
+re.
+
+• sursa de alimentare
+• conexiunea electrică
+
+• Verificaţi dacă garnitura
+mecanică prezintă scurgeri.
+• Verificaţi dacă este strânsă
+perfect conducta de aspira‐
+ţie.
+• Înlocuiţi orice supapă care
+prezintă scurgeri.
+
+7.5  Pompa elecctrică porneşte, dar protecţia
+termică se declanşează după aceea la
+intervale neregulate
+
+Deschideți supapa.
+
+Sarcina pe partea
+de evacuare este
+prea mare.
+
+Cauză
+Remediu
+
+Demontaţi şi curăţaţi supapele.
+
+Contactaţi reprezentantul
+local de vânzări şi service.
+
+Supapele sunt blo‐
+cate în poziţie în‐
+chisă sau parţial
+închisă.
+
+Există corpuri străine
+(substanţe solide sau
+fibroase) în interiorul
+pompei care au blocat
+rotorul.
+
+Pompa este înfun‐
+dată.
+
+Contactaţi reprezentantul local
+de vânzări şi service.
+
+Conductele sunt în‐
+fundate.
+
+Verificaţi şi curăţaţi conducte‐
+le.
+
+Viteza de pompare a
+pompei este mai ri‐
+dicată decât limitele
+specificate pe placa
+de date.
+
+Închideți parțial supapa
+PORNIT-OPRIT în aval până
+când rata de transfer este
+egală sau mai mică decât
+limitele specificate pe placa
+de date.
+
+Schimbaţi poziţia a două faze
+pe regleta motorului sau în pa‐
+noul electric de comandă.
+
+Direcţia de rotaţie
+a rotorului este
+greşită.
+(versiune trifazată)
+
+Pompa este în su‐
+prasarcină deoarece
+pompează lichid mai
+dens şi mai vâscos.
+
+Verificaţi cerinţele de putere
+efective bazate pe caracte‐
+risticile lichidului pompat şi
+înlocuiţi motorul în mod co‐
+respunzător.
+
+Verificaţi condiţiile de exploa‐
+tare ale pompei. Dacă este ca‐
+zul, efectuaţi următoarele:
+
+Lagărele motorului
+sunt uzate.
+
+Contactaţi reprezentantul
+local de vânzări şi service.
+
+Înălţimea de aspi‐
+raţie este prea ridi‐
+cată sau rezistenţa
+hidraulică din con‐
+ductele de aspira‐
+ţie este prea mare.
+
+• Reduceţi înălţimea de aspi‐
+raţie
+• Măriţi diametrul conductei
+de aspiraţie.
+
+7.6  Pompa electrică porneşte, dar este
+activată protecţia generală a sistemului
+
+7.9  Pompa electrică se opreşte şi apoi se
+roteşte în direcţie greşită
+
+Cauză
+Remediu
+
+Cauză
+Remediu
+
+Un scurtcircuit în siste‐
+mul electric.
+
+Verificaţi sistemul elec‐
+tric.
+
+Există o scurgere la una sau am‐
+bele componente următoare:
+
+Reparaţi sau în‐
+locuiţi compo‐
+nenta defectă.
+
+RO
+
+• Conducta de aspiraţie
+• Supapa de admisie sau supa‐
+pa de control
+
+7.7  Pompa electrică porneşte, dar
+dispozitivul de curent rezidual al sistemului
+(RCD) este activat
+
+Purjaţi aerul.
+
+Cauză
+Remediu
+
+Există aer în conducta de aspira‐
+ţie.
+
+7.10  Pompa porneşte prea frecvent
+
+Există o scurgere la îm‐
+pământare (legare la pă‐
+mânt).
+
+Verificaţi izolaţia compo‐
+nentelor sistemului elec‐
+tric.
+
+Cauză
+Remediu
+
+7.8  Pompa funcţionează, dar livrează prea
+puţin lichid sau deloc
+
+Există o scurgere la una sau
+ambele componente următoa‐
+re:
+
+Reparaţi sau înlo‐
+cuiţi componenta
+defectă.
+
+Cauză
+Remediu
+
+• Purjaţi aerul
+
+• Conducta de aspiraţie
+• Supapa de admisie sau su‐
+papa de control
+
+Există aer în pom‐
+pă sau în conduc‐
+te.
+
+Există o menbrană ruptă sau
+nu există aer de preîncărcare
+în rezervorul de presiune.
+
+Pompa nu este
+amorsată corect.
+
+Consultaţi instruc‐
+ţiunile relevante din
+manualul rezervoru‐
+lui de presiune.
+
+Opriţi pompa şi repetaţi proce‐
+dura de amorsare.
+Dacă problema persisită:
+
+237

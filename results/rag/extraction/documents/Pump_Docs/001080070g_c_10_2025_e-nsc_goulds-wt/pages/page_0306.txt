@@ -1,0 +1,159 @@
+tr - Orijinal talimatlar
+
+Z
+Pompanın takılabileceği maksimum yüksek‐
+lik (m)
+
+TEHLİKE:
+Bu üniteyi alev alabilecek/patlayabilecek
+veya kimyasal olarak aşındırıcı gazlar ve‐
+ya tozlar içeren ortamlarda kullanmayın.
+
+(pb*10,2 - Z) daima pozitif bir sayı olmalıdır.
+Daha fazla bilgi için bkz. Şekil 12 sayfa 380.
+
+Yönergeler
+
+Ürünün konumuyla ilgili olarak aşağıdaki yönergelere
+uyun:
+
+UYARI:
+Kavitasyona yol açabileceği ve pompaya zarar vere‐
+bileceği için pompa emme kapasitesi aşmayın.
+
+4.1.2  Boru tesisatı gereklilikleri
+
+Önlemler
+
+UYARI:
+
+• Motor fanının verdiği soğutucu havanın normal
+akışını hiçbir tıkanıklığın engellemediğinden emin
+olun.
+• Montaj alanının herhangi bir kaçak ya da taşma‐
+dan korunduğundan emin olun.
+• Mümkünse, pompayı zemin seviyesinden bir mik‐
+tar yukarı yerleştirin.
+• Ortam sıcaklığı 0°C (+32°F) ve +40°C (+104°F)
+arasında olmalıdır.
+• Ortamdaki havanın bağıl nemi +40°C'de (+104°F)
+%50'den az olmalıdır.
+• Aşağıdaki durumlarda Satış ve Servis Bölümüne
+başvurun:
+
+• Pompanın maksimum çalışma basın‐
+cına uygun borular kullanın. Aksi hal‐
+de sistem delinebilir ve yaralanma ris‐
+ki oluşabilir.
+• Tüm bağlantıların kalifiye bir elektrik
+teknisyeni tarafından ve yürürlükteki
+yönetmeliklere uygun olarak yapıldı‐
+ğından emin olun.
+
+– Havanın bağıl nem şartları yönergeleri aşarsa.
+– Oda sıcaklığı +40°C'yi (+104°F) aşarsa.
+– Ünite deniz seviyesinin en az 1000 m
+
+UYARI:
+Pompa şehir suyu şebekesine bağlıysa, yetkili otori‐
+teler tarafından belirlenmiş düzenlemelere ve şehir
+suyu tedarikini sağlayan şirketlerin kurallarına uyun.
+Gerekirse, emme tarafında uygun bir geriye akış ön‐
+leme cihazı takın.
+
+(3000 fit) üzerine yerleştirilir. Motor perfor‐
+mansının elektriksel kapasitesinin azaltılması
+veya motorun daha güçlü bir motorla değişti‐
+rilmesi gerekebilir.
+Motorun elektriksel kapasitesinin hangi değere geti‐
+rileceği hakkında bilgi için bkz. Tablo 11 sayfa 379
+
+Boru tesisatı kontrol listesi
+
+Pompa konumları ve açıklıklar
+
+Aşağıdaki gerekliliklerin yerine getirildiğinden emin
+olun:
+
+• Uygun havalandırmayı sağlamak için: ≥ 100 mm
+(4 inç)
+• Motorun incelenmesine ve çıkarılmasına izin ver‐
+mek için: ≥ 300 mm (12 inç)
+• Kullanılabilir alan daha az ise, teknik kataloga ba‐
+kın.
+
+Sıvı kaynağı üzerine montaj (emiş kaldırma‐
+sı)
+
+Her bir pompanın teorik emiş yüksekliği 10,33 m'dir.
+Uygulamada, aşağıdakiler pompa emiş kapasitesini
+etkiler:
+
+TR
+
+• Sıvının sıcaklığı
+• Deniz seviyesi üstünde yükseklik (açık bir sistem‐
+de)
+• Sistem basıncı (kapalı bir sistemde)
+• Boruların direnci
+• Pompanın kendi gerçek akış direnci
+• Yükseklik farklılıkları
+Aşağıdaki denklem, sıvı seviyesinden pompanın ku‐
+rulabileceği maksimum yüksekliği hesaplamada kul‐
+lanılır:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+Bar olarak barometrik basınç (kapalı sistem‐
+de sistem basıncıdır)
+
+NPSH
+Pompanın asıl akış direncinin metre olarak
+değeri
+
+• Tüm borular bağımsız olarak desteklenir; borular
+ünitenin üzerinde ağırlık yapmamalıdır.
+• Pompa titreşiminin borulara ve aksi yöne aktarı‐
+mından kaçınmak için esnek borular ya da rakor‐
+lar kullanılır.
+• Geniş dirsekler kullanın; aşırı akış direncine ne‐
+den olan dirsekler kullanmaktan kaçının.
+• Emme borusu tamamen kapalı ve hava geçirmez‐
+dir.
+• Pompa açık bir devrede kullanılırsa, emme boru‐
+sunun çapı kurulum şartlarına uygun olmalıdır.
+Emme borusu emiş portunun çapından küçük ol‐
+mamalıdır.
+• Emme borusunun pompanın emiş kısmından bü‐
+yük olması gerekiyorsa, eksantrik boru daraltıcı
+takılır.
+• Pompa sıvı seviyesinin üstüne konulursa, emiş
+borusunun ucuna bir ayak valfı takılır.
+• Sıvı asgari düzeydeyken ve pompa sıvı kaynağı
+üzerine takıldığında, havanın emiş girdabı içine
+girmemesi için ayak valfı tam olarak sıvıya batırıl‐
+malıdır.
+• Pompa kapasitesinin regülasyonu, pompa kontro‐
+lü ve bakımı için uygun boyutlu açma-kapama
+valfları emiş borusuna ve dağıtım borusuna (çek
+valf altına) takılır.
+• Pompa kapatıldığında pompaya geri akışı önle‐
+mek için dağıtım borusuna bir kontrol valfı takılır.
+
+Hf
+Pompanın emiş valfinden sıvı geçmesi nede‐
+niyle oluşan metre cinsinden kayıp
+
+Hv
+Ölçüm cihazlarındaki, sıvının sıcaklığına (T
+°C) karşılık gelen buhar basıncı
+
+UYARI:
+Pompa akışını birkaç saniyeden fazla
+kısmak için boşaltım tarafındaki açma-
+kapama vanasını kapalı konumda kullan‐
+
+0,5
+Önerilen güvenlik marjı (m)
+
+302

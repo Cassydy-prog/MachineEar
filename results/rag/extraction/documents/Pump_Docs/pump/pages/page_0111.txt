@@ -1,0 +1,74 @@
+Appendix C: Pumping Systems Tip Sheet Number 3
+
+Background
+
+Select an Energy-Efficient Centrifugal Pump
+
+Centrifugal pumps handle high flow rates, provide smooth, nonpulsating delivery, and 
+regulate the flow rate over a wide range without damaging the pump. Centrifugal 
+pumps have few moving parts, and the wear caused by normal operation is minimal. 
+They are also compact and easily disassembled for maintenance.
+
+The design of an efficient 
+pumping system depends on 
+relationships between fluid flow 
+rate, piping layout, control 
+methodology, and pump 
+selection. Before selecting a 
+centrifugal pump, we must 
+understand its application.
+
+ Centrifugal Pump Performance 
+Centrifugal pumps are generally divided into three classes: radial flow, mixed flow, 
+and axial flow. Since they are designed around their impellers, differences in impeller 
+design allow manufacturers to produce pumps that can perform efficiently under 
+conditions that vary from low flow rate with high head to high flow rate with low 
+head. The amount of fluid a centrifugal pump moves depends on the differential 
+pressure or head it supplies. The flow rate increases as the head decreases. 
+Manufacturers generally provide a chart that indicates the zone or range of heads 
+and flow rates that a particular pump model can provide.
+
+Reference
+Centrifugal Applications (ANSI/HI 
+1.3-2000), Hydraulic Institute, 2000.
+
+Before you select a pump model, examine its performance curve, which is indicated by 
+its head-flow rate or operating curve. The curve shows the pump’s capacity (in gallons 
+per minute [gpm]) plotted against total developed head (in feet). It also shows efficiency
+(percentage), required power input (in brake-horsepower [bhp]), and suction head 
+requirements (net positive suction head requirement in feet) over a range of flow rates.
+
+Pump curves also indicate pump size and type, operating speed (in revolutions per 
+minute), and impeller size (in inches). It also shows the pump’s best efficiency point 
+(BEP). The pump operates most cost effectively when the operating point is close 
+to the BEP.
+
+Figure 1. End Suction Centrifugal Pump Performance Curve
+
+Pumps can generally 
+be ordered with a 
+variety of impeller 
+sizes. Each impeller 
+has a separate 
+performance curve 
+(see Figure 1). To 
+minimize pumping 
+system energy 
+consumption, select a 
+pump so the system 
+curve intersects the 
+pump curve within 
+20% of its BEP, and 
+select a midrange 
+impeller that can be 
+trimmed or replaced 
+to meet higher or 
+lower flow rate requirements. Select a pump with high efficiency contours over your 
+range of expected operating points. A few points of efficiency improvement can save 
+significant energy over the life of the pump.
+
+DOE/GO-102005-2157 • October 2005 • Pumping Systems Tip Sheet #3
+
+107
+
+A Sourcebook for Industry

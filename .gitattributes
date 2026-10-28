@@ -1,0 +1,15 @@
+* text=auto
+*.py text eol=lf
+*.cjs text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+
+# Preserve source bytes and checksum-linked assets across operating systems.
+/data/manuals/** -text
+/data/features/*.csv -text -whitespace
+/results/rag/** -text -whitespace
+# Preserve the inherited audio scripts exactly, including original line endings.
+/scripts/** -text

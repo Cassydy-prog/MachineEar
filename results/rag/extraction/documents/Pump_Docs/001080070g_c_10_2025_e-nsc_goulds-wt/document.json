@@ -1,0 +1,26 @@
+{
+  "document_id": "54879bbd3c549db7fd421bf0cc16ab7fc1acd573a07efd8b953a00739cf1be21",
+  "source_filename": "001080070g_c_10_2025_e-nsc_goulds-wt.pdf",
+  "source_relative_path": "Pump_Docs/001080070g_c_10_2025_e-nsc_goulds-wt.pdf",
+  "source_sha256": "8df7ee785b40a173f662b46aadf0e3dd81a0c14fe6ba7bb2debdcecaf10b6384",
+  "document_title": "001080070g_c_10_2025_e-nsc_goulds-wt",
+  "machine_type_hint": "pump",
+  "source_type_hint": "installation_operation_maintenance_manual",
+  "applicability": "generic_guidance_equipment_match_unverified",
+  "applicability_verified": false,
+  "page_count": 464,
+  "method_counts": {
+    "native": 462,
+    "none": 2
+  },
+  "ocr_attempted_pages": 0,
+  "blank_pages": 2,
+  "review_pages": [
+    2,
+    463
+  ],
+  "character_count": 1649208,
+  "document_text_file": "documents/Pump_Docs/001080070g_c_10_2025_e-nsc_goulds-wt/document.txt",
+  "searchable_pdf": null,
+  "errors": []
+}

@@ -1,0 +1,169 @@
+tr - Orijinal talimatlar
+
+– Su bir su sisteminden pompalandığında, bir
+
+basınç anahtarı kullanın.
+– Su bir depolama tankından veya rezervuarın‐
+
+mayın. Boşaltım tarafı kapalı olarak pom‐
+pa birkaç saniye çalışmak durumunda
+kalırsa, pompa içindeki suyun aşırı ısın‐
+masını önlemek için bir tahliye devresi
+takılmalıdır.
+
+dan pompalandığında, bir şamandıra svici ve‐
+ya sensörleri kullanın.
+• Termal röleler kullanıldığında, faz hatasına has‐
+sas röleler önerilir.
+
+Boru gerekliliklerini gösteren şekiller için bkz. Şekil
+13 sayfa 380 ve.Şekil 14 sayfa 380.
+
+Motor kontrol listesi
+
+UYARI:
+
+4.2  Elektriksel gereksinimler
+• Yürürlükteki yerel yönetmelikler bu özel gereklilik‐
+lerin yerine geçer.
+• Yangın sistemleri için (hidrantlar ve/veya fıskiye‐
+ler), geçerli yerel yönetmeliklere bakın .
+
+Elektrik bağlantısı kontrol listesi
+
+Aşağıdaki gerekliliklerin yerine getirildiğinden emin
+olun:
+
+• Standart dışı bir motor kullanıldığında
+bir koruma cihazının sağlanıp sağlan‐
+madığından emin olmak için çalıştır‐
+ma talimatlarını okuyun.
+• Motor otomatik termik koruyucular‐
+la donatılmışsa, aşırı yüklemeyle bağ‐
+lantılı olarak beklenmeyen çalışmaya
+başlama durumlarının bilincinde olun.
+Böyle motorları yangınla mücadele
+uygulamalarına yönelik kullanmayın.
+
+UYARI:
+
+• Elektrik telleri yüksek ısı, titreşim ve çarpışmalara
+karşı korumalıdır.
+• Güç kaynağı hattı aşağıdakileri içerir:
+– Kısa devre koruma cihazı
+– En az 3 mm temas boşluğu olan ana şebeke
+
+izolatörü
+
+Elektrikli kontrol paneli kontrol listesi
+
+• Mil uzantısında yarım boyutlu anahtarı dinamik
+olarak dengelenmiş (IEC 60034-14) ve normal ti‐
+treşim değerli (N) motorlar kullanın.
+• Şebeke voltajı ve frekansı, veri plakasındaki spe‐
+sifikasyonlara uygun olmalıdır.
+
+Genel olarak, motorlar aşağıdaki şebeke voltajlarında
+çalışabilir:
+
+UYARI:
+Kontrol paneli, elektrikli pompa değerleriyle eşleşme‐
+lidir. Uygun olmayan kombinasyonlar motorun korun‐
+masını garanti edemeyebilir.
+
+Frekans Hz
+Faz ~
+% UN [V] ±
+
+Aşağıdaki gerekliliklerin yerine getirildiğinden emin
+olun:
+
+50
+1
+220 – 240 ± 6
+
+3
+230/400 ± 10
+
+400/690 ± 10
+
+• Kontrol paneli, motoru aşırı yüke ve kısa devreye
+karşı korumalıdır.
+• Doğru aşırı yük korumasını takın (termal röle veya
+motor koruyucu).
+
+60
+1
+220 – 230 ± 6
+
+Pompa Tipi
+Koruma
+
+3
+220/380 ± 5
+
+– Dahili otomatik sı‐
+
+Tek fazlı standart elek‐
+trikli pompa ≤ 2,2 kW
+
+380/660 ± 10
+
+fırlamalı termal am‐
+perometrik koruma
+(motor koruyucu)
+– Kısa devre koruma‐
+
+Tek fazlı modeller için 3 tel (2+şase/toprak) ve üç
+fazlı modeller için de 4 tel (3+şase/toprak) kuralları‐
+na göre kablo kullanın.
+
+sı (kurulumcu ta‐
+rafından sağlanma‐
+lıdır)51
+
+4.3  Pompayı takın.
+
+4.3.1  Mekanik montaj
+
+Üç fazlı elektrikli pom‐
+pa ve52
+– Termal koruma
+
+Kurulum alanı
+
+(montaj yapan ta‐
+rafından sağlanma‐
+lıdır)
+– Kısa devre koruma‐
+
+TR
+
+Kalıcı ve rijit destek sağlamak için üniteyi yeterince
+güçlü bir beton veya metal temel tabanına takın.
+bölümündeki gereklilikleri uygulayınPompa konumu
+sayfa 301.
+
+sı (montaj yapan ta‐
+rafından sağlanma‐
+lıdır)
+
+Beton zemine montaj
+
+Temel gereklilikler
+
+• Kontrol paneli, bir basınç şalteri, şamandıra svici,
+problar ya da diğer uygun aygıtların bağlanabile‐
+ceği kuru çalışan bir koruma sistemi ile donatıl‐
+malıdır.
+• Pompanın emiş tarafında aşağıdaki aygıtların kul‐
+lanılması önerilir:
+
+51
+aM (motor marşı) veya C ve Icn ≥ 4,5 kA eğrisine sahip magnetotermal anahtarı veya diğer eşdeğer
+cihazı sigortalar.
+52
+sınıfı 10A ile aşırı yük termal rölesi + sigortalar aM (motor marşı) veya başlatma sınıfı 10A ile motor
+koruması manyetotermal anahtarı.
+
+303

@@ -1,0 +1,135 @@
+Unusual operating behaviour indicating damage
+Bearing monitoring with technical devices
+
+5: Frequency spectrum of envelope signal between 0 and 200 Hz,
+below: undamaged bearing; above: damaged bearing
+nIR
+Inner ring speed [min–1]
+fIR
+Frequency of inner ring signal (cycling frequency) [Hz]
+
+0,086g
+
+Damaged bearing
+
+Harmonic
+fIR
+nIR
+
+nIR
+
+2fIR
+nIR nIR
+
+3fIR
+nIR nIR
+
+4fIR
+
+Side
+bands
+
+Side
+bands
+
+0
+
+0,086g
+
+Undamaged bearing
+
+1.2.2 Damage in certain spots
+Should bearing damage be restricted
+to specific locations such as indentations
+caused by rolling elements, standstill
+corrosion or  fractures, it can be re-
+cognised at the earliest with vibration
+measurements. Shock waves which 
+originate from the cycling of local inden-
+tations can be recorded by means of
+path, speed and acceleration pick-ups.
+These signals can be processed further at
+little or great expense depending on the
+operating conditions and the accuracy of
+the expected confidence factor. The
+most common are:
+– measuring effective value
+– measuring shock value
+– signal analysis by envelope detection.
+
+Vibration acceleration
+
+20
+0
+
+40
+60
+80
+100
+120
+140
+160
+180
+200
+
+Frequency [Hz]
+
+Experience has shown that the latter
+procedure is particularly reliable and
+practical in use. The damaged bearing
+components can even be pinpointed
+with a special type of signal processing,
+figs. 5 and 6. Please refer to our TI No.
+WL 80-36 >Rolling Bearing Diagnosis
+with the FAG Bearing Analyser<" for
+more information.
+
+7: March of temperature and shock value as a function of time stopping 
+lubrication. Spindle bearing B7216E.TPA; P/C = 0.1; n = 9000 min–1; 
+Lubricating oil ISO VG100.
+
+160
+
+300
+
+°C
+
+140
+
+100
+
+6: Inner ring damage to a spherical
+roller bearing in a paper making
+machine found by means of the 
+envelope detection procedure.
+
+Temperature
+
+Shock value
+
+120
+
+80
+
+60
+
+100
+
+80
+40
+
+0
+4
+8
+12
+16
+20
+24
+min
+
+Lubrication stopped
+
+Operation time
+
+FAG
+6

@@ -1,0 +1,216 @@
+Other means of inspection at FAG
+
+Geometric measuring
+
+106 a: Inspection of contaminants, ICP-AES Analysis
+
+Element
+Lambda
+Factor
+Offset
+low
+low
+high
+high
+min
+max
+min
+max
+
+4.2 Lubricant analyses and 
+lubricant inspections
+FAG has laboratories and test floors
+for inspecting the quality and suitability
+of lubricants for rolling bearing applica-
+tions.
+
+Cobalt
+228,616
+1,673
+268
+962
+415
+179515
+107157
+Manganese
+257,610
+1,318
+-76
+-121
+-34
+67816
+51496
+Chromium
+267,716
+1,476
+381
+669
+195
+76696
+51688
+Copper
+324,754
+0,834
+-471
+80
+660
+2297
+3316
+Molybdenum
+281,615
+1,073
+-17
+89
+99
+47781
+44543
+Nickel
+231,604
+1,778
+4
+114
+62
+38487
+21640
+Vanadium
+311,071
+0,937
+-37
+5
+45
+64228
+68560
+Tungsten
+400,875
+0,742
+-16
+4
+26
+14129
+19053
+Silicon
+251,611
+2,173
+310
+509
+92
+2385
+955
+
+Laboratory analyses of lubricants
+from failed bearings frequently supply
+the decisive information necessary to
+clarify the cause of failure. The main in-
+spection means are:
+– Amount and type of contamination
+
+sample: solids in contaminated lubricant       method: steel 1     M(3)
+
+Co
+Mn
+Cr
+Cu
+Mo
+Ni
+V
+W
+Si
+
+x
+.0107
+0.636
+1.412
+0.185
+0.797
+0.271
+.327
+.002
+0.359 %
+
+s
+.0004
+.0002
+.011
+.0002
+.0032
+.0063
+.0007
+.0099
+.0006
+
+present
+• solid, fig. 106a
+• liquid (humidity)
+– Use of anti-oxidants
+– Ageing, fig. 106b
+– Change in viscosity
+– Additive content (reduction/degrada-
+
+sr
+4.11
+0.67
+0.03
+1.18
+0.40
+2.31
+0.22
+57.44
+0.06
+
+tion)
+– Oil-soap relation in greases
+– Determination of type and class of
+
+106 b: FT-IR Analysis of lubricant
+
+FAG OEM und Handel AG
+Research and Development 
+OHT-L-1/Lubricating Greases 
+and Org. Analytic, W. Wolz
+Product
+preservative oil, new (above, green)
+Cont. IR nr.:
+901495/901496
+preservative oil, used (below, red)
+Date of check:
+03.05.1990
+WE/Batch: 
+sample 26.04.1990/-  / dito after Oxbomb
+31.05.1990
+Date of receipt:
+26.04.1990
+Nr. of scans
+4
+Path length:
+67.98 µm / 68.04 µm
+Resolution
+2 cm–1
+Device:
+Perkin Elmer FT.-IR 1725 X
+Checker
+Ch. Hassiotis
+
+lubricant, e.g. evidence of lubricant
+mixture during relubrication, 
+fig. 106b
+The extraction of a suitable lubricant
+sample is an essential prerequisite for re-
+liable information based on the lubricant
+inspection (see section 2.2). The origin
+of contaminants can almost always be
+determined from the results of their 
+analyses. A direct indication of possible
+measures to stop wear, for example, can
+therefore be obtained just as conclusions
+regarding suitable oil change intervals or
+a fresh grease supply can be drawn from
+information on the general condition of
+an oil or grease after a certain running
+period.
+
+new oil
+
+used oil
+
+63
+FAG

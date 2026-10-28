@@ -1,0 +1,59 @@
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+Causes:
+
+• Fluting
+Symptoms:
+
+Sparking over current, for example
+during welding or due to earth contact
+failure
+
+3.3.2.5 Craters and fluting due to 
+passage of electric current
+• Craters 
+Symptoms:
+
+Remedial measures:
+
+Brownish marks parallel to the axis on
+a large part of the raceway or covering
+the entire raceway circumference, fig.
+60.
+
+Causes:
+
+Do not direct current through the
+bearing during electro welding 
+(earthing).
+
+Constant passage of alternating or 
+direct current, even low currents cause
+marks.
+
+Craters in the raceway due to local
+melting at the contact area of the parts
+in rolling contact, sometimes several 
+craters in a row or whole chains around
+the circumference. The surface in the
+craters is partly formed like welding 
+beads, fig. 59.
+
+Remedial measures:
+– Prevent currents from flowing
+
+through the bearing (earthing, insula-
+tion).
+– Use current insulated bearings.
+
+60: Fluting in the outer ring raceway of
+a deep groove ball bearing was 
+caused by the constant passage of
+current.
+
+59: Current sparkover led to the formation of craters in the raceway of a 
+cylindrical roller bearing.
+
+FAG
+38

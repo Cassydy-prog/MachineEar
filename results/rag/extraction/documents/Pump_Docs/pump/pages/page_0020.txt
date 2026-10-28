@@ -1,0 +1,103 @@
+1. Assessing Pumping System Needs
+
+problematic. Mechanical seals, used in the 
+majority of pumps sold today, are more effective 
+at sealing fluid, but they are more expensive and 
+require additional maintenance.
+
+Excessive Maintenance. All pumping systems 
+require some maintenance; however, systems 
+with unusually high maintenance requirements 
+are often the result of improper design and 
+operation. Problems such as cavitation, frequent 
+energizing and de-energizing of a pump motor, 
+and valve seat leakage can decrease the length 
+of time between repairs.
+
+Packing squeezes against the pump shaft and 
+requires frequent adjustment to maintain the 
+proper amount of cooling and lubrication leak-
+age. Packing life depends on service conditions, 
+the quality of the packing material, and on the 
+care with which it is installed and adjusted.
+
+A system’s maintenance requirements can be 
+measured by the mean time between failure 
+(MTBF) for its components. Since systems 
+operate in a broad range of service environments, 
+it is difficult to characterize the MTBF for each 
+system component; however, seal and bearing 
+manufacturers often provide an estimated MTBF 
+for a particular product. If the actual time to 
+failure is much less than the manufacturer’s 
+recommended interval, the cause of the failure 
+should be assessed.
+
+Assessing and troubleshooting the performance 
+of mechanical seals is complicated by the wide 
+range of factors that impact the function and 
+operating life of these seals. Since there are many 
+different types of mechanical seals for many 
+different applications, it is difficult to state how 
+long a seal should last. Common causes of seal 
+problems include contamination of the seal faces, 
+overheating due to inadequate lubrication, and 
+improper installation. For more information on 
+mechanical seal and packing problems, see the 
+fact sheet in this section titled Common Pumping 
+System Problems.
+
+Bearing Replacement. There are two principal 
+types of bearings in centrifugal pumps: thrust and 
+radial. Operating conditions have a large impact 
+on the amount of load each type of bearing sees 
+and the rate at which the bearings wear. To assess 
+whether bearings are holding up comparatively 
+well, the histories of other pumps in similar 
+environments should be evaluated. If bearings 
+need to be replaced every few months, then the 
+system operating conditions or the design criteria 
+for the bearings should be evaluated.
+
+Wear-Ring Clearances. Wear rings are used 
+in centrifugal pumps to establish clearances 
+between impellers and pump casings or other 
+impellers. As pumps operate over time, erosion 
+caused by abrasive particles or fluid squeezing 
+through gaps can increase these clearances. The 
+consequence is greater leakage within the pump. 
+That is, more fluid passes from the high-pressure 
+side of an impeller to its low-pressure side, which 
+reduces the pump’s efficiency.
+
+Factors that accelerate bearing wear are high 
+loads, poor lubrication, high operating temper-
+ature, and vibration. Preventive maintenance 
+techniques—such as vibration analysis, 
+temperature checks, and oil analysis—can 
+improve the effectiveness of scheduling bearing 
+replacements. For more information, see the fact 
+sheet in this section titled Common Pumping 
+System Problems.
+
+The gaps in the wear ring should be set in 
+accordance with the manufacturer’s instructions 
+during the initial installation. Note that the design 
+of the wear rings will determine the way in which 
+clearances are set. Some pump designs require 
+the impeller to be positioned axially to provide 
+proper clearance. The engineer can consult the 
+product instruction manual for the proper setting 
+of the wear ring clearance. The gaps need to be 
+reset properly during major pump overhauls or 
+if the pump’s performance declines.
+
+Packing/Mechanical Seal Replacement. Packing 
+and mechanical seals are methods of sealing 
+around the area where the pump shaft penetrates 
+into the pump casing, to stop or prevent leaks. 
+Packing is less expensive; it is used when leak-
+age from the pump is not costly or otherwise
+
+16
+Improving Pumping System Performance

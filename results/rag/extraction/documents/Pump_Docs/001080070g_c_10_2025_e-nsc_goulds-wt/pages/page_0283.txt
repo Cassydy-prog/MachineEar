@@ -1,0 +1,168 @@
+sr - Prevod originalnog
+
+takve motore u primenama za gaše‐
+nje požara.
+
+NAPOMENA:
+
+• Koristite samo dinamički uravnotežene motore
+sa ključem smanjene veličine u nastavku osovine
+(IEC 60034-14) i sa normalnim nivoom vibracija
+(N).
+• Mrežni napon i frekvencija moraju odgovarati
+specifikacijama na pločici sa podacima.
+
+Uopšteno se motorima može rukovati pod sledećim
+tolerancijama mrežnog napona:
+
+Frekvencija u
+
+Faza ~
+UN [V] ± %
+
+Hz
+
+50
+1
+220 – 240 ± 6
+
+3. Postavite jedinicu na temelj i koristite nivo duha
+na otvoru za pražnjenje i osovinicu da biste se
+uverili da je nivo.
+Maksimalna dozvoljena tolerancija: 0,2 mm/m.
+4. Ako postoje, uklonite čepove koji pokrivaju usis‐
+ne i odvodne portove.
+5. Poravnajte usisne i ispusne portove sa njihovim
+cevovodima.
+6. Pričvrstite sistem cevovoda na jedinicu; pogledaj‐
+te takođe Kontrolna lista sistema za cevovod na
+stranici 280.
+7. Ako je potrebno, ubacite podloške za nivelisanje
+između osnove i osnove: ako je rastojanje izme‐
+đu spona > 800 mm, ubacite dve dodatne podlo‐
+ške u centar baze. Svi šimovi moraju biti savrše‐
+no rumeni. Pogledajte: Slika 17 na stranici 384.
+8. ravnomerno i u potpunosti zategnite navrtke za
+vezivanje, vodeći računa da momenti budu kao
+što je naznačeno u tabeli.
+
+3
+230/400 ± 10
+
+400/690 ± 10
+
+Nut
+Obrtni moment, Nm
+(lbf·in)
+
+60
+1
+220 – 230 ± 6
+
+M12
+60 (44)
+
+3
+220/380 ± 5
+
+M16
+120 (89)
+
+380/660 ± 10
+
+M20
+200 (148)
+
+M24
+350 (258)
+
+M27
+530 (391)
+
+Koristite kabl prema pravilima sa 3 izvoda (2+uzem‐
+ljenje) za jednofazne verzije i sa 4 izvoda (3+uzem‐
+ljenje) za trofazne verzije.
+
+4.3  Instalirajte pumpu
+
+Napomena:
+
+4.3.1  Mehanička instalacija
+
+• Za postolje baze se preporučuje stavljanje ispune
+oko postolja baze sa betonom koji se malo skup‐
+lja.
+
+Oblast instalacije
+
+Postavite pumpu na okvir baze
+
+Obavezno proverite da li su ispunjeni sledeći zahtevi:
+
+Instalirajte jedinicu na betonsku ili metalnu osnovu
+dovoljno jaku da osigura trajnu i krutu podršku. Po‐
+štujte zahteve u Lokacija pumpe na stranici 277.
+
+Instalacija na betonskoj osnovi
+
+Zahtevi fondacije
+
+SR
+
+• Čvrst okvir baze koji se ne okreće niti vibrira to‐
+kom rada (rezonancija).
+• Površine za montažu stopala pumpe i motora na
+okviru baze moraju biti ravne (preporučuje se ma‐
+šinska obrada).
+• Mora se garantovati bezbedno pričvršćivanje
+pumpe i motora.
+• Odgovarajući prostor između pumpe i osovine
+motora mora biti s leve strane, zavisno od koriš‐
+ćene spojnice.
+• Između pumpe i osnovnog rama mora da bude
+adekvatno šiming, tako da u slučaju zamene mo‐
+že da se podesi ista visina između dna i central‐
+ne linije (preporučeno vertikalno podešavanje 4-6
+mm).
+
+Smanjenje vibracija
+
+• Beton mora da ima otpornost na kompresiju od
+C12/15 i da ispunjava zahteve klase izloženosti
+XC1 u skladu sa EN 206-1
+• Veličine moraju biti odgovarajuće za veličine pot‐
+porne ploče jedinice
+• Težina temelja mora biti ≥ 1,5 puta veća od težine
+jedinice (≥ 5 puta veća od težine jedinice ako je
+potreban tiši rad)
+• Površina treba da bude što je moguće ravna i što
+je više moguće.
+• Nagib mora biti ≤ 1 mm/m.
+Dodatna uputstva možete pronaći u dokumentu br.
+001080247X: da biste ga preuzeli, skenirajte QR kod
+koji se nalazi u Slika 17 na stranici 384.
+
+Fiksiranje pumpe
+
+Za primere horizontalne i vertikalne instalacije pogle‐
+dajte Slika 15 na stranici 383.
+
+Jedinica i protok tečnosti u sistemu mogu generisa‐
+ti vibracije, koje se mogu pojačati ako jedinica ili
+sistem cevovoda nisu pravilno instalirani: u skladu
+sa uputstvima u Instalacija na betonskoj osnovi na
+stranici 279 i Fiksiranje pumpe na stranici 279, pored
+Kontrolna lista sistema za cevovod na stranici 280
+
+Takođe se preporučuje:
+
+1. Pogledajte tehnički katalog za:
+– Prečnik i broj otvora za osnovu
+– Rastojanje otvora
+– Izračunavanje veličine i količine šipki za vezi‐
+
+vanje hemijskim sidrama, u zavisnosti od mo‐
+dela jedinice.
+2. Bušite temelj i pričvrstite šipke za kravatu.
+
+279

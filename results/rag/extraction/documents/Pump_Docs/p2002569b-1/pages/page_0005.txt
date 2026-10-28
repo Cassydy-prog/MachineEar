@@ -1,0 +1,49 @@
+Safety terminology and symbols
+
+About safety messages
+
+It is extremely important that you read, understand, and follow the safety messages and regulations carefully 
+before handling the product. They are published to help prevent these hazards:
+
+• Personal accidents and health problems
+• Damage to the product
+• Product malfunction
+
+Hazard levels
+
+Hazard level
+Indication
+
+DANGER:
+A hazardous situation which, if not avoided, will result in death or serious 
+injury.
+
+WARNING:
+A hazardous situation which, if not avoided, could result in death or 
+serious injury.
+
+CAUTION:
+A hazardous situation which, if not avoided, could result in minor or 
+moderate injury.
+
+NOTICE:
+
+• A potential situation which, if not avoided, could result in
+undesirable conditions
+• A practice not related to personal injury
+
+Hazard categories
+Hazard categories can either fall under hazard levels or let specific symbols replace the ordinary hazard 
+level symbols.
+
+Electrical hazards are indicated by the following specific symbol:
+
+ELECTRICAL HAZARD:
+
+These are examples of other categories that can occur. They fall under the ordinary hazard levels 
+and may use complementing symbols:
+• Crush hazard
+• Cutting hazard
+• Arc flash hazard
+
+5

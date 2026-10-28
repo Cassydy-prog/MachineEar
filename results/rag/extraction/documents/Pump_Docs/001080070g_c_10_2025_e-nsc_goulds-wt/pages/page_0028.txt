@@ -1,0 +1,214 @@
+en - Original instructions
+
+Cause
+Remedy
+
+Cause
+Remedy
+
+The electric motor is
+short circuit.
+
+Check the components and
+replace as necessary.
+
+There is an ground
+(earth) leakage.
+
+Check the insulation of the
+electrical system components.
+
+The motor overloads.
+Check the operating condi‐
+tions of the pump and re‐
+set the protection.
+
+7.8  The pump runs but delivers too little or
+no liquid
+
+Cause
+Remedy
+
+• Bleed the air
+
+EN
+
+7.4  The electric pump starts, but the thermal
+protector trips or the fuses blow a short time
+after
+
+There is air inside
+the pump or the pip‐
+ing.
+
+Cause
+Remedy
+
+The pump is not cor‐
+rectly primed.
+
+Stop the pump and repeat the
+prime procedure.
+If the problem continues:
+
+Protect the electrical
+panel from heat source
+and direct sunlight.
+
+The electrical panel is sit‐
+uated in an excessively
+heated area or is exposed
+to direct sunlight.
+
+The power supply voltage
+is not within the working
+limits of the motor.
+
+Check the operating
+conditions of the mo‐
+tor.
+
+• Check that the mechani‐
+cal seal is not leaking.
+• Check the suction pipe for
+perfect tightness.
+• Replace any valves that
+are leaking.
+
+A power phase is missing. Check the
+
+Open the valve.
+
+The throttling on the
+delivery side is too
+extensive.
+
+• power supply
+• electrical connec‐
+tion
+
+Disassemble and clean the
+valves.
+
+Valves are locked in
+closed or partially
+closed position.
+
+7.5  The electric pump starts, but the thermal
+protector trips a varying time after
+
+The pump is clog‐
+ged.
+
+Contact the local sales and
+service representative.
+
+Cause
+Remedy
+
+Check and clean the pipes.
+
+The piping is clog‐
+ged.
+
+Contact the local sales and
+service representative.
+
+There are foreign ob‐
+jects (solids or fibrous
+substances) inside the
+pump which have jam‐
+med the impeller.
+
+Change the position of two
+of the phases on the terminal
+board of the motor or in the
+electric control panel.
+
+The rotation direc‐
+tion of the impeller
+is wrong.
+(three-phase ver‐
+sion)
+
+The pumps delivery
+rate is higher than the
+limits specified on the
+data plate.
+
+Partially close the ON-OFF
+valve down stream until the
+delivery rate is equal or
+less than the limits speci‐
+fied on the data plate.
+
+Check the operating condi‐
+tions of the pump. If necessa‐
+ry, do the following:
+
+The suction lift is
+too high or the flow
+resistance in the
+suction pipes is too
+great.
+
+• Decrease the suction lift
+• Increase the diameter of
+the suction pipe.
+
+The pump is overload‐
+ed because it is pump‐
+ing liquid that is too
+dense and viscous.
+
+Check the actual power
+requirements based on
+the characteristics of the
+pumped liquid and replace
+the motor accordingly.
+
+7.9  The electric pump stops, and then
+rotates in the wrong direction
+
+The motor bearings
+are worn.
+
+Contact the local sales and
+service representative.
+
+Cause
+Remedy
+
+7.6  The electric pump starts, but the
+system's general protection is activated
+
+There is a leakage in one or both
+of the following components:
+
+Repair or re‐
+place the faulty
+component.
+
+Cause
+Remedy
+
+• The suction pipe
+• The foot valve or the check
+valve
+
+A short circuit in the electri‐
+cal system.
+
+Check the electrical
+system.
+
+There is air in the suction pipe.
+Bleed the air.
+
+7.10  The pump starts up too frequently
+
+7.7  The electric pump starts, but the
+system's residual current device (RCD) is
+activated
+
+24

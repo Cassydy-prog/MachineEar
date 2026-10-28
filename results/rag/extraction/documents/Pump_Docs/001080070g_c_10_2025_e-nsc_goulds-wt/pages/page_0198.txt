@@ -1,0 +1,168 @@
+cs - Překlad originálu
+
+60
+40
+30
+24
+16
+8
+4
+
+NEBEZPEČÍ:
+Nepoužívejte tuto jednotku v prostředích,
+která by mohla obsahovat hořlavé/výbuš‐
+né nebo chemicky agresivní plyny či čá‐
+stice.
+
+Počet
+spu‐
+štění
+za
+hodi‐
+nu
+
+Návod
+
+Hladina hluku
+
+Pokud jde o umístění výrobku, řiďte se následujícími
+pokyny:
+
+Informace o hladinách akustického tlaku u čerpadla
+vybaveného standardním dodávaným motorem nale‐
+znete v tabulce Tabulka 9 na straně 368.
+Informace o hladinách akustického tlaku u čerpadla
+bez motoru naleznete v tabulce Tabulka 10 na straně
+372.
+
+4  Montáž
+
+Bezpečnostní opatření
+
+UPOZORNĚNÍ:
+
+• Ujistěte se, zda nic nebrání plynulému proudění
+chladného vzduchu vytvářeného větrákem moto‐
+ru.
+• Ujistěte se, zda je prostor pro instalaci chráněn
+před možným únikem kapalin nebo zaplavením.
+• Pokud je to možné, umístěte čerpadlo o něco
+výše než je úroveň podlahy.
+• Okolní teplota musí být mezi 0 °C (+32 °F) a +40
+°C (+104 °F).
+• Relativní vlhkost okolního vzduchu musí být men‐
+ší než 50 % při +40 °C (+104 °F).
+• Obraťte se na oddělení prodeje a služeb, v přípa‐
+dě že
+
+– relativní vlhkost vzduchu překročila povolené
+
+meze,
+– teplota okolí překročila +40 °C (+104 °F),
+– jednotka je umístěná v nadmořské výšce nad
+
+• Dodržujte platné předpisy pro preven‐
+ci nehod.
+• Používejte vhodné vybavení a ochran‐
+né prostředky.
+• Vždy se řiďte platnými místními a/ne‐
+bo státními předpisy, zákony a naříze‐
+ními týkajícími se volby místa montá‐
+že a připojení přívodů vody a elektři‐
+ny.
+
+1 000 m (3 000 stop), je třeba změnit výkon
+motoru nebo vyměnit motor za výkonnější.
+Informace o změně výkonu motoru naleznete v oddí‐
+lu Tabulka 11 na straně 379.
+
+Nebezpečí úrazu elektrickým proudem:
+
+Pozice a odstup čerpadla
+
+• Pro zajištění vhodné ventilace: ≥ 100 mm (4 pa‐
+lce)
+• Pro umožnění kontroly a demontáže motoru: ≥
+300 mm (12 in)
+• Pokud je prostor menší, nahlédněte do technické‐
+ho katalogu.
+
+CS
+
+Instalace nad zdroj kapaliny (sací výška)
+
+• Ujistěte se, že veškeré zapojení bylo
+provedeno kvalifikovanými montážní‐
+mi techniky a je v souladu s platnými
+předpisy.
+• Než začnete pracovat na jednotce,
+ujistěte se, že jednotka a ovládací
+panel jsou odpojené od napájení a ne‐
+mohou se zapnout. To se vztahuje ta‐
+ké na řídicí obvod.
+
+Uzemnění
+
+Teoretická maximální sací výška všech čerpadel je
+10,33 m. V praxi ovlivňuje sací výkon čerpadla násle‐
+dující:
+
+Nebezpečí úrazu elektrickým proudem:
+
+• teplota kapaliny,
+• nadmořská výška (u otevřeného systému),
+• tlak systému (u uzavřeného systému),
+• odpor trubek,
+• vlastní odpor čerpadla proti proudění,
+• výškové rozdíly.
+Pro výpočet, do jaké maximální výšky nad úrovní čer‐
+pané kapaliny lze čerpadlo umístit, slouží následující
+vzorec:
+(pb * 10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+Barometrický tlak v barech (v uzavře‐
+ném systému se jedná o tlak v systému)
+
+Hodnota v metrech udávající odpor proti
+proudění, který je vlastní pro čerpadlo
+
+NPSH (sa‐
+cí schop‐
+nost čer‐
+padla)
+
+• Než začnete vytvářet další elektrická
+připojení, vždy nejprve připojte vnější
+chránič k zemnicí svorce.
+• Je nutné zajistit uzemnění veškerého
+elektrického vybavení. To platí pro za‐
+řízení čerpadla, pohon a jakékoliv mo‐
+nitorovací zařízení. Přezkoušejte ze‐
+mnicí vodič a ověřte, že je správně
+připojený.
+• Dojde-li nedopatřením k vytržení ka‐
+belu motoru, zemnicí vodič musí být
+posledním vodičem, který se uvolní
+ze svorky. Ujistěte se, že je zemnicí
+vodič delší než fázové vodiče. To platí
+pro oba konce kabelu motoru.
+• Přidejte ochranu proti úrazu elektric‐
+kým proudem. Nainstalujte diferen‐
+ciální spínač s vysokou citlivostí
+(30 mA) [proudový chránič RCD].
+
+Hf
+Celkové ztráty v metrech způsobené
+průchodem kapaliny nasávacím potru‐
+bím čerpadla.
+
+4.1  Požadavky na zařízení
+
+Hv
+Tlak páry v metrech odpovídající teplotě
+kapaliny ve stupních Celsia
+
+4.1.1  Umístění čerpadla
+
+194

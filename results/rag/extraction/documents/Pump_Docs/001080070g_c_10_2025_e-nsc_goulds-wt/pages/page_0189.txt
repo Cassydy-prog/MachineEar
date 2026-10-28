@@ -1,0 +1,142 @@
+pl - Tłumaczenie oryginału
+
+Kontrola i wyrównanie sprzęgła
+
+184 Mocowanie pompy na stronie 184 Lista kontrol‐
+na systemu rur na stronie 185
+
+Zaleca się również:
+
+UWAGA:
+Ponownie sprawdzić wyrównanie sprzęgła w gorą‐
+cych warunkach roboczych.
+
+UWAGA:
+Upewnić się, że sprzęgło można łatwo obracać ręcz‐
+nie i że między zębami występuje luz.
+
+• Sprawdzić, czy pompa i silnik są pewnie zamoco‐
+wane do podstawy
+• Włożyć materiał antywibracyjny pomiędzy pod‐
+stawę i podstawę
+• Jeśli urządzenie ma spawaną podstawę, wypeł‐
+nić betonem miejsca pokazane w Rysunek 25 na
+stronie 397.
+
+UWAGA:
+Nieprawidłowe ustawienie urządzenia może spowo‐
+dować poważne uszkodzenie systemu.
+
+UWAGA:
+Nie napełniać zgiętej metalowej podstawy Rysunek
+26 na stronie 397 betonem.
+
+4.3.2  Lista kontrolna systemu rur
+
+Należy sprawdzić, czy są spełnione poniższe wyma‐
+gania:
+
+UWAGA:
+Jeśli sprzęgło jest niewyrównane, może powodować
+drgania, co może spowodować przedwczesne zuży‐
+cie obrotowych elementów zespołu.
+
+Sprawdzić wyrównanie sprzęgła jednostki po wyko‐
+naniu następujących czynności:
+
+• Transport i instalacja
+• Początkowe uruchomienie
+• Osiągnięcie temperatury roboczej.
+Wykonać kontrolę, nawet jeśli urządzenie zostało do‐
+starczone w całości zmontowane na ramie.
+
+Sprawdzanie wyrównania sprzęgła z linijką i
+szczelinomierzem
+
+• W przypadku instalacji podnośnika ssawnego,
+aby uniknąć kieszeni powietrznych, rura ssawna
+musi mieć narastające nachylenie w kierunku
+zespołu przekraczające 2%.
+• Nominalne średnice systemu rur muszą być co
+najmniej równe nominalnym średnicom portów
+pompy.
+• Podeprzeć instalację rurową niezależnie, aby nie
+obciążać zespołu.
+• Przepłukać układ rur przed podłączeniem ich do
+zespołu, aby usunąć wszelkie pozostałości spa‐
+walnicze, osady i zanieczyszczenia. W razie po‐
+trzeby zainstalować filtr.
+
+Aby uzyskać informacje na temat wyrównywania
+sprzęgła standardowego (A) i sprzęgła z elementem
+dystansowym (B), patrz Rysunek 27 na stronie 397
+
+1. Zdjąć zabezpieczenie sprzęgła.
+
+PL
+
+PRZESTROGA:
+Pozostałości spoin spawalniczych, osad
+kamienny lub inne zanieczyszczenia w
+orurowaniu mogą doprowadzić do usz‐
+kodzenia pompy.
+
+UWAGA:
+Zabezpieczenie może obejmować siatkę drucia‐
+ną (patrz Rysunek 18 na stronie 386) lub blachę
+(patrz Rysunek 19 na stronie 388)
+
+4.3.3  Wyosiowanie sprzęgła
+
+Demontaż zabezpieczenia sprzęgła
+
+PRZESTROGA:
+Eksploatacja pompy bez odpowiednio
+zamontowanej osłony sprzęgła jest za‐
+broniona.
+
+Rodzaj ochrony: siatka druciana
+Informacje na ten temat zawiera Rysunek 18 na stro‐
+nie 386.
+
+1. Odkręcić śruby (2).
+2. Zdjąć siatkę drucianą. (1).
+Rodzaj ochrony: blacha
+Informacje na ten temat zawiera Rysunek 19 na stro‐
+nie 388.
+
+2. Umieścić linijkę na półsprzęgłach.
+3. Zmierzyć odległości pokazane na rysunku.
+4. Obrócić sprzęgło ręcznie w 90° krokach i powtó‐
+rzyć pomiar.
+5. Powtórzyć krok 4 kilka razy: wyrównanie promie‐
+niowe jest prawidłowe, jeśli odległości są takie
+same we wszystkich punktach obwodu, w do‐
+puszczalnym odchyleniu; patrz Tabela 28 na stro‐
+nie 399. W przeciwnym razie patrz Wyrównanie
+sprzęgła z podkładkami na stronie 186.
+6. Sprawdzić odległość między półsprzęgłami za
+pomocą szczelinomierza.
+7. Obrócić sprzęgło ręcznie w krokach 90° i ponow‐
+nie sprawdzić odległość.
+8. Powtórzyć krok 7 kilka razy: osiowe wyrównanie
+jest prawidłowe, jeśli odległości są takie same
+we wszystkich punktach obwodu, w dopuszczal‐
+nym odchyleniu; patrz Tabela 28 na stronie 399.
+W przeciwnym razie Wyrównanie sprzęgła z pod‐
+kładkami na stronie 186.
+9. Zamontować zabezpieczenie sprzęgła.
+• M5 → 3 Nm (27 lbf·in) ± 15%
+• M6 → 5 Nm (44 lbf·in) ± 15%.
+
+1. Odkręcić śruby zamykające półskorup (5).
+2. Odkręcić śruby mocujące górną połowę obudowy
+(3).
+3. Zdjąć górną połowę osłony sprzęgła (1).
+4. Odkręcić śruby mocujące dolną połowę obudowy
+(4).
+5. Zdjąć dolną połowę osłony sprzęgła (2).
+6. Otworzyć i podnieść pierścień podparcia/regula‐
+cji (6).
+
+185

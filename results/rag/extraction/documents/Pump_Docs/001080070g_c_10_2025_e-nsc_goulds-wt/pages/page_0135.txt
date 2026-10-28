@@ -1,0 +1,213 @@
+fi - Alkuperäisen käännöksen
+
+Syy
+Korjaustoimi
+
+Syy
+Korjaustoimi
+
+Virransyöttökaapeli on
+vaurioitunut.
+
+Tarkista kaapeli ja vaihda
+se tarvittaessa.
+
+Kuivakäynnin esto‐
+laite on lauennut.
+
+Tarkista nesteen korkeus säi‐
+liössä tai johdon paine.
+
+Tarkista komponentit ja
+vaihda tarvittaessa.
+
+Sähköpumppu käynnistyy, mutta lämpösuoja lauke‐
+aa vaihtelevan ajan kuluttua.
+
+Lämpösuoja tai sulak‐
+keet eivät sovi mootto‐
+rin virralle.
+
+Syy
+Korjaustoimi
+
+Sähkömoottori on oiko‐
+sulussa.
+
+Tarkista komponentit ja
+vaihda tarvittaessa.
+
+Moottori ylikuormittuu. Tarkista pumpun käyttöol‐
+
+Ota yhteyttä myynti- ja
+huolto-osastoon.
+
+osuhteet ja nollaa suoja.
+
+Pumpussa on vieraita esi‐
+neitä (kiinteitä tai kuituisia
+aineita), jotka ovat jumitta‐
+neet juoksupyörän.
+
+7.4  Sähköpumppu käynnistyy, mutta
+lämpösuoja laukeaa tai sulake palaa hetken
+kuluttua
+
+Pumppu on ylikuormittu‐
+nut, koska pumpattava
+neste on liian tiheää ja vis‐
+koosista.
+
+Syy
+Korjaustoimi
+
+Tarkista todelliset te‐
+hovaatimukset pumpat‐
+tavan nesteen ominai‐
+suuksien mukaan ja ota
+yhteyttä myynti- ja huol‐
+to-osastoon.
+
+Suojaa sähköpaneeli
+lämmönlähteeltä ja suo‐
+ralta auringonvalolta.
+
+Pumppu toimii mutta tuottaa liian vähän tai ei lain‐
+kaan nestettä.
+
+Sähköpaneeli sijaitsee
+erittäin kuumassa paikas‐
+sa tai on alttiina suoralle
+auringonvalolle.
+
+Syy
+Korjaustoimi
+
+Tarkista moottorin toi‐
+mintaolosuhteet.
+
+Virtalähteen jännite ei ole
+moottorin toimintarajojen
+sisällä.
+
+FI
+
+Pumppu on tukkeu‐
+tunut.
+
+Ota yhteyttä myynti- ja huolto-
+osastoon.
+
+Virran vaihe puuttuu.
+Tarkista
+
+• virtalähde
+• sähköliitännät
+
+Alla olevien taulukoiden vianmääritysohjeet on tar‐
+koitettu vain asentajille.
+
+7.2  Pääkytkin on päällä, mutta sähköpumppu
+ei käynnisty
+
+7.5  Sähköpumppu käynnistyy, mutta
+lämpösuoja laukeaa vaihtelevan ajan kuluttua
+
+Syy
+Korjaustoimi
+
+Syy
+Korjaustoimi
+
+Ota yhteyttä paikalliseen
+myynti- ja huoltoedusta‐
+jaan.
+
+Ei virransyöttöä.
+• Palauta virransyöttö.
+• Varmista, että kaikki vir‐
+ransyötön sähkökytken‐
+nät ovat kunnossa.
+
+Pumpussa on vieraita
+esineitä (kiinteitä tai
+kuituisia aineita), jotka
+ovat jumittaneet juok‐
+supyörän.
+
+Pumpussa oleva
+lämpösuoja (jos on)
+on lauennut.
+
+Odota, kunnes pumppu on
+jäähtynyt. Lämpösuoja nol‐
+lautuu automaattisesti.
+
+Pumpun syöttönopeus
+on suurempi kuin tieto‐
+kilvessä ilmoitettu raja.
+
+Nollaa lämpösuoja.
+
+Sulje ON-OFF-venttiilin ala‐
+virtaa osittain, kunnes
+syöttönopeus on sama tai
+pienempi kuin tietokilves‐
+sä määritetyt rajat.
+
+Sähköohjauspanee‐
+lin lämpörele tai
+moottorin suojakyt‐
+kin on lauennut.
+
+Tarkista:
+
+Kuivakäynnin estolai‐
+te on lauennut.
+
+Pumppu on ylikuormit‐
+tunut, koska pumpatta‐
+va neste on liian tiheää
+ja viskoosista.
+
+Tarkista todelliset teho‐
+vaatimukset pumpattavan
+nesteen ominaisuuksien
+mukaan ja vaihda moottori
+vastaavasti.
+
+• nesteen korkeus säiliössä
+tai johdon paine.
+• suojalaite ja sen liitäntä‐
+kaapelit.
+
+Moottorin laakerit ovat
+kuluneet.
+
+Vaihda sulakkeet.
+
+Ota yhteyttä paikalliseen
+myynti- ja huoltoedusta‐
+jaan.
+
+Pumpun tai apupii‐
+rien sulakkeet ovat
+palaneet.
+
+7.6  Sähköpumppu käynnistyy, mutta
+järjestelmän yleissuojaus aktivoituu
+
+Syy
+Korjaustoimi
+
+7.3  Sähköpumppu käynnistyy, mutta
+lämpösuoja laukeaa tai sulake palaa
+välittömästi
+
+Oikosulku sähköjärjes‐
+telmässä.
+
+Tarkista sähköjärjestel‐
+mä.
+
+131

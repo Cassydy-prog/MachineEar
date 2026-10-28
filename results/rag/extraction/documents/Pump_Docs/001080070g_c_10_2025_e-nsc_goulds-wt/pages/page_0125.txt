@@ -1,0 +1,189 @@
+fi - Alkuperäisen käännöksen
+
+Orsak
+Lösning
+
+Orsak
+Lösning
+
+Det finns ett läckage i en eller
+båda av följande komponenter:
+
+Reparera eller byt
+ut felaktig kompo‐
+nent.
+
+• Sugledningen
+• Bottenventilen eller back‐
+ventilen
+
+• Kontrollera att den meka‐
+niska tätningen inte läck‐
+er.
+• Kontrollera sugledningen
+för perfekt åtdragning.
+• Byt ut ventiler som läcker.
+
+Öppna ventilen.
+
+Ett membran har spruckit eller
+så saknas förladdningstryck i
+trycktanken.
+
+Strypningen på leve‐
+ranssidan är alltför
+stor.
+
+Se relevanta in‐
+struktioner i manu‐
+alen för trycktan‐
+ken.
+
+Ta isär och rengör ventilerna.
+
+Ventiler är låsta i
+stängt eller delvis
+stängt läge.
+
+7.11  Pumpen vibrerar och genererar för högt
+buller
+
+Pumpen är igensatt. Kontakta en lokal försälj‐
+
+Orsak
+Lösning
+
+nings- och servicerepresen‐
+tant.
+
+Kontrollera och rengör rören.
+
+Rörsystemet är igen‐
+satt.
+
+Växla två faser på motorns
+kopplingsplint eller i den
+elektriska manöverpanelen.
+
+Pumphjulet roterar i
+fel riktning.
+(trefasversion)
+
+Pumpkavitation
+Minska den nödvändiga flöde‐
+shastigheten genom att del‐
+vis stänga PÅ/AV-ventilen ned‐
+ströms från pumpen. Kontrollera
+pumpens driftsvillkor (exempel‐
+vis höjdskillnad, flödesmotstånd,
+vätsketemperatur) om problemet
+kvarstår.
+
+Kontrollera pumpens drifts‐
+villkor. Om det behövs, gör
+följande:
+
+FI
+
+Motorlagren är
+slitna.
+
+Kontakta en lokal försäljnings-
+och servicerepresentant.
+
+Suglyftet är för högt
+eller så är flödes‐
+motståndet i rörsys‐
+temet på sugsidan
+för stort.
+
+Kontakta en lokal försäljnings-
+och servicerepresentant.
+
+• Minska suglyftet
+• Öka sugledningens diame‐
+ter.
+
+Det finns främ‐
+mande föremål
+inuti pumpen.
+
+Pumphjulet ska‐
+ver på slitringen
+
+Kontakta en lokal försäljnings-
+och servicerepresentant.
+
+7.9  Elpumpen stoppar och roterar sedan i fel
+riktning
+
+Kontrollera kopplingsinriktningen.
+
+Felinriktad kopp‐
+ling
+
+Orsak
+Lösning
+
+Det finns ett läckage i en eller
+båda av följande komponenter:
+
+Flexibla element
+i kopplingen slit‐
+na
+
+Kontrollera och byt ut de relevan‐
+ta delarna om det finns tecken på
+slitage.
+
+Reparera eller
+byt ut felaktig
+komponent.
+
+• Sugledningen
+• Bottenventilen eller backventi‐
+len
+
+För alla övriga situationer, hänvisa till den lokala för‐
+säljnings- och servicerepresentanten.
+
+Det finns luft i sugledningen.
+Avlufta.
+
+7.10  Pumpen startar för ofta
+
+ruumiinvamman sekä omaisuusvahinko‐
+ja ja voi johtaa takuun mitätöitymiseen.
+
+1  Johdanto ja turvallisuus
+
+1.1  Johdanto
+
+Tämän ohjekirjan tarkoitus
+
+HUOMIO:
+Talleta tämä ohjekirja tulevaa käyttöä varten ja pidä
+se käsillä yksikön sijoituspaikassa.
+
+Tämän ohjekirjan tarkoituksena on antaa tarpeellista
+tietoa seuraavista asioista:
+
+1.2  Turvallisuustermit ja turvasymbolit
+
+Tietoa turvasanomista
+
+• Asennus
+• Käyttö
+• Huolto
+
+On ehdottoman tärkeää, että luet huolellisesti varoi‐
+tukset ja turvallisuusmääräykset sekä ymmärrät ja
+noudatat niitä, ennen kuin käsittelet tuotetta. Nämä
+on julkaistu estämään seuraavat vaarat:
+
+VAROITUS:
+Lue tämä ohjekirja huolellisesti ennen
+tuotteen asentamista ja käyttämistä.
+Tuotteen virheellinen käyttö voi aiheuttaa
+
+121

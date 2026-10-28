@@ -1,0 +1,230 @@
+is - Þýðing á upprunalegu
+
+Efnisregla
+Efnishús/hjól
+Staðall/Valfrj‐
+
+álst
+
+NN
+Ryðfrítt stál/
+
+Staðall
+
+• Notið ekki þessa dælu til að meðhöndla vökva
+með slípandi, föstum eða trefjaríkum efnum.
+• Ekki nota dæluna við flæðishraða sem fara yfir
+þau gildi sem tilgreind eru á upplýsingaplötunni.
+
+Ryðfrítt stál
+
+Sérstök notkun
+
+RR
+Tvöfaldur/Tvöf‐
+
+Valfrjálst
+
+aldur
+
+Hafa skal samband við viðkomandi sölu- og þjón‐
+ustudeild í eftirfarandi tilvikum.
+
+3.6  Vélarþétting
+Ójöfn stök vélarþétting samkv. EN 12756, útgáfa K.
+
+3.7  Notkunarmörk
+
+Hámarks vinnuþrýstingur
+
+• Ef eðlisþyngd og/eða seigjugildi dæluvökvans
+verður meira en í vatni, t.d. vatni með glýkóli; þar
+eð þá getur þurft aflmeiri vél.
+• Ef dæluvökvinn er meðhöndlaður með efnablönd‐
+um (til dæmis mýktur, afjónaður, steinefni fjar‐
+lægð úr honum o.s.frv.).
+• Allar aðstæður sem víkja frá þeim sem lýst er og
+tengjast eðli vökvans.
+
+3.2  Dæla gildi
+
+Mynd 4 á blaðsíðu 367 sýnir hámarks vinnuþrýsting
+eftir gerð dælu og hitastigi í dæluvökvanum.
+P1max + Pmax≤ PN
+
+P1max
+Hámarks inntaksþrýstingur
+
+Útskýringar á gildisreglu fyrir dælu og eitt dæmi er
+að finna í Mynd 2 á blaðsíðu 0
+.
+
+Pmax
+Hámarksþrýstingur frá dælu
+
+3.3  Merkiplata
+
+PN
+Hámarks vinnuþrýstingur
+
+Hitabil vökva
+
+Mynd 4 á blaðsíðu 367 sýnir hitasvið vinnslunnar.
+Varðandi sérþarfir skal hafa samband við sölu- og
+þjónustufulltrúa.
+
+Merkiplatan er staðsett á burðarfestingunni. Merkip‐
+latan sýnir helstu tæknilýsingar vörunnar. Fyrir nánari
+upplýsingar, sjá Mynd 1 á blaðsíðu 345.
+Merkiplatan veitir upplýsingar í sambandi við dæluh‐
+jól og húsefni, vélarþéttingu og efni þeirra. Fyrir nán‐
+ari upplýsingar, sjá Mynd 3 á blaðsíðu 363.
+
+Hámarks fjöldi gangsetninga á klst.
+
+IS
+
+IMQ eða TUV eða IRAM eða önnur merki
+(eingöngu fyrir rafmagnsdælur)
+
+18,5
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+Rafmagnsörygggisvottun á vörur með merki um
+slíkt, á aðeins við um rafknúna dælu, ef ekki er annað
+tekið fram.
+
+60
+40
+30
+24
+16
+8
+4
+
+Gang
+setn‐
+ingar
+á klst.
+
+Hávaðastig
+
+3.4  Dælulýsing
+• Stærðir tengipunkta samkvæmt EN 733 (teg‐
+undum 32-125…-200; 40-125…-250; 50-125…-250;
+65-125…-315;80-160…-315; 100-200…-400;
+125-250…-400; 150-315…-400).
+• Dæluhús með aftanútdraganlegu millistykki.
+
+Fyrir hljóðþrýstingi dælu sem er útbúin venjulegu
+staðalmótor sjá Tafla 9 á blaðsíðu 368.
+Fyrir hljóðstigsþrýsting frá dælu án mótors, sjá Tafla
+10 á blaðsíðu 372.
+
+3.5  Efni
+Málmhlutar dælunnar sem komast í snertingu við
+vökva eru gerðir úr eftirfarandi:
+
+4  Uppsetning
+
+Efnisregla
+Efnishús/hjól
+Staðall/Valfrj‐
+
+álst
+
+Varúðarráðstafanir
+
+CC
+Steypujárn/
+
+Staðall
+
+Steypujárn
+
+AÐVÖRUN:
+
+CB
+Steypujárn/
+
+Staðall
+
+Brons
+
+Staðall
+
+CS
+Steypujárn/
+Ryðfrítt stál
+
+Staðall
+
+• Fylgið slysavarnarreglum sem eru í
+gildi.
+• Notið viðeigandi búnað og varnir.
+• Takið ávallt mið af lögum, reglugerð‐
+um og stöðlum á hverjum stað varð‐
+andi val á uppsetningarstað ásamt
+pípulögnum og rafmagnstengingum.
+
+CN
+Steypujárn/
+Ryðfrítt stál
+
+Rafmagnshætta:
+
+DC
+Þanþolið járn/
+
+Staðall
+
+Steypujárn
+
+DB
+Þanþolið járn/
+
+Staðall
+
+Brons
+
+Nafnþvermál
+Þanþolið járn/
+
+Staðall
+
+• Tryggið að allar tengingar séu fram‐
+kvæmdar af löggiltum tæknimönnum
+og í samræmi við gildandi reglur.
+• Áður en farið er að vinna við eining‐
+una skal tryggja að hún og stýritaflan
+séu einangruð frá rafmagnsinntaki og
+
+Ryðfrítt stál
+
+135

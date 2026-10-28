@@ -1,0 +1,66 @@
+Declarations of Conformity
+
+•  Maschinenrichtlinie 2006/42/EG und nachfolgende Ergänzung (ANHANG II - natürliche oder juristische, zum Erstellen der 
+technischen Unterlagen autorisierte Person: Xylem Service Italia S.r.l.), 
+•  Ökodesign 2009/125/EG und nachfolgende Änderungen, Verordnung (EU) Nr. 547/2012 und nachfolgende Änderungen 
+(Wasserpumpe, wenn MEI gekennzeichnet) 
+und technische Normen 
+•  EN 809:1998+A1:2009. 
+•  EN 16480:2021. 
+Zusätzliche Informationen: 
+Optimyze: falls mit der Pumpe geliefert, siehe die mit der Überwachungseinrichtung gelieferte Dokumentation (Funkanlagen 
+2014/53/EU und nachfolgende Änderungen; Beschränkung der Verwendung bestimmter gefährlicher Stoffe in Elektro- und 
+Elektronikgeräten 2011/65/EU und nachfolgende Änderungen, einschließlich der Richtlinie (EU) 2015/863).
+
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Geschäftsführer
+
+Die Konformitätserklärung/-en ist/sind ungültig, wenn sie getrennt vom restlichen Text des Xylem-Dokuments mit der Nummer 
+001080070G verwendet wird/werden. 
+ 
+Declaración de conformidad 
+Consulte la declaración específica relativa al marcado del producto. 
+ 
+Electrobomba 
+ 
+Declaración de conformidad de la UE (traducción del original) 
+ 
+Xylem Service Italia S.r.l., con sede en Vía Vittorio Lombardi, 14 - 36075 Montecchio Maggiore VI - Italia, por la presente declara 
+que el producto 
+NSCC… o NSCF… electrobomba (consulte la etiqueta en la última página) 
+cumple la provisiones relevantes de las siguientes Directivas europeas 
+•  Maquinaria 2006/42/CE y subsiguientes enmiendas (ANEXO II: persona natural o legal autorizada para compilar el archivo 
+técnico: Xylem Service Italia S.r.l.), 
+•  Directiva Eco-design 2009/125/CE y subsiguientes enmiendas, Reglamento (UE) 2019/1781 y subsiguientes enmiendas (motor 
+eléctrico si está marcado IE2, IE3 o IE4), Reglamento (UE) N.° 547/2012 y subsiguientes enmiendas (bomba de agua si está 
+marcado MEI) 
+y las normas técnicas 
+•  EN 809:1998+A1:2009, EN 60204-1:2018. 
+•  EN 60034-30:2009, EN 60034-30-1:2014, EN 60034-2-1:2007, EN 60034-2-1:2014, EN 16480:2021. 
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Director gerente
+
+Declaración de conformidad UE (n.° 01) 
+1. EMCD - Modelo del aparato/producto: NSCC… o NSCF… (consulte la etiqueta en la última página) 
+    RoHS - Identificación única del AEE: NSCC… o NSCF…  
+2. Nombre y dirección del fabricante: 
+ Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ 36075 Montecchio Maggiore VI 
+ Italy 
+3. Esta declaración de conformidad se emite bajo la responsabilidad única del fabricante. 
+4. Objeto de la declaración: electrobomba. 
+5. El objeto de la declaración antes descrito está de acuerdo con la legislación de armonización relevante de la Unión Europea 
+•  Directiva 2014/30/UE del 26 de febrero de 2014 y subsiguientes enmiendas (compatibilidad electromagnética).  
+•  Directiva 2011/65/UE de 8 de junio de 2011 y posteriores modificaciones, incluida la directiva (UE) 2015/863 (restricciones a la 
+utilización de determinadas sustancias peligrosas en aparatos eléctricos y electrónicos).
+
+419

@@ -1,0 +1,167 @@
+sv - Översättning av orginal instruktioner
+
+Kontrollista för motorn
+
+VARNING!:
+
+• Gällande lokala föreskrifter upphäver följande
+specifika krav.
+• Kontrollera de lokala förordningar som gäller när
+det gäller brandbekämpningssystem (brandpos‐
+ter och/eller sprinkler).
+
+Kontrollista för elektriska anslutningar
+
+Kontrollera att följande krav är uppfyllda:
+
+• Läs driftsanvisningarna för att ta reda
+på om en skyddsenhet medföljer om
+en annan motor än standardmotorn
+används.
+• Om motorn är utrustad med automa‐
+tiska termoskydd måste du observe‐
+ra risken för oväntade starter i an‐
+slutning till överlast. Använd inte så‐
+dana motorer för brandsläckningstill‐
+ämpningar.
+
+• De elektriska kablarna är skyddade mot hög tem‐
+peratur, vibrationer och kollisioner.
+• Strömförsörjningskabeln är försedd med:
+– Ett kortslutningsskydd
+– En isolerande huvudfrånskiljare med ett kon‐
+
+taktavstånd på minst 3 mm
+
+OBS!:
+
+Kontrollista för den elektriska manöverpane‐
+len
+
+• Använd endast dynamiskt balanserade motorer
+med en halvstor kil i axelförlängningen (IEC
+60034-14) och med normal vibrationshastighet
+(N).
+• Elnätets spänning och frekvens ska stämma med
+specifikationerna på märkskylten.
+
+OBS!:
+Manöverpanelen måste matcha märkdata för den
+elektriska pumpen. Felaktiga kombinationer gör att
+motorskyddet inte kan garanteras.
+
+Kontrollera att följande krav är uppfyllda:
+
+I allmänhet kan motorer köras under följande spän‐
+ningstoleranser i elnätet:
+
+Frekvens Hz
+Fas ~
+UN [V] ± %
+
+SV
+
+50
+1
+220 – 240 ± 6
+
+• Manöverpanelen måste skydda motorn mot över‐
+belastning och kortslutning.
+• Installera korrekt överbelastningsskydd (termore‐
+lä eller motorskydd).
+
+3
+230/400 ± 10
+
+Pumptyp
+Skydd
+
+400/690 ± 10
+
+– Inbyggt termo-am‐
+
+Enfaspump standard
+elektrisk ≤ 2,2 kW
+
+60
+1
+220 – 230 ± 6
+
+3
+220/380 ± 5
+
+380/660 ± 10
+
+perometriskt skydd
+(motorskydd) med
+automatisk åter‐
+ställning
+– Kortslutningsskydd
+
+(måste tillhandahål‐
+las av installatö‐
+ren)19
+
+Använd kabel enligt reglerna med 3 kablar (2+ jorda‐
+de) för enfasversioner och med 4 kablar (3+ jordade)
+för trefasversion.
+
+4.3  Installera pumpen
+
+Trefasig elektrisk
+pump20
+– Termoskydd (måste
+
+4.3.1  Mekanisk installation
+
+tillhandahållas av
+installatören)
+– Kortslutningsskydd
+
+Installationsområde
+
+(måste tillhandahål‐
+las av installatören)
+
+Installera enheten på en betong- eller metallfunda‐
+mentplatta som är tillräckligt stark för att säkerställa
+permanent och fast stöd. Följ kraven i Pumpens pla‐
+cering på sidan 113.
+
+Installation på betongfundament
+
+• Kontrollpanelen måste vara utrustad med ett
+skyddssystem för torrkörning som tryckgivare,
+flottör, sonder eller annan lämplig enhet är kopp‐
+lad till.
+• Följande enheter rekommenderas för användning
+på pumpens sugsida:
+
+– När vätskan pumpas från ett vätskesystem,
+
+Krav på fundament
+
+använd en tryckgivare.
+– När vätskan pumpas från en förvaringstank
+
+eller reservoar, använd en flottör eller sonder.
+• När termoreläer används, rekommenderas reläer
+som är känsliga för fasfel.
+
+• Betongen måste ha en kompressionsbeständig‐
+het på C12/15 och uppfylla kraven för exponer‐
+ingsklass XC1 enligt EN 206-1
+• Storlekarna måste vara lämpliga för storleken på
+enhetens stödplatta
+• Fundamentets vikt måste vara ≥ 1,5 gånger enhe‐
+tens vikt (≥ 5 gånger enhetens vikt om en tystare
+drift krävs)
+
+19
+säkringar aM (motorstart) eller magnet-termisk brytare med kurva C och Icn ≥ 4,5 kA eller annan
+motsvarande enhet.
+20
+termoreläet med utlösningsklass 10A + säkringar aM (motorstart) eller motorskyddsmagnet-termobryta‐
+re med startklass 10A.
+
+115

@@ -1,0 +1,78 @@
+10. Impeller Trimming
+
+It is available on DOE’s Industrial Technologies 
+Program BestPractices Web site (www.eere.energy.
+gov/industry/bestpractices/motors.html) or through 
+the EERE Information Center at 877-337-3463.
+
+example, a 2% reduction in the impeller diameter 
+creates about a 2% reduction in flow, a 4% 
+reduction in head, and an 8% reduction in power. 
+This relationship should be used as an approxi-
+mation for small changes. The final result of 
+trimming depends on the system curve and pump 
+performance changes
+
+ Limitations
+Trimming an impeller changes its operating 
+efficiency, and the nonlinearities of the affinity 
+laws with respect to impeller machining 
+complicate predictions of a pump’s performance. 
+Consequently, impeller diameters are rarely 
+reduced below 70% of their original size.
+
+ Benefits of Impeller Trimming
+A principal benefit of reducing the size of the 
+impeller is the resulting decrease in operating and 
+maintenance costs. Less fluid energy is wasted in 
+the bypass lines and across throttle valves, or 
+dissipated as noise and vibrations through the 
+system. Energy savings are roughly proportional 
+to the cube of the diameter reduction. This is 
+shown in the fluid power equation discussed in 
+Section 1 (page 9):
+
+Fluid power  =  HQ  (s.g.)
+
+3,960
+
+In some pumps, impeller trimming increases the 
+pump’s required net positive suction head 
+(NPSHR). To prevent cavitation, a centrifugal 
+pump must operate with a certain amount of 
+pressure at its inlet, the NPSHR. To reduce the 
+risk of cavitation, the effect of impeller trimming 
+on NPSHR should be evaluated using the manu-
+facturer’s data over the full range of operating 
+conditions. For more on NPSH, see the fact sheet 
+in this section titled Centrifugal Pumps.
+
+The motor power required to generate this fluid 
+power is higher because of motor and pump 
+inefficiencies.
+
+In addition to energy savings, impeller trimming 
+also reduces wear on system piping, valves, and 
+piping supports. Flow-induced piping vibrations 
+tend to fatigue pipe welds and mechanical joints. 
+Over time, welds crack and joints loosen, causing 
+leaks and downtime for repairs.
+
+Excessive fluid energy is also not desirable from a 
+design perspective. Pipe supports are usually 
+spaced and sized to withstand static loads from the 
+weight of the pipe and the fluid, pressure loads 
+from the internal system pressure, and—in 
+thermally dynamic applications—expansion 
+caused by changes in temperature. The vibrations 
+created by excessive fluid energy provide a load 
+that the system is not designed to handle and lead 
+to leaks, downtime, and additional maintenance.
+
+For a practical example of how impeller trimming 
+lowers maintenance requirements, see the case 
+study titled Optimized Pump Systems Save 
+Coal Preparation Plant Money and Energy.
+
+50
+Improving Pumping System Performance

@@ -1,0 +1,156 @@
+en - Original instructions
+
+a) Connect the ground (earth) lead.
+
+Make sure that the ground (earth) lead is lon‐
+ger than the phase leads.
+b) Connect the phase leads.
+
+3. Mount the terminal box cover.
+
+NOTICE:
+Tighten the cable glands carefully to ensure pro‐
+tection against cable slipping and humidity enter‐
+ing the terminal box.
+
+7. Turn the coupling by hand in 90° steps and check
+the distance again.
+8. Repeat step 7 several times: the axial alignment
+is correct if the distances are the same at all
+points around the circumference, within the per‐
+missible deviation; see Table 28 on page 399.
+Otherwise, Alignment of the coupling with shims
+on page 21.
+9. Refit the coupling protection.
+• M5 → 3 Nm (27 lbf·in) ± 15%
+• M6 → 5 Nm (44 lbf·in) ± 15%.
+
+EN
+
+Coupling alignment check with laser aligner
+
+4. If the motor is not equipped with automatic reset
+thermal protection, then adjust the overload pro‐
+tection according to the list below.
+
+– If the motor is used with full load, then set the
+
+You can check the alignment of the coupling with
+a laser aligner: refer to the aligner's instruction man‐
+ual.
+
+Alignment of the coupling with shims
+
+value to the nominal current value of electric
+pump (data plate)
+– If the motor is used with partial load, then set
+
+the value to the operating current (for exam‐
+ple measured with a current pincer).
+– If the pump has a star-delta starting system,
+
+See Figure 17 on page 384 for information on where
+to attach the pump and motor to the base and where
+to insert the supplied shims.
+
+then adjust the thermal relay to 58% of the
+nominal current or operating current (only for
+three-phase motors).
+
+5  Commissioning, startup, operation,
+and shutdown
+
+Precautions
+
+1. Unscrew the bolts securing the pump and motor
+to the base.
+2. Slightly lift the pump and motor.
+3. Insert the shims between the base and the feet
+of the pump and motor, at one or more of the
+indicated points.
+4. Place the pump and motor on the base, aligning
+the bolt holes.
+5. Tighten the bolts.
+6. Repeat the coupling alignment check.
+
+WARNING:
+Physical and thermal hazards
+
+Coupling protection installation
+
+• Always wear personal protective
+equipment.
+• Check that the coupling protection is
+installed.
+
+CAUTION:
+Never operate the pump without the cou‐
+pling guard correctly installed.
+
+WARNING:
+
+Type of protection: wire mesh
+For information, see Figure 18 on page 386.
+
+• Make sure that the drained liquid
+does not cause damage or injuries.
+• The motor protectors can cause the
+motor to restart unexpectedly. This
+could result in serious injury.
+
+CAUTION:
+
+1. Reposition the protection (1) correctly so that it
+surrounds the pump shaft outlet end and the sup‐
+port ring (3) on the motor side.
+2. Tighten the screws (2).
+Type of protection: sheet metal
+For information, see Figure 19 on page 388.
+
+• The outer surfaces of the pump and
+motor can exceed 40ºC (104ºF) dur‐
+ing operation.
+• Do not put any combustible material
+near the pump.
+
+NOTICE:
+
+1. Position the lower half shell of the coupling pro‐
+tection (2).
+2. Tighten the fixing screws of the lower half shell
+(4).
+3. Open and insert the support/adjustment ring (6)
+with the housing downwards and axially press it
+onto the motor.
+4. Position the upper half shell of the coupling pro‐
+tection (1).
+5. Tighten the fixing screws of the upper half shell
+(3).
+6. Tighten the closing screws of the half shells (5).
+
+4.3.4  Electrical installation
+
+1. Remove the screws of the terminal box cover.
+
+2. Connect and fasten the power cables according
+to the applicable wiring diagram.
+
+• Never operate the pump below the minimum rat‐
+ed flow, when dry, or without prime.
+• Never operate the pump with the delivery ON-OFF
+valve closed for longer than a few seconds.
+• Never operate the pump with the suction ON-OFF
+valve closed.
+• Do not expose an idle pump to freezing condi‐
+tions. Drain all liquid that is inside the pump.
+Failure to do so can cause liquid to freeze and
+damage the pump.
+• The sum of the pressure on the suction side
+(mains, gravity tank) and the maximum pressure
+that is delivered by the pump must not exceed
+
+For wiring diagrams, see Figure 21 on page 392.
+The diagrams are also available on the back of
+the terminal box cover.
+
+21

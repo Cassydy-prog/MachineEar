@@ -1,0 +1,106 @@
+9. Pony Pumps
+
+Tank Inlet Lines
+
+High-Level Switch
+
+Motor  
+Controller
+
+maintenance cost savings. A simple economic 
+analysis can demonstrate the cost of current power 
+consumption and maintenance intervals in com-
+parison to the capital cost and projected savings 
+associated with operating a smaller, more efficient 
+pump.
+
+Low-Level Switch
+
+Motor
+
+Discharge
+
+Line
+
+Pump
+
+Suction Line
+
+Figure 16. Typical Tank Level Control
+
+Energy-saving alternatives to a pony pump include 
+reducing the impeller size, replacing the existing 
+pump/motor assembly with a smaller one, and 
+installing an adjustable speed drive (ASD) on the 
+pump motor. Depending on the requirements of 
+the application, impeller adjustments and the 
+smaller pump/motor assembly could compromise 
+the capacity of the existing pump during worst-
+case situations. Although ASDs in general allow a 
+pump to run at lower capacity, variable frequency 
+drives (VFDs) are more suitable for varying 
+demand rather than for continuously low demand.
+
+ Costs of High Flow Velocity
+An additional penalty for using an oversized 
+pump is the added friction losses which occur 
+during pump operation. Higher flow rates create 
+higher flow velocities which, in turn, lead to 
+higher friction loss. The relationship between 
+velocity and friction loss is provided by the 
+Darcy-Weisbach equation:
+
+hf  =  f   L   V2
+
+D   2g
+
+where
+
+The VFDs themselves introduce efficiency losses. 
+If normal operation is far below the full load 
+rating of the motor for long operating periods, the 
+cost of these losses can be considerable. A VFD 
+can also introduce harmonics in the motor wind-
+ings, which increases the winding temperature. 
+Over an extended period of time, this increase in 
+the motor winding temperature accelerates the 
+breakdown of insulation. For more information on 
+VFDs, see the fact sheet in this section titled 
+Controlling Pumps with Adjustable Speed Drives.
+
+hf 	=	head loss
+          f	 =	pipe friction coefficient
+        V	 =	fluid velocity
+         g	 =	gravitational constant
+        D	 =	inner diameter of the pipe
+        L	 =	length of pipe.
+
+The V2 term shows that pressure loss through a 
+pipe is proportional to the square of the fluid 
+velocity. Consequently, given the same size pipe, 
+a flow rate that is two times higher endures four 
+times more friction loss. This means that it costs 
+much more to pump a gallon of fluid at a higher-
+than-necessary flow rate.
+
+A project undertaken by the city of Milford, 
+Connecticut, provides a practical example of the 
+successful use of a pony pump. By adding a pony 
+pump to the city’s Welches Point Sewage Lift 
+station, Milford realized substantial energy savings 
+and reduced maintenance costs. This project is 
+described in a case study, Saving Energy at a 
+Sewage Lift Station Through Pump System 
+Modifications, available on DOE’s Industrial 
+Technologies Program BestPractices Web site 
+(www.eere.energy.gov/industry/bestpractices/
+motors.html) or from the EERE Information 
+Center at 877-337-3463.
+
+ Recovering the Costs of Installing 
+a Smaller Pump
+Installing a smaller pump to run parallel to an 
+existing one can provide substantial energy and
+
+48
+Improving Pumping System Performance

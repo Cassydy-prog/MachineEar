@@ -1,0 +1,167 @@
+pt - Tradução do original
+
+5.1  Encher a bomba
+
+cabo impedir a entrada de humidade na caixa de
+terminais.
+
+Para obter informações sobre as ligações adicionais
+da bomba, consulte Figura 22 na página 392 .
+
+4. Se o motor não estiver equipado com protecção
+térmica de reposição automática, ajuste a pro‐
+tecção de sobrecarga de acordo com a lista abai‐
+xo.
+
+Instalações com nível de líquido acima da
+bomba (cabeça de sucção)
+
+– Se o motor for utilizado com carga completa,
+
+Para obter uma ilustração relativa à localização dos
+tampões da bomba, consulte Figura 23 na página
+394 .
+
+defina o valor para o da corrente nominal da
+bomba eléctrica (placa de dados)
+– Se o motor for utilizado com carga parcial,
+
+1. Feche a válvula de ligar-desligar localizada a ju‐
+sante da bomba.
+
+defina o valor para a corrente de funciona‐
+mento (por exemplo, medido com uma pinça
+de corrente).
+– Se a bomba tiver um sistema de arranque
+
+2. Retire o tampão de enchimento (3) ou do indica‐
+dor (1) e abra a válvula limitadora até que o cau‐
+dal da água saia pelo orifício.
+
+a) Feche o tampão de enchimento (3) ou do indi‐
+
+estrela-delta, ajuste o relé térmico para 58%
+da corrente nominal ou corrente de funciona‐
+mento (apenas para motores trifásicos).
+
+cador (1).
+
+PT
+
+Instalações com nível de líquido abaixo da
+bomba (cabeça de sucção)
+
+5  Colocação em funcionamento,
+arranque, operação e desligamento
+
+Precauções
+
+Para obter uma ilustração relativa à localização dos
+tampões da bomba, consulte Figura 24 na página
+395 .
+
+1. Todos os sistema de tubagem vazio:
+
+ADVERT.:
+Perigos físicos e térmicos
+
+a) Abra a válvula de ligar-desligar localizada a
+
+montante da bomba.
+b) Retire o tampão de enchimento (3) e do indi‐
+
+• Utilizar sempre equipamento de pro‐
+teção individual.
+• Verifique se a protecção do acopla‐
+mento está instalada.
+
+ADVERT.:
+
+cador (1). Utilize um funil para encher a bom‐
+ba através do orifício de enchimento até o
+caudal de água sair pelo orifício.
+c) Aperte o tampão de enchimento (3) e do indi‐
+
+cador (1).
+
+2. Sistema de tubagem de descarga cheio:
+
+a) Abra a válvula ligar-desligar localizada acima
+
+• Certifique-se de que o líquido drena‐
+do não causa danos nem lesões.
+• Os protectores do motor podem fazer
+com que o motor arranque inespera‐
+damente. Esta situação pode provo‐
+car lesões graves.
+
+da bomba e abra a válvula de ligar-desligar a
+montante.
+b) Retire o tampão do indicador (1) até o caudal
+
+CUIDADO:
+
+de água sair por este orifício.
+c) Aperte o tampão do indicador (1).
+
+• As superfícies exteriores da bomba
+e do motor podem ultrapassar 40ºC
+(104ºF) durante o funcionamento.
+• Não coloque material inflamável pró‐
+ximo da bomba.
+
+5.2  Verifique a direcção da rotação (motor
+trifásico)
+Siga este procedimento antes do arranque.
+
+AVISO:
+
+1. Localize as setas no adaptador ou a tampa da
+ventoinha do motor para determinar a direcção
+de rotação correcta.
+
+2. Inicie o motor.
+
+3. Verifique rapidamente a direcção da rotação
+através da protecção de acoplamento ou através
+da tampa da ventoinha do motor.
+
+4. Pare o motor.
+
+5. Se a direcção da rotação for incorrecta, proceda
+do seguinte modo:
+
+a) Desligue a fonte de alimentação.
+b) Na placa de terminais do motor ou no pai‐
+
+nel de controlo eléctrico, troque a posição de
+dois dos três fios do cabo de alimentação.
+
+Para os diagramas de ligações, consulte Figu‐
+ra 21 na página 392 .
+c) Verifique novamente a direcção da rotação.
+
+5.3  Iniciar a bomba
+
+• Nunca ponha a bomba em funcionamento em
+condições abaixo do fluxo nominal mínimo, sem
+estar submersa ou sem escorvamento.
+• Nunca coloque a bomba a funcionar com a vál‐
+vula de fornecimento LIGAR-DESLIGAR fechada
+durante mais de alguns segundos.
+• Nunca coloque a bomba a funcionar com a vál‐
+vula de sucção LIGAR-DESLIGAR fechada.
+• Não exponha uma bomba inactiva a baixas tem‐
+peraturas. Drene todo o líquido que estiver dentro
+da bomba. Qualquer falha neste procedimento
+pode causar o congelamento do líquido e danos
+na bomba.
+• A soma da pressão no lado da sucção (canaliza‐
+ções de água, tanque de gravidade) e a pressão
+máxima que é fornecida pela bomba não deve
+exceder a pressão máxima de trabalho permitida
+(NP de pressão nominal) para a bomba.
+• Não utilize a bomba se ocorrer cavitação. A cavi‐
+tação pode danificar os componentes internos.
+
+71

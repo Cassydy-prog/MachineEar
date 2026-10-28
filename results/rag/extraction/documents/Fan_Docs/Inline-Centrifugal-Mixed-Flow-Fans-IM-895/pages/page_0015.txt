@@ -1,0 +1,60 @@
+IM-895
+
+Structural Maintenance (refer to safety section)
+All structural components or devices used to support or attach the fan to a structure should be checked at regular intervals. Vibration 
+isolators, bolts, foundations, etc., are all subject to failure from corrosion, erosion and other causes. Improper mounting can lead to 
+poor operation characteristics or fan fatigue and failure. Check metallic components for corrosion, cracks or other signs of stress. 
+Concrete should be checked to ensure the structural integrity of the foundation.
+
+Duct Connections 
+(refer to safety section)
+The fan support structure is normally not designed to carry 
+loads imposed by the weight of ducts, silencers, stacks, 
+etc. Supporting these loads on the fan can cause housing 
+distortion and may cause performance or vibration problems. 
+Use of flexible connections is recommended for all fans and 
+imperative when using vibration isolation or handling high 
+temperature gases.
+
+Ceiling Mounted Mixed Flow Fan
+
+with Flexible Duct Connectors
+
+Twin City Fan & Blower
+
+Serial Number & Fan Type
+
+Minneapolis, MN           www.tcf.com
+
+Twin City Fan
+
+model #
+
+The serial number and fan type can be found on our permanent 
+nameplate of the fan.
+
+serial #
+
+09-265399-1-1
+QSL
+
+volts
+phase
+hz
+
+hp
+encl.
+
+tag
+
+NAMEPLT-TCF01SS
+
+Parts & Service
+
+888-444-4823  |  fieldservice@tcf.com  |  parts@tcf.com
+
+Twin City Fan
+
+15
+
+Installation, Operation & Maintenance Manual

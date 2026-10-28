@@ -1,0 +1,78 @@
+Belt Guards
+
+Fan
+Z
+W
+
+X/Y
+
+Motor position and fan rotation are
+determined from drive side
+
+Greenheck offers 
+various types of 
+customized belt guards 
+dependent upon fan 
+model, arrangement 
+and motor position. 
+Motor position is 
+determined from the 
+drive side.
+
+If the belt guard is not factory mounted or was not 
+supplied by manufacturer, then it must be field mounted. 
+Brackets and mounting hardware are the responsibility 
+of the installer. The figures below illustrate suggested 
+attachment points for belt guard mounting bracket 
+locations. These locations vary with motor mounting 
+position, arrangement, and fan type. The bearing 
+supports and fan structure are used in most instances 
+and when the motor is not mounted to the fan itself, a 
+bracket should also be located near it. This information 
+is intended only as a guide and actual field conditions 
+may dictate another mounting location for the guard 
+brackets. Refer to local codes for securing guarding.
+
+The various types of belt guards are shown in 
+illustrations. If the guard is not purchased from 
+Greenheck, they must be supplied by the installer  
+or owner.
+
+Motor Position: X/Y
+
+Motor Position: W/Z
+
+Arrangement - 1, 3
+
+Arrangement - 1, 3
+
+Typical Belt Guard
+
+Motor Position: L/R
+
+Arrangement 9
+
+Suggested Belt Guard Attachment Points
+
+(shaded gray)
+
+Electrical Connections
+
+Industrial Process – Arr. 1 & 9
+
+Before electrical connections are made, the supply 
+voltage, phase and ampere capacity must be checked 
+for compatibility with the fan motor. In addition, the 
+supply wiring must be properly fused and conform to 
+local and national electrical codes. If the unit is supplied 
+with a safety disconnect switch, ensure proper wiring 
+to the fan motor. Be sure the disconnect is switched to 
+the “OFF” position before connecting supply wires. If 
+no disconnect is supplied, ensure the supply wire is not 
+live before connection. Supply wires are then connected 
+to the optional safety disconnect switch (if supplied) or 
+motor.
+
+Industrial Process Fans
+8
+®

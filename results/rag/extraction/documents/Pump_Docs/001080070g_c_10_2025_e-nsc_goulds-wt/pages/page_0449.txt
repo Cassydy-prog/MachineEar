@@ -1,0 +1,63 @@
+Declarations of Conformity
+
+Управляващ Директор 
+oб. 00 
+ 
+Декларацията(ите) за съответствие не е(са) валидна(и), ако се използва(т) отделно от останалата част от текста на 
+документа с код на Xylem 001080070G. 
+ 
+Izjave o skladnosti 
+Glejte zadevno deklaracijo oznak na izdelku. 
+ 
+Električna črpalka
+
+ES-izjava o skladnosti (preod) 
+ 
+Xylem Service Italia S.r.l. s sedežem na naslovu Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italy izjavlja, da je 
+izdelek 
+NSCC… ali NSCF… električna črpalka (glejte nalepko na zadnji strani) 
+izpolnjuje ustrezne določbe naslednjih evropskih direktiv 
+•  Direktiva o strojih 2006/42/ES in nadaljnje spremembe (Priloga II – fizična ali pravna oseba, pooblaščena za sestavo tehnične 
+dokumentacije: Xylem Service Italia S.r.l.), 
+•  Okoljsko primerna zasnova 2009/125/ES in nadaljnje spremembe, Uredba (EU) 2019/1781 in nadaljnje spremembe (električni 
+motor, če je označen z IE2 ali IE3 ali IE4), Uredba (EU) št. 547/2012 in nadaljnje spremembe (vodna črpalka, če je označena z 
+MEI) 
+in tehnične standarde 
+•  EN 809:1998+A1:2009, EN 60204-1:2018.  
+• EN 60034-30:2009, EN 60034-30-1:2014, EN 60034-2-1:2007, EN 60034-2-1:2014, EN 16480:2021. 
+Montecchio Maggiore, 25/03/2025
+
+Alessio Vendraminelli
+
+Glavni direktor 
+rev. 00 
+ 
+Izjava EU o skladnosti (št. 01) 
+ 
+1. EMCD - Model opreme/izdelek: NSCC… ali NSCF… (glejte nalepko na zadnji strani) 
+    RoHS – Edinstvena identifikacija EEO: NSCC… ali NSCF…  
+2. Ime in naslov proizvajalca: 
+ Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ 36075 Montecchio Maggiore VI 
+ Italija 
+3. Za izdajo te izjave o skladnosti je odgovoren izključno proizvajalec. 
+4. Predmet izjave: električna črpalka. 
+5. Predmet izjave, ki je opisan zgoraj, je skladen z ustrezno usklajevalno zakonodajo Unije 
+•  Direktiva 2014/30/EU z dne 26. februar 2014 in kasnejše spremembe (elektromagnetna združljivost).  
+•  Direktiva 2011/65/EU z dne 8. junija 2011 in kasnejše spremembe, vključno z Direktiva (EU) 2015/863 (omejevanje uporabe 
+nekaterih nevarnih snovi v električni in elektronski opremi). 
+6. Sklicevanja na uporabljene usklajene standard ali sklicevanja na druge tehnične podatke v zvezi s skladnostjo, ki je navedena v 
+izjavi: 
+• EN 61000-3-3:2013+A1:2019+A2:2021,  EN 61000-3-12:2011, EN 61000-6-2:2005,  EN IEC 61000-6-2:2019, EN 61000-6-
+4:2007 +A1:2011, EN IEC 61000-6-4:2019. 
+• EN IEC 63000:2018. 
+7. Priglašeni organ: - - - 
+8. Dodatne informacije: 
+RoHS – Priloga III – Uporabe izvzete iz omejitev: svinec kot vezivni element v jeklu, aluminiju, bakrovih zlitinah [6(a), 6(b), 6(c)].  
+Optimyze: glejte dokumentacijo, ki je priložena nadzorni napravi [Radijska oprema 2014/53/EU in naknadne dopolnitve, Omejitev 
+uporabe nekaterih nevarnih snovi v električni in elektronski opremi 2011/65/EU in naknadne dopolnitve, vključno z Direktivo (EU) 
+2015/863]. 
+Podpisano za in v imenu: Xylem Service Italia S.r.l.
+
+445

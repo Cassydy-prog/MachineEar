@@ -1,0 +1,217 @@
+hr - Izvorne upute
+
+Uzrok
+Rješenje
+
+Uzrok
+Rješenje
+
+koja je suviše gusta i vi‐
+skozna.
+
+Zaštitite električnu plo‐
+ču od izvora topline i iz‐
+ravne sunčeve svjetlosti.
+
+lju karakteristika upumpa‐
+ne tekućine, a zatim se ob‐
+ratite odjelu prodaje i ser‐
+visa.
+
+Električna ploča se nala‐
+zi u pretjerano grijanom
+području ili je izložena iz‐
+ravnoj sunčevoj svjetlosti.
+
+Pumpa radi ali predaje premalo ili nimalo tekućine.
+
+Provjerite uvjete rada
+motora.
+
+Napon napajanja nije unu‐
+tar radnih ograničenja
+motora.
+
+Uzrok
+Rješenje
+
+Nedostaje faza napajanja. Provjerite
+
+Pumpa je začeplje‐
+na.
+
+Obratite se odjelu prodaje i ser‐
+visa.
+
+• napajanje,
+• električni spoj
+
+Upute za otklanjanje problema u donjoj tablici su
+samo za instalatere.
+
+7.5  Električna pumpa se pokreće, ali se
+toplinska zaštita isključuje nakon različitog
+vremena
+
+7.2  Glavna sklopka je uključena, ali se
+električna pumpa ne pokreće
+
+Uzrok
+Rješenje
+
+Uzrok
+Rješenje
+
+Obratite se lokalnom pred‐
+stavniku prodaje i servisa.
+
+Unutar pumpe posto‐
+je strani predmeti
+(čvrste ili vlaknaste
+tvari) koji su zaglavili
+rotor.
+
+Nema napajanja.
+• Vratite napajanje.
+• Provjerite jesu li svi elek‐
+trični priključci za napaja‐
+nje netaknuti.
+
+Pričekajte dok se pumpa ne
+ohladi. Toplinska zaštita će
+se automatski resetirati.
+
+Brzina isporuke pum‐
+pe je veća od vrijed‐
+nosti navedenih na
+pločici s podacima.
+
+Toplinska zaštita
+ugrađena u pumpu
+(ako postoji) je isklju‐
+čena.
+
+Djelomično zatvorite ON-
+OFF ventil prema dolje dok
+brzina isporuke ne bude jed‐
+naka ili manja od ograniče‐
+nja navedenih na pločici s
+podacima.
+
+Ponovno postavite toplinsku
+zaštitu.
+
+Isključen je toplinski
+relej ili zaštita mo‐
+tora u električnoj
+upravljačkoj ploči.
+
+Provjerite sljedeće:
+
+Pumpa je preoptere‐
+ćena jer pumpa teku‐
+ćinu koja je suviše gu‐
+sta i viskozna.
+
+Na temelju karakteristika
+upumpane tekućine provjeri‐
+te stvarne zahtijeve u pogle‐
+du snage i sukladno tome
+zamijenite motor.
+
+Isključen je uređaj za
+zaštitu od rada na
+suho.
+
+Ležajevi motora su
+pohabani.
+
+Obratite se lokalnom pred‐
+stavniku prodaje i servisa.
+
+• razinu tekućine u spre‐
+mniku ili mrežni tlak.
+• uređaj za zaštitu i njegove
+kabele za spajanje.
+
+Zamijenite osigurače.
+
+7.6  Električna pumpa se pokreće, ali je
+aktivirana opća zaštita sustava
+
+Osigurači za pumpu
+ili pomoćni krugovi
+su pregorijeli.
+
+Uzrok
+Rješenje
+
+Kratak spoj u električ‐
+nom sustavu.
+
+Provjerite električni su‐
+stav.
+
+7.3  Električna pumpa se pokreće, ali
+se toplinska zaštita isključuje ili osigurači
+pregorijevaju odmah nakon toga
+
+HR
+
+Uzrok
+Rješenje
+
+7.7  Električna pumpa se pokreće, ali se
+aktvira sklopka na diferencijalnu struju (RCD)
+sustava
+
+Kabel za napajanje je
+oštećen.
+
+Provjerite kabel i zamijenite
+prema potrebi.
+
+Uzrok
+Rješenje
+
+Provjerite dijelove i zamijeni‐
+te prema potrebi.
+
+Toplinska zaštita ili
+osigurači nisu pogod‐
+ni za struju motora.
+
+Postoji propuštanje
+ka uzemljenju.
+
+Provjerite izolaciju dijelova
+električnog sustava.
+
+Električni motor je u
+kratkom spoju.
+
+Provjerite dijelove i zamijeni‐
+te prema potrebi.
+
+7.8  Pumpa radi ali predaje premalo ili nimalo
+tekućine.
+
+Motor je preoptere‐
+ćen.
+
+Provjerite uvjete rada pumpe
+i ponovno postavite zaštitu.
+
+Uzrok
+Rješenje
+
+• Odzračite
+
+Unutar pumpe ili ci‐
+jevi postoji zrak.
+
+7.4  Električna pumpa se pokreće, ali
+se toplinska zaštita isključuje ili osigurači
+pregorijevaju ubrzo nakon toga
+
+272

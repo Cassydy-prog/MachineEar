@@ -1,0 +1,149 @@
+sr - Prevod originalnog
+
+Nepravilno poravnanje jedinice može da dovede do
+ozbiljnog oštećenja sistema.
+
+• Proverite da li su pumpa i motor bezbedno pri‐
+čvršćeni za bazu
+• Umetnite antivibracioni materijal između osnove i
+osnove
+• Ako jedinica ima zavarenu bazu, napunite beton‐
+skim prostorima prikazanim u Slika 25 na stranici
+397.
+
+NAPOMENA:
+Ako je spojnica pogrešno poravnata, to može izazva‐
+ti vibracije, što može dovesti do prevremenog haba‐
+nja rotirajućih komponenti jedinice.
+
+Proverite poravnanje spojnice jedinice nakon slede‐
+ćeg:
+
+NAPOMENA:
+Ne punite preklopljenu limnu bazu Slika 26 na strani‐
+ci 397 betonom.
+
+4.3.2  Kontrolna lista sistema za cevovod
+Provjerite da li su ispunjeni sledeći zahtevi:
+
+• Transport i instalacija
+• Početno pokretanje
+• Postizanje radne temperature.
+Obavite proveru čak i ako je jedinica isporučena u
+potpunosti sastavljena na ramu.
+
+Provera poravnanja spojnice sa lenjirom i
+meračem osećaja
+
+Za informacije o poravnavanju standardne spojnice
+(A) i spojnice sa odstojnikom (B), pogledajte Slika 27
+na stranici 397
+
+1. Uklonite zaštitu spojnice.
+
+• U slučaju instalacije usisnog lifta, da bi se izbegli
+vazdušni džepovi, usisna cev mora imati sve veći
+nagib prema jedinici koja prelazi 2%.
+• Nominalni prečnici sistema cevovoda moraju biti
+najmanje jednaki nominalnim prečnicima otvora
+pumpe.
+• Poduprite sistem cevovoda nezavisno, kako ne
+biste opteretili uređaj.
+• Isperite sistem cevovoda pre nego što ih pove‐
+žete sa jedinicom, da biste uklonili sve ostatke
+zavarivanja, naslage i nečistoće. Ako je potrebno
+instalirajte filter.
+
+NAPOMENA:
+Zaštita može biti žičana mreža (pogledajte Slika
+18 na stranici 386) ili lim (pogledajte Slika 19 na
+stranici 388)
+
+OPREZ:
+Varevi, kamenac i druge nečistoće u cevi‐
+ma oštećuju pumpu.
+
+4.3.3  Poravnanje spojnice
+
+Uklanjanje zaštite spojnice
+
+OPREZ:
+Nikad ne rukujte pumpom bez ispravno
+instalirane zaštite spojnice.
+
+Vrsta zaštite: žičana mreža
+Za informacije, pogledajte Slika 18 na stranici 386.
+
+1. Odvrnite zavrtnje (2).
+2. Uklonite žičanu mrežu. (1)
+Vrsta zaštite: lim
+Za informacije, pogledajte Slika 19 na stranici 388.
+
+2. Postavite lenjir na pola spojnice.
+3. Izmerite razdaljine prikazane na slici.
+4. Okrenite spojnicu rukom u koracima od 90° i po‐
+novite merenje.
+5. Ponovite korak 4 nekoliko puta: radijalno porav‐
+nanje je tačno ako su rastojanja ista u svim tač‐
+kama oko obima, u okviru dozvoljene devijacije;
+pogledajte Tabela 28 na stranici 399. Inače, po‐
+gledajtePoravnavanje spojnice sa podlošcima na
+stranici 280.
+6. Proverite rastojanje između poluspojnica pomo‐
+ću merača za osjetljivost.
+7. Okrenite spojnicu rukom u koracima od 90° i po‐
+novo proverite rastojanje.
+8. Ponovite korak 7 nekoliko puta: aksijalno porav‐
+nanje je tačno ako su rastojanja ista u svim tač‐
+kama oko obima, u okviru dozvoljene devijacije;
+pogledajte Tabela 28 na stranici 399. Inače. Po‐
+ravnavanje spojnice sa podlošcima na stranici
+280
+9. Ponovo podesite zaštitu spojnice.
+• M5 → 3 Nm (27 lbf·in) ± 15%
+• M6 → 5 Nm (44 lbf·in) ± 15%.
+
+SR
+
+Provera poravnanja spojnice sa laserskim
+alignerom
+
+1. Odvrnite zavrtnje za zatvaranje poluljuski (5).
+2. Odvrnite zavrtnje za pričvršćivanje koji pričvršću‐
+ju gornju poluljusku (3).
+3. Uklonite gornju poluljusku zaštite spojnice (1).
+4. Odvrnite zavrtnje za pričvršćivanje koji pričvršću‐
+ju donju poluljusku (4).
+5. Uklonite donju poluljusku zaštite spojnice (2).
+6. Otvorite i podignite prsten za podršku/podešava‐
+nje (6).
+
+Provera spoja i poravnanje
+
+Možete proveriti poravnanje spojnice pomoću laser‐
+skog alignera: pogledajte uputstvo za upotrebu alig‐
+nera.
+
+Poravnavanje spojnice sa podlošcima
+
+NAPOMENA:
+Ponovo proverite poravnanje spojnice pod vrelim
+radnim uslovima.
+
+Pogledajte Slika 17 na stranici 384 za informacije o
+tome gde da priključite pumpu i motor na bazu i gde
+da ubacite isporučene podloške.
+
+NAPOMENA:
+Uverite se da se spojnica može lako rotirati rukom i
+da postoji neka igra između zuba.
+
+1. Odvrnite zavrtnje koji pričvršćuju pumpu i motor
+u bazu.
+2. Lagano podignite pumpu i motor.
+3. Umetnite podloške između osnove i stopala pum‐
+pe i motora na jednu ili više naznačenih tačaka.
+
+NAPOMENA:
+
+280

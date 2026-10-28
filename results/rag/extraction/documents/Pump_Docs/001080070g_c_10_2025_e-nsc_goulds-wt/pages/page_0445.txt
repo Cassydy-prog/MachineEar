@@ -1,0 +1,66 @@
+Declarations of Conformity
+
+5. A fent leírt nyilatkozat tárgya megfelel a vonatkozó uniós harmonizációs jogszabályoknak 
+•  2014. február 26-i 2014/30/EU irányelv és ezt követő módosítások (elektromágneses kompatibilitás).  
+•  A 2011. június 8-i 2011/65/EU irányelv és annak későbbi módosításai, beleértve az (EU) 2015/863 irányelvet (egyes veszélyes 
+anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozása). 
+6. Hivatkozások a megfelelő harmonizált szabványokra vagy egyéb műszaki előírásokra, amelyekkel kapcsolatban megfelelőségi 
+nyilatkozatot tettek: 
+• EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-4:2007 
++A1:2011, EN IEC 61000-6-4:2019. 
+• EN IEC 63000:2018. 
+7. Bejelentett szervezet: - - - 
+8. További információk: 
+(RoHS) - III. melléklet – Korlátozások alól mentes alkalmazás: ólom az acél, alumínium és rézötvözetek ötvözőelemeként [6(a), 
+6(b), 6(c)].  
+Optimyze: lásd a felügyeleti eszközzel együtt szállított dokumentációt [a rádióberendezésekről szóló 2014/53/EU irányelv és 
+későbbi módosításai; az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának 
+korlátozásáról szóló 2011/65/EU irányelv és későbbi módosításai, beleértve az (EU) 2015/863 irányelvet is]. 
+Aláírás az alábbi fél nevében: Xylem Service Italia S.r.l.
+
+Montecchio Maggiore, 25/03/2025  
+
+felülvizsgálat: 00
+
+Alessio Vendraminelli  
+    Ugyvezeto
+
+A megfelelőségi nyilatkozat(ok) nem érvényes(ek), ha azt/azokat a 001080070G kódú Xylem dokumentum szövegének többi 
+részétől elkülönítve használják. 
+ 
+Szivattyú
+
+EK Megfelelőségi nyilatkozat (fordítás) 
+ 
+A Xylem Service Italia S.r.l., amelynek székhelye Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italy, ezennel kijelenti, 
+hogy a termék 
+NSC… szivattyú (lásd az utolsó oldalon feltüntetett címkét) 
+megfelel az alábbi európai irányelvek vonatkozó rendelkezéseinek 
+•  2006/42/EK Gépekre vonatkozó irányelvnek és módosításainak (II. MELLÉKLET - a műszaki adatlap összeállítására 
+felhatalmazott természetes vagy jogi személy: Xylem Service Italia S.r.l.), 
+•  Öko-design 2009/125/EK irányelvnek és módosításainak, az 547/2012/EU rendeletnek és azt követő módosításainak 
+(vízszivattyú, ha MEI jelölésű) 
+és műszaki szabványok 
+•  EN 809:1998+A1:2009. 
+•  EN 16480:2021. 
+További információk: 
+Optimyze: amennyiben rendelkezésre áll a szivattyúhoz, lásd a felügyeleti eszközzel együtt szállított dokumentációt [a 
+rádióberendezésekről szóló 2014/53/EU irányelv és későbbi módosításai; az egyes veszélyes anyagok elektromos és elektronikus 
+berendezésekben való alkalmazásának korlátozásáról szóló 2011/65/EU irányelv és későbbi módosításai, beleértve az (EU) 
+2015/863 irányelvet is]. 
+Montecchio Maggiore, 25/03/2025  
+
+felülvizsgálat: 00
+
+Alessio Vendraminelli  
+    Ugyvezeto
+
+A megfelelőségi nyilatkozat(ok) nem érvényes(ek), ha azt/azokat a 001080070G kódú Xylem dokumentum szövegének többi 
+részétől elkülönítve használják. 
+ 
+Declaraţii de conformitate 
+Consultați declarația specifică referitoare la marcajul care se află pe produs. 
+ 
+Pompă electrică
+
+441

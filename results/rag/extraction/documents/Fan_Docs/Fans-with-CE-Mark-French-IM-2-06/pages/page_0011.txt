@@ -1,0 +1,194 @@
+Tableau 5. Maintenance et Inspection du Système d’Entraînement
+
+TYPE DE MAINTENANCE
+QUAND LA FAIRE
+QUE FAIRE
+
+Inspecter la gorge de la poulie pour 
+usure
+
+Inspection initiale: 8 heures. Deuxième in-
+spection: 24 heures. Troisième inspection: 
+100 heures. Périodiquement par la suite.*
+
+Inspecter la course de la  courroie sur la poulie Dans les 
+systèmes à gorge multiples, la course de la courroie doit 
+être uniforme, pas plus de 1/16" (1.6mm) au-dessus ou 
+au-dessous du sommet de la gorge. Inspecter l’usure de la 
+zone d’usure de la gorge. Les côtés de la gorge doivent 
+être droits et non déformés. Le fond de la gorge ne doit 
+pas montrer de signe de contact avec la courroie.
+
+Inspecter la poulie pour jeu
+Inspection initiale: 8 heures. Deuxième in-
+spection: 24 heures. Troisième inspection: 
+100 heures. Périodiquement par la suite.*
+
+Inspecter la poulie visuellement pour voir si elle a du jeu. Si 
+le jeu est excessif, il peut être vu facilement par inspection 
+visuelle. Si un jeu est visible, vérifier la poulie pour déter­
+miner la source du problème et le corriger.
+
+Inspecter pour sur-chauffage et venti­
+lation adéquate
+
+Inspection initiale: 8 heures. Deuxième in-
+spection: 24 heures. Troisième inspection: 
+100 heures. Périodiquement par la suite.*
+
+Inspecter la température des boulons La température ambi­
+ante ne doit pas excéder 140°F (60°C) Les températures de 
+contact ne doivent pas excéder
+180°F (82°C) S’assurer que les mécanismes d’entraînement 
+sont correctement ventilés.
+
+Nettoyer les courroies et les gorges 
+de poulies
+
+Inspection initiale: 8 heures. Deuxième in-
+spection: 24 heures. Troisième inspection: 
+100 heures. Périodiquement par la suite.*
+
+Inspecter les courroies pour contamination par des substances 
+telles qu’huile ou graisse.  Nettoyer les courroies avec de l’eau 
+et du détergent. Inspecter les gorges de poulies pour accumu­
+lation de telles substances et les enlever si nécessaire.
+
+Vérifier la tension de la courroie
+Inspection initiale: 8 heures. Deuxième in-
+spection: 24 heures. Troisième inspection: 
+100 heures. Périodiquement par la suite.*
+
+Vérifier la tension de la courroie en utilisant un tensiomètre 
+de courroies BROWNING. Ajuster la tension selon les re­
+commandations dans les catalogues courants.
+
+Vérifier l’alignement de la poulie
+Inspection initiale: 8 heures. Deuxième in-
+spection: 24 heures. Troisième inspection: 
+100 heures. Périodiquement par la suite.*
+
+Vérifier l’alignement avec une règle de précision, une ligne, 
+ou un niveau de machiniste. Corriger l’alignement et l’amener 
+aussi parfait que possible.
+
+Contrôle de disparité dans les cour­
+roies
+
+Inspection initiale: 8 heures. Deuxième in-
+spection: 24 heures. Troisième inspection: 
+100 heures. Périodiquement par la suite.*
+
+Regarder la courbe faite par la poulie sur le côté mou du 
+système d’entraînement. Toutes les courroies doivent être lé­
+gèrement courbées. Si cette courbe n’est pas uniforme entre 
+les courroies, remplacer le jeu complet avec un jeu assorti.
+
+Inspection pour courroies usées
+Inspection initiale: 8 heures. Deuxième in-
+spection: 24 heures. Troisième inspection: 
+100 heures. Périodiquement par la suite.*
+
+Inspecter la surface d’usure des courroies pour usure ex­
+cessive: si les courroies paraissent glissantes, lustrées, 
+c’est qu’elles glissent. Vérifier la capacité du système 
+d’entraînement et la tension des courroies. Ne jamais rem­
+placer une seule courroie qui fait partie d’un jeu, car les 
+courroies usagées s’allongent. Remplacer le jeu complet si 
+un remplacement est nécessaire.
+
+Inspecter les vis sans tête de la poulie 
+et/ou les vis de couvercles de man­
+chons
+
+Inspection initiale: 8 heures. Deuxième ins-
+pection: 24 heures. Troisième inspection: 
+100 heures. Périodiquement par la suite.*
+
+Inspecter les vis sans tête de la poulie et/ou les vis de 
+couvercles de manchons pour usure. Resserrer au couple 
+de serrage recommandé si nécessaire.
+
+*Les inspections répertoriées comme « périodiques » doivent être effectuées au moins une fois par mois pour les ventilateurs ATEX.
+
+M	Systèmes d’entraînement sur les arbres adéquats, propre­
+
+ment alignés et à la bonne tension.
+M	S’assurer qu’aucun objet étranger ne réside dans le ventila­
+
+teur ou dans les conduits.
+
+Inspecter les composants électriques du ventilateur:
+M	Le moteur est câblé pour le bon voltage.
+M	Le moteur est d’une taille adéquate pour la puissance de
+
+l’assemblage rotatif.
+M	Le moteur est correctement mis à la terre.
+M	Tous les conducteurs sont correctement isolés.
+M	La résistance entre la bobine du moteur et la terre est plus
+
+de 10 megohms (voir la section maintenance du moteur).
+M	L’équipement de contrôle fonctionne correctement.
+
+machines et les équipe­
+ments - Indications pour 
+l’utilisation de standards 
+basiques pour déterminer 
+le niveau de bruit à un 
+poste de travail et autres 
+locations spécifiées.
+EN ISO 11202/A1 1997	
+-
+Bruits 
+émis 
+par 
+les 
+machines et les équipe­
+ments – Mesure des émis­
+sions du niveau de bruit 
+à un poste de travail et 
+autres locations spécifiées 
+– Méthode d’étude in situ.
+
+Essai:
+M	Mettez le moteur sous tension juste le temps qu’il faille pour
+
+Liste de contrôle d’exploitation
+M Vérifier que les mesures de sécurité correctes ont été
+
+commencer à faire tourner l’assemblage.
+M	Vérifier que le sens de rotation est celui du sens de rotation
+
+suivies.
+M L’alimentation électrique doit être bloquée.
+
+de la flèche.
+M	Tendre l’oreille pour tout bruit suspect.
+
+Vérifier les éléments du mécanisme du ventilateur:
+M Écrous, boulons et vis sans tête doivent être serrées selon
+
+Faire tourner l’équipement à sa vitesse normale:
+M	Vérifier que la température des paliers est acceptable
+
+(<200°f, 93°C) après une ou deux heures de service.
+M	S’assurer que les niveaux de vibration ne sont pas excessifs.
+
+les Tableaux 1 à 4.
+M Branchements de montage correctement effectués et serrés. 
+M Paliers correctement lubrifiés.
+M Roues, systèmes d’entraînement et surfaces du ventilateur
+
+Les lectures d’entrée ne doivent pas excéder 7.2mm/s RMS.
+M	Vérifier que l’appel de courant du moteur ne se situe pas
+
+au-dessus de celui indiqué sur la plaque d’identification.
+
+propres et serrées.
+M L’assemblage rotatif tourne librement et ne frotte pas.
+
+Après une semaine de service:
+
+11
+
+IM-2-06

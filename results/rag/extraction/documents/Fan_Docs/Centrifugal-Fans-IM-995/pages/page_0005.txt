@@ -1,0 +1,59 @@
+IM-995
+
+Safety & Hazard Warnings
+
+For general safety practices for air moving equipment, see AMCA Bulletin 410. Twin City Fan & Blower offers many safety 
+accessories. These safety devices include (but are not limited to) belt guards, shaft guards, inlet and discharge screens. The use 
+and suitability of safety devices is the responsibility of the purchaser.
+
+Facility related safety conditions include fans’ accessibility and location. How easily can non-service personnel access the unit? Is 
+the fan in a hazardous duty environment? Was the unit ordered for this duty? Other concerns must also be addressed. All fans 
+should be powered through controls that are easily accessible to service personnel from the fan. Fan power must have the ability 
+to be “locked out” by service personnel trained in lockout/tagout procedures per OSHA requirements (29CFR1910.147).  When 
+performing lockout, be aware of factors, such as building pressure and additional fans in the system that can influence unwanted 
+fan rotation (wind milling). If you have any doubt about your ability to perform a task, seek a person qualified to do that task. 
+Before any work is done on a fan, ensure that the fan is isolated from the electrical supply using a 'lockout/tagout system.'
+
+Note:  A stationary, non-rotating fan does not mean that the fan is isolated from the electrical supply or from other fans/
+dampers in the system that could cause the fan impeller to rotate. A non-rotating fan could be subject to controls or other circuit 
+protection devices that may start the fan without notice.
+
+The following safety precautions should be followed, where applicable:
+•	 Do not attempt to slow a rotating impeller even when it is isolated from the electrical supply. Fan impellers have a high inertia 
+and injury could result from an attempt to stop it. It is recommended that the impeller is isolated by closing off the inlet or 
+outlet to prevent wind-driven rotation. If an impeller is chocked to prevent rotation, ensure that the chocks are removed prior 
+to start up.
+•	 Wear appropriate personal protective equipment. This may include protective clothing, eye protection, ear protection, 
+respiratory equipment, hand and foot protection when installing or servicing the fan.
+•	 Always use caution when entering a fan's air path. High velocity airflow can cause you to lose your balance.
+•	 Motor, bearings and drives can be hot, and similarly if the fan is subject to processes that are hot, the fan housing could be 
+hot.
+•	 Fans are often used to move hazardous materials that could be dangerous. Always wear protective clothing and take 
+precautions not to inhale dust/gases.  If hazardous chemical vapors are present, respiratory equipment may be required.
+•	 Sharp edges – wear protective gloves when handling, installing or servicing a fan.
+•	 Fans can operate at high decibel sound levels. Wear proper ear protection to protect from excessive noise levels.
+•	 Access doors – Do not open access doors when fan is in operation. The effects of suction and air pressure could result in injury.
+•	 When working around pulleys and belts, keep hands away from pinch points. This pertains to when the fan is under or off 
+power.
+
+Throughout this manual, there are a number of HAZARD WARNINGS that must be read and adhered to in order to prevent 
+possible personal injury and/or damage to equipment. Two signal words "WARNING" and "CAUTION" are used to indicate the 
+severity of a hazard and are preceded by the safety alert symbol. It is the responsibility of all personnel involved in installation, 
+operation and maintenance to fully understand the warning and caution procedures by which hazards are to be avoided.
+
+WARNING:  Used when serious injury or death MAY result from misuse or failure to follow specific instructions.
+
+CAUTION:  Used when minor or moderate injury or product / equipment damage MAY result from misuse or failure to 
+follow specific instructions.
+
+NOTICE: Indicates information considered important, but not hazard-related.
+
+Shipping & Receiving
+All Twin City Fan & Blower products are carefully constructed and inspected before shipment to insure the highest standards of 
+quality and performance. Compare all components with the bill of lading or packing list to verify that the proper unit was received. 
+Check each unit for any damage that may have occurred in transit. Any damage should be reported immediately to the carrier and 
+the necessary damage report filed. Damage should be noted on the bill of lading.
+
+5
+
+Installation, Operation & Maintenance Manual

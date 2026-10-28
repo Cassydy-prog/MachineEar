@@ -1,0 +1,213 @@
+sk - Preklad originálu
+
+Príčina
+Spôsob odstránenia
+
+Skontrolujte mechanické
+tesnenie
+
+Nie je sieťové napája‐
+nie.
+
+Skontrolujte tesnosť me‐
+chanického tesnenia. Vy‐
+meňte mechanické tes‐
+nenie.
+
+Kontrola ložiskových tes‐
+není
+
+• Obnovte sieťové napája‐
+nie.
+• Uistite sa, že nie sú po‐
+rušené žiadne elektric‐
+ké spojenia so sieťovým
+napájaním.
+
+Skontrolujte správne usa‐
+denie axiálnych tesnia‐
+cich krúžkov na hriade‐
+li. Tesniaca hrana by sa
+mala dotýkať iba jemne.
+
+Aktivovala sa tepelná
+ochrana v čerpadle (ak
+je prítomná).
+
+Počkajte, pokým sa čer‐
+padlo neochladí. Tepelná
+ochrana sa automaticky
+zresetuje.
+
+Skontrolujte tichý chod
+Často kontrolujte tichý
+chod čerpadla pomocou
+vibračných meradiel.
+
+Deaktivujte ochranné tepel‐
+né zariadenie.
+
+Bolo aktivované tepel‐
+né relé alebo ochran‐
+né zariadenie motora
+na elektrickom ovláda‐
+com paneli.
+
+6.3  Odmontujte a vymeňte diely čerpadla
+Ďalšie informácie o náhradných dieloch a rozobera‐
+ní či zostavovaní čerpadla dostanete od miestneho
+predajného a servisného zástupcu.
+
+Skontrolujte:
+
+7  Riešenie problémov
+
+Bolo aktivované
+ochranné zariadenie
+proti behu čerpadla
+nasucho.
+
+7.1  Riešenie problémov používateľmi
+
+• hladinu kvapaliny v nád‐
+rži a tlak v potrubí.
+• ochranné zariadenie je‐
+ho pripájacie káble.
+
+Vymeňte poistky.
+
+Hlavný spínač je zapnutý, ale elektrické čerpadlo sa
+nespustí.
+
+Boli roztavené poist‐
+ky čerpadla alebo po‐
+mocných okruhov.
+
+Príčina
+Spôsob odstránenia
+
+Aktivovala sa tepelná
+ochrana v čerpadle (ak je
+prítomná).
+
+Počkajte, pokým sa čer‐
+padlo neochladí. Tepelná
+ochrana sa automaticky
+zresetuje.
+
+7.3  Elektrické čerpadlo sa spustí, ale
+okamžite po spustení sa aktivuje tepelná
+ochrana alebo sa vypáli poistka.
+
+Príčina
+Spôsob odstránenia
+
+Bolo aktivované ochran‐
+né zariadenie proti behu
+čerpadla nasucho.
+
+Skontrolujte hladinu kva‐
+paliny v nádrži a tlak
+v potrubí.
+
+Napájací kábel je
+poškodený.
+
+Skontrolujte kábel a v prípade
+potreby ho vymeňte.
+
+Elektrické čerpadlo sa spustí, ale za rôzny čas po
+spustení sa aktivuje tepelná ochrana.
+
+Skontrolujte tieto súčiastky a
+v prípade potreby ich vymeň‐
+te.
+
+SK
+
+Príčina
+Spôsob odstránenia
+
+Tepelná ochrana ani
+poistka nie sú vhod‐
+né pre obvody moto‐
+ra.
+
+Kontaktujte Oddelenie
+predaja a servisu.
+
+V elektrickom moto‐
+re nastal skrat.
+
+Skontrolujte tieto súčiastky a
+v prípade potreby ich vymeň‐
+te.
+
+V čerpadle sa nachádzajú
+cudzorodé telesá (pevné
+alebo vláknité látky), ktoré
+zablokovali obežné koleso.
+
+Motor je preťažený.
+Skontrolujte prevádzkové
+podmienky čerpadla a deakti‐
+vujte ochranu.
+
+Čerpadlo je preťažené, pre‐
+tože čerpá kvapalinu s prí‐
+liš vysokou úrovňou husto‐
+ty a viskozity.
+
+Skontrolujte aktuálnu
+spotrebu podľa charak‐
+teristík čerpanej kvapa‐
+liny a obráťte sa na od‐
+bytové oddelenie.
+
+7.4  Elektrické čerpadlo sa spustí, ale
+aktivuje sa tepelná ochrana alebo sa krátko
+po spustení vypáli poistka.
+
+Čerpadlo je spustené, ale dodáva príliš málo alebo
+žiadnu kvapalinu.
+
+Príčina
+Spôsob odstránenia
+
+Príčina
+Spôsob odstránenia
+
+Čerpadlo je up‐
+chaté.
+
+Kontaktujte Oddelenie predaja a
+servisu.
+
+Chráňte elektrický panel
+pred zdrojmi tepla a
+priamym slnečným žia‐
+rením.
+
+Elektrický panel sa na‐
+chádza v príliš vyhriatom
+priestore alebo je vysta‐
+vený priamemu slnečné‐
+mu žiareniu.
+
+Pokyny pre riešenie problémov v tabuľke nižšie sú
+určené iba pre technika.
+
+Skontrolujte prevádzko‐
+vé podmienky motora.
+
+Napájacie napätie sa ne‐
+nachádza v rámci pracov‐
+ného rozmedzia motora.
+
+7.2  Hlavný spínač je zapnutý, ale elektrické
+čerpadlo sa nespustí.
+
+Chýba fáza napájania.
+Skontrolujte
+
+212

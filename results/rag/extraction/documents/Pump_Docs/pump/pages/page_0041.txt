@@ -1,0 +1,159 @@
+6. Centrifugal Pumps
+
+Centrifugal Pumps
+
+Related Tip Sheet
+
+A summary of key issues presented in this 
+fact sheet is available in an ITP BestPractices 
+Tip Sheet titled Select an Energy-Efficient 
+Centrifugal Pump. Tip sheets can be found 
+in Appendix C, accessed on the Web at 
+www.eere.energy.gov/industry/bestpractices, 
+or obtained by contacting the EERE Information 
+Center at 877-337-3463.
+
+Centrifugal pumps (also known as rotodynamic 
+pumps) have variable flow rates even when 
+rotating at a constant speed—unlike positive 
+displacement pumps, which push a certain volume 
+of fluid with each stroke or rotation. Centrifugal 
+pumps use an impeller, which is basically a 
+rotating wheel, to add energy to a fluid. The high-
+velocity fluid coming off the impeller tip is sent 
+into a diffuser—a chamber that feeds directly 
+into discharge piping. The fluid slows as it enters 
+the diffuser, and the kinetic energy of the fluid 
+converts to higher pressure.
+
+200
+
+180
+
+Performance Curve
+
+160
+
+140
+
+Efﬁciency (%)
+
+Head
+
+BEP 
+Efﬁciency
+
+120
+
+70
+
+(ft)
+
+The performance of a centrifugal pump is typically 
+described by a graph plotting the pressure generat-
+ed by the pump (measured in terms of head) 
+over a range of flow rates. Figure 10 shows a 
+performance curve for a typical centrifugal pump.
+
+16
+
+100
+
+60
+
+50
+
+80
+
+12
+
+40
+
+bhp
+
+60
+
+30
+
+8
+
+40
+
+bhp
+
+20
+
+4
+
+20
+
+10
+
+0
+
+0
+
+0
+
+0 
+50 
+100 
+150 
+200 
+250 
+300
+
+Flow (gpm)
+
+The amount of fluid that a centrifugal pump 
+moves depends on pump differential pressure. 
+As the pump differential pressure increases, the 
+flow rate decreases. The rate of this decrease is a 
+function of the pump design. Understanding this 
+relationship is essential to designing, sourcing, 
+and operating a centrifugal pump system.
+
+Figure 10. Centrifugal Pump Performance Curves
+
+keep a pump operating consistently at this point 
+because systems usually have changing demands. 
+However, keeping a pump operating within a 
+reasonable range of its BEP lowers overall system 
+operating costs.
+
+Also included on a typical pump performance 
+curve are its efficiency and brake horsepower 
+(bhp), both of which are plotted with respect to 
+flow rate. The efficiency of a pump is the ratio 
+of the pump’s fluid power to the pump shaft 
+horsepower, which, for direct-coupled pump/
+motor combinations, is the motor bhp.
+
+ Best Efficiency Point
+An important characteristic of the head/flow curve 
+is the best efficiency point (BEP). At the BEP, the 
+pump operates most cost-effectively in terms of 
+both energy efficiency and maintenance. BEP is 
+explained further in the fact sheet titled Multiple 
+Pump Arrangements.
+
+Family of Pump Curves. Manufacturers use a 
+coverage chart to describe the performance 
+characteristics of a family of pumps. This type 
+of chart, shown in Figure 11 on page 38, is 
+useful in selecting the appropriate pump size for 
+a particular application. The pump designation 
+numbers in Figure 11 refer to the pump inlet 
+size, the pump outlet size, and the impeller size, 
+respectively. There is significant overlap among 
+these various pump sizes, which is attributable to 
+the availability of different impeller sizes within 
+a particular pump size.
+
+Operating a pump at a point well away from its 
+BEP may accelerate wear in bearings, mechanical 
+seals, and other parts. In practice, it is difficult to
+
+37
+
+A Sourcebook for Industry

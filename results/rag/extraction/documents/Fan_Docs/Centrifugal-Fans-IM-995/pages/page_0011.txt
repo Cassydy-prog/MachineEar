@@ -1,0 +1,62 @@
+IM-995
+
+Fan Installation – Disassembled Units With Split Housings (Cont.)
+(refer to lifting/safety section)
+
+6.	 If the impeller and shaft were shipped unassembled, you must now install the shaft in the impeller.
+a.	 First use solvent to clean the protective coating off the shaft. Check all surfaces for corrosion or nicks and clean if necessary
+
+with fine emery cloth or a stone. After thoroughly cleaning the shaft with solvent, do not touch it with bare hands as 
+perspiration can cause rust or pitting over time.
+b.	 Remove keys from the shaft.
+c.	 Clean the inside of the impeller bore with solvent. Make sure the setscrews will not interfere when inserting the shaft into
+
+the impeller bore.
+d.	 Insert the shaft into the impeller from the back side of the impeller.
+e.	 When the shaft is flush with the impeller hub (Arr. 1, 9 and 8), dress the key if necessary, insert into the keyway and tighten
+
+the impeller setscrews.
+f.	 For Arrangement 3 fans, refer to the drawing for appropriate impeller and shaft dimensional relationship.
+g.	 Check the assembly drawing to make sure that the impeller and shaft have been assembled correctly.
+
+Click To View Our
+Rotor Installation/Removal Video
+Click To View Our
+Impeller Installation/Removal Video
+
+7.	 The rotor can now be installed in the housing. Slide the bearings on if they are solid 
+pillow blocks or loosely mount the bottom halves if they are split. Inlet vanes and/or 
+inlet funnels may need to be installed over the shaft before installing and bolting the 
+bearings to their supports (Arr. 3 and 7). Insert the inlets into the impeller inlet and 
+tie them off for lifting and placing in the housing. Refer to steps 8 and 9 for order of 
+assembly of components for double width and single width fans. The shaft should 
+be cleaned and oiled where it will contact the bearings. Carefully lower the shaft 
+assembly into the bearings. Use care when lowering the shaft onto the bearings 
+so thrust bearings, collars and liners are not damaged due to misalignment. The 
+bearing housing should be parallel to the axis of the shaft to prevent loads caused by 
+misalignment. Precision shim bearings as required. Lock bearings. Be sure expansion 
+bearing (if supplied) is set to allow for thermal growth. Refer to bearing installation 
+instructions in this installation manual.
+8.	 Arrangement 3 (split-housed) units:
+a.	 Parts on a DWDI unit are assembled in the following order as viewed from opposite
+
+drive side: bearing bar assembly (or independent pedestal) and opposite bearing, 
+funnel (housing side), impeller (housing side), funnel, drive side bearing bar 
+assembly (pedestal), drive bearing and sheaves or coupling. Mount bearing bar 
+assembly to housing. Center impeller in funnels.
+b.	 Assemble parts in above order on shaft.
+c.	 Proceed with connection of the shaft assembly to supports in step 7 above.
+9. Parts on a SWSI unit are assembled in the following order as viewed from opposite drive side: bearing bar assembly and 
+opposite bearing, funnel (housing side), impeller (housing side), drive side bearing bar assembly, drive bearing and sheaves. 
+Mount bearing bar assembly to housing. Refer to the impeller-funnel overlap section.
+
+a.	 Assemble parts in above order on shaft.
+b.	 Proceed with connection of the shaft assembly to supports in step 7.
+10.	Install motor on the base if applicable. Carefully align shafts for drive installation. After the fan is leveled, prior to grouting, 
+back off leveling nuts if used.
+
+Twin City Fan
+
+11
+
+Installation, Operation & Maintenance Manual

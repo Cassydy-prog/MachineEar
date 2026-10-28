@@ -1,0 +1,28 @@
+Appendix C: Pumping Systems Tip Sheet Number 9
+
+ General Equation for Estimating Frictional Portion of Pumping Costs
+
+Cost ($)  =
+
+1    (Friction factor)     (Flow in gpm)3 (Pipe length in feet)                           (# of hours) ($/kWh)
+                          ____                             _____________________________      __________________________________________
+	
+                   1706  	 	                       (Pipe inner diameter in inches)5           (Combined pump and motor efficiency as a percent)
+
+where the friction factor, based on the pipe roughness, pipe diameter, and the Reynolds number, can be obtained 
+from engineering handbooks. For most applications, the value of this friction factor will be 0.015 to 0.0225.
+
+  Suggested Actions  
+
+• Compute annual and life-cycle cost for systems before making an engineering design decision.
+
+• In systems dominated by friction head, evaluate pumping costs for at least two pipe sizes and try to accommodate pipe size with 
+the lowest life-cycle cost.
+
+• Look for ways to reduce friction factor. If your application permits, epoxy-coated steel or plastic pipes can reduce friction factor 
+by more than 40%, proportionately reducing your pumping costs.
+
+DOE/GO-102005-2071 • October 2005 • Pumping Systems Tip Sheet #9
+
+116
+Improving Pumping System Performance

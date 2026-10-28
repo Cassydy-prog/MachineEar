@@ -1,0 +1,27 @@
+Other means of inspection at FAG
+Scanning electron microscopic inspection
+
+113: Micro analysis of foreign particles
+a: Foreign particles in cage crosspiece
+
+It is also possible to make the socalled
+electron beam micro analysis when using
+spectrometers together with the SEM. It
+inspects the material composition in the
+volume range of approx. 1 micron3. This
+helps to determine the origin of foreign
+particles still stuck in the cage pockets of
+a bearing, figs. 113a and b. Other appli-
+cations with it include the inspection of
+coatings or of reaction layers on the
+contact areas or the examination of 
+material compositions in the micro area.
+
+113 b: Material composition of foreign particles
+
+dark
+= iron
+bright = aluminium oxide
+
+FAG
+68

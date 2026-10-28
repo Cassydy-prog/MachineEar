@@ -1,0 +1,63 @@
+4  Installation
+
+WARNING:
+Do not use the on-off valve on the discharge side in the closed position in order to throttle
+the pump for more than a few seconds. If the pump must operate with the discharge side
+closed for more than a few seconds, a bypass circuit must be installed to prevent
+overheating of the liquid inside the pump.
+
+4.4  Electrical requirements
+
+• The local regulations in force overrule these specified requirements.
+• In the case of fire fighting systems (hydrants and/or sprinklers), check the local
+regulations in force
+
+Electrical connection checklist
+
+Check that the following requirements are met:
+
+• The electrical leads are protected from high temperature, vibrations, and collisions.
+• The power supply line is provided with:
+– A short-circuit protection device
+– A mains isolator switch with a contact gap of at least 3 mm
+
+The electrical control panel checklist
+
+NOTICE:
+The control panel must match the ratings of the electric pump. Improper combinations could
+fail to guarantee the protection of the motor.
+
+Check that the following requirements are met:
+
+• The control panel must protect the motor against overload and short-circuit.
+• Install the correct overload protection (thermal relay or motor protector).
+• The control panel must be equipped with a dry-running protection system to which a
+pressure switch, float switch, probes, or other suitable device is connected.
+• The following devices are recommended for use on the suction side of the pump:
+– When the liquid is pumped from a water system, use a pressure switch.
+– When the liquid is pumped from a storage tank or reservoir, use a float switch or
+
+probes.
+• When thermal relays are used, relays that are sensitive to phase failure are
+recommended.
+
+4.5  Install the pump
+
+Install the pump set
+
+1. Position the pump set on the foundation and level it with the help of a spirit level that is
+placed on the discharge port.
+The permissible deviation is 0.2 mm/m.
+2. Remove the plugs covering the ports.
+3. Align the pump and piping flanges on both sides of the pump. Check the alignment of the
+bolts.
+4. Fasten the piping with bolts to the pump. Do not force the piping into place.
+5. Use shims for height compensation, if necessary.
+Always fit shims, if any, immediately to the left and right of the foundation bolts between
+the baseplate/foundation. For a bolt-to-bolt distance (L) > 800 mm, fit extra shims halfway
+between the bolt holes.
+6. Make sure that all shims lie perfectly flush.
+7. Insert the foundation bolts into the holes provided.
+
+Series 1710 Installation, Operation, and Maintenance Manual
+17

@@ -1,0 +1,164 @@
+hu - Eredeti útmutató
+
+VIGYÁZAT!:
+
+• A szivattyú és a motor külső felületé‐
+nek hőmérséklete üzem közben meg‐
+haladhatja a 40 ºC (104ºF) értéket.
+• Ne helyezzen üzemanyagot a szivat‐
+tyú közelébe.
+
+FIGYELMEZTETÉS:
+
+1. Helyezze el a tengelykapcsoló védőelem (2) alsó
+félburkát.
+2. Húzza meg az alsó fél köpeny rögzítőcsavarjait
+(4).
+3. Nyissa ki és helyezze be a támasztó/beállító gyű‐
+rűt (6) úgy, hogy a ház lefelé nézzen, és tengelyi‐
+rányban nyomja rá a motorra.
+4. Helyezze el a tengelykapcsoló védőelem (1) felső
+félburkát.
+5. Húzza meg a felső fél köpeny rögzítőcsavarjait
+(3).
+6. Húzza meg a fél héj zárócsavarjait (5).
+
+4.3.4  Elektromos szerelés
+
+1. Távolítsa el a kapcsolódoboz fedelének csavar‐
+jait.
+
+2. A vonatkozó kapcsolási rajznak megfelelően
+csatlakoztassa és rögzítse a tápkábeleket.
+
+A bekötési rajzért lásd 21. ábra 392. oldalon. A
+diagramok a kapcsolódoboz fedelének hátolda‐
+lán is megtalálhatók.
+
+a) Kösse be a földvezetéket.
+
+Gondoskodjon róla, hogy a földvezeték hosz‐
+szabb legyen a fázisvezetékeknél.
+b) Csatlakoztassa a fázisvezetékeket.
+
+• NE működtesse a szivattyút a minimális névleges
+átfolyási szint alatt, ne működtesse szárazon és
+feltöltés nélkül.
+• Ne működtesse a szivattyút pár másodpercnél
+hosszabban elzárt elmenő oldali elzárószeleppel.
+• Ne működtesse a szivattyút elzárt szívó oldali
+elzárószeleppel.
+• Ne tegye ki az üzemen kívül lévő szivattyút fagy‐
+veszélyes körülményeknek. Ürítse le a szivattyú
+belsejében lévő valamennyi folyadékot. Ellenkező
+esetben a folyadék megfagyhat a szivattyú belse‐
+jében és a berendezés sérülhet.
+• A szívóoldali nyomás (vezetékek, gravitációs tar‐
+tály) és a szivattyú által előállított maximális nyo‐
+más összege nem haladhatja meg a szivattyú
+megengedett maximális üzemi nyomását (névle‐
+ges nyomás, PN).
+• Ne használja a szivattyút, ha kavitáció lép fel. A
+kavitáció károsíthatja a szivattyú belső elemeit.
+
+3. Szerelje fel a csatlakozódoboz fedelét.
+
+5.1  A szivattyú feltöltése
+
+FIGYELMEZTETÉS:
+Húzza meg kellően a tömszelencét, hogy ne
+csúszhasson ki a kábel, és ne juthasson nedves‐
+ség a sorkapocsdobozba.
+
+A további szivattyúcsatlakozásokra vonatkozó infor‐
+mációt lásd a következő helyen: 22. ábra 392. olda‐
+lon.
+
+4. Ha a motor nem rendelkezik automatikusan visz‐
+szaálló hővédelemmel, akkor állítsa be a túlterhe‐
+lés elleni védelmet az alábbi módon.
+
+Telepítés szivattyú feletti folyadékszint
+esetén (szívómagasság)
+
+– Ha a motor teljes terhelésen üzemel, állítsa
+
+A szivattyúdugó helyének illusztrációját lásd a követ‐
+kező helyen: 23. ábra 394. oldalon.
+
+be az értéket az elektromos szivattyú névle‐
+ges áramfelvételéhez (adatlap)
+– Ha a motor részterhelésen üzemel, állítsa be
+
+1. Zárja el a nyomóoldali csővezetéken lévő záró‐
+szelepet.
+
+HU
+
+az értéket az üzemi áramfelvételéhez (például
+áramerősség mérővel mért értékre).
+– Ha a szivattyú csillag-delta indítórendszerrel
+
+2. Távolítsa el a feltöltő- (3) vagy / mérődugót (1)
+és nyissa meg a szívóoldali elzárószelepet, amíg
+áramlani nem kezd a víz kifelé a nyíláson.
+
+a) Zárja le a feltöltő- (3) vagy mérődugót (1).
+
+rendelkezik, a hőrelét a névleges áram 58%-
+ára vagy az üzemi áramra állítsa be (kizárólag
+a háromfázisú motorok esetében).
+
+Telepítés a szivattyú alatti folyadékszint
+esetén (szívómagasság)
+
+5  Próbaüzemeltetés, elindítás,
+működtetés és leállítás
+
+A szivattyúdugó helyének illusztrációját lásd a követ‐
+kező helyen: 24. ábra 395. oldalon.
+
+Óvintézkedések
+
+1. A teljes csőrendszer üres:
+
+a) Nyissa ki a szívóoldali csővezetéken lévő zá‐
+
+FIGYELMEZTETÉS:
+Fizikai és termikus veszélyek
+
+rószelepet.
+b) Távolítsa el a feltöltő- (3) és a mérőnyílás
+
+• Mindig viseljen egyéni védőeszközö‐
+ket.
+• Ellenőrizze, hogy a tengelykapcsoló
+védelem fel van-e szerelve.
+
+dugóját (1). Használjon egy tölcsért a szivat‐
+tyú feltöltéséhez a feltöltőnyíláson keresztül,
+amíg a víz ki nem folyik ebből a nyílásból.
+c) Szerelje vissza a feltöltő- (3) és a mérőnyílás
+
+dugóját (1).
+
+FIGYELMEZTETÉS:
+
+2. A nyomóvezeték-rendszer fel van töltve:
+
+a) Nyissa meg a szívóoldali elzárószelepet, majd
+
+nyissa meg a nyomóoldali zárószelepet is.
+b) Távolítsa el a mérőnyílás dugóját (1), amíg víz
+
+• Ügyeljen, hogy a szivattyúzott folya‐
+dék ne okozhasson személyi sérülést
+vagy anyagi kárt.
+• A motorvédők a motor váratlan újrain‐
+dulását okozhatják. Ez súlyos szemé‐
+lyi sérülést okozhat.
+
+nem folyik ki a lyukból.
+c) Szorítsa meg a mérőnyílás dugóját (1).
+
+222

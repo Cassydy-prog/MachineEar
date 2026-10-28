@@ -1,0 +1,78 @@
+Appendix C: Pumping Systems Tip Sheet Number 2
+
+Background
+
+Pump Selection Considerations
+
+Pumping applications include 
+constant or variable flow rate 
+requirements, serving single or 
+networked loads, and consisting 
+of open loops (nonreturn or liquid 
+delivery) or closed loops (return 
+systems).
+
+ Understanding Your Pumping System Requirements 
+Pumps transfer liquids from one point to another by converting mechanical energy 
+from a rotating impeller into pressure energy (head). The pressure applied to the liquid 
+forces the fluid to flow at the required rate and to overcome friction (or head) losses in 
+piping, valves, fittings, and process equipment. The pumping system designer must 
+consider fluid properties, determine end use requirements, and understand environ-
+mental conditions.
+
+ Fluid Properties 
+The properties of the fluids being pumped can significantly affect the choice of pump. 
+Key considerations include:
+
+■	 Acidity/alkalinity (pH) and chemical composition. Corrosive and acidic fluids
+
+can degrade pumps, and should be considered when selecting pump materials.
+
+■	 Operating temperature. Pump materials and expansion, mechanical seal
+
+components, and packing materials need to be considered with pumped fluids that are 
+hotter than 200°F.
+
+■	 Solids concentrations/particle sizes. When pumping abrasive liquids such as
+
+Reference
+Centrifugal/Vertical NPSH Margin 
+(ANSI/HI 9.6.1-1998), www.pumps.
+org, Hydraulic Institute, 1998.
+
+industrial slurries, selecting a pump that will not clog or fail prematurely depends 
+on particle size, hardness, and the volumetric percentage of solids.
+
+■	 Specific gravity. The fluid specific gravity is the ratio of the fluid density to that
+
+of water under specified conditions. Specific gravity affects the energy required to 
+lift and move the fluid, and must be considered when determining pump power 
+requirements.
+
+■	 Vapor pressure. A fluid’s vapor pressure is the force per unit area that a fluid exerts
+
+in an effort to change phase from a liquid to a vapor, and depends on the fluid’s 
+chemical and physical properties. Proper consideration of the fluid’s vapor pressure 
+will help to minimize the risk of cavitation.
+
+■	 Viscosity. The viscosity of a fluid is a measure of its resistance to motion. Since
+
+kinematic viscosity normally varies directly with temperature, the pumping system 
+designer must know the viscosity of the fluid at the lowest anticipated pumping 
+temperature. High viscosity fluids result in reduced centrifugal pump performance 
+and increased power requirements. It is particularly important to consider pump 
+suction-side line losses when pumping viscous fluids.
+
+  End Use Requirements—System Flow Rate and Head 
+The design pump capacity, or desired pump discharge in gallons per minute (gpm) is 
+needed to accurately size the piping system, determine friction head losses, construct 
+a system curve, and select a pump and drive motor. Process requirements may be met 
+by providing a constant flow rate (with on/off control and storage used to satisfy 
+variable flow rate requirements), or by using a throttling valve or variable speed drive 
+to supply continuously variable flow rates.
+
+DOE/GO-102005-2156 • October 2005 • Pumping Systems Tip Sheet #2
+
+105
+
+A Sourcebook for Industry

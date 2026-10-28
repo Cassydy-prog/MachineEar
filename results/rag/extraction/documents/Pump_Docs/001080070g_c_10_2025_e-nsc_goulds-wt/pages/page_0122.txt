@@ -1,0 +1,160 @@
+sv - Översättning av orginal instruktioner
+
+a) Öppna på/av-ventilen som sitter uppströms
+
+Säkerhetsåtgärder
+
+från pumpen.
+b) Avlägsna fyllnings- (3) och ventilationsplug‐
+
+VARNING!:
+Fysiska och termiska risker
+
+gen (1). Använd en tratt och fyll pumpen ge‐
+nom fyllningshålet tills vatten flödar ut ur hå‐
+let.
+c) Dra åt fyllnings- (3) och ventilationspluggen
+
+• Bär alltid personlig skyddsutrustning.
+• Kontrollera att kopplingsskyddet är
+installerat.
+
+(1).
+
+2. Fyllt utloppsrörsystem:
+
+VARNING!:
+
+a) Öppna på/av-ventilen som sitter uppströms
+
+från pumpen och öppna på/av-ventilen ned‐
+ströms.
+b) Avlägsna ventilationspluggen (1) tills vatten
+
+flödar ut ur hålet.
+c) Dra åt ventilationspluggen (1).
+
+• Säkerställ att dränerad vätska inte
+orsakar skada på person eller utrust‐
+ning.
+• Motorskydden kan göra att motorn
+oväntat startar. Det kan resultera i all‐
+varliga personskador.
+
+VAR FÖRSIKTIG!:
+
+5.2  Kontrollera rotationsriktningen
+(trefasmotor)
+Följ den här proceduren före start.
+
+1. Leta upp pilarna på adaptern eller motorfläktkå‐
+pan för att bestämma rätt rotationsriktning.
+
+• De yttre ytorna på pumpen och mo‐
+torn kan överskrida 40 ºC (104 ºF)
+under drift.
+• Placera inte något brännbart material
+nära pumpen.
+
+2. Starta motorn.
+
+OBS!:
+
+3. Kontrollera snabbt rotationsriktningen genom
+kopplingsskyddet eller motorfläktkåpan.
+
+SV
+
+4. Stoppa motorn.
+
+5. Om rotationsriktningen är felaktig, gör följande:
+
+a) Koppla bort strömförsörjningen.
+b) Växla två av de tre trådarna för matningska‐
+
+beln i antingen motorns kopplingsplint eller
+den elektriska kontrollpanelen.
+
+För kopplingsscheman, se Figur 21 på sidan
+392.
+c) Kontrollera riktningen igen.
+
+5.3  Starta pumpen
+
+• Kör aldrig pumpen under lägsta märkflöde, torr
+eller utan fyllning.
+• Kör aldrig pumpen med på/av-tillförselventilen
+stängd under längre tid än ett par sekunder.
+• Kör aldrig pumpen med stängd på/av-insugnings‐
+ventil.
+• Utsätt inte en pump som inte är i drift för tempe‐
+raturer under 0 °C. Töm ut all vätska som finns i
+pumpen. Underlåtenhet att göra det kan leda till
+att vätskan fryser och skadar pumpen.
+• Summan av trycket på sugsidan (vattenledning,
+gravitationstank) och det maximala trycket som
+pumpen levererar får inte överskrida det maxi‐
+malt tillåtna arbetstrycket (nominellt tryck, PN)
+för pumpen.
+• Använd inte pumpen om kavitation uppstår. Kavi‐
+tation kan skada de interna komponenterna.
+
+OBS!:
+Efter den inledande starten och när driftstemperatu‐
+ren har nåtts, kontrollera justeringen av enhetens
+koppling, se Kontroll och justering av koppling på
+sidan 116.
+
+5.1  Fylla pumpen
+Information om ytterligare pumpanslutningar finns i
+Figur 22 på sidan 392.
+
+Ansvaret för att kontrollera att det är rätt flöde och
+temperatur på den pumpade vätskan vilar på instal‐
+latören eller ägaren.
+Kontrollera följande innan du startar pumpen:
+
+Installationer med flytande nivå över pumpen
+(sugtryck)
+
+En illustration som visar var pumppluggarna sitter
+finns i Figur 23 på sidan 394.
+
+1. Stäng på/av-ventilen som sitter nedströms från
+pumpen.
+
+• Pumpen är korrekt ansluten till strömförsörjning‐
+en.
+• Pumpen är korrekt fylld i enlighet med anvisning‐
+arna i Fylla pumpen (kapitel 5).
+• På/av-ventilen som sitter nedströms från pum‐
+pen är stängd.
+
+1. Starta motorn.
+
+2. Avlägsna fyllnings- (3) eller ventilationspluggen
+(1) och öppna på/av-ventilen uppströms tills vat‐
+ten flödar ut ur hålet.
+
+2. Öppna gradvis på/av-ventilen på pumpens ut‐
+loppssida.
+
+a) Stäng fyllnings- (3) eller ventilationspluggen
+
+(1).
+
+Vid förväntade driftsvillkor måste pumpen köras
+smidigt och tyst. Om inte, se Felsökning på sidan
+119.
+
+Installationer med flytande nivå under
+pumpen (suglyft)
+
+6  Underhåll
+
+En illustration som visar var pumppluggarna sitter
+finns i Figur 24 på sidan 395.
+
+1. Alla rörsystem tomma:
+
+118

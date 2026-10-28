@@ -1,0 +1,103 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+Italiano
+
+English
+
+Français
+
+1. Pump type
+2. a. = Serial number + date of
+manufacture; b. = Year of pro‐
+duction + order number + or‐
+der position number
+3. Maximum operating pressure
+4. Maximum operating liquid
+temperature
+5. Minimum operating liquid
+temperature
+6. Pump code
+7. Full impeller diameter (only
+for full impellers)
+8. Reduced impeller diameter
+(only for trimmed impellers)
+9. Flow range
+10. Head range
+11. Speed
+12. Nominal or maximum pump
+power (electric pump unit);
+maximum pump power absor‐
+bed (pump)
+13. Minimum efficiency index
+14. Hydraulic efficiency in best
+efficiency point (only for trim‐
+med impellers)
+15. Weight
+
+1. Tipo di pompa
+2. a. = Numero di serie + data
+di fabbricazione; b. = Anno di
+produzione + numero ordine +
+numero posizione ordine
+3. Pressione massima d'eserci‐
+zio
+4. Temperatura massima opera‐
+tive del liquido
+5. Temperatura minima operati‐
+ve del liquido
+6. Codice pompa
+7. Diametro intero della girante
+(solo per giranti non tornite)
+8. Diametro ridotto della girante
+(solo per giranti tornite)
+9. Campo della portata
+10. Campo della prevalenza
+11. Velocità
+12. Potenza pompa nominale o
+massima (unità della pom‐
+pa elettrica); potenza pompa
+massima assorbita (pompa)
+13. Indice di efficienza minimo
+14. Efficienza idraulica nel punto
+di efficienza migliore (solo per
+giranti tornite)
+15. Peso
+
+APPX
+
+1. Type de pompe
+2. a. = Numéro de série + date
+de fabrication ; b. = Année de
+production + numéro de com‐
+mande + numéro de position
+de commande
+3. Pression maximale de fonc‐
+tionnement
+4. Température maximale de li‐
+quide en fonctionnement
+5. Température minimale de li‐
+quide en fonctionnement
+6. Code de la pompe
+7. Diamètre de roue complète
+(seulement pour les roues
+complètes)
+8. Diamètre de roue réduit (seu‐
+lement pour les roues recti‐
+fiées)
+9. Gamme de débit
+10. Plage de hauteur manométri‐
+que
+11. Régime
+12. Puissance nominale ou maxi‐
+male de la pompe (unité de
+pompe électrique) ; puissan‐
+ce de pompe maximale ab‐
+sorbée (pompe)
+13. Indice de rendement minimal
+14. Rendement hydraulique au
+point de meilleur rendement
+(seulement pour les roues
+rectifiées)
+15. Poids
+
+346

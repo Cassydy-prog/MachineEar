@@ -1,0 +1,156 @@
+Unit Start-Up
+
+Visual Inspection of Equipment
+
+The equipment type and arrangement should be verified 
+as ordered at once when it arrives at the job site. When 
+a discrepancy is found, the local sales representative 
+must be notified immediately so that corrective action 
+may be investigated, also verify electrical conformance 
+to specifications. Unauthorized alterations and 
+unauthorized back charges will not be recognized by the 
+manufacturer.
+
+After the unit has been assembled, installed and all 
+utilities have been hooked up, the unit is now ready for 
+operation.
+
+WARNING
+
+motors can be reversed by changing internal 
+connections as described on the motor label or 
+wiring diagram.
+2.	 If the fan has inlet vanes, they should be partially 
+closed to reduce power requirements. This is 
+especially important if the fan is designed for a high 
+temperature application and is being started at room 
+temperature.
+3.	 Fans with multi-speed motors should be checked on 
+low speed during initial start-up.
+4.	 Check for unusual noise, vibration or overheating of 
+bearings. Refer to the “Troubleshooting” section of 
+this manual if a problem develops.
+5.	 Grease may be forced out of the bearing seals during 
+initial start-up. This is a normal self-purging feature 
+of this type of bearing.
+
+Vibration
+
+Disconnect and secure to the “Off” position all 
+electrical power to the fan prior to inspection or 
+servicing. Failure to comply with this safety precaution 
+could result in serious injury or death.
+
+Before starting the unit, check the following:
+
+Excessive vibration is the most frequent problem 
+experienced during initial start-up. Left unchecked,
+
+1.	 Disconnect and lock-out all power switches to fan.
+
+See warning below.
+
+Common Sources of Vibration
+
+2.	 Check all fasteners, set screws and locking collars
+
+on the fan, bearings, drive, motor base and 
+accessories for tightness.
+
+3.	 Rotate the fan wheel manually to be sure that it is
+
+free to operate. Remove any dirt or debris that may 
+have accumulated during installation.
+
+excessive 
+vibration 
+can cause a 
+multitude of 
+problems, 
+including 
+structural and/
+or component 
+failure.
+
+4.	 Check for bearing alignment and lubrication.
+
+5.	 Check for coupling alignment (Arr. 8 only).
+
+1. Wheel unbalance 
+2. Drive pulley misalignment 
+3. Incorrect belt tension 
+4. Bearing / coupling misalignment 
+5. Mechanical looseness 
+6. Faulty belts 
+7. Drive component unbalance 
+8. Poor inlet / outlet conditions 
+9. Foundation stiffness
+
+6.	 Check the V-belt drive for proper alignment and
+
+tension.
+
+7.	 Check all guarding (if supplied) to ensure that it is
+
+securely attached and not interfering with rotating 
+parts.
+
+8.	 Check operation of variable inlet vanes or discharge
+
+dampers (if supplied) for freedom of movement.
+
+9.	 Check all electrical connections for proper
+
+attachment.
+
+Many of these 
+conditions can 
+be discovered 
+by careful observation. Refer to the troubleshooting 
+section of this manual for corrective actions. If 
+observation cannot locate the source of vibration, a 
+qualified technician using vibration analysis equipment 
+should be consulted. If the problem is wheel unbalance, 
+in-place balancing can be done providing there is 
+access to the fan wheel. Any correction weights added 
+to the wheel should be welded to either the wheel back 
+(single-plane balance) or to the wheel back and wheel 
+cone (two-plane balance).
+
+10.	 Check housing and ductwork, if accessible, for 
+obstructions and foreign material that may damage 
+the fan wheel.
+Additional Steps for Initial Start-Up
+
+Greenheck performs a vibration test on all centrifugal 
+fans before shipping. Three vibration readings are taken 
+on each bearing in the horizontal, vertical, and axial 
+directions. The allowable maximum vibration for belt 
+drive units is 0.15 in/sec. peak velocity filter-in for rigid 
+mount and 0.20 in/sec. peak velocity filter-in for flexible 
+mount at the fan RPM per AMCA Standard 204. These 
+vibration signatures are a permanent record of how the 
+fan left the factory and are available upon request.
+
+Generally, fan vibration and noise is transmitted to other 
+parts of the building by the ductwork. To eliminate this 
+undesirable effect, the use of heavy canvas connectors 
+is recommended. If fireproof material is required, 
+Flexweave™1000 - Type FN-30 can be used.
+
+1.	 Check for proper wheel rotation by momentarily 
+energizing the fan. Rotation is always determined 
+by viewing the wheel from the drive side and should 
+correspond to the rotation decal affixed to the unit. 
+	
+One of the most frequently encountered problems 
+with centrifugal fans is motors which are wired to run 
+in the wrong direction. This is especially true with 
+3-phase installations where the motor will run in  
+either direction, depending on how it has been wired. 
+To reverse rotation of a 3-phase motor, interchange 
+any two of the three electrical leads. Single phase
+
+Industrial Process Fans
+10
+®

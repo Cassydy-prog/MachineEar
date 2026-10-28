@@ -1,0 +1,71 @@
+Removing from Storage
+
+Table of Contents
+
+General Safety Information. . . . . . . . . . . . . . . . . . . . . 1
+
+As fans are removed from storage to be installed in their 
+final location, they should be protected and maintained 
+in a similar fashion until the fan equipment goes into 
+operation.
+
+Receiving / Unpacking / Handling / Storage . . . . . . . 2
+	Inspection and Maintenance during Storage. . . . . . 2
+Removing from Storage. . . . . . . . . . . . . . . . . . . . . . 3
+General Information. . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+Prior to assembly and installation of the unit and system 
+components, inspect the fan assembly to make sure it is 
+in working order.
+
+1.	 Check all fasteners, set screws on the fan, wheel, 
+bearings, drive, motor base and accessories for 
+tightness.
+
+Unit and System Identification Tags . . . . . . . . . . . . 4
+Pre-Installation Information. . . . . . . . . . . . . . . . . . . 4
+Electrical Disconnects. . . . . . . . . . . . . . . . . . . . . . . 4
+Moving Parts. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Guards / Access Doors. . . . . . . . . . . . . . . . . . . . . . . 4
+Air Pressure and Suction. . . . . . . . . . . . . . . . . . . . . 4
+Fans - Rigging and Lifting. . . . . . . . . . . . . . . . . . . . . . 5
+Installation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+2.	 Rotate the fan wheel by hand and assure no parts 
+are rubbing. Access to the wheel is obtained 
+through a bolted panel located on the side of the 
+fan housing.
+
+3.	 Ensure proper wheel settings for radial gap and 
+alignment. Refer to Radial Gap, Overlap and Wheel 
+Alignment section on page 8.
+
+Ducted Inlet Installations. . . . . . . . . . . . . . . . . . . . . 6
+Ducted Outlet Installations. . . . . . . . . . . . . . . . . . . . 6
+Non-Ducted Installations. . . . . . . . . . . . . . . . . . . . . 6
+Fan Drainage Piping and Trap Detail. . . . . . . . . . . . 7
+	Bases. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Belt Guards . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Electrical Connections . . . . . . . . . . . . . . . . . . . . . . . . 8
+Radial Gap, Overlap and Wheel Alignment . . . . . . . . 9
+Unit Start-Up. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+Visual Inspection of Equipment. . . . . . . . . . . . . . . 10
+Additional Steps for Initial Start-Up. . . . . . . . . . . . 10
+Vibration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Routine Maintenance . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+Motors. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+	Shaft Bearings. . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+	Belt Drive Maintenance. . . . . . . . . . . . . . . . . . . . . 12
+Belt Adjustment. . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Variable Frequency Drive Operation. . . . . . . . . . . . . 13
+Field Coating Touch-Up Procedure. . . . . . . . . . . . . . 13
+Parts List. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Troubleshooting. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Maintenance Log. . . . . . . . . . . . . . . . . . . . . Backcover
+Our Commitment. . . . . . . . . . . . . . . . . . . . . Backcover
+
+Industrial Process Fans
+3
+®

@@ -1,0 +1,41 @@
+Other means of inspection at FAG
+
+Calculation of load conditions
+
+116: Calculation of stress on a journal roller bearing housing by means of the 
+Finite Element Method (FEM)
+
+4.7 Calculation of load 
+conditions
+In several cases bearings, whose load
+situation is not known completely, are
+selected for new constructions on the 
+basis of experience with older, similar
+units. When bearing damage arises at a
+later stage, an accurate calculation of the
+mounting conditions frequently helps in
+the search for its cause. A comparison of
+the expected life calculation and the life
+actually attained is particularly impor-
+tant as well as the calculation of lubricat-
+ing conditions. FAG has an extensive
+collection of calculation programs at its
+disposal. Even the most sophisticated
+bearing cases present no problem. The
+programs can calculate values for the ex-
+ternal bearing load, tilting between 
+mounted rings, internal stress, kinematic
+procedures within the bearing, deforma-
+tion of mating parts, temperature 
+marches and the like. The complexity of
+the programs ranges from simple evalua-
+tions of analytical formulae to the per-
+formance of various nummerical itera-
+tions with non-linear approximate solu-
+tions and even to extensive three-dimen-
+sional strength calculations for mating
+parts by means of the finite elements,
+fig. 116.
+
+71
+FAG

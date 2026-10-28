@@ -1,0 +1,85 @@
+Variable Frequency Drive Operation
+
+Field Coating Touch-Up Procedure 
+for Scratched Areas
+
+WARNING
+
+Standard coating and color is RAL7023 Concrete Grey. 
+The procedure outlines the correct method for repairing 
+minor scratches in the coating.
+
+TOUCH-UP PAINT REPAIR KIT CONTENTS
+
+• One pint of Kem Kromik® primer
+
+- including a technical data sheet
+	• One pint of industrial enamel
+
+- including a technical data sheet
+	• Four disposable foam brushes
+	• One sheet sandpaper
+	• Repair procedure details
+
+For operation with a Variable Frequency Drive 
+(VFD), always check motor amps when adjusting 
+the operating frequency. Motor may be sized for 
+the original selected operating speed under 60 Hz. 
+Bypassing the VFD or increasing the speed from this 
+original selection, even if less than 60 Hz, may cause 
+motor overload or failure. Consult factory with fan 
+serial number before increasing the upper limiting 
+frequency.
+Always check the fan rpm when adjusting the 
+operating frequency. Do not exceed maximum 
+class fan rpm of the wheel as stated on the unit 
+identification nameplate.
+
+1.	 Scuff affected area to be repaired using medium 
+sandpaper (provided) or medium Scotch Brite™ pad. 
+Feather the edges.
+
+2.	 Clean affected area to be touched up using an 
+alkaline based cleaner and rinse.
+
+3.	 Apply Kem Kromik® primer using 1 inch foam brush 
+(provided). Follow technical data sheet instructions.
+
+It is the responsibility of the installing body to perform 
+coast-down tests and identify any resonant frequencies 
+after the equipment is fully installed. These resonant 
+frequencies are to be removed from the operating 
+range of the fan by using the “skip frequency” function 
+in the VFD programming. Failure to remove resonant 
+frequencies from the operating range will decrease the 
+operating life of the fan and void the warranty.
+
+4.	 Allow primer to dry a minimum of 2-1/2 hours before 
+top coating.
+
+5.	 Apply topcoat with industrial enamel using 1 inch 
+foam brush (provided). Follow technical data sheets 
+instructions. Allow painted units to air-dry and cure 
+before putting into service. See Technical Data 
+sheets (included with kit) for detailed drying and cure 
+schedules at different temperatures.
+
+NOTE
+
+While the manufacturer provides heavy-duty, quality 
+products for marine environments, routine paint 
+touch-ups may be required in coastal regions where 
+salt or marine air could damage the coating. The 
+severe environment will accelerate the damage from 
+any scratches or chips and it is recommended that 
+those be repaired immediately.
+
+To order additional coating repair kits please reference  
+part number HAZ2597 PNT FIELD REPAIR KIT, 
+RAL7023 CONCRETE GREY. Please contact factory 
+with your fan’s serial number for colors other than our 
+standard.
+
+Industrial Process Fans
+13
+®

@@ -1,0 +1,119 @@
+Motor controls - General
+
+External wiring
+
+Wiring to the motor should be installed in 
+conformance with the National Electrical Code 
+and any local codes.
+
+Motor controls should conform to all the electrical 
+data stamped on the motor data plate. Complete 
+instructions for installation, operation, and 
+maintenance are included with the controlling device.
+
+Troubleshooting
+
+Between regular maintenance inspections, be alert for signs of motor or pump trouble. Common symptoms are 
+listed below. Correct any trouble immediately and AVOID COSTLY REPAIR AND SHUTDOWN.
+
+No liquid delivered
+
+CAUSES
+CURES
+
+1. Lack of prime.
+Fill pump and suction pipe completely with liquid.
+
+2. Loss of prime.
+Check for leaks in suction pipe joints and fittings; vent casing to remove 
+accumulated air.
+
+3. Suction lift too high.
+If no obstruction at inlet, check for pipe friction losses. However, static lift may be 
+too great. Measure with mercury column or vacuum gauge while pump operates. 
+If static lift is too high, liquid to be pumped must be raised or pump lowered.
+
+4. Discharge head too high.
+Check pipe friction losses. Large piping may correct condition. 
+Check that valves are wide open.
+
+5. Speed too low.
+Check whether motor is directly across-the-line and receiving 
+full voltage. Or frequency may be too low; motor may have an 
+open phase.
+
+6. Wrong direction of rotation.
+Check motor rotation with directional arrow on pump casing.
+
+7. Impeller completely plugged.
+Dismantle pump and clean impeller.
+
+Not enough liquid delivered
+
+CAUSES
+CURES
+
+8. Air leaks in suction piping.
+
+If liquid pumped is water or other non-explosive, and explosive gas or dust is 
+not present, test flanges for leakage with flame or match. For such liquids as 
+gasoline, suction line can be tested by shutting off or plugging inlet and putting 
+line under pressure. A  gauge will indicate a leak with a drop of pressure.
+
+9. Air leaks in stuffing box.
+Increase seal lubricant pressure to above atmosphere.
+
+10. Speed too low.
+See item 5.
+
+11. Discharge head too high.
+See item 4.
+
+12. Suction lift too high
+See item 3.
+
+13. Impeller partially plugged.
+See item 7.
+
+a. Increase positive suction head on pump by lowering pump.
+b. Sub-cool suction piping at inlet to lower entering
+
+14. Cavitation; insufficient NPSH
+(depending on installation)
+
+liquid temperature.
+c. Pressurize suction vessel.
+
+15. Defective impeller.
+Inspect impeller, bearings and shaft. Replace if damaged or vane sections badly 
+eroded.
+
+16. Defective packing.
+Replace packing and sleeves if badly worn.
+
+17. Foot valve too small or partially
+obstructed.
+
+Area through ports of valve should be at least as large as area of suction pipe - 
+preferably 1-1/2 times. If strainer is used, net clear area should be 3 to 4 times 
+area of suction pipe.
+
+18. Suction inlet not immersed
+deep enough.
+
+If inlet cannot be lowered, or if eddies through which air is sucked persist 
+when it is lowered, chain a board to suction pipe. It will be drawn into eddies, 
+smothering the vortex.
+
+19. Wrong direction of rotation.
+Symptoms are an overloaded drive and about 1/3 rated capacity from pump. 
+Compare rotation of motor with directional arrow on pump casing.
+
+20. Too small impeller diameter
+(probable cause if none of above).
+
+Check with factory to see if a larger impeller can be used: otherwise, cut pipe 
+losses or increase speed -or both, as needed. But be careful not to seriously 
+overload drive.
+
+26

@@ -1,0 +1,93 @@
+Section 1: Pumping System Basics
+
+Section 1:  Pumping System Basics
+
+Overview
+
+Pumps are essential to the daily operation of many 
+facilities. This tends to promote the practice of 
+sizing pumps conservatively to ensure that the 
+needs of the system will be met under all 
+conditions. Intent on ensuring that the pumps are 
+large enough to meet system needs, engineers 
+often overlook the cost of oversizing pumps and 
+err on the side of safety by adding more pump 
+capacity. Unfortunately, this practice results in 
+higher-than-necessary system operating and 
+maintenance costs. In addition, oversized pumps 
+typically require more frequent maintenance 
+than properly sized pumps. Excess flow energy 
+increases the wear and tear on system components, 
+resulting in valve damage, piping stress, and 
+excess system operation noise.
+
+Pumps are used widely in industry to provide 
+cooling and lubrication services, to transfer fluids 
+for processing, and to provide the motive force in 
+hydraulic systems. In fact, most manufacturing 
+plants, commercial buildings, and municipalities 
+rely on pumping systems for their daily operation. 
+In the manufacturing sector, pumps represent 27% 
+of the electricity used by industrial systems. In the 
+commercial sector, pumps are used primarily in 
+heating, ventilation, and air-conditioning (HVAC) 
+systems to provide water for heat transfer. Mun-
+icipalities use pumps for water and wastewater 
+transfer and treatment and for land drainage. Since 
+they serve such diverse needs, pumps range in size 
+from fractions of a horsepower to several thousand 
+horsepower.
+
+Pumping System Components
+
+Typical pumping systems contain five basic 
+components: pumps, prime movers, piping, valves, 
+and end-use equipment (e.g., heat exchangers, 
+tanks, and hydraulic equipment). A typical 
+pumping system and its components are illustrated 
+in Figure 1 on page 4.
+
+In addition to an extensive range of sizes, pumps 
+also come in several different types. They are 
+classified by the way they add energy to a fluid:  
+positive displacement pumps1 squeeze the fluid 
+directly; centrifugal pumps (also called “roto-
+dynamic pumps”) speed up the fluid and convert 
+this kinetic energy to pressure. Within these 
+classifications are many different subcategories. 
+Positive displacement pumps include piston, screw, 
+sliding vane, and rotary lobe types; centrifugal 
+pumps include axial (propeller), mixed-flow, and 
+radial types. Many factors go into determining 
+which type of pump is suitable for an application. 
+Often, several different types meet the same 
+service requirements.
+
+Pump reliability is important—often critically so. 
+In cooling systems, pump failure can result in 
+equipment overheating and catastrophic damage. 
+In lubrication systems, inadequate pump 
+performance can destroy equipment. In many 
+petrochemical and power plants, pump downtime 
+can cause a substantial loss in productivity.
+
+ Pumps 
+Although pumps are available in a wide range of 
+types, sizes, and materials, they can be broadly 
+classified into the two categories described 
+earlier—positive displacement and centrifugal. 
+These categories relate to the manner in which the 
+pumps add energy to the working fluid. Positive 
+displacement pumps pressurize fluid with a 
+collapsing volume action, essentially squeezing an 
+amount of fluid equal to the displacement volume 
+of the system with each piston stroke or shaft 
+rotation. Centrifugal pumps work by adding 
+kinetic energy to a fluid using a spinning impeller. 
+As the fluid slows in the diffuser section of the 
+pump, the kinetic energy of the fluid is converted 
+into pressure.
+
+1 Terms in bold type are defined in the glossary in Appendix A.
+
+A Sourcebook for Industry

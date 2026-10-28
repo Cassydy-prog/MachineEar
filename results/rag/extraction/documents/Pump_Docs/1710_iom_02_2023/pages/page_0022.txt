@@ -1,0 +1,14 @@
+4  Installation
+
+– If the motor is used with full load, then set the value to the nominal current value of
+
+electric pump (data plate)
+– If the motor is used with partial load, then set the value to the operating current (for
+
+example measured with a current pincer).
+– If the pump has a star-delta starting system, then adjust the thermal relay to 58% of
+
+the nominal current or operating current (only for three-phase motors).
+
+20
+Series 1710 Installation, Operation, and Maintenance Manual

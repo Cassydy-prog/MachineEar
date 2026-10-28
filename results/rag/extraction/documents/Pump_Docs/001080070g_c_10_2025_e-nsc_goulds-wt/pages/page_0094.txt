@@ -1,0 +1,223 @@
+da - Oversættelse af original instruktioner
+
+Pmaks.
+Maksimalt tryk, genereret af pumpen
+
+PN
+Maksimalt driftstryk
+
+Væsketemperaturintervaller
+
+Navnepladen er placeret på lejebøjlen. På navnepla‐
+den er specifikationerne for nøgleprodukter anført.
+Du kan finde flere oplysninger i Figur 1 på side 345.
+På navnepladen er der oplysninger om kompressor‐
+hjulet og kabinetmaterialet, den mekaniske tætning
+og deres materialer. Du kan finde flere oplysninger i
+Figur 3 på side 363.
+
+Figur 4 på side 367 viser arbejdstemperaturens om‐
+råder.
+Kontakt salgs- og servicerepræsentanten for særlige
+krav.
+
+IMQ eller TUV eller IRAM eller andre
+markering (kun for elektriske pumper)
+
+Maks. antal starter pr. time
+
+18,5
+
+Medmindre andet er specificeret ved produkter med
+et mærkat for elektrisk relateret sikkerhedsgodken‐
+delse, gælder godkendelsen udelukkende for den
+elektriske pumpe.
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+3.4  Pumpebeskrivelse
+
+60
+40
+30
+24
+16
+8
+4
+
+Star‐
+ter pr.
+time
+
+Støjniveau
+
+DA
+
+• Forbindelsesdimensioner i overensstem‐
+melse med EN 733 (modeller
+32-125…-200; 40-125…-250; 50-125…-250;
+65-125…-315;80-160…-315; 100-200…-400;
+125-250…-400; 150-315…-400).
+• Pumpe med spiralhuskabinet med lejebøjle i ba‐
+genden
+
+3.5  Materiale
+
+Du kan finde oplysninger om lydtryksniveauer for
+pumper udstyret med den medfølgende standard
+motor i Tabel 9 på side 368.
+Du kan se lydtrykværdier for pumpen uden motor i
+Tabel 10 på side 372.
+
+De af pumpens metaldele, der kommer i kontakt
+med væsken, er produceret af følgende:
+
+4  Installation
+
+Standard/ekstra
+
+Materialekode
+Materialekabi‐
+net/-pumpehjul
+
+Forholdsregler
+
+CC
+Støbejern/
+
+Standard
+
+ADVARSEL:
+
+Støbejern
+
+CB
+Støbejern/Bron‐
+
+Standard
+
+ze
+
+Standard
+
+CS
+Støbejern/
+Rustfrit stål
+
+Standard
+
+CN
+Støbejern/
+Rustfrit stål
+
+DC
+Duktiljern / Stø‐
+
+Standard
+
+• Sørg for at overholde alle gældende
+bestemmelser for at forhindre ulyk‐
+ker.
+• Anvend passende udstyr samt be‐
+skyttelse.
+• Se altid de lokale og/eller regiona‐
+le regulativer, lovgivning og gælden‐
+de bestemmelser vedrørende valg af
+installationsstedet, rør- og tårnforbin‐
+delser.
+
+bejern
+
+Elektrisk fare:
+
+DB
+Duktiljern /
+
+Standard
+
+Bronze
+
+Standard
+
+DN
+Duktiljern /
+Rustfrit stål
+
+NN
+Rustfrit stål /
+
+Standard
+
+Rustfrit stål
+
+RR
+Duplex/Duplex
+Valgfri
+
+• Sørg for, at alle tilslutninger foretages
+af en kvalificeret installationstekniker
+og i overensstemmelse med gælden‐
+de bestemmelser.
+• Før påbegyndelse af arbejde på en‐
+heden skal du sørge for, at enhe‐
+den og kontrolpanelet er isoleret fra
+strømforsyningen og ikke kan tilføres
+strøm. Dette gælder også for styre‐
+kredsen.
+
+Jordforbindelse (jord)
+
+3.6  Mekanisk tætning
+Uafbalanceret enkelt mekanisk plombering i over‐
+ensstemmelse med EN 12756, version K.
+
+Elektrisk fare:
+
+3.7  Grænser for anvendelse
+
+Maksimalt arbejdstryk
+
+Figur 4 på side 367 viser det maksimale arbejdstryk
+afhængig af pumpemodellen og den pumpede væs‐
+kes temperatur.
+P1maks. + Pmaks≤ PN
+
+P1maks
+Maksimalt åbningstryk
+
+• Forbind altid det eksterne beskyttel‐
+sesstik til den jord (forbundne) klem‐
+række, før der foretages andre elektri‐
+ske forbindelser.
+• Du skal jordforbinde alt elektrisk
+udstyr. Dette gælder for pumpeud‐
+styr, drev og overvågningsudstyr. Test
+jordforbindelsesledningen for at veri‐
+ficere, at den er tilsluttet korrekt.
+
+90

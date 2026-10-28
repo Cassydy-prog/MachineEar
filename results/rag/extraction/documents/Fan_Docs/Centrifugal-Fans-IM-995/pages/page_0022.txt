@@ -1,0 +1,62 @@
+IM-995
+
+Grouting
+
+Grouting is the final installation step. If Twin City Fan & 
+Blower service is purchased, grouting must be delayed until 
+after the Twin City Fan & Blower inspection and vibration 
+check. Check all shims before grouting to make sure that the 
+fan is resting evenly on all points with anchor bolts secured 
+to hold the shim. Back off leveling nuts if used. Use forms 
+with sufficient space allowed for working the grout. The 
+concrete foundation should be clean and well moistened 
+before pouring grout. Use a commercial grade nonshrinking 
+grout and be especially sure when pouring grout that the 
+anchor bolt sleeves are filled. Prior to grouting, set a section 
+of pipe (conduit, steel pipe or plastic) through the grout as 
+a form in the low point which is able to wick/drain out the 
+excess moisture. Refer to the Foundations and Supporting 
+Structures section in the installation manual for a detail of a 
+proper foundation, grout allowance and anchor bolt sleeves.
+
+Twin City Fan & Blower
+
+Minneapolis, MN           www.tcf.com
+Twin City Fan
+
+model #
+
+Serial Number & Fan Type
+
+serial #
+
+size
+09-265399-1-1
+BAE-SW
+
+volts
+hz
+class
+
+The serial number and fan type can be found on our permanent 
+nameplate of the fan.
+
+hp
+phase
+arr.
+
+222
+3
+3
+
+tag
+
+NAMEPLT-TCF02SS
+Parts & Service
+
+888-444-4823  |  fieldservice@tcf.com  |  parts@tcf.com
+
+Twin City Fan
+
+Installation, Operation & Maintenance Manual
+22

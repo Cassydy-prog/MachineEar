@@ -1,0 +1,156 @@
+fr - Instructions initiales
+
+a) Débrancher l’alimentation.
+b) Dans la boîte à bornes du moteur ou sur le
+
+tableau électrique de commande, échanger
+deux des trois fils du câble d'alimentation.
+
+Pour les schémas de câblage, voir Figure 21
+en page 392.
+c) Vérifier à nouveau le sens de rotation.
+
+5.3  Démarrage de la pompe
+
+non-respect de cette consigne pourrait entraîner
+le gel du liquide et endommager la pompe.
+• La somme de la pression côté aspiration (cours
+d'eau, réservoir à gravité) et de la pression maxi‐
+male fournie par la pompe ne doit pas dépasser
+la pression de service maximale autorisée (PN
+pression nominale) pour la pompe.
+• Ne pas utiliser la pompe si de la cavitation se
+produit. La cavitation peut endommager les com‐
+posants internes.
+
+FR
+
+5.1  Remplissage de la pompe
+Pour en savoir plus sur les raccordements supplé‐
+mentaires de la pompe, voir Figure 22 en page 392.
+
+REMARQUE:
+Après le démarrage initial et une fois la température
+de fonctionnement atteinte, vérifier l'alignement de
+l'accouplement de l'unité, voir Vérification et aligne‐
+ment de l'accouplement en page 32.
+
+Installations où le niveau de liquide est au-
+dessus de la pompe (hauteur manométrique
+d'aspiration)
+
+La responsabilité de vérification du débit et de la
+température du liquide pompé incombe à l'installa‐
+teur ou au propriétaire.
+Avant de démarrer la pompe, s'assurer que :
+
+Voir Figure 23 en page 394 pour une illustration pré‐
+sentant l'emplacement des bouchons de la pompe.
+
+1. Fermer la vanne d'arrêt en aval de la pompe.
+
+2. Déposer le bouchon de remplissage (3) ou de
+jauge (1) et ouvrir la vanne d'arrêt en amont jus‐
+qu'à la sortie de l'eau par le trou.
+
+• La pompe est reliée correctement à l'alimenta‐
+tion.
+• La pompe est remplie correctement selon les ins‐
+tructions de Remplissage de la pompe (chapitre
+5).
+• La vanne d'arrêt en aval de la pompe est fermée.
+
+a) Fermer le bouchon de remplissage (3) ou de
+
+1. Démarrer le moteur.
+
+jauge (1).
+
+2. Ouvrir progressivement la vanne d'arrêt côté re‐
+foulement de la pompe.
+
+Installations où le niveau de liquide se trouve
+en dessous de la pompe (levage d'aspiration)
+
+Voir Figure 24 en page 395 pour une illustration pré‐
+sentant l'emplacement des bouchons de la pompe.
+
+Aux conditions de fonctionnement attendues, la
+pompe doit fonctionner silencieusement et sans
+vibrations. Si ce n'est pas le cas, voir Dépannage
+en page 35.
+
+1. Système de canalisation complètement vide :
+
+6  Maintenance
+
+a) Ouvrir la vanne d'arrêt en amont de la pompe.
+b) Déposer le bouchon de remplissage (3) et le
+
+Précautions
+
+bouchon de jauge (1). Remplir la pompe à
+l'aide d'un entonnoir par le bouchon de rem‐
+plissage jusqu'au débordement de l'eau par
+ce trou.
+c) Serrer le bouchon de remplissage (3) et le
+
+bouchon de jauge (1).
+
+Risque électrique:
+Débrancher et couper l'alimentation élec‐
+trique avant toute intervention d'installa‐
+tion ou d'entretien de l'appareil.
+
+2. Système de canalisation de refoulement rempli :
+
+AVERTISSEMENT:
+
+a) Ouvrir la vanne d'arrêt en amont de la pompe
+
+et ouvrir la vanne d'arrêt en aval.
+b) Retirer le bouchon de jauge (1) jusqu'au dé‐
+
+bordement de l'eau par ce trou.
+c) Serrer le bouchon de jauge (1).
+
+5.2  Vérifier le sens de rotation (moteur
+triphasé)
+Respecter cette procédure avant le démarrage.
+
+• L'entretien et la réparation doivent
+être exclusivement confiés à du per‐
+sonnel qualifié et compétent.
+• Respecter les règlements en vigueur
+concernant la prévention des acci‐
+dents.
+• Utiliser des équipements de protec‐
+tion adéquats.
+• S'assurer que le liquide vidangé ne
+cause pas de dommages ou de bles‐
+sures.
+
+1. Trouver les flèches sur l'adaptateur ou le couver‐
+cle du ventilateur du moteur pour déterminer le
+sens de rotation correct.
+
+2. Démarrer le moteur.
+
+3. Vérifier rapidement le sens de rotation à travers
+le protecteur d'accouplement ou le couvercle du
+ventilateur du moteur.
+
+4. Arrêter le moteur.
+
+6.1  Service
+Si l'utilisateur souhaite programmer des dates d'en‐
+tretien, celles-ci dépendent du type de liquide pompé
+et des conditions de fonctionnement de la pompe.
+Contacter le Service commercial et après-vente lo‐
+cal pour toute demande ou informations concernant
+l'entretien ou les réparations courantes.
+
+5. Si le sens de rotation est incorrect, procéder
+comme suit :
+
+34

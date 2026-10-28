@@ -1,0 +1,220 @@
+de - Übersetzung des Originals
+
+Ursache
+Abhilfemaßnahme
+
+7.8  Die Pumpe läuft, liefert jedoch zu wenig
+oder kein Medium
+
+Ursache
+Abhilfemaßnahme
+
+Schützen Sie die Schaltta‐
+fel vor Wärmequellen und
+direktem Sonnenlicht.
+
+• Entlüften Sie.
+
+Die Schalttafel befindet
+sich in einer zu heißen
+Umgebung oder ist di‐
+rektem Sonnenlicht aus‐
+gesetzt.
+
+Es befindet sich
+Luft in der Pumpe
+oder in den Rohrlei‐
+tungen.
+
+Prüfen Sie die Betriebsbe‐
+dingungen des Motors.
+
+Die Spannungsversor‐
+gung liegt nicht inner‐
+halb der Betriebsgren‐
+zwerte des Motors.
+
+Die Pumpe ist nicht
+korrekt angefüllt.
+
+Prüfen Sie die
+
+Eine Phase der Strom‐
+versorgung fehlt.
+
+Stoppen Sie die Pumpen und
+wiederholen Sie den Anfüll‐
+vorgang.
+Wenn das Problem weiterhin
+besteht:
+
+• Spannungsversorgung
+• Elektrischer Anschluss
+
+DE
+
+7.5  Die elektrische Pumpe startet, aber der
+Übertemperaturschalter löst anschließend zu
+unterschiedlichen Zeiten aus
+
+• Prüfen Sie, dass die Gleit‐
+ringdichtung nicht undicht
+ist.
+• Prüfen Sie das Ansaugrohr
+auf Dichtigkeit.
+• Tauschen Sie alle eventu‐
+ell undichten Ventile aus.
+
+Ursache
+Abhilfemaßnahme
+
+Öffnen Sie das Ventil.
+
+Die Drosselung an
+der Auslassseite ist
+zu stark.
+
+Wenden Sie sich an den
+lokalen Vertriebs- und Ser‐
+vicevertreter.
+
+In der Pumpe befin‐
+den sich Fremdkörper
+(Feststoffe oder Fa‐
+sern), die das Laufrad
+blockieren.
+
+Bauen Sie die Ventile aus und
+reinigen Sie sie.
+
+Ventile haben sich
+in geschlossener
+bzw. teilweise ge‐
+schlossener Positi‐
+on festgesetzt.
+
+Die Förderrate der
+Pumpe liegt über
+dem auf dem Typen‐
+schild angegebenen
+Grenzwert.
+
+Die Pumpe ist ver‐
+stopft.
+
+Wenden Sie sich an den loka‐
+len Vertriebs- und Servicever‐
+treter.
+
+Schließen Sie das EIN-AUS-
+Ventil teilweise nach un‐
+ten, bis die Förderrate den
+auf dem Typenschild ange‐
+gebenen Grenzwerten ent‐
+spricht oder diese unter‐
+schreitet.
+
+Die Rohrleitungen
+sind verstopft.
+
+Prüfen und reinigen Sie die
+Rohrleitungen.
+
+Die Pumpe ist überlas‐
+tet, weil das Förder‐
+medium eine zu hohe
+Dichte oder eine zu ho‐
+he Viskosität aufweist.
+
+Vertauschen Sie zwei der
+Phasen am Klemmenbrett
+des Motors oder an der
+Schalttafel.
+
+Die Drehrichtung
+des Laufrads ist
+falsch.
+(Drehstromversion)
+
+Prüfen Sie den tatsächli‐
+chen Leistungsbedarf an‐
+hand der Fördermedien-Ei‐
+genschaften und tauschen
+Sie den Motor entspre‐
+chend aus.
+
+Die Motorlager sind
+verschlissen.
+
+Wenden Sie sich an den
+lokalen Vertriebs- und Ser‐
+vicevertreter.
+
+Die Betriebsbedingungen der
+Pumpe prüfen. Gehen Sie bei
+Bedarf wie folgt vor:
+
+Die Saughöhe oder
+der Durchflusswi‐
+derstand im Saug‐
+rohr ist zu hoch.
+
+• Verringern Sie die Saughö‐
+he
+• Verwenden Sie ein An‐
+saugrohr mit größerem
+Durchmesser.
+
+7.6  Die elektrische Pumpe startet, aber die
+allgemeinen Schutzfunktionen des Systems
+werden ausgelöst
+
+Ursache
+Abhilfemaßnahme
+
+7.9  Die elektrische Pumpe stoppt und dreht
+dann in die falsche Richtung
+
+Ein Kurzschluss im
+elektrischen System.
+
+Überprüfen Sie das elektri‐
+sche System.
+
+Ursache
+Abhilfemaßnahme
+
+7.7  Die elektrische Pumpe startet, aber der
+FI-Schalter des Systems wird ausgelöst
+
+In einer oder beiden der folgen‐
+den Komponenten ist eine Le‐
+ckage vorhanden:
+
+Reparieren Sie die
+betroffene Kompo‐
+nente oder tau‐
+schen Sie sie aus.
+
+Ursache
+Abhilfemaßnahme
+
+• Ansaugrohr
+• Fußventil oder Rückschlag‐
+ventil
+
+Entlüften Sie.
+
+Prüfen Sie die Isolierung
+aller elektrischen Kom‐
+ponenten im System.
+
+Es befindet sich Luft im Saug‐
+rohr.
+
+Es besteht eine Verbin‐
+dung zwischen einem
+spannungsführenden Lei‐
+ter und Erde.
+
+49

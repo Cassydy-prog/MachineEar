@@ -1,0 +1,47 @@
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+56: On the inner ring of a cylindrical roller bearing, marks due to false brinelling
+have developed on the raceway at rolling element pitch.
+
+3.3.2.3 False brinelling 
+Symptoms:
+
+Marks on the raceway surface at the
+rolling element pitch, figs. 56 and 57.
+No raised edges as opposed to marks due
+to incorrect mounting (see section
+3.3.2.4 "Rolling element indentations").
+Surfaces in the indentations frequently
+brown in colour (corrosion) and particu-
+larly with ball bearings badly roughened
+(machining structure missing). Scratches
+in the axial direction may also be de-
+tected with ball bearings. When the 
+bearing rotates a little occasionally, 
+several patches due to false brinelling 
+arise.
+
+Causes:
+
+Vibrations in stationary machines
+which lead to micromotion in the
+contact areas of the components in 
+rolling contact.
+
+57: False brinelling on the ball bearing
+
+Remedial measures:
+– Eliminate or absorb vibrations
+– Avoid standstill of sensitive machines,
+
+leave running; use safety devices 
+during transport which unload or
+preload the bearings.
+– Use suitable lubricant (additives).
+– Select larger radial clearance for
+
+rotating loads.
+
+FAG
+36

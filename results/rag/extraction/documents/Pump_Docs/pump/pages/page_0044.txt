@@ -1,0 +1,21 @@
+6. Centrifugal Pumps
+
+Prospective customers enter known system 
+characteristics such as head, flow, pipe size, 
+NPSHA, and key fluid properties and the 
+software generates a list of pumps suitable 
+for the application.
+
+The software contains performance data on each 
+of the manufacturer’s pumps for further analysis. 
+Pump constraints, such as required pump speed, 
+can also be used to further refine the list of 
+candidate pumps. Although system performance 
+concerns such as head/flow curve sensitivity 
+and multiple pump configurations still require 
+sound engineering judgment, the use of a pump 
+manufacturer’s software can simplify the pump 
+selection process.
+
+40
+Improving Pumping System Performance

@@ -1,0 +1,55 @@
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+• Classical fatigue 
+Even with very favourable operating
+conditions, i.e. hydrodynamic separating
+lubricating film, utmost cleanliness and
+moderate temperatures, fatigue damage
+can develop on rolling bearing parts 
+depending on the stress. Endurance
+strength is assumed where the index of
+stress is
+
+fs* = C0/P0* ≥8
+
+(C0 = static load rating, P0* = equivalent
+load). When the stress is greater, which
+means the fs* value is smaller, fatigue 
+damage can be expected after a more or
+less long operating period.
+
+42: Advanced fatigue damage on deep
+groove ball bearing
+
+41: Classical fatigue can be recognized
+by pitting in the raceway of a deep
+groove ball bearing inner ring. 
+Material flakes off the entire race-
+way when damage advances.
+
+Such damage due to classical fatigue
+with cracks starting below the surface
+seldom occurs. Fatigue damage starts far
+more often at the surface of the compo-
+nents in rolling contact as a result of in-
+adequate lubrication or cleanliness. The
+causes are no longer detectable when 
+damage has advanced.
+
+Symptoms:
+
+Subsurface cracks of raceway and 
+rolling elements, material flaking (rela-
+tively deep pitting), undamaged areas of
+the raceway indicate good lubrication in
+the early stage of damage, (see fig. 23),
+while more or less a lot of indentations
+by cycled fractured parts (see fig. 31) can
+be detected depending on how far 
+damage has progressed, figs. 41 to 43.
+
+43: Fatigue damage in the outer ring raceway of a tapered roller bearing
+
+FAG
+28

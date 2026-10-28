@@ -1,0 +1,109 @@
+5. Basic Pump Maintenance
+
+■	 Check the quality of the grease and, if
+
+Basic Maintenance Checklist
+
+necessary, repack the bearings.
+
+■	 Packing. Check for leakage around the
+
+■	 For oil-lubricated bearings, check the level
+
+and quality of the oil. If necessary, add or 
+replace oil. Do not overfill the oil reservoir.
+
+packing and adjust it according to the 
+instructions of the pump and packing 
+manufacturers. Allowable leakage is usually 
+between 2 and 60 drops per minute. Add 
+packing rings or, if necessary, replace all the 
+packing.
+
+■	 Mechanical Seals. Check for leakage.
+
+If leakage exceeds the manufacturer’s 
+specifications, replace the seal.
+
+■	 Bearings. Determine the condition of the
+
+Motor/Pump Alignment. Since shifting of the 
+pump foundation feet or piping can cause pump/
+motor misalignment, check the alignment 
+periodically. Alignment is typically measured by 
+using a dial indicator and reading the total 
+indicated runout, or TIR—also known as full 
+indicator movement, or FIM—of a pump/motor 
+coupling. Regularly scheduled vibration readings 
+can reveal changes in the status of a bearing.
+
+For pumps requiring unusually precise align-
+ments, laser measurement systems provide higher 
+accuracy than some other types. Alignment 
+requirements can usually be found in the 
+technical manual for the pump.
+
+bearing by listening for noises that indicate 
+excessive wear, measuring the bearing’s 
+operating temperature, and using a 
+predictive maintenance technique such as 
+vibration analysis or oil analysis. Lubricate 
+bearings according to the pump manu­
+facturer’s instructions; replace them 
+if necessary. A vibration analysis can also 
+indicate the status of bearings.
+
+■	 Motor/Pump Alignment. Determine if motor
+
+ Repair Items
+Repair items that typically have to be replaced 
+regularly include mechanical seals and bearings, 
+packing, wear rings, motors, and impellers.
+
+pump alignment is within the service limits 
+of the pump.
+
+■	 Motor Condition. Check the integrity of
+
+Replace Mechanical Seals and Bearings. 
+Although seals and bearings are normal mainten-
+ance items, they sometimes fail catastrophically. 
+Worn bearings can cause an unsatisfactory 
+amount of noise or even seize. Occasionally, a 
+bearing or a mechanical seal seizure scores its 
+corresponding shaft sleeve, which necessitates 
+removal of the pump shaft and installation of a 
+new sleeve.
+
+motor winding insulation. These tests usually 
+measure insulation resistance at a certain 
+voltage, or measure the rate at which an 
+applied voltage decays across the insulation. 
+A vibration analysis can also indicate certain 
+conditions within motor windings and lead to 
+early detection of developing problems.
+
+Replace Packing. Packing is a soft, malleable, 
+rope-like material that, when compressed by the 
+packing gland, forms a seal between the pump 
+and the motor shaft. Since packing contacts the 
+rotating shaft directly, it relies on the system fluid 
+for cooling and lubrication. As the packing 
+wears, it must be compressed by tightening the 
+gland nuts. Over time, however, the packing 
+loses its ability to seal and must be replaced.
+
+Mechanical seals are typically used in applica-
+tions that require a better seal than packing can 
+provide. Although mechanical seals are more 
+expensive, they experience less friction and 
+exhibit superior sealing capabilities in com-
+parison to packing. Mechanical seals rely on 
+a precisely fit contact between their dynamic 
+surfaces. Contaminants can quickly degrade 
+a seal. However, mechanical seals can last 
+thousands of hours if they are properly installed, 
+kept clean, and flushed as required.
+
+34
+Improving Pumping System Performance

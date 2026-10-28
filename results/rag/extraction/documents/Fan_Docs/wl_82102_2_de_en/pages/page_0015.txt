@@ -1,0 +1,112 @@
+Evaluation of running features and damage to dismounted bearings
+Measures to be taken
+
+3.1 Measures to be taken
+
+3.1.4 Assessment of bearing parts
+A good look at the main running and
+mounting features is taken first without
+using any devices.
+
+3.1.1 Marking separate parts
+– When there are several bearings from
+
+A microscopic inspection of the bear-
+ing parts is recommended and often a
+must for the majority of bearings.
+
+The following procedure for assessing
+bearing parts is usually suitable:
+
+the same type of bearing location
+number all bearing parts and keep a
+record of their arrangement in the 
+location.
+– Mark lateral arrangement of bearing
+
+parts to one another and in their 
+mounting position.
+– Mark radial mounting direction of
+
+Assessment of:
+– Seats (axial mating surfaces, inner
+
+the rings with regard to external 
+forces.
+
+ring bore, outer ring outside diam-
+eter)
+– Raceways
+– Lips
+– Sealing seat surface/contact surface
+– Rolling elements (outside diameter
+
+and face in the case of rollers)
+– Cages
+– Seals
+
+3.1.2 Measurements taken with 
+complete bearing
+– Noise inspection
+– Inspection of radial/axial clearance
+– Inspection of radial/axial runout
+– Inspection of frictional moment
+
+Other inspections may also be required
+in order to clarify the cause of damage.
+These include lubricant analyses, 
+measurements, electron micro-scopical
+tests, etc. In FAG's laboratories for pro-
+duct research and development you will
+find competent employees ready to assist
+(refer to section 4).
+
+3.1.3 Dismantling bearing into 
+separate parts
+– Determine grease quantity if grease
+
+has escaped from sealed bearings.
+– Remove dust shields and seals care-
+
+fully from sealed bearings avoiding
+deformations as much as possible.
+– Assess grease distribution in the bear-
+
+ing.
+– Take grease sample; take several
+
+It must often be decided whether a
+bearing can be used again or whether it
+has to be replaced. There is no doubt 
+about the procedure to be followed
+when the damage is quite obvious. Such
+damage, however, is seldom. The bearing
+assessment often provides an indication
+of the operating condition nevertheless.
+When unusual symptoms and their 
+causes are detected extensive damage can
+frequently be avoided.
+
+samples if there is an irregular lubri-
+cant pattern.
+– If dismounting cannot be non-
+
+The following sections contain de-
+scriptions of symptoms, advice concern-
+ing their significance and cause and,
+where appropriate, preventive measures.
+
+destructive, those parts which are 
+assumed to have had no influence on
+the cause of damage should be de-
+stroyed (e.g. cut or turn off the retain-
+ing lip at the small cone diameter of
+tapered roller bearing).
+
+– Should damage be inevitable during
+
+the dismounting procedure it should
+be marked and taken note of.
+
+FAG
+14

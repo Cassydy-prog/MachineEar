@@ -1,0 +1,159 @@
+da - Oversættelse af original instruktioner
+
+Frekvens Hz
+Fase ~
+UN [V] ± %
+
+Møtrik
+Moment, Nm (lbf·in)
+
+380/660 ± 10
+
+M12
+60 (44)
+
+M16
+120 (89)
+
+M20
+200 (148)
+
+M24
+350 (258)
+
+Brug kabel, der passer med regler med 3 ledere
+(2+jord/forbindelse) til enkeltfasede versioner og
+med 4 ledere (3+jord/forbindelse) til trefasede versi‐
+oner.
+
+M27
+530 (391)
+
+4.3  Installation af pumpe
+
+Bemærk:
+
+4.3.1  Mekanisk installation
+
+Installationsområde
+
+• For baseplader anbefales det at støbe basepla‐
+den med beton, der har en lav indskrumpning.
+
+Montér pumpen til en baseramme
+
+Sørg for at kontrollere, at følgende stemmer overens
+med:
+
+Installér enheden på en beton- eller metalfundament‐
+base, der er tilstrækkelig stærk til at sikre permanent
+og stiv støtte. Følg kravene i Pumpeplacering på side
+91.
+
+Installation på betonfundament
+
+Krav til fundament
+
+DA
+
+• Fast baseramme, der ikke drejer sig eller vibrerer
+under drift (resonans).
+• Pumpeføddernes montageoverflader og motoren
+på baserammen skal være flade (forarbejdning
+anbefales).
+• Sikker fastgørelse af pumpen og motoren skal
+garanteres.
+• Der skal være tilstrækkelig plads mellem pumpen
+og motorakslen, afhængigt af den brugte kobling.
+• Mellem pumpe og grundramme skal der være en
+passende glidning, så den samme højde mellem
+bund og midterlinje kan justeres i tilfælde af ud‐
+skiftning (anbefalet lodret justering 4-6 mm).
+
+Reducering af vibrationer
+
+• Betonen skal have en kompressionsmodstand på
+C12/15 og opfylde kravene i eksponeringsklasse
+XC1 i henhold til EN 206-1
+• Størrelserne skal passe til enhedens støtteplade
+• Grundlæggende vægt skal være ≥ 1,5 gange en‐
+hedens vægt (≥ 5 gange enhedens vægt, hvis der
+kræves en mere støjsvag drift)
+• Overfladen skal være så flad og så jævn som
+muligt
+• Hældningen skal være ≤ 1 mm/m.
+Yderligere instruktioner kan findes i dokumentnr.
+001080247X: for at downloade den skal du scanne
+QR-koden, der findes i Figur 17 på side 384.
+
+Fastgørelse af pumpen
+
+Du kan finde eksempler på horisontale og vertikale
+installationer i Figur 15 på side 383.
+
+Enheden og væskeflowet i systemet kan generere
+vibrationer, som kan forstærkes, hvis enheden el‐
+ler rørsystemet ikke installeres korrekt: Overhold in‐
+struktionerne i Installation på betonfundament på si‐
+de 93 og Fastgørelse af pumpen på side 93, ud over
+Tjekliste for rørsystem på side 93
+
+Det anbefales også at:
+
+1. Se det tekniske katalog for:
+– Diameter og antal fundamenthuller
+– Hulafstande
+– Beregning af størrelsen og mængden af for‐
+
+• Kontrollér, at pumpen og motoren er sikkert fast‐
+gjort til basen
+• Indsæt antivibrationsmaterialet mellem basen og
+fundamentet
+• Hvis enheden har en svejset base, skal du fylde
+de rum, der er vist i , med betonFigur 25 på side
+397.
+
+BEMÆRKNING:
+Fyld ikke den foldede metalplade Figur 26 på side
+397 med beton.
+
+4.3.2  Tjekliste for rørsystem
+Kontrollér, at følgende overholdes:
+
+bindelsesstængerne med kemiske forankrin‐
+ger, afhængigt af enhedens model.
+2. Bor fundamentet og fastgør styrestængerne.
+3. Anbring enheden på fundamentet og brug et va‐
+terpas på afledningsporten og akslen for at sikre,
+at den er i vater.
+Maksimal tilladt tolerance: 0,2 mm/m.
+4. Fjern evt. propperne, der dækker suge- og afled‐
+ningsportene.
+5. Juster suge- og afledningsportene efter deres
+rørsystem.
+6. Fastgør rørsystemet til enheden; se også Tjekli‐
+ste for rørsystem på side 93.
+7. Hvis det er nødvendigt, skal der indsættes nivelle‐
+ring mellem mellem fundamentet og basen: Hvis
+afstanden mellem styrestængerne er > 800 mm,
+skal der indsættes to ekstra mellemlægsplader
+i midten af basen. Alle mellemlægsplader skal
+flugte perfekt. Se Figur 17 på side 384.
+8. Spænd møtrikkerne til styrestangen jævnt og helt,
+og sørg for, at tilspændingsmomenterne er som
+angivet i tabellen.
+
+• I tilfælde af installation af sugeløft skal sugerøret
+have en stigende hældning mod enheden for at
+undgå luftlommer.
+• Rørsystemets nominelle diametre skal mindst
+være lig med pumpeportenes nominelle diame‐
+tre.
+• Understøt rørsystemet uafhængigt, så enheden
+ikke belastes.
+• Skyl rørsystemet, før du tilslutter dem til enheden,
+for at fjerne eventuelle svejserester, aflejringer og
+urenheder. Installér et filter, hvis det er nødven‐
+digt.
+
+93

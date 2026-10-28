@@ -1,0 +1,222 @@
+it - Traduzione dell'originale
+
+Causa
+Soluzione
+
+7.3  L'elettropompa si avvia, ma
+immediatamente dopo interviene la
+protezione termica o scattano i fusibili
+
+È intervenuto il disposi‐
+tivo di protezione contro
+la marcia a secco.
+
+Controllare il livello del li‐
+quido nella vasca o la
+pressione dalla rete.
+
+Causa
+Soluzione
+
+L'elettropompa si avvia, ma dopo un tempo variabile
+interviene la protezione termica.
+
+Il cavo di alimentazio‐
+ne è danneggiato.
+
+Verificare il cavo e sostituir‐
+lo, se necessario.
+
+IT
+
+Causa
+Soluzione
+
+Verificare i componenti e
+sostituirli, se necessario.
+
+La protezione termica
+o i fusibili non sono
+adatti alla corrente del
+motore.
+
+Contattare il Servizio di
+Vendita ed Assistenza.
+
+Il motore elettrico è in
+cortocircuito.
+
+Verificare i componenti e
+sostituirli, se necessario.
+
+Dei corpi estranei (so‐
+stanze solide o fibro‐
+se) all’interno della
+pompa hanno blocca‐
+to le giranti.
+
+Il motore si sovracca‐
+rica.
+
+Verificare le condizioni di
+esercizio della pompa e
+riarmare la protezione.
+
+La pompa è sovracca‐
+ricata poiché aspira un
+liquido denso e visco‐
+so.
+
+Verificare i requisiti effetti‐
+vi di potenza in base alle
+caratteristiche del liquido
+pompato e poi contattare il
+Servizio di Vendita ed Assi‐
+stenza.
+
+7.4  L'elettropompa si avvia, ma dopo poco
+tempo interviene la protezione termica o
+scattano i fusibili
+
+La pompa funziona, ma la portata è scarsa o nulla.
+
+Causa
+Soluzione
+
+Causa
+Soluzione
+
+La pompa è
+ostruita.
+
+Contattare il Servizio di Vendita
+ed Assistenza.
+
+Proteggere il quadro
+elettrico di comando
+dalle fonti di calore e
+dal sole.
+
+Il quadro elettrico di co‐
+mando è collocato in
+un'area eccessivamente ri‐
+scaldata o è esposto diret‐
+tamente ai raggi solari.
+
+Le istruzioni per la risoluzione dei problemi riportate
+nelle tabelle seguenti sono riservate agli addetti al‐
+l'installazione.
+
+Verificare le condizioni
+di esercizio della pom‐
+pa.
+
+La tensione di alimenta‐
+zione non è entro i limiti
+di funzionamento del mo‐
+tore.
+
+7.2  L’interruttore generale è inserito ma
+l’elettropompa non si avvia.
+
+Verificare
+
+Mancanza di una fase del‐
+l'alimentazione elettrica.
+
+Causa
+Soluzione
+
+• alimentazione
+• collegamento elettri‐
+co
+
+L'alimentazione elettri‐
+ca non è presente.
+
+• Ripristinare l'alimenta‐
+zione.
+• Assicurarsi che tutti i
+collegamenti elettrici al‐
+l’alimentazione di rete
+siano intatti.
+
+7.5  L'elettropompa si avvia, ma dopo un
+tempo variabile interviene la protezione
+termica
+
+Causa
+Soluzione
+
+È intervenuta la prote‐
+zione termica incorpo‐
+rata nella pompa (se
+presente).
+
+Attendere che la pompa si
+raffreddi. La protezione ter‐
+mica si riarma automatica‐
+mente.
+
+Rivolgersi al rappresentante
+di vendita e assistenza di
+locale.
+
+Riarmare la protezione ter‐
+mica.
+
+Dei corpi estranei (so‐
+stanze solide o fibro‐
+se) all’interno della
+pompa hanno blocca‐
+to le giranti.
+
+È intervenuto il relè
+termico o il salvamo‐
+tore posto nel quadro
+elettrico di comando.
+
+Verificare:
+
+La pompa eroga una
+portata superiore al li‐
+mite indicato sulla tar‐
+ga dati.
+
+È intervenuto il dispo‐
+sitivo di protezione
+contro la marcia a
+secco.
+
+Chiudere parzialmente la
+valvola di intercettazione
+posta a valle fino a che la
+portata erogata non rientra
+nei limiti previsti sulla targa
+dati.
+
+• Livello di liquido nel ser‐
+batoio o pressione di re‐
+te.
+• Dispositivo di protezio‐
+ne e relativi cavi di colle‐
+gamento.
+
+Sostituire i fusibili.
+
+La pompa è sovracca‐
+ricata poiché aspira
+un liquido denso e vi‐
+scoso.
+
+Verificare i requisiti effetti‐
+vi di potenza in base alle
+caratteristiche del liquido
+pompato.
+
+Si sono bruciati i fusi‐
+bili di protezione della
+pompa o dei circuiti
+ausiliari.
+
+12

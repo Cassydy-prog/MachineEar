@@ -1,0 +1,67 @@
+Declarations of Conformity
+
+Izjava o sukladnosti EU (br. 01) 
+ 
+1. EMCD - Model uređaja/proizvod: NSCC… ili NSCF… (pogledajte naljepnicu na posljednjoj stranici) 
+    RoHS – jedinstvena identifikacija EEE: NSCC… ili NSCF…  
+2. Naziv i adresa proizvođača: 
+ Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ 36075 Montecchio Maggiore VI 
+ Italija 
+3. Ova izjava o sukladnosti izdana je pod isključivom odgovornošću proizvođača. 
+4. Predmet izjave: električna pumpa. 
+5. Prethodno opisani predmet izjave je u skladu s relevantnim zakonodavstvom Unije o usklađivanju 
+•  Direktivom 2014/30/EU od 26. veljače 2014. i naknadnim izmjenama i dopunama (elektromagnetska kompatibilnost).  
+•  Direktivom 2011/65/EU od 8. lipnja 2011. i naknadnom izmjenama i dopunama, uključujući Direktivu 2015/863/EU (ograničenje 
+uporabe pojedinih opasnih tvari u električnoj i elektroničkoj opremi). 
+6. Upućivanje na odgovarajuće usklađene standard u korištenju ili upućivanje na druge tehničke specifikacije, u odnosu na koje se 
+sukladnost izjavljuje: 
+• EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005,  EN IEC 61000-6-2:2019, EN 61000-6-
+4:2007 +A1:2011, EN IEC 61000-6-4:2019. 
+• EN IEC 63000:2018. 
+7. Prijavljeno tijelo: - - - 
+8. Dodatne informacije: 
+(RoHS) - Dodatak III – Primjene izuzete iz ograničenja: olovo kao vezivni element u čeličnim, aluminijskim i bakrenim legurama 
+[6(a), 6(b), 6(c)].  
+Optimyze: oslonite se na dokument isporučen s uređajem za praćenje [Radio oprema 2014/53/EU i naknadne izmjene i dopune, 
+Ograničenje uporabe određenih opasnih tvari u električnoj i elektroničkoj opremi 2011/65/EU i daljnje izmjene i dopune, uključujući 
+(EU) 2015/863 Direktivu]. 
+Potpisao za i u ime: Xylem Service Italia S.r.l.  
+Montecchio Maggiore, 25/03/2025  
+
+Alessio Vendraminelli
+
+Glavni Direktor 
+Rev. 00 
+ 
+Izjava(e) o sukladnosti nije(nisu) važeća(e) ako se koristi(e) odvojeno od ostalog teksta dokumenta tvrtke Xylem kod 001080070G. 
+ 
+Pumpa
+
+EZ Izjava o sukladnosti (prijevod) 
+ 
+Xylem Service Italia S.r.l., sa sjedištem u Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italy, ovime izjavljuje da 
+sljedeći proizvod 
+NCS… pumpa (pogledajte naljepnicu na posljednjoj stranici) 
+ispunjava relevantne odredbe sljedećih europskih direktiva 
+•  Direktive za strojeve 2006/42/EZ i naknadne izmjene i dopune (PRILOG II – fizička ili pravna osoba ovlaštena za sastavljanje 
+tehničke dokumentacije: Xylem Service Italia S.r.l.), 
+•  Eko dizajn 2009/125/EZ i naknadne izmjene i dopune, Uredba (EU) br. 547/2012 i naknadne izmjene i dopune (vodene pumpe 
+ako je označeno kao MEI) 
+i tehničke standarde 
+•  EN 809:1998+A1:2009. 
+•  EN 16480:2021. 
+Dodatne informacije: 
+Optimyze: ako se isporučuje s pumpom, oslonite se na dokument isporučen s uređajem za praćenje [Radio oprema 2014/53/EU i 
+naknadne izmjene i dopune, Ograničenje uporabe određenih opasnih tvari u električnoj i elektroničkoj opremi 2011/65/EU i daljnje 
+izmjene i dopune, uključujući (EU) 2015/863 Direktivu].  
+Montecchio Maggiore, 25/03/2025
+
+Alessio Vendraminelli
+
+Glavni Direktor 
+Rev. 00 
+Izjava(e) o sukladnosti nije(nisu) važeća(e) ako se koristi(e) odvojeno od ostalog teksta dokumenta tvrtke Xylem kod 001080070G.
+
+447

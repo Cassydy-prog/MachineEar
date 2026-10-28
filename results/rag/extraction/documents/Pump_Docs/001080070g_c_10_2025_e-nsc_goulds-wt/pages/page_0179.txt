@@ -1,0 +1,151 @@
+lt - Originalo vertimas
+
+Siurbliai su guoliais, kurie turi būti sutepami
+reguliariai
+
+PASTABA:
+Po pradinio paleidimo ir pasiekus darbinę temperatū‐
+rą, patikrinkite įrenginio movos lygiavimą, žr. Movos
+patikra ir lygiavimas 173 psl..
+
+Montuotojas arba savininkas privalo patikrinti, ar
+siurbiamo skysčio srautas ir temperatūra tinkami.
+Prieš paleisdami siurblį, įsitikinkite, kad:
+
+• Sutepkite po 4000 veikimo valandų, tačiau bent
+kartą per metus. Pirmiausia išvalykite tepimo
+įmovas (SN).
+• Naudokite 2 laipsnio NLGI tepalą arba jo ekviva‐
+lentą.
+Jei kyla klausimų ar norite gauti informacijos, kreip‐
+kitės į vietos pardavimo ir techninės priežiūros atsto‐
+vą.
+
+Variklio guoliai
+
+• siurblys tinkamai prijungtas prie maitinimo šalti‐
+nio,
+• siurblys tinkamai užpildytas, laikantis instrukcijų,
+pateiktų skyriuje Siurblio užpildymas (5 skyrius).
+• atidarymo / uždarymo vožtuvas, įtaisytas srovės
+kryptimi nuo siurblio, yra uždarytas.
+
+1. Paleiskite variklį.
+
+2. Pamažu atidarykite atidarymo / uždarymo vožtu‐
+vą, esantį siurblio išleidimo pusėje.
+
+Maždaug po penkerių metų variklio guoliuose esan‐
+tis tepalas pasensta, todėl praėjus šiam laikotarpiui
+rekomenduojama pakeisti guolius. Guoliai turi būti
+pakeisti po 25 000 veikimo valandų arba tada, kada
+nurodyta variklio gamintojo priežiūros nurodymuose,
+atsižvelgiant į tai, kuris laikotarpis trumpesnis.
+
+Variklis su guoliais, kurie turi būti sutepami
+reguliariai
+
+Esant numatytoms naudojimo sąlygoms, siurblys
+turi veikti sklandžiai ir tyliai. Priešingu atveju žr.
+Trikčių šalinimas 175 psl..
+
+Laikykitės variklio gamintojo priežiūros nurodymų.
+
+6  Techninė priežiūra
+
+Sukabinamasis įtaisas
+
+Atsargumo priemonės
+
+Reguliariai, bent kartą per metus, tikrinkite tarpą tarp
+movos elementų. Rekomenduojame tikrinti kas 1000
+darbo valandų arba kas tris mėnesius, atsižvelgiant į
+tai, kas bus pirmiau.
+
+6.2  Patikrinimo kontrolinis sąrašas
+
+Elektros pavojus:
+Prieš montuodami bloką arba atlikdami
+techninę apžiūrą, atjunkite ir užblokuoki‐
+te elektros maitinimą.
+
+PERSPĖJIMAS:
+
+LT
+
+Movos patikrinimas
+Patikrinkite lanksčius
+movos elementus. Pa‐
+keiskite atitinkamas da‐
+lis, jeigu jos atrodo nusi‐
+dėvėjusios, ir patikrinkite
+lygiuotę.
+
+Mechaninio sandariklio
+patikrinimas
+
+• Techninės priežiūros darbus ir apžiū‐
+ras leidžiama atlikti tik patyrusiems ir
+kvalifikuotiems darbuotojams.
+• Laikykitės galiojančių nelaimingų at‐
+sitikimų prevencijos taisyklių.
+• Naudokite tinkamą įrangą ir jos ap‐
+saugą.
+• Pasirūpinkite, kad išleistas skystis ne‐
+sužalotų žmonių ir nesugadintų turto.
+
+Patikrinkite, ar mechani‐
+nis sandariklis nepralei‐
+džia. Jeigu mechaninis
+sandariklis praleidžia, jį
+pakeiskite.
+
+Guolių sandariklių patikri‐
+nimas
+
+Patikrinkite, ar ant veleno
+sumontuoti ašinio san‐
+darinimo žiedai yra uždė‐
+ti tinkamai. Sandarinimo
+kraštai turi tik švelniai
+liestis.
+
+Patikrinkite, ar veikia ty‐
+liai
+
+Naudodami vibracijos
+matavimo įrankius, patik‐
+rinkite, ar siurblys veikia
+tyliai.
+
+6.1  Priežiūra
+Jei naudotojas nori nustatyti planinės techninės prie‐
+žiūros terminus, reikia atsižvelgti į siurbiamą skystį ir
+siurblio eksploatavimo sąlygas.
+Jei kyla klausimų ar norite gauti informacijos apie
+įprastinę priežiūrą ar techninės priežiūros paslaugas,
+kreipkitės į vietos pardavimo ir techninės priežiūros
+atstovą.
+Gali reikėti atlikti specialius techninės priežiūros dar‐
+bus, siekiant išvalyti hidraulinę dalį ir (arba) pakeisti
+nusidėvėjusias dalis.
+
+Siurbliai su guoliais, kurie sutepti visam eks‐
+ploatacijos laikui
+
+6.3  Išardymas ir siurblio dalių keitimas
+Jei reikia daugiau informacijos apie atsargines dalis
+ir siurblio surinkimą bei išardymą, kreipkitės į vietinį
+pardavimo ir techninės priežiūros atstovą.
+
+Siurbliams su guoliais, kurie sutepti visam eksploa‐
+tacijos laikui, nereikia reguliarios įprastinės priežiū‐
+ros.
+
+7  Trikčių šalinimas
+
+7.1  Nesklandumų šalinimas naudotojams
+Maitinimo jungiklis įjungtas, bet elektrinis siurblys
+neveikia.
+
+175

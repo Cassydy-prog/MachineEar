@@ -1,0 +1,92 @@
+Other means of inspection at FAG
+X-ray micro structure analysis
+
+109: X-ray micro structure analysis equipment
+
+4.4 X-ray micro structure analysis
+The radioscopic investigation of the
+lattice structure (cf. Measuring retained
+austenite in section 4.3) also allows one
+to draw very important conclusions on
+the residual stress "frozen" in the ma-
+terial and the stressing on which it is 
+based. It is applied to determine with
+good approximation the actual load of
+bearings after operation. This may be
+particularly crucial in damage cases 
+where the actual load situation cannot
+be attained by calculation. The specific
+raceway stress, however, must have 
+reached a level of about 2,500 N/mm2
+for a longer period since it is only above
+this load that the plastic deformation of
+the material lattice occurs and only then
+can it be tested and quantified by means
+of X-ray diffraction, fig. 109. You could
+refer to the booklet "Schadenskunde in
+Maschinenbau", Expert Verlag 1990, for
+example, under "Schadensuntersuchung
+durch Röntgenfeinstructuranalyse" for a
+detailed report on determining residual
+stress and calculating stress. We have
+provided a brief summary for you below.
+
+110: Residual stress pattern as attained from an X-ray micro structure analysis;
+high tangential force portion in outer ring 6207E, no increased stress in 
+reference bearing 6303E
+
+200
+
+0
+
+-200
+
+-400
+
+-600
+
+Residual stress in N/mm2
+
+-800
+
+The residual stress present in small
+areas (size a few square millimeters sur-
+face, 1/100 millimeters in depth) can be
+calculated back from the lattice expan-
+sion measured by means of X-ray diffrac-
+tion. Measuring is carried out layer by
+layer for the different depths below the
+raceway of a bearing ring by an electro-
+chemical surface discharge. A pattern as
+in fig. 110 is then obtained. From the
+whole deformation depth and from the
+depth where stress is greatest, the maxi-
+mum external load can be deduced on
+the one hand and, on the other hand,
+the share of possible sliding stress in the
+raceway. This is a vital contribution to-
+wards the search for damage causes, par-
+ticularly if the values measured deviate
+greatly from those expected on the basis
+of calculations.
+
+AR 6306E
+
+-1 000
+
+AR 6207E
+
+-1 200
+
+0,2
+0,4
+0,6
+0,8
+1
+
+0
+
+Depth below the surface in mm
+
+FAG
+66

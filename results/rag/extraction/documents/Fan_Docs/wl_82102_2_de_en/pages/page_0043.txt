@@ -1,0 +1,55 @@
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+66: Worn, roughened raceway
+
+3.3.4 Deep scratches and smear marks 
+on the contact surfaces
+In addition to local fractures, cracks,
+and other dents in the raceway or rolling
+element surfaces, large-area surface 
+damage also frequently arises as a result
+of sliding in the bearing which leads to
+wear. In addition to the cycling condi-
+tions, the extent of this damage is essen-
+tially influenced by the intensity and 
+cleanliness of the lubrication.
+
+3.3.4.1 Wear damage with poor 
+lubrication
+Symptoms:
+
+67: Wear traces can usually first be detected on the surfaces of the rolling elements
+
+The contact areas are dull and 
+roughened, figs. 28 and 66. Abraded
+matter turns the lubricant dark in
+colour; also yellow in the case of brass
+cages. The grease is also solidified. In
+many cases, however, moisture leads to
+the lubricant consistency growing wa-
+tery. Either preload is reduced or the
+bearing clearance is enlarged. If foreign
+particles are the cause of wear, the rolling
+element surfaces will be particularly 
+badly scored, fig. 67. Under adverse con-
+ditions, roller bearing raceways may be
+unevenly worn throughout their circum-
+ference. The appearance of the raceways
+is then stripy, fig. 68 and 69. This type
+of wear leads to fatigue damage, please
+refer to "Fatigue as a result of wear" in
+section 3.3.2.1.
+
+Causes:
+– Non-load-carrying lubricant film
+– Contaminants in lubricant (fine, hard
+
+particles, e.g. dust, or also water)
+– Insufficient adjustment of bearings in
+
+the case of uneven wear of tapered
+roller bearings
+
+FAG
+42

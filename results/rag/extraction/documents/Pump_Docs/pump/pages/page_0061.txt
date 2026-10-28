@@ -1,0 +1,101 @@
+Section 3. The Economics of Improving Pumping Systems
+
+PSAT software uses curve fits of the graphical 
+data included in the HI standard to estimate 
+achievable efficiency. However, it automatically 
+completes the three-step series of actions 
+described earlier.
+
+MotorMaster+ allows motor efficiency to be 
+estimated based on the motor’s size, speed, and 
+either motor input power or current measurements. 
+If power is measured, PSAT determines the shaft 
+power and efficiency that is consistent with the 
+specified motor size and speed. If current is 
+measured, power is estimated from current versus 
+load profiles in PSAT. A full set of motor charac-
+teristics (shaft power, current, power factor, and 
+electrical power) can be established, regardless 
+of whether current or power is measured.
+
+Based on the input data, PSAT first estimates the 
+existing shaft power from the motor data measure-
+ments. It then calculates fluid power from the 
+specified flow rate, head, and specific gravity. At 
+this point, the motor input power, the shaft power, 
+and the fluid power are known, as are the existing 
+motor and pump efficiencies. Given the fraction of 
+time the pump is operated and the electricity cost 
+rate, PSAT also calculates annual energy use and 
+energy costs.
+
+Although the motor characteristics used in PSAT 
+were derived exclusively from 460-V motors, the 
+user can select from other nominal voltages, such 
+as 230, 2300, 4160, and 6900 V. The current data 
+is linearly adjusted for nominal voltage. The user 
+also selects from one of three motor efficiency 
+classes: energy-efficient, standard efficiency, and 
+average. If the user selects average, PSAT simply 
+calculates motor performance characteristics based 
+on the average of the standard efficiency and the 
+energy-efficient motor values. Most motors 
+used on pump systems are NEMA Design B.
+
+Field Measurements of Fluid and Electrical 
+Parameters. Individual motor input power is not 
+usually monitored by permanently installed instru-
+ments. Individual motor current is sometimes 
+monitored and displayed at the motor control 
+center or remotely, but usually only for larger 
+motors. Motor input power and/or current can be 
+measured on low-voltage (e.g., 480-V) busses 
+with portable test equipment.
+
+Generally speaking, the fluid viscosity and specific 
+gravity are either essentially constant or they can 
+be readily determined. This determination is made 
+either by direct measurement or from their relation-
+ship to some other easily measured parameter, 
+such as temperature.
+
+Performance Characteristics of Pumps. Many 
+different pump designs can be applied to the broad 
+spectrum of pumping applications. For certain 
+applications, such as sewage or stock pumping, 
+service reliability considerations prevent the use 
+of more efficient designs that are used in clean 
+water pumping. For example, the narrow channels 
+used in some high-efficiency impellers might clog 
+if used to pump sewage.
+
+Most pump applications include suction and 
+discharge connections for pressure measurement—
+the most important parameters in pump head 
+calculation. Static head can be readily determined 
+from system drawings, linear measurements, and/
+or pressure/level gauges.
+
+Permanently installed instrumentation is used 
+to measure the flow rate in some applications, 
+but it is less commonly available than pressure. 
+When permanent flow rate instruments are not 
+available, temporary test devices can be employed.
+
+The Hydraulic Institute (HI) has published a 
+standard6 that provides guidance on achievable 
+efficiencies. The standard addresses the effects 
+of general pump style, capacity, specific speed, 
+and variability in achievable efficiency from 
+miscellaneous other factors such as surface rough-
+ness and internal clearances. The HI standard 
+walks the user through a series of steps, starting 
+with reading a graph to determine efficiency at an 
+optimum specific speed for the selected pump 
+style and flow rate.
+
+6 Hydraulic Institute, ANSI/HI 1.3-2000. For this and other HI standards, see www.pumps.org.
+
+57
+
+A Sourcebook for Industry

@@ -1,0 +1,106 @@
+Section 3. The Economics of Improving Pumping Systems
+
+an estimate of the velocity, or dynamic, head. 
+Fluid density is typically determined by measuring 
+the temperature of the fluid and using a table of 
+properties for that fluid to find the corresponding 
+density.
+
+Alternatively, a pump discharge line that already 
+has a flowmeter provides an ideal opportunity to 
+determine the flow rate; the flow rate, in turn, can 
+be used to determine the pump’s operating point 
+along its performance curve. Also, portable 
+flowmeters that clamp onto the pipe can be used 
+to measure flow rate. In general, portable flow-
+meters work relatively well on systems that have 
+homogeneous fluids and long straight runs of 
+pipe. However, the accuracy of these instruments 
+deteriorates if the fluid contains particulates or 
+vapor, or if the flow profile is not uniform.
+
+The velocity head is more difficult to determine, 
+because it requires knowing the pump flow rate; 
+in turn, knowing the flow rate requires knowing 
+the pump head. However, since velocity head is 
+typically much smaller than the static head, by 
+making a reasonable assumption of the fluid 
+velocity, the engineer can determine the approx-
+imate velocity head. For example, in some cooling 
+systems, to minimize flow noise, a maximum flow 
+velocity of 10 feet (ft) per second is used as a 
+design guideline. This flow speed corresponds to 
+a velocity head of 1.55 ft. The value of the error 
+associated with this number is probably minor 
+in comparison to other errors associated with 
+estimated annual energy consumption.
+
+Using a Pump Performance Curve To
+
+Determine Annual Electricity Costs
+
+Annual electricity costs = (pump bhp)/(motor 
+efficiency) x (hours in a year) x (unit electricity cost) 
+x (% of time operating)
+
+Assumptions:
+
+ Energy and Demand Charges—
+Understanding Your Electricity Bill
+The calculations shown earlier use simplified 
+electricity rate approximations stated in terms 
+of dollars per kilowatt-hour ($/kWh). However, 
+electric utilities use more complicated rate struc-
+tures to bill industrial customers. These typically 
+include both energy ($/kWh) and demand charges 
+($/kW), and they have different rates depending 
+on the level of consumption and the time of year. 
+Demand charges are based on the peak demand for 
+a given month or season and can have significant 
+impacts on some customers’ electricity costs. When 
+the economic impacts of efficiency measures are 
+calculated, the marginal cost of the electricity needs 
+to be considered, taking into account energy and 
+demand charges, seasonal rates, and different rates 
+for different levels of consumption.
+
+ Maintenance Considerations 
+An important aspect of any system improvement 
+is ensuring that its benefits continue well beyond 
+the payback period. To help prevent the system 
+from performing poorly again, proper operating 
+and maintenance practices need to be followed.
+
+· Either total pump head or pump flow
+ rate is known (must be fairly constant   
+
+ throughout the year)
+· Motor efficiency = 95%
+· Percentage of time running = 65% 
+ (operating 65% of the year at the load 
+ measured)
+· Unit electricity cost = $0.05/kWh
+
+For example:
+
+· Total head = 155 feet
+· Pump bhp (reading from the bhp line) = 11 hp
+
+A continuous improvement approach can help to 
+ensure that cost and performance benefits remain 
+in effect over the long term. An important part of 
+this approach is increasing operators’ awareness of 
+operating costs and the performance implications 
+of improper operation or maintenance.
+
+Annual electricity costs = (11 bhp) x 
+(0.746 kW/hp) x (1/0.95) x (8,760 hrs) x (0.05$/kWh) 
+x 0.65
+Annual electricity costs = $2,459
+
+Preventive maintenance (PM) is intended to 
+improve system reliability, reduce the risk of
+
+61
+
+A Sourcebook for Industry

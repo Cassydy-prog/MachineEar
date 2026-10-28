@@ -1,0 +1,56 @@
+IM-895
+
+Drive Mounting 
+(refer to safety section)
+
+WARNING
+
+When working around belts and pulleys, keep hands away from 
+pinch points.
+
+Mount drives as follows:
+1.	 Slip (do not pound) proper sheave onto corresponding shaft. 
+Most drives utilize tapered bushings. Draw the bushing up 
+evenly tightening in steps. To minimize bearing loading, 
+mount sheaves as close to bearings as possible. It is preferable 
+to use alignment tools that align the grooves of the sheave.
+
+2.	 Align sheaves with straightedge extended along sheaves, just 
+making contact in two places on outside perimeters of both 
+sheaves. This “four-point” alignment may also be checked 
+with a string tied to the shaft behind one of the sheaves. 
+The string is then pulled taut over the faces of the sheaves 
+to check the alignment at the four points at the outside 
+perimeters. Each sheave should be rotated about one-half 
+revolution during this check to look for excessive runout 
+or a bent shaft. Unless there is a bent shaft, runout can be 
+corrected by adjustments to the bolt torque of the taper 
+bushing.
+
+Click To View Our
+Sheave Installation video
+
+3.	 Install and tighten the belts. Run the drive for a few minutes 
+to seat the belts. When fitting the belts, adjust the motor 
+position to fit on the belts. Do not use a pry bar, as this 
+may damage the belt cords. Tighten the belts to the proper 
+tension. Ideal tension is just enough tension so that the belts 
+do not slip under peak load or acceleration. Many drives are 
+provided with tensioning data, which identifies the load to 
+apply at the center of the span and the allowable deflection 
+from this force. A belt tension gauge is recommended for 
+precise tensioning.
+
+4.	 After initial installation of belts, recheck belt tension again 
+after a few days of operation to adjust belt tension. (New 
+belts require a break-in period of operation.)
+
+CAUTION
+
+Twin City Fan
+
+Placing fan sheave on motor can overspeed impeller and cause 
+structural failure.
+
+Installation, Operation & Maintenance Manual
+12

@@ -1,0 +1,97 @@
+IM-995
+
+Centrifugal Fan Arrangements - Single Width, Single Inlet (SWSI)
+
+Arrangement 3
+
+Arrangement 3F
+
+Arrangement 3SI
+
+Arrangement 4
+
+Arrangement 1
+Belt Driven or Direct Drive
+
+Belt Driven
+
+Belt Driven
+
+Belt Driven or Direct Drive
+
+Direct Drive
+
+Arrangement 4S
+
+Arrangement 7
+
+Arrangement 7SI
+
+Direct Drive
+Arrangement 4VI
+
+Direct Drive
+Arrangement 4HI
+
+Direct Drive
+(Swingout Door)
+
+Direct Drive
+(Vertical Inlet)
+
+Direct Drive
+(Horizontal Inlet)
+
+Arrangement 8
+
+Arrangement 9
+
+Arrangement 9F
+
+Arrangement 9H
+
+Arrangement 9SS
+
+Direct Drive
+
+Belt Driven
+
+Belt Driven
+
+Belt Driven
+
+Belt Driven
+(Swingout Door)
+
+Arrangement 9ST
+
+Arrangement 10
+
+Belt Driven
+
+Belt Driven
+(Swingout Door)
+
+Centrifugal Fan Arrangements - Double Width, Double Inlet (DWDI)
+
+Arrangement 3F
+
+Arrangement 3DI
+
+Arrangement 7
+
+Arrangement 7DI
+
+Arrangement 3
+Belt Driven or Direct Drive
+
+Belt Driven
+
+Belt Driven or Direct Drive
+
+Direct Drive
+
+Direct Drive
+
+Installation, Operation & Maintenance Manual
+2

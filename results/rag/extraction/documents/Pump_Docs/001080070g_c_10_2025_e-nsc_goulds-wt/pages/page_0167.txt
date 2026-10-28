@@ -1,0 +1,164 @@
+lv - Oriģinālās instrukcijas
+
+Pirms sūkņa palaišanas pārliecinieties, ka:
+
+Uzstādīšana apstākļos, kad šķidruma līmenis
+augstāks par sūkni (iesūknēšanas galvu)
+
+Attēlu, kurā ir parādīts sūkņa aizgriežņu novietojums,
+skatiet šeit: Attēls 23 394 lappusē.
+
+• Sūknis ir pareizi pieslēgts barošanai.
+• Sūknis ir pareizi uzpildīts saskaņā ar instrukcijām
+sadaļā Sūkņa uzpildīšana (5. nodaļa).
+• Slēgvārsts, kas atrodas aiz sūkņa, ir aizvērts.
+
+1. Aizveriet slēgvārstu, kas atrodas aiz sūkņa.
+
+1. Ieslēdziet motoru.
+
+2. Pakāpeniski atveriet slēgvārstu sūkņa izplūdes
+pusē.
+
+2. Noņemiet uzpildes (3) vai manometra aizgriez‐
+ni (1) un atveriet pārslēdzošo vārstu pirms sūkņa,
+līdz ūdens sāk izplūst no atveres.
+
+a) Aizveriet uzpildes (3) vai manometra aizgriez‐
+
+ni (1).
+
+Paredzētajos darba apstākļos sūknim jādarbojas
+vienmērīgi un klusi. Ja tā nav, skatīt Problēmu
+novēršana 164 lappusē.
+
+6  Tehniskā apkope
+
+Uzstādīšana apstākļos, kad šķidruma līmenis
+zemāks par sūkni (iesūknēšanas pacēlēju)
+
+Piesardzības pasākumi
+
+Attēlu, kurā ir parādīts sūkņa aizgriežņu novietojums,
+skatiet šeit: Attēls 24 395 lappusē.
+
+1. Visa sūkņa sistēma ir tukša
+
+a) Aizveriet slēgvārstu, kas atrodas pirms sūkņa.
+b) Noņemiet uzpildes aizgriezni (3) un manome‐
+
+Elektriskās strāvas apdraudējums:
+Pirms iekārtas uzstādīšanas vai apkopes
+veikšanas atvienojiet un izslēdziet elek‐
+triskās strāvas padevi.
+
+BRĪDINĀJUMS:
+
+tra aizgriezni (1). Izmantojiet piltuvi, lai caur
+uzpildes atveri uzpildītu sūkni, līdz pa šo atve‐
+ri ārā izplūst ūdens.
+c) Pievelciet uzpildes aizgriezni (3) un manome‐
+
+tra aizgriezni (1).
+
+2. Uzpildīta sūkņa sistēma
+
+a) Atveriet noslēdzošo vārstu pirms sūkņa un at‐
+
+veriet noslēdzošo vārstu aiz sūkņa.
+b) Noņemiet manometra aizgriezni (1), līdz pa šo
+
+atveri ārā plūst ūdens.
+c) Pievelciet manometra aizgriezni (1).
+
+• Tehnisko apkopi un kārtējos remont‐
+darbus drīkst veikt tikai prasmīgi un
+kvalificēti darbinieki.
+• Ievērojiet spēkā esošos darba drošī‐
+bas noteikumus.
+• Izmantojiet piemērotu aprīkojumu un
+aizsargierīces.
+• Pārliecinieties, vai izsūknētais šķi‐
+drums nevar izraisīt bojājumus vai ie‐
+vainojumus.
+
+LV
+
+5.2  Pārbaudiet ass rotācijas virzienu
+(trīsfāzu motoram)
+Pirms iedarbināšanas veiciet zemāk aprakstīto pro‐
+cedūru.
+
+1. Atrodiet bultiņas uz adaptera vai motora ventila‐
+tora pārsega, lai noteiktu pareizo ass rotācijas
+virzienu.
+
+2. Ieslēdziet motoru.
+
+3. Ātri pārbaudiet rotācijas virzienu caur savienoju‐
+ma aizsargu vai motora ventilatora pārsegu.
+
+6.1  Apkope
+Ja lietotājs vēlas ieplānot regulārās profilaktiskās
+apkopes grafiku, tas ir atkarīgs no sūknētā šķidruma
+tipa un sūkņa darba apstākļiem.
+Sazinieties ar vietējo pārdošanas un servisa pārstāvi
+saistībā ar prasībām vai lai iegūtu informāciju par
+profilaktisko apkopi vai servisu.
+Ārpuskārtas apkope var būt nepieciešama, lai notī‐
+rītu šķidruma paliekas un/vai nomainītu nodilušās
+daļas.
+
+4. Apstādiniet motoru.
+
+Sūkņi ar gultņiem, kas ieziesti uz visu to
+darbmūža laiku
+
+5. Ja motora ass rotē nepareizā virzienā, rīkojieties
+sekojoši:
+
+a) Atvienojiet barošanas avotu.
+b) Motora sadales panelī vai elektriskajā vadības
+
+Sūkņiem ar gultņiem, kas ieziesti uz visu to darbmū‐
+ža laiku, nav nepieciešama regulārā profilaktiskā ap‐
+kope.
+
+panelī savstarpēji apmainiet vietām baroša‐
+nas kabeļa divu no trim vadiem pieslēgumus.
+
+Sūkņi ar gultņiem, kas atkārtoti jāieziež
+
+Pieslēguma shēmas skatīt Attēls 21 392 lap‐
+pusē.
+c) Vēlreiz pārbaudiet rotācijas virzienu.
+
+5.3  Sūkņa ieslēgšana
+
+• Atkārtoti jāieziež pēc 4000 darbības stundām, ta‐
+ču vismaz reizi gadā. Vispirms jānotīra eļļošanas
+ziežvārsti (SN).
+• Izmantojiet NLGI 2. klases ziedi vai ekvivalentu
+ziedi.
+Sazinieties ar vietējo pārdošanas un apkopes pārstā‐
+vi prasību gadījumā vai informācijas saņemšanai.
+
+Motora gultņi
+
+PAZIŅOJUMS:
+Pēc sākotnējās palaišanas un darba temperatūras
+sasniegšanas pārbaudiet iekārtas savienojuma izlī‐
+dzinājumu, skatīt Savienojuma pārbaude un regulē‐
+šana 161 lappusē.
+
+Piecu gadu laikā ziede motora gultņos noveco tiktāl,
+ka ieteicams nomainīt gultņus. Gultņi ir jānomaina
+ik pēc 25 000 darba stundu vai saskaņā ar motora
+piegādātāja apkopes instrukcijām, ievērojot īsāko no
+šiem termiņiem.
+
+Atbildība par to, vai pārbaudīta plūsmas apjoma un
+šķidruma temperatūras atbilstība specifikācijai, jāuz‐
+ņemas uzstādītājam vai īpašniekam.
+
+163

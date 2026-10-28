@@ -1,0 +1,217 @@
+sl - Prevod izvirnih navodil
+
+Vzrok
+Ukrep
+
+7.7  Električna črpalka se zažene, vendar je
+sistemsko zaščitno stikalo na diferenčni tok
+(RCD) aktivirano
+
+Preverite komponente in jih
+po potrebi zamenjajte.
+
+Toplotno varovalo ali
+varovalke niso primer‐
+ni za tok motorja.
+
+Vzrok
+Ukrep
+
+Električni motor je v
+kratkem stiku.
+
+Preverite komponente in jih
+po potrebi zamenjajte.
+
+Ozemljitev ni skle‐
+njena.
+
+Preverite izolacijo komponent
+električnega sistema.
+
+Motor je preobreme‐
+njen.
+
+Preverite delovne pogoje čr‐
+palke in ponastavite zaščito.
+
+7.8  Črpalka deluje, vendar dovaja premalo ali
+nič tekočine
+
+Vzrok
+Ukrep
+
+7.4  Električna črpalka se zažene, vendar se
+sproži toplotno varovalo ali varovalke kmalu
+pregorijo
+
+• Izpustite zrak.
+
+V črpalki ali ceveh
+je zrak.
+
+Vzrok
+Ukrep
+
+Črpalka ni pravilno
+napolnjena z vodo.
+
+Ustavite črpalko in ponovite po‐
+stopek polnjenja.
+Če težava ni odpravljena:
+
+Električno ploščo zaščiti‐
+te pred viri toplote in ne‐
+posredno sončno svetlo‐
+bo.
+
+Električna plošča se na‐
+haja v izredno ogreva‐
+nem območju ali pa je
+izpostavljena neposredni
+sončni svetlobi.
+
+Napetost napajanja ni v
+delovnih mejah motorja.
+
+Preverite pogoje delova‐
+nja motorja.
+
+Manjka napajalna faza.
+Preverite
+
+• Prepričajte se, da mehan‐
+sko tesnilo ne pušča.
+• Prepričajte se, da sesalna
+cev popolnoma tesni.
+• Zamenjajte ventile, ki pu‐
+ščajo.
+
+Odprite ventil.
+
+• napajanje.
+• Električni priključek
+
+Dušenje na odtoč‐
+ni strani je pre‐
+močno.
+
+Razstavite in očistite ventile.
+
+7.5  Električna črpalka se zažene, vendar
+se pozneje (različno dolgo) sproži toplotno
+varovalo
+
+Ventili so zaklenje‐
+ni v zaprtem ali
+delno zaprtem po‐
+ložaju.
+
+Vzrok
+Ukrep
+
+Črpalka je zama‐
+šena.
+
+Obrnite se na lokalnega pred‐
+stavnika za prodajo in servis.
+
+Cevi so zamašene. Preverite in očistite cevi.
+
+Obrnite se na lokalnega
+predstavnika za prodajo in
+servis.
+
+V črpalki so tujki (trd‐
+na ali vlaknata tele‐
+sa), zaradi katerih je
+rotor obtičal.
+
+Spremenite položaj obeh faz na
+priključni plošči motorja ali na
+električni nadzorni plošči.
+
+Smer vrtenja roto‐
+rja je napačna.
+(trifazna različica)
+
+Hitrost črpalke je vi‐
+šja od meja, določe‐
+nih na tipski ploščici.
+
+Delno zaprite spodnji tok
+ventila za VKLOP, dokler hi‐
+trost dovajanja ni enaka ali
+manjša od omejitev, navede‐
+nih na tipski ploščici.
+
+Preverite pogoje delovanja čr‐
+palke. Po potrebi storite nasled‐
+nje:
+
+SL
+
+Dvig pri sesanju je
+previsok ali pa je
+pretočni upor v se‐
+salnih ceveh pre‐
+velik.
+
+• zmanjšajte sesalno dviga‐
+nje
+• povečajte premer sesalne
+cevi.
+
+Črpalka je preobre‐
+menjena, ker črpa te‐
+kočino, ki je pregosta
+in preveč viskozna.
+
+Preverite dejanske zahteve
+glede napajanja glede na
+značilnosti načrpane tekoči‐
+ne in ustrezno zamenjajte
+motor.
+
+Ležaji motorja so ob‐
+rabljeni.
+
+7.9  Električna črpalka se ustavi in nato zavrti
+v napačno smer
+
+Obrnite se na lokalnega
+predstavnika za prodajo in
+servis.
+
+Vzrok
+Ukrep
+
+7.6  Električna črpalka se zažene, vendar je
+splošna sistemska zaščita aktivirana
+
+Prišlo je do uhajanja v eni ali
+obeh naslednjih komponentah:
+
+Popravite ali za‐
+menjajte okvarje‐
+no komponento.
+
+Vzrok
+Ukrep
+
+• Sesalna cev
+• Nožni ventil ali protipovratni
+ventil
+
+V sesalni cevi je zrak.
+Izpustite zrak.
+
+Kratek stik v električnem
+sistemu.
+
+Preverite električni si‐
+stem.
+
+7.10  Črpalka se prepogosto zaganja.
+
+261

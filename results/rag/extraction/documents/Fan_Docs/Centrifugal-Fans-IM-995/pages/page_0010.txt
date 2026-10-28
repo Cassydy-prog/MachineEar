@@ -1,0 +1,45 @@
+IM-995
+
+Fan Installation – Disassembled Units With Split Housings
+(refer to lifting/safety section)
+
+A unit is considered “disassembled” if any component required for proper operation is shipped or supplied separately or in 
+pieces. Reference earlier instructions concerning proper handling of fan components and general safety. Impeller rotation is 
+important. Rotation is viewed from the drive side unless otherwise noted on the drawing.
+
+All units where assembly of the fan housing or bearing pedestal or drive stand is required will have tags or matchmarks on 
+adjacent parts. These are used to identify which components are joined together. Units which require extensive assembly may 
+require additional instructions located in other sections of this manual. Special instructions for some components and accessories 
+are sent with the shipment.
+
+1.	 Move the lower half of the housing to its mounting location.
+2.	 Remove skids, crates and packing materials carefully.
+3.	 If vibration isolation is to be used, place the vibration isolation base on mounting bolts. Line up holes in fan base with bolts. 
+See Item 10 in the "Optional Accessories" section for preparing inertia bases for use.
+4.	 Place the lower housing on the mounting structure. Carefully level the lower housing on the foundation and shim as necessary 
+using stainless steel shims on both sides of each anchor bolt. IMPORTANT: Back off leveling nuts if used.
+5.	 If the bearing pedestal(s) are separated they should be installed next.
+a.	 Move bearing pedestal(s) to mounting location.
+b.	 Set pedestal(s) on bolt(s).
+c.	 Do not distort bearing pedestal by forcing it to align with a non-level foundation. (The concrete foundation should be
+
+properly dressed.) Place shims on either side of the foundation studs and back off leveling nuts.
+d.	 Check the bearing centerline height. Adjust the height to match centerline height of the housing. High temperature units
+
+may require a lower housing centerline/inlet when cold so that it will be centered when hot.
+e.	 Bring the bearing pedestal into square with the housing using careful measurements or a large square.
+f.	 Shim and bolt the pedestal into position.
+
+Pie Split
+
+3-Way Split
+Housing
+
+Housing
+
+Horizontal Split
+
+Housing
+
+Installation, Operation & Maintenance Manual
+10

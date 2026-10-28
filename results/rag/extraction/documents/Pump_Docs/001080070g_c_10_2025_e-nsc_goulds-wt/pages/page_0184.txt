@@ -1,0 +1,157 @@
+pl - Tłumaczenie oryginału
+
+uzyskać od lokalnego przedstawiciela handlowego i
+serwisowego.
+
+NIEBEZPIECZEŃSTWO:
+Nie należy używać pompy do cieczy pal‐
+nych i/lub wybuchowych.
+
+Temperatura otoczenia
+
+UWAGA:
+
+Produkt musi być składowany w temperaturze oto‐
+czenia od -5°C do +40°C (23°F do 104°F).
+
+3  Opis produktu
+
+• Nie należy używać pompy do cieczy zawierają‐
+cych substancje ścierne, ciała stałe lub włóknis‐
+te.
+• Nie używać pompy przy natężeniach przepływu
+niezgodnych z wartościami podanymi na tablicz‐
+ce znamionowej.
+
+Zastosowania specjalne
+
+3.1  Konstrukcja pompy
+Jest to pozioma pompa ze spiralną obudową, blisko
+połączoną ze standardowymi silnikami elektryczny‐
+mi.
+Pompy można użyć do pompowania:
+
+Kontaktować się z lokalnym przedstawicielem dzia‐
+łem sprzedaży i serwisu w następujących przypad‐
+kach:
+
+• Ciepłej lub zimnej wody
+• Czystych cieczy
+• Cieczy, które nie działają chemicznie i mecha‐
+nicznie żrąco na materiały pompy.
+Produkt może być dostarczony jako zespół pompy
+(pompa oraz silnik elektryczny) lub tylko jako po‐
+mpa.
+
+UWAGA:
+W razie zakupienia pompy bez silnika, należy upew‐
+nić się, że silnik przewidziany do użycia nadaje się
+do sprzężenia z pompą.
+
+• jeżeli wartości gęstości i/lub lepkości pompowa‐
+nej cieczy przekraczają odpowiednie wartości dla
+wody (na przykład w przypadku wody z glikolem),
+ponieważ konieczne może być zastosowanie sil‐
+nika o większej mocy,
+• jeżeli pompowana ciecz jest poddawana obróbce
+chemicznej (na przykład woda zmiękczona, dejo‐
+nizowana, demineralizowana itp.),
+• w każdej sytuacji odmiennej od opisanych i mają‐
+cej związek z właściwościami płynu.
+
+3.2  Denominacja pompy
+
+Przeznaczenie
+
+Pompa nadaje się do następujących zastosowań:
+
+Rysunek 2 na stronie 351 zawiera objaśnienie kodu
+denominacji pompy i jeden przykład.
+
+PL
+
+• Zasilanie wodą i uzdatnianie wody
+• Zasilanie wodą ciepłą i chłodzącą w instalacjach
+przemysłowych i budynkach
+• Układy nawadniające i spryskiwaczy
+• Układy ogrzewania
+• Zastosowania przeciwpożarowe
+Dodatkowe zastosowania materiału opcjonalnego:
+
+• Ciepłownictwo
+• Przemysł ogólny
+
+3.3  Tabliczka znamionowa
+Tabliczka znamionowa znajduje się na wsporniku
+łożyska. Na tabliczce znamionowej podano główne
+dane techniczne produktu. Więcej informacji zawiera
+rozdział Rysunek 1 na stronie 345.
+Na tabliczce znamionowej znajdują się dane doty‐
+czące wirnika i materiału obudowy, uszczelnienia
+mechanicznego i ich materiałów. Więcej informacji
+zawiera rozdział Rysunek 3 na stronie 363.
+
+niewłaściwe użytkowanie,
+
+IMQ, TUV lub IRAM bądź inne oznaczenia
+(dotyczy tylko pomp elektrycznych)
+
+OSTRZEŻENIE:
+Nieprawidłowe użycie pompy może
+stwarzać warunki niebezpieczne oraz po‐
+wodować obrażenia ciała i uszkodzenia
+mienia.
+
+W przypadku produktów opatrzonych znakiem za‐
+twierdzenia bezpieczeństwa elektrycznego, zatwier‐
+dzenie odnosi się wyłącznie do pompy elektrycznej,
+jeżeli nie określono inaczej.
+
+Używanie produktu niezgodnie z przeznaczeniem
+prowadzi do utraty uprawnień gwarancyjnych.
+Przykłady niewłaściwego użycia:
+
+3.4  Opis pompy
+• Wymiary połączeń zgodnie z normą EN 733 (mo‐
+dele 32-125…-200; 40-125…-250; 50-125…-250;
+65-125…-315;80-160…-315; 100-200…-400;
+125-250…-400; 150-315…-400).
+• Pompa z obudową spiralną ze wspornikiem łoży‐
+ska wyciąganym od tyłu.
+
+• ciecze nieodpowiednie ze względu na materiały
+konstrukcyjne pompy,
+• ciecze niebezpieczne (na przykład ciecze tok‐
+syczne, wybuchowe, palne lub korozyjne),
+• płyny spożywcze inne niż woda (na przykład wino
+lub mleko),
+Przykłady niewłaściwej instalacji:
+
+3.5  Materiał
+Metalowe części pompy, które stykają się z cieczą,
+są wykonane z następujących materiałów:
+
+Kod materiału
+Materiał obudo‐
+
+Standard/opcja
+
+wy/wirnika
+
+CC
+żeliwo/żeliwo
+Standardowy
+
+• lokalizacje niebezpieczne (takie jak lokalizacje z
+atmosferą wybuchową lub korozyjną),
+• miejsca o wysokiej temperaturze powietrza lub o
+słabej wentylacji,
+• instalacje poza pomieszczeniami w miejscach,
+gdzie brak jest zabezpieczenia przed deszczem
+lub ujemnymi temperaturami.
+
+CB
+żeliwo/brąz
+Standardowy
+
+180

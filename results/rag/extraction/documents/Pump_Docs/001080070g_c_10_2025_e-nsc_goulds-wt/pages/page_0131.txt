@@ -1,0 +1,167 @@
+fi - Alkuperäisen käännöksen
+
+Moottorit voivat yleensä toimia seuraavien verkko‐
+jännitetoleranssien mukaisesti:
+
+Taajuus Hz
+Vaihe ~
+UN [V] ± %
+
+laa jalustan keskelle. Kaikkien välilevyjen on olta‐
+va täysin tasaisia. Katso Kuva 17 sivulla 384.
+8. Kiristä raidetangon mutterit tasaisesti ja täysin
+ja varmista, että kiristysmomentit ovat taulukon
+mukaiset.
+
+50
+1
+220 – 240 ± 6
+
+3
+230/400 ± 10
+
+Mutteri
+Vääntömomentti, Nm
+(lbf·in)
+
+400/690 ± 10
+
+M12
+60 (44)
+
+60
+1
+220 – 230 ± 6
+
+M16
+120 (89)
+
+3
+220/380 ± 5
+
+M20
+200 (148)
+
+380/660 ± 10
+
+M24
+350 (258)
+
+M27
+530 (391)
+
+Käytä määräysten mukaista kaapelia, jossa on 3 joh‐
+dinta (2 + maa) yksivaiheisissa versioissa ja 4 joh‐
+dinta (3 + maa) kolmivaiheisissa versioissa.
+
+Huomautus:
+
+4.3  Pumpun asentaminen
+
+• Jalustat kannattaa valaa käyttämällä kutistuma‐
+tonta betonia.
+
+4.3.1  Mekaaninen asennus
+
+Kiinnitä pumppu perustusrunkoon
+
+Asennusalue
+
+Muista tarkistaa, että seuraavia noudatetaan:
+
+Asenna yksikkö betoni- tai metalliperustuksen poh‐
+jalle niin vahvaksi, että se on tukeva ja kiinteä.
+Noudata kohdan vaatimuksiaPumpun sijoitus sivulla
+125.
+
+FI
+
+Asennus betoniperustukseen
+
+Perustuksen vaatimukset
+
+• Tukeva perustusrunko, joka ei väänny tai tärise
+käytön aikana (resonanssi).
+• Pumpun jalkojen ja perustusrungossa olevan
+moottorin kiinnityspintojen täytyy olla tasaiset
+(koneistusta suositellaan).
+• Pumpun ja moottorin turvallinen kiinnitys täytyy
+taata.
+• Pumpun ja moottorin akselin väliin täytyy jättää
+riittävästi tilaa käytettävän kytkimen mukaan.
+• Pumpun ja perusrungon välissä on oltava riittävä
+säätöalue, jotta vaihdettaessa sama korkeus ala-
+ja keskilinjan välillä voidaan säätää (suositeltava
+pystysäätö 4–6 mm).
+
+Tärinän vähentäminen
+
+• Betonin puristuskestävyyden on oltava C12/15 ja
+sen on täytettävä altistusluokan XC1 vaatimukset
+standardin EN 206-1 mukaisesti
+• Kokojen on vastattava yksikön tukilevyn kokoja
+• Perustuksen painon on oltava ≥ 1,5 kertaa yksi‐
+kön paino (≥ 5 kertaa yksikön paino, jos tarvitaan
+hiljaisempaa käyttöä)
+• Pinnan tulee olla mahdollisimman tasainen ja
+vaakasuora
+• Kulmakertoimen on oltava ≤ 1 mm/m.
+Lisäohjeita löytyy asiakirjasta nro. 001080247X: la‐
+taa se skannaamalla QR-koodi, joka löytyy kohdasta
+Kuva 17 sivulla 384.
+
+Yksikkö ja järjestelmän nesteiden virtaus voivat ai‐
+heuttaa tärinää, jota voidaan vahvistaa, jos yksikköä
+tai putkistoa ei asenneta oikein: noudata ohjeita koh‐
+dissa Asennus betoniperustukseen sivulla 127 ja
+Pumpun kiinnittäminen sivulla 127, sekä Putkijärjes‐
+telmän tarkistuslista sivulla 127
+
+Pumpun kiinnittäminen
+
+On myös suositeltavaa:
+
+Esimerkkejä vaaka- ja pystyasennuksista on kohdas‐
+sa Kuva 15 sivulla 383.
+
+• Tarkista, että pumppu ja moottori on kiinnitetty
+tukevasti alustaan
+• Aseta tärinänestomateriaali pohjan ja perustuk‐
+sen väliin
+• Jos yksikössä on hitsattu pohja, täytä betonilla
+kohdan mukaiset tilatKuva 25 sivulla 397.
+
+1. Katso tekninen luettelo:
+– Perustuksen reikien halkaisija ja määrä
+– Reikien etäisyydet
+– Raidetankojen koon ja määrän laskeminen ke‐
+
+HUOMIO:
+Älä täytä taitettua metallilevypohjaa Kuva 26 sivulla
+397 betonilla.
+
+4.3.2  Putkijärjestelmän tarkistuslista
+Tarkista, että seuraavia noudatetaan:
+
+• Imukorkeusasennuksen yhteydessä ilmataskujen
+välttämiseksi imuputken kallistuksen yksikköä
+kohti on oltava yli 2 %.
+• Putkiston nimellishalkaisijan on oltava vähintään
+sama kuin pumpun porttien nimellishalkaisijat.
+
+miallisilla ankkureilla yksikön mallin mukaan.
+2. Poraa perustus ja kiinnitä kiinnitystangot.
+3. Aseta yksikkö perustukselle ja käytä vesivaakaa
+poistoportissa ja akselissa varmistaaksesi, että
+se on vaakasuorassa.
+Suurin sallittu toleranssi: 0,2 mm/m.
+4. Irrota imu- ja poistoaukkoja peittävät tulpat, jos
+niitä on.
+5. Kohdista imu- ja poistoportit putkistoonsa.
+6. Kiinnitä putkisto yksikköön; katso myös kohta
+Putkijärjestelmän tarkistuslista sivulla 127.
+7. Aseta tarvittaessa tasapainotuslevyjä perustuk‐
+sen ja jalustan väliin. Jos liitostankojen välinen
+etäisyys on > 800 mm, aseta kaksi lisäkorotuspa‐
+
+127

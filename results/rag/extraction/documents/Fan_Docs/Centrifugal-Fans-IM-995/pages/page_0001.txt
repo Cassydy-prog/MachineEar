@@ -1,0 +1,56 @@
+Centrifugal Fans 
+IM-995
+
+April 2020
+Installation, Operation & Maintenance Manual
+
+REVIEW AMCA PUBLICATION 410 PRIOR TO INSTALLATION
+
+This manual has been prepared to guide the users of industrial centrifugal fans in the proper installation, operation and 
+maintenance procedures to ensure maximum equipment life with trouble-free operation. For safe installation, startup and 
+operational life of this equipment, it is important that all involved with the equipment be well versed in proper fan safety 
+practices and read this manual. It is the user’s responsibility to make sure that all requirements of good safety practices and any 
+applicable safety codes are strictly adhered to. Because of the wide variety of equipment covered in this manual, the instructions 
+given here are general in nature. Additional product and engineering information is available at www.tcf.com.
+
+SAFETY NOTICE
+
+Refer to the safety section(s) in this manual prior to installing or servicing the fan. The most current version of this installation and 
+maintenance manual can be found on our website at www.tcf.com/resources/im-manuals.
+
+Table of Contents
+
+Overview of Centrifugal Fan Arrangements..............................2
+
+Motor Maintenance.................................................................. 16
+
+Drive Maintenance.................................................................... 16
+Fan Bearing Maintenance..........................................................17
+Impeller and Shaft Maintenance...............................................17
+Structural Maintenance.............................................................17
+Duct Connections.......................................................................17
+Optional Accessories.............................................................18-21
+Grouting..................................................................................... 22
+Serial Number & Fan Type Nameplate..................................... 22
+Impeller Placement / Impeller Overlap...............................23-28
+Troubleshooting Guidelines......................................................29
+Installation / Start-up Checklist.................................................30
+Fan Maintenance Log.................................................................31
+
+Exploded Views...........................................................................3
+Impeller Nomenclature...............................................................3
+Impeller Types & Impeller Rotation...........................................4
+Safety & Hazard Warnings..........................................................5
+Shipping & Receiving..................................................................5
+Handling.......................................................................................6
+Unit Storage.................................................................................7
+Foundations and Supporting Structures...................................8
+Fan Installation, Factory Assembled Units................................9
+Fan Installation, Disassembled Units with Split Housings....10-11
+Bearing Installation....................................................................12
+Safety & Bearing Lubrication Instructions................................13
+Drive Mounting.......................................................................... 14
+Flexible Couplings.......................................................................15
+Maintenance.............................................................................. 16
+
+Twin City Fan

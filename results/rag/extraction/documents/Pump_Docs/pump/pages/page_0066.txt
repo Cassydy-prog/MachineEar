@@ -1,0 +1,104 @@
+Section 3. The Economics of Improving Pumping Systems
+
+unplanned downtime, and avoid expensive 
+failures. In general, PM is less costly than repair. 
+A well-designed PM schedule minimizes the need 
+for repairs by detecting and resolving a problem 
+before it develops into something more serious.
+
+Plant and corporate managers are often bound by a 
+concern for a company’s profits when considering 
+the investment of capital funds. Decision makers 
+are usually attuned to activities that translate 
+directly to the bottom line, such as projects that 
+increase productivity. Fortunately, many (if not 
+most) energy efficiency projects provide other 
+benefits in addition to energy cost savings, such 
+as the following:
+
+Analyze Life-Cycle Costs 
+Before Making a Decision
+
+■	 Increased productivity
+
+■	 Lower maintenance costs
+
+■	 Reduced costs of environmental compliance
+
+■	 Lower production costs
+
+■	 Reduced waste disposal costs
+
+■	 Better product quality
+
+■	 Improved capacity utilization
+
+In much the same way that a PM schedule 
+minimizes expensive repairs, a well-designed 
+system can avoid higher-than-necessary operating 
+costs. Using a life-cycle cost perspective during 
+initial system design, or while planning system 
+upgrades and modifications, can reduce operating 
+costs and improve system reliability. The 
+components of life-cycle costs include the cost 
+of initial equipment, energy consumption, 
+maintenance, and decommissioning; these are 
+discussed in more detail later in this section.
+
+■	 Better reliability
+
+■	 Improved worker safety.
+
+Any potential efficiency improvement project 
+stands a better chance of being funded if it takes 
+into account all these costs and benefits over the 
+project’s anticipated lifespan. Understanding all 
+the components that make up the total cost of 
+owning and operating a pumping system helps 
+decision makers more easily recognize oppor-
+tunities to significantly reduce energy, operating, 
+and maintenance costs.
+
+The life-cycle costs of pumps are difficult to 
+summarize because, even among pumps of the 
+same size, initial costs vary widely. Other costs—
+such as maintenance and disposal or decom-
+missioning—can be difficult to quantify. Several 
+industry stakeholders have participated in efforts 
+to encourage greater consideration of life-cycle 
+costs in pumping system specification and 
+operation. For example, the Hydraulic Institute, 
+a U.S. pump manufacturers trade association, has 
+developed a life-cycle costing guidebook7 to 
+increase industry experts’ awareness of the 
+subject.
+
+Life-cycle cost (LCC) analysis is a management 
+tool that can help companies realize these oppor-
+tunities. The analysis takes into consideration the 
+cost of purchasing, installing, operating, 
+maintaining, and disposing of all the system’s 
+components. Determining the LCC of a system 
+involves using a methodology to identify and 
+quantify all of the components of the LCC 
+equation. As stated in the Hydraulic Institute’s 
+LCC guidebook, the equation is as follows:
+
+A highly efficient pumping system is not merely 
+a system with an energy-efficient motor. Overall 
+system efficiency is the key to maximum cost 
+savings. Often, users are concerned only with 
+initial costs, and they accept the lowest bid for a 
+component while ignoring system efficiency. To 
+achieve optimum pumping system economics, 
+users should select equipment based on life-cycle 
+economics and operate and maintain the 
+equipment for peak performance.
+
+LCC = Cic + Cin + Ce + Co + Cm + Cs + Cenv + Cd
+
+7 Pump Life Cycle Costs:  A Guide to LCC Analysis for Pumping Systems, Europump and Hydraulic Institute, 2001, www.pumps.org.
+
+62
+
+Improving Pumping System Performance

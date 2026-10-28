@@ -1,0 +1,171 @@
+hr - Izvorne upute
+
+Motor s ležajevima koji se mogu ponovno
+podmazivati
+
+Slijedite upute za održavanja dobavljača motora.
+
+Provjera ispravnosti protoka i temperature upumpa‐
+ne tekućine je obaveza instalatera ili vlasnika.
+Prije pokretanja pumpe, pobrinite se da vrijedi sljede‐
+će:
+
+Spojka
+
+• Pumpa je ispravno spojena na napajanje.
+• Pumpa je ispravno napunjena sukladno uputama
+u dijelu Punjenje pumpe (poglavlje 5).
+• On-off ventil smješten nizvodno od pumpe je za‐
+tvoren.
+
+Redovito provjeravajte zazor elemenata spojke, a
+najmanje jednom godišnje. Preporučujemo provjera‐
+vanje na svakih 1.000 radnih sati ili na svaka tri mje‐
+seca, što prije nastupi.
+
+1. Pokrenite motor.
+
+6.2  Kontrolni popis za pregled
+
+2. Postupno otvorite on-off ventil na odvodnoj strani
+pumpe.
+
+U očekivanim radnim uvjetima, pumpa mora ra‐
+diti ravnomjerno i tiho. U protivnom, pogledajte
+Rješavanje problema na stranici 271.
+
+Provjerite spojku
+Provjerite savitljive ele‐
+mente spojke. Zamijeni‐
+te odgovarajuće dijelove
+ako postoje bilo kakvi
+znaci habanja i provjerite
+poravnanje.
+
+6  Održavanje
+
+Mjere opreza
+
+Provjerite mehanički za‐
+tvarač
+
+Provjerite propuštanje
+mehaničkog zatvarača.
+Zamijenite mehanički za‐
+tvarač ako postoji propu‐
+štanje.
+
+Električna opasnost:
+Odspojite i zaključajte električno napaja‐
+nje prije instaliranja ili servisiranja jedini‐
+ce.
+
+UPOZORENJE:
+
+Provjera brtve ležaja
+Provjerite ispravan polo‐
+žaj aksijalnih brtvenih pr‐
+stenova montiranih na
+osovinu. Potrebno je da
+postoji samo blagi kon‐
+takt brtvenog vijenca.
+
+Provjera tihog rada
+Često provjeravajte tihi
+rad pumpe alatima za
+mjerenje vibracija.
+
+• Održavanje i servisiranje mora obav‐
+ljati samo iskusno i stručno osoblje.
+• Obratite pažnju da li se poštivaju pro‐
+pisi za sprječavanje nezgoda.
+• Koristite prikladnu opremu i zaštite.
+• Provjerite da drenirana tekućina ne
+uzrokuje oštećenja ili ozljede.
+
+6.3  Rastavljanje i zamjena dijelova pumpe
+Za više informacija o rezervnim dijelovima i montaži
+i demontaži pumpe, obratite se lokalnom zastupniku
+za prodaju i servis.
+
+7  Rješavanje problema
+
+7.1  Otklanjanje problema za korisnike
+Glavna sklopka je uključena, ali se električna pumpa
+ne pokreće.
+
+6.1  Servis
+Ako korisnik želi isplanirati rokove redovitog održa‐
+vanja, oni ovise o vrsti upumpane tekućine i uvjetima
+rada pumpe.
+Obratite se lokalnom zastupniku za prodaju i servis
+za bilo kakve zahtjeve ili informacije koje se odnose
+na redovito održavanje ili servisiranje.
+Izvanredno održavanje može biti potrebno radi čišće‐
+nja kraja s tekućinom i/ili zamjene istrošenih dijelo‐
+va.
+
+Uzrok
+Rješenje
+
+Pumpe s trajno podmazanim ležajevima
+
+HR
+
+Pumpe s trajno podmazanim ležajevima ne zahtije‐
+vaju zakazano redovito održavanje.
+
+Toplinska zaštita ugra‐
+đena u pumpu (ako
+postoji) je isključena.
+
+Pričekajte dok se pumpa
+ne ohladi. Toplinska zaštita
+će se automatski resetirati.
+
+Pumpe s ležajevima koji se mogu ponovno
+podmazivati
+
+Provjerite razinu tekućine u
+spremniku ili mrežni tlak.
+
+Isključen je uređaj za
+zaštitu od rada na su‐
+ho.
+
+Električna pumpa se pokreće, ali se toplinska zaštita
+isključuje nakon različitog vremena.
+
+• Podmažite ponovno na 4000 radnih sati, a najma‐
+nje jednom godišnje. Prvo očistite priključke za
+podmazivanje (SN).
+• Koristite mast NLGI Grade 2 ili ekvivalentno.
+Kontaktirajte lokalnog predstavnika prodaje i servisa
+u vezi bilo kojih zahtjeva ili informacija.
+
+Uzrok
+Rješenje
+
+Ležajevi motora
+
+Obratite se odjelu prodaje i
+servisa.
+
+Unutar pumpe postoje
+strani predmeti (čvrste
+ili vlaknaste tvari) koji
+su zaglavili rotor.
+
+Nakon približno pet godina, mast u ležajevima moto‐
+ra je toliko stara da se preporučuje zamjena ležajeva.
+Ležajevi se moraju zamijeniti nakon 25.000 radnih
+sati ili prema uputama za održavanje dobavljača mo‐
+tora, koji god period je kraći.
+
+Pumpa je preoptereće‐
+na jer pumpa tekućinu
+
+Provjerite stvarne zahtjeve
+u pogledu snage na teme‐
+
+271

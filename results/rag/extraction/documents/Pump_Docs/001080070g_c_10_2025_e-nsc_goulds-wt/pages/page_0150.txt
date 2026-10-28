@@ -1,0 +1,224 @@
+et - Originaali tõlkimine
+
+P1max
+Maksimaalne sisendrõhk
+
+Pmax
+Maksimaalne pumba genereeritud rõhk
+
+PN
+Maksimaalne töörõhk
+
+Vedeliku temperatuurivahemikud
+
+Nimesilt asub laagrisillal. Nimesildil on kirjas olulisi‐
+mad toote üksikasjad. Täiendava teabe saamiseks
+vt Joonis 1 leheküljel 345.
+Nimesildil on teave rootori ja kesta materjali, mehaa‐
+nilise tihendi ning selle materjalide kohta. Täiendava
+teabe saamiseks vt Joonis 3 leheküljel 363.
+
+IMQ või TUV või IRAM või teised margid
+(ainult elektripumba jaoks)
+
+Joonis 4 leheküljel 367 näitab töötamise tempera‐
+tuurivahemikke.
+Erisoovide korral võtke ühendust müügi- ja hoolduse‐
+sindusega.
+
+Maksimaalne käivituskordade arv tunnis
+
+Kui pole määratud teisiti, kehtib elektriga seotud tun‐
+nustusmärgiga toodete puhul tunnustamine ainult
+elektripumba kohta.
+
+18,5
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+60
+40
+30
+24
+16
+8
+4
+
+3.4  Pumba kirjeldus
+• Ühendamise mõõtmed standardi EN 733 jär‐
+gi (mudelid 32–125…–200; 40–125…–250; 50–
+125…–250; 65–125…–315; 80–160…–315; 100–
+200…–400; 125–250…–400; 150–315…–400).
+• Spiraalkestaga pump tagumise lahtitõmmatava
+laagrisillaga.
+
+Käivi‐
+tusi
+tun‐
+nis
+
+3.5  Materjal
+
+Müranivoo
+
+Vedelikuga kokkupuutuvate pumba metallosade ma‐
+terjal on järgmine.
+
+Materjali kood
+Kesta/rootori
+
+Standardne/
+
+materjal
+
+valikuline
+
+Standardse mootoriga varustatud pumba helirõhu
+tasemete jaoks vaadake Tabel 9 leheküljel 368
+Ilma mootorita pumba helirõhu tasemete jaoks vaa‐
+dake teemat Tabel 10 leheküljel 372.
+
+CC
+Malm/malm
+Standardne
+
+4  Paigaldus
+
+CB
+Malm/pronks
+Standardne
+
+ET
+
+Ettevaatusabinõud
+
+Standardne
+
+CS
+Malm
+Roostevaba te‐
+
+HOIATUS:
+
+ras
+
+Standardne
+
+CN
+Malm
+Roostevaba te‐
+
+ras
+
+Standardne
+
+DC
+Kõrgtugev
+malm / malm
+
+• Järgige kõiki ohutusnõudeid.
+• Kasutage nõuetekohaseid seadmeid
+ja kaitsmeid.
+• Järgige alati kõiki paigalduskohta
+ning vee- ja elektriühendusi puuduta‐
+vad kohalikke ja/või rahvusvahelisi
+nõudeid, seaduseid ja eeskirju.
+
+Standardne
+
+DB
+Kõrgtugev
+malm / pronks
+
+Elektrilöögi oht:
+
+Standardne
+
+DN
+Kõrgtugev
+malm / rooste‐
+
+vaba teras
+
+NN
+Roostevaba te‐
+
+Standardne
+
+ras /
+Roostevaba te‐
+
+ras
+
+• Veenduge, et kõiki ühendustöid teos‐
+tavad vastava väljaõppe saanud pai‐
+galdustehnikud, kes järgivad kõiki ko‐
+halduvaid nõudeid.
+• Enne seadmega töö alustamist veen‐
+duge, et seade ja selle juhtpaneel on
+pingestumise vältimiseks toite- ja juh‐
+timisahelast isoleeritud. See kehtib
+ka juhtimisahela korral.
+
+RR
+Kahekordne/
+
+Valikuline
+
+kahekordne
+
+Maandus
+
+Elektrilöögi oht:
+
+3.6  Mehhaaniline tihend
+Tasakaalustamata mehhaaniline tihend vastavalt
+standardile EN 12756, versioon K.
+
+3.7  Kasutuspiirangud
+
+Maksimaalne töörõhk
+
+Joonis 4 leheküljel 367 näitab maksimaalset töörõh‐
+ku sõltuvalt pumba mudelist ja pumbatava vedeliku
+temperatuurist.
+P1max + Pmax≤ PN
+
+• Enne muude elektriühenduste loo‐
+mist ühendage alati väline kaitsejuht
+maandusterminaliga.
+• Kõik elektriseadmed tuleb maandada.
+See kehtib nii pumba seadmete, käi‐
+turi kui ka jälgimisseadmete puhul.
+Testige maandusjuhet veendumaks,
+et see on õigesti ühendatud.
+• Kui mootori kaabel vea tõttu lahti tu‐
+leb, peab maandusjuht olema viima‐
+ne kaabel, mis terminali küljest lahti
+
+146

@@ -1,0 +1,19 @@
+4. Piping Configurations To Improve Pumping System Efficiency
+
+reactions that pull the pump out of alignment. For 
+example, when a pump is installed, the connecting 
+piping is rarely aligned perfectly with the pump; 
+rather, some amount of mechanical correction is 
+needed to make the connections. If the piping is 
+pulled too far from its relaxed position to make the 
+fit, it can force the pump and motor out of 
+alignment, excessively straining the pump casing.
+
+Properly supporting the piping near the pump 
+allows the pipe reaction to be carried by the pipe 
+hangers rather than by the pump itself. Also, 
+proper support of the piping near the pump stiffens 
+the system, and this can reduce system vibrations.
+
+32
+Improving Pumping System Performance

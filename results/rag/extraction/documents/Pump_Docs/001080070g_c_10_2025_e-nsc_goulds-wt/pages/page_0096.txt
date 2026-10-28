@@ -1,0 +1,172 @@
+da - Oversættelse af original instruktioner
+
+Pumpetype
+Beskyttelse
+
+metrisk beskyttelse
+(motorbeskytter)
+– Kortslutningsbe‐
+
+skyttelse (skal le‐
+veres af installatø‐
+ren)15
+
+Trefaset elektrisk pum‐
+pe16
+– Termisk beskyttelse
+
+(skal leveres af in‐
+stallatøren)
+– Kortslutningsbe‐
+
+• Pumpen placeres over væskeniveau, en fodventil
+installeres i enden af indsugningsrøret.
+• Fodventilen neddyppes komplet i væsken, så der
+ikke kan komme luft ind mellem indsugnings‐
+hvirvlen, når væsken er på et minimumsniveau,
+og pumpen installeres over væskekilden.
+• Tænd-sluk-ventiler i tilpasset størrelse installe‐
+res på indsugningsrøret og udførselsrøret (down‐
+stream til kontrolventilen) for regulering af pum‐
+pekapaciteten, pumpeinspektionen og vedligehol‐
+delse.
+• For at undgå tilbagegennemstrømning i pumpen,
+når pumpen slukkes, er der installeret en kontrol‐
+ventil på udførselsrøret.
+
+skyttelse (skal leve‐
+res af installatøren)
+
+• Kontrolpanelet skal udstyres med et tørtløbende
+beskyttelsessystem, som der er forbundet en
+trykkontakt, flydekontakt, prober eller en anden
+passende enhed.
+• De følgende enheder anbefales til brug på pum‐
+pens indsugningsside:
+
+– Når væsken pumpes ud fra et vandsystem,
+
+DA
+
+ADVARSEL:
+Brug ikke tænd-sluk-ventilen på aflad‐
+ningssiden i lukket position for at dros‐
+le pumpen i mere end nogle få sekun‐
+der. Hvis pumpen skal fungere med af‐
+ladningssiden lukket i mere end nogle
+få sekunder, skal der installeres et om‐
+ledningskredsløb til at undgå overophed‐
+ning af væsken inden i pumpen.
+
+skal du bruge en trykkontakt.
+– Når væsken pumpes fra en opbevaringstank
+
+Se Figur 13 på side 380 og Figur 14 på side 380 for
+illustrationer, der viser krav til rørene.
+
+eller beholder, skal du bruge en flydekontakt
+eller prober.
+• Når der anvendes termiske relæer, anbefales re‐
+læer, der er sensitive over for fasefejl.
+
+4.2  Elektriske krav
+
+Motorkontrollisten
+
+ADVARSEL:
+
+• De gældende lokale forskrifter tilsidesætter disse
+specificerede krav.
+• I tilfælde af brandbekæmpelsessystemer (brand‐
+haner og/eller sprinklere) skal du tjekke de lokale
+gældende forordninger.
+
+Tjekliste for elektriske forbindelser
+
+Kontroller, at følgende krav opfyldes:
+
+• Læs brugsinstruktionerne for at sikre,
+at en beskyttelsesenehed forsynes,
+hvis der bruges en anden motor end
+standard.
+• Hvis motoren er udstyret med auto‐
+matisk termisk beskyttelse, skal du
+være opmærksom på fare for uventet
+opstart i forbindelse med overbelast‐
+ning. Brug ikke sådanne motorer til
+ildbekæmpelsesredskaber.
+
+• De elektriske ledninger beskyttes mod høj tempe‐
+ratur, vibrationer og kollisioner.
+• Strømforsyningsledningen er forsynet med:
+– En enhed til beskyttelse mod kortslutning
+– En hovedisolatorkontakt med en kontaktspal‐
+
+te på mindst 3 mm
+
+BEMÆRKNING:
+
+Tjekliste for det elektriske kontrolpanel
+
+• Anvend kun dynamisk balancerede motorer med
+en lås af halv størrelse i akselforlængeren (IEC
+60034-14) og med normal vibrationshastighed
+(N).
+• Netspænding og frekvens skal stemme overens
+med oplysningerne på pumpens dataskilt.
+
+BEMÆRKNING:
+Kontrolpanelet skal stemme overens med den elek‐
+triske pumpes klassificering. Ukorrekte kombinatio‐
+ner kan føre til, at garantien for beskyttelse af moto‐
+ren bortfalder.
+
+Kontroller, at følgende krav opfyldes:
+
+Generelt kan motorer drives under følgende spæn‐
+dingstolerancer:
+
+Frekvens Hz
+Fase ~
+UN [V] ± %
+
+50
+1
+220 – 240 ± 6
+
+• Kontrolpanelet skal beskytte motoren mod over‐
+belastning og kortslutning.
+• Installér den korrekte overbelastningsenhed (ter‐
+misk relæ eller motorbeskytter).
+
+3
+230/400 ± 10
+
+Pumpetype
+Beskyttelse
+
+400/690 ± 10
+
+– Indbygget automa‐
+
+Enkeltfaset elektrisk
+pumpe ≤ 2,2 kW
+
+60
+1
+220 – 230 ± 6
+
+tisk nulstilling
+af termisk-ampero‐
+
+3
+220/380 ± 5
+
+15
+sikringer aM (motorstart) eller magneto-termisk afbryder med kurve C og Icn ≥ 4,5 kA eller anden
+tilsvarende enhed.
+16
+af termisk relæ med udløserklasse 10A + sikringer aM (motorstart) eller motorbeskyttelsesmagnetoter‐
+misk afbryder med startklasse 10A.
+
+92

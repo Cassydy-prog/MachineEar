@@ -1,0 +1,136 @@
+Total head
+
+2. The true motor brake horsepower, once the 
+efficiency is determined from dynamometer tests, 
+can also be calculated from the following formula:
+
+Total head is the algebraic difference between the 
+total suction and the total discharge heads.
+
+Bhp =   kW input x Eff.
+
+1. Where suction lift exists, total head is the sum of the
+	
+total discharge head and the suction lift.
+2. Where positive suction head exists, the total head is
+	
+the total discharge head minus the total suction 
+head.
+
+0.746
+Where Bhp = Brake horsepower delivered
+             kW input = Real input power (kW)
+             Eff. = Motor efficiency
+
+Suction lift
+
+Pump efficiency
+
+Pump efficiency can be calculated by the formula:
+
+Pump efficiency =
+
+Total head x GPM x specific gravity
+                                         3960 x Bhp
+
+Suction lift exists where the total suction head is below
+atmospheric pressure. Total suction lift is the reading 
+of a liquid monometer at the suction nozzle of the 
+pump, converted to feet of liquid, and referred to the 
+datum minus the velocity head at the point of gauge 
+attachment.
+
+Vibration
+
+Positive suction head
+
+Suction head exists when the total suction head is 
+above atmospheric pressure. Total suction head is 
+the reading of a gauge at the suction of the pump, 
+converted to feet of liquid, and referred to datum plus 
+the velocity head at the point of gauge attachment.
+
+Velocity head
+
+The acceptable vibration level of a centrifugal pump
+depends on the rigidity of the pump and the 
+supporting structure. Recommended values for 
+vibration can vary between .20 ips velocity to .60 ips 
+velocity depending on the operating characteristics 
+and the structure. Refer to the standards of the 
+"Hydraulic Institute" for the complete description 
+and charts on various structures.
+
+Electrical requirements
+
+Motor (also see separate motor instructions)
+
+Velocity head is figured from the average velocity 
+obtained by dividing the discharge flow (in cubic 
+feet per second) by the actual area of the pipe cross-
+section (in square feet), and is determined at the point 
+of gauge connection. lt is expressed by the formula:
+
+hv =   V2
+
+2g
+
+Where g = the acceleration due to gravity, and is 
+32.17 feet per second squared at sea level and 
+45 degrees latitude.
+
+If the motor is sized to operate near full load at 
+the rated head and capacity of the pump, a watt-
+meter should be installed to record input power 
+to the motor. If motor efficiency is known, the shaft 
+horsepower may be calculated and checked against 
+the motor rating. A motor operating outside its 
+service factor will overheat and could possibly burn 
+out. Motors are usually rated with normal temperature 
+requirements stamped on the data plate.
+
+V = velocity in the pipe in feet per second.
+
+Volume measurement
+
+The method of volume measurement should be 
+made by some accurate and accepted method and 
+converted to gallons per minute. For easy reference, 
+refer to the following:
+
+NOTE: A motor which feels hot to the touch of the 
+hand is not necessarily running hot. Check with an
+accurate temperature measuring device to be sure.
+A motor operating outside its service factor will
+overheat and could possibly burn out. Motors are
+usually rated with normal temperature requirements
+stamped on the data plate.
+
+Conduit box
+
+1. The standard U.S. gallon contains 231 cubic inches.
+2. One cubic foot equals 7.4805 gallons.
+3. The specific weight of water at a temperature of   
+    60°F shall be taken as 62.34 pounds per cubic foot.
+
+Horsepower
+
+Conduit boxes are mounted on the motors at lead 
+access openings. Conduit boxes are normally 
+provided for main power leads and other special 
+accessories, such as space heaters, temperature 
+alarms and control features.
+
+1. The formula for horsepower required at the pump
+    shaft is:
+ 
+              Bhp =  Total head x GPM x specific gravity
+                                  3960 x Eff.
+
+The conduit box openings are sized as shown on the
+motor dimension drawing, and threaded for using 
+standard rigid or flexible conduit. They may be 
+assembled with conduit openings at any of four (4) 
+90° positions.
+
+25

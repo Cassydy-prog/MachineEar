@@ -1,0 +1,107 @@
+Section 1: Pumping System Basics
+
+■	 The working fluid is highly viscous
+
+■	 The system requires high-pressure,
+
+low-flow pump performance
+
+■	 The pump must be self-priming
+
+■	 The working fluid must not experience
+
+high shear forces
+
+■	 The flow must be metered or precisely
+
+which is endorsed by the Hydraulic Institute; the 
+program defines premium efficiency motors with 
+higher efficiency levels than those established by 
+EPAct. In high-run-time applications, improved 
+motor efficiencies can significantly reduce 
+operating costs. However, it is often more 
+effective to take a systems approach that uses 
+proper component sizing and effective mainten-
+ance practices to avoid unnecessary energy 
+consumption.
+
+controlled
+
+■	 Pump efficiency is highly valued.
+
+A subcomponent of a pump motor is the motor 
+controller. The motor controller is the switchgear 
+that receives signals from low-power circuits, 
+such as an on-off switch, and connects or dis-
+connects the high-power circuits to the primary 
+power supply from the motor. In dc motors, the 
+motor controller also contains a sequence of 
+switches that gradually builds up the motor 
+current during start-ups.
+
+A disadvantage is that positive displacement 
+pumps typically require more system safeguards, 
+such as relief valves. A positive displacement 
+pump can potentially overpressurize system piping 
+and components. For example, if all the valves 
+downstream of a pump are closed—a condition 
+known as deadheading—system pressure will 
+build until a relief valve lifts, a pipe or fitting 
+ruptures, or the pump motor stalls. Although 
+relief valves are installed to protect against such 
+damage, relying on these devices adds an element 
+of risk. In addition, relief valves often relieve 
+pressure by venting system fluid, which may be 
+a problem for systems with harmful or dangerous 
+system fluids. For more information on this type 
+of pump, see the fact sheet in Section 2 titled 
+Positive Displacement Pump Applications.
+
+In special applications, such as emergency 
+lubricating oil pumps for large machinery, some 
+pumps are driven by an air system or directly 
+from the shaft of the machine. In the event of a 
+power failure, these pumps can still supply oil 
+to the bearings long enough for the machine to 
+coast to a stop. For this same reason, many fire 
+service pumps are driven by diesel engines to 
+allow them to operate during a power outage.
+
+ Prime Movers
+Most pumps are driven by electric motors. 
+Although some pumps are driven by direct current 
+(dc) motors, the low cost and high reliability of 
+alternating current (ac) motors make them the 
+most common type of pump prime mover. In 
+recent years, partly as a result of DOE’s efforts, 
+the efficiencies of many types of ac motors have 
+improved. A section of the Energy Policy Act 
+(EPAct) of 1992 that set minimum efficiency 
+standards for most common types of industrial 
+motors went into effect in October 1997. EPAct has 
+provided industrial end users with greater selection 
+and availability of energy-efficient motors.
+
+ Piping
+Piping is used to contain the fluid and carry it 
+from the pump to the point of use. The critical 
+aspects of piping are its dimensions, material type, 
+and cost. Since all three aspects are interrelated, 
+pipe sizing is an iterative process. The flow resist-
+ance at a specified flow rate of a pipe decreases 
+as the pipe diameter gets larger; however, larger 
+pipes are heavier, take up more floor space, and 
+cost more than smaller pipe. Similarly, in systems 
+that operate at high pressures (for example, 
+hydraulic systems), small-diameter pipes can have 
+thinner walls than large-diameter pipes and are 
+easier to route and install.
+
+Small-diameter pipes restrict flow, however, and 
+this can be especially problematic in systems with
+
+In addition, the National Electrical Manufacturers 
+Association (NEMA) has established the NEMA 
+PremiumTM energy efficiency motors program,
+
+A Sourcebook for Industry

@@ -1,0 +1,109 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+Instalare incorectă • Неправилна инсталация • Nepravilna namestitev • Nepravilna instalacija • Nepravilna
+instalacija • Λανθασμένη εγκατάσταση • Yanlış kurulum • Неправильная установка • Неправильне
+встановлення • تركيب
+ 
+ غير
+صحيح
+
+1
+Curva stretta; elevata resistenza di flusso • Sharp bend; high flow resistance • Coude brusque ; forte rési‐
+stance au débit • Enger Bogen; hoher Durchflusswiderstand • Codo pronunciado; alta resistencia de flujo •
+Curva afiada; elevada resistência de fluxo • Scherpe bocht; weerstand debiet met hoge snelheid • Skarp
+bøjning; høj gennemstrømningsmodstand • Skarp bøy, høy strømningsmotstand • Skarp böj, högt flöde‐
+smotstånd • Terävä mutka, korkea virtausvastus • Hvöss sveigja; mikil rennslismótstaða • Järsk paine; suu‐
+re voolu takistus • Ass līkums; augsta plūsmas pretestība • Mažas lenkimo kampas; didelis hidraulinis pasi‐
+priešinimas • Ostry skręt; duża oporność przepływu • Ostrý ohyb; vysoký odpor proudění • Ostrý ohyb, vyso‐
+ký prietokový odpor • Éles törés; jelentős áramlási ellenállás • Cot abrupt; rezistență ridicată la flux • Остра
+сгъвка; висока устойчивост към потока • Ostro koleno; visoka upornost pretoka • Oštar zavoj; visoka ot‐
+pornost protoku • Oštar zavoj; visoka otpornost protoku • Καμπύλη μικρής ακτίνας, αντίσταση υψηλής
+ροής • Keskin bükme, yüksek akış rezistansı • Резкий изгиб; высокое сопротивление потоку • Різкий
+вигин; високий опір потоку • انثناء
+ 
+حاد،
+ 
+مقاومة
+ 
+عالية
+ 
+الضخ
+
+2
+Immersion insufficiente; aspirazione aria • Insufficient immersion; sucking air • Submergence insuffisante ;
+aspiration d'air • Unzureichendes Eintauchen: Luftansaugung • Inmersión insuficiente; se aspira aire • Imer‐
+são insuficiente; sucção de ar • Onvoldoende ondergedompeld; zuigt lucht aan • Utilstrækkelig nedsænk‐
+ning; suger luft • Utilstrekkelig nedsenking, suge luft • Otillräcklig nedsänkning, suger luft • Riittämätön upo‐
+tus, imee ilmaa • Ófullnægjandi dýfing; dregur loft að sér • Puudulik sukeldamine; õhu imemine • Nepietieka‐
+ma iegrime; tiek iesūknēts gaiss • Nepakankamas panardinimas; oro siurbimas • Niewystarczające zanur‐
+zenie; powietrze zasysania • Nedostatečné ponoření; nasávání vzduchu • Nedostatočné ponorenie, nasáva
+sa vzduch • Nem elégséges merülés; levegőbeszívás • Scufundare insuficientă; aspirație aer •
+Недостатъчно потапяне; засмукване на въздух • Nezadostna potopitev; sesanje zraka • Nedovoljno po‐
+tapanje; usisavanje vazduha • Nedovoljno potapanje; usisavanje vazduha • Ανεπαρκής βύθιση,
+αναρρόφηση αέρα • Yetersiz batırma, hava emişi • Недостаточная глубина погружения, всасывание
+воздуха • Недостатня глибина занурення; всмоктування повітря • غمر
+ 
+ غير
+كافٍ،
+ 
+شفط
+ 
+الهواء
+
+3
+Pendenza negativa; sacche d’aria • Negative gradient; air pockets • Pente négative ; poches d'air • Negative
+Neigung; Lufteinschlüsse • Gradiente negativa; bolsas de aire • Declive negativo; bolsas de ar • Negatieve
+helling; luchtzakken • Negativ gradient; luftlommer • Negativ gradien, luftlommer • Negativ lutning med luft‐
+fickor • Negatiivinen kaltevuus, ilmataskuja • Neikvæður halli; loftgöt • Negatiivne gradient; õhuaugud • Ne‐
+gatīvs gradients; gaisa kabatas • Neigiamas gradientas; oro kišenės • Gradient ujemny; korki powietrzne •
+Klesající gradient; vzduchové kapsy • Záporný gradient, vzduchové bubliny • Negatív gradiens; légzsákok •
+Gradient negativ; pungi de aer • Отрицателен наклон; въздушни джобове • Negativen naklon; zračni žep‐
+ki • Negativni gradijent; zračni džepovi • Negativni gradijent; vazdušni džepovi • Αρνητική κλίση, έγκλεισμα
+αέρα • Negatif eğim; hava cepleri • Отрицательный градиент; воздушные пробки • Негативний
+градієнт; повітряні пробки • تدرج
+ 
+سلبي؛
+ 
+جيوب
+ 
+هوائية
+
+4
+Diametro del tubo < diametro bocca della pompa; elevata resistenza di flusso • Pipe diameter < pump port
+diameter; high flow resistance • Diamètre de canalisation < diamètre de port de pompe ; forte résistance au
+débit • Rohrdurchmesser < Pumpenstutzendurchmesser; hoher Durchflusswiderstand • Diámetro del tubo <
+diámetro boca de la bomba; resistencia de alto flujo • Diâmetro do tubo < diâmetro da porta da bomba;
+elevada resistência de fluxo • diameter leiding < diameter pompdoorgang; weerstand debiet met hoge snel‐
+heid • Rørdiameter < pumpestudsens diameter; høj gennemstrømningsmodstand • Rørdiameter < pumpe‐
+portdiameter, høy strømningsmotstand • Rördiameter < diametern på pumpporten; högt flödesmotstånd •
+Putken halkaisija < pumpun portin halkaisija, korkea virtausvastus • Pípuþvermál < þvermál dælugáttar; mi‐
+kil rennslismótstaða • Toru diameeter < pumba pordi diameeter; suure voolu takistus • Caurules diametrs <
+sūkņa porta diametrs; augsta plūsmas pretestība • Vamzdžio skersmuo < siurblio siurbimo angos sker‐
+smenį; didelis hidraulinis pasipriešinimas • Średnica rury < średnica portu pompy; duża oporność przepływu
+• Průměr potrubí < průměr hrdla čerpadla; vysoký odpor proudění • Priemer potrubia < priemer otvoru čerpa‐
+dla, vysoký prietokový odpor • Csőátmérő < szivattyúcsonk átmérője; nagy áramlási ellenállás • Diametru
+conductă < diametru orificiu pompă; rezistență ridicată la flux • Диаметър на тръбата < диаметър на
+порта на помпата; висока устойчивост на потока • Premer cevi < premer vrat črpalke; visoka upornost
+pretoka • Promjer cijevi < promjera priključka pumpe; visoka otpornost protoku • Prečnik cevi < prečnika
+priključka pumpe; visoka otpornost protoku • Διάμετρος σωλήνα < διάμετρος θύρας αντλίας, αντίσταση
+υψηλής ροής • Boru çapı < pompa giriş çapı ; yüksek akış rezistansı • Диаметр трубы < диаметра
+патрубка насоса; высокое сопротивление потоку • Діаметр труби < діаметра патрубка насоса;
+високий опір потоку • قطر
+ 
+األنبوب
+ > 
+قطر
+ 
+منفذ
+ 
+المضخة؛
+ 
+مقاومة
+ 
+عالية
+ 
+الضخ
+
+APPX
+
+382

@@ -1,0 +1,51 @@
+IM-1080
+
+Exploded View and Impeller Nomenclature/Type
+
+Acoustic Windband
+
+Impeller Cone
+(End Ring, Shroud, Front Plate)
+
+Blade
+
+Straightening
+
+Vanes
+
+Back Plate
+
+Motor
+
+Mixed Flow Impeller
+(Models QFE, QIFE and TVIFE)
+
+Housing
+
+Impeller
+
+Weather Cover
+
+Centrifugal Impeller
+
+(Model TFE)
+
+Curb Cap
+
+Receiving, Inspection & Unpacking
+When the equipment is received all items should be carefully checked against the bill of lading to be sure all crates and cartons have 
+been received. Before accepting delivery, carefully inspect each carton or crate for visible shipping damage. If any damage is noticed, 
+the carrier should make the proper notation on the delivery receipt acknowledging the damage. Make notations of all damage on 
+all copies of the bill of lading and have all copies countersigned by the delivering carrier. The carrier should also fill out a Carrier 
+Inspection Report. The factory Traffic Department should then be contacted. File claim for damage with the carrier. Physical damage 
+to the unit after acceptance is not the responsibility of Twin City Fan Companies, Ltd.
+
+Unpack each carton or crate and verify that all required parts and proper quantities of each item have been received. Refer to drawings 
+for part descriptions. Report shortages or missing items to your local representative to arrange for replacement parts.
+Due to availability of carriers and truck space, it is not possible to guarantee that all items will be shipped together. Verification of 
+shipments must be limited to only those items on the bill of lading.
+
+The unit nameplate must be checked to make sure the voltage agrees with the power supply available.
+
+Installation, Operation & Maintenance Manual
+2

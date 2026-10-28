@@ -1,0 +1,146 @@
+nl - Vertaling van origineel
+
+Controleer de uitlĳning van de eenheidskoppeling na
+het volgende:
+
+• Transport en installatie
+• Eerste inbedrĳfstelling
+• Het bereiken van de bedrĳfstemperatuur.
+Voer de controle uit, zelfs als de eenheid volledig
+gemonteerd op het frame is geleverd.
+
+De koppelingsuitlĳning controleren met een
+liniaal en voelermaat
+
+• In het geval van een opvoerhoogte-installatie
+moet de aanzuigleiding, om luchtzakken te voor‐
+komen, een toenemende helling naar de eenheid
+hebben van meer dan 2%.
+• De nominale diameters van het leidingsysteem
+moeten minstens gelĳk zĳn aan de nominale dia‐
+meters van de pomppoorten.
+• Ondersteun het leidingsysteem onafhankelĳk om
+de unit niet te belasten.
+• Spoel het leidingsysteem door voordat u deze
+aansluit op de eenheid om eventuele lasresten,
+afzettingen en onzuiverheden te verwĳderen. In‐
+stalleer zo nodig een filter.
+
+Voor informatie over het uitlĳnen van een standaard‐
+koppeling (A) en een koppeling met afstandsstuk
+(B), zie Afbeelding 27 op pagina 397
+
+1. Verwĳder de koppelingsbescherming.
+
+VOORZICHTIG:
+Lasranden, aanslag en andere onzuiver‐
+heden in de leidingen beschadigen de
+pomp.
+
+OPMERKING:
+De bescherming kan draadgaas zĳn (zie Afbeel‐
+ding 18 op pagina 386) of plaatwerk (zie Afbeel‐
+ding 19 op pagina 388)
+
+4.3.3  Afstellen van de koppeling
+
+NL
+
+De koppelingsbescherming verwĳderen
+
+VOORZICHTIG:
+Stel de pomp NOOIT in werking wanneer
+de koppelingsbescherming niet correct
+is gemonteerd.
+
+Type bescherming: draadgaas
+Voor informatie, zie Afbeelding 18 op pagina 386.
+
+1. Draai de schroeven (2) los.
+2. Verwĳder het draadgaas. (1).
+Type bescherming: plaatwerk
+Voor informatie, zie Afbeelding 19 op pagina 388.
+
+2. Plaats een liniaal op de halve koppelingen.
+3. Meet de afstanden die in de afbeelding worden
+getoond.
+4. Draai de koppeling met de hand in stappen van
+90° en herhaal de meting.
+5. Herhaal stap 4 meerdere keren: de radiale uitlĳ‐
+ning is correct als de afstanden op alle punten
+rondom de omtrek gelĳk zĳn, binnen de toegesta‐
+ne afwĳking; zie Tabel 28 op pagina 399. Anders,
+zie Uitlĳning van de koppeling met pasringen op
+pagina 82.
+6. Controleer de afstand tussen de halve koppelin‐
+gen met een voelermaat.
+7. Draai de koppeling met de hand in stappen van
+90° en controleer de afstand opnieuw.
+8. Herhaal stap 7 meerdere keren: de axiale uitlĳ‐
+ning is correct als de afstanden op alle punten
+rondom de omtrek gelĳk zĳn, binnen de toegesta‐
+ne afwĳking; zie Tabel 28 op pagina 399. Anders,
+Uitlĳning van de koppeling met pasringen op pa‐
+gina 82.
+9. Plaats de koppelingsbescherming terug.
+• M5 → 3 Nm (27 lbf·in) ± 15%
+• M6 → 5 Nm (44 lbf·in) ± 15%.
+
+1. Draai de sluitschroeven van de halve mantels (5)
+los.
+2. Draai de bevestigingsschroeven los waarmee de
+bovenste helft van de behuizing (3) vastzit.
+3. Verwĳder de bovenste helft van de koppelingsbe‐
+scherming (1).
+4. Draai de bevestigingsschroeven los waarmee de
+onderste helft van de behuizing (4) vastzit.
+5. Verwĳder de onderste helft van de koppelingsbe‐
+scherming (2).
+6. Open de steun/stelring (6) en til deze omhoog.
+
+Koppelingsuitlĳningscontrole met laseruitlĳ‐
+ner
+
+Koppelingscontrole en uitlĳning
+
+U kunt de uitlĳning van de koppeling controleren met
+een laseruitlĳner: raadpleeg de instructiehandleiding
+van de uitlĳner.
+
+OPMERKING:
+Controleer de uitlĳning van de koppeling opnieuw
+onder warme bedrĳfsomstandigheden.
+
+Uitlĳning van de koppeling met pasringen
+
+Zie Afbeelding 17 op pagina 384 voor informatie
+over waar de pomp en de motor aan de basis moe‐
+ten worden bevestigd en waar de meegeleverde pas‐
+ringen moeten worden geplaatst.
+
+OPMERKING:
+Zorg ervoor dat de koppeling gemakkelĳk met de
+hand kan worden gedraaid en dat er enige speling
+tussen de tanden is.
+
+OPMERKING:
+Onjuiste uitlĳning van de eenheid kan ernstige scha‐
+de aan het systeem veroorzaken.
+
+1. Draai de bouten los waarmee de pomp en de
+motor aan de basis zĳn bevestigd.
+2. Til de pomp en de motor iets op.
+3. Plaats de pasringen tussen de basis en de voe‐
+ten van de pomp en de motor op een of meer van
+de aangegeven punten.
+4. Plaats de pomp en de motor op de basis en lĳn
+de boutgaten uit.
+5. Haal de bouten aan.
+6. Herhaal de controle van de koppelingsuitlĳning.
+
+OPMERKING:
+Als de koppeling niet goed is uitgelĳnd, kan dit trillin‐
+gen veroorzaken, wat kan leiden tot voortĳdige slĳta‐
+ge van de draaiende onderdelen van het apparaat.
+
+82

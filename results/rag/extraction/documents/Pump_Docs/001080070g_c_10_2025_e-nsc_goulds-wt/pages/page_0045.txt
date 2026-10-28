@@ -1,0 +1,188 @@
+de - Übersetzung des Originals
+
+Für besondere Anforderungen wenden Sie sich bitte
+an die Vertriebs- und Kundendienstabteilung.
+
+Maximale Schalthäufigkeit pro Stunde
+
+18,5
+
+dass der Erdungsleiter länger ist als
+die stromführenden Leiter. Dies gilt
+für beide Seiten des Motorkabels.
+• Sorgen Sie für einen zusätzlichen
+Schutz gegen einen tödlichen Strom‐
+schlag. Installieren Sie einen empfind‐
+lichen Fehlerstromschutzschalter (30
+mA) [FI-Schalter (RCD)].
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+60
+40
+30
+24
+16
+8
+4
+
+4.1  Anlagenvoraussetzungen
+
+4.1.1  Aufstellort der Pumpe
+
+Starts
+pro
+Stun‐
+de
+
+Lärmpegel
+
+DE
+
+GEFAHR:
+Verwenden Sie diese Einheit nicht in
+Atmosphären, in denen entzündliche/ex‐
+plosive oder chemisch aggressive Gase
+oder Pulver vorhanden sein können.
+
+Richtlinien
+
+Die Lärmdruckpegel der mit dem standardmäßig
+mitgelieferten Motor ausgestatteten Pumpe finden
+Sie in Tabelle 9 auf Seite 368.
+Informationen zum Schalldruckpegel der Pumpe oh‐
+ne Motor finden Sie in Tabelle 10 auf Seite 372.
+
+Beachten Sie die folgenden Richtlinien zum Standort
+des Produkts:
+
+4  Installation
+
+Vorsichtsmaßnahmen
+
+WARNUNG:
+
+• Stellen Sie sicher, dass der normale Kühlluft‐
+strom des Motorlüfters nicht behindert wird.
+• Stellen Sie sicher, dass der Montagebereich vor
+austretenden Flüssigkeiten oder Überflutung ge‐
+schützt ist.
+• Wenn möglich, stellen Sie die Pumpe etwas hö‐
+her als die Bodenhöhe auf.
+• Die Umgebungstemperatur muss zwischen 0°C
+(+32°F) und +40°C (+104°F) betragen.
+• Die relative Feuchte der Umgebungsluft muss un‐
+ter 50 % bei +40°C (+104°F) betragen.
+• Wenden Sie sich in den folgenden Fällen an die
+Vertriebs- und Kundendienstabteilung:
+
+– Die relative Feuchte der Umgebungsluft liegt
+
+• Beachten Sie alle geltenden Unfallver‐
+hütungsvorschriften.
+• Verwenden Sie geeignete Geräte und
+Schutz.
+• Beachten Sie bei der Auswahl
+des Standortes und hinsichtlich der
+Anschlüsse für Rohrleitungen und
+Stromleitungen immer alle gelten‐
+den lokalen und/oder nationalen Vor‐
+schriften, Gesetze und Normen.
+
+über den Richtwerten.
+– Die Raumtemperatur übersteigt einen Wert
+
+Gefahr durch Elektrizität:
+
+von 40 °C.
+– Die Einheit wird in einer Höhe über 1000 m
+
+(3000 ft) über Meeresspiegel betrieben. Die
+Motornennleistung muss heruntergestuft wer‐
+den, oder es muss ein leistungsstärkerer Mo‐
+tor verwendet werden.
+Information über die Werte, um die sich die Motor‐
+nennleistung reduziert, finden Sie in Tabelle 11 auf
+Seite 379.
+
+Pumpenpositionen und Abstand
+
+• Stellen Sie sicher, dass alle Anschlüs‐
+se von qualifizierten Monteuren und
+unter Beachtung aller geltenden Vor‐
+schriften hergestellt werden.
+• Stellen Sie vor Arbeitsbeginn am
+Gerät sicher, dass das Gerät und
+die Schaltanlagen vom Stromnetz ge‐
+trennt und gegen Wiedereinschalten
+gesichert sind. Dies gilt auch für den
+Steuerstromkreis.
+
+Erdung (Schutzleiter)
+
+Gefahr durch Elektrizität:
+
+• Zur Sicherstellung einer geeigneten Belüftung: ≥
+100 mm (4 Zoll)
+• Um die Inspektion und den Ausbau des Motors
+zu ermöglichen: ≥ 300 mm (12 Zoll)
+• Sollte weniger Platz vorhanden sein, schlagen Sie
+bitte im technischen Katalog nach.
+
+Montage über der Flüssigkeitsquelle (Saug‐
+höhe)
+
+Die maximale theoretische Ansaughöhe einer Pum‐
+pe beträgt 10,33 m. In der Praxis wird die Saugleis‐
+tung der Pumpe durch Folgendes beeinträchtigt:
+
+• Schließen Sie immer zuerst den
+Schutzleiter (Erde) an, bevor Sie an‐
+dere elektrische Anschlüsse herstel‐
+len.
+• Sie müssen alle elektrischen Geräte
+erden. Dies gilt sowohl für die Pumpe
+selbst als auch für den Antrieb und
+die vorhandenen Überwachungsgerä‐
+te. Prüfen Sie den Schutzleiter, um si‐
+cherzustellen, dass dieser ordnungs‐
+gemäß angeschlossen ist.
+• Falls das Motorkabel versehentlich
+losgerissen wird, soll sich der Erdlei‐
+ter als letzter von seiner Anschluss‐
+klemme lösen. Stellen Sie sicher,
+
+• Temperatur der Flüssigkeit
+• Höhe über Meeresspiegel (in einem offenen Sys‐
+tem)
+• Systemdruck (in einem geschlossenen System)
+• Leitungswiderstände
+• Eigen-Durchflusswiderstand der Pumpe
+• Höhendifferenzen
+
+41

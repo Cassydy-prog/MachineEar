@@ -1,0 +1,81 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+(*)
+acqua calda – • hot water – • eau chaude – • Heißes Wasser – • agua caliente – • água quente – • heet
+water – • varmt vand – • varmt vann – • varmt vatten – • kuuma vesi – • heitt vatn – • kuum vesi – • Karsts
+ūdens – • karštas vanduo – • gorąca woda – • Horká voda - • horúca voda – • forró víz – • apă caldă – •
+Гореща вода - • vroča voda – • vrela voda – • vrela voda – • ζεστό νερό– • sıcak su – • горячая вода – •
+гаряча вода – •  ماء
+ساخن
+–
+
+(**)
+pressione minima richiesta alla tenuta meccanica (acqua calda); • minimum pressure required at mechani‐
+cal seal (hot water); • pression minimale exigée sur le joint mécanique (eau chaude) ; • an der Gleitringdich‐
+tung (Heißwasser) minimal erforderlicher Druck; • presión mínima necesaria en el sello mecánico (agua
+caliente); • pressão mínima necessária no vedante mecânico (água quente); • minimale druk vereist bij me‐
+chanische sluiting (heet water); • minimum tryk krævet ved mekanisk tætning (varmt vand); • minimalt
+trykk som kreves ved mekanisk tetning (varmt vann); • minsta nödvändiga tryck vid mekanisk tätning
+(varmt vatten); • mekaanisessa tiivisteessä tarvittava vähimmäispaine (kuuma vesi); • lágmarksþrýstingur
+sem þarf við vélarþéttingu (fyrir heitt vatn); • minimaalne mehaanilise tihendi juures nõutav rõhk (kuum ve‐
+si); • Minimālais nepieciešamais spiediens, kas nepieciešams mehāniskas aizdares gadījumā (karsts
+ūdens) • minimalus slėgis, kurio reikia ties mechaniniu sandarikliu (karštas vanduo); • minimalne ciśnienie
+wymagane na uszczelnieniu mechanicznym (gorąca woda); • minimální tlak požadovaný pro mechanickou
+ucpávku (horká voda); • minimálny tlak potrebný pri mechanickom tesnení (horúca voda); • a mechanikai
+tömítésnél szükséges minimális nyomás (forró víz); • presiune minimă necesară la garnitura de etanşare
+mecanică (apă caldă); • Минимално налягане необходимо за механичното уплътнение (гореща
+вода); • najmanjši tlak, potreben pri mehanskem tesnilu (vroča voda); • minimalni tlak potreban na meha‐
+ničkim zatvaračima (vrela voda); • minimalni pritisak potreban na mehaničkim zatvaračima (vrela voda); •
+ελάχιστη πίεση που απαιτείται στη μηχανική στεγανοποίηση (ζεστό νερό). • mekanik keçede gereken mi‐
+nimum basınç (sıcak su); • требуется минимальное давление на механическое уплотнение (горячая
+вода); • потрібен мінімальний тиск на механічне ущільнення (гаряча вода); • يلزم
+ 
+الحد
+ 
+األدنى
+ من 
+الضغط
+ عند
+القفل
+ 
+الميكانيكي
+ )
+ ماء
+ساخن
+(؛
+
+5.
+
+6.
+
+NSC_M0031_A_SC
+
+NSC_M0032_A_SC
+
+7.
+
+8.
+
+NSC_M0034_A_SC
+
+NSC_M0033_A_SC
+
+APPX
+
+9.
+
+~2900 min-1
+
+LpA
+dB ± 2
+
+LwA
+dB ± 2
+
+LpA
+dB ± 2
+
+LwA
+dB ± 2
+
+368

@@ -1,0 +1,159 @@
+hu - Eredeti útmutató
+
+4.3  A szivattyú beszerelése
+
+Anya
+Nyomaték, Nm (lbf·in)
+
+M24
+350 (258)
+
+4.3.1  Mechanikus telepítés
+
+M27
+530 (391)
+
+Telepítési terület
+
+Figyelem:
+
+• Alaplemez alkalmazása esetén célszerű az alap‐
+lemezt kis zsugorodású betonnal kiönteni.
+
+Szerelje fel az egységet beton vagy fém alapra,
+amely elég erős az állandó és merev alátámasztás
+biztosításához. Tartsa be a következő részben leírt
+követelményeket: A szivattyú elhelyezése 217. olda‐
+lon.
+
+A szivattyú alapkeretre erősítése
+
+Betonalapra szerelés
+
+Ellenőrizze, hogy teljesülnek-e az alábbi követelmé‐
+nyek:
+
+Alapkövetelmények
+
+• Az alapkeret erős, üzem közben nem csavarodik
+el és nem vibrál.
+• A szivattyú lábának és a motornak az alapkere‐
+ten lévő szerelőfelülete kellőképpen sima (célsze‐
+rű megmunkálni ezeket a felületeket).
+• A szivattyú és a motor szilárdan vannak rögzítve.
+• A szivattyú és a motor között megfelelő hely ma‐
+radt; ennek nagysága a használt tengelykapcsoló
+fajtájától függ.
+• A szivattyú és az alapkeret között megfelelő hé‐
+zagnak kell lennie, hogy cserénél az alsó és a
+középvonal közötti magasság beállítható legyen
+(ajánlott függőleges beállítás 4-6 mm
+
+Rezgés csökkentése
+
+• A betonnak C12/15 kompressziós ellenállással
+kell rendelkeznie, és meg kell felelnie az EN 206-1
+szabványnak megfelelő XC1 expozíciós osztály
+követelményeinek
+• A méreteknek meg kell felelniük az egység tartó‐
+lemezének
+• Az alap súlyának ≥ 1,5-szörösének kell lennie az
+egység súlyának (≥ 5-szöröse az egység súlyá‐
+nak, ha csendesebb működésre van szükség)
+• A felületnek a lehető leglaposabbnak és legszin‐
+tesebbnek kell lennie
+• A lejtőnek ≤ 1 mm/m-nek kell lennie.
+További utasítások a következő dokumentumban ta‐
+lálhatók: 001080247X: a letöltéshez olvassa be a
+QR-kódot, amely itt található: 17. ábra 384. oldalon.
+
+A szivattyú rögzítése
+
+A vízszintes és függőleges felszerelésekre vonatko‐
+zó példákat lásd a következő helyen: 15. ábra 383.
+oldalon.
+
+A berendezés és a folyadék áramlása a rendszer‐
+ben rezgéseket kelthet, amelyek felerősíthetők, ha a
+berendezés vagy a csőrendszer nincs megfelelően
+felszerelve: tartsa be a Betonalapra szerelés 220.
+oldalon és a részben leírt utasításokatA szivattyú
+rögzítése 220. oldalon, a Csőrendszer ellenőrzőlista
+220. oldalon
+
+Javasoljuk továbbá, hogy:
+
+1. Lásd a műszaki katalógust:
+– Alapfuratok átmérője és száma
+– Lyukak távolsága
+– A merevítők méretének és mennyiségének ki‐
+
+HU
+
+• Ellenőrizze, hogy a szivattyú és a motor biztonsá‐
+gosan rögzítve van-e az alaphoz
+• Helyezzen rezgéscsillapító anyagot az alap és az
+alap közé
+• Ha az egység hegesztett alappal rendelkezik, töl‐
+tse fel betonnal a következő helyen: 25. ábra 397.
+oldalon.
+
+FIGYELMEZTETÉS:
+Ne töltse fel az összehajtott fémlemez alapot 26.
+ábra 397. oldalon betonnal.
+
+4.3.2  Csőrendszer ellenőrzőlista
+Ellenőrizze az alábbi követelmények teljesülését:
+
+számítása vegyi rögzítőkkel, az egység típu‐
+sától függően.
+2. Fúrja ki az alapzatot, és rögzítse a merevítőket.
+3. Helyezze az egységet az alapzatra, és a nyomó‐
+csonkon és a tengelyen használjon vízmértéke‐
+ket, hogy a vízszintben legyen.
+Maximális megengedett tűrés: 0,2 mm/m.
+4. Ha vannak, távolítsa el a szívó- és nyomócsonko‐
+kat fedő dugókat.
+5. Igazítsa a szívó- és nyomócsonkokat a csőveze‐
+tékekhez.
+6. Rögzítse a csőrendszert az egységhez; lásd még:
+Csőrendszer ellenőrzőlista 220. oldalon.
+7. Szükség esetén helyezzen szintező alátéteket az
+alap és az alap közé: ha a merevítők közötti tá‐
+volság > 800 mm, helyezzen be két további aláté‐
+tet az alap közepére. Minden alátétnek tökélete‐
+sen egy síkban kell lennie. Lásd 17. ábra 384.
+oldalon.
+8. Egyenletesen és teljesen húzza meg a merevítő
+anyáit, ügyelve arra, hogy a nyomatékok a táblá‐
+zatban jelzettek legyenek.
+
+Anya
+Nyomaték, Nm (lbf·in)
+
+M12
+60 (44)
+
+• Szívóemelő telepítése esetén a levegőbuborékok
+elkerülése érdekében a szívócsőnek 2%-ot meg‐
+haladó lejtéssel kell rendelkeznie a berendezés
+felé.
+• A csőrendszer névleges átmérőjének legalább
+meg kell egyeznie a szivattyúnyílások névleges
+átmérőjével.
+• Támassza meg a csőrendszert egymástól füg‐
+getlenül, hogy ne terhelje az egységet.
+• Öblítse át a csőrendszert, mielőtt csatlakoztatja
+az egységhez, hogy eltávolítson minden hegesz‐
+tési maradékot, lerakódást és szennyeződést.
+Szükség esetén szereljen be szűrőt.
+
+M16
+120 (89)
+
+VIGYÁZAT!:
+
+M20
+200 (148)
+
+220

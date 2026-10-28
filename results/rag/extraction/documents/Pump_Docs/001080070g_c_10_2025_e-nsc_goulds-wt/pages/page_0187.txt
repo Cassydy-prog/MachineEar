@@ -1,0 +1,163 @@
+pl - Tłumaczenie oryginału
+
+prawidłowe kombinacje mogłyby nie gwarantować
+zabezpieczenia silnika elektrycznego.
+
+Sprawdzić, czy spełnione są następujące wymaga‐
+nia:
+
+• Tablica połączeń elektrycznych musi zabezpie‐
+czać silnik przed przeciążeniem i zwarciem.
+• Zainstalować odpowiednie zabezpieczenie prze‐
+ciążeniowe (przekaźnik termoelektryczny lub
+ochronnik silnika).
+
+Typ pompy
+Zabezpieczenie
+
+– wbudowane ter‐
+
+Jednofazowa, standar‐
+dowa pompa elektrycz‐
+na o mocy ≤ 2,2 kW
+
+miczno-amperome‐
+tryczne zabezpie‐
+czenie z auto‐
+matycznym przesta‐
+wianiem (ochronnik
+silnika)
+– Zabezpieczenie
+
+warunków instalacji. Średnica rury ssawnej nie
+może być mniejsza od średnicy króćca ssawnego
+pompy.
+• Jeśli średnica rury ssawnej jest większa od śred‐
+nicy króćca ssawnego pompy, została zainstalo‐
+wana mimośrodowa zwężkowa złączka rurowa.
+• Jeśli pompa została umieszczona nad pozio‐
+mem cieczy, na końcu przewodu ssawnego jest
+zainstalowany zawór stopowy.
+• Zawór stopowy jest całkowicie zanurzony w cie‐
+czy, tak aby powietrze nie mogło przedostawać
+się do wiru ssawnego, gdy poziom cieczy jest mi‐
+nimalny, a pompa została zainstalowana ponad
+źródłem cieczy.
+• Na przewodzie rurowym po stronie ssawnej oraz
+po stronie tłocznej (za zaworem zwrotnym) są
+zainstalowane odpowiedniej wielkości zawory
+odcinające, służące do regulacji wydajności po‐
+mpy, do przeglądów pompy oraz do jej konserwa‐
+cji.
+• Na tłocznym przewodzie rurowym zainstalowany
+jest zawór zwrotny, aby zapobiegać przepływowi
+zwrotnemu do pompy, gdy zostanie ona wyłączo‐
+na.
+
+przeciwzwarciowe
+(musi być dostar‐
+czone przez instala‐
+tora)31
+
+Trójfazowe pompy
+elektryczne32
+– zabezpieczenie ter‐
+
+miczne (musi być
+dostarczone przez
+instalatora)
+– zabezpieczenie
+
+OSTRZEŻENIE:
+Nie zamykać dłużej niż na kilka sekund
+zaworów odcinających po stronie tłocz‐
+nej w celu zdławienia przepływu z po‐
+mpy. Jeżeli pompa musi pracować z za‐
+mkniętą stroną tłoczną dłużej niż przez
+kilka sekund, należy zainstalować obwód
+bocznikujący, zapobiegający przegrzewa‐
+niu się cieczy wewnątrz pompy.
+
+przeciwzwarciowe
+(musi być dostar‐
+czone przez instala‐
+tora)
+
+Aby zapoznać się z ilustracjami przedstawiającymi
+wymagania dotyczące instalacji rurowej, patrz Rysu‐
+nek 13 na stronie 380 i Rysunek 14 na stronie 380.
+
+PL
+
+• Tablica połączeń elektrycznych musi być wypo‐
+sażona w system zabezpieczenia przed pracą na
+sucho, do którego przyłącza się wyłącznik ciśnie‐
+niowy, wyłącznik pływakowy, sondy lub inne sto‐
+sowne urządzenie.
+• Zaleca się stosowanie następujących urządzeń
+po stronie ssawnej pompy:
+
+– Gdy ciecz jest pompowana z układu zasilania
+
+wodą, użyć wyłącznika ciśnieniowego.
+– Gdy ciecz jest pompowana ze zbiornika ma‐
+
+4.2  Wymagania elektryczne
+• Obowiązujące lokalne regulacje prawne uchylają
+poniższe wymagania.
+• W przypadku systemów przeciwpożarowych
+(hydranty i instalacje tryskaczowe) należy spraw‐
+dzić obowiązujące przepisy lokalne.
+
+Wykaz czynności kontrolnych układu elek‐
+trycznego
+
+gazynowego lub rezerwuaru, użyć wyłącznika
+pływakowego lub sond.
+• Gdy używane są przekaźniki termiczne, zaleca
+się stosowanie przekaźników wrażliwych na za‐
+nik fazy.
+
+Sprawdzić, czy spełnione są następujące wymaga‐
+nia:
+
+Wykaz czynności kontrolnych silnika elek‐
+trycznego
+
+• Przewody elektryczne są zabezpieczone przed
+wysoką temperaturą, drganiami i uderzeniami.
+• Linia zasilania energią elektryczna jest wyposa‐
+żona w:
+
+OSTRZEŻENIE:
+
+– urządzenie zabezpieczenia przed zwarciem,
+– Główny odłącznik sieciowy z odstępem sty‐
+
+ków równym przynajmniej 3 mm.
+
+Wykaz czynności kontrolnych tablicy połą‐
+czeń elektrycznych
+
+• Zapoznać się z instrukcją obsługi,
+aby upewnić się, czy będzie zapew‐
+nione zabezpieczenie, gdy zostanie
+zastosowany inny silnik niż standar‐
+dowy.
+• Jeśli silnik jest wyposażony w auto‐
+matyczne ochronniki cieplne, należy
+pamiętać o niebezpieczeństwie nie‐
+oczekiwanego uruchomienia w związ‐
+
+UWAGA:
+Tablica połączeń elektrycznych musi odpowiadać
+parametrom znamionowym pompy elektrycznej. Nie‐
+
+31
+bezpieczniki aM (rozruch silnika) lub wyłącznik magnetotermiczny z krzywą C i Icn ≥ 4,5 kA lub innym
+równoważnym urządzeniem.
+32
+przekaźnika termicznego z klasą wyłączenia 10A + bezpieczniki aM (uruchamianie silnika) lub wyłącznik
+magnetyczny i termiczny zabezpieczenia silnika z klasą uruchomienia 10A.
+
+183

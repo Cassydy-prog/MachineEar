@@ -1,0 +1,211 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+Eesti
+
+latviski
+
+lietuvių
+
+1. NSC = pumba tüüp
+2. Siduri tähis; tühi = ainult võll
+3. Tühi
+4. 125–315 = pumba suurus
+5. D310 = tiiviku läbimõõt
+6. Tühi
+7. Tühi
+8. Tühi
+9. Tühi
+10. Ümbrise materjal
+11. Tiiviku materjal
+12. Mehhaaniline tihend + O-rõn‐
+ga materjali konfiguratsioon
+13. Valikuteks vabad numbrid
+
+1. NSC = sūkņa veids
+2. Savienojuma norāde;
+tukšs = nepārsegta vārpsta
+3. Tukšs
+4. 125–315 = sūkņa izmērs
+5. D310 = darbrata diametrs
+6. Tukšs
+7. Tukšs
+8. Tukšs
+9. Tukšs
+10. Apvalka materiāls
+11. Darbrata materiāls
+12. Mehāniskā blīvslēga + blīv‐
+gredzena materiāla konfigurā‐
+cija
+13. Cipari pēc izvēles
+
+1. NSC – siurblio tipas
+2. Movos indikacija; vakuumas
+–·tik velenas
+3. Vakuumas
+4. 125–315 – siurblio dydis
+5. D310 –·sparnuotės skersmuo
+6. Vakuumas
+7. Vakuumas
+8. Vakuumas
+9. Vakuumas
+10. Korpuso medžiaga
+11. Sparnuotės medžiaga
+12. Mechaninio sandariklio ir žie‐
+dinio sandariklio medžiagų
+deriniai
+13. Kintantys skaitmenys, nuro‐
+dantys parinktis
+
+Polski
+
+Čeština
+
+slovenský
+
+1. NSC = typ pompy
+2. Oznaczenie sprzęgła; puste
+miejsce = nagi wał
+3. Puste miejsce
+4. 125–315 = wielkość pompy
+5. D310 = średnica wirnika
+6. Puste miejsce
+7. Puste miejsce
+8. Puste miejsce
+9. Puste miejsce
+10. Materiał obudowy
+11. Materiał wirnika
+12. Uszczelka mechaniczna i kon‐
+figuracja materiału pierście‐
+nia O-ring
+13. Dowolne cyfry dla opcji
+
+1. NSC = typ čerpadla
+2. Označenie spoja, prázdny =
+holý hriadeľ
+3. Prázdny
+4. 125 – 315 = rozmery čerpadla
+5. D310 = priemer obežného ko‐
+lesa
+6. Prázdny
+7. Prázdny
+8. Prázdny
+9. Prázdny
+10. Materiál skrine
+11. Materiál obežného kolesa
+12. Konfigurácia materiálov me‐
+chanického tesnenia + O-krúž‐
+ka
+13. Voľné voliteľné číslice
+
+1. NSC = Typ čerpadla
+2. Popis spojky; prázdný = s ho‐
+lou hřídelí
+3. Prázdný
+4. 125–315 = Velikost čerpadla
+5. D310 = Průměr oběžného ko‐
+la
+6. Prázdný
+7. Prázdný
+8. Prázdný
+9. Prázdný
+10. Materiál skříně
+11. Materiál oběžného kola
+12. Konfigurace materiálu mecha‐
+nické ucpávky + těsnicího O-
+kroužku
+13. Volné číslice pro volitelné vy‐
+bavení
+
+Magyar
+
+Română
+
+български
+
+1. NSC = a szivattyú típusa
+2. Csatlakozásjelzés; üres =
+üres tengely
+3. Üres
+4. 125–315 = a szivattyú mérete
+5. D310 = A járókerék átmérője
+6. Üres
+7. Üres
+8. Üres
+9. Üres
+10. Ház anyaga
+11. Járókerék anyaga
+12. Mechanikus tömítés + O-gyű‐
+rű anyag elrendezés
+13. Opciókhoz szabadon felhasz‐
+nálható számjegyek
+
+1. NSC = Tip pompă
+2. Indicator de cuplare; spaţiu
+necompletat = ax de fixare fă‐
+ră filet
+3. Spaţiu necompletat
+4. 125-315 = Dimensiune pompă
+5. D310 = Diametru rotor cu pale
+6. Spaţiu necompletat
+7. Spaţiu necompletat
+8. Spaţiu necompletat
+9. Spaţiu necompletat
+10. Material carcasă
+11. Material rotor cu pale
+12. Configurație material garnitu‐
+ră de etanșare mecanică +
+inel de etanşare
+13. Cifre libere pentru opțiuni
+
+1. NSC = тип на помпата
+2. Индикация на куплунга;
+празно = гол вал
+3. Празно
+4. 125–315 = Размер на
+помпата
+5. D310 = Диаметър на ротора
+6. Празно
+7. Празно
+8. Празно
+9. Празно
+10. Материал на корпуса
+11. Материал на работното
+колело
+12. Материал на
+конфигурацията механично
+уплътнение и O-пръстен
+13. Свободни числа за опции
+
+Slovenščina
+
+Hrvatski
+
+Српски
+
+APPX
+
+1. NSC = vrsta črpalke
+2. Oznaka spoja; nično = prazna
+gred
+3. Nično
+4. 125–315 = Velikost črpalke
+5. D310 = premer rotorja
+6. Nično
+
+1. NSC = Vrsta pumpe
+2. Indikacija spajanja; prazno =
+gola osovina
+3. Prazno
+4. 125–315 = Veličina pumpe
+5. D310 = Promjer rotora
+6. Prazno
+
+1. NSC = Tip pumpe
+2. Indikacija spajanja; prazno =
+gola osovina
+3. Prazno
+4. 125–315 = Veličina pumpe
+5. D310 = Prečnik rotora
+6. Prazno
+
+362

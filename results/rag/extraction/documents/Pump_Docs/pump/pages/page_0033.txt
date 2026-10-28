@@ -1,0 +1,100 @@
+4. Piping Configurations To Improve Pumping System Efficiency
+
+Piping Configurations To Improve Pumping System Efficiency
+
+Related Tip Sheet
+
+Related information is available in an ITP 
+BestPractices Tip Sheet titled Reduce Pumping 
+Costs Through Optimum Pipe Sizing. Tip sheets 
+can be found in Appendix C, accessed on the 
+Web at www.eere.energy.gov/industry/
+bestpractices, or obtained by contacting the 
+EERE Information Center at 
+877-337-3463.
+
+There are several steps involved in optimizing the 
+configuration of a pumping system. These include 
+determining the proper pipe size, designing a pip-
+ing system layout that minimizes pressure drops, 
+and selecting low-loss components. To determine 
+the proper pipe size, designers must balance the 
+initial cost of the pipe against the cost of pushing 
+fluid through it. Larger pipes create less friction 
+loss for a given flow rate; however, larger pipes 
+also have higher material and installation costs. 
+Unfortunately, designers often overlook the energy 
+costs of using small piping and focus on the initial 
+cost when sizing system piping.
+
+flow path through the valve. Thus, one way 
+designers can improve system life-cycle costs 
+is to consider the cost of flow losses.
+
+Valves are often sized incorrectly. Designers often 
+specify a pressure drop across the valve at the 
+design point that is larger than necessary. This 
+results in an undersized valve and energy loss. 
+Further, process designers sometimes specify a 
+maximum system flow that is much greater than 
+normal flow. This also results in an excessive 
+pressure drop across the valve at normal operating 
+conditions.
+
+Similarly, system piping should be configured 
+with an awareness of the energy costs associated 
+with poor flow profiles. Although piping system 
+layouts are usually dictated by space constraints, 
+there are often opportunities to minimize 
+unnecessary pressure drops by avoiding sharp 
+bends, expansions, and contractions and by keep-
+ing piping as straight as possible. For example, 
+orienting valves and system equipment so that 
+they are in line with the pipe run is one useful 
+rule of thumb.
+
+Low-loss components provide another oppor-
+tunity to minimize life-cycle costs during system 
+design. As with pipe sizing, it is necessary to 
+balance initial costs with future energy costs. For 
+example, system components such as valves can 
+be cost-effective when life-cycle costs are taken 
+into consideration.
+
+ Pump Concerns  
+Since centrifugal pumps operate most effectively 
+when the inlet flow has a uniform profile, systems 
+should be designed to avoid nonuniform flow at 
+the pump inlet. In centrifugal pumps, as fluid 
+moves from the suction piping into the eye of the 
+impeller, it gets caught by an impeller vane and 
+then accelerates to the tip. If the flow into the eye 
+is uneven, the impeller will transfer energy to the 
+fluid less efficiently. In addition, uneven flow at 
+the pump suction promotes excessive vibrations, 
+which shorten pump life and weaken pipe welds 
+and mechanical joints.
+
+An improper flow profile, vapor collection, and 
+vortex formation are three common pipe config-
+uration problems that result in poor pump 
+performance. Figure 7 depicts some common 
+piping installation problems and shows the 
+corresponding proper arrangements.
+
+In many cases, the selection of a particular type 
+of valve is guided by service requirements such 
+as sealing capability under various pressures, the 
+number of times a valve is opened and closed, 
+handwheel torque, and the consequences of valve 
+stem leakage. However, for applications in which 
+service requirements are comparatively light, the 
+valve is selected on a first-cost basis at the 
+expense of high flow loss. For example, globe 
+valves are usually selected because of their low 
+cost and simplicity. However, these valves have a 
+relatively high flow loss coefficient caused by the
+
+29
+
+A Sourcebook for Industry

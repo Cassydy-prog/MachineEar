@@ -1,0 +1,166 @@
+lt - Originalo vertimas
+
+5.1  Siurblio užpildymas
+
+Jei reikia informacijos apie papildomas siurblio jung‐
+tis, žr. 22 paveikslėlis 392 psl..
+
+PASTABA:
+Rūpestingai pritvirtinkite laidų riebokšlius, kad
+apsaugotumėte kabelius nuo slydimo ir į gnybtų
+dėžutę nepatektų drėgmės.
+
+Montavimas, kai skysčio lygis yra aukščiau
+nei siurblys (siurbimo patvanka)
+
+4. Jei variklis neturi automatinio atstatymo iš naujo
+šiluminio apsauginio įrenginio, sureguliuokite ap‐
+saugą nuo perkrovos remdamiesi toliau pateikta
+informacija.
+
+Siurblio kamščių vietos parodytos 23 paveikslėlis
+394 psl..
+
+– Jei variklis visiškai apkrautas, nustatykite no‐
+
+1. Uždarykite atidarymo / uždarymo vožtuvą, įtaisy‐
+tą srovės kryptimi nuo siurblio.
+
+minalią elektrinio siurblio srovės vertę (duo‐
+menų lentelė)
+– Jei variklis apkrautas dalinai, nustatykite dar‐
+
+2. Ištraukite užpildymo angos (3) arba matuoklio
+angos kamštį (1) ir atidarykite atidarymo / užda‐
+rymo vožtuvą srovei priešinga kryptimi, kol pro
+skylę ištekės vanduo.
+
+binės srovės vertę (pvz., išmatuotą srovės
+žnyplėmis)
+– Jei siurblyje naudojama jungimo žvaigžde ir
+
+a) Uždarykite užpildymo angos (3) arba matuo‐
+
+klio angos kamštį (1).
+
+trikampiu paleidimo sistema, nustatykite šilu‐
+minę relę, kad ji veiktų 58 % nominalios sro‐
+vės arba darbinės srovės (taikoma tik trifa‐
+ziams varikliams).
+
+Montavimas, kai skysčio lygis yra žemiau nei
+siurblys (siurbimas aukštyn)
+
+5  Atidavimas eksploatuoti, paleidimas,
+eksploatavimas ir išjungimas
+
+Siurblio kamščių vietos parodytos 24 paveikslėlis
+395 psl..
+
+1. Visa vamzdžių sistema tuščia:
+
+Atsargumo priemonės
+
+a) Atidarykite atidarymo / uždarymo vožtuvą, ku‐
+
+ris įtaisytas į viršų nuo siurblio.
+b) Ištraukite užpildymo angos kamštį (3) ir ma‐
+
+PERSPĖJIMAS:
+Fiziniai ir šiluminiai pavojai
+
+tuoklio angos kamštį (1). Naudokite piltuvėlį
+siurbliui užpildyti per užpildymo angą, kol pro
+skylę ištekės vanduo.
+c) Įkiškite užpildymo angos (3) ir matuoklio ang‐
+
+• Visada naudokite asmens apsaugos
+priemones.
+• Patikrinkite, ar sumontuota movos
+apsauga.
+
+os kamštį (1).
+
+2. Pripildyta išleidimo vamzdžių sistema:
+
+PERSPĖJIMAS:
+
+LT
+
+a) Atidarykite atidarymo / uždarymo vožtuvą, ku‐
+
+ris įtaisytas į viršų nuo siurblio, ir atidarykite
+atidarymo / uždarymo vožtuvą, esantį srovės
+kryptimi.
+b) Ištraukite matuoklio angos kamštį (1) kol pro
+
+• Pasirūpinkite, kad išleistas skystis ne‐
+sužalotų žmonių ir nesugadintų turto.
+• Dėl variklio apsaugų poveikio gali būti
+priverstinai paleistas variklis. Dėl to
+kyla pavojus sunkiai susižeisti.
+
+skylę ištekės vanduo.
+c) Įkiškite matuoklio angos kamštį (1).
+
+ĮSPĖJIMAS:
+
+5.2  Patikrinkite sukimosi kryptį (trifazis
+variklis)
+Prieš paleisdami atlikite šią procedūrą.
+
+• Naudojamo siurblio ir variklio išorinio
+paviršiaus temperatūra gali viršyti 40
+ºC (104 ºF).
+• Nedėkite degių medžiagų šalia siur‐
+blio.
+
+1. Nustatykite ant adapterio arba variklio ventiliato‐
+riaus dangtelio esančias rodykles taip, kad jos
+rodytų tinkamą sukimosi kryptį.
+
+PASTABA:
+
+2. Paleiskite variklį.
+
+3. Greitai patikrinkite sukimosi kryptį, žiūrėdami pro
+movos apsaugą arba pro variklio ventiliatoriaus
+dangtelį.
+
+4. Sustabdykite variklį.
+
+5. Jei sukimosi kryptis netinkama, atlikite toliau nu‐
+rodytus veiksmus.
+
+a) Atjunkite nuo maitinimo šaltinio.
+b) Variklio gnybtų skyde arba skyde, kuris yra
+
+elektros valdymo skyde, pakeiskite dviejų iš
+trijų maitinimo kabelio laidų padėtį.
+
+Laidų schemų ieškokite 21 paveikslėlis 392
+psl..
+c) Dar kartą patikrinkite sukimosi kryptį.
+
+5.3  Siurblio paleidimas
+
+• Jokiu būdu neeksploatuokite siurblio, jei srautas
+mažesnis už minimalų projektinį, nėra skysčio ar
+prieš tai siurblys nebuvo užpildytas.
+• Niekada nenaudokite siurblio, jei jo išleidimo ATI‐
+DARYMO / UŽDARYMO vožtuvas yra uždarytas il‐
+giau nei kelias sekundes.
+• Niekada nenaudokite siurblio, jei siurbimo ATIDA‐
+RYMO / UŽDARYMO vožtuvas uždarytas.
+• Nelaikykite neveikiančio siurblio neigiamoje tem‐
+peratūroje. Išleiskite visą siurblio viduje esantį
+skystį. Jei neišleisite, skystis užšals ir sugadins
+siurblį.
+• Siurbimo slėgio suma siurbimo dalyje (vamzdy‐
+nuose, slėgio rezervuare) ir maksimalus siurblio
+sukuriamas slėgis negali viršyti maksimalaus lei‐
+džiamo darbinio slėgio (vardinis slėgis PN).
+• Jei pastebėsite kavitaciją, nenaudokite siurblio.
+Kavitacija gali pažeisti vidinius komponentus.
+
+174

@@ -1,0 +1,94 @@
+IM-995
+
+Impeller Placement
+
+Model RBA
+Model RBO
+Model RBR
+
+RBA Impeller Overlap
+Size
+907
+909
+911
+913
+915
+917
+919
+921
+923
+926
+929
+933
+937
+941
+945
+949
+954
+960
+B
+0.25
+0.38
+0.47
+0.53
+0.59 0.69 0.69
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+RBO, RBR Impeller Gap
+Size
+913
+915
+917
+919
+921
+923
+926
+929
+933
+937
+941
+945
+949
+954
+960
+B
+0.53
+0.53
+0.59 0.69 0.78 0.88 0.97
+1.03
+1.22
+1.38
+1.56
+1.69
+1.81
+1.88
+2.16
+
+Note: On Sizes 905-911 RBO and RBR impeller is to be centered in housing.
+
+Model JRW, RBW, RBP
+
+Model CIW
+
+JRW, RBW, RBP Impeller Placement
+
+CIW Impeller Placement
+
+Center impeller in housing.
+
+Center impeller in housing. Do not
+include the back plate fins for centering.
+
+23
+
+Installation, Operation & Maintenance Manual

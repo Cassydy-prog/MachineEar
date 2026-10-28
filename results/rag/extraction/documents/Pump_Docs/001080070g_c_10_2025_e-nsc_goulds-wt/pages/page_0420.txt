@@ -1,0 +1,67 @@
+Declarations of Conformity
+
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Directeur général
+
+Déclaration de conformité UE (n. 01) 
+ 
+1. EMCD - Modèle de produit/appareil : NSCC… ou NSCF… (voir l'étiquette à la dernière page) 
+    RoHS – Identification unique de l'EEE : NSCC… ou NSCF…  
+2. Nom et adresse du fabricant : 
+ Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ 36075 Montecchio Maggiore VI 
+ Italie 
+3. La présente déclaration de conformité est publiée sous la seule responsabilité du fabricant. 
+4. Objet de la déclaration : électropompe. 
+5. L'objet de la déclaration décrite ci-dessus est conforme à la directive relative à l’harmonisation des législations des États 
+membres de l'Union européenne : 
+•  Directive 2014/30/UE du 26 février 2014 et ses modifications successives (compatibilité électromagnétique).  
+•  Directive 2011/65/UE du 8 juin 2011 et ses modifications successives, y compris la directive (UE) 2015/863 (restriction de 
+l'utilisation de certaines substances dangereuses dans les équipements électriques et électroniques). 
+6. Références aux normes harmonisées pertinentes ou aux autres caractéristiques techniques, par rapport auxquelles la 
+conformité est déclarée : 
+• EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-4:2007 
++A1:2011, EN IEC 61000-6-4:2019. 
+• EN IEC 63000:2018. 
+7. Organisme notifié : - - - 
+8. Informations supplémentaires : 
+RoHS Annexe III - Applications exemptées des restrictions : le plomb en tant qu'élément de liaison dans l'acier, l'aluminium, les 
+alliages de cuivre [6(a), 6(b), 6(c)].  
+Optimyze : se reporter à la documentation fournie avec le dispositif de surveillance [Équipement radio 2014/53/UE et modifications 
+ultérieures, Restriction de l'utilisation de certaines substances dangereuses dans les équipements électriques et électroniques 
+2011/65/UE et modifications ultérieures, y compris la directive (UE) 2015/863]. 
+Signé par et au nom de : Xylem Service Italia S.r.l.
+
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Directeur général
+
+La ou les déclarations de conformité ne sont pas valables si elles sont utilisées séparément du reste du texte du document Xylem 
+code 001080070G. 
+ 
+Pompe 
+ 
+Déclaration de conformité CE (Traduction de l’original) 
+ 
+Xylem Service Italia S.r.l., ayant son siège à Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italie, déclare par la 
+présente que le produit 
+NSC… pompe (voir l'étiquette à la dernière page) 
+est conforme aux exigences pertinentes de la directives européennes ci-dessous 
+•  Machines 2006/42/CE et ses modifications successives (ANNEXE II - personne physique ou morale autorisée à constituer le 
+dossier technique : Xylem Service Italia S.r.l.), 
+Écoconception 2009/125/CE et ses modifications successives, Règlement (UE) n° 547/2012 et ses modifications successives 
+(pompe à eau, en cas de marquage MEI) 
+et conforme aux normes techniques 
+•  EN 809:1998+A1:2009. 
+•  EN 16480:2021. 
+Informations supplémentaires :
+
+416

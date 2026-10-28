@@ -1,0 +1,66 @@
+Declarations of Conformity
+
+Montecchio Maggiore, 25/03/2025  
+
+útgáfa 00
+
+Alessio Vendraminelli  
+Framkvæmdarstjóri
+
+Samræmisyfirlýsingin/-yfirlýsingarnar eru ekki gildar ef þær eru notaðar aðskildar frá öðrum texta Xylem-skjalakóðans 001080070G. 
+ 
+Vastavusdeklaratsioonid 
+Vaadake spetsiifilist tähistusdeklaratsiooni, mille leiate tootelt. 
+ 
+Elektripump 
+ 
+EÜ vastavusdeklaratsioon (tõlge) 
+ 
+Xylem Service Italia S.r.l., peakontoriga aadressil Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italy, kinnitab siin, et 
+toode 
+NSCC… või NSCF… elektripump (vt kleebist viimasel lehel) 
+vastavad järgmiste Euroopa direktiivide asjakohastele tingimustele 
+•  Masinadirektiiv 2006/42/EÜ ja selle hilisemad muudatused (II LISA: füüsiline või juriidiline isik, kes on volitatud tehnilist 
+dokumentatsiooni koostama: Xylem Service Italia S.r.l.), 
+•  Ökodisain 2009/125/EÜ ja selle hilisemad muudatused, 
+määrus (EL) 2019/1781 ja selle hilisemad muudatused (elektrimootor IE2-, IE3- või IE4-märgistuse korral), määrus (EL) nr. 
+547/2012 ja selle hilisemad muudatused (veepump, MEI märgistuse korral) 
+ja tehnilised standardid 
+•  EN 809:1998+A1:2009, EN 60204-1:2018. 
+• EN 60034-30:2009, EN 60034-30-1:2014, EN 60034-2-1:2007, EN 60034-2-1:2014, EN 16480:2021. 
+Montecchio Maggiore, 25/03/2025  
+
+útgáfa 00
+
+Alessio Vendraminelli  
+Tegevdirektor
+
+EL-i vastavusdeklaratsioon (n. 01) 
+ 
+1. EMCD - seadme/toote mudel: NSCC… või NSCF… (vt kleebist viimasel lehel) 
+    RoHS – elektri-/elektroonikaseadme ainulaadne identifikaator: NSCC… või NSCF…  
+2. Tootja nimi ja aadress: 
+ Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ 36075 Montecchio Maggiore VI 
+ Itaalia 
+3. Käesolev vastavusdeklaratsioon on välja antud tootja vastutusel. 
+4. Deklareeritav toode: elektripump. 
+5. Eespool kirjeldatud deklaratsiooni objekt on vastavuses asjakohase Liidu ühtlustamise õigusaktidega 
+•  26. veebruari 2014. aasta direktiiv 2014/30/EL ja selle hilisemad muudatused (elektromagnetiline ühilduvus).  
+•  8. juuni 2011. aasta direktiiv 2011/65/EL ja selle hilisemad muudatused, sealhulgas direktiiv 2015/863/EL (teatud ohtlike ainete 
+kasutamise piiramine elektri- ja elektroonikaseadmetes). 
+6. Viited kasutatud asjakohastele ühtlustatud standarditele või viited muudele tehnilistele spetsifikatsioonidele seoses esitatud 
+vastavusega: 
+• EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-4:2007 
++A1:2011, EN IEC 61000-6-4:2019. 
+•  EN IEC 63000:2018. 
+7. Teavitatud asutus: - - - 
+8. Täiendav teave: 
+RoHS – lisa III – rakendused, mis ei kuulu piirangute alla: plii terast, alumiiniumi, vaske sulamites siduva elemendina [6(a), 6(b), 
+6(c)].  
+Optimyze: vt jälgimisseadmega kaasasolevat dokumentatsiooni [raadioseadmed 2014/53/EL ja hilisemad muudatused, teatavate 
+ohtlike ainete kasutamise piiramine elektri- ja elektroonikaseadmetes 2011/65/EL ja hilisemad muudatused, sealhulgas direktiiv 
+(EL) 2015/863].
+
+431

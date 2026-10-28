@@ -1,0 +1,22 @@
+{
+  "document_id": "71786bffc6231003fee65cb2aa07eb887f84e80857da54aec0f38f61f75e9bb7",
+  "source_filename": "pump.pdf",
+  "source_relative_path": "Pump_Docs/pump.pdf",
+  "source_sha256": "e8975ae00a5d74bfb9f1512f8b2cd85a56359f61d8109bbb18bfdc6d3eb52eb4",
+  "document_title": "Improving Pumping System Performance: A Sourcebook for Industry, Second Edition",
+  "machine_type_hint": "pump",
+  "source_type_hint": "engineering_sourcebook",
+  "applicability": "generic_guidance_equipment_match_unverified",
+  "applicability_verified": false,
+  "page_count": 122,
+  "method_counts": {
+    "native": 122
+  },
+  "ocr_attempted_pages": 0,
+  "blank_pages": 0,
+  "review_pages": [],
+  "character_count": 332063,
+  "document_text_file": "documents/Pump_Docs/pump/document.txt",
+  "searchable_pdf": null,
+  "errors": []
+}

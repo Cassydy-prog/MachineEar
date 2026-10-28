@@ -1,0 +1,69 @@
+Appendix C: Pumping Systems Tip Sheet Number 5
+
+Background
+
+Maintain Pumping Systems Effectively
+
+Wear ring and rotor erosions are 
+some of the costly problems that 
+can reduce the wire-to-water 
+efficiency of pumps by 10% or 
+more.
+
+Effective pump maintenance allows industrial plants to keep pumps operating well, to 
+detect problems in time to schedule repairs, and to avoid early pump failures. Regular 
+maintenance also reveals deteriorations in efficiency and capacity, which can occur 
+long before a pump fails.
+
+The amount of attention given to maintenance depends on how important a system is 
+to a plant’s operations. Downtime can be expensive when it affects critical processes. 
+Most maintenance activities can be classified as either preventive or predictive. 
+Preventive maintenance addresses routine system needs such as lubrication, periodic 
+adjustments, and removal of contaminants. Predictive maintenance focuses on tests 
+and inspections that detect deteriorating conditions.
+
+References
+Extend Your Motor’s Operating Life, 
+DOE Motor Systems Tip Sheet, 2005.
+Test for Pumping System Efficiency, 
+DOE Pumping Systems Tip Sheet, 
+2005.
+
+ Preventive Actions
+Preventive maintenance activities include coupling alignment, lubrication, and seal 
+maintenance and replacement. Mechanical seals must be inspected periodically to 
+ensure that either there is no leakage or that leakage is within specifications. Mechan-
+ical seals that leak excessively usually must be replaced. A certain amount of leakage 
+is required, however, to lubricate and cool the packing seals. But the packing gland 
+needs to be adjusted if the leakage exceeds the manufacturer’s specifications. The 
+packing gland must be replaced if it has to be tightened excessively to control leakage. 
+Overtightening causes unnecessary wear on the shaft or its wear sleeve and increases 
+electric power use. Routine maintenance of pump motors, such as proper lubrication 
+and cleaning, is also vital.
+
+ Predictive Actions
+Predictive maintenance helps minimize unplanned equipment outages. Sometimes called 
+“condition assessment” or “condition monitoring,” it has become easier with modern 
+testing methods and equipment. The following methods apply to pumping systems:
+
+Vibration analysis. Trending vibration amplitude and frequency can detect an 
+impending bearing failure. It can also reveal voltage and mechanical imbalances that 
+could be caused by impeller erosion or coupling problems. Changes in vibration over 
+time are more meaningful than a single “snapshot” of the vibration spectrum.
+
+Motor current signature analysis. Sometimes called “dynamic analysis,” this reveals 
+deteriorating insulation, rotor bar damage, electrical system unbalance, and harmonics. 
+It can also pick up system problems such as malfunctioning control valves that cause 
+flow rate disturbances. Tracking the signature over time is more valuable than a single 
+snapshot.
+
+Lubrication oil analysis. This applies only to large, oil-lubricated pumps, and is an 
+expensive procedure. Oil analysis can detect bearing problems caused by metal 
+particles or chemical changes that result from overheating, and seal problems caused 
+by pumped fluid in the oil. It also provides guidance on proper oil-change intervals.
+
+DOE/GO-102005-2159 • October 2005 • Pumping Systems Tip Sheet #5
+
+111
+
+A Sourcebook for Industry

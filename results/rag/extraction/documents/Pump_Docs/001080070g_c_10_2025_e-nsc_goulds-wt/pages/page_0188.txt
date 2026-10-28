@@ -1,0 +1,171 @@
+pl - Tłumaczenie oryginału
+
+– Średnica i liczba otworów fundamentowych
+– Odległości otworów
+– Obliczanie rozmiaru i ilości prętów cięgna z
+
+ku z przeciążeniem. Nie wolno uży‐
+wać silników przeznaczonych do za‐
+stosowań przeciwpożarowych.
+
+UWAGA:
+
+• Stosować wyłącznie dynamicznie wyważone sil‐
+niki z dwukrotnie zmniejszonym klinem wzdłuż‐
+nym na przedłużeniu wału (IEC 60034-14) o nor‐
+malnej częstości drgań (N).
+• Napięcie i częstotliwość sieci komunalnej muszą
+być zgodne z danymi na tabliczce znamionowej.
+
+Silniki mogą zasadniczo pracować przy następują‐
+cych tolerancjach napięcia sieci zasilającej:
+
+Częstotliwość
+
+Faza ~
+UN [V] ± %
+
+Hz
+
+50
+1
+220 – 240 ± 6
+
+3
+230/400 ± 10
+
+400/690 ± 10
+
+60
+1
+220 – 230 ± 6
+
+3
+220/380 ± 5
+
+380/660 ± 10
+
+kotwami chemicznymi, w zależności od mo‐
+delu urządzenia.
+2. Wywiercić fundament i zabezpieczyć pręty cięg‐
+na.
+3. Umieścić urządzenie na fundamencie i ustawić
+poziomicę na porcie wylotowym i wale, aby
+upewnić się, że jest wypoziomowane.
+Maksymalna dopuszczalna tolerancja: 0,2
+mm/m.
+4. Jeżeli założone są zatyczki przykrywające przyłą‐
+cza ssawne i tłoczne, należy je zdjąć.
+5. Ustawić przyłącza ssawne i tłoczne tuż przy wyj‐
+ściu i wejściu obwodów rurowych.
+6. Przymocować system rur do zespołu; patrz także
+Lista kontrolna systemu rur na stronie 185.
+7. W razie potrzeby włożyć podkładki poziomują‐
+ce między podstawę i podstawę: jeśli odległość
+między prętami cięgna wynosi > 800 mm, wło‐
+żyć dwie dodatkowe podkładki pośrodku podsta‐
+wy. Wszystkie podkładki regulacyjne muszą być
+idealnie wyrównane. Patrz Rysunek 17 na stronie
+384.
+8. Równomiernie i całkowicie dokręcić nakrętki cię‐
+gien, upewniając się, że momenty dokręcania są
+zgodne ze wskazówkami podanymi w tabeli.
+
+Nakrętka
+Moment obrotowy, Nm
+(lbf·in)
+
+Stosować kable zgodnie z regułą: kabel 3-przewodo‐
+wy (2+uziemienie) dla wersji jednofazowych oraz ka‐
+bel 4-przewodowy (3+uziemienie) dla wersji trójfazo‐
+wych.
+
+M12
+60 (44)
+
+4.3  Instalowanie pompy
+
+M16
+120 (89)
+
+M20
+200 (148)
+
+4.3.1  Instalacja mechaniczna
+
+M24
+350 (258)
+
+Miejsce instalacji
+
+PL
+
+M27
+530 (391)
+
+Uwaga:
+
+• zaleca się pokrycie płyty podstawy betonem nis‐
+koskurczowym.
+
+Zainstalować urządzenie na betonowej lub metalo‐
+wej podstawie fundamentowej wystarczająco moc‐
+nej, aby zapewnić trwałe i sztywne podparcie. Należy
+przestrzegać wymagań podanych w Umiejscowienie
+pompy na stronie 182.
+
+Montaż pompy na ramie podstawy
+
+Montaż na betonowej podstawie
+
+Wymagania dotyczące fundamentów
+
+Należy sprawdzić, czy są spełnione poniższe wyma‐
+gania:
+
+• Beton musi mieć odporność na ściskanie C12/15
+i spełniać wymagania klasy narażenia XC1 zgod‐
+nie z normą EN 206-1
+• Rozmiary muszą być odpowiednie do rozmiarów
+płyty podporowej zespołu
+• Masa fundamentu musi być ≥ 1,5 razy większa
+od masy jednostkowej (≥ 5 razy większa od masy
+urządzenia, jeśli wymagana jest cichsza praca)
+• Powierzchnia powinna być jak najbardziej płaska
+i wypoziomowana
+• Nachylenie musi wynosić ≤ 1 mm/m.
+Dodatkowe instrukcje można znaleźć w dokumencie
+nr 001080247X: aby ją pobrać, zeskanuj kod QR
+znajdujący się w Rysunek 17 na stronie 384.
+
+• Pełna rama podstawy, która nie ulega skręceniu
+ani drga podczas pracy (zjawisko rezonansu).
+• Powierzchnie montażowe stopki pompy i silnika
+na ramie podstawy muszą być płaskie (zalecana
+obróbka maszynowa).
+• Należy zagwarantować bezpieczne mocowanie
+pompy i silnika.
+• Zależnie od typu używanego sprzęgła należy po‐
+zostawić dostateczną ilość miejsca między po‐
+mpą i wałem silnika.
+• Pomiędzy pompą a ramą podstawy musi znajdo‐
+wać się odpowiednia podkładka, aby w przypad‐
+ku wymiany można było wyregulować tę samą
+wysokość między dolną a środkową linią (zaleca‐
+na regulacja pionowa 4–6 mm
+
+Mocowanie pompy
+
+Ograniczanie wibracji
+
+Przykłady montażu poziomego i pionowego można
+znaleźć tutaj: Rysunek 15 na stronie 383.
+
+1. Więcej informacji zawiera katalog techniczny:
+
+Zespół i przepływ cieczy w systemie mogą genero‐
+wać drgania, które można wzmocnić, jeśli zespół lub
+instalacja rurowa nie są prawidłowo zainstalowane:
+oprócz Montaż na betonowej podstawie na stronie
+
+184

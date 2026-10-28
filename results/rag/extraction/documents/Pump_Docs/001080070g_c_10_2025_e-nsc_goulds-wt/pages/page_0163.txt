@@ -1,0 +1,160 @@
+lv - Oriģinālās instrukcijas
+
+Piesardzības pasākumi
+
+BRĪDINĀJUMS:
+
+Attēlus, kuros ir parādītas prasības cauruļvadiem,
+skatiet šeit: Attēls 13 380 lappusē un Attēls 14 380
+lappusē.
+
+4.2  Elektrotehniskās prasības
+• Spēkā esošajiem noteikumiem ir prioritāte pār
+šīm specifiskajām prasībām.
+• Attiecībā uz ugunsdzēsības sistēmām (hidran‐
+tiem un/vai sprinkleriem) skatiet vietējos spēkā
+esošos tiesību aktus.
+
+• Izmantojiet caurules, kas ir piemēro‐
+tas sūkņa maksimālā spiediena ap‐
+stākļiem. Neievērojot šos nosacīju‐
+mus, sistēma var plīst, radot traumu
+risku.
+• Pārbaudiet, vai visus savienojumus ir
+uzstādījuši kvalificēti tehniķi saskaņā
+ar spēkā esošajiem noteikumiem.
+
+Elektropieslēgumu kontrolsaraksts
+
+Pārbaudiet, vai ir ievērotas šādas prasības:
+
+• Elektriskie vadi ir aizsargāti no augstas tempera‐
+tūras, vibrācijām un triecieniem.
+• Elektriskā līnija ir aprīkota ar:
+– īsslēguma aizsardzības ierīci;
+– Tīkla atslēgšanas slēdzi ar kontakta atstarpi
+
+vismaz 3 mm.
+
+PAZIŅOJUMS:
+Ievērojiet visus noteikumus, kurus izsludinājušas ies‐
+tādes savā jurisdikcijā un uzņēmumi, kas pārvalda
+publisko ūdensapgādi, ja sūknis ir pieslēgts publi‐
+skās ūdensapgādes sistēmai. Ja nepieciešams, uz‐
+stādiet sūkšanas pusē atbilstošu pretplūsmas aiz‐
+sargierīci.
+
+Elektriskā vadības paneļa kontrolsaraksts
+
+Cauruļvadu kontrolsaraksts
+
+Pārbaudiet, vai ir ievērotas šādas prasības:
+
+PAZIŅOJUMS:
+Vadības panelim jāatbilst elektriskā sūkņa nomināla‐
+jiem parametriem. Nepareizas kombinācijas var ne‐
+nodrošināt motora aizsardzību.
+
+Pārbaudiet, vai ir ievērotas šādas prasības:
+
+• Vadības panelis spēj aizsargāt motoru no pārslo‐
+dzes un īsslēguma.
+• Uzstādiet pareizu pārslodzes aizsardzību (termo‐
+releju vai motora aizsargu).
+
+Sūkņa tips
+Aizsardzība
+
+LV
+
+– Iebūvēta automāti‐
+
+Vienfāzes tipveida elek‐
+triskais sūknis ≤ 2,2 kW
+
+skās atiestates ter‐
+miskā un strāvas
+pārslodzes aizsar‐
+dzība (motora aiz‐
+sardzība)
+– Īsslēguma aizsar‐
+
+dzība (nodrošina
+uzstādītājs)27
+
+Trīsfāžu elektriskais
+sūknis28
+– Termiskā aizsardzī‐
+
+ba (jānodrošina uz‐
+stādītājam)
+– Aizsardzība pret īs‐
+
+slēgumu (jānodroši‐
+na uzstādītājam)
+
+• Visi cauruļvadi tiek balstīti neatkarīgi, cauruļvadi
+nedrīkst radīt slodzi uz iekārtas.
+• Lai nepārvadītu vibrācijas no sūkņa cauruļvados
+un arī pretējā virzienā, jāizmanto lokanās šļūte‐
+nes un cauruļvadi.
+• Izmantojiet platus līkumus, centieties izvairīties
+no šauru līkumu lietošanas, kas izraisa pārāk lielu
+plūsmas pretestību.
+• Iesūkšanas cauruļvads ir pilnībā hermētisks.
+• Ja sūknis tiek izmantots vaļējā kontūrā, iesūkša‐
+nas caurules diametram jāatbilst instalācijas ap‐
+stākļiem. Iesūkšanas caurule nedrīkst būt mazā‐
+ka par iesūkšanas atveres diametru.
+• Ja iesūkšanas cauruļvadam jābūt lielākam par
+sūkņa iesūkšanas pusi, jāuzstāda ekscentriska
+cauruļvada pāreja.
+• Ja sūknis tiek novietots virs šķidruma līmeņa,
+iesūkšanas cauruļvada galā jāuzstāda noslēdzo‐
+šais vārsts.
+• Noslēdzošais vārsts ir pilnībā iegremdēts ūdenī,
+lai gaiss nevarētu iekļūt caur iesūkšanas atveri
+tajos gadījumos, kad ūdens līmenis ir minimāls
+un sūknis uzstādīts virs ūdens ņemšanas vietas.
+• Piemērota izmēra slēgvārsti uzstādīti iesūkšanas
+cauruļvados un patēriņa cauruļvados (aiz pretvār‐
+sta), lai varētu regulēt sūknēšanas apjomu, veikt
+sūkņa apkopi un remontdarbus.
+• Lai novērstu pretplūsmu sūknī, kad sūknis ir iz‐
+slēgts, iesūknēšanas cauruļvadā jāuzstāda pret‐
+vārsts.
+
+• Vadības panelim jābūt aprīkotam ar sausās dar‐
+bības aizsardzības sistēmu, kurai pieslēgts spie‐
+diena slēdzis, pludiņa slēdzis, devēji un citas pie‐
+mērotas ierīces.
+• Sūkņa iesūkšanas pusē ieteicams izmantot šā‐
+das ierīces:
+
+– Ja šķidrums tiek sūknēts no ūdensapgādes
+
+sistēmas, uzstādiet spiediena slēdzi.
+– Sūknējot šķidrumu no uzglabāšanas tvertnes
+
+BRĪDINĀJUMS:
+Neizmantojiet slēgvārstu, kas ir aizvērts
+izplūdes pusē, lai droselētu sūkņa plūs‐
+mu vairāk par dažām sekundēm. Ja sūk‐
+nim jādarbojas ar noslēgtu vārstu patēri‐
+ņa pusē ilgāk par dažām sekundēm, jāiz‐
+veido apvedkanāls, lai izvairītos no ūdens
+pārkaršanas sūknī.
+
+vai rezervuāra, izmantojiet pludiņslēdzi vai
+sensorus.
+• Ja tiek izmantoti termoreleji, ieteicams izvēlēties
+tāda veida relejus, kas reaģē uz fāzes atteici.
+
+27
+drošinātāji aM (motora startēšanai) vai magnētiskais - termālais slēdzis ar "C" līkni un Icn ≥ 4,5 kA, vai
+kāda cita analoģiska ierīce.
+28
+10A atkabes klases pārslodzes termorelejs kopā ar drošinātājiem aM (motora startēšanai) vai 10A
+startēšanas klases magnētiskais termoslēdzis ar motora aizsardzību.
+
+159

@@ -1,0 +1,145 @@
+de - Übersetzung des Originals
+
+5. Entfernen Sie die untere Schale des Kupplungs‐
+schutzes (2).
+6. Öffnen und heben Sie den Stütz-/Einstellring (6)
+an.
+
+Seite 399. Ansonsten Ausrichtung der Kupplung
+mit Ausgleichsscheiben auf Seite 45.
+9. Setzen Sie den Kupplungsschutz wieder ein.
+• M5 → 3 Nm (27 lbf·in) ± 15%
+• M6 → 5 Nm (44 lbf·in) ± 15%.
+
+Kupplungsprüfung und Ausrichtung
+
+Prüfung der Kupplungsausrichtung mit La‐
+ser-Aligner
+
+HINWEIS:
+Prüfen Sie die Ausrichtung der Kupplung erneut un‐
+ter heißen Betriebsbedingungen.
+
+Sie können die Ausrichtung der Kupplung mit einem
+Laser-Aligner überprüfen: siehe Bedienungsanleitung
+des Aligners.
+
+Ausrichtung der Kupplung mit Ausgleichs‐
+scheiben
+
+HINWEIS:
+Stellen Sie sicher, dass sich die Kupplung leicht von
+Hand drehen lässt und dass zwischen den Zähnen
+Spiel besteht.
+
+DE
+
+Siehe Abbildung 17 auf Seite 384 für Informationen
+darüber, wo die Pumpe und der Motor am Sockel be‐
+festigt werden und wo die mitgelieferten Ausgleichs‐
+scheiben eingesetzt werden.
+
+HINWEIS:
+Eine falsche Ausrichtung der Einheit kann zu schwe‐
+ren Schäden am System führen.
+
+HINWEIS:
+Wenn die Kupplung falsch ausgerichtet ist, kann dies
+zu Vibrationen führen, die zu vorzeitigem Verschleiß
+der rotierenden Komponenten der Einheit führen
+können.
+
+Prüfen Sie die Ausrichtung der Einheitskupplung
+nach Folgendem:
+
+1. Lösen Sie die Schrauben, mit denen die Pumpe
+und der Motor am Sockel befestigt sind.
+2. Heben Sie die Pumpe und den Motor leicht an.
+3. Setzen Sie die Ausgleichsscheiben zwischen
+dem Sockel und den Füßen der Pumpe und des
+Motors an einem oder mehreren der angegebe‐
+nen Punkte ein.
+4. Setzen Sie die Pumpe und den Motor auf den
+Sockel und richten Sie dabei die Schraubenlöcher
+aus.
+5. Ziehen Sie die Schrauben fest.
+6. Wiederholen Sie die Überprüfung der Kupplungs‐
+ausrichtung.
+
+Kupplungsschutz-Installation
+
+• Transport und Montage
+• Erstinbetriebnahme
+• Erreichen der Betriebstemperatur.
+Führen Sie die Prüfung auch dann durch, wenn die
+Einheit vollständig auf dem Rahmen montiert gelie‐
+fert wurde.
+
+VORSICHT:
+Betreiben Sie die Pumpe nie ohne den
+ordnungsgemäß installierten Kupplungs‐
+schutz.
+
+Überprüfung der Kupplungsausrichtung mit
+einem Lineal und einer Fühlerlehre
+
+Informationen zur Ausrichtung einer Standardkupp‐
+lung (A) und einer Kupplung mit Abstandshalter (B)
+finden Sie unter Abbildung 27 auf Seite 397
+
+Schutzart: Drahtgitter
+Weitere Informationen entnehmen Sie bitte Abbil‐
+dung 18 auf Seite 386.
+
+1. Entfernen Sie den Kupplungsschutz.
+
+HINWEIS:
+Der Schutz kann aus Drahtgewebe (siehe Abbil‐
+dung 18 auf Seite 386) oder Blech (siehe Abbil‐
+dung 19 auf Seite 388) bestehen.
+
+1. Positionieren Sie den Schutz (1) so, dass er das
+Auslassende der Pumpenwelle und den Stützring
+(3) auf der Motorseite umgibt.
+2. Ziehen Sie die Schrauben (2) fest.
+Schutzart: Blech
+Weitere Informationen entnehmen Sie bitte Abbil‐
+dung 19 auf Seite 388.
+
+1. Positionieren Sie die untere Schale des Kupp‐
+lungsschutzes (2).
+2. Ziehen Sie die Befestigungsschrauben der unte‐
+ren Schale (4) fest.
+3. Öffnen Sie den Stütz-/Einstellring (6) und setzen
+Sie ihn mit dem Gehäuse nach unten ein und
+drücken Sie ihn axial auf den Motor.
+4. Positionieren Sie die obere Schale des Kupp‐
+lungsschutzes (1).
+5. Ziehen Sie die Befestigungsschrauben der obe‐
+ren Schale (3) fest.
+6. Ziehen Sie die Verschlussschrauben der Halb‐
+schalen (5) fest.
+
+4.3.4  Elektrischer Anschluss
+
+2. Setzen Sie ein Lineal auf die Halbkupplungen.
+3. Messen Sie die in der Abbildung gezeigten Ab‐
+stände.
+4. Drehen Sie die Kupplung von Hand in 90°-Schrit‐
+ten und wiederholen Sie die Messung.
+5. Wiederholen Sie Schritt 4 mehrmals: Die radiale
+Ausrichtung ist korrekt, wenn die Abstände an
+allen Punkten des Umfangs innerhalb der zuläs‐
+sigen Abweichung gleich sind; siehe Tabelle 28
+auf Seite 399. Ansonsten siehe Ausrichtung der
+Kupplung mit Ausgleichsscheiben auf Seite 45.
+6. Prüfen Sie den Abstand zwischen den Halbkup‐
+plungen mit einer Fühlerlehre.
+7. Drehen Sie die Kupplung von Hand in 90°-Schrit‐
+ten und überprüfen Sie den Abstand erneut.
+8. Wiederholen Sie Schritt 7 mehrmals: Die axiale
+Ausrichtung ist korrekt, wenn die Abstände an
+allen Punkten des Umfangs innerhalb der zulässi‐
+gen Abweichung gleich sind; siehe Tabelle 28 auf
+
+45

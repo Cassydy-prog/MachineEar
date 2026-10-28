@@ -1,0 +1,334 @@
+{
+  "created_at_utc": "2026-10-27T19:22:46.866218+00:00",
+  "input_directory": "../../../data/manuals",
+  "output_directory": ".",
+  "input_document_count": 12,
+  "document_count": 12,
+  "page_count": 835,
+  "input_pdf_sha256": {
+    "Fan_Docs/463687CentFans_iom.pdf": "ea62fad6da3cd4703a1a185d79e3ab8bbed8210d4499992462954cd67422f336",
+    "Fan_Docs/Centrifugal-Fans-IM-995.pdf": "be0d4463b22833ba9b493bddff7d23db16a9596f5503221324f8284eddc8001c",
+    "Fan_Docs/Fans-with-CE-Mark-French-IM-2-06.pdf": "02b7a7aa0d21d41662e29601d6ca525284267ef5ec8d9e87a76fbede24d6cb7b",
+    "Fan_Docs/Inline-Centrifugal-Mixed-Flow-Fans-IM-895.pdf": "c6d2590ee020069cb6aad4c9965a0f4f12ef417b894e850f30147832118de2f0",
+    "Fan_Docs/Inline-Fume-Exhaust-Fans-IM-1080.pdf": "2732e9b6e06035032c620a7c9929499f69fa057e46ee411df8f9836379025b3f",
+    "Fan_Docs/Troubleshooting-Maintenance-Guides-1.pdf": "4511275e79be307c80a98217c3ade204f19272b35cb4a1252bc0f0a8ee381ca4",
+    "Fan_Docs/Troubleshooting-Vibration-Problems-ES-202-1.pdf": "6314ada0191177f134b7e43e74f642f59508ed5f1546cb46e8df49d69c41f70d",
+    "Fan_Docs/wl_82102_2_de_en.pdf": "f30b05279979bc7dc13dd6ffaa2e7803d78f0c7aa3573cbc9a37f2abdadbde88",
+    "Pump_Docs/001080070g_c_10_2025_e-nsc_goulds-wt.pdf": "8df7ee785b40a173f662b46aadf0e3dd81a0c14fe6ba7bb2debdcecaf10b6384",
+    "Pump_Docs/1710_iom_02_2023.pdf": "08f2f5205baf5c6aad2529364edf76fc03a65a10fc5736448c4a3a41e1d5e472",
+    "Pump_Docs/p2002569b-1.pdf": "895910955666f802129dadeaddcb7efc63dadd771396c51a0574ad6050d7732b",
+    "Pump_Docs/pump.pdf": "e8975ae00a5d74bfb9f1512f8b2cd85a56359f61d8109bbb18bfdc6d3eb52eb4"
+  },
+  "ocr_page_count": 3,
+  "blank_page_count": 3,
+  "review_page_count": 7,
+  "ocr_dpi": 300,
+  "pymupdf_version": "1.28.2",
+  "mupdf_version": "1.28.2",
+  "documents": [
+    {
+      "document_id": "10dfbb76654dd4d5a53d6f1b19e1af6e59647c0c4b354a858dcda22dabd491f5",
+      "source_filename": "463687CentFans_iom.pdf",
+      "source_relative_path": "Fan_Docs/463687CentFans_iom.pdf",
+      "source_sha256": "ea62fad6da3cd4703a1a185d79e3ab8bbed8210d4499992462954cd67422f336",
+      "document_title": "463687 Industrial Process Fans, Rev. 12, April 2022",
+      "machine_type_hint": "fan",
+      "source_type_hint": "installation_operation_maintenance_manual",
+      "applicability": "generic_guidance_equipment_match_unverified",
+      "applicability_verified": false,
+      "page_count": 16,
+      "method_counts": {
+        "native": 16
+      },
+      "ocr_attempted_pages": 0,
+      "blank_pages": 0,
+      "review_pages": [],
+      "character_count": 47474,
+      "document_text_file": "documents/Fan_Docs/463687CentFans_iom/document.txt",
+      "searchable_pdf": null,
+      "errors": []
+    },
+    {
+      "document_id": "d4f60ce2a0186d5e28a246c770470cc5881847db2008b815e16912fd75fcaca6",
+      "source_filename": "Centrifugal-Fans-IM-995.pdf",
+      "source_relative_path": "Fan_Docs/Centrifugal-Fans-IM-995.pdf",
+      "source_sha256": "be0d4463b22833ba9b493bddff7d23db16a9596f5503221324f8284eddc8001c",
+      "document_title": "Centrifugal-Fans-IM-995",
+      "machine_type_hint": "fan",
+      "source_type_hint": "installation_operation_maintenance_manual",
+      "applicability": "generic_guidance_equipment_match_unverified",
+      "applicability_verified": false,
+      "page_count": 32,
+      "method_counts": {
+        "native": 32
+      },
+      "ocr_attempted_pages": 0,
+      "blank_pages": 0,
+      "review_pages": [],
+      "character_count": 76851,
+      "document_text_file": "documents/Fan_Docs/Centrifugal-Fans-IM-995/document.txt",
+      "searchable_pdf": null,
+      "errors": []
+    },
+    {
+      "document_id": "ffe2f7f6aae7a74b7180322c654b0d34b6d61848894aee2479440ef38dd78def",
+      "source_filename": "Fans-with-CE-Mark-French-IM-2-06.pdf",
+      "source_relative_path": "Fan_Docs/Fans-with-CE-Mark-French-IM-2-06.pdf",
+      "source_sha256": "02b7a7aa0d21d41662e29601d6ca525284267ef5ec8d9e87a76fbede24d6cb7b",
+      "document_title": "Fans-with-CE-Mark-French-IM-2-06",
+      "machine_type_hint": "fan",
+      "source_type_hint": "installation_operation_maintenance_manual",
+      "applicability": "generic_guidance_equipment_match_unverified",
+      "applicability_verified": false,
+      "page_count": 16,
+      "method_counts": {
+        "native": 16
+      },
+      "ocr_attempted_pages": 0,
+      "blank_pages": 0,
+      "review_pages": [],
+      "character_count": 91670,
+      "document_text_file": "documents/Fan_Docs/Fans-with-CE-Mark-French-IM-2-06/document.txt",
+      "searchable_pdf": null,
+      "errors": []
+    },
+    {
+      "document_id": "bb099bdb3bcf73f683c9cd6fc53e39414885ececa3d873706d4ae3a383ae7776",
+      "source_filename": "Inline-Centrifugal-Mixed-Flow-Fans-IM-895.pdf",
+      "source_relative_path": "Fan_Docs/Inline-Centrifugal-Mixed-Flow-Fans-IM-895.pdf",
+      "source_sha256": "c6d2590ee020069cb6aad4c9965a0f4f12ef417b894e850f30147832118de2f0",
+      "document_title": "Inline-Centrifugal-Mixed-Flow-Fans-IM-895",
+      "machine_type_hint": "fan",
+      "source_type_hint": "installation_operation_maintenance_manual",
+      "applicability": "generic_guidance_equipment_match_unverified",
+      "applicability_verified": false,
+      "page_count": 20,
+      "method_counts": {
+        "native": 20
+      },
+      "ocr_attempted_pages": 0,
+      "blank_pages": 0,
+      "review_pages": [],
+      "character_count": 49352,
+      "document_text_file": "documents/Fan_Docs/Inline-Centrifugal-Mixed-Flow-Fans-IM-895/document.txt",
+      "searchable_pdf": null,
+      "errors": []
+    },
+    {
+      "document_id": "f1e05c33ae948368be5449e9aec091c1ad7a029cb42f276c7675b18f8278f367",
+      "source_filename": "Inline-Fume-Exhaust-Fans-IM-1080.pdf",
+      "source_relative_path": "Fan_Docs/Inline-Fume-Exhaust-Fans-IM-1080.pdf",
+      "source_sha256": "2732e9b6e06035032c620a7c9929499f69fa057e46ee411df8f9836379025b3f",
+      "document_title": "Inline-Fume-Exhaust-Fans-IM-1080",
+      "machine_type_hint": "fan",
+      "source_type_hint": "installation_operation_maintenance_manual",
+      "applicability": "generic_guidance_equipment_match_unverified",
+      "applicability_verified": false,
+      "page_count": 24,
+      "method_counts": {
+        "native": 24
+      },
+      "ocr_attempted_pages": 0,
+      "blank_pages": 0,
+      "review_pages": [],
+      "character_count": 66890,
+      "document_text_file": "documents/Fan_Docs/Inline-Fume-Exhaust-Fans-IM-1080/document.txt",
+      "searchable_pdf": null,
+      "errors": []
+    },
+    {
+      "document_id": "fdafff421224dc9f3ea0fd9426ed52c219e6e82909a5758be203a5b9acc6fc9d",
+      "source_filename": "Troubleshooting-Maintenance-Guides-1.pdf",
+      "source_relative_path": "Fan_Docs/Troubleshooting-Maintenance-Guides-1.pdf",
+      "source_sha256": "4511275e79be307c80a98217c3ade204f19272b35cb4a1252bc0f0a8ee381ca4",
+      "document_title": "Troubleshooting & Maintenance Guides",
+      "machine_type_hint": "fan",
+      "source_type_hint": "troubleshooting_guide",
+      "applicability": "generic_guidance_equipment_match_unverified",
+      "applicability_verified": false,
+      "page_count": 2,
+      "method_counts": {
+        "ocr": 2
+      },
+      "ocr_attempted_pages": 2,
+      "blank_pages": 0,
+      "review_pages": [
+        1,
+        2
+      ],
+      "character_count": 2928,
+      "document_text_file": "documents/Fan_Docs/Troubleshooting-Maintenance-Guides-1/document.txt",
+      "searchable_pdf": "documents/Fan_Docs/Troubleshooting-Maintenance-Guides-1/Troubleshooting-Maintenance-Guides-1.searchable.pdf",
+      "errors": []
+    },
+    {
+      "document_id": "30c8774c4f2d493b21a9cee49a39c1ec9310ab035aa194e67b4fa78750fe72b5",
+      "source_filename": "Troubleshooting-Vibration-Problems-ES-202-1.pdf",
+      "source_relative_path": "Fan_Docs/Troubleshooting-Vibration-Problems-ES-202-1.pdf",
+      "source_sha256": "6314ada0191177f134b7e43e74f642f59508ed5f1546cb46e8df49d69c41f70d",
+      "document_title": "Troubleshooting-Vibration-Problems-ES-202-1",
+      "machine_type_hint": "fan",
+      "source_type_hint": "troubleshooting_guide",
+      "applicability": "generic_guidance_equipment_match_unverified",
+      "applicability_verified": false,
+      "page_count": 1,
+      "method_counts": {
+        "native": 1
+      },
+      "ocr_attempted_pages": 0,
+      "blank_pages": 0,
+      "review_pages": [],
+      "character_count": 2150,
+      "document_text_file": "documents/Fan_Docs/Troubleshooting-Vibration-Problems-ES-202-1/document.txt",
+      "searchable_pdf": null,
+      "errors": []
+    },
+    {
+      "document_id": "2d7b35d709fe82b9cf5cab06eaf9c842b547bb18df6c23def38971891ceb5686",
+      "source_filename": "wl_82102_2_de_en.pdf",
+      "source_relative_path": "Fan_Docs/wl_82102_2_de_en.pdf",
+      "source_sha256": "f30b05279979bc7dc13dd6ffaa2e7803d78f0c7aa3573cbc9a37f2abdadbde88",
+      "document_title": "Rolling Bearing Damage: Recognition of damage and bearing inspection: Publication",
+      "machine_type_hint": "fan",
+      "source_type_hint": "bearing_reference",
+      "applicability": "generic_guidance_equipment_match_unverified",
+      "applicability_verified": false,
+      "page_count": 74,
+      "method_counts": {
+        "native": 74
+      },
+      "ocr_attempted_pages": 0,
+      "blank_pages": 0,
+      "review_pages": [
+        73
+      ],
+      "character_count": 103037,
+      "document_text_file": "documents/Fan_Docs/wl_82102_2_de_en/document.txt",
+      "searchable_pdf": null,
+      "errors": []
+    },
+    {
+      "document_id": "54879bbd3c549db7fd421bf0cc16ab7fc1acd573a07efd8b953a00739cf1be21",
+      "source_filename": "001080070g_c_10_2025_e-nsc_goulds-wt.pdf",
+      "source_relative_path": "Pump_Docs/001080070g_c_10_2025_e-nsc_goulds-wt.pdf",
+      "source_sha256": "8df7ee785b40a173f662b46aadf0e3dd81a0c14fe6ba7bb2debdcecaf10b6384",
+      "document_title": "001080070g_c_10_2025_e-nsc_goulds-wt",
+      "machine_type_hint": "pump",
+      "source_type_hint": "installation_operation_maintenance_manual",
+      "applicability": "generic_guidance_equipment_match_unverified",
+      "applicability_verified": false,
+      "page_count": 464,
+      "method_counts": {
+        "native": 462,
+        "none": 2
+      },
+      "ocr_attempted_pages": 0,
+      "blank_pages": 2,
+      "review_pages": [
+        2,
+        463
+      ],
+      "character_count": 1649208,
+      "document_text_file": "documents/Pump_Docs/001080070g_c_10_2025_e-nsc_goulds-wt/document.txt",
+      "searchable_pdf": null,
+      "errors": []
+    },
+    {
+      "document_id": "4df0943a01d8cb6d3d192a356106f9d810ceebceffca501761bf2e39c85b6c96",
+      "source_filename": "1710_iom_02_2023.pdf",
+      "source_relative_path": "Pump_Docs/1710_iom_02_2023.pdf",
+      "source_sha256": "08f2f5205baf5c6aad2529364edf76fc03a65a10fc5736448c4a3a41e1d5e472",
+      "document_title": "Installation, Operation, and Maintenance Manual",
+      "machine_type_hint": "pump",
+      "source_type_hint": "installation_operation_maintenance_manual",
+      "applicability": "generic_guidance_equipment_match_unverified",
+      "applicability_verified": false,
+      "page_count": 32,
+      "method_counts": {
+        "native": 31,
+        "none": 1
+      },
+      "ocr_attempted_pages": 0,
+      "blank_pages": 1,
+      "review_pages": [
+        2
+      ],
+      "character_count": 52859,
+      "document_text_file": "documents/Pump_Docs/1710_iom_02_2023/document.txt",
+      "searchable_pdf": null,
+      "errors": []
+    },
+    {
+      "document_id": "67b96c739f041341ea16a51646dfedbd8d76f5205f7691cf552a432eb9551b80",
+      "source_filename": "p2002569b-1.pdf",
+      "source_relative_path": "Pump_Docs/p2002569b-1.pdf",
+      "source_sha256": "895910955666f802129dadeaddcb7efc63dadd771396c51a0574ad6050d7732b",
+      "document_title": "p2002569b-1",
+      "machine_type_hint": "pump",
+      "source_type_hint": "installation_operation_maintenance_manual",
+      "applicability": "generic_guidance_equipment_match_unverified",
+      "applicability_verified": false,
+      "page_count": 32,
+      "method_counts": {
+        "native": 31,
+        "ocr": 1
+      },
+      "ocr_attempted_pages": 1,
+      "blank_pages": 0,
+      "review_pages": [
+        15
+      ],
+      "character_count": 82822,
+      "document_text_file": "documents/Pump_Docs/p2002569b-1/document.txt",
+      "searchable_pdf": "documents/Pump_Docs/p2002569b-1/p2002569b-1.searchable.pdf",
+      "errors": []
+    },
+    {
+      "document_id": "71786bffc6231003fee65cb2aa07eb887f84e80857da54aec0f38f61f75e9bb7",
+      "source_filename": "pump.pdf",
+      "source_relative_path": "Pump_Docs/pump.pdf",
+      "source_sha256": "e8975ae00a5d74bfb9f1512f8b2cd85a56359f61d8109bbb18bfdc6d3eb52eb4",
+      "document_title": "Improving Pumping System Performance: A Sourcebook for Industry, Second Edition",
+      "machine_type_hint": "pump",
+      "source_type_hint": "engineering_sourcebook",
+      "applicability": "generic_guidance_equipment_match_unverified",
+      "applicability_verified": false,
+      "page_count": 122,
+      "method_counts": {
+        "native": 122
+      },
+      "ocr_attempted_pages": 0,
+      "blank_pages": 0,
+      "review_pages": [],
+      "character_count": 332063,
+      "document_text_file": "documents/Pump_Docs/pump/document.txt",
+      "searchable_pdf": null,
+      "errors": []
+    }
+  ],
+  "document_failures": [],
+  "passed": true,
+  "page_numbering": "physical_pdf_page_1_based; declared PDF page labels stored separately",
+  "ocr_engine": "MuPDF integrated Tesseract; runs locally",
+  "ocr_language_data": [
+    {
+      "filename": "best/eng.traineddata",
+      "sha256": "8280aed0782fe27257a68ea10fe7ef324ca0f8d85bd2fd145d1c2b560bcb66ba"
+    },
+    {
+      "filename": "deu.traineddata",
+      "sha256": "19d219bbb6672c869d20a9636c6816a81eb9a71796cb93ebe0cb1530e2cdb22d"
+    },
+    {
+      "filename": "eng.traineddata",
+      "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+    },
+    {
+      "filename": "fra.traineddata",
+      "sha256": "ced037562e8c80c13122dece28dd477d399af80911a28791a66a63ac1e3445ca"
+    }
+  ],
+  "original_pdfs_unchanged": true,
+  "document_contents_sent_to_external_services": false,
+  "directory_paths_relative_to": "manifest_directory"
+}

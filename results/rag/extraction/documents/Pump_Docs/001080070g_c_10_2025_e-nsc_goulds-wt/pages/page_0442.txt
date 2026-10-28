@@ -1,0 +1,64 @@
+Declarations of Conformity
+
+•  Směrnice 2011/65/EU z 8. června 2011 ve znění pozdějších předpisů včetně směrnice (EU) 2015/863 (omezení používání 
+některých nebezpečných látek v elektrických a elektronických zařízeních). 
+6. Odkazy na příslušné harmonizované normy nebo na jiné technické specifikace, na jejichž základě se shoda prohlašuje: 
+• EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-4:2007 
++A1:2011, EN IEC 61000-6-4:2019. 
+• EN IEC 63000:2018. 
+7. Oznámený subjekt: - - - 
+8. Doplňující informace: 
+(RoHS) - Příloha III – Použití vyňatá z omezení: olovo jako legující prvek v oceli, slitinách hliníku, slitinách mědi [6(a), 6(b), 6(c)].  
+Optimyze: odkazujeme na dokumentaci dodanou s monitorovacím zařízením [Směrnice 2014/53/EU o dodávání rádiových zařízení 
+na trh a následné změny, směrnice 2011/65/EU o omezení používání některých nebezpečných látek v elektrických a elektronických 
+zařízeních a následné změny, včetně směrnice 2015/863/EU]. 
+Podepsán a v zastoupení: Xylem Service Italia S.r.l.
+
+Montecchio Maggiore, 25/03/2025  
+
+Verze 00
+
+Alessio Vendraminelli  
+    Generální ředitel
+
+Prohlášení o shodě není/nejsou platné/-á, pokud se používá/-jí samostatně od zbytku textu dokumentu Xylem s kódem 
+001080070G. 
+ 
+Čerpadlo
+
+ES Prohlášení o shodě (překlad) 
+ 
+Společnost Xylem Service Italia S.r.l. s hlavním sídlem v Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Itálie tímto 
+prohlašuje, že výrobek: 
+čerpadlo NSC… (viz nálepku na poslední straně) 
+splňuje příslušná ustanovení následujících evropských směrnic 
+•  Směrnice 2006/42/ES o strojních zařízeních ve znění pozdějších předpisů (PŘÍLOHA II - fyzická nebo právnická osoba pověřená 
+sestavením technické dokumentace: Xylem Service Italia S.r.l.), 
+•  Směrnice 2009/125/ES o stanovení rámce pro určení požadavků na ekodesign výrobků spojených se spotřebou energie ve znění 
+pozdějších předpisů, nařízení (EU) č.547/2012 ve znění pozdějších předpisů (vodní čerpadlo, pokud je označeno MEI) 
+a technické normy 
+•  EN 809:1998+A1:2009. 
+•  EN 16480:2021. 
+Doplňující informace: 
+Optimyze: pokud je vybaven čerpadlem, odkazujeme na dokumentaci dodanou s monitorovacím zařízením [Směrnice 2014/53/EU 
+o dodávání rádiových zařízení na trh a následné změny, směrnice 2011/65/EU o omezení používání některých nebezpečných látek 
+v elektrických a elektronických zařízeních a následné změny, včetně směrnice 2015/863/EU].
+
+Montecchio Maggiore, 25/03/2025  
+
+Verze 00
+
+Alessio Vendraminelli  
+    Generální ředitel
+
+Prohlášení o shodě není/nejsou platné/-á, pokud se používá/-jí samostatně od zbytku textu dokumentu Xylem s kódem 
+001080070G. 
+ 
+Vyhlásenie o zhode 
+Odkazujeme na špecifické vyhlásenie týkajúce sa označenia na výrobku. 
+ 
+Elektrické čerpadlo
+
+ES Vyhlásenie o zhode (překlad)
+
+438

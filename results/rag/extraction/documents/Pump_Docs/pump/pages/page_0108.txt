@@ -1,0 +1,50 @@
+Appendix C: Pumping Systems Tip Sheet Number 1
+
+■	 Excessive wear on wear rings and bearings
+
+■	 Improper packing adjustment that causes binding on the pump shaft
+
+■	 Multiple pump systems where excess capacity is bypassed or excess pressure is provided
+
+■	 Changes from initial design conditions. Distribution system cross-connections, parallel main lines,
+
+or changes in pipe diameter or material may change the original system curve.
+
+■	 Low-flow-rate, high-pressure end use applications. An entire pumping system may be operated at high pressure to meet
+
+the requirements of a single end use. A booster or dedicated pump may allow system operating pressure to be reduced.
+
+ Pumping System Efficiency Measures
+ Measures to improve pumping plant efficiency include:
+
+■	 Shut down unnecessary pumps. Re-optimize pumping systems when a plant’s water use requirements change.
+
+Use pressure switches to control the number of pumps in service when flow rate requirements vary.
+
+■	 Restore internal clearances.
+
+■	 Replace standard efficiency pump drive motors with NEMA Premium™ motors.
+
+■	 Replace or modify oversized pumps:
+
+– Install new properly sized pumps.
+
+– Trim or change the pump impellers to match the output with system requirements when the pumping
+
+head exceeds system requirements. Consult with the vendor to determine the minimum impeller 
+	 diameter for a pump casing.
+
+■	 Meet variable flow rate requirements with an adjustable speed drive or multiple pump arrangement
+
+instead of throttling or bypassing excess flow.
+
+  Suggested Actions   
+• Prescreen the pumps in your facility.
+
+• Survey the systems identified as priorities.
+
+DOE/GO-102005-2155 • October 2005 • Pumping Systems Tip Sheet #1
+
+104
+
+Improving Pumping System Performance
