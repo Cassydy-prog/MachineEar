@@ -1,0 +1,78 @@
+Evaluation of running features and damage to dismounted bearings
+
+Condition of seats
+
+– Use dimensionally stable rings for high
+
+– Improve roundness of seats
+– Check and improve, if required, the
+
+surface quality of the seats
+
+operating temperatures (prevents fit
+loosening due to ring expansion as a
+result of changes in steel structure)
+
+13: Fretting corrosion in bore of a cylindrical roller bearing inner ring with 
+seat too loose
+
+3.2 The condition of the seats
+Diverse conclusions can be drawn
+from the condition of the seats about the
+supporting quality of the bearing rings
+on the shaft and in the housing. Ring
+movements against the seats cause noise
+which is often disturbing. They also lead
+to fretting corrosion and wear which in
+turn leads to lubricant contamination by
+corrosive and abrasive particles. In addi-
+tion to this, the ring support continues
+to deteriorate and fretting corrosion can
+make dismounting difficult. A few ex-
+amples are provided below.
+
+3.2.1 Fretting corrosion 
+Symptoms:
+
+Brownish-black spots on the seats, 
+occassionally with brown abraded matter
+near bearing or in the lubricant as well.
+Wear at the fitting surfaces (bore, out-
+side diameter), fatigue fracture possible
+in the case of rotating parts (usually the
+shaft), disturbance of floating bearing
+function possible in the case of statio-
+nary parts (usually the housing), fig. 13.
+With such fretting corrosion conclusions
+can frequently be made regarding the
+position and size of the load zone, 
+fig. 14, and creeping of the rings.
+
+14: Fretting corrosion reveals the size of the load zone at the stationary outer ring
+
+Causes:
+– Micromotion between fitted parts
+
+where fits are too loose in relation to
+the acting forces, but no creeping of
+rings
+– Form disturbance of fitting surfaces
+– Shaft deflection, housing deformation
+– Floating bearing function at ring with
+
+circumferential load
+
+Remedial measures:
+– Provide floating bearing function at
+
+ring with point load
+– Use bearing seats which are as tight as
+
+possible
+– Make shaft (housing) more rigid to
+
+bending
+– Coat bearing seats
+
+15
+FAG

@@ -1,0 +1,96 @@
+11. Controlling Pumps with Adjustable Speed Drives
+
+Controlling Pumps with Adjustable Speed Drives
+
+Related Publications
+
+Centrifugal pumps are often operated over a wide 
+range of conditions. For example, many cooling 
+systems experience variable loads caused by 
+changes in ambient conditions, occupancy, and 
+production demands. To accommodate demand 
+changes, flow can be controlled by any of these 
+four methods: bypass lines, throttle valves, 
+multiple pump arrangements (as discussed in the 
+previous fact sheet), or pump speed adjustments.
+
+Related information is available in a Europump-
+Hydraulic Institute publication, Variable Speed 
+Pumping: A Guide to Successful Applications, 
+as well as in two ITP BestPractices Tip Sheets, 
+Adjustable Speed Pumping Applications and 
+Control Strategies for Centrifugal Pumps with 
+Variable Flow Rates. To obtain the pumping 
+guide, see the Hydraulic Institute’s Web site, 
+www.pumps.org, or call 973-267-9700. 
+Tip sheets can be found in Appendix C, 
+accessed on the Web at www.eere.energy.
+gov/industry/bestpractices, or obtained by 
+contacting the EERE Information Center at 
+877-337-3463.
+
+ Bypass Lines
+Bypass lines provide accurate flow control while 
+avoiding the danger of “deadheading” a pump. 
+Deadheading is the condition in which a pump’s 
+flow is completely choked off by closed down-
+stream valves. Unfortunately, bypassing flow is 
+usually the least energy-efficient flow control 
+option.
+
+subtle speed-changing capabilities within discrete 
+speeds.
+
+ Throttle Valves
+Throttle valves provide flow control in two ways:  
+by increasing the upstream backpressure, which 
+reduces pump flow, and by directly dissipating fluid 
+energy. By increasing the backpressure on a pump, 
+throttle valves make a pumping system less effi-
+cient. In low-static-head systems, variable speed 
+operation allows the pump to run near its best 
+efficiency point (BEP) for a given head or flow.
+
+In contrast, ASDs allow pump speed adjustments 
+to be made over a continuous range, avoiding the 
+need to jump from speed to speed. ASDs control 
+pump speeds using several different types of 
+mechanical and electrical systems. Mechanical 
+ASDs include hydraulic clutches, fluid couplings, 
+and adjustable belts and pulleys. Electrical ASDs 
+include eddy current clutches, wound-rotor motor 
+controllers, and variable frequency drives (VFDs). 
+VFDs adjust the electrical frequency of the power 
+supplied to a motor to change the motor’s ro-
+tational speed. VFDs are by far the most popular 
+type of ASD.
+
+ Pump Speed Adjustments 
+Pump speed adjustments are the most efficient 
+means of controlling pump flow. Reducing the 
+pump speed means less energy is imparted to the 
+fluid and less energy needs to be throttled or by-
+passed. There are two primary ways of reducing 
+the pump speed: using multiple-speed pump 
+motors and using adjustable speed drives (ASDs). 
+Although both directly control the pump’s output, 
+multiple-speed motors and ASDs serve entirely 
+separate applications.
+
+Multiple-speed motors contain a different set of 
+windings for each motor speed; consequently, they 
+are more expensive and less efficient than single-
+speed motors. Multiple-speed motors also lack
+
+Pump speed adjustments are not appropriate for 
+all systems, however. In applications with high 
+static head, slowing a pump could induce 
+vibrations and create performance problems that 
+are similar to those found when a pump operates 
+against its shutoff head. For systems in which the 
+static head represents a large portion of the total 
+head, however, operators should use caution in
+
+51
+
+A Sourcebook for Industry

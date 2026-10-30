@@ -1,0 +1,146 @@
+lv - Oriģinālās instrukcijas
+
+stādīšana uz betona pamata 160 lappusē un Sūkņa
+labošana 160 lappusē dotās instrukcijas, papildus
+Cauruļvadu sistēmas kontrolsaraksts 161 lappusē.
+
+PAZIŅOJUMS:
+Pārliecinieties, ka savienojumu var viegli pagriezt ar
+roku un ka zobi nesaduras.
+
+Ieteicams arī:
+
+PAZIŅOJUMS:
+Nepareiza iekārtas salāgošana var nopietni bojāt
+sistēmu.
+
+• Pārbaudīt, ka sūknis un motors ir droši piestipri‐
+nāti pie pamatnes
+• Starp pamatni un pamatu ievietot pretvibrāciju
+materiālu
+• Ja iekārtai ir metināta pamatne, piepildīt ar beto‐
+nu Attēls 25 397 lappusē norādītās vietas.
+
+PAZIŅOJUMS:
+Ja savienojums nav noregulēts, var rasties vibrāci‐
+jas, kuru rezultātā var pāragri nolietoties iekārtas ro‐
+tējošie komponenti.
+
+PAZIŅOJUMS:
+Nepiepildīt locītā metāla lokšņu pamatni Attēls 26
+397 lappusē ar betonu.
+
+Pārbaudiet iekārtas savienojuma regulējumu pēc:
+
+4.3.2  Cauruļvadu sistēmas kontrolsaraksts
+
+Pārbaudiet, vai ievērotas tālāk norādītās instrukcijas.
+
+• Transportēšanas un uzstādīšanas
+• Sākotnējā palaides
+• Ekspluatācijas temperatūras sasniegšanas.
+Veiciet pārbaudi, pat tad, ja iekārta tika piegādāta
+pilnībā uzmontēta uz rāmja.
+
+Savienojuma salāgojuma pārbaude ar lineālu
+un taustes mērinstrumentu
+
+Informāciju par standarta savienojuma (A) un savie‐
+nojuma ar starpliku (B) salāgošanu skatīt Attēls 27
+397 lappusē
+1. Noņemiet savienojuma aizsardzību.
+
+• Pacelti uzstādot iesūkšanu, izvairieties no gaisa
+kabatām, iesūkšanas caurulei jābūt pieaugošā
+slīpumā uz iekārtas pusi, pārsniedzot 2%.
+• Cauruļvadu sistēmas nominālie diametri ir vis‐
+maz vienādi ar sūkņa pieslēgvietu nominālajiem
+diametriem.
+• Atbalstiet cauruļvadu sistēmu neatkarīgi, lai tā
+neapgrūtinātu iekārtu.
+• Noslēpiet cauruļvadu sistēmu pirms pievienoša‐
+nas iekārtai, noņemiet jebkādus metināšanas at‐
+likumus, nosēdumus un netīrumus. Ja nepiecie‐
+šams, uzstādiet filtru.
+
+PAZIŅOJUMS:
+Aizsardzība var būt stiepļu režģis (skatīt Attēls 18
+386 lappusē) vai metāla loksne (skatīt Attēls 19
+388 lappusē)
+
+LV
+
+UZMANĪBU:
+Uzkausētie valnīši, oksīda kārta un citi
+cauruļvadā esošie piejaukumi bojā sūkni.
+
+4.3.3  Savienojuma salāgošana
+
+Savienojuma aizsardzības noņemšana
+
+UZMANĪBU:
+Nekad nedarbiniet sūkni bez pareizi uz‐
+stādīta savienojuma aizsarga.
+
+Aizsardzības veids: stiepļu režģis
+Informāciju skatiet Attēls 18 386 lappusē.
+
+1. Atskrūvējiet skrūves (2).
+2. Noņemiet stiepļu režģi. (1).
+Aizsardzības veids: metāla loksnes
+Informāciju skatiet Attēls 19 388 lappusē.
+
+2. Novietojiet lineālu uz savienojumu puses.
+3. Izmēriet attēla norādītos attālumus.
+4. Pagrieziet savienojumu ar roku 90° soļos un at‐
+kārtojiet mērīšanu.
+5. Atkārtojiet 4. soli vairākas reizes: radiālā salāgo‐
+šana ir pareiza, ja attālumi ir tādi paši visos punk‐
+tos pa apkārtmēru ar pieļaujamo novirzi; skatīt
+Tabula 28 399 lappusē. Citādi skatiet Savienoju‐
+ma salāgošana ar starplikām 161 lappusē.
+6. Pārbaudiet attālumu starp savienojumu pusēm ar
+taustes mērinstrumentu.
+7. Pagrieziet savienojumu ar roku 90° soļos un vēl‐
+reiz pārbaudiet attālumu.
+8. Atkārtojiet 7. soli vairākas reizes: ass salāgošana
+ir pareiza, ja attālumi ir tādi paši visos punktos pa
+apkārtmēru ar pieļaujamo novirzi; skatīt Tabula
+28 399 lappusē. Citādi skatiet Savienojuma salā‐
+gošana ar starplikām 161 lappusē.
+9. Uzlieciet atpakaļ savienojuma aizsardzību.
+• M5 → 3 Nm (27 lbf·in) ± 15%
+• M5 → 5 Nm (44 lbf·in) ± 15%
+
+Savienojuma salāgojuma pārbaude ar lāzera
+salāgotāju
+
+Varat pārbaudīt savienojuma salāgojumu ar lāzera
+salāgotāju: skatiet salāgotāja instrukciju rokasgrā‐
+matu.
+
+1. Atskrūvējiet čaulas pušu slēgšanas skrūves (5).
+2. Atskrūvējiet stiprinājuma skrūves, kas nostiprina
+augšējo čaulas pusi (3).
+3. Noņemiet stiprinājuma aizsardzības augšējo čau‐
+las pusi (1).
+4. Atskrūvējiet stiprinājuma skrūves, kas nostiprina
+apakšējo čaulas pusi (4).
+5. Noņemiet stiprinājuma aizsardzības apakšējo
+čaulas pusi (2).
+6. Atveriet un paceliet balsta/regulēšanas gredzenu
+(6).
+
+Savienojuma salāgošana ar starplikām
+
+Savienojuma pārbaude un regulēšana
+
+Skatiet Attēls 17 384 lappusē informāciju par to, kur
+pievienot sūkni un motoru pamatnei un kur ievietot
+piegādātās starplikas.
+
+PAZIŅOJUMS:
+Vēlreiz pārbaudiet savienojuma regulējumu karstos
+ekspluatācijas apstākļos.
+
+161

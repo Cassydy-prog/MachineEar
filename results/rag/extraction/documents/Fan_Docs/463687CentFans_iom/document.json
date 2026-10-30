@@ -1,0 +1,22 @@
+{
+  "document_id": "10dfbb76654dd4d5a53d6f1b19e1af6e59647c0c4b354a858dcda22dabd491f5",
+  "source_filename": "463687CentFans_iom.pdf",
+  "source_relative_path": "Fan_Docs/463687CentFans_iom.pdf",
+  "source_sha256": "ea62fad6da3cd4703a1a185d79e3ab8bbed8210d4499992462954cd67422f336",
+  "document_title": "463687 Industrial Process Fans, Rev. 12, April 2022",
+  "machine_type_hint": "fan",
+  "source_type_hint": "installation_operation_maintenance_manual",
+  "applicability": "generic_guidance_equipment_match_unverified",
+  "applicability_verified": false,
+  "page_count": 16,
+  "method_counts": {
+    "native": 16
+  },
+  "ocr_attempted_pages": 0,
+  "blank_pages": 0,
+  "review_pages": [],
+  "character_count": 47474,
+  "document_text_file": "documents/Fan_Docs/463687CentFans_iom/document.txt",
+  "searchable_pdf": null,
+  "errors": []
+}

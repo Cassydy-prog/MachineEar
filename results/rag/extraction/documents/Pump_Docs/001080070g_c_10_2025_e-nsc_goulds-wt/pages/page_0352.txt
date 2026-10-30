@@ -1,0 +1,195 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+Svenska
+
+Suomalainen
+
+íslenskur
+
+1. Tegund dælu
+2. a. = Raðnúmer + fram‐
+leiðsludagsetning; b. = Fram‐
+leiðsluár + pöntunarnúmer +
+stöðunúmer pöntunar
+3. Hámarks vinnuþrýstingur
+4. Hámarkshiti vökva við rekstur
+5. Lágmarkshiti vökva við rek‐
+stur
+6. Dælukóði
+7. Fullt þvermál dæluhjóls
+(aðeins fyrir heil dæluhjól)
+8. Minnkað þvermál dæluhjóls
+(aðeins fyrir stytt dæluhjól)
+9. Flæðisvið
+10. Lyftihæðarsvið
+11. Hraði
+12. Nafnafl eða hámarksafl dæ‐
+lunnar (rafknúinnar dælueinin‐
+gar); hámarksafl sem dælan
+tekur upp (dæla)
+13. Lágmarks nýtnistuðull
+14. Vökvakerfisnýtni við besta
+nýtnipunkt (aðeins fyrir minn‐
+kuð dæluhjól)
+15. Þyngd
+
+1. Pumpputyyppi
+2. a. = sarjanumero + valmistu‐
+späivä; b. = Valmistusvuosi
++ tilausnumero + tilauksen si‐
+jaintinumero
+3. Suurin käyttöpaine
+4. Nesteen suurin sallittu käyttö‐
+lämpötila
+5. Nesteen alin sallittu käyttö‐
+lämpötila
+6. Pumpun koodi
+7. Täyden juoksupyörän halkaisi‐
+ja (vain täydet juoksupyörät)
+8. Pienennetty juoksupyörän hal‐
+kaisija (vain trimmatut juok‐
+supyörät)
+9. Virtausalue
+10. Nostoalue
+11. Kierrosluku
+12. Pumpun nimellis- tai mak‐
+simiteho (sähköpumppuyksik‐
+kö), suurin pumpun ottoteho
+(pumppu)
+13. Vähimmäistehokkuusindeksi
+14. Hydraulinen tehokkuus par‐
+haassa tehokkuuspisteessä
+(vain trimmatut juoksupyörät)
+15. Paino
+
+1. Pumptyp
+2. a. = Serienummer + tillverk‐
+ningsdatum. b. = Tillverkning‐
+sår + ordernummer + orderpo‐
+sitionsnummer
+3. Maximalt driftstryck
+4. Maximal vätsketemperatur
+under drift
+5. Minimal vätsketemperatur un‐
+der drift
+6. Pumpkod
+7. Hel pumphjulsdiameter (en‐
+dast för hela pumphjul)
+8. Reducerad pumphjulsdiame‐
+ter (endast för trimmade
+pumphjul)
+9. Flödesområde
+10. Tryckhöjdområde
+11. Hastighet
+12. Nominell eller maximal pum‐
+peffekt (elektrisk pumpenhet);
+maximal pumpeffekt absor‐
+berad (pump)
+13. Minimalt effektivitetsindex
+14. Hydraulisk effektivitet i den
+bästa effektivitetspunkten
+(endast för trimmade pumph‐
+jul)
+15. Vikt
+
+Eesti
+
+latviski
+
+lietuvių
+
+1. Pumba tüüp
+2. a. = Seerianumber + tootmi‐
+skuupäev; = valmistamisaa‐
+sta + tellimuse number + telli‐
+muse seisundi number
+3. Maksimaalne töörõhk
+4. Maksimaalne vedeliku töö‐
+temperatuur
+5. Minimaalne vedeliku töötem‐
+peratuur
+6. Pumbakood
+7. Täielik tiiviku läbimõõt (ainult
+täistiivikute puhul)
+8. Vähendatud tiiviku läbimõõt
+(ainult kärbitud tiivikute pu‐
+hul)
+9. Voolu vahemik
+10. Surukõrguse vahemik
+11. Kiirus
+12. Pumba nimi- või maksimaal‐
+ne võimsus (elektriline pum‐
+baseade); maksimaalne pum‐
+ba energiatarve (pump)
+13. Minimaalne efektiivsuse in‐
+deks
+14. Hüdrauliline efektiivsus pari‐
+mas efektiivsuse punktis (ai‐
+nult kärbitud tiivikute puhul)
+15. Kaal
+
+1. Siurblio tipas
+2. a. = serijos numeris + pagami‐
+nimo data; b. = Pagaminimo
+metai + užsakymo numeris +
+užsakymo pozicijos numeris
+3. Maksimalus darbinis slėgis
+4. Maksimali darbinė skysčio
+temperatūra
+5. Minimali darbinė skysčio tem‐
+peratūra
+6. Siurblio kodas
+7. Visos sparnuotės skersmuo
+(tik naudojant visą sparnuotę)
+8. Sumažintos sparnuotės sker‐
+smuo (tik naudojant pritaiko‐
+mą sparnuotę)
+9. Srauto kiekis
+10. Patvankos ribos
+11. greitis
+12. Normali arba didžiausia varik‐
+lio galia (elektrinis siurblio
+blokas); maks. absorbuojama
+siurblio galia (siurblys)
+13. Mažiausias efektyvumo koefi‐
+cientas
+14. Hidraulinis efektyvumas efek‐
+tyviausiame taške (tik naudo‐
+jant pritaikomas sparnuotes)
+15. Svoris
+
+APPX
+
+1. Sūkņa tips
+2. a = Sērijas numurs + ražo‐
+šanas datums; b. = izgatavo‐
+šanas gads + pasūtījuma nu‐
+murs + pasūtījuma pozīcijas
+numurs
+3. Maksimālais darba spiediens
+4. Maksimālā darba šķidruma
+temperatūra
+5. Minimālā darba šķidruma
+temperatūra
+6. Sūkņa kods
+7. Pilns darbrata diametrs (tikai
+lielākā izmēra darbratiem)
+8. Samazināts darbrata dia‐
+metrs (tikai mazākā izmēra
+darbratiem)
+9. Plūsmas diapazons
+10. Augstumspiediena diapazons
+11. Ātrums
+12. Nominālā vai maksimālā sūk‐
+ņa jauda (elektriskā sūkņa ie‐
+kārta); maksimālā absorbētā
+sūkņa jauda (sūknis)
+13. Minimālās efektivitātes in‐
+dekss
+14. Hidrauliskā efektivitāte aug‐
+stākajā efektivitātes punktā
+(tikai mazākā izmēra darbra‐
+tiem)
+15. Svars
+
+348

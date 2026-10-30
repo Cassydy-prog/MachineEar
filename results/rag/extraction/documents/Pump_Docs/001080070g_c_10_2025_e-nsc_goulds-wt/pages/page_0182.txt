@@ -1,0 +1,159 @@
+pl - Tłumaczenie oryginału
+
+Bet kuriuo kitu atveju kreipkitės į vietos pardavimo ir
+techninės priežiūros atstovą.
+
+Poziom zagrożenia
+Sygnał
+
+1  Wstęp i bezpieczeństwo
+
+1.1  Wprowadzenie
+
+UWAGA:
+
+Cel niniejszej instrukcji
+
+Powiadomień używa się,
+gdy występuje zagroże‐
+nie uszkodzenia sprzę‐
+tu lub pogorszenia jego
+działania, ale nie ma za‐
+grożenia obrażeń ciała.
+
+Niniejsza instrukcja ma dostarczyć niezbędnych in‐
+formacji na temat następujących czynności:
+
+Symbole specjalne
+
+• Instalacja
+• Eksploatacji
+• Konserwacja
+
+Niektórym kategoriom zagrożeń przypisano określo‐
+ne symbole; patrz tabela poniżej.
+
+Niebezpieczeństwo po‐
+rażenia prądem elek‐
+trycznym
+
+Niebezpieczeństwo
+związane z polem mag‐
+netycznym
+
+PRZESTROGA:
+Przed zamontowaniem i rozpoczęciem
+użytkowania produktu należy uważnie
+przeczytać ten podręcznik. Niezgodne z
+przeznaczeniem użycie produktu może
+spowodować obrażenia i uszkodzenia
+ciała oraz skutkować utratą gwarancji.
+
+PRZESTRO‐
+GA:
+
+Niebezpie‐
+czeństwo
+porażenia
+prądem
+elektrycz‐
+nym:
+
+UWAGA:
+Niniejszą instrukcję należy zachować w celu korzys‐
+tania w przyszłości i przechowywać w lokalizacji
+montażu urządzenia, w łatwo dostępnym miejscu.
+
+1.2  Terminologia i symbole z zakresu
+bezpieczeństwa
+
+Niebezpieczeństwo kontaktu z gorącą
+powierzchnią
+
+Informacje na temat komunikatów bezpie‐
+czeństwa
+
+PL
+
+Niebezpieczeństwo dotknięcia gorących powierzch‐
+ni jest sygnalizowane specjalnym symbolem, któ‐
+ry zastępuje typowe symbole poziomów niebezpie‐
+czeństwa.
+
+PRZESTROGA:
+
+Niezwykle ważne jest, aby przed przystąpieniem do
+obsługi produktu dokładnie przeczytać, zrozumieć i
+stosować się do komunikatów bezpieczeństwa oraz
+obowiązujących przepisów. Komunikaty są ogłasza‐
+ne w celu ułatwienia zapobieżenia następującym za‐
+grożeniom:
+
+Instrukcje
+
+• wypadki i problemy zdrowotne,
+• uszkodzenie produktu i jego otoczenia,
+• uszkodzenie produktu
+
+Poziomy zagrożenia
+
+Poziom zagrożenia
+Sygnał
+
+NIEBEZPIE‐
+CZEŃSTWO:
+
+Zalecenia i ostrzeżenia zamieszczone w tej instrukcji
+dotyczą wersji standardowej, jak to opisano w do‐
+kumencie sprzedaży. Wersje specjalne pompy mo‐
+gą być dostarczane z dodatkowymi broszurami za‐
+leceń. Zapoznać się z umową sprzedaży w celu
+uzyskania informacji na temat wszelkich modyfikacji
+oraz wersji specjalnych. Zwrócić się do najbliższe‐
+go Centrum serwisowego w celu uzyskania informa‐
+cji dotyczących zaleceń, sytuacji lub zdarzeń, które
+nie zostały uwzględnione w tej instrukcji lub w doku‐
+mencie sprzedaży.
+
+Niebezpieczna sytuacja,
+która spowoduje śmierć
+lub poważne obraże‐
+nia, jeśli nie podejmie
+się działań zapobiega‐
+wczych.
+
+1.3  Gwarancja
+Informacje dotyczące gwarancji, patrz umowa sprze‐
+daży.
+
+OSTRZEŻE‐
+NIE:
+
+1.4  Części zamienne
+
+Niebezpieczna sytuacja,
+która może spowodować
+śmierć lub poważne ob‐
+rażenia, jeśli nie podej‐
+mie się działań zapobie‐
+gawczych.
+
+PRZESTRO‐
+GA:
+
+OSTRZEŻENIE:
+Zużyte lub uszkodzone elementy zastę‐
+pować wyłącznie oryginalnymi częścia‐
+mi zamiennymi. Użycie nieodpowiednich
+części zamiennych może spowodować
+awarie, uszkodzenia i obrażenia ciała, a
+także utratę gwarancji.
+
+Niebezpieczna sytuacja,
+która może spowodować
+drobne lub umiarkowane
+obrażenia, jeśli nie podej‐
+mie się działań zapobie‐
+gawczych.
+
+178

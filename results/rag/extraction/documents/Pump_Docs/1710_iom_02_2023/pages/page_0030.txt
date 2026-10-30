@@ -1,0 +1,121 @@
+7  Troubleshooting
+
+Cause
+Remedy
+
+The pump is not correctly primed.
+Stop the pump and repeat the prime procedure.
+If the problem continues:
+
+•
+Check that the mechanical seal is not leaking.
+•
+Check the suction pipe for perfect tightness.
+•
+Replace any valves that are leaking.
+
+Open the valve.
+
+The throttling on the delivery side is too
+extensive.
+
+Disassemble and clean the valves.
+
+Valves are locked in closed or partially
+closed position.
+
+The pump is clogged.
+Contact the local sales and service representative.
+
+The piping is clogged.
+Check and clean the pipes.
+
+Change the position of two of the phases on the terminal
+board of the motor or in the electric control panel.
+
+The rotation direction of the impeller is
+wrong.
+(three-phase version)
+
+Check the operating conditions of the pump. If necessary, do
+the following:
+
+The suction lift is too high or the flow
+resistance in the suction pipes is too
+great.
+
+•
+Decrease the suction lift
+•
+Increase the diameter of the suction pipe.
+
+7.9  The electric pump stops, and then rotates in the wrong direction
+
+Cause
+Remedy
+
+There is a leakage in one or both of the following components:
+
+Repair or replace the faulty component.
+
+•
+The suction pipe
+•
+The foot valve or the check valve
+
+There is air in the suction pipe.
+Bleed the air.
+
+7.10  The pump starts up too frequently
+
+Cause
+Remedy
+
+There is a leakage in one or both of the following components:
+
+Repair or replace the faulty
+component.
+
+•
+The suction pipe
+•
+The foot valve or the check valve
+
+There is a ruptured membrane or no air pre-charge in the pressure
+tank.
+
+See the relevant instructions in the
+pressure tank manual.
+
+7.11  The pump vibrates and generates too much noise
+
+Cause
+Remedy
+
+Pump cavitation
+Reduce the required flow rate by partially closing the ON-OFF valve
+downstream from the pump. If the problem persists check the
+operating conditions of the pump (for example height difference, flow
+resistance, liquid temperature).
+
+The motor bearings are worn.
+Contact the local sales and service representative.
+
+Contact the local sales and service representative.
+
+There are foreign objects inside
+the pump.
+
+Impeller rubs on the wear ring
+Contact the local sales and service representative.
+
+Coupling misaligned
+Check the coupling alignment.
+
+Check and replace the relevant parts if there is any sign of wear.
+
+Flexible elements of the coupling
+worn
+
+28
+Series 1710 Installation, Operation, and Maintenance Manual

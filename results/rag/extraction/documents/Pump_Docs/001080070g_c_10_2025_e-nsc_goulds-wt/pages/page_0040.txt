@@ -1,0 +1,212 @@
+fr - Instructions initiales
+
+Cause
+Remède
+
+Cause
+Remède
+
+électrique de comman‐
+de s'est déclenché.
+
+Contacter le représentant
+SAV local.
+
+Vérifier :
+
+Des corps étrangers
+(solides ou fibres) à l'in‐
+térieur de la pompe ont
+coincé la roue.
+
+Le système de protec‐
+tion contre le fonction‐
+nement à sec s'est dé‐
+clenché.
+
+Le débit de la fournitu‐
+re de la pompe est su‐
+périeur aux limites indi‐
+quées sur la plaque si‐
+gnalétique.
+
+Fermer partiellement la
+vanne MARCHE-ARRÊT en
+aval jusqu'à ce que le débit
+de sortie soit égal ou infé‐
+rieur aux limites spécifiées
+sur la plaque signalétique.
+
+• le niveau de liquide
+dans le réservoir ou la
+pression d'alimentation
+du réseau.
+• le dispositif de protec‐
+tion et ses câbles de
+branchement.
+
+Remplacer les fusibles.
+
+FR
+
+Les fusibles de la pom‐
+pe ou les circuits d'ac‐
+cessoires ont grillés.
+
+La pompe est surchar‐
+gée parce qu'elle pom‐
+pe du liquide trop den‐
+se ou trop visqueux.
+
+Vérifier la puissance effec‐
+tive nécessaire en fonction
+des caractéristiques du li‐
+quide pompé et remplacer
+le moteur en conséquen‐
+ce.
+
+7.3  La pompe électrique démarre, mais la
+protection thermique se déclenche ou les
+fusibles grillent juste après
+
+Les roulements du mo‐
+teur sont usés.
+
+Contacter le représentant
+SAV local.
+
+Cause
+Remède
+
+7.6  La pompe électrique démarre, mais la
+protection générale du système est activée
+
+Le câble d'alimenta‐
+tion est endommagé.
+
+Vérifier le câble et le rempla‐
+cer si nécessaire.
+
+Cause
+Remède
+
+Vérifier les composants et
+les remplacer si nécessaire.
+
+Court-circuit électrique. Vérifier le circuit électrique.
+
+La protection thermi‐
+que ou les fusibles ne
+sont pas adaptés au
+courant du moteur.
+
+Le moteur électrique
+est en court-circuit.
+
+Vérifier les composants et
+les remplacer si nécessaire.
+
+7.7  La pompe électrique démarre, mais le
+dispositif différentiel du circuit (RCD) est
+activé
+
+Le moteur est sur‐
+chargé.
+
+Cause
+Remède
+
+Vérifier les conditions de
+fonctionnement de la pom‐
+pe et réinitialiser la protec‐
+tion.
+
+Il y a une fuite à la
+masse (terre).
+
+Vérifier l'isolement des com‐
+posants du circuit électri‐
+que.
+
+7.4  La pompe électrique démarre, mais la
+protection thermique se déclenche ou les
+fusibles grillent peu de temps après
+
+7.8  La pompe fonctionne mais ne fournit que
+trop peu ou pas du tout de liquide
+
+Cause
+Remède
+
+Cause
+Remède
+
+• Purger l'air
+
+Protéger le tableau élec‐
+trique contre les sources
+de chaleur et la lumière
+directe du soleil.
+
+Il y a de l'air à l'inté‐
+rieur de la pompe ou
+de la canalisation.
+
+Le tableau électrique est
+dans une zone excessi‐
+vement chaude ou expo‐
+sée à la lumière directe
+du soleil.
+
+La pompe n'est
+pas amorcée correc‐
+tement.
+
+Arrêter la pompe et répéter la
+procédure d'amorçage.
+Si le problème persiste :
+
+Vérifier les conditions de
+fonctionnement du mo‐
+teur.
+
+La tension d'alimenta‐
+tion n'est pas dans les
+limites de fonctionne‐
+ment du moteur.
+
+Vérifier
+
+Il manque une phase
+d'alimentation.
+
+• Vérifier l'absence de fuite
+sur le joint mécanique.
+• Vérifier la parfaite étan‐
+chéité de la canalisation
+d'aspiration.
+• Remplacer les clapets
+présentant une fuite.
+
+• alimentation électri‐
+que
+• branchement électri‐
+que
+
+Ouvrir la vanne.
+
+La régulation de dé‐
+bit côté sortie est
+trop importante.
+
+7.5  La pompe électrique démarre, mais la
+protection thermique se déclenche après un
+certain temps
+
+Les vannes sont blo‐
+quées en position
+
+Démonter et nettoyer les cla‐
+pets.
+
+36

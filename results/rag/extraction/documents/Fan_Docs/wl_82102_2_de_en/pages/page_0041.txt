@@ -1,0 +1,66 @@
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+63: Outer ring fracture of a deep groove ball bearing in the axial direction as a 
+result of fatigue
+
+3.3.3
+Ring fractures
+3.3.3.1 Fatigue fractures as a result of 
+raceway fatigue
+Symptoms:
+
+Generally large-area fatigue damage
+in the raceway; frequently steps (lines of
+rest) in the fracture area, fig.63
+
+Causes:
+
+Well-advanced fatigue damage
+
+Remedial measures:
+
+See section 3.3.2.1 "Fractures"
+
+3.3.3.2 Axial incipient cracks and 
+through cracks of inner rings
+
+Remedial measures:
+– Improve lubrication (additives, in-
+
+crease oil quantity)
+– Find remedial measure for damage to
+
+– Select suitable fit
+– Avoid grazing of surrounding parts
+– Provide for better seating conditions
+– Special heat treatment for rings
+
+raceway
+
+Symptoms:
+
+64: Axial through crack of a spherical roller bearing's inner ring
+
+Ring partly or completely cracked in
+the axial direction. Fractured edges
+slightly rounded: indicates that the 
+fracture originated during operation and
+was cycled. Sharp-edged crack flanks in-
+dicate that fracture occured during dis-
+mounting. In the case of long periods of
+operation with cracks, the latter's edges
+may be partly broken off, fig. 64.
+
+Causes:
+– Bearing slippage
+– Fractures in the raceway
+– Rotation of inner ring on the shaft
+– Unsuitable lubrication
+– Fit too tight on the shaft
+– Shaft groove
+– Out-of-roundness
+– Grazing against surrounding parts
+
+FAG
+40

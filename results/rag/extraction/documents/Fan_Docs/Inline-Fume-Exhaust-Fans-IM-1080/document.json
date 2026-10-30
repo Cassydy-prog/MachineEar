@@ -1,0 +1,22 @@
+{
+  "document_id": "f1e05c33ae948368be5449e9aec091c1ad7a029cb42f276c7675b18f8278f367",
+  "source_filename": "Inline-Fume-Exhaust-Fans-IM-1080.pdf",
+  "source_relative_path": "Fan_Docs/Inline-Fume-Exhaust-Fans-IM-1080.pdf",
+  "source_sha256": "2732e9b6e06035032c620a7c9929499f69fa057e46ee411df8f9836379025b3f",
+  "document_title": "Inline-Fume-Exhaust-Fans-IM-1080",
+  "machine_type_hint": "fan",
+  "source_type_hint": "installation_operation_maintenance_manual",
+  "applicability": "generic_guidance_equipment_match_unverified",
+  "applicability_verified": false,
+  "page_count": 24,
+  "method_counts": {
+    "native": 24
+  },
+  "ocr_attempted_pages": 0,
+  "blank_pages": 0,
+  "review_pages": [],
+  "character_count": 66890,
+  "document_text_file": "documents/Fan_Docs/Inline-Fume-Exhaust-Fans-IM-1080/document.txt",
+  "searchable_pdf": null,
+  "errors": []
+}

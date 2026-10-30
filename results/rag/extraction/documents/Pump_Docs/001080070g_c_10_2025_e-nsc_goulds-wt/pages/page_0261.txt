@@ -1,0 +1,155 @@
+sl - Prevod izvirnih navodil
+
+biti popolnoma poravnani. Glejte Slika 17 na stra‐
+ni 384.
+8. Enakomerno in do konca privijte matice tie rodov,
+pri čemer se prepričajte, da so navori takšni, kot
+je navedeno v tabeli.
+
+• Cevni sistem podpirajte neodvisno, da ne obre‐
+menjujte enote.
+• Pred priključitvijo na enoto izperite cevni sistem,
+da odstranite morebitne ostanke varjenja, usedli‐
+ne in nečistoče. Po potrebi namestite filter.
+
+Matica
+Navor, Nm (lbf·in)
+
+M12
+60 (44)
+
+POZOR:
+Ostanki varjenja, vodni kamen in druge
+nečistoče v cevovodu lahko poškodujejo
+črpalko.
+
+M16
+120 (89)
+
+M20
+200 (148)
+
+4.3.3  Poravnava spojke
+
+M24
+350 (258)
+
+Odstranjevanje zaščite spojke
+
+M27
+530 (391)
+
+Opomba:
+
+POZOR:
+Črpalka ne sme nikoli delovati brez pra‐
+vilno nameščenega varovala spojke.
+
+• Za osnovne plošče je priporočljivo, da jih zalijete
+z betonom z nizkim krčenjem.
+
+Vrsta zaščite: žična mreža
+Za informacije glejte Slika 18 na strani 386.
+
+Namestite črpalko na osnovni okvir
+
+Preverite, ali so bile upoštevane naslednje točke:
+
+1. Odvijte vijake (2).
+2. Odstranite žično mrežo. (1).
+Vrsta zaščite: pločevina
+Za informacije glejte Slika 19 na strani 388.
+
+1. Odvijte zaporne vijake polovičnih školjk (5).
+2. Odvijte pritrdilne vijake, s katerimi je pritrjena
+zgornja polovična lupina (3).
+3. Odstranite zgornjo polovico zaščite spojke (1).
+4. Odvijte pritrdilne vijake, s katerimi je pritrjena
+spodnja polovična lupina (4).
+5. Odstranite spodnjo polovico zaščite spojke (2).
+6. Odprite in dvignite podporni/nastavljivi obroč (6).
+
+Preverjanje in poravnava spoja
+
+• Trden osnovni okvir, ki se med obratovanjem ne
+zvija ali trese (resonanca).
+• Montažne površine nog črpalke ter motor na os‐
+novnem okvirju morajo biti vodoravno (priporoča‐
+mo strojno obdelavo).
+• Zagotovljena mora biti varna pritrditev črpalke in
+motorja.
+• Med črpalko in gredjo motorja mora biti glede na
+uporabljeno spojko dovolj prostora.
+• Med črpalko in osnovnim okvirjem mora biti us‐
+trezno podložno, tako da lahko v primeru zame‐
+njave prilagodite enako višino med dnom in sre‐
+diščno osjo (priporočena navpična nastavitev je
+4–6 mm).
+
+Zmanjšanje vibracij
+
+OPOMBA:
+Ponovno preverite poravnavo sklopke v vročih delov‐
+nih pogojih.
+
+OPOMBA:
+Prepričajte se, da je sklopko mogoče enostavno roč‐
+no vrteti in da je med zobmi nekaj igranja.
+
+Enota in pretok tekočin v sistemu lahko ustvarita
+vibracije, ki se lahko povečajo, če enota ali cevni
+sistem nista pravilno nameščena: poleg Namestitev
+na betonske temelje na strani 256 Pritrditev črpalke
+na strani 256 Kontrolni seznam sistema cevi na stra‐
+ni 257
+
+Priporočljivo je tudi:
+
+SL
+
+OPOMBA:
+Nepravilna poravnava enote lahko povzroči resne po‐
+škodbe sistema.
+
+• Preverite, ali sta črpalka in motor varno pritrjena
+na podnožje.
+• Med osnovo in temelj vstavite antivibracijski ma‐
+terial.
+• Če ima enota varjeno podlago, napolnite z beto‐
+nom prostore, prikazane v Slika 25 na strani 397.
+
+OPOMBA:
+Če je sklopka nepravilno poravnana, lahko povzroči
+vibracije, kar lahko povzroči prezgodnjo obrabo vrtlji‐
+vih komponent enote.
+
+Preverite poravnavo sklopke enote po naslednjem:
+
+OPOMBA:
+Zloženega podnožja pločevine ne napolnite Slika 26
+na strani 397 z betonom.
+
+4.3.2  Kontrolni seznam sistema cevi
+Preverite, ali so bile upoštevane naslednje točke:
+
+• Prevoz in namestitev
+• Začetni zagon
+• Doseganje delovne temperature.
+Preverite, tudi če je bila enota dobavljena v celoti
+sestavljena na okvirju.
+
+Preverjanje poravnave spojke z ravnilom in
+merilnikom čutila
+
+• V primeru namestitve sesalnega dvigala mora biti
+sesalno cev nagnjena proti enoti, ki presega 2 %,
+da se izognete zračnim žepom.
+• Nazivni premeri cevnega sistema morajo biti vsaj
+enaki nazivnim premerom vrat črpalke.
+
+Za informacije o poravnavi standardne spojke (A) in
+spojke z distančnikom (B) glejte Slika 27 na strani
+397
+1. Odstranite zaščito spojke.
+
+257

@@ -1,0 +1,164 @@
+de - Übersetzung des Originals
+
+HINWEIS:
+
+1. Lösen Sie die Schrauben der Anschlussdosenab‐
+deckung.
+
+2. Verbinden und befestigen Sie die Stromversor‐
+gungskabel gemäß dem anwendbaren Schalt‐
+plan:
+
+Der Schaltplan ist in Abbildung 21 auf Seite 392
+abgebildet. Die Anschlussbelegung ist auch auf
+der Rückseite der Anschlussdosenabdeckung an‐
+gegeben.
+
+a) Schließen Sie den Schutzleiter an.
+
+Stellen Sie sicher, dass der Schutzleiter länger
+ist als die stromführenden Leiter.
+b) Schließen Sie die Phasenleiter an.
+
+DE
+
+3. Bringen Sie die Klemmenboxabdeckung wieder
+an.
+
+• Betreiben Sie die Pumpe nie unter dem vorge‐
+gebenen Mindestdurchfluss, trocken, oder ohne
+Vorfüllung.
+• Betreiben Sie die Pumpe nie länger als einige
+Sekunden mit geschlossenem EIN-AUS-Ventil auf
+der Auslassseite.
+• Betreiben Sie die Pumpe nie mit geschlossenem
+EIN-AUS-Ventil auf der Ansaugseite.
+• Setzen Sie die unbetriebene Pumpe nicht dem
+Frost aus. Lassen Sie alle Flüssigkeit aus der
+Pumpe ab. Wenn Sie vorgenannten Punkt nicht
+beachten, kann das Fördermedium gefrieren und
+so die Pumpe den beschädigen.
+• Die Summe des Drucks auf der Saugseite (Netz,
+Schwerkrafttank) und des maximalen von der
+Pumpe erzeugten Drucks darf den maximalen
+Arbeitsdruck der Pumpe (Nenndruck PN) nicht
+überschreiten.
+• Verwenden Sie die Pumpe nicht, wenn Kavitation
+auftritt. Kavitation kann die internen Komponen‐
+ten beschädigen.
+
+HINWEIS:
+Ziehen Sie die Kabeleinführungen sorgfältig an,
+um das Kabel gegen Verrutschen sowie die Klem‐
+menbox gegen Eindringen von Feuchtigkeit zu
+schützen.
+
+5.1  Füllen der Pumpe
+
+Informationen über zusätzliche Pumpenanschlüsse
+finden Sie in Abbildung 22 auf Seite 392.
+
+4. Wenn der Motor nicht mit einem automatischen,
+rücksetzbaren Thermoschütz ausgestattet ist,
+stellen Sie den Überlastschutz ein wie in der Liste
+unten angegeben.
+
+– Wenn der Motor unter Volllast betrieben wird,
+
+Aufstellung bei einem oberhalb der Pumpe
+befindlichen Flüssigkeitspegel (Förderhöhe)
+
+stellen Sie den Wert auf den Nennwert ein
+(wie auf dem Typenschild angegeben)
+– Wenn der Motor unter Teillast betrieben wird,
+
+Eine Abbildung der Lage der Pumpenstopfen ist in
+Abbildung 23 auf Seite 394 gezeigt.
+
+1. Schließen Sie das Auf-/Zu-Ventil hinter der Pum‐
+pe.
+
+stellen Sie den Wert auf den Betriebsstrom
+ein (wie mit z. B. einer Stromzange gemes‐
+sen).
+– Wenn die Pumpe über ein Stern-Dreieck-An‐
+
+laufschaltung verfügt, stellen Sie das Thermo‐
+relais auf 58 % des Nennstroms oder des Be‐
+triebsstroms ein (nur für Drehstrommotoren).
+
+2. Entfernen Sie den Füllstopfen (3) oder Mano‐
+meteranschlussstopfen (1) und öffnen Sie das
+Auf/Zu-Ventil vor der Pumpe, bis Wasser aus der
+Öffnung austritt.
+
+a) Schließen Sie den Füllstopfen (3) oder Mano‐
+
+meteranschlussstopfen (1).
+
+5  Inbetriebnahme, Start, Betrieb und
+Ausschalten
+
+Vorsichtsmaßnahmen
+
+Aufstellung bei einem unterhalb der Pumpe
+befindlichen Flüssigkeitspegel (Saughöhe)
+
+WARNUNG:
+Physikalische und thermische Gefahren
+
+Eine Abbildung der Lage der Pumpenstopfen ist in
+Abbildung 24 auf Seite 395 gezeigt.
+
+1. Gesamtes Rohrleitungssystem leer:
+
+a) Öffnen Sie das Auf-/Zu-Ventil vor der Pumpe.
+b) Entfernen Sie den Füllstopfen (3) oder Ma‐
+
+• Immer persönliche Schutzausrüstun‐
+gen benutzen.
+• Prüfen Sie, ob der Kupplungsschutz
+installiert ist.
+
+WARNUNG:
+
+nometeranschlussstopfen (1). Füllen Sie die
+Pumpe mit Hilfe eines Trichters über die Füll‐
+öffnung, bis Wasser aus dieser Öffnung fließt.
+c) Ziehen Sie den Füllstopfen (3) oder Manome‐
+
+teranschlussstopfen (1) an.
+
+2. Auslassseitiges Rohrleitungssystem gefüllt:
+
+a) Öffnen Sie das vor der Pumpe befindliche
+
+• Stellen Sie sicher, dass die abgelas‐
+sene Flüssigkeit keine Schäden oder
+Verletzungen verursacht.
+• Die Schutzvorrichtungen des Motors
+können zu einem unerwarteten Anlau‐
+fen des Motors führen. Dies kann zu
+schweren Verletzungen führen.
+
+Auf-/Zu-Ventil und öffnen Sie das hinter der
+Pumpe befindliche Auf-/Zu-Ventil.
+b) Entfernen Sie den Manometeranschlussstop‐
+
+VORSICHT:
+
+fen (1), bis Wasser aus dieser Öffnung fließt.
+c) Ziehen Sie den Manometeranschlussstopfen
+
+(1) fest.
+
+5.2  Prüfung der Drehrichtung eines
+Drehstrommotors
+
+• Die Außenflächen von Pumpe und
+MOTOR erreichen im Betrieb Tempe‐
+raturen von mehr als 40ºC (104ºF).
+• Halten Sie brennbare Materialien von
+der Pumpe fern.
+
+46

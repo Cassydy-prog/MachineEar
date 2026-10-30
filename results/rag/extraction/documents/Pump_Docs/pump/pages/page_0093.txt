@@ -1,0 +1,94 @@
+Section 4. Where To Find Help
+
+system design and analysis, energy savings, 
+troubleshooting, computer software, and 
+applications.
+
+National Technology Transfer, Inc.
+P.O. Box 4558
+Englewood, CO  80155
+Phone: 800-922-2820
+Fax: 800-838-8441
+www.nttinc.com
+
+United States Department of Energy
+Industrial Technologies Program
+1000 Independence Avenue, SW
+Washington, D.C. 20585
+www.eere.energy.gov/industry/bestpractices
+
+National Technology Transfer, Inc., Courses
+National Technology Transfer offers a wide variety 
+of courses related to pumps and pump applications. 
+From a two-day seminar on centrifugal pumps 
+covering theory, selection, design, maintenance, 
+and troubleshooting to a three-day Pneumatic 
+Training course, National Technology Transfer 
+offers courses nationwide for engineers, consul-
+tants, plant and maintenance personnel, and others.
+
+Ross Mackay Associates Ltd.
+240 Portage Rd., Ste. 670
+Lewiston, NY 14092
+Phone: 800-465-6260
+www.rossmackay.com
+
+Pumping System Assessment 
+This one-day training session provides an in-depth 
+discussion of energy efficiency factors for pump-
+ing systems, emphasizing the system as a whole 
+rather than the components. Indicators and 
+symptoms of potential energy reduction oppor-
+tunities are discussed. Application and use of 
+the Pumping System Assessment Tool (PSAT) 
+software is also covered (see Appendix B for 
+a description). The training was developed to 
+introduce users to the software (a CD with the 
+PSAT software is provided) and to provide 
+guidance on field measurement considerations. 
+There are three general elements:
+
+1.	An overview of pump, motor, adjustable 
+speed drive, and fluid system performance 
+characteristics
+2.	Practical issues involved in field 
+measurements of fluid and electrical data
+3.	Use of the PSAT software, including 
+application to real-world situations (case 
+studies).
+
+Mackay Pump School
+The Mackay Pump School is a two-day course 
+covering the integrated areas of system hydraulics, 
+pump mechanics, and seal operation. The course is 
+designed to help operations and maintenance 
+personnel reduce production losses and downtime. 
+Course topics include pump and system curves, 
+NPSH, cavitation, air entrainment, seal problems, 
+shaft deflection, bearing considerations, and piping 
+configurations. A video series from the Mackay 
+Pump School is also available.
+
+Volk & Associates
+3062 Arizona Street
+Oakland, CA 94602
+Phone: 800-733-8655
+
+Qualified Pump System Specialist Training 
+This session covers in two and one-half days 
+the energy efficiency factors addressed in the 
+one-day Pumping System Assessment training 
+described above, as well as case studies and 
+additional instruction on the use of PSAT 
+software. It concludes with a rigorous written 
+exam. Those successfully completing the exam 
+are recognized as Qualified Pump System 
+Specialists.
+
+Pump Training – From an Industry Expert
+This course offered by Michael Volk covers 
+hydraulic principles, pump selection and sizing,
+
+89
+
+A Sourcebook for Industry

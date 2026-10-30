@@ -1,0 +1,161 @@
+hu - Eredeti útmutató
+
+Vegye fel a kapcsolatot a helyi értékesítési és szer‐
+vizképviseletekkel a hosszú ideig tartó tárolással
+kapcsolatos szolgáltatásokra vonatkozó információ‐
+kért.
+
+VESZÉLY:
+NE használja a szivattyút gyúlékony vagy
+robbanásveszélyes folyadék szivattyúzá‐
+sára.
+
+Környezeti hőmérséklet
+
+FIGYELMEZTETÉS:
+
+A terméket -5 °C és +40 °C (23 °F to 104 °F) közötti
+környezeti hőmérsékleten kell tárolni.
+
+3  Termékleírás
+
+• NE használja a szivattyút dörzsölő, szemcsés
+vagy szálas folyadék szivattyúzására.
+• Tilos a szivattyút az adattáblán meghatározott
+szállítási teljesítményt meghaladó teljesítmény‐
+nyel üzemeltetni.
+
+Különleges alkalmazások
+
+Forduljon a helyi kereskedelmi és szervizképviselet‐
+hez az alábbi esetekben:
+
+3.1  A szivattyú felépítése
+A szivattyú egy vízszintes elrendezésű, csigaházas
+szivattyú, amely közvetlenül (tengelykapcsoló nélkül)
+van csatlakoztatva egy szokásos villanymotorhoz.
+A szivattyúval az alábbi fluidumok szállíthatók:
+
+• Hideg vagy meleg víz
+• Tiszta folyadékok
+• Olyan folyadékok, amelyek kémiailag és mechani‐
+kailag nem agresszív hatásúak a szivattyú anyag‐
+aival szemben.
+A termék szivattyúegységként (szivattyú és villany‐
+motor) vagy csak szivattyúként is kapható.
+
+• Ha a szivattyúzott folyadék sűrűsége és/vagy
+viszkozitása meghaladja a vízre vonatkozó érté‐
+ket (pl. a glikolt tartalmazó víz esetében); az ilyen
+esetben ugyanis nagyobb teljesítményű motor
+válhat szükségessé.
+• Ha a szivattyúzott folyadék kémiailag kezelt
+(pl. lágyított, ionmentesített, ásványi anyagoktól
+mentesített stb.)
+• Minden, az itt ismertetettektől eltérő, és a folya‐
+dék jellegével kapcsolatos helyzetben.
+
+3.2  Szivattyú megnevezés
+
+FIGYELMEZTETÉS:
+Ha motor nélküli szivattyút vásárolt, győződjön meg
+arról, hogy a motor csatlakoztatható a szivattyú ten‐
+gelykapcsolójához.
+
+Rendeltetés
+
+Lásd a következő helyen: 2. ábra 351. oldalon a sziv‐
+attyú elnevezési kódjának magyarázatát, és egy pél‐
+dát.
+
+A szivattyú a következők esetében alkalmazható:
+
+• Vízellátás és vízkezelés
+• Hűtő- és melegvíz-szolgáltatás az iparban és
+épületekben
+• Öntöző és tűzvédelmi permetező rendszerek
+• Fűtőrendszerek
+• Tűzvédelmi alkalmazások
+Választható anyag további alkalmazásai:
+
+3.3  Adattábla
+Az adattábla a csapágytartón található. Az adattáb‐
+lán találhatók a termék fontosabb adatai. További
+információkért lásd: 1. ábra 345. oldalon.
+Az adattáblán megtalálhatók a járókerék és a szivat‐
+tyúház anyagára, a mechanikus tömítések és azok
+anyagaira vonatkozó információk. További informá‐
+ciókért lásd: 3. ábra 363. oldalon.
+
+• Távfűtés
+• Általános ipari alkalmazások
+
+HU
+
+IMQ, TUV, IRAM vagy más jelölések (csak
+elektromos szivattyúk esetén)
+
+Nem megfelelő használat
+
+Ha másként nem szerepel, az elektromos biztonsági
+jóváhagyási jellel ellátott termékek esetében a jóvá‐
+hagyás kizárólag az elektromos szivattyúra vonatko‐
+zik.
+
+FIGYELMEZTETÉS:
+A szivattyú nem megfelelő használata
+személyi sérüléseket, a berendezés káro‐
+sodását okozhatja.
+
+A termék mindennemű helytelen használata a jótál‐
+lás elvesztésével jár.
+Példák a nem megfelelő használatra:
+
+3.4  A szivattyú leírása
+• Csatlakozóméretek az EN 733 szerint (a követ‐
+kező modellekhez: 32-125…-200; 40-125…-250;
+50-125…-250; 65-125…-315;80-160…-315;
+100-200…-400; 125-250…-400; 150-315…-400).
+• Csigaházas nyomóterű szivattyú ellenfeszítő csa‐
+págytartóval.
+
+• A szivattyú alkotóelemeinek anyagával össze
+nem egyeztethető folyadékok
+• Veszélyes folyadékok (például mérgező, robbanó
+hatású, gyúlékony, vagy korrozív folyadékok)
+• Víztől eltérő iható folyadékok (pl. bor, tej)
+Példák a nem megfelelő telepítésre:
+
+3.5  Anyag
+A szivattyú folyadékkal érintkezésbe kerülő részei a
+következő anyagokból készülnek:
+
+Anyagkód
+Ház/járókerék
+
+Standard / Vá‐
+
+anyaga
+
+lasztható
+
+CC
+Öntöttvas/
+
+Szabvány
+
+öntöttvas
+
+• Veszélyes helyszínek (például robbanásveszélyes
+vagy korrozív hatású légkör).
+• Az olyan hely, ahol nagyon magas a levegő hő‐
+mérséklete vagy nem megfelelő a szellőzés.
+• Olyan kültéri létesítmények, ahol nincs meg a
+csapadéktól vagy fagypont alatti hőmérséklettől
+való védelem.
+
+CB
+Öntöttvas/bronz
+Szabvány
+
+216

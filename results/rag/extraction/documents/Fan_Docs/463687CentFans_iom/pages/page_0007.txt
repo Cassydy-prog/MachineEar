@@ -1,0 +1,124 @@
+Bases (Foundation and Isolation)
+
+Fan Drainage Piping and Trap Detail  
+(by others)
+
+Critical to every fan installation is a strong, level 
+foundation. A reinforced poured concrete pad with 
+a structural steel base or inertia base provides an 
+excellent foundation. Structural bases must be sturdy 
+enough, with welded construction, to prevent flexing 
+and vibration.
+
+Fans may have been supplied with an optional drain. 
+Drains are located at the underside of the scroll housing. 
+The drain may need to be connected to a drainage 
+system to ensure proper disposal of any water or 
+condensate that may occur.
+
+•	
+Drain connections with and without a plug are 
+1 inch (25.4 mm)
+
+•	
+Installed piping to have a downward angle to allow 
+for drainage.
+
+•	
+Fill traps to recommended level before start-up.
+
+Note:  A conservative method of trap design is to set
+
+To eliminate vibration and noise from being transferred 
+to the building, vibration isolators should be used. The 
+fan is mounted directly on the isolation base and must 
+be supported for the entire length of the fan base angle 
+(Refer to the Centrifugal Fan Isolation Base Assembly 
+Instructions if the base was supplied by manufacturer). 
+Isolators are installed between the isolation base and 
+the foundation.
+
+N = total static pressure.
+Positive Pressure Trap
+
+1.25 inch 
+minimum
+
+Connect 
+this end 
+to fan drain.
+
+N
+
+H/2
+H/2
+H
+
+FAN ON
+FAN OFF
+
+N = Negative fan pressure (inches W.C.)
+H = N - 0.5 inches minimum
+
+After the fan, isolation base, and isolators are installed, 
+the entire assembly 
+must be leveled. 
+Position the level on 
+the isolation base, 
+not the fan shaft, 
+for proper leveling. 
+Additionally, the 
+motor and fan 
+shafts must be 
+level and parallel 
+relative to each 
+other for proper 
+alignment.
+Typical Fan on Isolation Base
+
+Check local codes for proper disposal of drain water 
+which has been in contact with the exhaust air.
+
+CAUTION
+
+Fans used for grease exhaust need to be equipped with 
+a separate grease collector.
+
+Drain Options
+
+•	
+None
+
+•	
+Without plug
+
+When installing a fan, ensure the proper protective 
+devices are used to protect personnel from moving 
+parts and other hazards. A complete line of protective 
+accessories are available from the manufacturer 
+including: inlet guards, outlet guards, belt guards, 
+shaft guards, protective cages and electrical 
+disconnects.
+
+Electrical Disconnects
+
+All fan motors should have disconnects located in 
+close visual proximity to turn off electrical service. 
+Service disconnects shall be locked out when 
+maintenance is being performed.
+
+Moving Parts
+
+All moving parts must have guards to protect 
+personnel. Refer to local codes for requirements as to 
+the number, type and design. Fully secure fan wheel 
+before performing any maintenance. The fan wheel 
+may start “free wheeling” even if all electrical power 
+has been disconnected. Before the initial start-up or 
+any restart, check the guards (belt, shaft, inlet and 
+outlet) and check the access doors to ensure that 
+they are installed and secure.
+
+Industrial Process Fans
+7
+®

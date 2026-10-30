@@ -1,0 +1,160 @@
+Unusual operating behaviour indicating damage
+
+Bearing monitoring with technical devices
+
+2: March of temperature with intact main spindle bearings in a machine tool. 
+Test condition: n · dm = 750 000 min–1 · mm.
+3: March of temperature with disturbed floating bearings. Test condition: n · dm = 750 000 min–1 · mm.
+
+50
+
+50
+
+°C
+
+°C
+
+3
+
+40
+
+40
+
+1
+2
+
+1
+2
+3
+
+4
+
+30
+
+30
+
+4
+5
+
+5
+
+Temper-
+
+Temper-
+
+ature
+
+ature
+
+20
+
+20
+
+10
+
+10
+0
+1
+2
+h
+
+Life
+
+1
+2
+3
+4
+5
+Life
+0
+1
+2
+h
+
+1
+2
+3
+4
+5
+
+2
+3
+
+– Monitoring lubricant supply
+
+A very reliable and relatively easy way of
+recognising damage caused by inade-
+quate lubrication is by measuring the
+temperature.
+
+• oil level window
+• measuring oil pressure
+• measuring oil flow
+
+4: March of temperature as a function
+of time with failing grease lubrica-
+tion. Test condition: 
+n · dm = 200 000 min–1 · mm.
+
+– Measuring abraded matter in
+
+Normal temperature behaviour:
+– reaching a steady state temperature in
+
+stationary operation, fig. 2.
+
+80
+
+°C
+
+Disturbed behaviour:
+– sudden rise in temperature caused by
+
+60
+
+lack of lubricant or by the occurrence
+of excessive radial or axial preload on
+the bearings, fig. 3.
+– uneven march of temperature with
+
+Temper-
+
+ature
+
+lubricant
+• at intervals
+magnetic plug
+spectral analysis of lubricant 
+samples
+inspection of oil samples in the lab
+• continuously
+magnetic signal transmitter
+finding amount of particles flowing
+through with an online particle 
+counter
+
+40
+
+maximum values tending to rise due
+to general deterioration of lubrica-
+tion condition , e.g. with attained
+grease service life, fig. 4.
+
+– Measuring temperature
+
+• generally with thermocouples
+
+0
+
+2
+4
+
+h
+Time
+
+Measuring the temperature is not 
+suitable, however, to register local 
+damage at an early stage, e.g. fatigue.
+
+5
+FAG

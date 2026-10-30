@@ -1,0 +1,210 @@
+ro - Traducerea originalului
+
+Cauză
+Remediu
+
+Verificarea garniturilor de
+etanșare ale rulmenților
+
+Nu există alimentare
+electrică.
+
+Verificați așezarea corec‐
+tă a inelelor de etanșare
+axiale mont. pe ax. Se
+va stabili doar un contact
+ușor cu buza de etanșa‐
+re.
+
+• Restabiliţi sursa de ali‐
+mentare.
+• Asiguraţi-vă că toate co‐
+nexiunile electrice la sur‐
+sa de alimentare sunt in‐
+tacte.
+
+Verificarea funcţionării
+silenţioase
+
+Verificaţi frecvent func‐
+ţionarea silenţioasă a
+pompei cu instrumente
+de măsurare a vibraţiilor.
+
+Aşteptaţi până când pompa
+se răceşte. Protecţia termi‐
+că se va reseta automat.
+
+S-a declanşat protec‐
+ţia termică încorpora‐
+tă în pompă (dacă
+există).
+
+Resetaţi protecţia termică.
+
+6.3  Dezasamblarea și înlocuirea
+componentelor pompei
+Pentru mai multe informaţii privind piesele de
+schimb, asamblarea şi dezasamblarea pompei, con‐
+tactaţi reprezentatul local de vânzări şi service.
+
+S-a declanşat releul
+termic sau disjuncto‐
+rul motorului din pa‐
+noul de control elec‐
+tric.
+
+Verificaţi:
+
+7  Depanarea
+
+7.1  Depanare pentru utilizator
+
+S-a declanşat dispozi‐
+tivul de protecţie îm‐
+potriva funcţionării în
+gol.
+
+Întrerupătorul principal este pornit, dar pompa elec‐
+trică nu porneşte.
+
+• nivelul lichidului din re‐
+zervor sau presiunea de
+reţea.
+• dispozitivul de protecţie
+şi cablurile conectoare.
+
+Înlocuiţi siguranţele.
+
+Cauză
+Remediu
+
+S-au ars siguranţele
+pentru circuitele auxi‐
+liare sau de pompă.
+
+S-a declanşat protecţia
+termică încorporată în
+pompă (dacă există).
+
+Aşteptaţi până când pom‐
+pa se răceşte. Protecţia
+termică se va reseta auto‐
+mat.
+
+7.3  Pompa electrică porneşte, dar se
+declanşează protecţia termică sau sar
+siguranţele imediat după aceea
+
+S-a declanşat dispoziti‐
+vul de protecţie împotri‐
+va funcţionării în gol.
+
+Verificaţi nivelul lichidului
+din rezervor sau presiu‐
+nea de reţea.
+
+Cauză
+Remediu
+
+Pompa elecctrică porneşte, dar protecţia termică se
+declanşează după aceea la intervale neregulate.
+
+Verificaţi cablul şi înlocuiţi
+dacă este necesar.
+
+Cablul sursei de ali‐
+mentare este deterio‐
+rat.
+
+Cauză
+Remediu
+
+Verificaţi componentele şi în‐
+locuiţi dacă este necesar.
+
+Contactaţi Departamentul
+de vânzări şi servicii.
+
+Protecţia termică
+sau siguranţele nu
+sunt adecvate pentru
+curentul motorului.
+
+RO
+
+Există corpuri străine
+(substanţe solide sau
+fibroase) în interiorul
+pompei care au blocat
+rotorul.
+
+Motorul electric este
+în scurtcircuit.
+
+Verificaţi componentele şi în‐
+locuiţi dacă este necesar.
+
+Motorul se supraîn‐
+carcă.
+
+Verificaţi condiţiile de ex‐
+ploatare ale pompei şi rese‐
+taţi dispozitivul de protecţie.
+
+Pompa este în su‐
+prasarcină deoarece
+pompează lichid mai
+dens şi mai vâscos.
+
+Verificaţi cerinţele de ali‐
+mentare electrică efective
+în funcţie de caracteristicile
+lichidului de pompă şi apoi
+contactaţi Departamentul
+de vânzări şi servicii.
+
+7.4  Pompa electrică porneşte, dar se
+declanşează protecţia termică sau sar
+siguranţele la scurt timp după aceea
+
+Pompa funcţionează, dar livrează prea puţin lichid
+sau deloc.
+
+Cauză
+Remediu
+
+Cauză
+Remediu
+
+Pompa este înfun‐
+dată.
+
+Contactaţi Departamentul de
+vânzări şi servicii.
+
+Panoul electric este si‐
+tuat într-o zonă supraîn‐
+călzită sau este expus
+luminii solare directe.
+
+Protejaţi panoul electric
+împotriva surselor de căl‐
+dură şi a luminii solare di‐
+recte.
+
+Instrucţiunile de depanare din tabelul de mai jos se
+adresează numai instalatorilor.
+
+Verificaţi condiţiile de ex‐
+ploatare ale motorului.
+
+Tensiunea sursei de
+alimentare nu se înca‐
+drează limitelor de lu‐
+cru ale motorului.
+
+7.2  Întrerupătorul principal este pornit, dar
+pompa electrică nu porneşte
+
+236

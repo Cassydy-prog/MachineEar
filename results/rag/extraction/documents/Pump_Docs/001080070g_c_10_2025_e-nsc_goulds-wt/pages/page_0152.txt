@@ -1,0 +1,173 @@
+et - Originaali tõlkimine
+
+ja hoolduseks imitorustikule ja survetorustikule
+(tagasilöögiklapi suhtes allavoolu).
+• Tagasivoolu tõkestamiseks paigaldatakse surve‐
+torustikule tagasilöögiklapp, kui pump on välja
+lülitatud.
+
+• Juhtpaneelil peab olema kuivkäidu kaitsesüs‐
+teem, millega on ühendatud rõhulüliti, hõljuklüliti,
+sondid või teised sobivad seadmed.
+• Pumba imipoolel on soovitatav kasutada järgmisi
+seadmeid:
+
+– rõhulüliti, kui vedelik pumbatakse vedeliku‐
+
+süsteemist;
+– ujukanduriga lüliti või andurid, kui vedelik
+
+pumbatakse hoiumahutist või -paagist;
+• faasirikke suhtes tundlikud releed, kui kasutatak‐
+se termoreleed.
+
+Mootori kontrollkaart
+
+HOIATUS:
+Ärge kasutage väljalaskeküljel sule‐
+tud sulgeklappi pumbavoo piiramiseks
+kauem kui mõni sekund. Kui pump
+peab töötama suletud väljelaskeküljega
+kauem kui mõni sekund, peab pumba
+sees oleva vedeliku ülekuumenemise väl‐
+timiseks paigaldama möödavoolu.
+
+HOIATUS:
+
+Torustikunõudeid puudutavad joonised leiate siit:
+Joonis 13 leheküljel 380 ja Joonis 14 leheküljel 380.
+
+4.2  Elektrinõuded
+
+• Kohalikud kehtivad eeskirjad on nimetatud nõue‐
+test üle.
+• Tuletõrjesüsteemide (hüdrandid ja/või vihmutid)
+korral kontrollige kohalikke kehtivaid eeskirju.
+
+• Lugege kasutusjuhendit veendumaks,
+et kaitseseadet pakutakse ka mitte‐
+standardse mootori kasutamise pu‐
+hul.
+• Kui mootor on varustatud automaat‐
+sete termokaitsmetega, ärge unusta‐
+ge võimalikke ülekoormusest tingitud
+ootamatuid käivitumisi. Ärge kasuta‐
+ge selliseid mootoreid tuletõrjeraken‐
+dusteks.
+
+Elektriühenduste nimekiri
+
+Veenduge, et järgmised tingimused on täidetud.
+
+MÄRKUS:
+
+• Elektrijuhtmed on kaitstud kõrgete temperatuuri‐
+de, vibratsioonide ja põrkumiste eest.
+• Toiteallikal on kaasas:
+– lühise kaitseseade;
+– vooluvõrgu isoleerlüliti vähemalt 3 mm kon‐
+
+taktivahega.
+
+ET
+
+• Kasutage ainult dünaamiliselt tasakaalustatud
+mootoreid, mille võllipikenduses (IEC 60034-14)
+on poole väiksem kiil ning millel on tavaline võn‐
+kesagedus (N).
+• Võrgupinge ja -sagedus peavad vastama andme‐
+sildil esitatud tehnilistele nõuetele.
+
+Elektrilise juhtpaneeli kontrollkaart
+
+Üldiselt toimivad mootorid järgmiste võrgupinge to‐
+lerantsidel.
+
+Sagedus Hz
+Faas ~
+UN [V] ± %
+
+MÄRKUS:
+Juhtpaneeli nimiandmed peavad vastama elektri‐
+pumba nimiandmetele. Sobimatud ühendused ei
+pruugi mootorikaitset tagada.
+
+50
+1
+220–240 ± 6
+
+Veenduge, et järgmised tingimused on täidetud.
+
+3
+230/400 ± 10
+
+400/690 ± 10
+
+60
+1
+220–230 ± 6
+
+• Juhtpaneel peab kaitsma mootorit ülekoormuse
+ja lühiühenduse eest.
+• Paigaldage õige ülekoormuskaitse (termorelee
+või mootorikaitse).
+
+3
+220/380 ± 5
+
+Pumba tüüp
+Kaitse
+
+380/660 ± 10
+
+– Sisseehitatud au‐
+
+Ühefaasiline standard‐
+ne elektripump ≤ 2,2
+kW
+
+Kasutage kaableid eeskirjade järgi: 3 juhet (2 +
+maandus) ühefaasiliste versioonide ja 4 juhet (3 +
+maandus) kolmefaasilise versiooni jaoks.
+
+4.3  Pumba paigaldamine
+
+tomaatne lähtesta‐
+tud soojusampero‐
+meetriline kaitse
+(mootorikaitse)
+– Lühisekaitse (peab
+
+4.3.1  Mehhaaniline paigaldus
+
+olema paigaldaja
+tarnitud)25
+
+Paigaldusala
+
+Kolmefaasiline elektri‐
+pump26
+– Termokaitse (peab
+
+olema paigaldaja
+tarnitud)
+– Lühisekaitse (peab
+
+Paigaldage seade betoonist või metallist vundamen‐
+dile, mis on piisavalt tugev püsiva ja jäiga toe taga‐
+miseks. Järgige jaotises Pumba asukoht leheküljel
+147 olevaid nõudeid.
+
+olema paigaldaja
+tarnitud)
+
+Betoonvundamendi paigaldamine
+
+25
+aM-i kaitsmed (mootorikäivitus) või magnetotermiline lüliti C-kurvi ja Icn’iga ≥ 4,5 kA või muu ekvivalent‐
+se seadmega.
+26
+Ülekoormuse soojusrelee klassiga 10A + aM-i kaitsmed (mootorikäivitus) või mootorikaitse magnetoter‐
+miline lüliti klassiga 10A.
+
+148

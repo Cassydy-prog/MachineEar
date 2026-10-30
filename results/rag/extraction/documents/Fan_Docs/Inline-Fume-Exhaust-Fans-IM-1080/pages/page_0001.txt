@@ -1,0 +1,64 @@
+Inline Fume Exhaust Fans
+IM-1080
+
+January 2025
+
+Installation, Operation & Maintenance Manual
+
+TFE and QFE
+QIFE
+TVIFE
+
+REVIEW AMCA BULLETIN 410 PRIOR TO INSTALLATION
+
+This manual has been prepared to guide the users of inline fume exhaust fans in the proper installation, operation and maintenance 
+procedures to ensure maximum equipment life with trouble-free operation. For safe installation, start-up and operational life of this 
+equipment, it is important that all involved with the equipment be well versed in proper fan safety practices and read this manual. 
+It is the user’s responsibility to make sure that all requirements of good safety practices and any applicable safety codes are strictly 
+adhered to. Because of the wide variety of equipment covered in this manual, the instructions given here are general in nature. 
+Additional product and engineering information is available at www.tcf.com.
+
+SAFETY NOTICE
+
+Refer to the safety section(s) in this manual prior to installing or servicing the fan. The most current version of this installation and maintenance 
+manual can be found on our website at www.tcf.com/resources/im-manuals.
+
+Table of Contents
+
+Exploded View..............................................................................2
+Impeller Nomenclature & Type....................................................2
+Receiving, Inspection & Unpacking..............................................3
+Safety & Hazard Warnings............................................................3
+Unit Storage..................................................................................4
+Handling........................................................................................5
+General Installation......................................................................6
+Roof Curb Installation...................................................................6
+Fan Installation..............................................................................7
+Mixing Plenum Box Assembly and Installation............................8
+Fan Installation with Curb Cap Only.............................................8
+Fan and Windband Installation....................................................9
+Fan Housing Installation...............................................................9
+Stack Extension Installation..........................................................9
+Windband Installation................................................................10
+Drain Connection/Installation....................................................10
+Water Mitigation........................................................................11
+Damper and Actuator Installation..............................................11
+
+Electrical Connection..................................................................11
+Bearing Installation.....................................................................12
+Safety & Bearing Lubrication Instructions..................................12
+Drive Mounting...........................................................................13
+Serial Number & Fan Type Nameplate.......................................13
+Check, Test & Start Procedure....................................................14
+Impeller Placement....................................................................14
+Maintenance......................................................................... 15-16
+Motor Maintenance...................................................................16
+Fan Bearing Maintenance...........................................................17
+Impeller and Shaft Maintenance................................................17
+Structural Maintenance..............................................................17
+Duct Connections.......................................................................17
+Drive Maintenance.....................................................................18
+Motor Change-Out and Jib Crane...............................................18
+Troubleshooting Guidelines.................................................. 19-20
+Installation / Start-up Checklist..................................................21
+Fan Maintenance Log.................................................................22

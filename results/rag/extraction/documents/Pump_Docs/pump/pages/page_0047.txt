@@ -1,0 +1,99 @@
+8. Multiple Pump Arrangements
+
+Multiple Pump Arrangements
+
+Related Tip Sheet
+
+An alternative to using one pump to serve the 
+requirements of a system is to use several smaller 
+pumps in combination (parallel operation).
+
+Related information is available in an ITP 
+BestPractices Tip Sheet titled Optimize Parallel 
+Pumping Systems. Tip sheets can be found in 
+Appendix C, accessed on the Web at www.
+eere.energy.gov/industry/bestpractices, or 
+obtained by contacting the EERE Information 
+Center at 877-337-3463.
+
+Wide variations in system demand preclude a 
+single pump from consistently operating close to 
+its best efficiency point (BEP). Operating a pump 
+away from its BEP can result in higher operating 
+and maintenance costs. In some systems, espe-
+cially those with high static head requirements, 
+energizing or de-energizing multiple pumps to 
+meet demand changes allows each pump to 
+operate more efficiently, improving overall system 
+efficiency. However, this efficiency advantage 
+depends on the pump curves, the system curve, 
+and the demand change that is being met.
+
+Some of the advantages of multiple pump arrange-
+ments are flexibility, redundancy, and the ability to 
+meet changing flow needs efficiently in systems 
+with high static head components. In systems with 
+high-friction components, alternatives such as 
+adjustable speed motors tend to be more efficient 
+solutions to variable demand requirements.
+
+Multiple pumps are usually parallel combinations 
+of the same pump model. Placing an additional 
+pump on line adds flow to the system and shifts 
+the operating point to the right along the system 
+curve (see Figure 14 on page 44).
+
+Every centrifugal pump has a BEP—the point at 
+which its operating efficiency is highest and its 
+radial bearing loads are lowest. A pump’s BEP is a 
+function of its inlet configuration, impeller design, 
+casing design, and pump speed. At the BEP, the 
+hydraulic efficiency is at its maximum, and the 
+liquid enters the impeller vanes, casing diffuser 
+(discharge nozzle), or vaned diffuser in a 
+shockless manner. Flow through the impeller and 
+diffuser vanes (if the pump is so equipped) is 
+uniform, free of separation, and well controlled. 
+The flow remains well controlled within a range 
+of capacities designated as the preferred 
+operating region (POR). Within this region, the 
+service life of the pump will not be affected 
+significantly by hydraulic loads, vibration, or flow 
+separation. The allowable operating region 
+(AOR) defines the precise limits for minimum and 
+maximum flow in a pump.
+
+Most centrifugal pumps are equipped with roller 
+or ball bearings. Since the operating life of these 
+types of bearings is an inverse function of the 
+cube of the load, selecting a pump with a BEP that 
+is close to the system’s normal operating range 
+significantly extends the interval between bearing 
+replacements.
+
+Parallel pumps are usually identical, to provide 
+balanced load-sharing when all the pumps are 
+operating at the same time. Using different-sized 
+pumps could result in a condition in which the 
+largest pump dominates the system, forcing other 
+pumps to operate below their minimum flow 
+ratings. If different-sized pumps must be config-
+ured in parallel, their performance curves should 
+be carefully reviewed to ensure that no pump 
+operates below its minimum flow requirement.
+
+ Best Efficiency Point 
+Design characteristics for both performance 
+and service life are optimized around a capacity 
+designated as the best efficiency point (BEP).
+
+ Advantages of Multiple Pump Arrangements
+There are many advantages to using combinations 
+of smaller pumps rather than a single large one. 
+These advantages include operating flexibility, 
+redundancy in case of a pump failure, lower 
+maintenance requirements, and higher efficiency.
+
+43
+
+A Sourcebook for Industry

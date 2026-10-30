@@ -1,0 +1,54 @@
+Maintenance time table
+
+Every Month
+
+Check bearing temperature with a thermometer, not by hand. If bearings are 
+running hot (over 180°), it may be the result of too much lubricant. If changing the 
+lubricant does not correct the condition, disassemble and inspect the bearings.
+
+Every 3 Months
+
+Check grease lubricated bearings for saponification. This condition is usually 
+incurred by the infiltration of water or other fluid past the bearing shaft seals and can 
+be noticed immediately upon inspection, since it gives the grease a whitish color. 
+Wash out the bearings with a clean industrial solvent and replace the grease with the 
+proper type as recommended.
+
+Check the packing and replace if necessary. Use the grade recommended. Be sure 
+the seal cages are centered in the stuffing box at the entrance of the stuffing box 
+piping connection.
+
+Check shaft or shaft sleeve for scoring. Scoring accelerates packing wear.
+
+Every 6 Months
+
+Check alignment of pump and motor. Shim up units if necessary. If misalignment 
+recurs frequently, inspect the entire piping system. Unbolt piping at suction and 
+discharge flanges to see if it springs away, thereby indicating strain on the casing. 
+Inspect all piping supports for soundness and effective support of load.
+
+Remove the rotating element. Inspect thoroughly for wear, and order replacement 
+parts if necessary.
+
+Check wearing clearances.
+
+Remove any deposit or scaling. Clean out stuffing box piping.
+
+Every Year
+
+Measure total dynamic suction and discharge head as a test of pipe connection. 
+Record the figures and compare them with the figures of the last test. This is 
+important especially where the fluid being pumped tends to form a deposit on 
+internal surfaces. Inspect foot valves and check valves, especially the check valve 
+which safeguards against water hammer when the pump stops. A faulty foot or 
+check valve will reflect also in poor performance of the pump while in operation.
+
+Xylem, Inc.
+2881 East Bayard Street Ext., Suite A
+Seneca Falls, NY 13148
+Phone: (800) 453-6777 
+Fax: (888) 322-5877
+www.xylem.com/gouldswatertechnology
+
+Goulds is a registered trademark of Goulds Pumps, Inc. and is used under 
+license. © 2019 Xylem, Inc.   P2002569B   February 2019

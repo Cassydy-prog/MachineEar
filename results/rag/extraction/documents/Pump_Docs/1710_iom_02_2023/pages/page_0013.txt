@@ -1,0 +1,59 @@
+3  Product Description
+
+3  Product Description
+
+3.1  General description
+
+1710 Series is foot mounted, single stage and end suction pump with back pull-out design
+and is in accordance with the international standard ISO 2858.
+It comes in frame mounted series applicable for flexible coupling (optional Flexible spacer
+coupling) and Stub shaft coupling. Bare shaft option to be coupled to any standard IEC
+motor to substitute an existing ISO 2858 pump.
+
+3.2  Pump application
+
+Designed for non-combustible, low viscosity liquids, free of solids, abrasive materials, and
+fibers. Different chemical compositions are capable of being pumped by using different
+construction and seal options.
+This highly efficient and flexible design makes the 1710 Series pump ideal for a wide range
+of pumping applications, including non-listed fire pump, HVAC, Industrial secondary process,
+Water transfer and more.
+Operating conditions:
+
+• Flowrate: max 2100 m³/h
+• Pump head: max 160 m
+• Fluid temp: -15°C to 120°C
+• Max rating: 355 kW
+For other applications, contact your local sales and service representative.
+
+Improper use
+
+WARNING:
+Improper use of the pump may create dangerous conditions and cause personal injury and
+damage to property.
+
+An improper use of the product leads to the loss of the warranty.
+Examples of improper use:
+
+• Liquids not compatible with the pump construction materials
+• Hazardous liquids (such as toxic, explosive, flammable, or corrosive liquids)
+• Potable liquids other than water (for example, wine or milk)
+Examples of improper installation:
+
+• Hazardous locations (such as explosive, or corrosive atmospheres).
+• Location where the air temperature is very high or there is poor ventilation.
+• Outdoor installations where there is no protection against rain or freezing temperatures.
+
+DANGER:
+Do not use this pump to handle flammable and/or explosive liquids.
+
+NOTICE:
+
+• Do not use the pump for flow rates beyond the specified flow rates on the data plate.
+
+Special applications
+
+Contact the local sales and service representative in the following cases:
+
+Series 1710 Installation, Operation, and Maintenance Manual
+11

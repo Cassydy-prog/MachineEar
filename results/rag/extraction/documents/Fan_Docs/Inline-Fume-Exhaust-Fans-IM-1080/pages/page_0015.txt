@@ -1,0 +1,89 @@
+IM-1080
+
+CAUTION
+
+1.	 Sharp edges and screws are a potential injury hazard. Avoid 
+them.
+2.	 Greases of different soap bases (lithium, sodium, etc.) may 
+not be compatible when mixed. Prevent such intermixing by 
+completely purging the bearing of old greases.
+
+Maintenance (refer to safety section)
+Installation and maintenance are to be performed only by 
+qualified personnel who are familiar with local codes and 
+regulations and experienced with this type of equipment. 
+Preventive maintenance is the best way to avoid unnecessary 
+expense and inconvenience. Start-up and routine maintenance 
+should cover the following items:
+a.	 Tighten all set screws, bolts and wire connections.
+
+b.	 Check belt tension and sheaves for wear.
+
+c.	 Lubricate fan bearings (see tables below).
+
+WARNING
+
+d.	 Cleaning of unit, impeller and damper (if present).
+
+Hazardous moving parts. Unit may contain protected fan motor 
+that may start automatically and cause injury. Allow time for 
+reset. Disconnect power before servicing.
+
+All motors containing ball bearings are permanently 
+lubricated from the factory. No additional maintenance is 
+required.
+
+Suggested Fan Bearing Greasing Intervals
+Grease Manufacturers
+
+MANUFACTURER
+GREASE (NLGI #2)
+
+INTERVAL
+(MONTHS)
+TYPE OF SERVICE
+
+Shell
+Gadus S2 V100 2 or equivalent
+
+Exxon/Mobil
+Ronex MP
+
+12 to 18
+Infrequent operation or light duty in clean atmosphere.
+6 to 12
+8 to 16 hrs./day in clean, relatively dry atmosphere.
+3 to 6
+12 to 24 hrs./day, heavy duty or if moisture is present.
+
+1 to 3
+Heavy duty in dirty, dusty locations; high ambient 
+temperatures; moisture laden atmosphere; vibration.
+
+1.	 Before performing any maintenance on the fan, be sure power is turned off and locked in the OFF position at the service entrance.
+2.	 Ventilators should be carefully checked at least once a year. For critical or rugged applications, a routine check every two or three 
+months is suggested.
+3.	 All motors supplied with Twin City Fan ventilators carry a one-year limited warranty from date of shipment. For repairs within the 
+warranty period, the motor must be taken to the motor manufacturer’s authorized service dealer. Contact your representative for 
+additional warranty details.
+4.	 A periodic motor check should consist of spinning the motor shaft with the power off to be sure the motor turns freely and the 
+bearings run smoothly. The belt on belt driven units should be removed from the motor sheave.
+5.	 When removing or installing a belt, do not force the belt over the sheave. Loosen the motor mount so that the belt can be easily 
+slipped over the sheave.
+6.	 The belt on belt driven units should be removed and carefully checked for glazing, cracks, ply separation or irregular wear. A small 
+irregularity in the contact surface of the belt will result in noisy operation. If any of these defects are apparent, the belt should be 
+replaced. Check the sheaves also for chipping, dents or rough surfaces that could damage the belt.
+7.	 The correct belt tension is important. Too tight of a belt will result in excess bearing pressure on the motor bearings and shaft 
+pillow blocks and may also overload the motor. Too loose of a belt will result in slippage, which will quickly “burn” out belts. A 
+belt should feel “live” when thumped, approximately 1⁄4" belt deflection (3 to 5 lb.) when subject to finger pressure at midpoint 
+between sheaves.
+8.	 The belt alignment should also be checked to be sure the belt is running perpendicularly to the rotating shafts. Fan and motor 
+shafts must be parallel. Improper alignment will result in excessive belt wear.
+9.	 Check sheave set screws to ensure tightness. Proper keys must be in keyways.
+10.	Do not readjust fan RPM. If sheaves are replaced, use only sheaves of identical size and type.
+11.	If unit is to be left idle for an extended period, it is recommended that belts be removed and stored in a cool, dry place to avoid 
+premature belt failure.
+
+15
+
+Installation, Operation & Maintenance Manual

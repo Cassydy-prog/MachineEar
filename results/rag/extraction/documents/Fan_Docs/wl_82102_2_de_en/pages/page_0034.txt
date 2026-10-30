@@ -1,0 +1,96 @@
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+• Fatigue as a result of wear
+
+• Fatigue due to fracture in case layer
+
+Symptoms:
+
+Symptoms:
+
+Local flaking, e.g. on the rolling ele-
+ments of tapered roller bearing, figs. 51
+and 52. Striped track, fig. 68.
+
+Remedial measures:
+– Replace lubricant on time
+– Filter lubricating oil
+– Improve sealing
+– Replace worn seals on time
+– Special heat treatment for rings and
+
+rollers
+
+Causes:
+
+Raceway peeling in thick chunks in
+the case of case-hardened bearing parts.
+Causes:
+– Fracture or separation of case layer
+– Load too high or case layer thickness
+
+too thin for given load, e.g. due to
+wrong design load 
+Remedial measures:
+- Adjust thickness of case layer to suit
+
+load conditions
+- Avoid overloading
+
+Change in geometry of components
+in rolling contact due to wear in the case
+of contaminated lubricant, for example
+due to the penetration of foreign par-
+ticles when sealing is damaged. Local
+overload results, partly in connection
+also with insufficient adjustment of 
+tapered roller bearings.
+
+25
+
+µm
+
+20
+
+15
+
+10
+
+5
+
+0
+0
+
+1
+
+4
+
+2
+3
+5
+6
+7
+8
+9
+10
+11
+mm
+
+a
+
+b
+
+52: Failure mechanism as in fig. 51 but
+with wear of the raceway edges,
+cross profile of the roller see fig. 69.
+
+51: Wear in diverse areas can change the geometry of the components in rolling
+contact to such an extent that local overload leads to fatigue
+a:
+Cross profile of a roller;
+b: Inner ring raceway and roller with fatigue damage.
+
+33
+FAG

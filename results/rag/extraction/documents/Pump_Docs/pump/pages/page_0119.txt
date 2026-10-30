@@ -1,0 +1,66 @@
+Appendix C: Pumping Systems Tip Sheet Number 9
+
+Background
+
+Reduce Pumping Costs through Optimum 
+Pipe Sizing
+
+Every industrial facility has a 
+piping network that carries water 
+or other fluids. According to the 
+U.S. Department of Energy 
+(DOE), 16% of a typical facility’s 
+electricity costs are for its pump­
+ing systems.
+
+The power consumed to overcome the static head in a pumping system varies linearly 
+with flow, and very little can be done to reduce the static component of the system 
+requirement. However, there are several energy- and money-saving opportunities to 
+reduce the power required to overcome the friction component.
+
+The frictional power required depends on flow rate, pipe size (diameter), overall pipe 
+length, pipe characteristics (surface roughness, material, etc.), and properties of the 
+fluid being pumped. Figure 1 shows the annual water pumping cost (frictional power 
+only) for 1,000 feet of pipe length for different pipe sizes and flow rates.
+
+Figure 1. Annual water pumping cost for 1,000 feet of pipe of different sizes
+
+References
+Xenergy Inc., United States Industrial 
+Motor Systems Market Opportunities 
+Assessment, prepared for DOE, 
+December 1998. 
+Piping Handbook, Mohinder K. 
+Nayyar, McGraw-Hill Publications, 
+New York, 1998.
+Engineering Data Book, Hydraulic 
+Institute, Second Edition, New Jersey, 
+1990.
+
+Based on 1,000 ft for clean iron and steel pipes (schedule 40) for pumping 70°F water. Electricity rate—5¢ per kWh and 
+8,760 operating hours annually. Combined pump and motor efficiency—70%.
+
+ Example
+A pumping facility has 10,000 feet of piping to carry 600 gallons per minute (gpm) of 
+water continuously to storage tanks. Determine the annual pumping costs associated 
+with different pipe sizes.
+
+From Figure 1, for 600 gpm:
+
+6-inch pipe: 	($1,690/1,000 feet) x 10,000 feet  =	 $16,900
+
+8-inch pipe: 	
+($425/1,000 feet) x 10,000 feet  =	 $  4,250
+
+10-inch pipe: 	 ($140/1,000 feet) x 10,000 feet  =	 $  1,400
+
+After the energy costs are calculated, the installation and maintenance costs should be 
+calculated for each pipe size. Although the up-front cost of a larger pipe may be 
+higher, it may still provide the most cost-effective solution because it will greatly 
+reduce the initial pump and operating costs.
+
+DOE/GO-102005-2071 • October 2005 • Pumping Systems Tip Sheet #9
+
+115
+
+A Sourcebook for Industry

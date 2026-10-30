@@ -1,0 +1,172 @@
+lv - Oriģinālās instrukcijas
+
+Motora kontrolsaraksts
+
+Sūkņa labošana
+
+BRĪDINĀJUMS:
+
+Horizontālās un vertikālās uzstādīšanas piemērus
+skatiet šeit: Attēls 15 383 lappusē.
+
+1. Tehniskajā katalogā skatīt:
+– Pamata caurumu diametru un skaitu
+– Caurumu attālumus
+– Aprēķiniet savienotājstieņa ar ķīmiskajiem en‐
+
+• Izlasiet lietošanas instrukcijas, lai no‐
+drošinātu, ka aizsardzības ierīce at‐
+bilst, ja tiek izmantots nestandarta
+motors.
+• Ja motors ir aprīkots ar automāti‐
+skās termoaizsardzības ierīcēm, ņe‐
+miet vērā pārslodzes risku negaidītas
+palaides rezultātā. Neizmantojiet šā‐
+dus motorus ugunsdzēsības aprīkoju‐
+mam.
+
+PAZIŅOJUMS:
+
+• Izmantojiet tikai dinamiski sabalansētus motorus
+ar pusizmēra lieluma atslēgu vārpstas pagarinā‐
+jumā (IEC 60034-14) un standarta vibrācijas koe‐
+ficientu (N).
+• Elektrolīnijas spriegumam un frekvencei ir jāat‐
+bilst tehnisko datu plāksnē norādītajiem parame‐
+triem.
+
+Vispārējos vilcienos - motori spēj darboties šādu
+maiņstrāvas tīkla parametru pielaižu robežās:
+
+Frekvence Hz
+Fāze ~
+UN [V] ± %
+
+50
+1
+220–240 ± 6
+
+kuriem izmēru un daudzumu atkarībā no ie‐
+kārtas modeļa.
+2. Izurbiet pamatu un nostipriniet savienotājstieņus.
+3. Novietojiet iekārtu uz pamata un izmanojiet izplū‐
+des pieslēgvietā un vārpstā līmeņrādi, lai pārlieci‐
+nātos kā iekārta ir uz līdzena pamata.
+Maksimālā atļautā pielaide: 0,2 mm/m.
+4. Ja tādi ir, noņemiet uzmavas, kas sedz iesūkša‐
+nas un izplūdes pieslēgvietas.
+5. Pielāgojiet iesūkšanas un izplūdes pieslēgvietas
+attiecīgajām caurulēm.
+6. Piestipriniet cauruļvadu sistēmu pie iekārtas;
+skatiet arī Cauruļvadu sistēmas kontrolsaraksts
+161 lappusē.
+7. Ja nepieciešams, starp pamatu un pamatni ievie‐
+tojiet izlīdzināšanas starplikas: ja attālums starp
+savienotājstieņiem ir > 800 mm, pamatnes centrā
+ievieotojiet divas papildu starplikas. Visām star‐
+plikām ir jābūt pilnībā apslēptām. Skatiet Attēls
+17 384 lappusē.
+8. Vienmērīgi un pilnīgi pievelciet savienotājstieņu
+uzgriežņus, pārliecinoties, ka griezes momenti at‐
+bilst tabulā norādītajiem.
+
+3
+230/400 ± 10
+
+400/690 ± 10
+
+Uzgrieznis
+Griezes moments, Nm
+(lbf in)
+
+60
+1
+220–230 ± 6
+
+LV
+
+M12
+60 (44)
+
+3
+220/380 ± 5
+
+M16
+120 (89)
+
+380/660 ± 10
+
+M20
+200 (148)
+
+M24
+350 (258)
+
+Vienfāzes variantiem izmantojiet noteikumiem atbil‐
+stošu kabeli ar 3 dzīslām (2 + zemējums), bet trīsfā‐
+zu variantiem - kabeli ar 4 dzīslām (3 + zemējums).
+
+M27
+240 (530)
+
+4.3  Sūkņa uzstādīšana
+
+Piezīme.
+
+4.3.1  Mehāniskā uzstādīšana
+
+• Balstplātnes ieteicams aizjavot ar neliela rukuma
+betonu.
+
+Uzstādīšanas zona
+
+Sūkņa uzstādīšana uz pamata rāmja
+
+Noteikti pārliecinieties, vai ir ievērotas tālāk norādī‐
+tās instrukcijas
+
+Uzstādiet iekārtu uz betona vai metāla pamatnes,
+kas ir pietiekami izturīga, lai nodrošinātu pastāvīgu
+un stingru atbalstu. Ievērojiet Sūkņa novietojums
+158 lappusē norādītās prasības.
+
+Uzstādīšana uz betona pamata
+
+Prasības pamatam
+
+• Stabils pamata rāmis, kas darbības laikā negrie‐
+žas un nevibrē (nerezonē).
+• Sūkņa kājas un motora montāžas virsmām uz
+pamata rāmja jābūt līdzenām (ieteicams veikt ap‐
+strādi).
+• Jānodrošina droša sūkņa un motora nostiprinā‐
+šana.
+• Atkarībā no izmantotā sajūga starp sūkni un mo‐
+tora vārpstu jāatstāj pietiekami daudz vietas.
+• Starp sūkni un pamata rāmi jābūt pietiekamai
+starplikai, lai nomaiņas gadījumā varētu pielāgot
+to pašu augstumu starp apakšējo daļu un viduslī‐
+niju (ieteicama vertikāla izlīdzināšana 4–6 mm).
+
+Vibrāciju samazināšana
+
+• Betonam ir jābūt ar C12/15 spiedes pretestību un
+jāatbilst XC1 klases iedarbības prasībām saska‐
+ņā ar EN 206-1
+• Izmēriem ir jāatbilst iekārtas balsta plātnes izmē‐
+riem
+• Pamata svaram ir jābūt ≥ 1,5 reizes lielākam par
+iekārtas svaru (≥ 5 reizes lielākam par iekārtas
+svaru, ja nepieciešama klusāka ekspluatācija)
+• Virsmai ir jābūt pēc iespējas gludākai un līdzenā‐
+kai
+• Slīpumam ir jābūt ≤ 1 mm/m.
+Papildu norādījumi ir doti dokumentā nr.
+001080247X: lai to lejupielādētu, noskenējiet kva‐
+drātkodu no Attēls 17 384 lappusē.
+
+Iekārta unn šķidrumu plūsma sistēmā var radīt vi‐
+brācijas, kas var tikt palielinātas, ja iekārta vai cau‐
+ruļvadu sistēma nav uzstādīta pareizi: ievērojiet Uz‐
+
+160

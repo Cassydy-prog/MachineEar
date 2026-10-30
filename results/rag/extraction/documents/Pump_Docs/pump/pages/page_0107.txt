@@ -1,0 +1,108 @@
+Appendix C: Pumping Systems Tip Sheet Number 1
+
+Background
+
+Conduct an In-Plant Pumping System Survey
+
+Even one pump can consume substantial energy. A continuously operated centrifugal 
+pump driven by a fully loaded 100-horsepower motor requires 726,000 kWh per year. 
+This costs more than $36,000, assuming average electricity costs of 5¢ per kWh. Even 
+a 10% reduction in operating costs saves $3,600 per year. Table 1 summarizes the 
+electrical costs of operating this pump.
+
+In the United States, more than 
+2.4 million pumps, which con­
+sume more than 142 billion kWh 
+annually, are used in industrial 
+manufacturing processes. At an 
+electricity cost of 5¢ per kWh, 
+energy used for fluids transport 
+costs more than $7.1 billion per 
+year.
+
+Table 1. Pumping Energy Costs for Pump Driven by 100-hp Motor (assuming a 90% motor efficiency)
+
+Operating
+
+Energy Costs for Various Electricity Costs
+
+Time
+
+2¢ per kWh
+4¢ per kWh
+6¢ per kWh
+8¢ per kWh
+10¢ per kWh
+
+1 hour
+$1.60
+$3.30
+$4.90
+$6.60
+$8.20
+
+24 hours
+$39
+$79
+$119
+$159
+$198
+
+1 month
+$1,208
+$2,416
+$3,625
+$4,833
+$6,042
+
+1 year
+$14,500
+$29,000
+$43,600
+$58,000
+$72,600
+
+ Surveying Your Pumping Systems 
+Pumps larger than a minimum size and with significant operating hours should be 
+surveyed to determine a baseline for your current pumping energy consumption and 
+costs, identify inefficient pumps, determine efficiency measures, and estimate the 
+potential for energy savings. The U.S. Department of Energy’s (DOE) Pump System 
+Energy Opportunity Screening worksheet will help you identify systems that merit a 
+survey.
+
+The survey team should gather pump and drive motor nameplate information and 
+document operating schedules to develop load profiles, then obtain head/capacity 
+curves (if available) from the pump manufacturers to document the pumping system 
+design and operating points. The team should also note the system flow rate and 
+pressure requirements, pump style, operating speed, number of stages, and specific 
+gravity of the fluid being pumped. If possible, the team should also measure and note 
+the flow rate and the suction and discharge pressures and note conditions that are 
+associated with inefficient pump operation, including indicators such as:
+
+■	 Pumps with high maintenance requirements
+
+■	 Oversized pumps that operate in a throttled condition
+
+■	 Cavitating or badly worn pumps
+
+■	 Misapplied pumps
+
+■	 Pumping systems with large flow rate or pressure variations
+
+■	 Pumping systems with bypass flow
+
+■	 Throttled control valves to provide fixed or variable flow rates
+
+■	 Noisy pumps or valves
+
+■	 Clogged pipelines or pumps
+
+■	 Wear on pump impellers and casings that increase clearances between fixed and
+
+moving parts
+
+DOE/GO-102005-2155 • October 2005 • Pumping Systems Tip Sheet #1
+
+103
+
+A Sourcebook for Industry

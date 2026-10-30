@@ -1,0 +1,84 @@
+List of Figures	
+	
+91
+	
+Figure 1.  	 Typical Pumping System Components	
+4
+
+Figure 2.  	 Key to the Fact Sheets	
+12
+
+Figure 3.  	 Illustration of the Sensitivity of Flow to 
+
+Changes in Backpressure	
+15
+
+Figure 4.  	 Drooping Performance Curve	
+15
+
+Figure 5.  	 Cavitation in a Centrifugal Pump	
+20
+
+Figure 6.  	 Two Types of Sealing Methods: 
+
+Packing and Mechanical Seals	
+21
+
+Figure 7. 	
+Common Pipe Configuration Problems 
+
+and How To Correct Them	
+30
+
+Figure 8.  	 Flow Straighteners	
+31
+
+Figure 9.	
+Proper Support of Suction and Discharge Piping	
+31
+
+Figure 10.  	Centrifugal Pump Performance Curves	
+37
+
+Figure 11.  	Family of Pump Performance Curves	
+38
+
+Figure 12.  	Performance Curves for Different Impeller Sizes	
+38
+
+Figure 13.  	Performance Curves for a 4x1.5-6 Pump 
+
+Used for Water Service 	
+39
+
+Figure 14.  	Multiple Pump Operation	
+44
+
+Figure 15.	 Multiple-Speed Pump Performance Curves	
+45
+
+Figure 16.	 Typical Tank Level Control	
+48
+
+Figure 17.	 Effect of Impeller Trimming on Pump Performance	
+49
+
+Figure 18.	 Effects of Reducing Speed on a Pump’s 
+
+Operating Characteristics	
+52
+
+Figure 19.  	Power Lost through a Bypass Line	
+52
+
+Figure 20.  	Fluid Power Lost across a Throttle Valve	
+52
+
+Figure 21.  	Using a Pump Performance Curve 
+
+To Determine Power Draw	
+60
+
+ii
+
+Improving Pumping System Performance

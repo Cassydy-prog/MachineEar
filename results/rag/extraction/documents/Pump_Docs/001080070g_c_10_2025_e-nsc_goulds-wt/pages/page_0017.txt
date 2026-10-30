@@ -1,0 +1,220 @@
+it - Traduzione dell'originale
+
+Causa
+Soluzione
+
+Causa
+Soluzione
+
+I cuscinetti del motore
+sono usurati.
+
+Rivolgersi al rappresentante
+di vendita e assistenza di
+locale.
+
+• Diminuire il dislivello
+• Aumentare il diametro del
+tubo di aspirazione.
+
+7.9  L'elettropompa si ferma e poi ruota nel
+senso sbagliato
+
+7.6  L'elettropompa si avvia, ma è attiva la
+protezione generale dell'impianto
+
+IT
+
+Causa
+Soluzione
+
+Causa
+Soluzione
+
+Presenza di una perdita in uno o
+entrambi i seguenti componenti:
+
+Un cortocircuito nell'im‐
+pianto elettrico.
+
+Controllare l'impianto
+elettrico.
+
+Riparare o so‐
+stituire i com‐
+ponenti guasti.
+
+• Il tubo di aspirazione
+• La valvola di fondo o la valvola
+di ritegno.
+
+Spurgare l'aria.
+
+7.7  L'elettropompa si avvia, ma è attivo il
+dispositivo di protezione da corrente residua
+(RCD) dell'impianto
+
+È presente dell'aria nel tubo di
+aspirazione.
+
+Causa
+Soluzione
+
+7.10  La pompa si avvia troppo
+frequentemente.
+
+Verificare l'isolamento dei com‐
+ponenti dell'impianto elettrico.
+
+Ci sono dispersio‐
+ni a terra.
+
+Causa
+Soluzione
+
+7.8  La pompa funziona, ma la portata è
+scarsa o nulla
+
+Presenza di una perdita in uno
+o entrambi i seguenti compo‐
+nenti:
+
+Riparare o sostitui‐
+re i componenti
+guasti.
+
+Causa
+Soluzione
+
+• Spurgare l’aria
+
+• Il tubo di aspirazione
+• La valvola di fondo o la val‐
+vola di ritegno.
+
+Presenza di aria
+nella pompa o nelle
+tubazioni.
+
+Autoclave con la membrana
+rotta o privo di precarica d'aria.
+
+Vedere le apposite
+istruzioni nel ma‐
+nuale dell’autocla‐
+ve.
+
+La pompa non è
+adescata corretta‐
+mente.
+
+Arrestare la pompa e ripetere
+la procedura di adescamento.
+Se il problema persiste:
+
+7.11  La pompa vibra e genera troppo rumore
+
+Causa
+Soluzione
+
+• Verificare che la tenuta
+meccanica non perda.
+• Verificare la perfetta tenu‐
+ta della tubazione di aspira‐
+zione
+• Sostituire eventuali valvole
+che perdono.
+
+Pompa in cavita‐
+zione
+
+Aprire la valvola.
+
+Lo strozzamento in
+mandata è eccessi‐
+vo.
+
+Smontare e pulire le valvole.
+
+Ridurre la portata richiesta chiu‐
+dendo parzialmente la valvola
+ON-OFF a valle della pompa.
+Se il problema persiste verifica‐
+re le condizioni di esercizio del‐
+la pompa (dislivelli, perdite di
+carico, temperatura del liquido,
+ecc...)
+
+Le valvole sono
+bloccate in posizio‐
+ne chiusa o parzial‐
+mente chiusa.
+
+Rivolgersi al rappresentante di
+vendita e assistenza di locale.
+
+I cuscinetti del
+motore sono
+usurati.
+
+La pompa è ostrui‐
+ta.
+
+Rivolgersi al rappresentante di
+vendita e assistenza di locale.
+
+Rivolgersi al rappresentante di
+vendita e assistenza di locale.
+
+I tubi sono ostruiti.
+Controllare e pulire i tubi.
+
+Presenza di corpi
+estranei all’inter‐
+no della pompa.
+
+Rivolgersi al rappresentante di
+vendita e assistenza di locale.
+
+Il girante striscia
+contro l’anello di
+usura
+
+Cambiare la posizione di due
+delle fasi sulla morsettiera del
+motore o nel quadro elettrico
+di comando.
+
+Il senso di rotazio‐
+ne della girante è
+errato.
+(versione trifase)
+
+Controllare l’allineamento del
+giunto.
+
+Giunto non alli‐
+neato corretta‐
+mente
+
+Verificare le condizioni di fun‐
+zionamento della pompa. Se
+necessario, procedere come
+segue:
+
+L’aspirazione sopra‐
+battente è ecces‐
+siva o la perdita
+di carico nei tubi
+di aspirazione è ec‐
+cessiva.
+
+Gli elementi fles‐
+sibili del giunto
+sono usurati.
+
+Controllare e sostituire le parti ri‐
+levanti in caso siano presenti se‐
+gni di usura.
+
+13

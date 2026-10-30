@@ -1,0 +1,52 @@
+=== PDF page 1 of 1 | native ===
+
+ES-202
+
+Troubleshooting 
+Vibration Problems
+
+April 1998
+
+INSTALLATION, OPERATION & MAINTENANCE MANUAL
+
+Please answer the following questions:
+ 1. What is the serial number found on the fan?
+ 2. How many fans are you having problems with?
+ 3. What was the date of startup?
+ 4. How long have the units been running (months, hours)?
+ 5. Was the vibration noticed at startup and/or has it been gradually getting worse?
+ 6. Does the amplitude of vibration change as it comes up to speed?
+ 7. How is the fan mounted (concrete, steel, wood, isolation base, isolators, etc.)?
+ 8. How is the ductwork connected (rigid, flex connections)?
+ 9. Is it direct or driven via belt system?
+ 10. Is the wheel clean (no material buildup)? If BAF, is there moisture going through the fan?
+11. Have any vibration readings been recorded?
+12. What is the actual RPM of the fan?
+13. Is there any unusual noise?
+
+Upon completion and review of the questions listed above, please check the following:
+□ Rotate fan impeller to check for shifting or damage during shipment (verify proper 
+ 
+wheel/funnel overlap).
+□ 	 Check for signs of lost balance weight.
+□ 	 Check tightness of set screws in blower wheel hub, bearing locking collar, motor and 
+ 
+fan sheaves.
+□	 Check tightness of all frame bolts and base bolts. (Insure that base is level and/or 
+ 
+not causing a twist in the fan’s base angles.)
+□	 Check tightness of bearing mounted bolts.
+□	 Check condition of drives (any signs of wear or cracking, or worn sheaves).
+□	 Check drive alignment and belt tension.
+□	 Check for cracked welds on fan and base.
+□	 Check for a bent shaft using a dial indicator.
+□	 If isolators are present, check for proper adjustment. (Are they bottomed out?)
+□	 Does drive key on fan fill approximately 2/3 of keyway length?
+□	 Does vibration change with adjustments made to air flow?
+
+If, after all items have been checked, you have determined that field balancing is 
+required, contact TCF to arrange for local or TCF service personnel to visit the job site.
+
+TWIN CITY FAN & BLOWER  |  WWW.TCF.COM
+
+5959 Trenton Lane N  |  Minneapolis, MN 55442  |  Phone: 763-551-7600  |  Fax: 763-551-7601

@@ -1,0 +1,89 @@
+Appendix C: Pumping Systems Tip Sheet Number 6
+
+Background
+
+Match Pumps to System Requirements
+
+An industrial facility can reduce the energy costs associated with its pumping systems, 
+and save both energy and money, in many ways. They include reducing the pumping 
+system flow rate, lowering the operating pressure, operating the system for a shorter 
+period of time each day, and, perhaps most important, improving the system’s overall 
+efficiency.
+
+When pumps run inefficiently, it 
+is often because actual system 
+requirements are not the same as 
+those specified in the original 
+system design. This can make the 
+whole system more costly to 
+operate.
+
+Often, a pumping system runs inefficiently because its requirements differ from the 
+original design conditions. The original design might have been too conservative, or 
+oversized pumps might have been installed to accommodate future increases in plant 
+capacity. The result is an imbalance that causes the system to be inefficient and thus 
+more expensive to operate.
+
+ Correct Imbalanced Pumping Systems 
+If the imbalance between the system’s requirements and the actual (measured) 
+discharge head and flow rate exceeds 20%, conduct a detailed review of your plant’s 
+pumping system. Calculate the imbalance as follows:
+
+Imbalance (%) = [(Qmeas x Hmeas)/(Qreq x Hreq) – 1] x 100%
+
+where
+
+Qmeas  =	 measured flow rate, in gallons per minute (gpm) 
+
+Hmeas  =	 measured discharge head, in feet 
+
+Qreq  =	 required flow rate, in gpm 
+
+Hreq  =	 required discharge head, in feet.
+
+A pump may be incorrectly sized for current needs if it operates under throttled 
+conditions, has a high bypass flow rate, or has a flow rate that varies more than 
+30% from its best efficiency point (BEP) flow rate. Such pumps can be prioritized 
+for further analysis, according to the degree of imbalance or mismatch between actual 
+and required conditions.
+
+References 
+Variable Speed Pumping: A Guide to 
+Successful Applications, Hydraulic 
+Institute and Europump (www.pumps.
+org), 2004.
+Conduct an In-Plant Pumping System 
+Survey, DOE Pumping Systems Tip 
+Sheet, 2005.
+Trim or Replace Impellers on 
+Oversized Pumps, DOE Pumping 
+Systems Tip Sheet, 2005.
+Optimize Parallel Pumping Systems, 
+DOE Pumping Systems Tip Sheet, 
+2005.
+Adjustable Speed Pumping 
+Applications, DOE Pumping Systems 
+Tip Sheet, 2005.
+
+Energy-efficient solutions include using multiple pumps, adding smaller auxiliary 
+(pony) pumps, trimming impellers, or adding a variable-speed drive. In some cases, 
+it may be practical to replace an electric motor with a slower, synchronous-speed 
+motor—e.g., using a motor that runs at 1,200 revolutions per minute (rpm) rather than 
+one that runs at 1,800 rpm.
+
+Conduct quick reviews like this periodically. Especially for multipump systems, this can 
+be a convenient way to identify opportunities to optimize a system at little or no cost.
+
+ Example
+This example shows the energy savings that can be obtained by not using an oversized 
+pump. Assume that a process requires 1,500 tons of refrigeration during the three 
+summer months, but only 425 tons for the remaining nine months. The process uses 
+two chilled water pumps operating at 3,500 gpm and requiring 200 brake horsepower 
+(bhp) each. Both are used in summer, but two-thirds of the flow rate is bypassed 
+during the remaining months.
+
+DOE/GO-102005-2160 • October 2005 • Pumping Systems Tip Sheet #6
+
+113
+
+A Sourcebook for Industry

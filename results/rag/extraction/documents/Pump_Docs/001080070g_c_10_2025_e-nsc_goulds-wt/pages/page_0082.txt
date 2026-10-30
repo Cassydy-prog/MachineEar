@@ -1,0 +1,216 @@
+nl - Vertaling van origineel
+
+60
+40
+30
+24
+16
+8
+4
+
+Starts
+per
+uur
+
+65-125…-315;80-160…-315; 100-200…-400;
+125-250…-400; 150-315…-400).
+• Slakkenhuispomp met uittrekbare lagerbeugel
+aan de achterkant.
+
+Geluidsniveau
+
+3.5  Materiaal
+De metalen onderdelen van de pomp die in contact
+komen met vloeistof zĳn gemaakt van:
+
+Standaard/
+
+Materiaalcode
+Materiaal be‐
+huizing/waaier
+
+optioneel
+
+Voor de juiste drukniveaus van pompen die uitgerust
+zĳn met een standaardmotor, zie Tabel 9 op pagina
+368.
+Voor geluidsdrukniveaus van de pomp zonder motor,
+zie Tabel 10 op pagina 372.
+
+CC
+Gietĳzer/Giet‐
+
+Standaard
+
+4  Installatie
+
+ĳzer
+
+CB
+Gietĳzer/Brons
+Standaard
+
+Voorzorgsmaatregelen
+
+Standaard
+
+WAARSCHUWING:
+
+CS
+Gietĳzer/
+Roestvrĳ staal
+
+Standaard
+
+CN
+Gietĳzer/
+Roestvrĳ staal
+
+NL
+
+Standaard
+
+DC
+Vervormbaar
+ĳzer/Gietĳzer
+
+DB
+Vervormbaar
+
+Standaard
+
+ĳzer/Brons
+
+Standaard
+
+• Neem de geldende regels ter voorko‐
+ming van ongelukken in acht.
+• Gebruik geschikte apparatuur en be‐
+schermingsmiddelen.
+• Raadpleeg altĳd de lokale en/of natio‐
+nale wet- en regelgeving, en geldende
+regels met betrekking tot het selec‐
+teren van de locatie voor de installa‐
+tie, en de aansluitingen voor water en
+stroom.
+
+DN
+Vervormbaar
+ĳzer/Roestvrĳs‐
+
+taal
+
+Elektrisch gevaar:
+
+NN
+Roestvrĳstaal/
+
+Standaard
+
+Roestvrĳ staal
+
+RR
+Duplex/Duplex
+Optioneel
+
+3.6  Mechanische asafdichting
+Ongebalanceerde enkele mechanische pakking con‐
+form EN 12756, versie K.
+
+3.7  Toepassingslimieten
+
+• Zorg dat alle aansluitingen worden
+uitgevoerd door gekwalificeerde tech‐
+nicus in overeenstemming met de
+geldende regelgeving.
+• Voordat u begint met werkzaamhe‐
+den aan de machine, dient u ervoor
+te zorgen dat de machine en het be‐
+dieningspaneel gescheiden zĳn van
+de elektrische voeding en niet kunnen
+worden ingeschakeld. Dit is ook van
+toepassing op het regelcircuit.
+
+Maximale werkdruk
+
+Aardleiding (massa)
+
+Elektrisch gevaar:
+
+Afbeelding 4 op pagina 367 toont de maximale werk‐
+druk, afhankelĳk van het model pomp en de tempera‐
+tuur van de gepompte vloeistof.
+P1max + Pmax≤ PN
+
+P1max
+Maximale aanvoerdruk
+
+Pmax
+Maximale werkdruk die door de pomp gege‐
+nereerd wordt
+
+PN
+Maximale systeemdruk
+
+Intervallen van de vloeistoftemperatuur
+
+Afbeelding 4 op pagina 367 toont de actieve tempe‐
+ratuurwaarden.
+Neem voor speciale vereisten contact op met de ver‐
+koop- en servicevertegenwoordiger.
+
+Maximumaantal starts per uur
+
+18,5
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+• Sluit altĳd eerst de externe bescherm‐
+geleider op de aardedraad aan voor‐
+dat u andere elektrische verbindingen
+aansluit.
+• U moet alle elektrische apparatuur
+aarden. Dit geldt zowel voor de pomp‐
+uitrusting en de aandrĳving als voor
+de bewakingsapparatuur. Test de aar‐
+dedraad (massa) om te controleren
+of deze goed is aangesloten.
+• Als de motorkabel per ongeluk is
+losgetrokken, moet de aardegeleider
+(massa) de laatste geleider zĳn die
+van de aansluiting losraakt. Zorg dat
+de aardegeleider (massa) langer is
+dan de fasegeleiders. Dit geldt voor
+beide uiteinden van de motorkabel.
+• Breng extra beveiliging aan tegen
+dodelĳke schok. Installeer een hoog‐
+sensitieve differentiaalschakelaar (30
+mA) [residual current device RCD]
+(apparaat voor reststroom).
+
+78

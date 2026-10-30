@@ -1,0 +1,90 @@
+4. Piping Configurations To Improve Pumping System Efficiency
+
+as a baffle plate or a set of turning vanes, should 
+be installed with an elbow to correct any disrup-
+tion in flow (see Figure 8). By smoothing out 
+the flow, a flow straightener creates a more even 
+velocity profile. Care must be taken, however, 
+to ensure that the pressure drop across the 
+straightener does not cause cavitation.
+
+Poor Flow Profile. Piping configurations often 
+promote uneven flow. Elbows and valves that are 
+placed just before the pump disrupt fluid flow and 
+degrade pump performance. This problem is 
+particularly significant when the flow velocity is 
+high and the suction pressure is low. Under these 
+conditions, a dramatic redirection in flow—
+commonly created by a small-radius elbow or a 
+globe valve—results in a highly turbulent flow 
+that diminishes pump performance.
+
+Flow straightener
+
+(turning vanes)
+
+Vapor Collection. Vapor entrapment can be 
+another consequence of a poor piping layout. If 
+the suction piping leading to the pump does not 
+have a constant slope, vapor can collect at the 
+high points. Vapor pockets limit flow through the 
+pipe and cause pressure pulsations that degrade 
+the pump’s performance. Figure 7 shows 
+examples of piping installations that encourage 
+vapor collection.
+
+Figure 8. Flow Straighteners
+
+In addition, installers should make sure that transi-
+tion pieces and joints between pipes or fittings are 
+kept as smooth as possible. Burrs or misaligned 
+pipes create trip points that disrupt flow.
+
+Suction and discharge piping close to the pump 
+should be properly supported (see Figure 9). 
+Many pump/motor problems are caused by pipe
+
+Hanger
+
+Hanger
+
+Vortex Formation. In tank applications, if a fluid 
+surface drops close to the suction inlet, a vortex 
+can form, potentially creating a loss of suction 
+head or allowing air into the pump. In severe 
+cases, the pump will lose its prime, which can 
+cause severe degradations in performance and 
+even damage to the pump. A centrifugal pump is 
+not designed to run without fluid; mechanical 
+seals, packing, and impeller wearing rings are 
+susceptible to damage if they are not lubricated. 
+Most centrifugal pumps are not self-priming; if a 
+pump loses its prime, it must be filled and vented 
+to be restarted. The centrifugal pumps that are 
+self-priming tend to be less efficient than 
+conventional centrifugal pumps and should be 
+used only when necessary.
+
+Motor
+
+Suction
+Discharge
+
+Horizontal split casing pump
+
+Figure 9. Proper Support of Suction and Discharge Piping
+
+ Rules of Thumb for Improving Pipe 
+Configurations
+There are two primary rules of thumb for improv-
+ing pipe configurations. First, to establish a 
+uniform-velocity flow profile upstream of the 
+pump, the operator should make sure that a 
+straight run of pipe leads into the pump inlet. 
+If space constraints require an elbow just upstream 
+of the pump, a long radius elbow should be 
+selected. In some cases, a flow straightener, such
+
+31
+
+A Sourcebook for Industry

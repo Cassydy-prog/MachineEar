@@ -1,0 +1,39 @@
+{
+  "features_csv_sha256": "8a8ced3882b10524bbe89a13d74d8f840ae855a5de2ee96406f0862eb1777c6d",
+  "splits_csv_sha256": "e200c5769ae7cd475a5f516b93d9170001340a602e6ca947a790fced5cc22201",
+  "baseline_bundle_sha256": {
+    "fan_id_00.joblib": "ab98ae5b9e56b037d7073233c07db19e87b31b599427ff2e8966224372eeeb21",
+    "fan_id_02.joblib": "ed460a7a64b22127f9afc529b42f132e7cedd5ec6a57c9da567f1066c34f356c",
+    "fan_id_04.joblib": "8998b65c8d47ebb0d5614de5d656f04a95df81eb71962dfaab126a1b45060fff",
+    "fan_id_06.joblib": "cbbaaec8442e29ea55779f7dd71f73fb8be1dfe952aeaab075d55ededd1dcba9",
+    "pump_id_00.joblib": "c03a6f1910f5ebd4ae56b8a4cd2b3760020ed36a86e66893591ab9c6e913fb92",
+    "pump_id_02.joblib": "345a1ad835ddbd94bbbf75ecfe2dea407521f3c5cd0edcd55ee8dad71fd7734d",
+    "pump_id_04.joblib": "c1cc968ead94e69ed417163212d7ff15b482db9252f9b60fbcc6b6a6f8ca0ee3",
+    "pump_id_06.joblib": "2992da950961504362e02fd826c6d01220f39d173ddaadabba351757568912a7"
+  },
+  "source_pdf_sha256": {
+    "Fan_Docs/463687CentFans_iom.pdf": "ea62fad6da3cd4703a1a185d79e3ab8bbed8210d4499992462954cd67422f336",
+    "Fan_Docs/Centrifugal-Fans-IM-995.pdf": "be0d4463b22833ba9b493bddff7d23db16a9596f5503221324f8284eddc8001c",
+    "Fan_Docs/Fans-with-CE-Mark-French-IM-2-06.pdf": "02b7a7aa0d21d41662e29601d6ca525284267ef5ec8d9e87a76fbede24d6cb7b",
+    "Fan_Docs/Inline-Centrifugal-Mixed-Flow-Fans-IM-895.pdf": "c6d2590ee020069cb6aad4c9965a0f4f12ef417b894e850f30147832118de2f0",
+    "Fan_Docs/Inline-Fume-Exhaust-Fans-IM-1080.pdf": "2732e9b6e06035032c620a7c9929499f69fa057e46ee411df8f9836379025b3f",
+    "Fan_Docs/Troubleshooting-Maintenance-Guides-1.pdf": "4511275e79be307c80a98217c3ade204f19272b35cb4a1252bc0f0a8ee381ca4",
+    "Fan_Docs/Troubleshooting-Vibration-Problems-ES-202-1.pdf": "6314ada0191177f134b7e43e74f642f59508ed5f1546cb46e8df49d69c41f70d",
+    "Fan_Docs/wl_82102_2_de_en.pdf": "f30b05279979bc7dc13dd6ffaa2e7803d78f0c7aa3573cbc9a37f2abdadbde88",
+    "Pump_Docs/001080070g_c_10_2025_e-nsc_goulds-wt.pdf": "8df7ee785b40a173f662b46aadf0e3dd81a0c14fe6ba7bb2debdcecaf10b6384",
+    "Pump_Docs/1710_iom_02_2023.pdf": "08f2f5205baf5c6aad2529364edf76fc03a65a10fc5736448c4a3a41e1d5e472",
+    "Pump_Docs/p2002569b-1.pdf": "895910955666f802129dadeaddcb7efc63dadd771396c51a0574ad6050d7732b",
+    "Pump_Docs/pump.pdf": "e8975ae00a5d74bfb9f1512f8b2cd85a56359f61d8109bbb18bfdc6d3eb52eb4"
+  },
+  "grouped_protocol": {
+    "folds": 5,
+    "repeats": 3,
+    "seeds": [
+      42,
+      43,
+      44
+    ],
+    "target_false_alarm_rate": 0.05
+  },
+  "note": "Hashes copied from completed local development provenance. Original inputs/bundles are not distributed. These development runs did not score test acoustic data. See logmel_final_test_reported.json for the separately reported team evaluation and pending verification."
+}

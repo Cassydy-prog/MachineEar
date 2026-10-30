@@ -1,0 +1,2599 @@
+=== PDF page 1 of 32 | native ===
+
+INSTRUCTION MANUAL
+
+P2002569
+REVISION B
+
+Series A-C 2000
+CLOSED-COUPLED PUMPS
+
+
+
+=== PDF page 2 of 32 | native ===
+
+NOTE
+The information contained in this book is intended to assist operating personnel by providing 
+information on the characteristics of the purchased equipment.
+
+It does not relieve the user of the responsibility of using accepted engineering practices in the 
+installation, operation and maintenance of this equipment.
+
+2
+
+
+
+=== PDF page 3 of 32 | native ===
+
+TABLE OF CONTENTS
+Specific Series A-C 2000 
+Instruction for Close-Coupled Pumps
+
+Introduction and safety
+
+Introduction ............................................................................................ 4
+
+Requesting other information ........................................................ 4
+Safety ....................................................................................................... 4
+
+Safety terminology and symbols ..................................................... 5
+Safety instruction decals ................................................................ 6
+User safety ......................................................................................... 6
+Environmental safety ....................................................................... 7
+Product warranty .................................................................................. 8
+
+Transportation and storage
+
+Inspect the delivery ............................................................................. 9
+
+Inspect the package ......................................................................... 9
+Inspect the unit .................................................................................. 9
+Pump lifting ............................................................................................9
+Long-term storage .............................................................................. 9
+
+Product description
+
+General description ........................................................................... 10
+
+Specific Series A-C 2000 instruction for close-coupled pumps
+
+Pump identification ……………………………….……………..…. 11
+Disassembly and reassembly procedures ……...…..……..……… 12
+Sectional view drawing ……….………………………………..….. 15
+Ordering parts ……………………….……………………………..…. 16
+
+General Pump Instructions
+
+Introduction…….................................................................................. 17
+
+Installation
+
+Temporary storage ……..................................................................... 17
+Location …....…………....................................................................... 17
+Foundation ……................................................................................... 18
+Baseplate setting ................................................................................. 18
+Grouting procedure ........................................................................... 18
+Suction and discharge piping .......................................................... 19
+Stuffing box …………......…................................................................ 21
+Packing ………………………............................................................. 22
+
+Packing lubrication ……................................................................. 22
+Stuffing box operating pressure ...................................................... 22
+Mechanical seals ............................................................................... 22
+
+Operation
+
+Pre-start checks ................................................................................... 23
+Priming ……........................................................................................... 23
+Starting ……......................................................................................... 23
+Operating checks ………..................................................................... 24
+Shutdown ………................................................................................. 24
+Freezing protection …………...…….….............................................. 24
+Field tests ……………………...…….…............................................... 24 
+Vibration ...………………………….….................................................. 25
+Electrical requirements ….…….....…................................................ 25
+
+Trouble shooting ...................................................................................... 26
+
+Maintenance
+
+General maintenance ....................................................................... 29
+Maintenance of pumps due to flood damage ................................29
+Bearing lubrication………................................................................. 29 
+Stuffing box ……................................................................................... 30
+Mechanical shaft seals ……….……………………….......................... 31
+Cleaning without dismantling pump ………………......................... 31
+Maintenance time table …………...................................................... 32
+
+3
+
+
+
+=== PDF page 4 of 32 | native ===
+
+Introduction and safety
+Introduction
+
+Purpose of this manual
+
+The purpose of this manual is to provide necessary information for:
+• Installation
+• Operation
+• Maintenance
+
+CAUTION:
+Read this manual carefully before installing and using the product. Improper use of the product can 
+cause personal injury and damage to property, and may void the warranty.
+
+NOTICE:
+Save this manual for future reference, and keep it readily available at the location of the unit.
+
+Requesting other information
+
+Special versions can be supplied with supplementary instruction leaflets. See the sales contract for any 
+modifications or special version characteristics. For instructions, situations, or events that are not considered 
+in this manual or in the sales documents, please contact the nearest Xylem representative.
+
+Always specify the exact product type and identification code when requesting technical information or 
+spare parts.
+
+Safety
+
+WARNING:
+
+• The operator must be aware of safety precautions to prevent physical injury.
+• Any pressure-containing device can explode, rupture, or discharge its contents if it is over-pressurized. 
+Take all necessary measures to avoid over-pressurization.
+• Operating, installing, or maintaining the unit in any way that is not covered in this manual could cause 
+death, serious personal injury, or damage to the equipment. This includes any modification to the 
+equipment or use of parts not provided by Xylem. If there is a question regarding the intended use of 
+the equipment, please contact a Xylem representative before proceeding.
+• Do not change the service application without the approval of an authorized Xylem representative.
+
+CAUTION:
+You must observe the instructions contained in this manual. Failure to do so could result in physical 
+injury, damage, or delays.
+
+4
+
+
+
+=== PDF page 5 of 32 | native ===
+
+Safety terminology and symbols
+
+About safety messages
+
+It is extremely important that you read, understand, and follow the safety messages and regulations carefully 
+before handling the product. They are published to help prevent these hazards:
+
+• Personal accidents and health problems
+• Damage to the product
+• Product malfunction
+
+Hazard levels
+
+Hazard level
+Indication
+
+DANGER:
+A hazardous situation which, if not avoided, will result in death or serious 
+injury.
+
+WARNING:
+A hazardous situation which, if not avoided, could result in death or 
+serious injury.
+
+CAUTION:
+A hazardous situation which, if not avoided, could result in minor or 
+moderate injury.
+
+NOTICE:
+
+• A potential situation which, if not avoided, could result in
+undesirable conditions
+• A practice not related to personal injury
+
+Hazard categories
+Hazard categories can either fall under hazard levels or let specific symbols replace the ordinary hazard 
+level symbols.
+
+Electrical hazards are indicated by the following specific symbol:
+
+ELECTRICAL HAZARD:
+
+These are examples of other categories that can occur. They fall under the ordinary hazard levels 
+and may use complementing symbols:
+• Crush hazard
+• Cutting hazard
+• Arc flash hazard
+
+5
+
+
+
+=== PDF page 6 of 32 | native ===
+
+Safety instruction decals
+
+WARNING: 
+The maximum working pressure of the pump is listed on the nameplate. Do not exceed this pressure. 
+Failure to follow these instructions can result in serious personal injury, death, and/or property damage.
+
+Alert symbol
+
+This safety alert symbol is used in manuals and on the safety instruction decals on the 
+pump to  draw attention to safety-related instructions.
+
+When used, the safety alert symbol means that failure to follow the instructions may result 
+in a safety hazard.
+
+Decals
+Make sure your pump has these safety instruction decals and that they are located as this figure shows. 
+If the decals are missing or illegible, contact your local sales and service representative 
+for a replacement.
+
+Figure 1: Safety Instruction Decals
+
+Make sure that all safety instruction decals are always clearly visible and readable.
+
+User safety
+
+General safety rules
+These safety rules apply:
+• Always keep the work area clean.
+• Pay attention to the risks presented by gas and vapors in the work area.
+• Avoid all electrical dangers. Pay attention to the risks of electric shock or arc flash hazards.
+• Always bear in mind the risk of drowning, electrical accidents, and burn injuries.
+
+Safety equipment
+Use safety equipment according to the company regulations. Use this safety equipment within the work area:
+• Hard hat
+• Gas mask
+• Safety goggles, preferably with side shields
+• Hearing protection
+• Protective shoes
+• First-aid kit
+• Protective gloves
+• Safety devices
+
+NOTICE:
+Never operate a unit unless safety devices are installed. Also see specific information about safety devices in 
+other chapters of this manual.
+
+6
+
+
+
+=== PDF page 7 of 32 | native ===
+
+Electrical connections
+Electrical connections must be made by certified electricians in compliance with all international, national, state, 
+and local regulations. For more information about requirements, see sections dealing specifically with electrical 
+connections.
+
+Precautions before work
+Observe these safety precautions before you work with the product or are in connection with the product:
+• Provide a suitable barrier around the work area, for example, a guard rail.
+• Make sure that all safety guards are in place and secure.
+• Make sure that you have a clear path of retreat.
+• Make sure that the product cannot roll or fall over and injure people or damage property.
+• Make sure that the lifting equipment is in good condition.
+• Use a lifting harness, a safety line, and a breathing device as required.
+• Allow all system and pump components to cool before you handle them.
+• Make sure that the product has been thoroughly cleaned.
+• Disconnect and lock out power before you service the pump.
+• Check the explosion risk before you weld or use electric hand tools.
+
+Wash the skin and eyes
+Follow these procedures for chemicals or hazardous fluids that have come into contact with your eyes 
+or your skin:
+
+Condition
+Action
+
+Chemicals or hazardous fluids in eyes
+
+1. Hold your eyelids apart forcibly with your fingers.
+2. Rinse the eyes with eyewash or running water for at 
+    least 15 minutes.
+3. Seek medical attention.
+
+Chemicals or hazardous fluids on skin
+
+1. Remove contaminated clothing.
+2. Wash the skin with soap and water for at least 1 minute.
+3. Seek medical attention, if necessary.
+
+Environmental safety
+
+The work area
+Always keep the station clean.
+
+Waste and emissions regulations
+Observe these safety regulations regarding waste and emissions:
+• Appropriately dispose of all waste.
+• Handle and dispose of the processed liquid in compliance with applicable environmental regulations.
+• Clean up all spills in accordance with safety and environmental procedures.
+• Report all environmental emissions to the appropriate authorities.
+
+WARNING:
+Radiation Hazard. Do NOT send the product to Xylem if it has been exposed to any nuclear radiation.
+
+Electrical installation
+For electrical installation recycling requirements, consult your local electric utility.
+
+Recycling guidelines
+Always follow local laws and regulations regarding recycling.
+
+7
+
+
+
+=== PDF page 8 of 32 | native ===
+
+Product warranty
+
+Coverage
+Xylem undertakes to remedy defects in products from Xylem under these conditions:
+• The faults are due to defects in design, materials, or workmanship.
+• The faults are reported to a local sales and service representative within the warranty period.
+• The product is used only under the conditions described in this manual.
+• The monitoring equipment incorporated in the product is correctly connected and in use.
+• All service and repair work is done by Xylem authorized personnel.
+• Genuine Xylem parts are used.
+• Only Ex-approved spare parts and accessories authorized by an Ex-approved Xylem Inc. representative are 
+used in Ex-approved products.
+
+Limitations
+The warranty does not cover defects caused by these situations:
+• Deficient maintenance
+• Improper installation
+• Modifications or changes to the product and installation made without consulting a Xylem authorized 
+representative
+• Incorrectly executed repair work
+• Normal wear and tear
+
+Xylem assumes no liability for these situations:
+• Bodily injuries
+• Material damages
+• Economic losses
+
+Warranty claim
+Xylem products are high-quality products with expected reliable operation and long life.
+However, should the need arise for a warranty claim, then contact your local sales and service representative.
+
+8
+
+
+
+=== PDF page 9 of 32 | native ===
+
+Transportation and storage
+
+Inspect the delivery
+
+Inspect the package
+1. Inspect the package for damaged or missing items upon delivery.
+2. Note any damaged or missing items on the receipt and freight bill.
+3. File a claim with the shipping company if anything is out of order.
+    If the product has been picked up at a distributor, make a claim directly to the distributor.
+
+Inspect the unit
+1. Remove packing materials from the product.
+     Dispose of all packing materials in accordance with local regulations.
+2. Inspect the product to determine if any parts have been damaged or are missing.
+3. If applicable, unfasten the product by removing any screws, bolts, or straps.
+    For your personal safety, be careful when you handle nails and straps.
+4. Contact the local sales representative if there is any issue.
+
+Pump lifting
+
+WARNING:
+• 	 Assembled units and their components are heavy. Failure to properly lift and support this equipment 
+can result in serious physical injury and/or equipment damage. Lift equipment only at the specifically 
+identified lifting points. Lifting devices such as eyebolts, slings, and spreaders must be rated, selected, 
+and used for the entire load being lifted.
+• 	 Crush hazard. The unit and the components can be heavy. Use proper lifting methods and wear 
+steel-toed shoes at all times.
+
+In order to lift the entire pump, use slings placed around the unit as shown.
+
+Figure 2: Proper lifting method
+
+Long-term storage
+
+If the unit is stored for more than 6 months, these requirements apply:
+• Store in a covered and dry location.
+• Store the unit free from heat, dirt, and vibrations.
+• Rotate the shaft by hand several times at least every three months.
+
+Treat bearing and machined surfaces so that they are well preserved. Refer to the drive unit and coupling 
+manufacturers for their long-term storage procedures.
+For questions about possible long-term storage treatment services, please contact your local sales and service 
+representative.
+
+9
+
+
+
+=== PDF page 10 of 32 | native ===
+
+Product description
+
+General description
+The Series A-C 2000 pump is a centrifugal, close-coupled pump. These features make the pump easy to install, 
+operate, and service:
+• High efficiency
+• Rugged bronze-fitted construction
+• Foot-mounted motor
+
+Intended applications
+
+WARNING:
+This product can expose you to chemicals including Lead, which is known to the State of 
+California to cause cancer or birth defects or other reproductive harm.   
+For more information go to: www.P65Warnings.ca.gov.
+
+NOTICE:
+This product is not intended for potable water applications.
+The pump is intended for use with these pumped fluids:
+• Unheated domestic and fresh water
+• Boiler feed water
+• Condensate
+• General liquid transfer
+
+Rotation
+Pump rotation is clockwise when viewed from the back of the motor. An arrow is also located on the pump to 
+show the direction of rotation.
+
+10
+
+
+
+=== PDF page 11 of 32 | native ===
+
+Specific Series A-C 2000 close-coupled 
+pumps instruction
+
+Pump identification
+
+There are two identification plates on each pump. 
+The pump rating plate gives identification and rating 
+information. Figure 3 shows an example of a typical 
+Rating Plate.
+
+Permanent records for this pump are kept by the 
+Serial Number and it must, therefore, be used with 
+all correspondence and spare parts orders. The last 
+digit indicates the specific pump on orders for more 
+than one pump. For example, if an order called for six 
+pumps, all pumps would have the same first three sets 
+of digits and the last digit will change to identify each 
+of the six. (e.g. 1-21938-1-1, 1-21938-1-2, etc.)
+
+Figure 3 - Rating Plate
+
+The identification number is a number which the end 
+user of the pump requests to be put on the rating 
+plate to identify the pump in his operation. (e.g. 
+CWP-11 stands for Chilled Water Pump No. 11.)
+
+The frame plate, Figure 4, gives information 
+concerning the bearing and their lubrication. The 
+inboard and outboard bearing numbers refer to the 
+bearing manufacturer's numbers.
+
+Figure 4 - Frame Plate
+
+11
+
+
+
+=== PDF page 12 of 32 | native ===
+
+Dismantling the stuffing box
+
+Disassembly and reassembly
+procedures
+
+A. Pumps with mechanical seals
+     1. Remove spacer sleeve (1 -154-0).
+     2. Remove the two nuts holding the gland
+          (6-014-0) to the stuffing box (2-036-0).
+     3. Pull the stuffing box cover off the shaft assembly.
+
+The procedures outlined in this section cover the 
+dismantling and reassembly of different types of 
+Series A-C 2000 close-coupled pumps.
+
+NOTE: On the larger Series A-C 2000 pumps, it will 
+be necessary to remove the capscrews holding the 
+stuffing box cover to the motor adapter.
+
+When working on the pumps, use accepted 
+mechanical practices to avoid unnecessary damage 
+to parts. Check the condition of all pump parts when 
+the pump is dismantled and replace if necessary.
+
+NOTE: The mechanical seal (6-400-0) should now be 
+exposed on the shaft sleeve. (In some cases, the shaft 
+sleeve may come off the shaft with the stuffing box 
+cover. If this happens, gently press or pull the shaft 
+sleeve and mechanical seal from the stuffing box 
+toward motor side of the stuffing box cover.) This will 
+expose the mechanical seal as above.
+
+General dismantling instructions
+1. Disconnect the power source to the driver.
+2. Close the suction and discharge valves to isolate 
+the pump from the system. Turn off liquid supply 
+and disconnect any piping to the stuffing box.
+3. Remove all bolts holding the motor to the 
+foundation.
+
+Dismantling procedure
+
+Initial disassembly
+
+4. Remove the seal from the shaft sleeve, examine      
+         for damage, and if necessary replace.
+     5. Remove the gland (6-014-0), shaft sleeve 
+          (1-009-0), and the deflector (1-136-0) from
+          the motor shaft. A puller may be used to
+          remove the shaft sleeve if it does not slide off
+          the motor shaft easily.
+
+1. Drain the pump by opening the discharge gauge
+	 tap located directly below the discharge flange and
+	 removing the drain plug (1-910-0) at the bottom
+	 of the casing.
+2. Unbolt the motor adapter from the casing by
+	 removing capscrews (1-904-0) and where
+	 applicable clamping lugs (1-937-0). Pull the entire
+	 rotating assembly and motor from the casing
+	 leaving the casing connected to the piping unless it
+	 is to be repaired, replaced, or if applicable , to have
+	 new wear rings installed.
+3. Remove the "0" ring (2-914-0) from the stuffing
+	 box cover and inspect for damage. Replace if
+	 necessary.
+
+B. Pumps with packed stuffing box
+    1.  Loosen packing gland (6-014-0) by loosening
+         the two gland retaining nuts.
+     2. Pull the stuffing box cover, gland, and packing
+         from the motor shaft.
+     3. Remove the two gland retaining nuts and the
+          gland (6-014-0). Remove the packing rings
+         (6-924-0) and, where applicable, the seal cage
+         (6-013-0) from the stuffing box. A standard
+         packing hook is recommended for removing
+         the packing and seal cage.
+      4. Remove the packing base ring.
+
+lmpeller removal
+
+Motor adapter removal
+
+NOTE: Do not remove the adapter from the motor 
+unless the motor is to be repaired or replaced. If the 
+adapter is removed, it will necessitate repositioning 
+of motor adapter to the motor shaft.
+
+1. Hold impeller by the outside diameter.
+2. Remove the impeller nut (4-023-0). To do this,
+	
+turn the impeller nut counterclockwise as viewed
+	
+from the suction inlet.
+3. Pull the impeller (4-002-0) from the shaft and 
+remove the impeller key (4-911-0). (Figure 5 
+Impeller Removal)
+
+Figure 5 - Impeller Removal
+Figure 6 - Removing Mechanical Seal
+
+12
+
+
+
+=== PDF page 13 of 32 | native ===
+
+Suction and stuffing box wear ring removal
+(optional)
+
+The optional wear rings are removed from the casing
+and stuffing box cover by the following method:
+1.  Drill two axial holes in each wear ring
+	 approximately 180 degrees apart being careful not
+	 to drill into the casing or stuffing box cover.
+2. Split the wearing rings using a chisel.
+3. Remove the pieces.
+
+This completes the disassembly of the Series A-C 
+2000 close-coupled pump.
+
+Assembly procedures
+
+Motor adapter assembly
+
+If necessary, mount the motor adapter (1-534-0) to 
+the motor using four capscrews (1-904-0). Be certain 
+the adapter is mounted such that the drain hole is on 
+the bottom. Tighten the capscrews.
+
+Stuffing box assembly
+
+NOTE: There are two pipe taps on the stuffing
+box; one closer to the gland, and one farther away 
+from the gland.
+
+If the pump is equipped with a mechanical seal, 
+the small box cover should be positioned with the 
+pipe tap closer to the gland in the most accessible 
+position.
+
+Figure 7B - "G" Setting dimensions
+
+If the pump is equipped with packing, the stuff box 
+cover should be positioned so the pipe tap farthest 
+from the gland is in the most accessible position.
+
+For ease of assembly, install pipe fittings in the 
+stuffing box pipe taps before assembling stuffing 
+box on the motor adapter.
+
+A. General assembly
+
+1. Install the two gland retaining studs (6-908-0)
+	
+into the stuffing box cover.
+    2. Screw the impeller stud (4-908-0) into the end
+	
+of the motor shaft using a locking compound
+	
+on the stud.
+
+2. Place the seal spring retainer into stuffing box.
+	
+3. Place seal spring into stuffing box.
+	
+4. Place sleeve and seal assembly into stuffing
+
+box with rotating half of seal installed closest
+
+to the impeller.
+	
+5. Install the seal gland (6-014-0) (flat side toward 	
+
+stuffing box) on the stuffing box using the gland 	 	
+	
+studs (6-908-0) and gland nuts (6-903-0). Tighten 	 	
+	
+gland nuts evenly until the gland is approximately 	
+	
+1/8" from the stuffing box.
+	
+6. Slide the deflector ring (1-136-0) onto the motor 	 	
+	
+shaft.
+	
+7. Slide the stuffing box cover, seal, and sleeve
+
+assembly onto the motor shaft being certain
+
+the stuffing box is closest to the motor
+
+adapter. To prevent any leakage, use Dow
+
+Corning Silicone Rubber #732 or equal
+
+sealant between the shaft and shaft sleeve.
+	
+8. If applicable, bolt the motor adapter to the
+
+stuffing box using capscrews (1-904-0).
+
+B. Pumps with mechanical seals
+    1. Install the rotating and stationary elements of
+	
+the mechanical seal (6-400-0) on the shaft
+	
+sleeve (1-009-0) being certain that the two
+	
+wearing surfaces face each other. Position the
+	
+seal on the sleeve according to the "G "
+	
+dimension found in Figure 7A.
+
+C. Pumps with packed stuffing boxes
+
+1. Slide deflector (1-136-0) onto the motor shaft.
+	
+2. Slide the packing gland (6-014-0) onto the motor 	 	
+	
+shaft (flat side toward motor).
+	
+3. Slide the shaft sleeve (1-009-0) onto the motor 	
+  
+    shaft. To prevent leakage, use Dow Corning 
+    Silicone Rubber #732 or equal lubricating sealant 		
+	
+between the shaft and shaft sleeve.
+Figure 7A
+
+13
+
+
+
+=== PDF page 14 of 32 | native ===
+
+4. Place the packing base ring (6-152-0) into the
+	
+stuffing box. Slide the stuffing box cover over
+	
+the pump shaft, and, if applicable, bolt the
+	
+stuffing box to the motor adapter using
+	
+capscrews (1-904-0).
+5. Install the packing (6-924-0) and, if applicable, 
+the seal cage ( 6-013-0) into the stuffing 
+box being sure to stagger the joints as per 
+the instructions found in the general pump 
+instruction section of this book.
+
+Impeller installation
+
+1. If the pump is equipped with mechanical seals,
+	
+slide the spacer sleeve (1-154-0) over the shaft
+	
+sleeve and into the stuffing box.
+2. Install the impeller key into the keyway on the
+	
+impeller side of the motor shaft.
+3. Slide the pump impeller (4-002-0) onto the 
+motor shaft.
+4. Screw the impeller nut (4-023-0) onto the pump
+	
+shaft until finger tight. Hold the outside diameter of 
+the impeller and tighten (clockwise as viewed from 
+the suction inlet) the impeller nut to 25-30 ft. lbs.
+5. For pumps with mechanical seals, tighten gland
+	
+evenly against the stuffing box.
+
+Final assembly
+
+NOTE: When assembling the rotating assembly to
+the casing, be certain that the pump feet
+are parallel to the motor feet.
+
+1. Place the "0" ring casing seal (2-914-0) around
+    the "0" ring seat on the stuffing box cover.
+2. Carefully slide the motor, motor adapter, stuffing
+	 box assembly into the casing being sure not to
+	 pinch the "0" ring. Insert the capscrews (1-904-0)
+	 through the frame and into the casing (the large
+	 Series A-C 2000 pumps use capscrews and
+
+clamping lugs (1-937-0) to hold the motor adapter 
+to the casing. Tighten opposite capscrews evenly 
+around the adapter until the stuffing box has been 
+drawn evenly into the casing). Then, alternately 
+torque each capscrew to 25 ft. lbs.
+3. If necessary, connect the suction and discharge
+	 piping to the pump.
+4. Secure the motor foot.
+5. Connect the flushing water system to the stuffing
+	 box.
+6. If the pump is to be started, be sure flushing is
+	 provided to the stuffing box.
+7 . Connect the power to the motor. CHECK THE
+	 MOTOR ROTATION.
+
+This completes the assembly of the Series A-C 2000 
+close-coupled pump.
+
+14
+
+
+
+=== PDF page 15 of 32 | ocr ===
+
+Sectional view drawing
+
+te OUI
+Ty
+>
+cap
+\
+7
+_ aati
+
+1904.0 <i
+i NI
+1534-0
+N
+NOE
+TVA
+en
+
+—1_|
+"IW
+1S
+0-242.0
+woe \
+\
+eRe
+\<
+VS
+mee
+4.002-0
+
+\
+bs
+EN AIS
+
+(ZZ,
+
+|
+SA YY
+NS
+4908-0
+1.009:0 { LOK AMID mes
+6910.0
+2.914.0
+SSS ie
+6014-0
+2036-0
+6-400-0
+-_
+2-001.0
+
+INTERNAL OR EXTERNAL FLUSH
+
+1652-0
+SSSA
+2003-5
+6910-0
+6-924.0
+6013-0
+<=A) \W
+|
+}
+S
+6924.0
+\,
+een
+ONdf
+Te
+Ss WN
+
+wi
+Ved
+il
+SS
+6910.0 -—~
+Wy
+6.910.0
+\
+
+(INTERNAL OR EXTERNAL)
+PUMP WITH OPTIONAL CASING WEAR RINGS
+
+15
+
+
+
+=== PDF page 16 of 32 | native ===
+
+Ordering parts
+
+The pumps covered by this manual have been 
+designed and built with certain replaceable wearing 
+parts. The recommended inventory of spare parts 
+depends upon the installation and the importance 
+of continued operation.
+
+Parts should be ordered as far in advance of their use 
+as possible since circumstances beyond the control 
+of the company may reduce existing stock. Not all 
+parts are stocked and must be manufactured for 
+each order.
+
+For critical service requiring a minimum of "down
+time" a complete or "quick change" rotating element 
+is recommended.
+
+For normal service, with repairs to be made in the
+field, the following parts are recommended for stock.
+1 set of bearings
+2 sets of wearing rings
+1 set of gaskets and "0" rings
+2 mechanical seals (complete)
+
+To facilitate rapid handling of your order for spare
+parts, be sure to include the following information:
+1. Serial number of the pump.
+2. Quantity of each part.
+3. Catalog number of the part.
+4. Name of the part.
+5. Material desired. (Parts will be furnished in original
+materials unless specified as a material change. 
+All material substitutions should be discussed 
+with the factory.)
+
+16
+
+
+
+=== PDF page 17 of 32 | native ===
+
+FLANGES OR BY THE EYEBOLTS FOUND ON THE 
+MOTOR. BE VERY CAREFUL NOT TO DAMAGE ANY 
+AUXILIARY PIPING OR CONTROLS WHEN MOVING 
+PUMPS.
+
+General pump 
+instruction
+
+Introduction
+
+Purpose of manual
+
+This manual is furnished to acquaint you with some of 
+the practical ways to install, operate, and maintain this 
+pump. Read it completely before doing any work on 
+your unit and keep it handy for future reference.
+
+Horizontal pumps and drivers are normally shipped 
+from the factory mounted on a baseplate and painted 
+with primer and one finish coat. Couplings may either 
+be completely assembled or have the coupling 
+hubs mounted on the shafts and the connecting 
+members removed. When the connecting members 
+are removed, they will be packaged in a separate 
+container and shipped with the pump or attached to 
+the baseplate.
+
+Equipment cannot operate well without proper 
+care. To keep this unit at top efficiency, follow the 
+recommended installation and servicing procedures 
+outlined in this manual. The Industrial Pump Division's 
+Customer Service Department is available to expertly 
+guide the installation of the pump for maximum 
+operating life and minimum downtime.
+
+Goulds Water Technology service organization
+
+Shafts are in alignment when unit is shipped; however, 
+due to shipping, the pumps may arrive misaligned 
+and, therefore, alignment must be established during 
+installation. Series A-C 2000 pump has determined 
+that proper and correct alignment can only be made 
+by accepted erection practices. Refer to the following 
+paragraphs on " Foundation'', "Baseplate Setting", 
+and "Grouting Procedure''.
+
+Temporary storage
+
+Experienced, factory-trained servicemen offer prompt,
+efficient service at reasonable rates. These servicemen 
+can find and correct costly errors such as poor 
+grouting, misalignment, pipe stresses transmitted to 
+the pump casing, or improperly cleaned piping. A 
+serviceman may be requested through your nearest 
+Goulds Water Technology Sales Representative.
+
+If the pump is not to be installed and operated soon
+after arrival, store it in a clean, dry place having slow,
+moderate changes in ambient temperature. Rotate 
+the shaft periodically to coat the bearings with 
+lubricant and to retard oxidation, corrosion, and 
+to reduce the possibility of false brinelling of 
+the bearings.
+
+Replacement and spare parts, including special 
+attention to your individual problems, may also be 
+obtained through the same Sales Representative.
+
+Location
+
+Warranty
+
+Refer to your sales contract for coverages.
+
+Pump identification
+
+The pump should be installed as near the suction 
+supply as possible, with the shortest and most direct 
+suction pipe practical. The total dynamic suction lift 
+(static lift plus friction losses in suction line) should not 
+exceed the limits for which the pump was sold.
+
+All pumps are designated by Serial Number, Model
+Number, Size and Type. This information is stamped 
+on an identification plate which is mounted on the 
+pump. Refer to pump identification in the specific 
+instruction section of this manual for detailed 
+information (page 11).
+
+The pump must be primed before starting. Whenever
+possible, the pump should be located below the fluid 
+level to facilitate priming and assure a steady flow of 
+liquid. This condition provides a positive suction head 
+on the pump. It is also possible to prime the pump by 
+pressurizing the suction vessel.
+
+Installation
+
+Receiving pump
+
+When installing the pump, consider its location in
+relation to the system to assure that sufficient Net 
+Positive Suction Head (NPSH) at pump suction is 
+provided. Available NPSH must always equal or 
+exceed the required NPSH of the pump.
+
+Check pump for shortages and damage immediately 
+upon arrival. (An absolute must). Prompt reporting to 
+the carrier's agent with notations made on the freight 
+bill, will expedite satisfactory adjustment by the carrier.
+
+The pump should be installed with sufficient 
+accessibility for inspection and maintenance. A clear 
+space with ample head room should be allowed for 
+the use of an overhead crane or hoist sufficiently 
+strong to lift the unit.
+
+WARNING: WHEN UNLOADING HORIZONTAL PUMPS, 
+LIFT EQUALLY AT FOUR OR MORE POINTS ON THE 
+BASEPLATE. DO NOT LIFT ON THE DRIVER OR PUMP. 
+FOR VERTICAL PUMPS, USE THE LIFTING LUGS OR 
+EYEBOLTS FOUND ON THE PUMP. DO NOT LIFT BY
+
+17
+
+
+
+=== PDF page 18 of 32 | native ===
+
+NOTE: Allow sufficient space to be able to dismantle 
+pump without disturbing the pump inlet and 
+discharge piping.
+
+Select a dry place above the floor level wherever 
+possible. Take care to prevent pump from freezing 
+during cold weather when not in operation. Should 
+the possibility of freezing exist during a shut-down 
+period, the pump should be completely drained, and 
+all passages and pockets where liquid might collect 
+should be blown out with compressed air.
+
+Figure 8 - Foundation
+
+Make sure there is a suitable power source available 
+for the pump driver. If motor driven, electrical 
+characteristics should be identical to those shown 
+on motor data plate.
+
+Foundation
+
+A substantial foundation and footing should be built 
+to suit local conditions. It should form a rigid support 
+to maintain alignment.
+
+2. By adding or removing shims under the base, level 
+and plumb the pump shaft and flanges. The base 
+plate does not have to be level.
+3. Draw anchor nuts tight against base, and observe 
+pump and motor shafts or coupling hubs for 
+alignment. (Temporarily remove coupling guard 
+for checking alignment.)
+4. If alignment needs improvement, add shims or 
+wedges at appropriate positions under base so 
+that retightening of anchor nuts will shift shafts into 
+closer alignment. Repeat this procedure until a 
+reasonable alignment is reached.
+
+Vertical Pumps - Foundation bolts should be sized and
+accurately located. Each foundation bolt should be 
+located in a bushing two diameters larger than the 
+bolt to allow free movement of the bolt in conforming 
+to the mounting holes in the pedestal. When vertical 
+pumps are used with intermediate shafting, the motor 
+mount baseplate should be securely attached to the 
+floor or support structure.
+
+NOTE: Reasonable alignment is defined as that which
+pump contractor and the accepting facility (final 
+operator) mutually agree upon.
+
+5. Check to make sure the piping can be aligned to 
+the pump flanges without placing pipe strain on 
+either flange.
+6. Grout baseplate in completely (See "Grouting
+	 Procedure") and allow grout to dry thoroughly
+
+before attaching piping to pump. (24 hours is 
+sufficient time with approved grouting procedure.)
+
+Grouting procedure
+
+Horizontal Pumps - The foundation should be poured
+without interruption to within 1/2 to 1-1/2 inches of 
+the finished height. The top surface of the foundation 
+should be well scored and grooved before the 
+concrete sets; this provides a bonding surface for 
+the grout. Foundation bolts should be set in concrete 
+as shown in Figure 8. A 4-inch long tube around 
+the bolts at the top of the concrete will allow some 
+flexibility in bolt alignment to match the holes in 
+the baseplate. Allow enough bolt length for grout, 
+shims, lower baseplate flange, nuts and washers. The 
+foundation should be allowed to cure for several days 
+before the baseplate is shimmed and grouted.
+
+Baseplate setting: (before piping)
+
+Grout compensates for uneven foundation, 
+distributes weight of unit, and prevents shifting. 
+Use an approved, non-shrinking grout (such as 
+Embeco 636 by Master Builders, Cleveland, Ohio or 
+equivalent), as follows, after setting and leveling unit. 
+(See Figure 9)
+
+NOTE: This procedure assumes that a concrete 
+foundation has been prepared with anchor or hold 
+down bolts extending up ready to receive unit. It must 
+be understood that pump and motor have been
+mounted and rough aligned at the factory. If motor
+is to be field mounted, consult factory for 
+recommendations. Goulds Water Technology 
+cannot assume responsibility for final alignment.
+
+1. Build strong form around the foundation to 
+contain grout.
+2. Soak top of concrete foundation thoroughly, 
+then remove surface water.
+3. Baseplate should be completely filled with grout 
+and if necessary, temporarily use air relief tubing or 
+drill vent holes to remove trapped air.
+4. After the grout has thoroughly hardened, check 
+the foundation bolts and tighten if necessary.
+
+1. Use blocks and shims under base for support 
+at anchor bolts and midway between bolts, to 
+position base approximately 1" above the concrete 
+foundation with studs extending through holes in 
+the baseplate.
+
+18
+
+
+
+=== PDF page 19 of 32 | native ===
+
+Figure 9- Setting baseplate and grouting
+
+5. Check the alignment after the foundation bolts 
+are tightened.
+6. Approximately 14 days after the grout has been
+	
+poured or when the grout has thoroughly dried, 
+apply an oil base paint to the exposed edges of the 
+grout to prevent air and moisture from coming in 
+contact with the grout.
+
+Suction and discharge piping
+
+General
+
+the piping system they must be installed beyond the 
+piping supports closest to the pump. Tie bolts should 
+be used with expansion joints to prevent pipe strain. 
+Do not install expansion joints next to the pump or 
+in any way that would cause a strain on the pump 
+resulting from system pressure changes. lt is usually 
+advisable to increase the size of both suction and 
+discharge pipes at the pump connections to decrease 
+the loss of head from friction.
+Install piping as straight as possible, avoiding 
+unnecessary bends. Where necessary, use 45-degree 
+or long sweep 90-degree fitting to decrease friction 
+losses.
+
+When installing the pump piping, be sure to observe 
+the following precautions:
+
+Piping should always be run to the pump.
+
+Make sure that all piping joints are air-tight.
+Where flanged joints are used, assure that inside
+diameters match properly.
+
+Do not move pump to pipe. This could make final
+alignment impossible.
+
+Remove burrs and sharp edges when making up 
+joints.
+
+Do not "spring" piping when making any connections.
+
+Provide for pipe expansion when hot fluids are to be
+pumped.
+
+Both the suction and discharge piping should be
+independently supported near the pump and 
+properly aligned so that no strain is transmitted to the 
+pump when the flange bolts are tightened. Use pipe 
+hangers or other supports at necessary intervals to 
+provide support. When expansion joints are used in
+
+19
+
+
+
+=== PDF page 20 of 32 | native ===
+
+Suction piping
+
+When installing the suction piping, observe the 
+following precautions (See Figure 10).
+
+The sizing and installation of the suction piping is
+extremely important. It must be selected and installed 
+so that pressure losses are minimized and sufficient 
+liquid will flow into the pump when started and 
+operated. Many NPSH (Net Positive Suction Head) 
+problems can be directly attributed to improper 
+suction piping systems. Suction piping should be 
+short in length, as direct as possible, and never 
+smaller in diameter than the pump suction opening. 
+If the suction pipe is short, the pipe diameter can be 
+the same size as the suction opening. If longer suction 
+pipe is required, pipes should be one or two sizes 
+larger than the opening depending on piping length.
+
+Suction piping for horizontal double suction pumps
+should not be installed with an elbow close to the 
+suction flange of the pump except when the suction 
+elbow is in the vertical plane. A suction pipe of the 
+same size as the suction nozzle approaching at any 
+angle other than straight up or straight down must 
+have the elbow located 10 pipe diameters from the 
+suction flange of the pump. Vertical mounted pumps 
+and other space limitations require special piping.
+
+There is always an uneven turbulent flow around an
+elbow and when it is in a position other than the 
+vertical it causes more liquid to enter one side of the 
+impeller than the other. (See Figure 11) This results 
+in high unequalized thrust loads that will overheat the 
+bearings and cause rapid wear in addition to affecting 
+hydraulic performance.
+
+Figure 10 - Suction pipe installation
+
+(Piping supports not shown)
+
+20
+
+
+
+=== PDF page 21 of 32 | native ===
+
+3. Where two or more pumps are connected to the 
+same suction line, install gate valves so that any 
+pump can be isolated from the line. Gate valves 
+should be installed on the suction side of all pumps 
+with a positive pressure for maintenance purposes. 
+Install gate valves with stems horizontal to avoid 
+air pockets. Globe valves should not be used, 
+particularly where NPSH is critical.
+4. The pump must never be throttled by the use of 
+a valve on the suction side of the pump. Suction 
+valves should be used only to isolate the pump 
+for maintenance purposes, and should always be 
+installed in positions to avoid air pockets.
+
+Discharge piping
+
+Figure 11 - Unbalanced loading of a double 
+suction impeller due to uneven flow around
+
+an elbow adjacent to the pump.
+
+If the discharge piping is short, the pipe diameter can 
+be the same as the discharge opening. If the piping is 
+long, pipe diameter should be one or two sizes larger 
+than the discharge opening. On long horizontal runs, 
+it is desirable to maintain as even a grade as possible. 
+Avoid high spots, such as loops, which will collect air 
+and throttle the system or lead to erratic pumping.
+
+Valves in discharge piping
+
+When operating on a suction lift, the suction pipe 
+should slope upward to the pump nozzle. A horizontal 
+suction line must have a gradual rise to the pump. Any 
+high point in the pipe will become filled with air and 
+thus prevent proper operation of the pump. When 
+reducing the piping to the suction opening diameter 
+use an eccentric reducer with the eccentric side down 
+to avoid air pockets.
+
+A check valve and gate valve should be installed in 
+the discharge. The check valve, placed between pump 
+and gate valve, protects the pump from excessive 
+back pressure, and prevents liquid from running 
+back through the pump in case of power failure. The 
+gate valve is used in priming and starting, and when 
+shutting the pump down.
+
+NOTE: When operating on suction lift never use a 
+straight taper reducer in a horizontal suction line, as it
+tends to form an air pocket in the top of the reducer 
+and the pipe.
+
+Pressure gauges
+
+To facilitate cleaning pump liquid passage without 
+dismantling pump, an increasing suction nozzle or 
+suction diffuser should be bolted to the suction flange. 
+If this is not done, a short section of pipe (Dutchman 
+or spool piece) so designed that it can be readily 
+dropped out of the line can be installed adjacent to 
+the suction flange. With this arrangement, any matter 
+clogging the impeller is accessible by removing the 
+nozzle (or pipe section).
+
+Properly sized pressure gauges should be installed in 
+both the suction and discharge nozzles in the gauge 
+taps (which are provided on request). The gauges will 
+enable the operator to easily observe the operation 
+of the pump, and also determine if the pump is 
+operating in conformance with the performance 
+curve. If cavitation, vapor binding, or other unstable 
+operation should occur, widely fluctuating discharge 
+pressure will be noted.
+
+Valves in suction piping
+
+Stuffing box
+
+When installing valves in the suction piping, observe 
+the following precautions:
+
+1. If the pump is operating under static suction lift
+	
+conditions, a foot valve may be installed in the 
+suction line to avoid the necessity of priming each 
+time the pump is started. This valve should be of the 
+flapper type, rather than the multiple spring type, 
+sized to avoid excessive friction in the suction line. 
+(Under all other conditions, a check valve, if used, 
+should be installed in the discharge line. 
+See Figure 12.)
+2. When foot valves are used, or where there are other
+	
+possibilities of "water hammer," close the discharge
+	
+valve slowly before shutting down the pump.
+
+Contaminants in the pumped liquid must not enter 
+the packing space. These contaminants may cause 
+severe abrasion or corrosion of the shaft, or shaft 
+sleeve, and rapid packing deterioration; they can 
+even plug the stuffing box flushing and lubrication 
+system. The stuffing box must be supplied at all 
+times with a source of clean, clear liquid to flush 
+and lubricate the packing. The most important 
+consideration is to establish the optimum flushing 
+pressure that will eliminate contaminants from 
+the packing. If this pressure is too low, fluid being 
+pumped may enter the stuffing box. If the pressure 
+is too high, excessive packing wear will result; and 
+extreme heat may develop in the shaft causing higher 
+bearing temperatures. The most desirable condition,
+
+21
+
+
+
+=== PDF page 22 of 32 | native ===
+
+Packing lubrication
+
+Internal liquid lubricant
+
+Pumped liquid may be used to lubricate the packing 
+when the following conditions prevail:
+1. Liquid is clean, free from sediment and chemical
+	 precipitation and is compatible with seal materials.
+2. Temperature is above 32°F and below 160°F.
+3. Suction pressure is below 75 psig.
+4. Liquid has lubricating qualities.
+5. Liquid is non-toxic and non-volatile.
+
+External liquid lubricant
+
+Figure 12 - Controlled pressure system
+
+for stuffing box
+
+When the liquid being pumped contains solids or is
+otherwise not compatible with packing materials, an
+outside supply of seal liquid should be furnished. In 
+general, external-injection liquid (from an outside 
+source) is required when the following conditions 
+prevail:
+1.  Liquid being pumped contains dirt, grit, or 
+other impurities.
+2. Temperature of the pumped liquid is below 
+32°F or above 160°F.
+3. Liquid being pumped has non-lubricating 
+properties.
+4. Liquid is toxic or volatile.
+5. Suction pressure is above 75 psig, vacuum, 
+or high lift.
+
+therefore, is to use the lowest possible flushing 
+pressure which the operating conditions will permit. 
+If the pump system pressure conditions vary during 
+the day, the packing problem becomes difficult. 
+Consideration should be given to using a mechanical 
+seal. (See "Mechanical Seals".)
+
+Stuffing box operating 
+pressure
+
+The actual stuffing box operating pressure may be 
+obtained by installing a pressure gauge on the box. 
+This is done with an extra seal cage temporarily 
+replacing the two rings of packing in the bottom 
+of the box to obtain accurate gauge readings. Take 
+gauge readings with the pump running under
+various head and capacity conditions. Then set the 
+pressure of flushing or lubrication liquid at a value
+5 to 10 psi above the maximum expected stuffing box 
+operating pressure.
+
+One recommended method to minimize error in
+regulating flushing water is a "Controlled Pressure 
+System" (Figure 12). Most important is the pressure 
+reducing valve adjusted to a value slightly exceeding 
+the maximum stuffing box operating pressure 
+(assuming it is reasonably constant). A flow indicating 
+device will serve to indicate a failing of the bottom 
+packing rings allowing leakage into the pump. 
+With this arrangement, the packing gland need be 
+tightened only against the lowest necessary pressure. 
+Longer packing life and less frequent adjustments 
+are possible with the "Controlled Pressure System" if 
+properly installed and operated. (See "Stuffing Box 
+Operating Pressure".)
+
+Packing
+
+Even under the best conditions, a properly packed
+stuffing box should be watched closely. If pressure
+conditions change slightly, there will be a resultant 
+change in packing "seating" which should be 
+compensated by a change in gland adjustment. 
+Consideration should also be given to the lubrication 
+pressure. A wide variation indicates a need to use a 
+mechanical seal.
+
+Mechanical seals
+
+Standard pumps are normally packed before 
+shipment. If the pump is installed within 60 days after 
+shipment, the packing will be in good condition with 
+a sufficient supply of lubrication. If the pump is stored 
+for a longer period, it may be necessary to repack the 
+stuffing box. In all cases, however, inspect the packing 
+before the pump is started.
+
+NOTE: Packing adjustment is covered on page 31.
+
+Mechanical seals are preferred over packing on some
+applications because of better sealing qualities and 
+longer serviceability. Leakage is eliminated when 
+a seal is properly installed, and normal life is much 
+greater than that of packing on similar applications.
+
+22
+
+
+
+=== PDF page 23 of 32 | native ===
+
+Operation
+Pre-start checks
+
+A mechanical shaft seal is supplied in place of a 
+packed stuffing box when specifically requested. The 
+change from packing to an alternate arrangement may 
+be made in the field by competent service personnel. 
+Conversion kits may be ordered from your
+Goulds Water Technology Sales Representative.
+
+Before initial start of the pump, make the following
+inspections:
+
+Single mechanical seal
+
+Pumps containing single mechanical seals normally 
+utilize the pumped liquid to lubricate the seal faces. 
+This method is preferred when the pumped liquid 
+is neither abrasive nor corrosive. If the liquid being 
+pumped is not suitable, an external flush should be 
+provided. (See "External Liquid Lubricant" page 22.)
+
+Double mechanical seal
+
+A double mechanical seal consists of two single seals
+mounted back-to-back and a suitable sealing liquid 
+which is introduced into the seal chamber. The sealing 
+liquid (preferably clear water) is injected into the 
+box at a higher pressure than that which exists at the 
+entrance to the seal cavity on the pump side. The 
+pressure differential isolates the sealing faces from the 
+pumped liquid. Double mechanical seals are normally 
+preferred in pumps handling sewage, slurries, or any 
+other solids suspended in the pumped liquid.
+
+1. Check alignment between pump and motor
+2. Check all connections to motor and starting device
+	
+with wiring diagram. Check voltage, phase, and
+	
+frequency on motor nameplate with line circuit.
+3. Check suction and discharge piping and pressure 
+gauges for proper operation.
+4. Check impeller adjustment, see specific section 
+for proper adjustment.
+5. Turn rotating element by hand to assure that it 
+rotates freely.
+6. Check stuffing box adjustment, lubrication, 
+and piping.
+7. Check driver lubrication.
+8. Assure that pump bearings are properly lubricated.
+9. Assure that coupling is properly lubricated, if 
+required.
+10. Assure that pump is full of liquid, (See "Priming" 
+below) and all valves are properly set and 
+operational, with the discharge valve closed, 
+and the suction valve open.
+11. Check rotation. Be sure that the driver operates in 
+the direction indicated by the arrow on the pump 
+casing as serious damage can result if the pump 
+is operated with incorrect rotation. Check rotation 
+each time the motor leads have been disconnected.
+
+CAUTION: ROTATION SHOULD BE CHECKED WITH
+COUPLING DISCONNECTED ON COUPLED UNITS.
+
+Lubrication for the double seal is provided by the
+sealing liquid which is introduced through the tap 
+in the seal cavity. The sealing liquid pressure must 
+always be higher than the pressure on the seal closer 
+to the suction side. If sufficient sealing pressure is not 
+maintained, the pressure within the pump can force 
+open the lower seal and allow the pumped liquid to 
+enter the box which can damage the seals.
+
+Priming
+
+Two methods are used to provide sealing liquid to the
+stuffing box:
+
+1. A common method utilizes a pressure line which is
+	 installed from a tap on the discharge nozzle to the
+
+If the pump is installed with a positive head on the 
+suction, it can be primed by opening the suction and 
+vent valve and allowing the liquid to enter the casing.
+If the pump is installed with a suction lift, priming must
+be done by other methods such as foot valves, 
+ejectors, or by manually filling the casing and 
+suction line.
+
+tap in the stuffing box cartridge. A filter is installed in 
+the line to trap the solid particles. The filter must 
+be capable of screening out all particles above 
+25 microns in size.
+
+Since the liquid is bypassed from the high pressure
+(discharge) side of the pump, and dead-ended in the
+stuffing box cartridge, there are no problems in
+maintaining a sufficient pressure differential provided
+the filter is not clogged.
+
+CAUTION: UNDER EITHER CONDITION, THE PUMP
+MUST BE COMPLETELY FILLED WITH LIQUID
+BEFORE STARTING. THE PUMP MUST NOT BE RUN
+DRY IN THE HOPE IT WILL PRIME ITSELF. SERIOUS
+DAMAGE TO THE PUMP MAY RESULT IF IT IS
+STARTED DRY.
+
+Starting
+
+2. Clear, clean water can be supplied from an external
+	
+source in some installations. City water can be used 
+if there is an air break between the water supply 
+and the water being provided to the pump. Various 
+municipal ordinances require this break to prevent 
+contamination of the city water supply.
+
+1. Close drain valves and valve in discharge line.
+2. Open fully all valves in the suction line.
+3. Turn on seal water to the stuffing box. (If pumped
+	
+fluid is dirty or if leakage of air is to be prevented,
+	
+these lines should be always left open.)
+4. Prime the pump.
+
+23
+
+
+
+=== PDF page 24 of 32 | native ===
+
+Freezing protection
+
+NOTE: If the pump does not prime properly, or loses
+prime during start-up, it should be shutdown and the 
+condition corrected before the procedure is repeated.
+
+Pumps that are shut down during freezing conditions
+should be protected by one of the following 
+methods.
+
+1 . Drain the pump; remove all liquids from the 
+casing.
+2. Keep fluid moving in the pump and insulate or heat
+	
+the pump to prevent freezing.
+	
+CAUTION: IF HEAT IS USED TO KEEP THE PUMP
+FROM FREEZING, DO NOT LET THE TEMPERATURE
+RISE ABOVE 150°F.
+
+Field tests
+
+5. (Pumps moving high temperature liquids.) Open 
+the warm-up valve to circulate liquid for preheating.
+	
+Consult the instructions that cover such specially
+	
+designed heating system.
+6. Start the pump driver (turbines and engines may 
+require warming up; consult the manufacturer's 
+instructions).
+7. When the pump is operating at full speed, open 
+the discharge valve slowly. This should be done 
+promptly after start-up to prevent damage to pump 
+by operating at zero flow.
+8. Adjust the liquid seal valves to produce the 
+recommended pressure for either the mechanical 
+seal or packed stuffing box.
+
+Operating checks
+
+Performance curve
+A typical performance curve for a specific pump 
+can be obtained from Goulds Water Technology. 
+This can be used in conjunction with a field test, 
+if one is required. All Goulds Water Technology 
+pump tests and curves are based on the "Hydraulic 
+Institute Standards." Any field test must be conducted 
+according to these Standards.
+
+Unless otherwise specifically agreed, all capacity, 
+head, and efficiencies are based on shop tests when 
+handling clear, cold, fresh water at a temperature not 
+over 85°F and under suction conditions as specified 
+in the contract.
+
+1 . Check the pump and piping to assure that there 
+are no leaks.
+2. Check and record pressure gauge readings for 
+future reference.
+3. Check and record voltage, amperage per phase, 
+and kW if an indicating wattmeter is available.
+4. Check bearings for lubrication and temperature. 
+Normal temperature is 180°F maximum.
+5. Check and adjust stuffing box for correct operation.
+	
+(See page 31).
+6. Check sealing water lines and valves.
+
+To aid in calculating pump performance, the following
+test information and definitions are included for 
+reference.
+
+CAUTION: MAKE ALL PUMP OUTPUT ADJUSTMENTS
+WITH THE DISCHARGE VALVE. DO NOT THROTTLE
+THE SUCTION LINE TO ADJUST THE PUMP OUTPUT.
+
+NOTE: Complete procedure for testing pumps 
+is given in the "Hydraulic Institute Standards" 
+Centrifugal Pump Section.
+
+Shutdown
+
+Gauge datum
+
+The datum for all gauge readings is taken as the 
+centerline of the pump shaft for all horizontal shaft 
+pumps and as the eye of the impeller for vertical 
+pumps.
+
+The following steps of procedure will take care of 
+most normal shutdowns of the pump. Make any 
+further adjustments of process piping, valves, etc., as 
+required. If the pump is to be removed from service 
+for an extended period of time, refer to "Temporary 
+Storage" and "Freezing Protection" (See page 17).
+
+1. Close the discharge valve slowly.
+
+Head measurement
+
+NOTE: When stopping pump, always close discharge
+valve first.
+
+The unit for measuring head should be feet; 
+therefore, all pressure readings of the pumped 
+liquid should be converted to feet. The relationship 
+between a pressure expressed in pounds per square 
+inch (psi) and that expressed in feet of head is:
+
+Head in feet =   psi x 2.3
+
+sg
+
+2. Shut down the driver (Consult manufacturer's 
+instructions for special operations.)
+3. Close seal liquid valves. (If pumped liquid is dirty 
+or if leakage is to be prevented, these lines should 
+always be left open.)
+4. Open drain valves as required.
+
+Where sg =specific gravity of the liquid pumped
+Where sg = 1.0 for water at 60°F
+
+24
+
+
+
+=== PDF page 25 of 32 | native ===
+
+Total head
+
+2. The true motor brake horsepower, once the 
+efficiency is determined from dynamometer tests, 
+can also be calculated from the following formula:
+
+Total head is the algebraic difference between the 
+total suction and the total discharge heads.
+
+Bhp =   kW input x Eff.
+
+1. Where suction lift exists, total head is the sum of the
+	
+total discharge head and the suction lift.
+2. Where positive suction head exists, the total head is
+	
+the total discharge head minus the total suction 
+head.
+
+0.746
+Where Bhp = Brake horsepower delivered
+             kW input = Real input power (kW)
+             Eff. = Motor efficiency
+
+Suction lift
+
+Pump efficiency
+
+Pump efficiency can be calculated by the formula:
+
+Pump efficiency =
+
+Total head x GPM x specific gravity
+                                         3960 x Bhp
+
+Suction lift exists where the total suction head is below
+atmospheric pressure. Total suction lift is the reading 
+of a liquid monometer at the suction nozzle of the 
+pump, converted to feet of liquid, and referred to the 
+datum minus the velocity head at the point of gauge 
+attachment.
+
+Vibration
+
+Positive suction head
+
+Suction head exists when the total suction head is 
+above atmospheric pressure. Total suction head is 
+the reading of a gauge at the suction of the pump, 
+converted to feet of liquid, and referred to datum plus 
+the velocity head at the point of gauge attachment.
+
+Velocity head
+
+The acceptable vibration level of a centrifugal pump
+depends on the rigidity of the pump and the 
+supporting structure. Recommended values for 
+vibration can vary between .20 ips velocity to .60 ips 
+velocity depending on the operating characteristics 
+and the structure. Refer to the standards of the 
+"Hydraulic Institute" for the complete description 
+and charts on various structures.
+
+Electrical requirements
+
+Motor (also see separate motor instructions)
+
+Velocity head is figured from the average velocity 
+obtained by dividing the discharge flow (in cubic 
+feet per second) by the actual area of the pipe cross-
+section (in square feet), and is determined at the point 
+of gauge connection. lt is expressed by the formula:
+
+hv =   V2
+
+2g
+
+Where g = the acceleration due to gravity, and is 
+32.17 feet per second squared at sea level and 
+45 degrees latitude.
+
+If the motor is sized to operate near full load at 
+the rated head and capacity of the pump, a watt-
+meter should be installed to record input power 
+to the motor. If motor efficiency is known, the shaft 
+horsepower may be calculated and checked against 
+the motor rating. A motor operating outside its 
+service factor will overheat and could possibly burn 
+out. Motors are usually rated with normal temperature 
+requirements stamped on the data plate.
+
+V = velocity in the pipe in feet per second.
+
+Volume measurement
+
+The method of volume measurement should be 
+made by some accurate and accepted method and 
+converted to gallons per minute. For easy reference, 
+refer to the following:
+
+NOTE: A motor which feels hot to the touch of the 
+hand is not necessarily running hot. Check with an
+accurate temperature measuring device to be sure.
+A motor operating outside its service factor will
+overheat and could possibly burn out. Motors are
+usually rated with normal temperature requirements
+stamped on the data plate.
+
+Conduit box
+
+1. The standard U.S. gallon contains 231 cubic inches.
+2. One cubic foot equals 7.4805 gallons.
+3. The specific weight of water at a temperature of   
+    60°F shall be taken as 62.34 pounds per cubic foot.
+
+Horsepower
+
+Conduit boxes are mounted on the motors at lead 
+access openings. Conduit boxes are normally 
+provided for main power leads and other special 
+accessories, such as space heaters, temperature 
+alarms and control features.
+
+1. The formula for horsepower required at the pump
+    shaft is:
+ 
+              Bhp =  Total head x GPM x specific gravity
+                                  3960 x Eff.
+
+The conduit box openings are sized as shown on the
+motor dimension drawing, and threaded for using 
+standard rigid or flexible conduit. They may be 
+assembled with conduit openings at any of four (4) 
+90° positions.
+
+25
+
+
+
+=== PDF page 26 of 32 | native ===
+
+Motor controls - General
+
+External wiring
+
+Wiring to the motor should be installed in 
+conformance with the National Electrical Code 
+and any local codes.
+
+Motor controls should conform to all the electrical 
+data stamped on the motor data plate. Complete 
+instructions for installation, operation, and 
+maintenance are included with the controlling device.
+
+Troubleshooting
+
+Between regular maintenance inspections, be alert for signs of motor or pump trouble. Common symptoms are 
+listed below. Correct any trouble immediately and AVOID COSTLY REPAIR AND SHUTDOWN.
+
+No liquid delivered
+
+CAUSES
+CURES
+
+1. Lack of prime.
+Fill pump and suction pipe completely with liquid.
+
+2. Loss of prime.
+Check for leaks in suction pipe joints and fittings; vent casing to remove 
+accumulated air.
+
+3. Suction lift too high.
+If no obstruction at inlet, check for pipe friction losses. However, static lift may be 
+too great. Measure with mercury column or vacuum gauge while pump operates. 
+If static lift is too high, liquid to be pumped must be raised or pump lowered.
+
+4. Discharge head too high.
+Check pipe friction losses. Large piping may correct condition. 
+Check that valves are wide open.
+
+5. Speed too low.
+Check whether motor is directly across-the-line and receiving 
+full voltage. Or frequency may be too low; motor may have an 
+open phase.
+
+6. Wrong direction of rotation.
+Check motor rotation with directional arrow on pump casing.
+
+7. Impeller completely plugged.
+Dismantle pump and clean impeller.
+
+Not enough liquid delivered
+
+CAUSES
+CURES
+
+8. Air leaks in suction piping.
+
+If liquid pumped is water or other non-explosive, and explosive gas or dust is 
+not present, test flanges for leakage with flame or match. For such liquids as 
+gasoline, suction line can be tested by shutting off or plugging inlet and putting 
+line under pressure. A  gauge will indicate a leak with a drop of pressure.
+
+9. Air leaks in stuffing box.
+Increase seal lubricant pressure to above atmosphere.
+
+10. Speed too low.
+See item 5.
+
+11. Discharge head too high.
+See item 4.
+
+12. Suction lift too high
+See item 3.
+
+13. Impeller partially plugged.
+See item 7.
+
+a. Increase positive suction head on pump by lowering pump.
+b. Sub-cool suction piping at inlet to lower entering
+
+14. Cavitation; insufficient NPSH
+(depending on installation)
+
+liquid temperature.
+c. Pressurize suction vessel.
+
+15. Defective impeller.
+Inspect impeller, bearings and shaft. Replace if damaged or vane sections badly 
+eroded.
+
+16. Defective packing.
+Replace packing and sleeves if badly worn.
+
+17. Foot valve too small or partially
+obstructed.
+
+Area through ports of valve should be at least as large as area of suction pipe - 
+preferably 1-1/2 times. If strainer is used, net clear area should be 3 to 4 times 
+area of suction pipe.
+
+18. Suction inlet not immersed
+deep enough.
+
+If inlet cannot be lowered, or if eddies through which air is sucked persist 
+when it is lowered, chain a board to suction pipe. It will be drawn into eddies, 
+smothering the vortex.
+
+19. Wrong direction of rotation.
+Symptoms are an overloaded drive and about 1/3 rated capacity from pump. 
+Compare rotation of motor with directional arrow on pump casing.
+
+20. Too small impeller diameter
+(probable cause if none of above).
+
+Check with factory to see if a larger impeller can be used: otherwise, cut pipe 
+losses or increase speed -or both, as needed. But be careful not to seriously 
+overload drive.
+
+26
+
+
+
+=== PDF page 27 of 32 | native ===
+
+Not enough pressure
+
+CAUSES
+CURES
+
+21. Speed too low.
+See item 5.
+
+22. Air leaks in suction piping.
+See item 8.
+
+23. Mechanical defects.
+See items 15, 16 and 17.
+
+24. Obstruction in liquid passages.
+Dismantle pump and inspect passages of impeller and casing. 
+Remove obstruction.
+
+May be possible to over rate pump to point where it will provide
+adequate pressure despite condition. Better to provide gas 
+separation chamber on suction line near pump, and periodically 
+exhaust accumulated gas. See item 14.
+
+25. Air or gases in liquid. (Test in
+laboratory, reducing pressure on
+liquid to pressure in suction line.
+Watch for bubble formation.)
+
+26. Too small impeller diameter.
+(Probable cause if none of above.)
+See item 20.
+
+Pump operates for short time, then stops
+
+CAUSES
+CURES
+
+27. Incomplete priming.
+Free pump, piping and valves of all air. If high points in suction line
+prevent this, they need correcting. See page 21.
+
+28. Suction lift too high.
+Sec item 3.
+
+29. Air leaks in suction piping.
+See item 8.
+
+30. Air leaks in stuffing box.
+See item 9.
+
+31. Air or gases in liquid.
+See item 25.
+
+27
+
+
+
+=== PDF page 28 of 32 | native ===
+
+Pump takes too much power
+
+CAUSES
+CURES
+
+32. Head lower than rating; thereby 
+pumping too much liquid.
+Machine impeller's OD to size advised by factory.
+
+33. Cavitation
+See item 14.
+
+34. Mechanical defects
+See items 15, 16 and 17.
+
+35. Suction inlet not immersed 
+enough.
+See item 18.
+
+36. Liquid heavier (in either viscosity or 
+specific gravity) than allowed for.
+
+Use larger driver. Consult factory for recommended size. Test liquid 
+for viscosity and specific gravity.
+
+37. Wrong direction of rotation.
+See item 6
+
+38. Stuffing boxes too tight.
+
+Release gland pressure. Tighten reasonably. If sealing liquid does 
+not flow while pump operates, replace packing. If packing is wearing 
+too quickly, replace scored shaft sleeves and keep liquid seeping for 
+lubrication.
+
+Check alignment. Examine pump for friction between impeller and 
+casing. Replace damaged parts.
+
+39. Casing distorted by excessive 
+strains from suction or discharge 
+piping.
+
+40. Shaft bent due to damage through 
+shipment, operation or overhaul.
+
+Check deflection of rotor by turning on bearing journals. Total 
+indicator run-out should not exceed 0.001 on shaft and 0.004 inch on 
+impeller wearing surface.
+
+41. Mechanical failure of critical 
+pump parts.
+
+Check bearings and impeller for damage. Any irregularity in these 
+parts will cause a drag on shaft.
+
+42. Misalignment
+Realign pump and driver.
+
+Check voltage on motor.
+
+43. Speed may be too high (brake 
+hp of pump varies as the cube of 
+the speed; therefore, any increase 
+in speed means considerable 
+increase in power demand).
+
+44. Electrical defects
+The voltage and frequency of the electrical current may be lower 
+than that for which motor was built; or there may be defects in motor. 
+The motor may not be ventilated properly due to a poor location.
+
+If trouble cannot be located, consult factory.
+
+45. Mechanical defects in turbine, 
+engine or other type of drive 
+exclusive of motor.
+
+28
+
+
+
+=== PDF page 29 of 32 | native ===
+
+Maintenance
+
+exclude outside liquid. Therefore, it should not be 
+necessary to go beyond the bearings, stuffing box, 
+and coupling when servicing the pump.
+
+General maintenance
+
+Bearing lubrication - grease
+
+Grease lubricated ball bearings are packed with 
+grease at the factory and ordinarily will require no 
+attention before starting provided the pump has 
+been stored in a clean, dry place prior to its first 
+operation. The bearings should be watched the first 
+hour or so after the pump has been started to see 
+that they are operating properly.
+
+Operating conditions vary so widely that to 
+recommend one schedule of preventative 
+maintenance for all centrifugal pumps is not possible. 
+Yet some sort of regular inspection must be planned 
+and followed. We suggest a permanent record be 
+kept of the periodic inspections and maintenance 
+performed on your pump. This recognition of 
+maintenance procedure will keep your pump in good 
+working condition, and prevent costly breakdowns.
+
+The importance of proper lubrication cannot be over
+emphasized. It is difficult to say how often a bearing 
+should be greased, since that depends on the 
+conditions of operation. It is well to add one ounce of 
+grease at regular intervals, but it is equally important 
+to avoid adding too much grease. For average 
+operating conditions, it is recommended that 1oz. of 
+grease be added at intervals of three to six months, 
+and only clean grease be used. It is always best if 
+unit can be stopped while grease is added to avoid 
+overloading.
+
+NOTE: Excess grease is the most common cause 
+of overheating.
+
+One of the best rules to follow in the proper
+maintenance of your centrifugal pump is to keep 
+a record of actual operating hours. Then, after a 
+predetermined period of operation has elapsed, the 
+pump should be given a thorough inspection. The 
+length of this operating period will vary with different 
+applications, and can only be determined from 
+experience. New equipment, however, should be 
+examined after a relatively short period of
+operation. The next inspection period can be 
+lengthened somewhat. This system can be followed 
+until a maximum period of operation is reached 
+which should be considered the operating schedule 
+between inspections.
+
+Maintenance of pump due 
+to flood damage
+
+The bearing frame should be kept clean, since any
+contamination of foreign matter which gets into the
+housing will destroy bearings in a short time. When 
+cleaning bearings, use a bearing cleaning solvent, or 
+an industrial cleaning solvent. Do not use gasoline. 
+Use lint free cloths. Do not use waste rags.
+
+The servicing of centrifugal pumps after a flooded
+condition is a comparatively simple matter under 
+normal conditions.
+
+A regular ball bearing grease should be used, but a
+standard commercial vaseline can be substituted if
+necessary.
+
+Do not use graphite. A NGLI No. 1 or 2 grease is 
+generally satisfactory for operation at ordinary 
+temperatures, the lighter grease for operation at high 
+speed or low room temperature.
+
+Bearings are a primary concern on pumping units. 
+First, dismantle the bearings; clean and inspect them 
+for any rusted or badly worn surfaces. If bearings are 
+free from rust and wear, reassemble and relubricate 
+them with one of the recommended pump lubricants. 
+Depending on the length of time the pump has 
+remained in the flooded area, it is unlikely that 
+bearing replacement is necessary; however, in the 
+event that rust or worn surfaces appear, it may be 
+necessary to replace the bearings.
+
+Mineral greases with a soda soap base are 
+recommended. Grease made from animal or 
+vegetable oils are not recommended due to the 
+danger of deterioration and forming of acid. Most 
+of the leading oil companies have special bearing 
+greases which are satisfactory. For specific
+recommendations, consult the factory.
+
+Next, inspect the stuffing box, and clean out any 
+foreign matter that might clog the box. Packing that 
+appears to be worn, or no longer regulates leakage 
+properly should be replaced. Mechanical seals should 
+be cleaned and thoroughly flushed.
+
+The maximum desirable operating temperature for 
+ball bearings is 180°F. Should the temperature of the 
+bearing frame rise above 180°F, the pump should be 
+shut down to determine the cause.
+
+Couplings should be dismantled and thoroughly 
+cleaned. Lubricate the coupling with one of the 
+coupling manufacturer's recommended lubricants 
+where required.
+
+Grease lubricated bearings should not be used 
+where temperature of the pumped liquid exceeds 
+350°F.
+
+Any pump that is properly sealed at all joints and
+connected to both the suction and discharge should
+
+29
+
+
+
+=== PDF page 30 of 32 | native ===
+
+Packing
+
+NOTE: A bearing frame which feels hot to the touch of
+the hand is not necessarily running hot. Check
+with an accurate temperature measuring device
+to be sure.
+
+Stuffing box
+
+All pumps are packed before shipment, unless 
+otherwise requested. All packings used are the 
+highest grade material. Before pump is put into 
+operation, check the condition of the packing. If 
+pump is installed within 60 days after shipment, the 
+packing will be in good condition with a sufficient 
+supply of lubrication. If pump is stored for a longer 
+period, it may be necessary to repack the stuffing box. 
+In all cases, however, we recommend an inspection of 
+the packing before pump is started.
+
+The standard stuffing box consists of rings of packing,
+(See assembly section for number of rings) a seal cage,
+and a gland. A shaft sleeve which extends through the
+box and under the gland is normally provided to 
+protect the shaft.
+
+Fiber packing
+
+A tapped hole is supplied in the stuffing box directly 
+over the seal cage to introduce a clean, clear sealing
+medium. The stuffing box must at all times be supplied
+with sealing liquid at a high enough pressure to keep 
+the box free from foreign matter, which would quickly 
+destroy the packing and score the shaft sleeve.
+
+The standard packing is a soft, square asbestos, 
+impregnated with oil and graphite. A soft well-
+lubricated packing reduces stuffing box resistance, 
+and prevents excessive wear on the shaft or shaft 
+sleeve. Many brands of packing on the market have 
+the desired qualities. For specific recommendations, 
+consult the factory.
+
+Water lubrication
+
+Only a sufficient volume of sealing liquid to create a
+definite direction of flow from the stuffing box inward 
+to the pump casing is required, but the pressure is 
+important. Apply seal water at a rate of 0.5 - 1.0 GPM, 
+at  5 - 10 PSI above stuff box operating pressure.
+
+We recommend that piping supplying sealing liquid to
+stuffing box be sized to supply a sufficient volume of 
+water at the required pressure, based on the location 
+of the pump (or pumps) with respect to the liquid 
+source. A small pipe can be utilized for the connection 
+to the stuffing box. A valve should be installed to 
+adjust and regulate sealing liquid and a gauge 
+installed to check pressure to the box.
+
+When a pump with fiber packing is first started, it is
+advisable to have the packing slightly loose without 
+causing an air leak. As pump runs in, gradually tighten 
+the gland bolts evenly. The gland should never be 
+drawn to the point where packing is compressed 
+too tightly, and no leakage occurs. This will cause 
+the packing to burn, score the shaft or shaft sleeve, 
+and prevent liquid from circulating through the 
+stuffing box, cooling the packing. The stuffing box is 
+improperly packed or adjusted if friction in the box
+prevents turning the rotating element by hand. A 
+properly operated packed stuffing box should run 
+lukewarm with a slow drip of sealing liquid. After the 
+pump has been in operation for some time and the 
+packing has been completely run-in, drippage from 
+the stuffing box should be at least 40 to 60 drops per 
+minute. This will indicate proper packing and shaft 
+sleeve lubrication and cooling.
+
+NOTE: Eccentric operation of the shaft, or sleeve, 
+through the packing could result in excess leakage 
+that cannot be compensated for. Correction of this
+defect is very important.
+
+External sealing liquid should be adjusted to the point
+where the packing runs only slightly warm, with a very 
+slow drip from the stuffing box. Excess pressure from 
+an external source can be very destructive to packing. 
+More pressure is required, however, for abrasive 
+slurries than for clear liquids. Examination of the 
+leakage will indicate whether to increase or decrease 
+external pressure. If slurry is present in the leakage, 
+increase the pressure until only clear liquid drips from 
+the box. If the drippage is corrosive or harmful to 
+personnel, it should be collected and piped away.
+
+A common error is to open the external piping valve
+wide and then control the drippage by tightening the
+packing gland. Actually, a combination of both 
+adjustments is essential to arrive at the optimum 
+condition. The life of packing and sleeve depends on 
+this careful control more than any other factor.
+
+Grease lubrication
+
+Packing should be checked frequently and replaced 
+as service indicates. Six months might be a reasonable
+expected life, depending on operating conditions. It is
+impossible to give any exact predictions. A packing 
+tool may be used to remove all old packing from the 
+stuffing box. Never reuse old and lifeless packing 
+or merely add some new rings. Make sure that 
+the stuffing box is thoroughly cleaned before new 
+packing is installed. Also check the condition of the 
+shaft or sleeve for possible scoring or eccentricity, 
+making replacements where necessary.
+
+Pump stuffing boxes are also suitable for grease 
+lubrication. Several types of grease lubricators are 
+available. When using a grease lubricator, grease 
+pressure to the stuffing box should be equal to the 
+pump discharge pressure.
+
+30
+
+
+
+=== PDF page 31 of 32 | native ===
+
+Four important rules which should always be followed
+for optimum seal life are:
+
+1. Keep the seal faces as clean as possible.
+2. Keep the seal as cool as possible.
+3. Assure that the seal always has proper lubrication.
+4. If seal is lubricated with filtered fluid, clean filter
+	 frequently.
+
+New packing should be placed carefully into the 
+stuffing box. If molded rings are used, the rings should 
+be opened sideways, and the joints pushed into the 
+stuffing box first. The rings are installed one at a time, 
+each ring seated firmly, and the joints staggered so 
+they are not in line. The joints should be kept toward 
+the upper side of the shaft and should be at about a 
+90 degree angle from each preceding joint.
+
+Cleaning without dismantling 
+pump
+
+If coil packing is used, cut one ring to accurate size 
+with either a butt or mitered joint. An accurately cut 
+butt joint is superior to a poor fitting mitered joint. 
+Fit the ring over the shaft to assure proper length. 
+Then remove and cut all other rings to the first 
+sample. When the rings are placed around the shaft, 
+a tight joint should be formed. Place the first ring 
+in the bottom of the stuffing box. Then install each 
+succeeding ring, staggering the joints as described 
+above, making sure each ring is firmly seated.
+
+We recommend that an increasing suction nozzle 
+or suction diffuser, bolted to the suction flange, be 
+supplied by Goulds Water Technology. (If this is not 
+done, a short section of pipe so designed that it can 
+be readily dropped out of the line can be installed 
+adjacent to the suction flange.) With this arrangement, 
+any matter clogging the impeller is accessible by 
+removing the nozzle (or pipe section).
+
+Other cleaning methods include running an auger 
+into the pump through the clean out hole in the 
+suction nozzle, or through the casing handhole. This 
+should free any clogging in the impeller eye.
+
+Make sure the seal cage is properly located in the 
+stuffing box under the sealing water inlet. The function 
+of the seal cage is to establish a liquid seal around the 
+shaft, prevent leakage of air through the stuffing box, 
+and lubricate the packing. If it is not properly located, 
+it serves no purpose.
+
+Mechanical shaft seals
+
+If the pump cannot be freed of clogging after the 
+above methods have been tried, dismantle the unit 
+as previously described to locate the trouble.
+
+General
+
+A mechanical shaft seal is supplied in place of a 
+packed stuffing box where specifically requested. 
+Mechanical seals are preferred over packing on some 
+applications because of better sealing qualities and 
+longer serviceability. Leakage is eliminated when a 
+seal is properly installed, and normally the life of the 
+seal is much greater than that of packing on
+similar applications.
+
+General instructions for operation of the various
+mechanical sealing arrangements are included below. 
+It is not feasible to include detailed instructions for all
+mechanical seals in this booklet because of the almost
+unlimited number of possible combinations and
+arrangements. Instead, seal manufacturer's 
+instructions will be included as a separate 
+supplement to this book where required.
+
+1. Mechanical seals are precision products and 
+should be treated with care. Use special care 
+when handling seals. Clean oil and clean parts are 
+essential to prevent scratching the finely lapped 
+sealing faces. Even light scratches on these faces 
+could result in leaky seals.
+2. Normally, mechanical seals require no adjustment 
+or maintenance, except routine replacement of 
+worn, or broken parts.
+3. A mechanical seal which has been used should not 
+be put back into service until the sealing faces have 
+been replaced or relapped. (Relapping is generally
+	 economical only in seals two inches in size and
+
+above.)
+
+31
+
+
+
+=== PDF page 32 of 32 | native ===
+
+Maintenance time table
+
+Every Month
+
+Check bearing temperature with a thermometer, not by hand. If bearings are 
+running hot (over 180°), it may be the result of too much lubricant. If changing the 
+lubricant does not correct the condition, disassemble and inspect the bearings.
+
+Every 3 Months
+
+Check grease lubricated bearings for saponification. This condition is usually 
+incurred by the infiltration of water or other fluid past the bearing shaft seals and can 
+be noticed immediately upon inspection, since it gives the grease a whitish color. 
+Wash out the bearings with a clean industrial solvent and replace the grease with the 
+proper type as recommended.
+
+Check the packing and replace if necessary. Use the grade recommended. Be sure 
+the seal cages are centered in the stuffing box at the entrance of the stuffing box 
+piping connection.
+
+Check shaft or shaft sleeve for scoring. Scoring accelerates packing wear.
+
+Every 6 Months
+
+Check alignment of pump and motor. Shim up units if necessary. If misalignment 
+recurs frequently, inspect the entire piping system. Unbolt piping at suction and 
+discharge flanges to see if it springs away, thereby indicating strain on the casing. 
+Inspect all piping supports for soundness and effective support of load.
+
+Remove the rotating element. Inspect thoroughly for wear, and order replacement 
+parts if necessary.
+
+Check wearing clearances.
+
+Remove any deposit or scaling. Clean out stuffing box piping.
+
+Every Year
+
+Measure total dynamic suction and discharge head as a test of pipe connection. 
+Record the figures and compare them with the figures of the last test. This is 
+important especially where the fluid being pumped tends to form a deposit on 
+internal surfaces. Inspect foot valves and check valves, especially the check valve 
+which safeguards against water hammer when the pump stops. A faulty foot or 
+check valve will reflect also in poor performance of the pump while in operation.
+
+Xylem, Inc.
+2881 East Bayard Street Ext., Suite A
+Seneca Falls, NY 13148
+Phone: (800) 453-6777 
+Fax: (888) 322-5877
+www.xylem.com/gouldswatertechnology
+
+Goulds is a registered trademark of Goulds Pumps, Inc. and is used under 
+license. © 2019 Xylem, Inc.   P2002569B   February 2019

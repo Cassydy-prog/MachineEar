@@ -1,0 +1,207 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+Slovenščina
+
+Hrvatski
+
+Српски
+
+1. Tip pumpe
+2. A = Serijski broj + datum
+proizvodnje; b. = Godina proiz‐
+vodnje + broj porudžbine +
+broj pozicije porudžbine
+3. Maksimalni radni pritisak
+4. Maksimalna radna temperatu‐
+ra tečnosti
+5. Minimalna radna temperatura
+tečnosti
+6. Kod pumpe
+7. Prečnik celog rotora (samo za
+cele rotore)
+8. Prečnik skraćenog rotora (sa‐
+mo za skraćene rotore)
+9. Opseg protoka
+10. Opseg pritiska
+11. Brzina
+12. Nominalna ili maksimalna
+snaga pumpe (jedinica elek‐
+trične pumpe); maksimalna
+apsorbovana snaga pumpe
+(pumpa)
+13. Minimalni indeks efikasnosti
+14. Hidraulična efikasnost u tački
+najveće efikasnosti (samo za
+skraćene rotore)
+15. Težina
+
+1. Vrsta črpalke
+2. a. = Serijska številka + datum
+izdelave; b. = Leto proizvodnje
++ številka naročila + številka
+položaja naročila
+3. Največji delovni tlak
+4. Najvišja temperatura delovne
+tekočine
+5. Najmanjša temperatura de‐
+lovne tekočine
+6. Koda črpalke
+7. Polni premer rotorja (samo za
+polne rotorje)
+8. Zmanjšan premer rotorja (sa‐
+mo za prirezane rotorje)
+9. Razpon pretoka
+10. Velikost glave
+11. Hitrost
+12. Nominalna ali največja moč
+črpalke (električna črpalna
+enota); največja sprejeta moč
+črpalke (črpalka)
+13. Indeks najmanjše učinkovito‐
+sti
+14. Učinkovitost hidravlične črpal‐
+ke na točki največje učinko‐
+vitosti (samo za obrezane ro‐
+torje)
+15. Teža
+
+1. Vrsta pumpe
+2. a. = Serijski broj + datum
+proizvodnje; b. = Godina proiz‐
+vodnje + broj narudžbe + broj
+položaja narudžbe
+3. Najveći radni tlak
+4. Maksimalna radna temperatu‐
+ra tekućine
+5. Minimalna radna temperatura
+tekućine
+6. Šifra pumpe
+7. Promjer cijelog rotora (samo
+za cijele rotore)
+8. Promjer skraćenog rotora (sa‐
+mo za skraćene rotore)
+9. Raspon protoka
+10. Raspon visine dobave
+11. Brzina
+12. Nominalna ili maksimalna
+snaga pumpe (jedinica elek‐
+trične pumpe); maksimalna
+apsorbirana snaga pumpe
+(pumpa)
+13. Minimalni indeks učinkovito‐
+sti
+14. Hidraulička učinkovitost u
+tački najveće učinkovitosti
+(samo za skraćene rotore)
+15. Težina
+
+Ελληνικά
+
+Türk
+
+Русский
+
+1. Pompa tipi
+2. a. = Seri numarası + üretim
+tarihi; b. = Üretim yılı + sipariş
+numarası + sipariş pozisyonu
+numarası
+3. Maksimum çalışma basıncı
+4. Maksimum çalışma sıvı sıcak‐
+lığı
+5. Minimum çalışma sıvı sıcak‐
+lığı
+6. Pompa kodu
+7. Tam çark çapı (sadece tam
+çarklar için)
+8. Azaltılmış çark çapı (sadece
+kesilmiş çarklar için)
+9. Akış aralığı
+10. Kafa aralığı
+11. Hız
+12. Nominal veya maksimum
+pompa gücü (elektrikli pom‐
+pa ünitesi); emilen maksimum
+pompa gücü (pompa)
+13. Minimum verimlilik indeksi
+14. En verimli noktada hidrolik
+verimliliği (sadece kesilmiş
+çarklar için)
+15. Ağırlık
+
+APPX
+
+1. Τύπος αντλίας
+2. α. = Σειριακός αριθμός +
+ημερομηνία κατασκευής, β. =
+Έτος παραγωγής + αριθμός
+παραγγελίας + αριθμός
+θέσης παραγγελίας
+3. Μέγιστη λειτουργική πίεση
+4. Μέγιστη θερμοκρασία υγρού
+για λειτουργία
+5. Ελάχιστη θερμοκρασία υγρού
+για λειτουργία
+6. Κωδικός αντλίας
+7. Πλήρης διάμετρος αντλίας
+(μόνο για πλήρεις
+φτερωτές)
+8. Μειωμένη διάμετρος
+αντλίας (μόνο
+για αντισταθμισμένες
+φτερωτές)
+9. Εύρος ροής
+10. Εύρος κεφαλής
+11. Ταχύτητα
+12. Ονομαστική ή μέγιστη
+ισχύς αντλίας (μονάδα
+ηλεκτρικής αντλίας),
+μέγιστη απορροφούμενη
+ισχύς αντλίας (αντλία)
+13. Δείκτης ελάχιστης
+απόδοσης
+14. Υδραυλική απόδοση
+στο καλύτερο δυνατό
+σημείο απόδοσης (μόνο
+για αντισταθμισμένες
+φτερωτές)
+15. Weight
+
+1. Тип насоса
+2. а. = серийный номер +
+дата изготовления; b. =
+год производства + номер
+заказа + номер позиции
+заказа
+3. Максимальное рабочее
+давление
+4. Максимальная рабочая
+температура жидкости
+5. Минимальная рабочая
+температура жидкости
+6. Код насоса
+7. Диаметр полноразмерного
+рабочего колеса (только
+для полноразмерных
+полных рабочих колес)
+8. Диаметр уменьшенного
+рабочего колеса (только
+для уменьшенных рабочих
+колес)
+9. Диапазон расхода
+10. Диапазон напора
+11. скорость;
+12. Номинальная или
+максимальная мощность
+насоса (электрический
+насос); максимальная
+поглощаемая мощность
+насоса (насос)
+13. Минимальный КПД
+14. Гидравлический КПД в
+точке оптимального КПД
+(только для уменьшенных
+рабочих колес)
+15. Вес
+
+350

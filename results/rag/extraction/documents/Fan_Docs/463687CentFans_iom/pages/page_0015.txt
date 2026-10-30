@@ -1,0 +1,107 @@
+Troubleshooting
+
+WARNING
+
+Before taking any corrective action, make certain unit 
+is not capable of operation during repairs.
+
+Problem
+Cause
+Corrective Action
+
+Wheel rubbing (inlet)
+Adjust wheel and/or inlet cone. 
+Tighten wheel hub or bearing collars on shaft.
+
+V-belt drive
+
+Tighten Sheaves on motor/fan shaft. Adjust belt tension. Align 
+sheaves properly (see V-Belt Drives section). Replace worn belts or 
+sheaves.
+
+Excessive Noise
+
+Bearings
+Replace defective bearing(s). Lubricate bearings. 
+Tighten collars and fasteners.
+
+Wheel unbalance
+Clean all dirt off wheel. Check wheel balance, rebalance in place if 
+necessary.
+
+Low CFM
+Fan
+Check wheel for correct rotation. Increase fan speed.*
+
+Duct system
+See page 3.
+
+High CFM
+Fan
+Decrease fan speed.
+
+Duct system
+Resize ductwork. Access door, filters, grilles not installed.
+
+Static Pressure Wrong
+
+Duct system has more 
+or less restriction than 
+anticipated
+
+Change obstructions in system. Use correction factor to adjust for 
+temperature/altitude. Resize ductwork. Clean filters/coils. Change 
+fan speed.*
+
+Fan
+Check rotation of wheel. Reduce fan speed.
+
+High Horsepower
+
+Duct system
+Resize ductwork. Check proper operation of face and bypass 
+dampers. Check filters and access doors.
+
+Electrical supply
+Check fuses/circuit breakers. Check for switches turned off or 
+disconnected. Check for correct supply voltage.
+
+Fan Doesn’t Operate
+
+Drive
+Check for broken belts. Tighten loose pulleys.
+
+Motor
+Assure motor is correct horsepower and not tripping overload 
+protector.
+
+Lubrication
+Check for excessive or insufficient grease in the bearings.
+
+Overheated Shaft 
+Bearing
+
+Mechanical
+Replace damaged bearing. Relieve excessive belt tension. Align 
+bearings. Check for bent shaft.
+
+Belts
+Adjust tightness of belts. Replacement belts should be a matched 
+set.
+
+Excessive Vibration
+
+System unbalance
+
+Check alignment of shaft, motor and pulleys. Adjustable pitch 
+pulleys with motors over 15 hp are especially prone to unbalance. 
+Check wheel balance, rebalance if necessary.
+
+*Always check motor amps and compare to nameplate rating. Excessive fan speed may overload the motor and 
+result in motor failure. Do not exceed the maximum cataloged RPM of the fan.
+
+NOTE: Always provide the unit model and serial numbers when requesting parts or service information.
+
+Industrial Process Fans
+15
+®

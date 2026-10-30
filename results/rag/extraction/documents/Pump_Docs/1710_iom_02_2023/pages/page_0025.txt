@@ -1,0 +1,12 @@
+5  Commissioning, Startup, Operation, and Shutdown
+
+• The pump is correctly connected to the power supply.
+• The pump is correctly filled according to instructions in Fill the pump (chapter 5).
+• The on-off valve located downstream from the pump is closed.
+1. Start the motor.
+2. Gradually open the on-off valve on the discharge side of the pump.
+At the expected operating conditions, the pump must run smoothly and quietly. If not, 
+refer to Troubleshooting on page 26.
+
+Series 1710 Installation, Operation, and Maintenance Manual
+23

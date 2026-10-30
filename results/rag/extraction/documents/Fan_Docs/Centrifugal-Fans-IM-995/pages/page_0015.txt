@@ -1,0 +1,51 @@
+IM-995
+
+Flexible Couplings (refer to safety section)
+These instructions are general for the installation of several types of flexible couplings and should not be used as a substitute 
+for more specific manufacturer’s instructions. The coupling manufacturer’s installation data is available and will give specific 
+dimensions for alignment limits, lubricants, etc. Refer to Item 7 in "Factory Assembled Units" section for coupling alignment 
+requirements.
+
+Before preparing to mount the coupling, make sure that all bearings, inlet vanes, shaft seals or other components have been 
+installed on the shaft.
+
+When mounting and keying the coupling halves to the shaft, follow supplied instructions for heating and shrink fitting. Set the 
+coupling halves for the normal gap specified by the manufacturer. Coupling gap is illustrated below. It is advisable to set the 
+motor on the pedestal first to better determine the placement of the coupling on the shaft.
+
+ANGULAR	
+   PARALLEL	
+GAP AND
+	 MISALIGNMENT	
+   MISALIGNMENT	
+END FLOAT
+
+X-Y	 =	 ANGULAR MISALIGNMENT
+P	
+=	 PARALLEL OFFSET (MISALIGNMENT)
+F	
+=	 END FLOAT*
+
+The two types of misalignment are illustrated above. Alternatively angular alignment is checked with feeler gauges between the 
+hub faces. When angular alignment has been adjusted to manufacturer’s specification, parallel alignment can be checked with 
+a dial indicator on the hub or a straightedge and feeler gauges on the hub halves’ O.D. When shimming has brought parallel 
+alignment within specification, angular alignment and gap should again be checked, and adjustments made if necessary. A dial 
+indicator or laser alignment may be used to more accurately take the measurements described above.
+
+Special adjustments may need to be made for couplings used with some equipment. As an example, when used with motors 
+with sleeve bearings, couplings may require provisions for limiting end float. Larger drivers may grow in operation (due to heat 
+expansion) requiring the driver side to be set slightly low when not operating. A good rule of thumb is to set the motor low by 
+0.001 inches per inch of motor shaft diameter up to 0.005". Refer to specific instruction manuals or assembly drawings.
+
+Thoroughly clean the coupling halves after completion of alignment. Reassemble the coupling and tighten bolts, washers and 
+locknuts. Lubricate per manufacturer’s recommendations.
+
+*
+
+1.	 End float is the permissible axial movement of the coupling hub(s) within the sleeves of the coupling
+2.	 End float will allow for thermal movement
+3.	 Limited end float couplings are often required in applications using motors with sleeve bearings
+
+15
+
+Installation, Operation & Maintenance Manual

@@ -1,0 +1,289 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+60 Hz
+
+60 Hz
+
+60 Hz
+
+6F
+1x220-230 V
+
+6F
+1x220-230 V
+
+6P
+3x220-230/380-400 V
+
+6E
+1x200-210 V
+
+6E
+1x200-210 V
+
+6R
+3x255-277/440-480 V
+
+6P
+3x220-230/380-400 V
+
+6P
+3x220-230/380-400 V
+
+6V
+3x440-480/- V
+
+6R
+3x255-277/440-480 V
+
+6R
+3x255-277/440-480 V
+
+6U
+3x380-400/660-690 V
+
+6V
+3x440-480/- V
+
+6V
+3x440-480/- V
+
+6N
+3x200-208/346-360 V
+
+6U
+3x380-400/660-690 V
+
+6U
+3x380-400/660-690 V
+
+6T
+3x330-346/575-600 V
+
+6N
+3x200-208/346-360 V
+
+6N
+3x200-208/346-360 V
+
+6T
+3x330-346/575-600 V
+
+6T
+3x330-346/575-600 V
+
+10. Hlífðarefni
+11. Dæluhjólsefni
+12. Vélarþétting + efnisgerð O-
+hrings.
+13. Lausir tölustafir fyrir valmögu‐
+leika
+
+10. Husmaterial
+11. Pumphjulsmaterial
+12. Materialkonfiguration för me‐
+kanisk tätning och O-ring
+13. Ledig siffror för tillval
+
+10. Pesän materiaali
+11. Juoksupyörän materiaali
+12. Mekaanisen tiivisteen ja O-
+renkaan materiaalikonfiguraa‐
+tio
+13. Vapaat numerot vaihtoehtoja
+varten
+
+Eesti
+
+latviski
+
+lietuvių
+
+1. NSC = pumba tüüp
+2. Liitmiku tähistus; F = raamile
+paigaldatud, C = raamile pai‐
+galdatud koos vaheliitmikuga
+3. Ajami tüüp; tühi = standard‐
+ne asünkroonne mootor, H =
+varustatud Hydrovariga, X =
+muud ajamid
+4. 125–315 = pumba suurus
+5. 220 = mootori nimivõimsus
+(kW × 10)
+6. Tiivik; tühi = täisläbimõõt, A
+= kärbitud läbimõõt, B = kärbi‐
+tud läbimõõt, X = muu
+7. Mootori tüüp, P = PLM, S =
+SM, W = WEG, X = Muu
+8. Pooluste arv; 2 = 2–pooluseli‐
+ne, 4 = 4–pooluseline, 6 = 6–
+pooluseline
+9. Elektripinge ja sagedus;
+
+50 Hz
+
+1. NSC = sūkņa veids
+2. Savienojuma norāde; F = uz‐
+stādīts uz rāmja, C = uzstādīts
+uz rāmja ar starplikas savie‐
+nojumu
+3. Piedziņas ierīces veids; tukšs
+= standarta asinhrons motors,
+H = aprīkots ar Hydrovar, X =
+citas piedziņas ierīces
+4. 125–315 = sūkņa izmērs
+5. 220 = nominālā motora jauda
+(kWx10)
+6. Darbrats; tukšs = pilns dia‐
+metrs, A = samazināts dia‐
+metrs, B = samazināts dia‐
+metrs, X = cits
+7. Dzinēja veids; P = PLM, S =
+SM, W = WEG, X = cits
+8. Polu skaits; 2 = 2 poli, 4 = 4
+poli, 6 = 6 poli
+9. Elektriskais spriegums un
+frekvence;
+
+1. NSC – siurblio tipas
+2. Movos indikacija; F – sumon‐
+tuota ant rėmo, C – sumon‐
+tuota ant rėmo su tarpiklio
+jungtimi
+3. Pavaros tipas; vakuumas –
+standartinis nesinchroninis
+variklis, H –·įmontuota „Hy‐
+drovar“ sistema, X – kitos pa‐
+varos
+4. 125–315 – siurblio dydis
+5. 220 – vardinė variklio galia
+(kWx10)
+6. Sparnuotė; vakuumas –·visos
+sparnuotės skersmuo, A –
+pritaikomos sparnuotės sker‐
+smuo, B – pritaikomos spar‐
+nuotės skersmuo, X – kita
+7. Variklio tipas, P – PLM, S –
+SM, W – WEG, X – kita
+8. Polių skaičius; 2 –·2 poliai, 4
+– 4 poliai, 6 – 6 poliai
+9. Elektros įtampa ir dažnis;
+
+5H
+1x220-240 V
+
+50 Hz
+
+50 Hz
+
+5R
+3x220-240/380-415 V
+
+5H
+1x220-240 V
+
+5H
+1x220-240 V
+
+5V
+3x380-415/660-690 V
+
+5R
+3x220-240/380-415 V
+
+5R
+3x220-240/380-415 V
+
+5P
+3x200-208/346-360 V
+
+5V
+3x380-415/660-690 V
+
+5V
+3x380-415/660-690 V
+
+5S
+3x255-265/440-460 V
+
+5P
+3x200-208/346-360 V
+
+5P
+3x200-208/346-360 V
+
+5T
+3x290-300/500-525 V
+
+5S
+3x255-265/440-460 V
+
+5S
+3x255-265/440-460 V
+
+5W
+3x440-460/- V
+
+5T
+3x290-300/500-525 V
+
+5T
+3x290-300/500-525 V
+
+5W
+3x440-460/- V
+
+60 Hz
+
+5W
+3x440-460/- V
+
+6F
+1x220-230 V
+
+60 Hz
+
+60 Hz
+
+6E
+1x200-210 V
+
+6F
+1x220-230 V
+
+APPX
+
+6F
+1x220-230 V
+
+6P
+3x220-230/380-400 V
+
+6E
+1x200-210 V
+
+6E
+1x200-210 V
+
+6R
+3x255-277/440-480 V
+
+6P
+3x220-230/380-400 V
+
+6P
+3x220-230/380-400 V
+
+6V
+3x440-480/- V
+
+6R
+3x255-277/440-480 V
+
+6R
+3x255-277/440-480 V
+
+6U
+3x380-400/660-690 V
+
+355

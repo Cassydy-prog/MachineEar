@@ -1,0 +1,197 @@
+sk - Preklad originálu
+
+Příčina
+Řešení
+
+Příčina
+Řešení
+
+• sací potrubí,
+• patní ventil nebo pojistný
+ventil.
+
+Změňte umístění dvou fází na
+svorkovnici motoru nebo na
+elektrickém ovládacím pan‐
+elu.
+
+Směr otáčení obě‐
+žného kola není
+správný.
+(třífázová verze)
+
+Došlo k protržení membrány
+nebo v tlakové nádrži není pro‐
+váděno tlakování.
+
+Příslušné pokyny
+naleznete v návodu
+k tlakové nádrži.
+
+Zkontrolujte provozní podmín‐
+ky čerpadla. Pokud je to nut‐
+né, proveďte následující kro‐
+ky:
+
+7.11  Čerpadlo vibruje a je příliš hlučné.
+
+Sací výška je příliš
+vysoká nebo odpor
+proti proudění v sa‐
+cím potrubí je příliš
+vysoký.
+
+Příčina
+Řešení
+
+• Snižte sací výšku.
+• Použijte větší průměr sací‐
+ho potrubí.
+
+Došlo ke kavitaci
+čerpadla
+
+7.9  Elektrické čerpadlo se zastaví, a poté se
+začne otáčet ve špatném směru
+
+Příčina
+Řešení
+
+Snižte požadovaný průtok čá‐
+stečným zavřením ventilu ZAP-
+VYPNUTO za čerpadlem. Pokud
+problém přetrvává, zkontrolujte
+provozní podmínky čerpadla (na‐
+příklad výškový rozdíl, odpor proti
+proudění, teplotu kapaliny).
+
+Dochází k prosakování v jedné
+nebo obou těchto součástech:
+
+Kontaktujte místního prodejního
+a servisního zástupce.
+
+Opravte nebo vy‐
+měňte vadnou
+součástku.
+
+Ložiska motoru
+jsou opotřebova‐
+ná.
+
+• sací potrubí,
+• patní ventil nebo pojistný ve‐
+ntil.
+
+Kontaktujte místního prodejního
+a servisního zástupce.
+
+Uvnitř čerpadla
+se nachází cizí
+předměty.
+
+Do sacího potrubí se dostal
+vzduch.
+
+Proveďte od‐
+vzdušnění.
+
+Oběžné kolo ot‐
+írá těsnicí kolo
+
+Kontaktujte místního prodejního
+a servisního zástupce.
+
+7.10  Čerpadlo se spouští příliš často.
+
+Zkontrolujte vyrovnání spojky
+
+Špatné vyrovnání
+spojky
+
+Příčina
+Řešení
+
+Opotřebené pru‐
+žné prvky spojky
+
+Dochází k prosakování v jedné
+nebo obou těchto součástech:
+
+Zkontrolujte příslušné prvky a po‐
+kud je patrné opotřebení, přísluš‐
+né součásti vyměňte.
+
+Opravte nebo vy‐
+měňte vadnou sou‐
+částku.
+
+V případě jiných potíží se obraťte na místního prodej‐
+ního a servisního zástupce.
+
+SK
+
+O bezpečnostných hláseniach
+
+1  Úvod a bezpečnosť
+
+1.1  Úvod
+
+Je mimoriadne dôležité, aby ste si pred manipulá‐
+ciou s výrobkom dôkladne prečítali, porozumeli a
+dodržiavali bezpečnostné hlásenia a nariadenia. Sú
+publikované s cieľom predchádzania týchto rizík:
+
+Účel tejto príručky
+
+Účelom tejto príručky je poskytnúť potrebné informá‐
+cie pre:
+
+• Poranenie osôb a zdravotné problémy
+• Poškodenie produktu a jeho okolia
+• Poruchy výrobku
+
+Úrovne nebezpečenstva
+
+• Inštalácia
+• Prevádzka
+• Údržba
+
+Úroveň nebezpečenstva
+Indikácia
+
+NEBEZPE‐
+ČENSTVO:
+
+Nebezpečná situácia,
+ktorá, ak jej nezabránite,
+spôsobí smrť alebo zá‐
+važný úraz
+
+UPOZORNENIE:
+Tento návod si starostlivo preštudujte
+pred inštaláciou a používaním výrobku.
+Nevhodné používanie výrobku môže spô‐
+sobiť úraz a škodu na majetku a môže
+mať za následok stratu platnosti záruky.
+
+VAROVANIE:
+
+Nebezpečná situácia,
+ktorá, ak jej nezabránite,
+môže spôsobiť smrť ale‐
+bo závažný úraz
+
+POZNÁMKA:
+Odložte si tento návod na budúce použitie. Majte ho
+poruke pri mieste inštalácie zariadenia.
+
+Nebezpečná situácia,
+ktorá, ak jej nezabránite,
+
+UPOZORNE‐
+NIE:
+
+1.2  Bezpečnostná terminológia a symboly
+
+202

@@ -1,0 +1,164 @@
+da - Oversættelse af original instruktioner
+
+BEMÆRKNING:
+
+4. Anbring koblingsbeskyttelsens øverste halvskal
+(1).
+5. Tilspænd fastgørelsesskruerne på den øverste
+halve skal (3).
+6. Tilspænd lukkeskruerne på halvskallerne (5).
+
+4.3.4  Elektrisk installation
+
+1. Fjern skruerne fra klemkassens dæksel.
+
+2. Forbind dem og spænd strømkablerne i overens‐
+stemmelse med det gældende kablingsdiagram.
+
+Se Figur 21 på side 392 for kablingsdiagrammer.
+Diagrammerne kan også ses bag på klemkas‐
+sens dæksel.
+
+a) Forbind den jordforbundne leder.
+
+Sørg for, at den jordforbundne leder er længe‐
+re end faselederne.
+b) Tilslut faseledningerne.
+
+• Kør aldrig pumpen under de nominelle mini‐
+mumsgennemstrømninger, når den er tør eller ik‐
+ke er spædet.
+• Betjen aldrig pumpen med udførselsventilen ON-
+OFF (TÆNDT/SLUKKET) lukket i mere end nogle
+få sekunder.
+• Betjen aldrig pumpen med sugeventilen ON-OFF
+(TÆNDT/SLUKKET) lukket.
+• Udsæt ikke en pumpe, der ikke kører, for frost.
+Tøm al væske, der er inden i pumpen. Manglen‐
+de overholdelse af disse retningslinjer kan få væ‐
+sken til at fryse og beskadige pumpen.
+• Summen af tryk på sugesiden (hovedledninger,
+massefyldetank) og det maksimale tryk, pumpen
+leverer, må ikke overskride det maksimalt tilladte
+arbejdstryk (nominelt tryk PN) for pumpen.
+• Anvend ikke pumpen, hvis der er opstået tæring.
+Tæring kan beskadige de interne komponenter.
+
+3. Montér klemrækkeboksens låg.
+
+5.1  Fyld pumpen
+
+DA
+
+Du kan finde oplysninger om ekstra pumpeforbindel‐
+ser i Figur 22 på side 392.
+
+BEMÆRKNING:
+Spænd kabelpakningerne omhyggeligt for at sik‐
+re beskyttelse mod kabelglidning og fugt, der
+kommer ind i terminalboksen.
+
+Installationer med et væskeniveau over
+pumpen (indsugningshoved)
+
+4. Hvis motoren ikke er udstyret med termisk be‐
+skyttelse mod automatisk nulstilling, skal overbe‐
+lastningsbeskyttelsen justeres i overensstemmel‐
+se med listen ovenfor.
+
+Du kan se en illustration, der viser hvor pumpens
+propper er, i Figur 23 på side 394.
+
+– Hvis motoren bruges med fuld belastning,
+
+1. Luk tænd-sluk-ventilen, der er anbragt down‐
+stream fra pumpen.
+
+skal værdien indstilles til den elektriske pum‐
+pes (dataplade) nominelle strømværdi
+– Hvis motoren bruges med delvis belastning,
+
+2. Fjern fyld- (3) eller pakningsproppen (1) og åbn
+tænd-/-slukventilen opstrøms, til vandet strøm‐
+mer ud af hullet.
+
+skal værdien indstilles til driftsstrøm (måles
+for eksempel med en strømknibtang).
+– Hvis pumpen har et start-delta-startsystem,
+
+a) Luk fyld- (3) eller pakningsproppen (1).
+
+skal det termiske relæ justeres til 58 % af den
+nominelle strøm eller driftsstrøm (kun for tre‐
+fasede motorer).
+
+Installationer med et væskeniveau under
+pumpen (indsugningsløft)
+
+Du kan se en illustration, der viser hvor pumpens
+propper er, i Figur 24 på side 395.
+
+5  Idriftsættelse, opstart, drift og
+nedlukning
+
+1. Hele rørsystemet tomt:
+
+a) Åbn tænd-sluk-ventilen, der sidder opstrøms
+
+Forholdsregler
+
+fra pumpen.
+b) Fjern fyldproppen (3) og pakningsproppen (1).
+
+ADVARSEL:
+Fysiske og termiske farer
+
+Brug en tragt til at fylde pumpen gennem fyld‐
+hullet, indtil vandet strømmer ud af dette hul.
+c) Spænd fyldproppen (3) og pakningsproppen
+
+(1).
+
+2. Fyldt afledningsrørsystem:
+
+• Brug altid personligt sikkerhedsud‐
+styr.
+• Kontrollér, at koblingsbeskyttelsen er
+installeret.
+
+a) Åbn tænd-sluk-ventilen, der sidder opstrøms
+
+ADVARSEL:
+
+fra pumpen, og åbn tænd-sluk-ventilen ned‐
+strøms.
+b) Fjern måleproppen (1) til vandet flyder ud af
+
+dette hul.
+c) Spænd måleproppen (1).
+
+• Kontrollér, at den drænede væske ik‐
+ke forårsager skade eller kvæstelser.
+• Motorbeskyttelse kan få motoren til
+at genstarte uventet. Dette kan resul‐
+tere i alvorlig personskade.
+
+FORSIGTIG:
+
+5.2  Kontrollér rotationsretningen (trefaset
+motor)
+Følg denne procedure før opstart.
+
+1. Placér pilene på adaptoren eller motorventilator‐
+dækslet for at bestemme den korrekte rotations‐
+retning.
+
+• Pumpens og motorens udvendige
+overflader kan overskride 40ºC
+(104ºF) under drift.
+• Undlad at anbringe brandbart mate‐
+riale i nærheden af pumpen.
+
+2. Start motoren.
+
+95

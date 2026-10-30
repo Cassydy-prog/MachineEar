@@ -1,0 +1,209 @@
+lv - Oriģinālās instrukcijas
+
+Motors ar atkārtoti ieeļļojamiem gultņiem
+
+Cēlonis
+Risinājums
+
+Ievērojiet motora piegādātāja apkopes instrukcijas.
+
+Savienojums
+
+Sūknis ir pārslogots,
+jo tas sūknē šķidrumu,
+kas ir pārāk blīvs un/vai
+viskozs.
+
+Pārbaudiet reālās jaudas
+vajadzības, pamatojoties
+uz sūknētā šķidruma rak‐
+sturlielumiem, un tad sazi‐
+nieties ar pārdošanas un
+servisa nodaļu.
+
+Regulāri pārbaudiet atstarpi starp savienojuma ele‐
+mentiem — vismaz reizi gadā. Ieteicams veikt pār‐
+baudi ik pēc 1000 darba stundām vai ik pēc trim
+mēnešiem atkarībā no tā, kas iestājas ātrāk.
+
+6.2  Pārbaudes kontrolsaraksts
+
+Sūknis darbojas, bet sūknē pārāk maz šķidruma vai
+vispār nesūknē.
+
+Cēlonis
+Risinājums
+
+Sūknis nosprosto‐
+jies.
+
+Sazinieties ar pārdošanas un
+servisa nodaļu.
+
+Sajūga pārbaude
+Pārbaudiet sajūga kustī‐
+gos elementus. Ja redza‐
+mas nodiluma pazīmes,
+nomainiet attiecīgās de‐
+taļas un pārbaudiet līdzi‐
+nājumu.
+
+Zemāk redzamās bojājumu noveršanas instrukciju
+tabulas paredzētas tikai uzstādītāju lietošanai.
+
+Mehāniskās blīves pār‐
+baude
+
+7.2  Galvenais slēdzis ieslēgts, taču sūknis
+nesāk darboties
+
+Pārbaudiet, vai gar me‐
+hānisko blīvi nav noplū‐
+des. Ja konstatēta noplū‐
+de, nomainiet mehānisko
+blīvi.
+
+Cēlonis
+Risinājums
+
+Gultņa blīvslēgu pārbau‐
+de
+
+Nav barošanas no
+elektroapgādes avota.
+
+Pārbaudiet, vai vārpstai
+piestiprinātie aksiālie
+blīvju gredzeni ir novieto‐
+ti pareizi. Jānodrošina ti‐
+kai viegla saskare ar blī‐
+ves paplašinājumu.
+
+• Atjaunojiet barošanu.
+• Pārliecinieties, ka visi
+elektriskie savienojumi
+ar barošanas avotu ir ve‐
+seli.
+
+Klusas darbības pārbau‐
+de
+
+LV
+
+Regulāri pārbaudiet, vai
+sūknis darbojas klusi, iz‐
+mantojot vibrācijas mē‐
+rinstrumentus.
+
+Izsists sūknī iebūvē‐
+tais termiskās aizsar‐
+dzības drošinātājs (ja
+tāds ir).
+
+Pagaidiet, līdz sūknis ir at‐
+dzisis. Pēc brīža termiskais
+drošinātājs tiks automāti‐
+sku atiestatīts.
+
+Atiestatiet termoaizsargu.
+
+Ir nostrādājis termo‐
+relejs vai motora aiz‐
+sargs elektriskajā va‐
+dības panelī.
+
+6.3  Sūkņa daļu demontēšana un nomaiņa
+Lai iegūtu plašāku informāciju par sūkņa rezerves
+daļām, kā arī uzstādīšanu un demontāžu, sazinieties
+ar vietējo pārdošanas un servisa pārstāvi.
+
+Pārbaudiet:
+
+7  Problēmu novēršana
+
+Ir nostrādājusi aizsar‐
+gierīce pret sauso dar‐
+bināšanu.
+
+7.1  Bojājumi, ko var novērst lietotājs
+Galvenais slēdzis ieslēgts, taču sūknis nesāk darbo‐
+ties.
+
+• šķidruma līmeni tvertnē
+vai spiedienu ūdensva‐
+dā;
+• aizsargierīci un tās sa‐
+vienojuma vadus.
+
+Nomainiet sūkņus.
+
+Cēlonis
+Risinājums
+
+Ir nostrādājuši sūkņa
+vai papildierīču ķēžu
+drošinātāji.
+
+Izsists sūknī iebūvē‐
+tais termiskās aizsar‐
+dzības drošinātājs (ja
+tāds ir).
+
+Pagaidiet, līdz sūknis ir at‐
+dzisis. Pēc brīža termiskais
+drošinātājs tiks automāti‐
+sku atiestatīts.
+
+7.3  Elektriskais sūknis uzsāk darbu, bet
+tūdaļ nostrādā termiskās aizsardzības relejs
+vai pārdeg drošinātājs
+
+Ir nostrādājusi aizsar‐
+gierīce pret sauso dar‐
+bināšanu.
+
+Pārbaudiet šķidruma līme‐
+ni tvertnē vai spiedienu
+ūdensvadā.
+
+Cēlonis
+Risinājums
+
+Ir bojāts barošanas
+vads.
+
+Pārbaudiet vadu vai nomai‐
+niet, ja nepieciešams.
+
+Elektriskais sūknis uzsāk darbu, bet kādu brīdi vēlāk
+nostrādā termiskās aizsardzības relejs.
+
+Cēlonis
+Risinājums
+
+Pārbaudiet komponentus
+vai nomainiet, ja nepiecie‐
+šams.
+
+Termālās aizsardzības
+relejs vai drošinātāji
+neatbilst motora patē‐
+rētajai strāvai.
+
+Sazinieties ar pārdošanas
+un servisa nodaļu.
+
+Īsslēgums elektromo‐
+torā.
+
+Sūknī iekļuvuši svešķer‐
+meņi (cietās daļiņas vai
+šķiedrainas vielas), kas
+ir nosprostojušas dar‐
+bratu.
+
+Pārbaudiet komponentus
+vai nomainiet, ja nepiecie‐
+šams.
+
+164

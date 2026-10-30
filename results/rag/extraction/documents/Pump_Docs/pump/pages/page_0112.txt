@@ -1,0 +1,44 @@
+Appendix C: Pumping Systems Tip Sheet Number 3
+
+ Example 
+A process requires 15,000 gpm at a total operating head of 150 feet. Assume the centrifugal pump will be powered by a 
+700-hp motor, operate for 8,000 hours annually, and transport fluid with a specific gravity of 1.0. One candidate pump 
+has an efficiency (η1) of 81% at the operating point; a second is expected to operate at 78% efficiency (η2). What are the 
+energy savings given selection of the first pump?
+
+Reduced Power Requirements (bhp) = {(Head x Flow x SG) / 3,960} x (100/η1 – 100/η2) 
+	
+where 
+
+Head  =	 head at operating point in feet 
+
+Flow  =	 pump discharge at operating point 
+
+SG  =	 fluid specific gravity
+
+bhp Reduction = {(150 feet x 15,000 gpm x 1.0) / 3,960} x (1/0.81 – 1/0.78) = 27 bhp
+
+Assuming an efficiency of 96% for the pump drive motor, the annual energy savings are:
+
+Energy Savings = 27 bhp x 0.746 kW/bhp x 8,000 hours/year / 0.96 = 167,850 kWh/year
+
+These savings are valued at $8,393 per year at an energy price of 5¢ per kWh. Assuming a 15-year pump life, total 
+energy savings are $125,888. With an assumed cost differential between the two pumps of $5,000, the simple payback 
+for purchasing the first pump will be approximately 7 months.
+
+  Suggested Actions  
+
+• Develop an accurate system curve (see tip sheet “Pump Selection Considerations”).
+
+• Select a correctly sized pump and drive motor.
+
+• Select the pump with the highest efficiency over the range of expected system operating points.
+
+• Develop an index. A useful index for comparing pumps in the same application involves calculating the gallons of fluid pumped 
+per kilowatt-hour of electrical energy used (gal/kWh). This index illustrates the fluid transported per unit of energy expended. 
+Calculating the inverse—kWh/gal—is equally useful, and provides the basis for an energy cost comparison.
+
+DOE/GO-102005-2157 • October 2005 • Pumping Systems Tip Sheet #3
+
+108
+Improving Pumping System Performance

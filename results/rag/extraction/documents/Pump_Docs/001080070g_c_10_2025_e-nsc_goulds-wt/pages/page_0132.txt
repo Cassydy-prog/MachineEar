@@ -1,0 +1,150 @@
+fi - Alkuperäisen käännöksen
+
+1. Irrota kytkinsuoja.
+
+HUOMIO:
+Suoja voi olla metallilankaverkko (katso Kuva 18
+sivulla 386) tai metallilevy (katso Kuva 19 sivulla
+388)
+
+• Tue putkistoa itsenäisesti, jotta yksikkö ei kuor‐
+mitu.
+• Huuhtele putkisto ennen niiden liittämistä yksik‐
+köön, jotta kaikki hitsausjäämät, jäämät ja epä‐
+puhtaudet poistuvat. Asenna tarvittaessa suoda‐
+tin.
+
+VAROITUS:
+Hitsauspalot, hehkuhilse ja muut put‐
+kiston epäpuhtaudet vaurioittavat pump‐
+pua.
+
+4.3.3  Kytkimen kohdistaminen
+
+Kytkinsuojuksen poistaminen
+
+VAROITUS:
+Älä koskaan käytä pumppua ilman, että
+kytkinsuojus on asennettu asianmukai‐
+sesti.
+
+Suojaustyyppi: lankaverkko
+Lisätietoja on kohdassa Kuva 18 sivulla 386.
+
+1. Avaa ruuvit (2).
+2. Irrota lankaverkko. (1).
+Suojaustyyppi: metallilevy
+Lisätietoja on kohdassa Kuva 19 sivulla 388.
+
+FI
+
+2. Aseta viivain puolikytkimiin.
+3. Mittaa kuvassa esitetyt etäisyydet.
+4. Käännä kytkintä käsin 90° askelin ja toista mit‐
+taus.
+5. Toista vaihe 4 useita kertoja: radiaalinen kohdis‐
+tus on oikein, jos etäisyydet ovat samat kaikissa
+ympäryksen kohdissa sallitun poikkeaman rajois‐
+sa; katso Taulukko 28 sivulla 399. Muussa ta‐
+pauksessa katso Kytkimen kohdistus välilevyjen
+kanssa sivulla 128.
+6. Tarkista puolikytkinten välinen etäisyys rakotulkil‐
+la.
+7. Käännä kytkintä käsin 90° askelin ja tarkista etäi‐
+syys uudelleen.
+8. Toista vaihe 7 useita kertoja: aksiaalinen kohdis‐
+tus on oikein, jos etäisyydet ovat samat kaikissa
+ympäryksen kohdissa sallitun poikkeaman rajois‐
+sa; katso Taulukko 28 sivulla 399. Muussa ta‐
+pauksessa, Kytkimen kohdistus välilevyjen kans‐
+sa sivulla 128.
+9. Asenna kytkimen suojaus takaisin.
+• M5 → 3 Nm (27 lbf·in) ± 15 %
+• M6 → 5 Nm (44 lbf·in) ± 15 %.
+
+Kytkimen kohdistuksen tarkistus laseroiko‐
+mislaitteella
+
+Voit tarkistaa kytkimen kohdistuksen laseroikomis‐
+laitteen kanssa: katso oikomislaitteen käyttöopas.
+
+1. Avaa puolikuorien (5) sulkuruuvit.
+2. Avaa kiinnitysruuvit, jotka kiinnittävät yläpuolik‐
+kaan (3).
+3. Irrota kytkinsuojuksen (1) yläpuoli.
+4. Avaa alapuolikkaan kuoren (4) kiinnitysruuvit.
+5. Irrota kytkinsuojuksen (2) alapuolikuori.
+6. Avaa ja nosta tuki-/säätörengas (6).
+
+Kytkimen kohdistus välilevyjen kanssa
+
+Kytkimen tarkistus ja kohdistus
+
+Kohdassa Kuva 17 sivulla 384 on tietoja siitä, mihin
+pumppu ja moottori kiinnitetään ja mihin mukana
+toimitetut välilevyt asennetaan.
+
+HUOMIO:
+Tarkista kytkimen kohdistus uudelleen kuumissa
+käyttöolosuhteissa.
+
+HUOMIO:
+Varmista, että kytkintä on helppo pyörittää käsin ja
+että hampaiden välissä on välys.
+
+HUOMIO:
+Yksikön virheellinen kohdistus voi aiheuttaa vakavia
+vaurioita järjestelmälle.
+
+1. Avaa pultit, joilla pumppu ja moottori on kiinnitet‐
+ty alustaan.
+2. Nosta pumppua ja moottoria hieman.
+3. Aseta välilevyt pumpun ja moottorin alaosan ja
+jalkojen väliin yhteen tai useampaan osoitettuun
+kohtaan.
+4. Aseta pumppu ja moottori alustalle kohdistaen
+pultinreiät.
+5. Kiristä pultit.
+6. Toista kytkimen kohdistuksen tarkistus.
+
+Kytkinsuojauksen asennus
+
+HUOMIO:
+Jos kytkin on kohdistettu väärin, seurauksena voi
+olla tärinää, joka voi johtaa yksikön pyörivien osien
+ennenaikaiseen kulumiseen.
+
+VAROITUS:
+Älä koskaan käytä pumppua ilman, että
+kytkinsuojus on asennettu asianmukai‐
+sesti.
+
+Tarkista yksikön kytkimen kohdistus seuraavien oh‐
+jeiden mukaisesti:
+
+Suojaustyyppi: lankaverkko
+Lisätietoja on kohdassa Kuva 18 sivulla 386.
+
+• Kuljetus ja asennus
+• Ensimmäinen käyttöönotto
+• Käyttölämpötilan saavuttaminen.
+Tee tarkistus, vaikka yksikkö olisi toimitettu täysin
+koottuna runkoon.
+
+Kytkimen kohdistuksen tarkistaminen viivai‐
+mella ja rakotulkilla
+
+1. Sijoita suojus (1) oikein niin, että se ympäröi
+pumpun akselin poistopään ja tukirenkaan (3)
+moottorin puolella.
+2. Kiristä ruuvit (2).
+Suojaustyyppi: metallilevy
+Lisätietoja on kohdassa Kuva 19 sivulla 388.
+
+1. Aseta kytkinsuojuksen (2) alapuolikas.
+2. Kiristä alapuolikkaan kuoren (4) kiinnitysruuvit.
+
+Tietoja vakiokytkimen (A) ja välikappaleen (B) koh‐
+distamisesta on kohdassa Kuva 27 sivulla 397
+
+128

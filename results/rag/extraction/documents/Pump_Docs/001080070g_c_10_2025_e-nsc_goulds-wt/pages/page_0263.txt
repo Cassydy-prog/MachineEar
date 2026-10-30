@@ -1,0 +1,158 @@
+sl - Prevod izvirnih navodil
+
+OPOMBA:
+
+a) Izključite napajanje.
+b) Na plošči s priključki motorja ali na električni
+
+nadzorni plošči zamenjajte položaje dveh ali
+treh žic napajalnega kabla.
+
+Za sheme ožičenja glejte Slika 21 na strani
+392.
+c) Ponovno preverite smer vrtenja.
+
+5.3  Zagon črpalke
+
+OPOMBA:
+Po začetnem zagonu in ko je dosežena delovna tem‐
+peratura, preverite poravnavo sklopke enote, glejte
+Preverjanje in poravnava spoja na strani 257.
+
+Za preverjanje ustreznega pretoka in temperature čr‐
+pane tekočine je odgovoren inštalater oz. lastnik.
+Preden zaženete črpalko, se prepričajte, da:
+
+• Črpalka naj nikoli ne deluje pod minimalno vred‐
+nostjo nazivnega pretoka, na suho ali brez začet‐
+nega polnjenja.
+• Črpalke nikoli ne uporabljajte tako, da je vklopni
+odtočni ventil zaprt za več kot nekaj sekund.
+• Če je sesalni vklopni ventil zaprt, črpalka ne sme
+delovati.
+• Kadar črpalka ne deluje, je ne izpostavljajte
+zmrzovanju. Iz črpalke izčrpajte vso tekočino. Če
+tega ne naredite, lahko tekočina zmrzne in poško‐
+duje črpalko.
+• Vsota tlaka na sesalni strani (vodovodno omrež‐
+je, rezervoar za vodo) in največjega tlaka, ki ga
+ustvari črpalka, ne sme presegati največjega do‐
+voljenega delovnega tlaka (nominalni tlak PN) za
+črpalko.
+• Če pride do kavitacije, črpalke ne uporabljajte.
+Kavitacija lahko poškoduje notranje komponente.
+
+5.1  Polnjenje črpalke
+
+• je črpalka pravilno priključena na napajanje,
+• je črpalka pravilno napolnjena, skladno z navodili
+v poglavju Polnjenje črpalke (poglavje 5).
+• je vklopni ventil pod črpalko zaprt.
+
+Informacije o dodatnih priključkih črpalke najdete na
+sliki Slika 22 na strani 392.
+
+1. Zaženite motor.
+
+2. Vklopni ventil na odtočni strani črpalke počasi
+odprite.
+
+Namestitev z nivojem tekočine nad črpalko
+(sesalna glava)
+
+Za sliko, ki prikazuje mesta čepov, si oglejte Slika 23
+na strani 394.
+
+Pri pričakovanih delovnih pogojih mora črpalka
+delovati tekoče in tiho. Če ne, glejte Odpravljanje
+napak na strani 260.
+
+1. Zaprite vklopni ventil, nameščen pod črpalko.
+
+6  Vzdrževanje
+
+Previdnostni ukrepi
+
+2. Odstranite čep za polnjenje (3) ali merjenje (1) in
+odprite vklopni ventil navzgor, dokler iz odprtine
+ne priteče voda.
+
+a) Zaprite čep za polnjenje (3) ali merjenje (1).
+
+Namestitev z nivojem tekočine pod črpalko
+(sesalno dviganje)
+
+Nevarnost električnega udara:
+Pred namestitvijo ali servisiranjem eno‐
+te izklopite in blokirajte električno napa‐
+janje.
+
+Za sliko, ki prikazuje mesta čepov, si oglejte Slika 24
+na strani 395.
+
+OPOZORILO:
+
+1. Vsi cevovodi prazni:
+
+a) Odprite vklopni ventil, nameščen nad črpalko.
+b) Odstranite čep za polnjenje (3) in merjenje
+
+SL
+
+(1). V odprtino za polnjenje vstavite lij in na‐
+polnite črpalko, dokler voda ne priteče iz te
+odprtine.
+c) Privijte čep za polnjenje (3) in merjenje (1).
+
+2. Napolnjen odtočni cevovod:
+
+• Vzdrževanje in servisna dela sme
+opravljati samo izurjeno osebje s pri‐
+mernimi pooblastili.
+• Upoštevajte veljavne predpise o pre‐
+prečevanju nesreč.
+• Uporabite ustrezno opremo in zašči‐
+to.
+• Poskrbite, da odtočena tekočina ne
+bo povzročala škode ali poškodb.
+
+a) Odprite vklopni ventil, ki je od črpalke navzgor,
+
+in odprite vklopni ventil od črpalke navzdol.
+b) Odstranite čep za merjenje (1), dokler iz te
+
+odprtine ne priteče voda.
+c) Privijte čep za merjenje (1).
+
+5.2  Preverite smer vrtenja (trifazni motor)
+Pred zagonom sledite temu postopku.
+
+1. Poiščite puščice na adapterju ali pokrovu ventila‐
+torja motorja, da določite pravilno smer vrtenja.
+
+6.1  Servis
+Če uporabnik želi določiti urnik rednega vzdrževanja,
+je ta odvisen od vrste načrpane tekočine in delovnih
+pogojev črpalke.
+Če imate kakršne koli zahteve ali potrebujete infor‐
+macije o rednem vzdrževanju ali servisiranju, se obr‐
+nite na lokalnega predstavnika za prodajo in servis.
+Za čiščenje predela s tekočino in/ali zamenjavo ob‐
+rabljenih delov bo morda potrebno izredno vzdrževa‐
+nje.
+
+2. Zaženite motor.
+
+Črpalke z doživljenjsko namazanimi ležaji
+
+3. Hitro preverite smer vrtenja skozi varovalo spojke
+ali skozi pokrov ventilatorja motorja.
+
+4. Ustavite motor.
+
+Črpalke z doživljenjsko namazanimi ležaji ne zahte‐
+vajo rednega vzdrževanja.
+
+5. Če smer vrtenja ni pravilna, storite naslednje:
+
+259

@@ -1,0 +1,44 @@
+Evaluation of running features and damage to dismounted bearings
+
+Condition of seats
+
+Remedial measures:
+– Change mating parts constructively
+
+Causes:
+– Unsuitable design
+– Inaccurate machining
+
+3.2.3 Uneven support of bearing 
+rings
+Symptoms:
+
+keeping uniform housing rigidity in
+mind; if necessary use other bearings
+– Check production of mating parts
+
+Seating marks not in the area of the
+expected load zone.
+
+19: Outer ring outside diameter, only half its width supported
+
+Machining structure of fitting sur-
+faces worn in some areas and completely
+untouched in others, figs. 18, 19. Later
+fatigue damage and fractures due to un-
+even load distribution and bending of
+rings. Lip fractures result from too little
+support of tapered roller bearing cones,
+fig. 20, and plastic setting phenomenon
+from contact surfaces which are too
+small.
+
+18: Outer ring outside diameter, 
+fretting corrosion at "tough points"
+(e.g. ribs) in the housing
+
+20: Lip fracture of a tapered roller bearing cone due to insufficient axial support 
+of face
+
+17
+FAG

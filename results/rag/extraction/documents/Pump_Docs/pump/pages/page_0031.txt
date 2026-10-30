@@ -1,0 +1,49 @@
+3. Indications of Oversized Pumps
+
+Use Variable Frequency Drives. Pumps that 
+experience highly variable demand conditions 
+are often good candidates for ASDs. The most 
+popular type of ASD is the variable frequency 
+drive (VFD). VFDs use electronic controls to 
+regulate motor speed, which, in turn, adjusts the 
+pump’s output. The principal advantage of VFDs 
+is better matching between the fluid energy that 
+the system requires and the energy that the pump 
+delivers to the system. As system demand 
+changes, the VFD adjusts the pump speed to 
+meet this demand, reducing the energy lost to 
+throttling or bypassing excess flow. The resulting 
+energy and maintenance cost savings often justify 
+the investment in the VFD. However, VFDs are 
+not practical for all applications—for example, 
+systems that operate high static head and those 
+that operate for extended periods under low-flow 
+conditions. For more information, see the fact 
+sheet in this section titled Controlling Pumps 
+with Adjustable Speed Drives.
+
+Use Smaller Pumps to Augment Larger Pumps. 
+Pumps that maintain fluid levels in tanks or 
+reservoirs are often sized according to worst-case 
+or peak service conditions. Since the require-
+ments of worst-case conditions are often signifi-
+cantly higher than those of normal operating 
+conditions, many pumps are oversized relative 
+to the demands of their application for most of 
+their operating lives. The penalties of using an 
+oversized pump include frequent energizing and 
+de-energizing of the motor, operation away from 
+the pump’s BEP, and high friction losses—all of 
+which add to energy and maintenance costs.
+
+Adding a smaller pump to handle normal system 
+demand relieves the burden on the larger pump, 
+which can be energized as needed during high 
+load conditions. A smaller pump can operate 
+more efficiently and require less maintenance. 
+For more information, see the fact sheet in this 
+section titled Pony Pumps.
+
+27
+
+A Sourcebook for Industry

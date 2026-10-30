@@ -1,0 +1,130 @@
+8. Multiple Pump Arrangements
+
+through the bypass lines is wasted. Variable 
+speed drives can also be an efficient solution.
+
+Operating Flexibility. As shown in Figure 14, 
+using several pumps in parallel broadens the 
+range of flow that can be delivered to the system. 
+(Note that Figure 14 is illustrative and does not 
+represent actual pump curves.) In addition, 
+energizing and de-energizing pumps keeps the 
+operating point of each one closer to its BEP 
+(for systems with flat curves). Operators should 
+use caution when operating parallel pumps, 
+however, to ensure that the minimum flow 
+requirement is met for each pump.
+
+Efficiency. A potential advantage of using multiple 
+pumps is higher overall efficiency, since each 
+pump can operate close to its BEP (for systems 
+with flat curves). Energizing or de-energizing 
+pumps as needed to meet changes in system 
+demand allows each pump to operate over a 
+smaller region of its performance curve—ideally, 
+around the BEP. A single pump would have to 
+operate over a larger range, and thus farther away 
+from its BEP at times.
+
+200
+
+180
+
+160
+
+Pump Curves
+
+140
+
+Head
+
+120
+
+System Curve
+
+(ft)
+
+100
+
+80
+
+Three Pumps Running
+
+60
+
+40
+
+Two Pumps Running
+
+One Pump Running
+
+20
+
+0
+
+0
+50
+100
+150
+200
+250
+
+Flow (gpm)
+
+At a given head and flow, high-speed pumps 
+tend to be more efficient than low-speed pumps. 
+Pumps with specific speed values greater than 
+3,000 are the exception; they tend to be less 
+efficient at higher speeds. However, this is not 
+typical of most pumps. Since smaller pumps 
+require smaller motors, the use of multiple high-
+speed pumps can provide an efficiency advantage 
+over a single, low-speed pump. However, this 
+efficiency advantage should be balanced against 
+the tendency of high-speed machines to require 
+more maintenance.
+
+Figure 14. Multiple Pump Operation
+
+Redundancy.  With a multiple pump arrangement, 
+one pump can be repaired while others continue 
+to serve the system. Thus, the failure of one unit 
+does not shut down the entire system.
+
+ Other Options
+Other system designs that can be used to handle 
+widely varying operating conditions include pony 
+pumps, multiple-speed pumps, and variable  
+frequency drives (VFDs). For more information 
+on pony pumps, see the fact sheet titled Pony 
+Pumps. Information on VFDs is found in the fact 
+sheet in this section titled Controlling Pumps with 
+Adjustable Speed Drives.
+
+Multiple-speed pumps can be used in similar ways, 
+in that the fluid power generated can be matched 
+to the demands of the system. Shifting a pump to 
+higher or lower speeds moves the entire perform-
+ance curve up or down, respectively, as shown in 
+Figure 15. (Note that Figure 15 is illustrative and 
+does not represent an actual pump curve.)
+
+Although multiple-speed pumps tend to perform 
+less efficiently at any given operating point than
+
+Maintenance. Multiple pump configurations 
+allow each pump to be operated close to its BEP 
+(for systems with flat curves), which reduces 
+bearing wear and permits the pumps to run more 
+smoothly. Other benefits include less reliance on 
+energy-dissipating flow control options such as 
+bypass lines and throttle valves. The use of a 
+single, large pump during low-flow demand 
+conditions forces the excess flow to be throttled 
+or bypassed. Throttling the flow wears the 
+throttle valves and creates energy losses. Simi-
+larly, bypassing the flow is highly inefficient, 
+since all the energy used to push the excess flow
+
+44
+Improving Pumping System Performance

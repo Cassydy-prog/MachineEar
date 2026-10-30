@@ -1,0 +1,222 @@
+sr - Prevod originalnog
+
+Uzrok
+Rešenje
+
+Uzrok
+Rešenje
+
+Cevi su začepljene.
+Proverite i očistite cevi.
+
+ste ili vlaknaste sup‐
+stance) koji su zagla‐
+vili rotor.
+
+Promenite položaj dve faze
+na priključnoj tabli motora ili
+na električnoj kontrolnoj tabli.
+
+Smer rotacije rotora
+je pogrešan.
+(trofazna verzija)
+
+Brzina isporuke pum‐
+pe je veća od ogra‐
+ničenja navedenih na
+pločici sa podacima.
+
+Proverite uslove rada pumpe.
+Ako je potrebno uradite sle‐
+deće:
+
+Delimično zatvorite ON-OFF
+ventil dok brzina isporuke
+ne bude jednaka ili manja
+od granica navedenih na
+pločici sa podacima.
+
+Usisni podizač je
+previsok ili je otpor‐
+nost na protok u
+usisnim cevima pre‐
+velika.
+
+• Spustite usisni podizač
+• Povećajte prečnik usisne
+cevi.
+
+Pumpa je preoptere‐
+ćena jer pumpa teč‐
+nost koja je suviše gu‐
+sta i viskozna.
+
+Na osnovu karakteristika
+upumpane tečnosti proveri‐
+te stvarne zahteve u pogle‐
+du snage i, u skladu s tim,
+zamenite motor.
+
+7.9  Električna pumpa se zaustavlja, a zatim
+rotira u pogrešnom smeru
+
+Ležajevi motora su po‐
+habani.
+
+Obratite se lokalnom pred‐
+stavniku prodaje i servisa.
+
+Uzrok
+Rešenje
+
+Jedna ili obe navedene kom‐
+ponente cure:
+
+7.6  Električna pumpa se pokreće, ali je
+aktivirana opšta zaštita sistema
+
+Popravite ili zameni‐
+te neispravnu kom‐
+ponentu.
+
+Uzrok
+Rešenje
+
+• Usisna cev
+• Nožni ventil ili kontrolni
+ventil
+
+U usisnoj cevi postoji vazduh. Ispustite vazduh.
+
+Kratak spoj u električ‐
+nom sistemu.
+
+Proverite električni si‐
+stem.
+
+7.10  Pumpa se pokreće previše često
+
+Uzrok
+Rešenje
+
+7.7  Električna pumpa se pokreće, ali se
+aktivira uređaj za rezidualnu struju (RCD)
+sistema
+
+Jedna ili obe navedene
+komponente cure:
+
+Uzrok
+Rešenje
+
+Popravite ili zameni‐
+te neispravnu kompo‐
+nentu.
+
+Postoji propuštanje
+ka uzemljenju.
+
+Proverite izolaciju komponen‐
+ti električnog sistema.
+
+• Usisna cev
+• Nožni ventil ili kontrolni
+ventil
+
+7.8  Pumpa radi ali predaje premalo ili nimalo
+tečnosti.
+
+Postoji raspuknuta membra‐
+na ili nema vazduha u rezer‐
+voaru pod pritiskom.
+
+Pogledajte važeća
+uputstva u priručniku
+za rezervoar pod priti‐
+skom.
+
+Uzrok
+Rešenje
+
+7.11  Pumpa vibrira i stvara preveliku buku
+
+• Ispustite vazduh
+
+Unutar pumpe ili ce‐
+vovoda postoji vaz‐
+duh.
+
+Uzrok
+Rešenje
+
+Pumpa nije ispravno
+napunjena.
+
+Kavitacija pum‐
+pe
+
+Zaustavite pumpu i ponovite
+postupak punjenja.
+Ako se problem nastavi:
+
+SR
+
+Smanjite potrebnu brzinu protoka
+tako što ćete delimično zatvoriti
+ON-OFF ventil nishodno od pum‐
+pe. Ako se problem nastavi pro‐
+verite uslove rada pumpe (na pri‐
+mer, razliku u visini, otpornost na
+protok, temperaturu tečnosti).
+
+• Proverite da li mehanički
+zatvarač curi.
+• Proverite da li je usisna
+cev idealno zaptivena.
+• Zamenite sve ventile koji
+cure.
+
+Ležajevi motora
+su pohabani.
+
+Obratite se lokalnom predstavni‐
+ku prodaje i servisa.
+
+Otvorite ventil.
+
+Obratite se lokalnom predstavni‐
+ku prodaje i servisa.
+
+Prigušenje na do‐
+premnoj strani je
+preveliko.
+
+Unutar pumpe
+se nalaze strani
+predmeti.
+
+Rastavite i očistite ventile.
+
+Rotor se tare o
+habajući prsten
+
+Obratite se lokalnom predstavni‐
+ku prodaje i servisa.
+
+Ventili su zaključani
+u zatvorenom ili de‐
+limično zatvorenom
+položaju.
+
+Proverite poravnanje spojnice.
+
+Spojnica nije po‐
+ravnata
+
+Pumpa je začeplje‐
+na.
+
+Obratite se lokalnom pred‐
+stavniku prodaje i servisa.
+
+284

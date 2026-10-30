@@ -1,0 +1,105 @@
+5. Basic Pump Maintenance
+
+Packing typically comes in rolls; it must be cut into 
+sections that are then wrapped around the shaft. 
+Cutting packing rings accurately is difficult, but 
+it is essential to ensure proper sealing. Many 
+mechanics facilitate this job by using a piece of 
+pipe or bar stock that is machined to the precise 
+diameter of the pump shaft. Using this mockup 
+shaft allows the mechanic to cut the rings to fit 
+directly without having to measure the packing first 
+and then cut it. Since packing is usually stretchy, 
+the measure/cut method often leads to a poor fit-up.
+
+For motor replacements, high-efficiency motors 
+should be considered. High-efficiency motors are 
+generally 3% to 8% more efficient than standard 
+ones. In high-use applications, this efficiency 
+advantage often provides an attractive payback 
+period. The Energy Policy Act (EPAct) of 1992 
+set minimum efficiency standards that went into 
+effect in 1997 for most general-purpose motors 
+from 1 to 200 hp. In addition, the National 
+Electrical Manufacturers Association’s NEMA 
+PremiumTM energy efficiency motors program 
+describes premium efficiency motors as those 
+with even higher efficiencies than the levels 
+established by EPAct. Premium efficiency motors 
+can be cost effective for pumps having high 
+hours of operation.
+
+Replace Wear Rings. Wear rings are fastened 
+to an impeller or a casing (or both) to act as the 
+wear surface between different impeller stages 
+or between an impeller and a pump casing. Wear 
+rings are sized to establish a certain gap between 
+the high- and low-pressure sides of an impeller. 
+If this gap becomes too large, fluid slips back into 
+the suction side of the pump, creating an effi-
+ciency loss. Some wear rings have an axial gap 
+that could compensate for wear, and some  pump 
+designs use adjustable wear plates. A key indica-
+tion that wear rings need to be replaced is a 
+substantial decline in the pump’s performance. 
+Unfortunately, pumps must be disassembled in 
+order to replace wear rings.
+
+DOE’s MotorMaster+ software tool can be 
+a valuable tool in selecting energy-efficient 
+motors. The program also allows users to 
+compare motors and estimate energy costs 
+and savings along with life-cycle costs. It is 
+available through the EERE Information Center 
+and can be downloaded from the Web site at 
+www.eere.energy.gov/industry/bestpractices. 
+Additional information can be found in the 
+Energy-Efficient Motor Selection Handbook, 
+which is available from the EERE Information 
+Center.
+
+Replace Impellers. Impellers often last the life of 
+the pump. However, severe cavitation or erosion 
+can degrade an impeller, reducing pump perfor-
+mance and efficiency. Impeller replacement is 
+similar to wear-ring replacement in that the pump 
+must first be disassembled.
+
+Replace Motors. Even properly maintained 
+motors have a finite life. Over time, winding 
+insulation breaks down. When a motor’s winding 
+temperatures exceed rated values for long periods 
+of time, its insulation tends to break down more 
+quickly. In motor applications below 50 
+horsepower (hp), the most common option is 
+simply to replace the motor with a new one; 
+however, in larger applications, it is often more 
+economical to rewind an existing motor. 
+Although motor rewinds are typically a cost-
+effective alternative, rewound motors can lose 
+even more efficiency during subsequent rewinds.
+
+For motor rewinds, operators should ensure that 
+the repair facility has a proper quality assurance 
+program, since poor quality motor rewinds can 
+compromise motor efficiency. For more infor-
+mation on motor repair, see www.eere.energy.gov/
+industry/bestpractices or contact the EERE 
+Information Center at 877-337-3463.
+
+ Predictive Maintenance
+In many applications, pump maintenance is 
+reactive. For example, bearing noises indicate the 
+need for lubrication or replacement, excessive 
+packing or seal leakage indicates the need for 
+repair or replacement, and poor pump performance 
+may indicate excessive wear ring degradation. 
+Fortunately, recent improvements in instrumen-
+tation and signal analysis software have increased 
+the availability of vibration testing equipment; this 
+has helped to improve the planning of pump/motor 
+maintenance. Vibration analysis equipment is
+
+35
+
+A Sourcebook for Industry

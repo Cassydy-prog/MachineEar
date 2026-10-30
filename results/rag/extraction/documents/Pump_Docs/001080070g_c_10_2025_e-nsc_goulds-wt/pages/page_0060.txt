@@ -1,0 +1,168 @@
+es - Traducción del original
+
+Fijación de la bomba
+
+Para ver ejemplos de instalaciones verticales y hori‐
+zontales, consulte la Figura 15 en la página 383.
+
+1. Consulte el catálogo técnico para:
+– Diámetro y número de orificios de cimenta‐
+
+ción si se utiliza un motor distinto al
+estándar.
+• Si el motor está equipado con protec‐
+tores térmicos automáticos, tenga en
+cuenta el riesgo de inicios de cone‐
+xión imprevistos relacionados con la
+sobrecarga. No utilice dichos moto‐
+res para aplicaciones de extinción de
+incendios.
+
+ción
+– Distancias de los orificios
+– Calcular el tamaño y la cantidad de las vari‐
+
+NOTA:
+
+ES
+
+• Utilice sólo motores balanceados dinámicamen‐
+te con una llave de tamaño medio en la extensión
+del eje (IEC 60034-14) y con un índice de vibra‐
+ción normal (N).
+• La tensión y la frecuencia de la red debe coincidir
+con las especificaciones indicadas en la placa de
+características.
+
+En general, los motores pueden funcionar con las
+siguientes tolerancias de tensión:
+
+Frecuencia Hz
+Fase ~
+UN [V] ± %
+
+50
+1
+220 – 240 ± 6
+
+3
+230/400 ± 10
+
+400/690 ± 10
+
+60
+1
+220 – 230 ± 6
+
+3
+220/380 ± 5
+
+llas de unión con anclajes químicos, según el
+modelo de la unidad.
+2. Taladre la cimentación y asegure las varillas de
+unión.
+3. Coloque la unidad en la cimentación y use un
+nivel de burbuja en el puerto de descarga y el eje
+para asegurarse de que está nivelado.
+Tolerancia máxima permitida: 0,2 mm/m.
+4. Si están presentes, quite los tapones que cubren
+los puertos de aspiración y descarga.
+5. Alinee los puertos de aspiración y descarga con
+su tubería.
+6. Fije el sistema de tuberías a la unidad; consulte
+también Lista de verificación del sistema de tu‐
+berías en la página 57.
+7. Si es necesario, inserte separadores de nivelado
+entre la cimentación y la base: si la distancia en‐
+tre los tirantes es > 800 mm, inserte dos separa‐
+dores adicionales en el centro de la base. Todos
+los separadores deben estar perfectamente lava‐
+dos. Consulte Figura 17 en la página 384.
+8. Apriete uniformemente y totalmente las tuercas
+de la varilla de unión, asegurándose de que los
+pares de apriete sean los indicados en la tabla.
+
+380/660 ± 10
+
+Tuerca
+Par, Nm (lbf·pulg.)
+
+M12
+60 (44)
+
+Utilice cables conforme a las normas con 3 conduc‐
+tores (2+tierra) para las versiones monofase y con 4
+conductores (3+tierra) para las versiones trifásicas.
+
+M16
+120 (89)
+
+4.3  Instalar la bomba
+
+M20
+200 (148)
+
+4.3.1  Instalación mecánica
+
+M24
+350 (258)
+
+Área de instalación
+
+M27
+530 (391)
+
+Nota:
+
+Instale la unidad sobre una cimentación de hormi‐
+gón o metal lo suficientemente fuerte para garanti‐
+zar un soporte rígido y permanente. Siga los requisi‐
+tos de Ubicación de la bomba en la página 54.
+
+• Para las planchas de base, se recomienda sujetar
+con mortero la plancha de base con hormigón de
+bajo encogido.
+
+Instalación en cimentación de hormigón
+
+Monte la bomba en un bastidor base
+
+Requisitos para la cimentación
+
+Compruebe que se cumple lo siguiente:
+
+• Bastidor base sólido que no gire ni vibre durante
+el funcionamiento (resonancia).
+• El montaje de las superficies de la pata de la
+bomba y el motor en el bastidor base debe estar
+plano (se recomienda mecanizado).
+• Se debe garantizar el apretado de forma segura
+de la bomba y el motor.
+• Debe dejarse suficiente espacio entre la bomba y
+el eje del motor, según el acoplamiento usado.
+• Entre la bomba y el bastidor de la base debe
+haber un separador adecuado, de modo que en
+caso de sustitución pueda ajustarse la misma
+altura entre la parte inferior y la línea central (se
+recomienda un ajuste vertical de 4-6 mm
+
+• El hormigón debe tener una resistencia a la com‐
+presión de C12/15 y cumplir los requisitos de
+la clase de exposición XC1 de acuerdo con EN
+206-1
+• Los tamaños deben ser adecuados para los ta‐
+maños de la placa de soporte de la unidad
+• El peso de la cimentación debe ser ≥ 1,5 veces el
+peso de la unidad (≥ 5 veces el peso de la unidad
+si se requiere un funcionamiento más silencioso)
+• La superficie debe ser lo más plana y nivelada
+posible
+• La pendiente debe ser ≤ 1 mm/m.
+Encontrará instrucciones adicionales en el docu‐
+mento n.o 001080247X: para descargarlo, escanee
+el código QR que se encuentra en Figura 17 en la
+página 384.
+
+Reducción de las vibraciones
+
+56

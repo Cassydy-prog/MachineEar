@@ -1,0 +1,40 @@
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+3.3.2.6  Rolling element edge running
+Symptoms:
+
+Causes:
+– Excessive (axial) load
+– Moment load too high
+– Operating clearance too large
+– Tilting
+
+Remedial measures:
+– Avoid overloading
+– Use bearing with higher load carrying
+
+capacity
+– Reduce operating clearance
+– Avoid tilting
+
+In the case of balls, arch-shaped 
+notches on the surface or what one could
+describe as "woolen balls" of notches,
+edges rounded since they are plastically
+deformed, figs. 61, 62. Circumferential
+notches near the faces in the case of 
+rollers. Not to be confused with 
+scratches by foreign particles, see section
+3.3.4.2 "Scratches on rolling element
+outside diameters".
+
+61: Ball with extreme edge tracks caused by long-term 
+constant load
+
+62: Ball with "woolen balls" of notches caused by long-term
+changing load
+
+39
+FAG

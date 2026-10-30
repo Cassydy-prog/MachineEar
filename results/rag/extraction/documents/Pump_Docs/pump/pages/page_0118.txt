@@ -1,0 +1,32 @@
+Appendix C: Pumping Systems Tip Sheet Number 6
+
+One 3,500-gpm pump is therefore replaced with a new 1,250-gpm pump designed to have the same discharge head 
+as the original unit. Although the new pump requires only 50 bhp, it meets the plant’s chilled water requirements 
+most of the year (in all but the summer months). The older pump now operates only in the summer. Assuming 
+continuous operation with an efficiency (ηm) of 93% for both motors, we can calculate the energy savings from 
+operating the smaller pump as follows:
+
+Savings  =	 (200 hp – 50 hp)/ηm x 0.746 kW/hp x (9 months/12 months) x 8,760 hours/year
+
+=	 790,520 kWh/year.
+
+At an average energy cost of 5¢ per kWh, annual savings would be about $39,525.
+
+  Suggested Actions  
+
+• Survey your facility’s pumps.
+
+• Identify flow rates that vary 30% or more from the BEP and systems imbalances greater than 20%.
+
+• Identify misapplied, oversized, or throttled pumps and those with bypass lines.
+
+• Assess opportunities to improve system efficiency.
+
+• Consult with suppliers on the cost of trimming or replacing impellers and replacing pumps.
+
+• Determine the cost-effectiveness of each improvement.
+
+DOE/GO-102005-2160 • October 2005 • Pumping Systems Tip Sheet #6
+
+114
+Improving Pumping System Performance

@@ -1,0 +1,204 @@
+de - Übersetzung des Originals
+
+Prüfung der Lagerdich‐
+tungen
+
+7.2  Der Hauptschalter ist eingeschaltet, aber
+die elektrische Pumpe läuft nicht an.
+
+Ursache
+Abhilfemaßnahme
+
+Prüfen Sie den korrekten
+Sitz der axialen Dichtrin‐
+ge auf der Welle. Die
+Dichtlippe darf nur ganz
+leicht anliegen.
+
+Die Stromversorgung
+ist unterbrochen.
+
+Prüfung der Laufruhe
+Kontrollieren Sie häufig
+die Laufruhe der Pumpe
+mit Vibrationsmessgerä‐
+ten.
+
+• Stellen Sie die Stromver‐
+sorgung wieder her.
+• Stellen Sie sicher, dass al‐
+le elektrischen Anschlüs‐
+se an die Stromversor‐
+gung intakt sind.
+
+Warten Sie, bis sich die Pum‐
+pe abgekühlt hat. Der Über‐
+temperaturschalter wird au‐
+tomatisch zurückgesetzt.
+
+DE
+
+Der in der Pumpe
+befindliche Übertem‐
+peraturschalter (falls
+vorhanden) hat aus‐
+gelöst.
+
+6.3  Zerlegen der Pumpe und Austausch von
+Teilen
+Wenden Sie sich für weitere Informationen über Er‐
+satzteile und die Montage bzw. Demontage der Pum‐
+pe an Ihre zuständige Vertriebs- und Wartungsvertre‐
+tung.
+
+Setzen Sie das Thermo‐
+schütz zurück.
+
+7  Fehlerbehebung
+
+7.1  Fehlerbehebung für Benutzer
+
+Das Thermorelais
+oder der Schutz‐
+schalter für den Mo‐
+tor an der elektri‐
+schen Schalttafel hat
+ausgelöst.
+
+Der Hauptschalter ist eingeschaltet, aber die elektri‐
+sche Pumpe läuft nicht an.
+
+Prüfen Sie:
+
+Ursache
+Abhilfemaßnahme
+
+Die Trockenlauf‐
+schutzvorrichtung
+hat ausgelöst.
+
+• den Flüssigkeitsstand im
+Tank bzw. den Druck in
+der Hauptleitung.
+• die Schutzvorrichtung
+und das Anschlusskabel.
+
+Der in der Pumpe be‐
+findliche Übertempera‐
+turschalter (falls vor‐
+handen) hat ausgelöst.
+
+Warten Sie, bis sich die
+Pumpe abgekühlt hat.
+Der Übertemperaturschal‐
+ter wird automatisch zu‐
+rückgesetzt.
+
+Tauschen Sie die Sicherun‐
+gen aus.
+
+Die Sicherungen für
+die Pumpe oder
+den Hilfsbetrieb sind
+durchgebrannt.
+
+Die Trockenlaufschutz‐
+vorrichtung hat ausge‐
+löst.
+
+Prüfen Sie den Füllstand
+im Tank bzw. den Druck in
+der Hauptleitung.
+
+7.3  Die elektrische Pumpe läuft an, aber
+der Übertemperaturschalter oder eine der
+Sicherungen löst unmittelbar danach aus
+
+Die elektrische Pumpe startet, aber der Übertempe‐
+raturschutz löst anschließend zu unterschiedlichen
+Zeiten aus.
+
+Ursache
+Abhilfemaßnahme
+
+Ursache
+Abhilfemaßnahme
+
+Das Spannungsver‐
+sorgungskabel ist be‐
+schädigt.
+
+Prüfen Sie das Kabel und
+tauschen Sie es aus wie er‐
+forderlich.
+
+Wenden Sie sich an die
+Vertriebs- und Kunden‐
+dienstabteilung.
+
+In der Pumpe befinden
+sich Fremdkörper (Fest‐
+stoffe oder Fasern), die
+das Laufrad blockieren.
+
+Prüfen Sie die Komponenten
+und tauschen Sie diese aus
+wie erforderlich.
+
+Der Übertemperatur‐
+schutz oder die Si‐
+cherungen sind nicht
+für den Motorstrom
+geeignet.
+
+Die Pumpe ist überlastet,
+weil das Fördermedium
+eine zu hohe Dichte oder
+eine zu hohe Viskosität
+aufweist.
+
+Prüfen Sie den tatsächli‐
+chen Leistungsbedarf an‐
+hand der Fördermedien-
+Eigenschaften und wen‐
+den Sie sich an die
+Vertriebs- und Kunden‐
+dienstabteilung.
+
+Der Elektromotor
+weist einen Kurz‐
+schluss auf.
+
+Prüfen Sie die Komponenten
+und tauschen Sie diese aus
+wie erforderlich.
+
+Der Motor wird über‐
+lastet.
+
+Die Pumpe läuft, liefert jedoch zu wenig oder kein
+Medium.
+
+Prüfen Sie die Betriebsbe‐
+dingungen der Pumpe und
+setzen Sie die Schutzvorrich‐
+tung zurück.
+
+Ursache
+Abhilfemaßnahme
+
+Die Pumpe ist ver‐
+stopft.
+
+Wenden Sie sich an die Ver‐
+triebs- und Kundendienstabtei‐
+lung.
+
+7.4  Die elektrische Pumpe läuft an, aber
+der Übertemperaturschalter oder eine der
+Sicherungen löst kurz danach aus
+
+Die Fehlerbehebungs-Anweisungen in den folgenden
+Tabellen richten sich ausschließlich an Monteure.
+
+48

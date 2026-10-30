@@ -1,0 +1,139 @@
+IM-1080
+
+Installation/Start-up Checklist
+Become familiar with the equipment by looking at the fan assembly drawing for 
+special instructions and accessories.
+
+WARNING
+
+Verify that proper safety precautions have been followed. 
+Electrical power must be locked off.
+
+Electrical Components
+
+Initial Fan Check
+	
+Inspect fan for damage
+	
+Check foundation, prepare for shims
+	
+Level the fan
+	
+Check bolt tightness
+	
+Check to see if the fan is distorted by the foundation 
+and/or ductwork 
+	
+Note: Applies to direct or isolation mount.
+	
+Check fan interior for debris and standing water
+
+Motor wired for proper voltage and starter
+	
+Motor grounded
+	
+Appropriate starter and heaters
+	
+Leads are properly insulated
+	
+Accessories wired per instructions supplied
+
+Energize
+
+Fan Impeller
+	
+Impeller clearance checked
+	
+Impeller overlap checked
+	
+Fasteners tight
+	
+Impeller rotates freely
+
+Springs (if equipped)
+	
+Springs adjusted properly 
+	
+Flex joints allow movement
+	
+Electrical conduit allows movement
+
+Bearings
+	
+Bearings aligned
+	
+Bearings greased
+	
+Note: Rotate while greasing
+	
+Set screws tight (if equipped)
+
+Energize motor long enough to start assembly 
+rotating, shut down
+	
+Verify direction of impeller rotation, rewire if 
+necessary Note: Refer to Impeller Rotation section
+	
+Run the fan up to speed
+	
+Check for excess vibration and listen for unusual 
+noise. Refer to the Vibration Guidelines table in the 
+Troubleshooting Guidelines section for vibration limits.
+	
+Proceed to grout
+	
+Bearing temperatures should stabilize after a few 
+hours. Less than 200°F
+	
+Note: Use sense of smell to identify possible electrical, belt issues.
+
+After one Week
+
+Lube Lines
+	
+Lube lines have been charged with grease prior to 
+connecting to bearings
+
+Verify bolt tightness
+	
+Verify belt tension and adjust as necessary
+
+NOTICE
+
+Always observe site specific and regulatory safety precautions.
+
+Serial Number:
+
+Completed By:
+
+V-Belts (if equipped)
+	
+V-belt drives aligned
+	
+Sheaves retightened
+	
+Belt tension correct
+	
+Motor bolts retightened
+	
+Couplings (if equipped)
+	
+Coupling aligned	
+	
+Coupling gap checked
+	
+Coupling lubricated
+
+Date Completed:
+
+Accessories
+	
+Guards installed correctly, do not rub
+	
+VIV/damper rotates freely (if equipped)
+	
+Other accessories per drawing
+
+21
+
+Installation, Operation & Maintenance Manual

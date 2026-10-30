@@ -1,0 +1,157 @@
+no - Oversettelse av opprinnelige instruksjoner
+
+3. Monter koplingsboksdekslet.
+
+MERK:
+Stram til kabelgjennomføringene forsiktig for å
+sikre at kablene ikke sklir eller at det kommer
+fuktighet inn i koplingsboksen.
+
+8. Gjenta trinn 7 flere ganger: Den aksiale innrettin‐
+gen er riktig hvis avstandene er like på alle punk‐
+tene rundt omkretsen, innenfor det tillatte avviket;
+se Tabell 28 på side 399. Ellers Justering av kop‐
+lingen med mellomlegg på side 106.
+9. Sett på koblingsbeskyttelsen igjen.
+• M5 → 3 Nm (27 lbf·in) ± 15 %
+• M6 → 5 Nm (44 lbf·in) ± 15 %.
+
+4. Dersom motoren ikke er utstyrt med vernevern
+med automatisk tilbakestilling, justeres overbela‐
+stingsvernet iht. listen nedenfor.
+
+– Dersom motoren brukes med full belastning,
+
+Kontroll av koplingsjustering med laserregu‐
+lering
+
+stilles merkestrømverdien til pumpens elektri‐
+ske verdier (dataskilt)
+– Dersom motoren brukes med delvis belast‐
+
+Du kan kontrollere innrettingen av koplingen med
+en laserregulering: se bruksanvisningen for regule‐
+ringen.
+
+Justering av koplingen med mellomlegg
+
+ning, stilles verdien til driftsstrømmen (f.eks.
+målt med en strømtang).
+– Juster varmereléet til 58 % av den merke‐
+
+strømmen eller driftsstrømmen (kun trefase
+motorer) dersom pumpen har et Star-Delta-
+oppstartsystem.
+
+Se Figur 17 på side 384 for informasjon om hvor du
+skal feste pumpen og motoren til sokkelen og hvor
+du skal sette inn de medfølgende mellomleggene.
+
+5  Igangsetting, oppstart, drift og
+avstenging
+
+Forholdsregler
+
+NO
+
+ADVARSEL:
+Fysiske og termiske farer
+
+1. Skru ut boltene som fester pumpen og motoren
+til sokkelen.
+2. Løft pumpen og motoren litt.
+3. Sett inn avstandsskivene mellom sokkelen og
+føttene på pumpen og motoren, ved ett eller flere
+av de indikerte punktene.
+4. Plasser pumpen og motoren på sokkelen slik at
+bolthullene er rettet inn.
+5. Trekk til boltene.
+6. Gjenta innrettingskontrollen av koplingen.
+
+Installasjon av koblingsbeskyttelse
+
+• Bruk alltid personlig verneutstyr.
+• Kontroller at koplingsbeskyttelsen er
+installert.
+
+ADVARSEL:
+
+FORSIKTIG:
+Du må aldri kjøre pumpen uten at ko‐
+plingsbeskyttelsen er riktig installert.
+
+Type beskyttelse: trådduk
+Se for å finne informasjonFigur 18 på side 386.
+
+• Forviss deg om at den drenerte væ‐
+sken ikke forårsaker ødeleggelser el‐
+ler personskader.
+• Motorvernene kan få motoren til å
+starte uforvarende. Dette kan føre til
+alvorlige personskader.
+
+FORSIKTIG:
+
+1. Plasser beskyttelsen (1) riktig slik at den omslut‐
+ter pumpeakselens utløpsende og støtteringen
+(3) på motorsiden.
+2. Trekk til skruene (2).
+Type beskyttelse: metallplater
+Se for å finne informasjonFigur 19 på side 388.
+
+• De ytre pumpeflatene og motorflate‐
+ne and overstige 40 ºC under bruk.
+• Plasser ikke brennbare materialer i
+nærheten av pumpen.
+
+MERK:
+
+1. Plasser den nedre halvdelen av koplingsbeskyt‐
+telsen (2).
+2. Stram festeskruene til det nedre halve skallet (4).
+3. Åpne og sett inn støtte-/justeringsringen (6) med
+huset nedover, og trykk den aksialt inn på moto‐
+ren.
+4. Plasser den øvre halvdelen av koplingsbeskyttel‐
+sen (1).
+5. Stram festeskruene til det øvre halve skallet (3).
+6. Trekk til lukkeskruene til halvmuffene (5).
+
+4.3.4  Elektrisk montering
+
+1. Fjern skruene fra terminalboksdekslet.
+
+2. Koble og fest strømkablene iht. til det aktuelle
+kabelskjemaet.
+
+Se Figur 21 på side 392 for å finne montasjeskje‐
+maene. Diagrammene finnes også på baksiden
+oav terminalboksdekslet.
+
+• Du må aldri kjøre pumpen under minimums‐
+strømning, når den er tørr eller uten priming.
+• Bruk aldri pumpen mer enn i noen få sekunder
+dersom AV/PÅ-tilførselsventilen er lukket.
+• Kjør aldri pumpen med PÅ/AV-sugeventilen
+stengt.
+• En uvirksom pumpe må ikke utsettes for frysefor‐
+hold. Tapp av all væske inni pumpen. Hvis dette
+ikke gjøres, kan væsken fryse og skade pumpen.
+• Det samlede trykket på sugedelen (vannledning,
+falltank) og det maksimale trykket som pumpen
+tilfører, må ikke overstige det maksimale arbeids‐
+trykket som tillates (nominelt trykk PN) på pum‐
+pen.
+• Bruk ikke pumpen hvis det oppstår kavitasjon.
+Kavitasjon kan skade de innvendige komponente‐
+ne.
+
+a) Koble til jordledningen.
+
+5.1  Fyll pumpen
+
+Forviss deg om at jordledningen er lengre enn
+faseledningene.
+b) Koble til faseledningene.
+
+106

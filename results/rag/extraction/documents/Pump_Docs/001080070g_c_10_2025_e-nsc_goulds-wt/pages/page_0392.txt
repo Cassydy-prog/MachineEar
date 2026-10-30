@@ -1,0 +1,102 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+19.
+
+NSC_M0042_A_sc
+
+50
+65
+80
+100
+125
+150
+200
+250
+300
+
+-315
+-315
+-315
+-160
+-200
+-200
+-250
+-315
+-350
+
+-316
+-200
+-250
+-250
+-315
+-400
+-400
+
+-400
+-250
+-315
+-315
+-400
+-500
+-450
+
+-315
+-400
+-400
+-500
+
+-316
+-500
+
+-400
+
+Protezione del giunto in lamiera
+
+Italiano
+
+English
+
+Français
+
+1. Upper half shell
+2. Lower half shell
+3. Upper half shell fixing screws
+4. Lower half shell fixing screws
+5. Closing screws of the half
+shells
+
+APPX
+
+1. Semiguscio superiore
+2. Semiguscio inferiore
+3. Viti di fissaggio del semigu‐
+scio superiore
+4. Viti di fissaggio del semigu‐
+scio inferiore
+5. Viti di chiusura dei semigusci
+
+1. Demi-coque supérieure
+2. Demi-coque inférieure
+3. Vis de fixation de demi-coque
+supérieure
+4. Vis de fixation de demi-coque
+inférieure
+5. Vis de fermeture des demi-co‐
+quilles
+
+Deutsch
+
+Español
+
+Português
+
+1. Obere Halbschale
+2. Untere Schale
+
+1. Mitad superior de la carcasa
+2. Mitad inferior de la carcasa
+
+1. Meia-protecção superior
+2. Meia-protecção inferior
+
+388

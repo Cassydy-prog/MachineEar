@@ -1,0 +1,99 @@
+Section 4. Where To Find Help
+
+the optional Chempak add-in, a thermo-physical 
+database of over 600 fluids is available, allowing 
+thermal analysis capabilities such as piping heat 
+transfer, heat exchanger modeling, and varying 
+fluid properties.
+
+PUMPAL
+PUMPAL uses a design wizard to create a pump 
+system model. The program analyzes the input and 
+creates integrated performance maps for a quick 
+review of performance and comparison of multiple 
+designs, or analysis vs. test data. The report gener-
+ator easily formats tables and plots into a report, 
+with a flexible template approach. The program can 
+be integrated with geometries created in CCAD.
+
+Crane Valves
+2129 3rd Avenue SE
+Cullman, AL 35055
+Phone: 800-323-3679
+www.cranevalve.com
+
+AFT Impulse 
+Waterhammer analysis tools of the past have been 
+difficult to use and have required extensive 
+specialized knowledge. As a result, this critical 
+aspect of piping system design and operation has 
+often been overlooked. AFT Impulse™ offers the 
+ease of use of a drag-and-drop interface and built-
+in waterhammer modeling expertise. AFT Impulse 
+helps you design and operate systems with greater 
+reliability and safety by avoiding the effects of 
+waterhammer and other undesirable system 
+transients.
+
+Crane’s Flow of Fluids 7.0 Premium Software
+Piping system design software optimized for high-
+speed computers, this program offers enhanced 
+flexibility and customization with piping designs 
+and system modeling. It includes pump and valve 
+sizing wizards, and a new Fluid Zone feature, 
+which allows the user to quickly modify fluid 
+properties across multiple pipelines. The results 
+of software runs are displayed professionally with 
+tabular reports and can be easily imported into 
+spreadsheet programs like Microsoft Excel.
+
+AFT Mercury
+AFT Mercury, powered by IntelliFlow, is the first 
+software product to offer the piping systems 
+engineer intelligent, automated sizing of system 
+piping, ducting, and components to achieve this 
+goal. With comprehensive system modeling 
+capabilities, a flexible graphical interface and an 
+advanced optimization engine, AFT Mercury with 
+IntelliFlow is a new technology that can produce 
+significant cost savings on piping systems.
+
+Electric Power Research Institute
+Power Electronics Applications Center
+942 Corridor Park Boulevard
+Knoxville, TN 37932
+Phone: 865-218-8000
+www.epri-peac.com
+
+Concepts ETI
+217 Billings Farm Road
+White River Junction, VT 05001-9486
+Phone: 802-296-2321
+www.conceptseti.com
+
+CCAD
+CCAD allows users to design their pump systems 
+down to the smallest detail. The program creates 
+geometries for various inlets, impellers, inducers, 
+diffusers, crossovers, nozzles, and volutes. 
+Included is a quasi-3D flow analysis for testing the 
+designs. CCAD is compatible with other Concepts 
+ETI programs, such as PUMPAL, allowing designs 
+to be transferred with seamless integration.
+
+ASDMaster 
+This software package consists of six modules 
+designed to educate and assist users in the 
+proper application of adjustable speed drives. 
+ASDMaster contains instruction tools that discuss 
+the technology, process effects, and power quality 
+issues associated with ASDs. It analyzes energy 
+consumption and performance differences between 
+ASDs and constant-speed alternatives. ASDMaster 
+also contains a database module that refers the user 
+to manufacturers of ASDs that can meet the needs 
+of the application.
+
+85
+
+A Sourcebook for Industry

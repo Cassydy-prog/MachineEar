@@ -1,0 +1,44 @@
+Introduction and safety
+Introduction
+
+Purpose of this manual
+
+The purpose of this manual is to provide necessary information for:
+• Installation
+• Operation
+• Maintenance
+
+CAUTION:
+Read this manual carefully before installing and using the product. Improper use of the product can 
+cause personal injury and damage to property, and may void the warranty.
+
+NOTICE:
+Save this manual for future reference, and keep it readily available at the location of the unit.
+
+Requesting other information
+
+Special versions can be supplied with supplementary instruction leaflets. See the sales contract for any 
+modifications or special version characteristics. For instructions, situations, or events that are not considered 
+in this manual or in the sales documents, please contact the nearest Xylem representative.
+
+Always specify the exact product type and identification code when requesting technical information or 
+spare parts.
+
+Safety
+
+WARNING:
+
+• The operator must be aware of safety precautions to prevent physical injury.
+• Any pressure-containing device can explode, rupture, or discharge its contents if it is over-pressurized. 
+Take all necessary measures to avoid over-pressurization.
+• Operating, installing, or maintaining the unit in any way that is not covered in this manual could cause 
+death, serious personal injury, or damage to the equipment. This includes any modification to the 
+equipment or use of parts not provided by Xylem. If there is a question regarding the intended use of 
+the equipment, please contact a Xylem representative before proceeding.
+• Do not change the service application without the approval of an authorized Xylem representative.
+
+CAUTION:
+You must observe the instructions contained in this manual. Failure to do so could result in physical 
+injury, damage, or delays.
+
+4

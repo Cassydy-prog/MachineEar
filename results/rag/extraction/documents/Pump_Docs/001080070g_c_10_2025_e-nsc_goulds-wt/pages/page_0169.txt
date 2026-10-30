@@ -1,0 +1,212 @@
+lv - Oriģinālās instrukcijas
+
+Cēlonis
+Risinājums
+
+7.7  Elektriskais sūknis uzsāk darbu, bet
+nostrādā sistēmas strāvas starpības ierīce
+(RCD).
+
+Motora pārslodze.
+Pārbaudiet sūkņa darba ap‐
+stākļus un atiestatiet aiz‐
+sardzību.
+
+Cēlonis
+Risinājums
+
+Radusies noplūde
+uz zemi.
+
+Pārbaudiet elektriskās sistē‐
+mas komponentu izolāciju.
+
+7.4  Elektriskais sūknis uzsāk darbu, bet īsu
+brīdi vēlāk nostrādā termiskās aizsardzības
+relejs vai pārdeg drošinātājs
+
+Cēlonis
+Risinājums
+
+7.8  Sūknis darbojas, bet sūknē pārāk maz
+šķidruma vai vispār nesūknē
+
+Cēlonis
+Risinājums
+
+• Atgaisojiet
+
+Elektriskais panelis atro‐
+das pārāk intensīvi apsil‐
+dītā vietā vai uz to iedar‐
+bojas tieši saulesstari.
+
+Aizsargājiet elektrisko
+paneli no siltuma avo‐
+tiem un tiešiem saules‐
+stariem.
+
+Sūknī vai cauruļva‐
+dos iekļuvis gaiss.
+
+Pārbaudiet motora darba
+apstākļus.
+
+Sūknis nav pareizi
+uzpildīts.
+
+Barošanas spriegums
+neatrodas motora darba
+diapazonā.
+
+Trūkst barošanas fāzes.
+Pārbaudiet
+
+Apturiet sūkni un atkārtojiet uz‐
+pildes procedūru.
+Ja problēmu novērst neizdo‐
+das:
+
+• barošanu
+• elektriskais pieslē‐
+gums
+
+• Pārbaudiet, vai mehāniska‐
+jām blīvēm nav noplūdes.
+• Pārbaudiet, vai iesūkšanas
+caurule ir hermētiska.
+• Nomainiet vārstus, kuriem
+ir noplūde.
+
+Atveriet vārstu.
+
+7.5  Elektriskais sūknis uzsāk darbu,
+bet kādu brīdi vēlāk nostrādā termiskās
+aizsardzības relejs
+
+Pārāk ieilgusi dro‐
+selēšanās patēriņa
+pusē.
+
+Cēlonis
+Risinājums
+
+Izjauciet un iztīriet vārstus.
+
+LV
+
+Vārsti ir bloķēju‐
+šies slēgtā vai da‐
+ļēji slēgtā stāvoklī.
+
+Sazinieties ar vietējo izplatī‐
+šanas un servisa apkopes
+pārstāvi.
+
+Sūknis nosprosto‐
+jies.
+
+Sazinieties ar vietējo izplatīša‐
+nas un servisa apkopes pārstā‐
+vi.
+
+Sūknī iekļuvuši sveš‐
+ķermeņi (cietās daļi‐
+ņas vai šķiedrainas
+vielas), kas ir no‐
+sprostojušas darbra‐
+tu.
+
+Nosprostojies cau‐
+ruļvads.
+
+Pārbaudiet un iztīriet cauruļva‐
+dus.
+
+Sūkņa izvada ātrums
+ir augstāks kā da‐
+tu plāksnītē norādītās
+robežas.
+
+Daļēji aizveriet slēgvārstu
+aiz sūkņa, līdz izvada
+ātrums ir vienāds vai ma‐
+zāks par robežām, kas norā‐
+dītas datu plāksnītē.
+
+Nepareizs darbrata
+rotācijas virziens.
+(trīsfāzu versija)
+
+Uz motora pieslēguma spaiļu
+plāksnes vai elektriskās vadī‐
+bas panelī apmainiet vietām di‐
+vu fāzu pieslēguma vadus.
+
+Sūknis ir pārslogots,
+jo tas sūknē šķidru‐
+mu, kas ir pārāk blīvs
+un/vai viskozs.
+
+Pārbaudiet sūkņa darba apstā‐
+kļus. Ja nepieciešams, rīkoja‐
+ties šādi:
+
+Pārbaudiet reālās jaudas va‐
+jadzības, pamatojoties uz
+sūknētā šķidruma raksturlie‐
+lumiem, un attiecīgi nomai‐
+niet motoru.
+
+Sūkšanas aug‐
+stums ir pārāk liels
+vai plūsmas prete‐
+stība sūcvadā ir
+pārāk liela.
+
+Ir nodiluši motora
+gultņi.
+
+• Samaziniet sūknēšanas
+augstumu
+• Palieliniet sūcvada diame‐
+tru.
+
+Sazinieties ar vietējo izplatī‐
+šanas un servisa apkopes
+pārstāvi.
+
+7.9  Sūknis apstājas un tad vārpsta sāk rotēt
+pretējā virzienā.
+
+7.6  Elektriskais sūknis uzsāk darbu, bet
+nostrādā sistēmas kopējais aizsardzības
+automāts.
+
+Cēlonis
+Risinājums
+
+Cēlonis
+Risinājums
+
+Noplūde vienā vai abos sekojo‐
+šajos elementos:
+
+Saremontējiet vai
+nomainiet bojāto
+elementu.
+
+Īsslēgums elektriskajā
+sistēmā.
+
+Pārbaudiet elektrisko
+sistēmu.
+
+• Iesūkšanas cauruļvadā
+• Noslēdzējvārstā vai kontrol‐
+vārstā
+
+Sūcvadā ir gaiss.
+Atgaisojiet.
+
+165

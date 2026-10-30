@@ -1,0 +1,152 @@
+cs - Překlad originálu
+
+Ochrana může být drátěná síťka (viz Obrázek 18
+na straně 386) nebo plech (viz Obrázek 19 na
+straně 388)
+
+3. Otevřete a vložte podpěrný/seřizovací kroužek
+(6) pouzdrem směrem dolů a axiálně jej přitlačte
+na motor.
+4. Umístěte horní polovinu pláště ochranného krytu
+spojky (1).
+5. Utáhněte upevňovací šrouby horní poloviny po‐
+uzdra (3).
+6. Utáhněte uzavírací šrouby polovičních pouzder
+(5).
+
+4.3.4  Elektrická instalace
+
+1. Demontujte šrouby krytu svorkovnice.
+
+2. Připojte a upevněte napájecí kabely dle příslušné‐
+ho schématu zapojení:
+
+Schémata zapojení naleznete v oddílu Obrázek
+21 na straně 392. Tato schémata jsou rovněž k
+dispozici na zadní straně krytu svorkovnice.
+
+a) Připojte zemnicí vodič (uzemnění).
+
+Ujistěte se, že zemnicí vodič (uzemnění) je
+delší než fázové vodiče.
+b) Připojte fázové vodiče.
+
+3. Namontujte kryt svorkovnice.
+
+2. Umístěte pravítko na poloviční spojky.
+3. Změřte vzdálenosti zobrazené na obrázku.
+4. Ručně otočte spojku v krocích po 90° a zopakujte
+měření.
+5. Opakujte krok 4 několikrát: radiální vyrovnání je
+správné, pokud jsou vzdálenosti ve všech bodech
+po celém obvodu v rámci přípustné odchylky stej‐
+né; viz Tabulka 28 na straně 399. Jinak viz Vyrov‐
+nání spojky s podložkami na straně 198.
+6. Zkontrolujte vzdálenost mezi polovinami spojek
+pomocí spárové měrky.
+7. Otočte spojku rukou v krocích po 90° a znovu
+zkontrolujte vzdálenost.
+8. Opakujte krok 7 několikrát: axiální vyrovnání je
+správné, pokud jsou vzdálenosti ve všech bodech
+obvodu stejné, v rámci přípustné odchylky; viz Ta‐
+bulka 28 na straně 399. Jinak, Vyrovnání spojky s
+podložkami na straně 198.
+9. Namontujte zpět ochranu spojky.
+• M5 → 3 Nm (27 lbf·in) ± 15 %
+• M6 → 5 Nm (44 lbf·in) ± 15 %.
+
+Kontrola vyrovnání spojky s laserovým rov‐
+nátkem
+
+OZNÁMENÍ:
+Pečlivě utáhněte kabelové průchodky, aby by‐
+la zajištěna ochrana proti prokluzování kabelu
+a ochrana před vniknutím vlhkosti do svorkovni‐
+cové skříňky.
+
+Můžete zkontrolovat vyrovnání spojky s laserovým
+rovnátkem: viz návod k obsluze rovnátek.
+
+Vyrovnání spojky s podložkami
+
+4. Pokud není motor vybaven tepelnou ochranou
+s automatickým resetováním, nastavte ochranu
+proti přetížení podle níže uvedeného seznamu.
+
+– Je-li motor používán při plném zatížení, na‐
+
+Informace o připojení čerpadla a motoru k základně
+a o vkládání dodaných podložek Obrázek 17 na stra‐
+ně 384 naleznete v části .
+
+stavte hodnotu jmenovitého proudu elektric‐
+kého čerpadla (typový štítek).
+– Je-li motor používán s částečným zatížením,
+
+CS
+
+nastavte hodnotu na provozní proud (např. na‐
+měřený klešťovým měřicím přístrojem).
+– Pokud je čerpadlo vybaveno spouštěcím sy‐
+
+stémem se zapojením hvězda–trojúhelník,
+upravte tepelné relé na 58 % jmenovitého pro‐
+udu nebo provozního proudu (pouze pro třífá‐
+zové motory).
+
+1. Vyšroubujte šrouby upevňující čerpadlo a motor k
+základně.
+2. Lehce zvedněte čerpadlo a motor.
+3. Vložte podložky mezi základnu a nožičky čerpa‐
+dla a motoru v jednom nebo více uvedených bo‐
+dech.
+4. Umístěte čerpadlo a motor na základnu a vyrov‐
+nejte otvory pro šrouby.
+5. Utáhněte šrouby.
+6. Opakujte kontrolu vyrovnání spojky.
+
+Instalace ochrany spojky
+
+5  Uvedení do provozu, spuštění, provoz
+a zastavení
+
+Bezpečnostní opatření
+
+VAROVÁNÍ:
+Nikdy nespouštějte čerpadlo bez správně
+nainstalovaného krytu spojky.
+
+UPOZORNĚNÍ:
+Fyzikální a tepelná nebezpečí
+
+• Vždy noste osobní ochranné pomůc‐
+ky.
+• Zkontrolujte, zda je nainstalována
+ochrana spojky.
+
+UPOZORNĚNÍ:
+
+• Ujistěte se, že čerpaná kapalina ne‐
+způsobí škody ani úraz.
+• Chrániče motoru mohou způsobit ne‐
+očekávané opětné spuštění motoru.
+To by mohlo vést k vážnému úrazu.
+
+Typ ochrany: drátěná síťka
+Informace naleznete v oddílu Obrázek 18 na straně
+386.
+1. Přemístěte ochranu (1) správně tak, aby obklopo‐
+vala výstupní konec hřídele čerpadla a opěrný
+kroužek (3) na straně motoru.
+2. Utáhněte šrouby (2).
+Typ ochrany: plech
+Informace naleznete v oddílu Obrázek 19 na straně
+388.
+1. Umístěte spodní polovinu pláště ochrany spojky
+(2).
+2. Utáhněte upevňovací šrouby spodní poloviny plá‐
+ště (4).
+
+VAROVÁNÍ:
+
+198

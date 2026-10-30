@@ -1,0 +1,190 @@
+Installation
+
+Ducted Outlet Installations
+Discharge Duct Turns - Duct turns located near the 
+fan discharge should always be in the direction of the 
+fan rotation.
+
+Move the fan to the desired location. Check and tighten 
+fasteners throughout the unit and then fasten securely 
+through mounting holes provided in the base angles. 
+The unit must be set level (shimming may be necessary). 
+Flexible duct connections and vibration isolators should 
+be used where noise is a factor.
+
+n
+
+o
+
+i
+
+t
+
+a
+
+t
+
+o
+
+The motor voltage and ampere rating must be checked 
+for compatibility with the electrical supply prior to final 
+electrical connection. Supply wiring to the fan must 
+be properly fused, and conform to local and national 
+electrical codes.
+
+R
+
+POOR
+
+Fan performance is reduced when duct 
+turns are made immediately off the 
+fan discharge. To achieve cataloged 
+fan performance there 
+should be at least 
+three equivalent 
+duct diameters of 
+straight ductwork 
+between the fan 
+discharge and 
+any duct turns.
+
+n
+
+o
+
+i
+
+t
+
+Length of Straight Duct
+
+a
+
+t
+
+o
+
+R
+
+Installations with inlet or discharge configurations that 
+deviate from this standard may result in reduced fan 
+performance. Restricted or unstable flow at the fan 
+inlet can cause pre-rotation of incoming air or uneven 
+loading of the fan wheel yielding large system losses 
+and increased sound levels. Free discharge or turbulent 
+flow in the discharge ductwork will also result in system 
+effect losses. Refer to the following diagrams for the 
+most efficient installation conditions.
+
+GOOD
+
+Non-Ducted Installations
+Inlet Clearance - Installation of a fan with an open 
+inlet too close to a wall or bulkhead will cause reduced 
+fan performance. It is desirable to have one fan wheel 
+diameter between parallel fan units and a minimum of 
+three-fourths of a wheel diameter between the fan inlet 
+and the wall.
+
+Ducted Inlet Installations 
+Inlet Duct Turns - Installation of a duct turn or elbow 
+too close to the fan inlet reduces fan performance 
+because air is loaded 
+unevenly into the fan 
+wheel. To achieve full fan 
+performance, there should 
+be at least three fan wheel 
+diameters between the turn 
+or elbow and the fan inlet.
+
+POOR
+
+3/4 to one
+ fan
+wheel
+diameter
+
+3/4 to one
+fan
+wheel
+diameter
+
+Three fan wheel diameters
+
+Single Fan Installation
+
+Turning
+
+Vanes
+
+GOOD
+
+3/4 to 
+one fan
+
+3/4 to 
+one fan
+
+One fan
+diameter
+
+wheel
+diameter
+
+wheel
+diameter
+
+Parallel Fan Installation
+
+Inlet Spin - Inlet spin is a frequent cause of reduced 
+fan performance. The change in fan performance is a 
+function of the intensity of spin and not easily defined. 
+The best solution is proper duct design and airflow 
+patterns. Turning vanes reduce the effects of inlet spin.
+
+Free Discharge - Free or abrupt discharge into a 
+plenum results in a reduction in fan performance. The 
+effect of discharge static regain is not realized.
+
+Turning
+
+R
+
+R
+
+o
+
+o
+
+t
+
+t
+
+Vanes
+
+a
+
+a
+
+t
+
+t
+
+i
+
+i
+
+o
+
+o
+
+n
+
+n
+
+POOR
+GOOD
+
+Industrial Process Fans
+6
+®

@@ -1,0 +1,25 @@
+11. Controlling Pumps with Adjustable Speed Drives
+
+manufacturers are familiar with this problem, 
+and several methods can be used to correct it. 
+These methods include insulating certain bearings, 
+grounding the shaft, and conditioning the power 
+supply.
+
+Finally, anticipated energy savings are not realized 
+in some applications because some of the losses 
+associated with VFD installation were not taken 
+into consideration. The VFDs themselves are 
+approximately 95% to 97% efficient, and motor 
+efficiency generally begins to decrease at less 
+than 75% of full load. In addition, the quality of 
+electric power supplied to the motor can affect 
+both its efficiency and its power rating.
+
+Although VFDs are an attractive option in many 
+applications, all these considerations should be 
+incorporated into a feasibility study before VFDs 
+are installed.
+
+54
+Improving Pumping System Performance

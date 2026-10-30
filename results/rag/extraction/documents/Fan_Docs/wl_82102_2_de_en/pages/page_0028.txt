@@ -1,0 +1,40 @@
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+3.3.2 Indentations in raceways and 
+rolling element surfaces
+On damaged bearing parts indenta-
+tions are often found in the contact areas
+which could have the most diverse 
+causes. Since they generally occur evenly
+distributed in large numbers, the inden-
+tations originating from the cycling of
+foreign particles were taken into consid-
+eration when assessing tracks (section
+3.3.1). In the subsequent paragraphs 
+reference is made mainly to those which
+are locally restricted to the ring.
+
+39: Oblique track in inner ring of deep
+groove ball bearing
+
+40: Tilted track on a tapered roller 
+bearing
+
+3.3.2.1 Fractures
+During cycling, the material of the 
+raceways and rolling elements is subject
+to a continuous pulsating stress. This
+leads to failure patterns like those result-
+ing from the fatigue of mating parts un-
+der bending stress: fatigue fractures de-
+velop. In rolling bearings these fractured
+areas run largely parallel to the surface
+and lead to material flaking and are re-
+ferred to as fatigue damage, flaking, 
+pittings, spalling, grey stippiness, micro
+pittings, steel pittings etc.
+
+27
+FAG

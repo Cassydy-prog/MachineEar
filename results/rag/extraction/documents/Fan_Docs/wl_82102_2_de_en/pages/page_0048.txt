@@ -1,0 +1,65 @@
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+3.3.5 Damage due to overheating
+Symptoms:
+
+– Inadequate lubrication
+– Radial preload due to external heating
+– Overlubrication
+– Impeded running due to cage fracture
+
+Bearing parts badly discoloured*).
+Raceway/rolling elements plastically de-
+formed to a large extent. Temperature
+surge. Bearing seizure frequent, fig. 77.
+Hardness well below 58 HRC.
+
+Causes:
+
+Remedial measures:
+– Increase bearing clearance
+– In the case of external heating ensure
+
+Usually no longer detectable from 
+damage pattern resulting from over-
+heated bearings. Possible causes:
+– Bearing clearance in operating condi-
+
+tion too low, particularly with high
+speed bearings
+
+sufficiently slow heating up and cool-
+ing down, that is, uniform heating of
+complete bearing
+– Avoid lubricant pile-up
+– Improve lubrication
+
+*) Note on discolouration:
+Tempering colours are related to
+overheating damage. Brown and blue
+shades develop depending on how high
+the temperature is and how long it takes
+effect. They resemble greatly the oil dis-
+colouration which appears far more fre-
+quently (see section 3.3.1.1). Therefore
+conclusions regarding an excess operat-
+ing temperature may on no account be
+drawn from discolouration alone. The
+spreading of the discolouration may 
+serve to differentiate between tempering
+colours and oil discolourating: while the
+latter is frequently found only on the
+rolling elements and directly in the track
+area the former usually covers a large
+part of the free bearing surfaces. How-
+ever, the only answer to the occurence of
+extremely high operating temperatures is
+a hardness inspection.
+
+77: The rollers left deep impressions in the raceway of a seized, overheated 
+cylindrical roller bearing.
+
+47
+FAG

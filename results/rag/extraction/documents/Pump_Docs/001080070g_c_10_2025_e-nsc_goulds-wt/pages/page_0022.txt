@@ -1,0 +1,151 @@
+en - Original instructions
+
+Hv
+Steam pressure in meters that correspond to
+the temperature of the liquid T °C
+
+0.5
+Recommended safety margin (m)
+
+the pump capacity, for pump inspection, and for
+maintenance.
+• In order to prevent back flow into the pump when
+pump is turned off a check valve is installed on
+the delivery piping.
+
+Z
+Maximum height at which the pump can be
+installed (m)
+
+(pb*10.2 - Z) must always be a positive number.
+For more information, see Figure 12 on page 380.
+
+EN
+
+NOTICE:
+Do not exceed the pumps suction capacity as this
+could cause cavitation and damage the pump.
+
+WARNING:
+Do not use the on-off valve on the dis‐
+charge side in the closed position in or‐
+der to throttle the pump for more than a
+few seconds. If the pump must operate
+with the discharge side closed for more
+than a few seconds, a bypass circuit
+must be installed to prevent overheating
+of the liquid inside the pump.
+
+4.1.2  Piping requirements
+
+Precautions
+
+For illustrations that show the piping requirements,
+see Figure 13 on page 380 and Figure 14 on page
+380.
+
+WARNING:
+
+4.2  Electrical requirements
+
+• The local regulations in force overrule these
+specified requirements.
+• In the case of fire fighting systems (hydrants
+and/or sprinklers), check the local regulations in
+force.
+
+• Use pipes suited to the maximum
+working pressure of the pump. Failure
+to do so can cause the system to rup‐
+ture, with the risk of injury.
+• Make sure that all connections are
+performed by qualified installation
+technicians and in compliance with
+the regulations in force.
+
+Electrical connection checklist
+
+Check that the following requirements are met:
+
+• The electrical leads are protected from high tem‐
+perature, vibrations, and collisions.
+• The power supply line is provided with:
+– A short-circuit protection device
+– A mains isolator switch with a contact gap of
+
+NOTICE:
+Observe all regulations issued by authorities having
+jurisdiction and by companies managing the public
+water supplies if the pump is connected to a public
+water system. If required, install appropriate back‐
+flow-prevention device on the suction side.
+
+at least 3 mm
+
+Piping checklist
+
+The electrical control panel checklist
+
+Check that the following requirements are met:
+
+NOTICE:
+The control panel must match the ratings of the
+electric pump. Improper combinations could fail to
+guarantee the protection of the motor.
+
+Check that the following requirements are met:
+
+• The control panel must protect the motor against
+overload and short-circuit.
+• Install the correct overload protection (thermal
+relay or motor protector).
+
+Pump Type
+Protection
+
+– Built-in automatic
+
+Single phase standard
+electric pump ≤ 2.2 kW
+
+reset thermal-am‐
+perometric protec‐
+tion (motor protec‐
+tor)
+– Short circuit protec‐
+
+tion (must be sup‐
+plied by the instal‐
+ler)3
+
+• All piping is independently supported, piping
+must not place a burden on the unit.
+• Flexible pipes or unions are used, in order to
+avoid transmission of pump vibrations to the
+pipes and vice versa.
+• Use wide bends, avoid using elbows which cause
+excessive flow resistance.
+• The suction piping is perfectly sealed and air‐
+tight.
+• If the pump is used in an open circuit, then the
+diameter of the suction pipe is suited to the in‐
+stallation conditions. The suction pipe must not
+be smaller than the diameter of the suction port.
+• If the suction piping must be larger than the suc‐
+tion side of the pump, then an eccentric pipe re‐
+ducer is installed.
+• If the pump is placed above liquid level, a foot
+valve is installed at the end of the suction piping.
+• The foot valve is fully immersed into the liquid so
+that air cannot enter through the suction vortex,
+when the liquid is at the minimum level and the
+pump is installed above the liquid source.
+• Appropriately sized on-off valves are installed
+on the suction piping and on the delivery piping
+(downstream to the check valve) for regulation of
+
+3
+fuses aM (motor starting), or magneto-thermal switch with curve C and Icn ≥ 4,5 kA or other equivalent
+device.
+
+18

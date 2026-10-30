@@ -1,0 +1,32 @@
+Evaluation of running features and damage to dismounted bearings
+
+Cage damage
+
+94: Melted fase of plastic cage in the case of incorrect bearing heating on a heating
+plate
+
+3.5.7 Damage due to incorrect 
+mounting
+Symptoms:
+
+Initial fusing in the case of plastic 
+cages, grooves or warping in the case of
+metal cages, figs. 94 and 95.
+
+Causes:
+– Incorrect heating of the bearings for
+
+mounting
+– Unsuitable mounting aids
+
+Remedial measures:
+
+Mount according to manufacturer's
+specifications (see for example FAG 
+Publication WL 80 100 "Mounting and
+Dismounting of Rolling Bearings").
+
+95: Metal cage with dents
+
+57
+FAG

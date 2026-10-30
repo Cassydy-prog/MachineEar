@@ -1,0 +1,72 @@
+IM-1080
+
+Maintenance (continued)
+12.	The standard pillow block bearings on belt driven ventilators are factory lubricated and are provided with external grease fittings. 
+Lubrication annually is recommended or more frequently if needed (see Greasing Intervals table).
+
+It is recommended to add fresh grease at start-up, but do not over-grease. Use only 1 or 2 shots of a recommended lubricant 
+with a hand gun in most cases (see Grease Manufacturers table). Maximum hand gun rating 40 P.S.I. Rotate bearings during 
+lubrication where good safety practice permits.
+
+The most frequent causes of bearing failure are not greasing often enough, using an excessive quantity of grease or using 
+incompatible greases. Excessive vibration, especially if the bearing is not rotating, will also cause bearings to fail. Bearings must 
+also be protected from water and moisture to avoid internal corrosion.
+13.	During the first few months of operation it is recommended that the bearing set screws be checked periodically to ensure that 
+they are tight.
+14.	The rotating impeller requires particular attention since materials in the air being handled can build up on the blades to cause 
+destructive vibration or weaken the structure of the impeller by corroding and/or eroding the blade metal. Regular inspection and 
+corrective action at intervals determined by the severity of each application are essential to good service life and safety.
+
+Motor Lubrication Schedule
+
+Motor Maintenance
+
+Motors Less than 10HP
+
+Motors Between
+
+Motors Running 24/7
+
+or if in dirty/dusty
+
+Running 8 Hrs/Day
+(clean environments)
+
+15-40HP
+(clean environments)
+
+environments
+
+The three basic rules of motor maintenance are:
+1.	 Keep the motor clean.
+2.	 Keep the motor dry.
+3.	 Keep the motor properly lubricated.
+
+Lube every 5 Years
+Lube every 3 years
+Divide the service
+
+interval by 4
+
+Do not over lubricate.
+
+Blow dust off periodically (with low pressure air) to prevent 
+motor from overheating.
+
+Some smaller motors are lubricated for life. Lubrication requirements are normally attached to the motor. Use the motor manufacturer’s 
+recommendations for relubrication. Often motor lubricants are not the same as the fan bearings. If this information is not available, 
+the Motor Lubrication Schedule may be used. Motors less than 10 HP running about eight hours a day in a clean environment should 
+be lubricated once every five years; motors 15 to 40 HP, every three years. For motors in dusty or dirty environments or running 24 
+hours a day: divide the service interval by 4. Do not over lubricate.
+
+Shaft grounding rings are recommended for some VFD applications. If the motor is equipped with a shaft grounding ring a yearly 
+inspection for wear and shaft corrosion is recommended. Replace the ring if it is making minimal contact with the shaft. If corrosion 
+is present, treat the shaft with colloidal silver per the ring manufacturer's instructions.
+
+Motor Grounding Detail (TVIFE Only)
+
+Close-up of motor, grounded and wired to the motor 
+junction box and disconnect switch (optional).
+
+Installation, Operation & Maintenance Manual
+16

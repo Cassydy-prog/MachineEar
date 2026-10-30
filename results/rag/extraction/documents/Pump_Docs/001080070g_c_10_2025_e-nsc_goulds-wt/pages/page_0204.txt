@@ -1,0 +1,191 @@
+cs - Překlad originálu
+
+7.1  Řešení potíží pro uživatele
+
+Může být nezbytné provést mimořádnou údržbu, aby
+se vysušily stopy kapaliny nebo byly vyměněny opo‐
+třebované součástí.
+
+Hlavní vypínač je zapnutý, ale elektrické čerpadlo se
+nespustí
+
+Čerpadla vybavená ložisky s mazivem po ce‐
+lou dobu životnosti
+
+Příčina
+Řešení
+
+Čerpadla vybavená ložisky s mazivem po celou do‐
+bu životnosti nevyžadují žádnou běžnou plánovanou
+údržbu.
+
+Došlo ke spuštění tepelné
+ochrany začleněné do čer‐
+padla (pokud existuje).
+
+Vyčkejte, než čerpa‐
+dlo zchladne. Tepelná
+ochrana se automaticky
+resetuje.
+
+Čerpadla vybavená mazatelnými ložisky
+
+Došlo ke spuštění ochran‐
+ného zařízení bránícího
+chodu čerpadla nasucho.
+
+Zkontrolujte hladinu ka‐
+paliny v nádrži nebo tlak
+v potrubí.
+
+Elektrické čerpadlo se spustí, ale po uplynutí rozdíl‐
+ně dlouhých časových intervalů se spouští tepelná
+ochrana
+
+• Opětovné mazání provádějte po uplynutí
+4 000 provozních hodin, ale minimálně jednou
+ročně. Nejprve vyčistěte maznice (SN).
+• Použijte mazivo NLGI třídy 2 nebo ekvivalentní.
+Pokud máte nějaké další dotazy nebo požadavky, ob‐
+raťte se na místního prodejního a servisního zástup‐
+ce.
+
+Ložiska motoru
+
+Příčina
+Řešení
+
+Obraťte se na oddělení
+prodeje a služeb.
+
+Uvnitř čerpadla se nachá‐
+zí cizí předměty (pevné
+nebo vláknité látky), kte‐
+ré způsobily zablokování
+oběžného kola.
+
+Po přibližně pěti letech je mazivo v ložiscích motoru
+tak staré, že se doporučuje výměna ložisek. Výměna
+ložisek se provádí po uplynutí 25 000 provozních
+hodin nebo podle pokynů pro údržbu dodavatele mo‐
+toru, podle toho, která z uvedených podmínek je spl‐
+něna dříve.
+
+Motor s ložisky umožňujícími mazání
+
+Došlo k přetížení čerpa‐
+dla, protože čerpaná ka‐
+palina je příliš hustá a vi‐
+skózní.
+
+Postupujte podle pokynů pro údržbu dodavatele mo‐
+toru.
+
+Spojka
+
+Zkontrolujte skutečné
+požadavky na napájení
+na základě vlastností
+čerpané kapaliny a poté
+se obraťte na oddělení
+prodeje a služeb.
+
+Čerpadlo běží, dodává však příliš málo kapaliny nebo
+žádnou nedodává.
+
+Provádějte pravidelnou kontrolu vůle prvků spojky,
+minimálně jednou ročně. Kontrolu doporučujeme
+provádět každých 1000 provozních hodin nebo kaž‐
+dé tři měsíce, podle toho, co nastane dříve.
+
+Příčina
+Řešení
+
+6.2  Kontrolní seznam pro prohlídku
+
+CS
+
+Čerpadlo je ucpa‐
+né.
+
+Obraťte se na oddělení prodeje
+a služeb.
+
+Pokyny pro řešení potíží v níže uvedených tabulkách
+jsou určeny pouze pro montážní firmy.
+
+Kontrola spojky
+Zkontrolujte pružné
+prvky spojky. Pokud je
+patrné opotřebení, pří‐
+slušné součásti vyměňte
+a ověřte vyrovnání.
+
+Kontrola mechanické
+ucpávky
+
+7.2  Hlavní vypínač je zapnutý, ale elektrické
+čerpadlo se nespustí
+
+Ověřte těsnost mecha‐
+nické ucpávky. V případě
+netěsnosti mechanickou
+ucpávku vyměňte.
+
+Příčina
+Řešení
+
+Byla přerušena dodáv‐
+ka elektrické energie.
+
+Kontrola těsnění ložisek
+Ověřte správné usazení
+axiálních těsnicích krouž‐
+ků namontovaných na
+hřídeli. Kontakt s těsnicí
+chlopní by měl být pouze
+jemný.
+
+• Obnovte dodávku elek‐
+trické energie.
+• Ujistěte se, zda jsou
+všechna elektrická při‐
+pojení zdroje napájení v
+pořádku.
+
+Vyčkejte, než čerpadlo
+zchladne. Tepelná ochrana
+se automaticky resetuje.
+
+Kontrola tichého chodu
+Pomocí nástrojů pro mě‐
+ření vibrací provádějte
+pravidelné kontroly tiché‐
+ho chodu čerpadla.
+
+Došlo ke spuštění te‐
+pelné ochrany začleně‐
+né do čerpadla (pokud
+existuje).
+
+Resetujte tepelnou ochra‐
+nu.
+
+Došlo ke spuštění te‐
+pelného nebo nadprou‐
+dového relé v elektric‐
+kém ovládacím panelu.
+
+6.3  Demontáž a výměna součástí čerpadla
+Chcete-li získat další informace o náhradních dílech
+a montáži a demontáži čerpadla, obraťte se na míst‐
+ního prodejního a servisního zástupce.
+
+Zkontrolujte následující:
+
+Došlo ke spuštění
+ochranného zařízení
+
+7  Řešení problémů
+
+200

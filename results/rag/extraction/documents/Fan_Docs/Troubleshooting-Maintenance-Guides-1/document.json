@@ -1,0 +1,25 @@
+{
+  "document_id": "fdafff421224dc9f3ea0fd9426ed52c219e6e82909a5758be203a5b9acc6fc9d",
+  "source_filename": "Troubleshooting-Maintenance-Guides-1.pdf",
+  "source_relative_path": "Fan_Docs/Troubleshooting-Maintenance-Guides-1.pdf",
+  "source_sha256": "4511275e79be307c80a98217c3ade204f19272b35cb4a1252bc0f0a8ee381ca4",
+  "document_title": "Troubleshooting & Maintenance Guides",
+  "machine_type_hint": "fan",
+  "source_type_hint": "troubleshooting_guide",
+  "applicability": "generic_guidance_equipment_match_unverified",
+  "applicability_verified": false,
+  "page_count": 2,
+  "method_counts": {
+    "ocr": 2
+  },
+  "ocr_attempted_pages": 2,
+  "blank_pages": 0,
+  "review_pages": [
+    1,
+    2
+  ],
+  "character_count": 2928,
+  "document_text_file": "documents/Fan_Docs/Troubleshooting-Maintenance-Guides-1/document.txt",
+  "searchable_pdf": "documents/Fan_Docs/Troubleshooting-Maintenance-Guides-1/Troubleshooting-Maintenance-Guides-1.searchable.pdf",
+  "errors": []
+}

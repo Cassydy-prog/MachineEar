@@ -1,0 +1,231 @@
+es - Traducción del original
+
+PN
+Presión máxima de funcionamiento
+
+sello mecánico y sus materiales. Para obtener más
+información, consulte Figura 3 en la página 363.
+
+Intervalos de temperatura del líquido
+
+IMQ , TUV, IRAM u otras marcas (solo bomba
+eléctrica)
+
+Figura 4 en la página 367 muestra los rangos de
+temperatura de trabajo.
+Para requisitos especiales, póngase en contacto con
+el representante de ventas y servicio.
+
+Número máximo de arranques horarios
+
+A menos que se especifique lo contrario, para los
+productos con una marca de aprobación eléctrica,
+la aprobación se refiere exclusivamente a la bomba
+eléctrica.
+
+18,5
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+60
+40
+30
+24
+16
+8
+4
+
+3.4   Descripción de la bomba
+• Dimensiones de conexión de acuerdo con
+EN 733 (modelos 32-125…-200; 40-125…-250;
+50-125…-250; 65-125…-315;80-160…-315;
+100-200…-400; 125-250…-400; 150-315…-400).
+• La bomba de carcasa de voluta con soporte de
+los cojinetes con desmontaje posterior
+
+ES
+
+Arran‐
+ques
+por
+hora
+
+3.5  Material
+
+Nivel de ruido
+
+Las piezas metálicas de la bomba que entran en
+contacto con el líquido están hechas de lo siguiente:
+
+Código de ma‐
+
+Carcasa/impul‐
+
+Estándar/opcio‐
+
+terial
+
+sor de material
+
+nal
+
+CC
+Hierro fundido/
+
+Estándar
+
+Para ver los niveles de presión acústica de la bomba
+equipada con un motor suministrado estándar, con‐
+sulte Tabla 9 en la página 368.
+Para ver los niveles de presión acústica de la bomba
+sin motor, consulte Tabla 10 en la página 372.
+
+hierro fundido
+
+CB
+Hierro fundido/
+
+Estándar
+
+4  Instalación
+
+bronce
+
+Precauciones
+
+CS
+Hierro fundido/
+
+Estándar
+
+Acero inoxida‐
+
+ADVERTENCIA:
+
+ble
+
+CN
+Hierro fundido/
+
+Estándar
+
+Acero inoxida‐
+
+ble
+
+Estándar
+
+DC
+Hierro dúctil/
+hierro fundido
+
+DB
+Hierro dúctil/
+
+Estándar
+
+• Respete las normativas de preven‐
+ción de accidentes en vigor.
+• Utilice equipo y protección adecua‐
+dos.
+• Consulte siempre las normativas, la
+legislación y los códigos locales y/o
+nacionales en vigor relativos a la
+elección del lugar de instalación y las
+conexiones eléctricas y de bombeo.
+
+bronce
+
+Peligro eléctrico:
+
+Estándar
+
+DN
+Hierro dúctil/
+acero inoxidable
+
+NN
+Acero inoxida‐
+
+Estándar
+
+ble/
+Acero inoxida‐
+
+ble
+
+RR
+Dúplex/dúplex
+Opcional
+
+• Asegúrese de que técnicos de insta‐
+lación cualificados realicen todas las
+conexiones y que cumplan las norma‐
+tivas vigentes.
+• Antes de comenzar a trabajar en la
+unidad, asegúrese de que ésta y el
+panel de control se encuentran aisla‐
+dos del suministro eléctrico y no pue‐
+den recibir corriente. Esto se aplica
+también al circuito de control.
+
+3.6  Sello mecánico
+Un solo sello mecánico no equilibrado de acuerdo
+con EN 12756, versión K.
+
+Conexión a tierra (masa)
+
+3.7  Límites de aplicación
+
+Peligro eléctrico:
+
+Presión máxima de trabajo
+
+Figura 4 en la página 367 muestra la presión de
+trabajo máxima según el modelo de bomba y la tem‐
+peratura del líquido bombeado.
+P1max + Pmax≤ PN
+
+P1max
+Presión máxima de entrada
+
+Pmax
+Presión máxima generada por la bomba
+
+• Conecte siempre el conductor de pro‐
+tección externo al terminal de toma
+de tierra antes de realizar cualquier
+otra conexión eléctrica.
+• Se deberá conectar a tierra todo el
+equipo eléctrico. Esto es aplicable al
+equipo de la bomba, el motor y cual‐
+quier equipo de supervisión. Pruebe
+el conector de tierra para verificar que
+está conectado correctamente.
+
+53

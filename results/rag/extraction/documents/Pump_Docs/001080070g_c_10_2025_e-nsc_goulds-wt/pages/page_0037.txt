@@ -1,0 +1,157 @@
+fr - Instructions initiales
+
+a) Branchement du conducteur de terre (masse).
+
+S'assurer que le conducteur de terre (masse)
+est plus long que les conducteurs de phase.
+b) Brancher les fils de phase.
+
+Sinon, Alignement de l'accouplement avec des
+cales en page 33.
+9. Reposer la protection d'accouplement.
+• M5 → 3 Nm (27 lbf·in) ± 15 %
+• M6 → 5 Nm (44 lbf·in) ± 15 %.
+
+3. Monter le couvercle de la boîte à bornes.
+
+Vérification de l'alignement de l'accouple‐
+ment avec un aligneur laser
+
+Vous pouvez vérifier l'alignement de l'accouplement
+avec un aligneur laser : consulter le manuel d'ins‐
+tructions des aligneurs.
+
+REMARQUE:
+Serrer soigneusement le ou les presse-étoupes
+pour assurer la protection contre tout glissement
+du câble et pénétration d'humidité dans la boîte à
+bornes.
+
+Alignement de l'accouplement avec des cales
+
+FR
+
+4. Si le moteur n'est pas équipé d'une protection
+thermique à réinitialisation automatique, régler la
+protection de surcharge en fonction de la liste
+ci-dessous.
+
+– Si le moteur doit être utilisé à pleine charge,
+
+Voir Figure 17 en page 384 pour plus d'informations
+sur l'emplacement de fixation de la pompe et du
+moteur sur le socle et l'emplacement d'insertion des
+cales fournies.
+
+régler la valeur au courant nominal de la pom‐
+pe électrique (plaque signalétique)
+– Si le moteur est utilisé à charge partielle, ré‐
+
+gler la valeur au courant de fonctionnement
+(mesuré par exemple avec une pince ampère‐
+métrique).
+– Si la pompe a un système de démarrage tri‐
+
+angle-étoile, régler le relais thermique à 58 %
+du courant nominal ou courant de fonctionne‐
+ment (seulement pour les moteurs triphasés).
+
+1. Dévisser les vis de fixation de la pompe et du
+moteur sur le socle.
+2. Soulever légèrement la pompe et le moteur.
+3. Insérer les cales entre le socle et les pieds de la
+pompe et du moteur, à un ou plusieurs des points
+indiqués.
+4. Placer la pompe et le moteur sur le socle, en
+alignant les trous de vis.
+5. Serrer les boulons.
+6. Répéter la vérification d'alignement de l'accouple‐
+ment.
+
+Installation de protection d'accouplement
+
+5  Réception, démarrage,
+fonctionnement et arrêt
+
+Précautions
+
+ATTENTION:
+Ne jamais faire fonctionner une pompe
+sans que le protecteur d'accouplement
+ait été correctement installé.
+
+AVERTISSEMENT:
+Risques physiques et thermiques
+
+Type de protection : treillis métallique
+Pour plus d'informations, voir Figure 18 en page 386.
+
+• Toujours porter un équipement de
+protection individuelle.
+• Vérifier que la protection d'accouple‐
+ment est installée.
+
+AVERTISSEMENT:
+
+1. Repositionner correctement la protection (1) de
+façon à ce qu'elle entoure l'extrémité de sortie
+de l'arbre de pompe et la bague d'appui (3) côté
+moteur.
+2. Serrer les vis (2).
+Type de protection : tôle métallique
+Pour plus d'informations, voir Figure 19 en page 388.
+
+• S'assurer que le liquide vidangé ne
+cause pas de dommages ou de bles‐
+sures.
+• Les protections du moteur peuvent
+causer un redémarrage inattendu de
+celui-ci. Cela peut entraîner des bles‐
+sures graves.
+
+ATTENTION:
+
+• Les surfaces extérieures de la pompe
+et du moteur peuvent dépasser 40 ºC
+(104 ºF) en fonctionnement.
+• Ne stocker aucun combustible à
+proximité de la pompe.
+
+REMARQUE:
+
+1. Positionner la demi-coque inférieure de la protec‐
+tion d'accouplement (2).
+2. Serrer les vis de fixation de la demi-coquille infé‐
+rieure (4).
+3. Ouvrir et insérer la bague de support/réglage (6)
+avec le boîtier vers le bas et l'emmancher axiale‐
+ment sur le moteur.
+4. Positionner la demi-coque supérieure de la pro‐
+tection d'accouplement (1).
+5. Serrer les vis de fixation de la demi-coquille supé‐
+rieure (3).
+6. Serrer les vis de fermeture des demi-coquilles
+(5).
+
+4.3.4  Installation électrique
+
+1. Déposer les vis du capot de la boîte à bornes.
+
+2. Brancher et fixer les câbles d'alimentation selon
+le schéma de câblage correspondant.
+
+Pour les schémas de câblage, voir Figure 21 en
+page 392. Les schémas sont aussi disponibles
+au dos du capot de la boîte à bornes.
+
+• Ne jamais utiliser la pompe en dessous du débit
+nominal minimal, à sec ou sans amorçage.
+• Ne jamais faire fonctionner la pompe plus de
+quelques secondes avec la vanne d'arrêt de sor‐
+tie en position fermée.
+• Ne jamais faire fonctionner la pompe avec la van‐
+ne d'arrêt d'aspiration en position fermée.
+• Ne pas exposer une pompe au repos au gel. Vi‐
+danger tout liquide présent dans la pompe. Le
+
+33

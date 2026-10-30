@@ -1,0 +1,159 @@
+pl - Tłumaczenie oryginału
+
+wej silnika lub na tablicy połączeń elektrycz‐
+nych.
+
+Patrz Rysunek 21 na stronie 392, aby zapo‐
+znać się ze schematami okablowania.
+c) Ponownie sprawdzić kierunek obrotów..
+
+5.3  Uruchamianie pompy
+
+• Suma ciśnienia po stronie ssawnej (sieć wodo‐
+ciągowa, zbiornik opadowy) i maksymalnego ciś‐
+nienia wytwarzanego przez pompę nie może
+przekraczać maksymalnego dopuszczalnego ciś‐
+nienia roboczego (ciśnienia nominalnego PN) po‐
+mpy.
+• Nie używać pompy, jeśli występuje kawitacja. Ka‐
+witacja może spowodować uszkodzenie elemen‐
+tów wewnętrznych.
+
+UWAGA:
+Po pierwszym uruchomieniu i osiągnięciu tempera‐
+tury roboczej sprawdzić wyrównanie sprzęgła urzą‐
+dzenia, patrz Kontrola i wyrównanie sprzęgła na stro‐
+nie 185.
+
+5.1  Napełnianie pompy
+Informacje na temat dodatkowych podłączeń pompy
+można znaleźć na Rysunek 22 na stronie 392.
+
+Instalacje z poziomem cieczy powyżej pompy
+(wysokość ssania)
+
+Sprawdzenie prawidłowości przepływu i temperatury
+tłoczonej cieczy należy do obowiązków instalatora
+lub właściciela.
+Przed uruchomieniem pompy upewnić się, czy:
+
+Ilustracja przedstawiająca korki pompy znajduje się
+tutaj: Rysunek 23 na stronie 394.
+
+1. Zamknąć zawór odcinający umieszczony na tło‐
+czeniu pompy.
+
+• pompa jest prawidłowo przyłączona do zasilania,
+• Pompa jest poprawnie napełniona zgodnie z in‐
+strukcjami podanymi w rozdziale Napełnianie po‐
+mpy (rozdział 5).
+• zawór odcinający po stronie tłocznej pompy jest
+zamknięty.
+
+2. Wyjąć korek wlewu (3) lub pomiarowy (1) oraz
+otworzyć zawór odcinający po stronie ssawnej,
+dopóki woda nie zacznie wypływać przez otwór.
+
+1. Uruchomić silnik.
+
+a) Zamknąć korek wlewu (3) lub pomiarowy (1).
+
+2. Stopniowo otwierać zawór odcinający po stronie
+tłocznej pompy.
+
+Instalacje z poziomem cieczy poniżej pompy
+(wysokość ssania)
+
+Ilustracja przedstawiająca korki pompy znajduje się
+tutaj: Rysunek 24 na stronie 395.
+
+W oczekiwanych warunkach roboczych pompa
+powinna pracować płynnie i cicho. Jeśli tak nie
+jest, zapoznać się z rozdziałem Rozwiązywanie
+problemów na stronie 188.
+
+1. Cała instalacja rurowa jest pusta:
+
+a) Otworzyć zawór odcinający umieszczony na
+
+6  Konserwacja
+
+ssaniu pompy.
+b) Wyjąć korek wlewu (3) i korek pomiarowy (1).
+
+Środki ostrożności
+
+PL
+
+Napełniać pompę przez lejek włożony do ot‐
+woru wlewu, dopóki woda nie zacznie wypły‐
+wać przez ten otwór.
+c) Dokręcić korek wlewu (3) i korek pomiarowy
+
+(1).
+
+2. Napełniony układ tłoczny:
+
+Niebezpieczeństwo porażenia prądem
+elektrycznym:
+Przed rozpoczęciem prac montażowych
+lub serwisowych pompy należy odłączyć
+i zablokować zasilanie elektryczne.
+
+a) Otworzyć zawór odcinający po stronie ssaw‐
+
+OSTRZEŻENIE:
+
+nej pompy i otworzyć zawór odcinający po
+stronie tłocznej.
+b) Wyjąć korek pomiarowy (1) i poczekać, aż z
+
+otworu zacznie wypływać woda.
+c) Dokręcić korek pomiarowy (1).
+
+5.2  Sprawdzanie kierunku obrotów (silnik
+trójfazowy)
+Te procedurę należy wykonać przed rozruchem.
+
+1. Zlokalizować strzałki na adapterze lub pokrywie
+wentylatora silnika w celu określenia właściwego
+kierunku obrotów.
+
+• Konserwacja i serwis mogą być wy‐
+konywane wyłącznie przez osoby
+wykwalifikowane i posiadające odpo‐
+wiednie umiejętności.
+• Przestrzegać obowiązujących przepi‐
+sów dotyczących zapobiegania wy‐
+padkom.
+• Używać odpowiedniego sprzętu i
+środków ochrony.
+• Sprawdzić, czy spuszczana ciecz nie
+powoduje uszkodzeń lub obrażeń cia‐
+ła.
+
+2. Uruchomić silnik.
+
+3. Szybko sprawdzić kierunek obrotów poprzez os‐
+łonę sprzęgła stałego lub poprzez pokrywę wen‐
+tylatora silnika.
+
+4. Zatrzymać silnik.
+
+5. Gdy kierunek obrotów jest niewłaściwy, postępo‐
+wać w następujący sposób:
+
+6.1  Serwis
+Jeżeli użytkownik chce zaplanować terminy konser‐
+wacji okresowej, zależą one od rodzaju pompowanej
+cieczy oraz od warunków pracy pompy.
+Z wszelkimi sprawami dotyczącymi konserwacji ok‐
+resowej lub serwisu prosimy zwracać się do lokalne‐
+go przedstawiciela działu sprzedaży i serwisu.
+
+a) Odłączyć zasilanie.
+b) Zmienić położenia dwóch z trzech przewo‐
+
+dów kabla zasilającego na tabliczce zacisko‐
+
+187

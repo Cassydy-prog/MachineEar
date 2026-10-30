@@ -1,0 +1,130 @@
+Appendix A: Glossary of Basic Pumping System Terms
+
+positive displacement pump – A pump that pres-
+
+∑   (Actual load x number of operating hours at this load)
+Load factor  =
+
+(Rated full load x number of operating hours in the period)
+
+mechanical seal – A mechanical device for sealing
+
+surizes a fluid using a collapsing volume action. 
+Examples include piston pumps, rotary screw 
+pumps, and diaphragm pumps.
+
+the pump/shaft interface (as opposed to packing).
+
+pressure – Force per unit area; commonly used as
+
+minimum flow requirement – A manufacturer-
+
+an indicator of fluid energy in a pumping system 
+(expressed in pounds per square inch).
+
+prime mover – A machine, usually an electric
+
+specified limit that represents the lowest flow 
+rate at which the pump can operate without 
+risking damage from suction or discharge 
+recirculation.
+
+motor, that provides the motive force driving a 
+pump.
+
+motor – An electric machine that uses either
+
+radial pump – In this type of pump, the liquid
+
+enters the impeller at the hub and flows radially 
+to the periphery.
+
+recirculation – A flow condition which occurs
+
+alternating current (ac) or direct current (dc) 
+electricity to spin a shaft. Typically, this shaft is 
+coupled to a pump. Occasionally, however, 
+mechanisms such as a slider/crank convert this 
+rotation to axial movement to power piston 
+pumps.
+
+motor controller – An electric switchbox that
+
+during periods of low flow, usually below the 
+minimum flow requirement of a pump. This 
+condition causes cavitation-like damage, usually 
+to the pressure side of an impeller vane.
+
+energizes and de-energizes an electric motor.
+
+relief valve – A valve that prevents excessive pres-
+
+packing – A form of a pump seal that prevents or
+
+sure buildup. Often used on the discharge side 
+of a positive displacement pump and in applica-
+tions where thermal expansion of a system fluid 
+can damage system equipment.
+
+minimizes leakage from the pump stuffing box. 
+Packing is usually a flexible, self-lubricated 
+material that fits around the pump shaft, allowing 
+it to spin while minimizing the escape of system 
+fluid between the shaft and the pump housing.
+
+specific gravity – The ratio of the density of a
+
+preferred operating region – The region on a
+
+fluid to the density of water at standard 
+conditions.
+
+specific speed – An index used to measure the
+
+pump curve where flow remains well controlled 
+within a range of capacities. Within this region 
+hydraulic loads, vibration, or flow separation 
+will not significantly affect the service life of the 
+pump.
+
+performance of an impeller; it represents the 
+speed required for an impeller to pump one 
+gallon per minute against one foot of head and 
+is defined by the equation:
+
+performance curve – A curve that plots the
+
+—
+Ns =
+
+n √ Q
+         H 3/4
+
+static head – The head component attributable to
+
+the static pressure of the fluid.
+
+relationship between flow and head for a 
+centrifugal pump. The vertical axis contains the 
+values of head while the horizontal axis contains 
+flow rates. Since flow rate varies with head in a 
+centrifugal pump, performance curves are used 
+to select pumps that meet the needs of a system.
+
+stiction – Static friction (frictional resistance to
+
+pony pump – A pump that is usually associated
+
+initial motion).
+
+stuffing box – The part of a pump where the shaft
+
+penetrates the pump casing.
+
+with a larger pump in a multiple-pump config-
+uration. The pony pump typically handles 
+normal system requirements, while the larger 
+pump is used during high demand periods.
+
+96
+Improving Pumping System Performance

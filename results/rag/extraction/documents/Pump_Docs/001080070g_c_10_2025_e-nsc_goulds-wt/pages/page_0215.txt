@@ -1,0 +1,165 @@
+sk - Preklad originálu
+
+6  Údržba
+
+Montáž čerpadla nad hladinu kvapaliny (sacia
+výška).
+
+Bezpečnostné opatrenia
+
+Ilustráciu zobrazujúcu miesta zapojení čerpadla náj‐
+dete v Obrázok 24 na strane 395.
+
+1. Vyprázdnenie celého potrubného systému:
+
+a) Otvorte dvojpolohový ventil umiestnený v
+
+Nebezpečenstvo zásahu elektrickým
+prúdom:
+Pred montážou alebo údržbou čerpadla
+vypnite a odpojte elektrické napájanie.
+
+smere toku nad čerpadlom.
+b) Odmontujte plniacu zátku (3) a zátku mera‐
+
+VAROVANIE:
+
+ča (1). Lievikom naplňte čerpadlo cez plniaci
+otvor, kým nezačne voda týmto otvorom vyte‐
+kať.
+c) Utiahnite plniacu zátku (3) a zátku merača
+
+(1).
+
+2. Naplnený vypúšťací potrubný systém:
+
+a) Otvorte dvojpolohový ventil, ktorý sa nachá‐
+
+• Údržba a servis musia vykonávať iba
+zaškolení a kvalifikovaní pracovníci.
+• Rešpektujte platné predpisy na pred‐
+chádzanie haváriám.
+• Použite vhodné zariadenia a ochranu.
+• Presvedčte sa, že vypúšťaná tekutina
+nespôsobuje škody ani úrazy.
+
+6.1  Služba
+
+dza v smere proti toku z čerpadla a otvorte
+dvojpolohový ventil v smere toku.
+b) Odstráňte zátku meradla (1), kým z tejto diery
+
+nezačne vytekať voda.
+c) Utiahnite zátku meradla (1).
+
+5.2  Skontrolujte smer rotácie (trojfázový
+motor)
+Tento postup vykonajte pred naštartovaním.
+
+1. Aby ste určili správny smer otáčania, vyhľadajte
+šípky na adaptéri alebo kryte vrtule motora.
+
+Ak si používateľ želá naplánovať termíny bežnej
+údržby, tieto závisia od typu čerpanej kvapaliny a
+prevádzkového prostredia čerpadla.
+Ohľadom akýchkoľvek informácií týkajúcich sa bež‐
+nej údržby alebo servisu kontaktujte miestneho zá‐
+stupcu spoločnosti.
+Môže byť nevyhnutná mimoriadna údržba, aby sa
+vyčistili zvyšky kvapaliny a/alebo vymenili opotrebo‐
+vané súčiastky.
+
+2. Spustite motor.
+
+Čerpadlá s doživotne namazanými ložiskami
+
+3. Rýchlo skontrolujte cez ochranu spojky alebo cez
+kryt vrtule motora smer otáčania.
+
+Čerpadlá s doživotne namazanými ložiskami nevyža‐
+dujú žiadnu rutinnú údržbu.
+
+4. Zastavte motor.
+
+Čerpadla s opätovne mazanými ložiskami
+
+5. Ak nie je smer otáčania správny, postupujte ta‐
+kto:
+
+a) Odpojte sieťové napájanie.
+b) Vymeňte polohu dvoch z troch vodičov napá‐
+
+jacieho kábla na doske svorkovnice motora
+alebo na elektrickom ovládacom paneli.
+
+SK
+
+• Opätovne namažte každých 4000 prevádzkových
+hodín, najmenej raz ročne. Najskôr vyčistite ma‐
+stenice (SN).
+• Použite NLGI triedy 2 alebo ekvivalentný tuk.
+V prípade akýchkoľvek požiadaviek alebo otázok sa
+obráťte na miestnu predajňu a predajného zástupcu.
+
+Ložiská motora
+
+Schému zapojenia nájdete v časti Obrázok 21
+na strane 392.
+c) Znovu skontrolujte smer otáčania.
+
+5.3  Spustenie čerpadla
+
+Po približne piatich rokoch mazivo v ložiskách moto‐
+ra zostarne a odporúča sa výmena ložísk. Ložiská
+je potrebné vymeniť po 25 000 prevádzkových hodi‐
+nách alebo podľa pokynov dodávateľa motora, podľa
+toho, ktorý z nich je kratší.
+
+Motor s opätovne mazateľnými ložiskami
+
+POZNÁMKA:
+Po prvom spustení a po dosiahnutí prevádzkovej te‐
+ploty skontrolujte zarovnanie spojky jednotky, pozri
+Kontrola a zarovnanie spoja na strane 209.
+
+Riaďte sa pokynmi pre údržbu od dodávateľa moto‐
+ra.
+
+Spojka
+
+Za kontrolu správneho prietoku a teploty čerpanej
+kvapaliny je zodpovedný montér alebo vlastník.
+Pred spustením čerpadla sa uistite, že:
+
+Pravidelne aspoň raz ročne kontrolujte vôľu vo väz‐
+bových členoch. Kontrolu odporúčame robiť každých
+1000 hodín prevádzky alebo každé tri mesiace podľa
+toho, čo nastane skôr.
+
+• Čerpadlo je správne zapojené do napájania.
+• Čerpadlo je správne naplnené podľa pokynov v
+časti Naplňte čerpadlo (kapitola 5).
+• Dvojpolohový ventil, ktorý je umiestnený v smere
+prúdu pod čerpadlom, je uzatvorený.
+
+6.2  Kontrolný zoznam
+
+1. Spustite motor.
+
+2. Postupne otvárajte dvojpolohový ventil strane vý‐
+puste čerpadla.
+
+V predpokladaných prevádzkových podmienkach
+musí čerpadlo bežať hladko a ticho. V opačnom
+prípade si pozrite časť Riešenie problémov na
+strane 212.
+
+Skontrolovať spojenia
+Skontrolujte flexibilné
+diely spojov. V prípa‐
+de akýchkoľvek známok
+opotrebovania vymeňte
+príslušný diel a skontro‐
+lujte zarovnanie.
+
+211

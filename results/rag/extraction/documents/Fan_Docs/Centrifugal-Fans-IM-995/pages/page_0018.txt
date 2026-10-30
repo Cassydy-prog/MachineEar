@@ -1,0 +1,54 @@
+IM-995
+
+Optional Accessories
+
+1.	 Turning Gear — A turning gear is sometimes used in high temperature applications where the fan is exposed to high 
+temperature gases when not in operation. The impeller and shaft can expand unevenly due to the temperature when sitting 
+idle, which can cause vibration at startup and/or a permanent set to the rotor. The turning gear slowly turns the fan from the 
+outboard side while it is not operating, providing for even thermal expansion. It starts automatically when the fan shuts down 
+and disengages automatically when the fan starts up again. More specific information will be provided for each application.
+
+2.	 Shaft Seals — The standard shaft seal is a wire inserted fiberglass 
+tacky cloth element retained with an aluminum retaining plate and 
+clips. Other configurations of shaft seals are available for special 
+applications, such as when it is necessary to keep the shaft seal as 
+gas tight as possible. Shaft seal application manuals are provided 
+in Fan Engineering FE-700 available on www.tcf.com. Other seals 
+such as stuffing boxes, mechanical seals and carbon ring seals need 
+special attention. It is imperative that after the fan has been leveled, 
+shimmed, fastened to the foundation and ducted the shaft and seal 
+be checked for concentricity and angularity. The seal must not bind 
+when the shaft is rotated. Stuffing box packing material must not be 
+compressed too tight by the gland or overheating will occur. Monitor 
+temperature for a period of time. Connect a purge if specified. 
+Carbon ring seals have pins which prevent ring rotation.
+
+Orientation of Inlet Vanes Relative to Fan Rotation
+
+3.	 Variable Inlet Vanes — Variable inlet vanes are provided as 
+assemblies internally in the inlet cone or externally in a flanged 
+cylinder. The vanes are used to control volume and save power 
+in installations where different volumetric operating conditions 
+are used. Installation manuals are provided in other engineering 
+supplements for specific fan types. Variable inlet vanes may be 
+provided with powered operators in which case the manufacturer’s 
+installation and operating manuals will be provided. Inlet vanes 
+are unidirectional. Vanes should be stroked periodically to prevent 
+binding and possible seizure. Note: The weight of customer supplied 
+vanes may need to be supported indepently of the fan. Consult with 
+Twin City Fan.
+
+4.	 Inlet Box and Inlet Box Dampers — Inlet boxes may be provided 
+to allow transition from a duct to the fan inlet. Inlet box dampers 
+may also be provided for volumetric regulation similar to inlet 
+vanes. Dampers are usually provided as a complete assembly and 
+are installed with the damper axles parallel to the fan shaft. They 
+should be installed to pre-spin the air in the direction of fan rotation. 
+Damage may occur if the fan is operated regularly with damper 
+settings less than 30% open. Operation below 30% should be limited 
+to start-up or occasional periods of low duration.
+
+Orientation of Damper Blades Relative to Fan Rotation
+
+Installation, Operation & Maintenance Manual
+18

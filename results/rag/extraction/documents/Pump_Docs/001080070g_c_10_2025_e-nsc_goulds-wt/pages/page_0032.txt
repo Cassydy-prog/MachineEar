@@ -1,0 +1,224 @@
+fr - Instructions initiales
+
+et les matériaux correspondants. Pour plus d’infor‐
+mations, voir Figure 3 en page 363.
+
+Pour des conditions particulières, contacter le servi‐
+ce commercial et après-vente.
+
+Nombre max. de démarrages horaires
+
+Marquages IMQ ou TUV, IRAM ou autres
+(pour pompe électrique seulement)
+
+18,5
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+Sauf spécification contraire, pour les produits por‐
+tant un marquage d'homologation, l'homologation
+ne concerne que la pompe électrique.
+
+60
+40
+30
+24
+16
+8
+4
+
+Dé‐
+mar‐
+rages
+par
+heure
+
+FR
+
+Niveau sonore
+
+3.4  Description de la pompe
+• Dimensions de raccordement selon EN 733 (mo‐
+dèles 32-125…-200 ; 40-125…-250 ; 50-125…-250 ;
+65-125…-315 ; 80-160…-315 ; 100-200…-400 ;
+125-250…-400 ; 150-315…-400).
+• Pompe à corps en volute avec console terminale
+à extraction par l'arrière.
+
+3.5  Matériau
+
+Les parties métalliques de la pompe entrant en con‐
+tact avec le liquide sont dans un des métaux sui‐
+vants:
+
+Pour les niveaux de pression acoustique de la pom‐
+pe équipée du moteur fourni de série, voir Tableau 9
+en page 368.
+Pour les niveaux de pression acoustique de la pom‐
+pe sans moteur, voir Tableau 10 en page 372.
+
+Code de maté‐
+
+Standard / En
+
+4  Montage
+
+riau
+
+Matériau de
+corps / roue
+
+option
+
+Précautions
+
+CC
+Fonte / fonte
+Standard
+
+CB
+Fonte / bronze
+Standard
+
+AVERTISSEMENT:
+
+Standard
+
+CS
+Fonte /
+Acier inoxydable
+
+Standard
+
+CN
+Fonte /
+Acier inoxydable
+
+DC
+Fonte ductile /
+
+Standard
+
+fonte
+
+DB
+Fonte ductile /
+
+Standard
+
+bronze
+
+• Respecter les règlements en vigueur
+concernant la prévention des acci‐
+dents.
+• Utiliser des équipements de protec‐
+tion adéquats.
+• Se conformer systématiquement aux
+règlements locaux ou nationaux, à la
+législation et aux codes en vigueur
+concernant le choix du site d'instal‐
+lation et les raccordements hydrauli‐
+ques et électriques.
+
+Standard
+
+DN
+Fonte ductile /
+acier inoxydable
+
+Risque électrique:
+
+NN
+Acier inoxyda‐
+
+Standard
+
+ble /
+Acier inoxydable
+
+RR
+Duplex / Duplex
+En option
+
+3.6  Garniture mécanique
+Joint mécanique unique déséquilibré selon EN
+12756, version K.
+
+• S'assurer que toutes les connexions
+sont effectuées par des techniciens
+qualifiés et qu'elles sont conformes
+aux réglementations en vigueur.
+• Avant toute intervention sur le grou‐
+pe, s'assurer que le groupe et le
+panneau de commande ne sont pas
+alimentés et ne risquent pas d’être
+remis sous tension. Cette consigne
+s'applique également au circuit de
+commande.
+
+3.7  Limites d’application
+
+Mise à la terre (masse)
+
+Pression de service maximale
+
+Risque électrique:
+
+La Figure 4 en page 367 donne la pression maximale
+d'utilisation en fonction du modèle de pompe et de
+la température du liquide pompé.
+P1max + Pmax≤ PN
+
+P1max
+Pression d'entrée maximale
+
+Pmax
+Pression maximale générée par la pompe
+
+PN
+Pression maximale de fonctionnement
+
+Intervalles de température de liquide
+
+La Figure 4 en page 367 donne les plages de tempé‐
+ratures de fonctionnement.
+
+• Toujours relier le conducteur de pro‐
+tection externe à la borne de terre
+(masse) avant d'effectuer les autres
+branchements électriques.
+• Vous devez correctement mettre à la
+terre (masse) tous les équipements
+électriques. Ceci s'applique à l'équi‐
+pement de pompe, à l'entraînement,
+comme à l'équipement de surveillan‐
+ce. Tester le conducteur de terre
+(masse) pour vérifier qu'il est correc‐
+tement connecté.
+
+28

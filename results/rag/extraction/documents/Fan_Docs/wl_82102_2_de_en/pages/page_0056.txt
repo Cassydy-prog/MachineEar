@@ -1,0 +1,66 @@
+Evaluation of running features and damage to dismounted bearings
+
+Cage damage
+
+90: Diagonal wear in cage pockets of roller bearings
+
+3.5.3 Wear due to roller skewing
+Symptoms:
+
+Roller skewing results when roller
+bearings carry low loads or badly tilt or
+when tapered roller bearings are not 
+sufficiently adjusted. If the skewing for-
+ces cannot be accommodated by the lips,
+wear areas which are diagonally opposite
+one another develop due to the unper-
+missibly high load in the cage pockets.
+This can lead to fractures between cross-
+piece and side edge in the advanced stage
+of damage, fig. 90.
+
+Causes:
+– Unpermissible tilting of bearings,
+
+partly due to misalignment
+– Faulty adjustment of clearance in the
+
+bearings
+
+Remedial measures:
+– Adjust bearings correctly
+– Use self-aligning bearings, avoid mis-
+
+alignment
+
+91: Bearing rings tilting towards one another led to high constraining forces 
+between balls and cage which, in turn, led to web fracture.
+
+3.5.4 Wear in ball bearing cages due to 
+tilting
+Symptoms:
+
+Intense wear at the webs between the
+cage pockets, deformation or fracture
+may occur, fig. 91 (tracks, compare with
+fig. 38).
+
+Causes:
+– Excess tilting of bearing rings to one
+
+another, e.g. ball bearings with com-
+bined load. Varying circumferential
+velocity of balls as a result.
+– Stress in cage area high, particularly
+
+with poor lubrication
+
+Remedial measures:
+– Avoid tilting as much as possible
+– Apply eventually self-aligning bear-
+
+ings or bearings with polyamide cages 
+– Special design: long hole pockets
+
+55
+FAG

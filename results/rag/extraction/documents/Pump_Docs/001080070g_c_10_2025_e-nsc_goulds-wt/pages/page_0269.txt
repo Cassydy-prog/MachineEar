@@ -1,0 +1,224 @@
+hr - Izvorne upute
+
+Razina buke
+
+Šifra materijala
+Materijal kući‐
+
+Standardno/
+
+šta / rotora
+
+Izborno
+
+Standardno
+
+CC
+Lijevano želje‐
+zo/Lijevano že‐
+
+ljezo
+
+Za razine zvučnog tlaka pumpe opremljene stan‐
+dardnim isporučenim motorom pogledajte Tablica 9
+na stranici 368.
+Za razine zvučnog tlaka pumpe bez motora pogle‐
+dajte Tablica 10 na stranici 372.
+
+CB
+Lijevano želje‐
+
+Standardno
+
+zo/Bronca
+
+4  Instalacija
+
+CS
+Lijevano želje‐
+
+Standardno
+
+Mjere opreza
+
+zo/
+Nehrđajući čelik
+
+UPOZORENJE:
+
+CN
+Lijevano želje‐
+
+Standardno
+
+zo/
+Nehrđajući čelik
+
+Standardno
+
+DC
+Nodularno želje‐
+zo / Lijevano že‐
+
+ljezo
+
+DB
+Nodularno želje‐
+
+Standardno
+
+• Obratite pažnju da li se poštivaju pro‐
+pisi za sprječavanje nezgoda.
+• Koristite prikladnu opremu i zaštite.
+• Uvijek se pridržavajte važećih lokalnih
+i/ili nacionalnih odredbi, zakona i pra‐
+vilnika koji se odnose na odabir mje‐
+sta ugradnje, opreme ili sustava za
+vodovod i priključivanja vode i struje.
+
+zo / Bronca
+
+Električna opasnost:
+
+DN
+Nodularno želje‐
+
+Standardno
+
+zo / Nehrđajući
+
+čelik
+
+NN
+Nehrđajući če‐
+
+Standardno
+
+lik /
+Nehrđajući čelik
+
+RR
+Duplex/Duplex
+Dodatno
+
+• Pobrinite se da sve spojeve formiraju
+kvalificirani tehničari za instalaciju i
+da su u skladu s propisima na snazi.
+• Prije početka rada na jedinici provjeri‐
+te jesu li jedinica i upravljačka ploča
+izolirane od napajanja te da ne može
+doći do punjenja energijom. To se, ta‐
+kođer, odnosi na kontrolni krug.
+
+Uzemljenje
+
+Električna opasnost:
+
+3.6  Mehanički zatvarač
+Neuravnotežena jedna mehanička brtva prema EN
+12756, verzije K.
+
+3.7  Ograničenja primjene
+
+Maksimalni radni tlak
+
+Slika 4 na stranici 367 pokazuje najveći radni tlak
+ovisno o modelu pumpe i temperaturi upumpane te‐
+kućine.
+P1max + Pmax≤ PN
+
+P1max
+Najveći usisni tlak
+
+Pmax
+Najveći tlak koji generira pumpa
+
+PN
+Najveći radni tlak
+
+Temperaturni intervali tekućine
+
+HR
+
+Slika 4 na stranici 367 pokazuje raspone radnih tem‐
+peratura.
+Za posebne zahtjeve, obratite se zastupniku prodaje
+i servisa.
+
+• Uvijek spajajte vanjski zaštitni pro‐
+vodnik na izvod za uzemljenje prije
+stvaranja drugih električnih spojeva.
+• Morate uzemljiti svu električnu opre‐
+mu. To se odnosi na pumpu, pogon‐
+ski sklop i na bilo kakvu opremu za
+praćenje. Ispitajte izvod uzemljenja
+kako biste provjerili da li je ispravno
+spojen.
+• Ako se kabel motora greškom odspo‐
+ji trzajem, provodnik uzemljenja mo‐
+ra biti posljednji provodnik koji će se
+osloboditi iz priključka. Provjerite da
+li je provodnik uzemljenja dulji od pro‐
+vodnika faze. To se odnosi na oba
+kraja kabela motora.
+• Dodajte dodatnu zaštitu protiv smr‐
+tonosnog udara. Instalirajte diferenci‐
+jalnu sklopku visoke osjetljivosti (30
+mA) [sklopka na diferencijalnu struju
+RCD].
+
+Najveći broj pokretanja na sat
+
+4.1  Zahtjevi u vezi objekta
+
+18,5
+
+4.1.1  Lokacija pumpe
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+60
+40
+30
+24
+16
+8
+4
+
+Po‐
+kreta‐
+nja na
+sat
+
+OPASNOST:
+Ne koristite ovu jedinicu u okruženjima
+koja mogu sadržavati zapaljive/eksplo‐
+zivne ili kemijski agresivne plinove ili pra‐
+hove.
+
+265

@@ -1,0 +1,113 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+karbid křemíku / FKM • BQVGG: Uhlík/karbid kremíka/FKM • BQVGG: Szén / szilícium-karbid / FKM •
+BQVGG: Carbon/carbură de siliciu/FKM • BQVGG: Въглерод / силициев карбид / FKM • BQVGG: ogljik/sili‐
+kon karbid/FKM • BQVGG: Ugljik / silikon karbid / FKM • BQVGG: Ugljenik / silicijum karbid / FKM • BQVGG:
+Άνθρακας / καρβίδιο πυριτίου / FKM • BQVGG: Karbon / silikon karbür / FKM • BQVGG: Углерод / карбид
+кремния / FKM • BQVGG: Вуглець / карбід кремнію / FKM • BQVGG: كربون
+ / 
+كربيد
+ 
+السيليكون
+ / FKM
+
+52
+QQEGG: Carburo di silicone/Carburo di silicone/EPDM • QQEGG : carbure de silicium / carbure de silicium /
+EPDM • QQEGG: Siliziumkarbid / Siliziumkarbid / EPDM • QQEGG: carburo de silicio / carburo de silicio /
+EPDM • QQEGG: Carboneto de silício/carboneto de silício/EPDM • QQEGG: Siliciumcarbide / Siliciumcarbi‐
+de / EPDM • QQEGG: Siliciumcarbid / siliciumcarbid / EPDM • QQEGG: Silikonkarbid / silikonkarbid / EPDM •
+QQEGG: Kiselkarbid/kiselkarbid/EPDM • QQEGG: piikarbidi/piikarbidi/EPDM • QQEGG: Kísilkarbíður / kísil‐
+karbíður / EPDM • QQEGG: ränikarbiid / ränikarbiid / EPDM • QQEGG: silīcija karbīds/silīcija karbīds/EPDM •
+QQEGG: silicio karbidas / silicio karbidas / EPDM • QQEGG: węglik krzemu/węglik krzemu/ EPDM • QQEGG:
+Karbid křemíku / karbid křemíku / EPDM • QQEGG: karbid kremíka/karbid kremíka/EPDM • QQEGG: Szilí‐
+cium-karbid / szilícium-karbid / EPDM • QQEGG: Carbură de siliciu/carbură de siliciu/EPDM • QQEGG:
+Силициев карбид / силициев карбид / EPDM • QQEGG: silicijev karbid/silicijev karbid/EPDM • QQEGG: Si‐
+likon karbid / silikon karbid / EPDM • QQEGG: Silicijum karbid / silicijum karbid / EPDM • QQEGG: Καρβίδιο
+πυριτίου / καρβίδιο πυριτίου / EPDM • QQEGG: Silikon karbür / silikon karbür / EPDM • QQEGG: Карбид
+кремния / карбид кремния / EPDM • QQEGG: Карбід кремнію / карбід кремнію / EPDM • QQEGG: كربيد
+
+السيليكون
+ / 
+كربيد
+ 
+السيليكون
+ /EPDM
+
+53
+QQVGG: Carburo di silicio/Carburo di silicio/FKM • QQVGG : carbure de silicium / carbure de silicium / FKM
+• QQVGG: Siliziumkarbid/Siliziumkarbid/FKM • QQVGG: carburo de silicio/carburo de silicio/FKM • QQVGG:
+Carboneto de silício/carboneto de silício/FKM • QQVGG: Siliciumcarbide / Siliciumcarbide / FKM • QQVGG:
+Siliciumcarbid / siliciumcarbid / FKM • QQVGG: Silikonkarbid / silikonkarbid / FKM • QQVGG: Kiselkarbid/
+kiselkarbid/FKM • QQVGG: piikarbidi/piikarbidi/FKM • QQVGG: Kísilkarbíður / kísilkarbíður / FKM • QQVGG:
+ränikarbiid / ränikarbiid / FKM • QQVGG: silīcija karbīds / silīcija karbīds / FKM • QQVGG: silicio karbidas /
+silicio karbidas / FKM • QQVGG: węglik krzemu / węglik krzemu / FKM • QQVGG: Karbid křemíku / karbid
+křemíku / FKM • QQVGG: karbid kremíka/karbid kremíka/FKM • QQVGG: Szilícium-karbid/szilícium-
+karbid/FKM • QQVGG: Carbură de siliciu/carbură de siliciu/FKM • QQVGG: Силициев карбид / силициев
+карбид / FKM • QQVGG: silicijev karbid/silicijev karbid/FKM • QQVGG: Silikon karbid / silikon karbid / FKM •
+QQVGG: Silicijum karbid/silicijum karbid/ FKM • QQVGG: Καρβίδιο πυριτίου / καρβίδιο πυριτίου / FKM •
+QQVGG: Silikon karbür / silikon karbür/ FKM • QQVGG: Карбид кремния / карбид кремния / FKM •
+QQVGG: Карбід кремнію / карбід кремнію / FKM • QQVGG: كربيد
+ 
+السيليكون
+ / 
+كربيد
+ 
+السيليكون
+ / FKM
+
+APPX
+
+54
+UAEGG: carburo di tungsteno/carbone impregnato di metallo/EPDM; AU3EGG: carbonio impregnato di me‐
+tallo/carburo di tungsteno/EPDM • EAUGG : carbure de tungstène/carbone imprégné de métal/EPDM ;
+AU3EGG : carbone imprégné de métal/carbure de tungstène/EPDM • UAEGG: Wolframkarbid/Metallimprä‐
+gnierter Kohlenstoff/EPDM; AU3EGG: Metallimprägnierter Kohlenstoff/Wolframkarbid/EPDM • UAEGG: car‐
+buro de volframio/carbono impregnado de metal/EPDM; AU3EGG: carbono impregnado de metal/carburo
+de volframio/EPDM • UAEGG: Carboneto de tungsténio/carbono impregnado de metal/EPDM; AU3EGG: Car‐
+bono impregnado de metal/carboneto de tungsténio/EPDM • UAEGG: Wolfraamcarbide/metaal geïmpre‐
+gneerd koolstof/EPDM; AU3EGG: Metaal geïmpregneerd koolstof/ wolfraamcarbide/EPDM • UAEGG: Wol‐
+framcarbid/metalimprægneret kulstof/EPDM; AU3EGG: Metalimprægneret kulstof/ wolframcarbid/EPDM •
+UAEGG: Wolframkarbid/metallimpregnert karbon/EPDM; AU3EGG: Metallimpregnert karbon/wolframkarbid/
+EPDM • Förenade ArabemiratenGG: volframkarbid/metallimpregnerat kol/EPDM; AU3EGG: metallimpregne‐
+rat kol/volframkarbid/EPDM • UAEGG: volframikarbidi/metallikyllästeinen hiili/EPDM; AU3EGG: metallikyllä‐
+steinen hiili/volframikarbidi/EPDM • U3AEGG: Volframkarbíð/málmmettað kolefni/EPDM; AU3EGG: Málm‐
+mettað kolefni/volframkarbíð/EPDM • UAEGG: volframkarbiid / süsinikku sisaldav metall / EPDM; AU3EGG:
+süsinikku sisaldav metall / volframkarbiid / EPDM • UAEGG: volframa karbīds / metāla impregnēts ogleklis /
+EPDM; AU3EGG: metāla impregnēts ogleklis / volframa karbīds / EPDM • JAEGG: volframo karbidas / meta‐
+lu impregnuota anglis / EPDM; AU3EGG: metalu impregnuota anglis / volframo karbidas / EPDM • UAEGG:
+węglik wolframu/węgiel impregnowany metalem/EPDM; AU3EGG: węgiel impregnowany metalem/węgiel
+wolframu/EPDM • UAEGG: Karbid wolframu / kovem impregnovaný uhlík / EPDM; AU3EGG: Kovem impre‐
+gnovaný uhlík / karbid wolframu / EPDM • UAEGG: Karbid volfrámu/uhlík impregnovaný kovom/EPDM;
+AU3EGG: Uhlík impregnovaný kovom/karbid volfrámu/EPDM • UAEGG: volfrám-karbid/fémmel impregnált
+szén/EPDM; AU3EGG: fémmel impregnált szén/volfrám-karbid/EPDM • UAEGG: Carbură de tungsten/
+carbon impregnat cu metal/EPDM; AU3EGG: Carbon impregnat cu metal/carbură de tungsten/EPDM •
+UAEGG: Волфрамов карбид/имплантиран с метал въглерод/EPDM; AU3EGG: импрегниран с метал
+въглерод/волфрамов карбид/EPDM • ZAEGG: volframov karbid/kovinsko impregniran ogljik/EPDM;
+AU3EGG: kovinski impregnirani ogljik/ volframov karbid/EPDM • UAEGG: Ugljični karbid/metalni impregnira‐
+ni ugljik/EPDM; AU3EGG: Metalni impregnirani ugljik/volfram karbid/EPDM • UAEGG: Tungsten karbid/
+metalni impregniran ugljenik/EPDM; AU3EGG: Metal impregniran ugljenik/ volfram karbid/EPDM • UAEGG:
+Καρβίδιο βολφραμίου/μεταλλικός εμποτισμένος άνθρακας/EPDM, AU3EGG: Μεταλλικός εμποτισμένος
+άνθρακας/ Καρβίδιο βολφραμίου/EPDM • UAEGG: Tungsten karbür/metal emdirilmiş karbon/EPDM;
+AU3EGG: Metal emdirilmiş karbon/tungsten karbür/EPDM • UAEGG: карбид вольфрама/углерод,
+пропитанный металлом/EPDM; AU3EGG: углерод, пропитанный металлом/карбид вольфрама/EPDM
+• UAEGG: Карбід вольфраму / вуглець, просочений металом / EPDM; AU3EGG: Вуглець, просочений
+металом / карбід вольфраму / EPDM • UAEGG: كربيد
+ 
+التنجستين
+ / 
+كربون
+ 
+مشبع
+ 
+بالمعدن
+/EPDM ؛AU3EGG: كربون
+مشبع
+ 
+بالمعدن
+/
+كربيد
+ 
+التنجستين
+/EPDM
+
+366

@@ -1,0 +1,160 @@
+cs - Překlad originálu
+
+3. Rychle zkontrolujte směr otáčení skrz kryt spojky
+nebo kryt ventilátoru motoru.
+
+4. Zastavte motor.
+
+• Vnější plochy čerpadla a motoru mo‐
+hou při provozu dosáhnout teplot vy‐
+šších než 40 ºC (104 °F).
+• Neumisťujte do blízkosti čerpadla žá‐
+dné hořlavé materiály.
+
+5. Pokud je směr otáčení nesprávný, postupujte ná‐
+sledovně:
+
+OZNÁMENÍ:
+
+a) Odpojte napájení.
+b) Na svorkovnici motoru nebo na elektrickém
+
+ovládacím panelu zaměňte polohu dvou ze tří
+napájecích kabelů.
+
+Schéma zapojení naleznete v oddílu Obrázek
+21 na straně 392.
+c) Znovu zkontrolujte směr otáčení.
+
+5.3  Spusťte čerpadlo
+
+OZNÁMENÍ:
+Po prvním spuštění a po dosažení provozní teploty
+zkontrolujte vyrovnání spojky jednotky, viz Kontrola a
+vyrovnání spojky na straně 197.
+
+• Nikdy nespouštějte čerpadlo s nižším než mini‐
+málním jmenovitým průtokem, na sucho nebo
+bez náplně.
+• Nikdy nepoužívejte čerpadlo s uzavřeným uzaví‐
+racím výtlačným ventilem po dobu delší než ně‐
+kolik sekund.
+• Nikdy nepoužívejte čerpadlo s uzavřeným uzaví‐
+racím sacím ventilem.
+• Když čerpadlo běží naprázdno, chraňte ho před
+mrazem. Vypusťte veškerou kapalinu, která se
+nachází uvnitř čerpadla. Jinak by mohla za‐
+mrznout a poškodit čerpadlo.
+• Hodnota tlaku na sací straně (potrubí či spádová
+nádrž) a maximální tlak dodávaný čerpadlem ne‐
+smí překročit maximální povolený pracovní tlak
+(jmenovitý tlak pro číslo součásti) čerpadla.
+• Pokud dojde ke kavitaci, nepoužívejte čerpadlo.
+Kavitace by mohla poškodit vnitřní součásti.
+
+Odpovědnost za kontrolu správného průtoku a teplo‐
+ty čerpané kapaliny má subjekt zajišťující instalaci
+nebo vlastník.
+Před spuštěním čerpadla se ujistěte, zda platí násle‐
+dující:
+
+5.1  Naplnění čerpadla
+
+Pro informace o dalších přípojkách čerpadla viz Ob‐
+rázek 22 na straně 392.
+
+• Čerpadlo je správně připojeno ke zdroji napájení.
+• Čerpadlo je správně naplněno dle pokynů v oddílu
+Naplnění čerpadla (kapitola 5).
+• Uzavírací ventil po proudu z čerpadla je uzavřen.
+
+1. Spusťte motor.
+
+Instalace s hladinou kapaliny nad čerpadlem
+(sací hlava)
+
+2. Pozvolna otevřete uzavírací ventil na výtlačné
+straně čerpadla.
+
+Obrázek, který znázorňuje umístění hrdel čerpadla:
+Obrázek 23 na straně 394.
+
+1. Uzavřete uzavírací ventil umístěný za čerpadlem.
+
+Při předpokládaných provozních podmínkách mu‐
+sí čerpadlo běžet hladce a tiše. Pokud tomu tak
+není, postupujte podle pokynů uvedených v oddí‐
+lu Řešení problémů na straně 200.
+
+CS
+
+2. Odstraňte plnicí (3) nebo měřicí zátku (1) a ote‐
+vřete uzavírací ventil před čerpadlem, dokud ne‐
+začne z otvoru vytékat voda.
+
+6  Údržba
+
+a) Zavřete plnicí (3) nebo měřící zátku (1).
+
+Bezpečnostní opatření
+
+Instalace s hladinou kapaliny pod čerpadlem
+(sací výška)
+
+Obrázek, který znázorňuje umístění hrdel čerpadla:
+Obrázek 24 na straně 395.
+
+Nebezpečí úrazu elektrickým proudem:
+Před montáží nebo servisem jednotky
+odpojte a zablokujte elektrické napájení.
+
+1. Zcela prázdný potrubní systém:
+
+UPOZORNĚNÍ:
+
+a) Otevřete uzavírací ventil umístěný před čerpa‐
+
+dlem.
+b) Odstraňte plnicí zátku (3) a měřicí zátku (1).
+
+Pomocí trychtýře plnicím otvorem naplňte
+čerpadlo, dokud z tohoto otvoru nezačne vyté‐
+kat voda.
+c) Utáhněte plnicí zátku (3) a měřicí zátku (1).
+
+2. Naplněný výtlačný potrubní systém:
+
+• Údržbu a servis musí provádět pouze
+způsobilý a kvalifikovaný personál.
+• Dodržujte platné předpisy pro preven‐
+ci nehod.
+• Používejte vhodné vybavení a ochran‐
+né prostředky.
+• Ujistěte se, že čerpaná kapalina ne‐
+způsobí škody ani úraz.
+
+a) Otevřete uzavírací ventil umístěný před čerpa‐
+
+dlem a otevřete uzavírací ventil za čerpadlem.
+b) Odstraňte měřicí zátku (1) dokud z tohoto ot‐
+
+voru nezačne vytékat voda.
+c) Dotáhněte měřicí zátku (1).
+
+5.2  Kontrola směru otáčení (třífázový motor)
+Před spuštěním proveďte následující postup.
+
+6.1  Servis
+Pokud uživatel chce pravidelnou údržbu naplánovat,
+záleží na typu čerpané kapaliny a provozních pod‐
+mínkách čerpadla.
+Máte-li nějaké další dotazy nebo chcete-li získat více
+informací o běžné údržbě nebo servisu, obraťte se
+na místního prodejního a servisního zástupce.
+
+1. Dle šipek na adaptéru nebo krytu ventilátoru mo‐
+toru určete správný směr otáčení.
+
+2. Spusťte motor.
+
+199

@@ -1,0 +1,106 @@
+Section 4. Where To Find Help
+
+ Newsletters
+
+■	 The Industrial Technologies Program E-Bulletin
+
+opportunities. A lack of awareness regarding 
+energy losses and associated costs often means 
+assigning a low priority to restoring or properly 
+installing insulation on system surfaces. As a 
+result, a software program known as 3E-Plus 
+was developed by the North American Insula-
+tion Manufacturers Association (NAIMA) to 
+inform system operations and management 
+personnel of the benefits of insulation and to 
+assist them in assessing insulation needs.
+
+is a monthly online newsletter that spotlights 
+technologies, significant project developments, 
+and program activities; new ITP products; 
+training and events; Web updates; and new 
+solicitations. The E-Bulletin provides readers 
+with links to source information on ITP and IAC 
+Web sites. To subscribe, go to www.eere.energy.
+gov/industry/resources/ebulletin/.
+
+■	 Energy Matters is a quarterly online publication
+
+ Qualified Specialists
+Qualified Specialists have extensive backgrounds 
+in optimizing systems that are being assessed. 
+Individuals become qualified by taking DOE-
+sponsored training on the software and passing a 
+rigorous exam. For more information on how to 
+contact a Qualified Specialist or become one, see 
+www.eere.energy.doe.gov/industry/bestpractices.
+
+written by the Industrial Technologies Program. 
+It contains news, articles, technical tips, and 
+case studies of interest to industrial end users. 
+Energy Matters articles cover energy efficiency 
+opportunities, technical issues, new products and 
+services, and events related to process heating 
+systems and other industrial utilities, such as
+
+Pump-Specific Resources
+
+Tip Sheets: To increase industry’s awareness about 
+the wealth of opportunities that exist to improve many 
+different kinds of industrial systems, the Industrial 
+Technologies Program develops Pumping Tip Sheets 
+through its BestPractices activity.
+
+Software: The Pumping System Assessment Tool  (PSAT) 
+software helps industrial users assess the efficiency of 
+pumping system operations. PSAT uses achievable pump 
+performance data from Hydraulic Institute standards as well 
+as motor performance data from the MotorMaster+ database 
+to calculate potential energy and associated cost savings. 
+For more information on PSAT, see Appendix B.
+
+Tip sheets currently available: 
+ 1.  Conduct an In-Plant Pumping System Survey 
+ 2.  Pump Selection Considerations 
+ 3.  Select an Energy-Efficient Centrifugal Pump 
+ 4.  Test for Pumping System Efficiency 
+ 5.  Maintain Pumping Systems Effectively 
+ 6.  Match Pumps to System Requirements
+ 9.  Reduce Pumping Costs Through Optimum Pipe Sizing
+
+Training: Pumping System Assessment. This one-day 
+training session provides an in-depth discussion of energy 
+efficiency factors for pumping systems, emphasizing the 
+system as a whole rather than just components. Indicators 
+and symptoms of potential energy reduction opportunities are 
+discussed. Application and use of the PSAT software is also 
+covered.  This training was developed to introduce users to 
+the software (a CD with the PSAT software is provided) and to 
+provide guidance on field measurement considerations. For 
+more on the PSAT, see Appendix B.
+
+Tip sheets in development: 
+ 7.  Trim or Replace Impellers on Oversized Pumps 
+ 8.  Optimize Parallel Pumping Systems 
+10.  Reduce Energy Losses Across Control Valves 
+11.  Adjustable Speed Pumping Applications 
+12.  Control Strategies for Centrifugal Pumps with 
+ 
+Variable Flow Rates
+
+Tip sheets contain concise descriptions of common 
+opportunities for improving industrial energy and process 
+efficiency. To access the tip sheets, including the newest 
+ones, see www.eere.energy.gov/industry/bestpractices.
+
+Qualified Pump System Specialist Training. This two-
+day training session covers the energy efficiency factors 
+addressed in the one-day Pumping System Assessment 
+training session and provides case studies and additional 
+instruction on the use of the PSAT software. It concludes with 
+a written exam, and those successfully completing the exam 
+are recognized as Qualified Pump System Specialists.
+
+72
+
+Improving Pumping System Performance

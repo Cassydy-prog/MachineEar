@@ -1,0 +1,170 @@
+hu - Eredeti útmutató
+
+Príčina
+Spôsob odstránenia
+
+Príčina
+Spôsob odstránenia
+
+Obežné koleso
+sa trie o ochran‐
+ný krúžok
+
+Obráťte sa na miestneho predaj‐
+ného a servisného zástupcu spo‐
+ločnosti.
+
+Skontrolujte zarovnanie spoja.
+
+Nesprávne zarov‐
+naný spoj
+
+vého ventilu smerom nadol od
+čerpadla. Ak problém pretrvá‐
+va, skontrolujte prevádzkové pod‐
+mienky čerpadla (napríklad vý‐
+škový rozdiel, prietokový odpor,
+teplotu kvapaliny).
+
+Ložiská motora
+sú opotrebované.
+
+Pružné súčasti
+spoja sú opotre‐
+bované
+
+Skontrolujte príslušné súčasti, a
+v prípade akéhokoľvek náznaku
+opotrebovania ich vymeňte.
+
+Obráťte sa na miestneho predaj‐
+ného a servisného zástupcu spo‐
+ločnosti.
+
+Do čerpadla sa
+dostali nečistoty.
+
+V prípade akejkoľvek inej situácie sa obráťte na
+miestneho zástupcu spoločnosti.
+
+Obráťte sa na miestneho predaj‐
+ného a servisného zástupcu spo‐
+ločnosti.
+
+Veszélyszint
+Jelzés
+
+1  Bevezetés és biztonság
+
+1.1  Bevezetés
+
+VIGYÁZAT!:
+
+Az útmutató célja
+
+Olyan veszélyes helyzet,
+amely enyhe vagy kö‐
+zepesen súlyos sérülést
+okozhat
+
+A kézikönyv célja a következők elvégzéséhez szük‐
+séges információk bemutatása:
+
+FIGYELMEZTETÉS:
+
+• Rendszer
+• Művelet
+• Karbantartás
+
+Figyelmeztetésekre ak‐
+kor kerül sor, ha a be‐
+rendezés károsodásának
+vagy csökkent teljesítmé‐
+nyének kockázata sze‐
+mélyi sérülés nélkül áll
+fenn.
+
+Különleges szimbólumok
+
+Bizonyos veszélyességi kategóriákhoz különleges
+szimbólumok társulnak, amint azt a következő táblá‐
+zat mutatja.
+
+VIGYÁZAT!:
+A termék beszerelése és használata előtt
+olvassa el az útmutatót figyelmesen. A
+termék nem megfelelő használata sze‐
+mélyi sérüléseket, a berendezés károso‐
+dását okozhatja, és semmissé teheti a
+jótállást.
+
+Elektromos veszély
+Mágneses mező veszé‐
+lye
+
+FIGYELMEZTETÉS:
+Őrizze meg ezt az útmutatót későbbi használatra, és
+tartsa elérhető helyen a berendezés közelében.
+
+HU
+
+VIGYÁZAT!:
+
+1.2  Biztonsági fogalmak és jelzések
+
+Áramütés
+veszélye!:
+
+A biztonsági üzenetekről
+
+Forró felület veszélye
+
+A termék működtetéséhez kiemelten fontos a biz‐
+tonsági üzenetek és előírások elolvasása, ismerete
+és betartása. A biztonsági üzenetek célja a követke‐
+zők megakadályozása:
+
+A forró felület veszélyére a szokásos veszélyességi
+szinteket jelző szimbólumokat helyettesítő speciális
+szimbólum jelzi:
+
+VIGYÁZAT!:
+
+• Személyi sérülések és egészségkárosodás
+• A termék és annak környezetének károsodása
+• A berendezés hibás működése
+
+Veszélyszintek
+
+Utasítások
+
+Veszélyszint
+Jelzés
+
+VESZÉLY:
+
+Olyan veszélyes helyzet,
+amely halált vagy súlyos
+sérülést okoz
+
+Olyan veszélyes helyzet,
+amely halált vagy súlyos
+sérülést okozhat
+
+FIGYELMEZ‐
+TETÉS:
+
+A kézikönyvben közölt utasítások és figyelmezte‐
+tések a kereskedelmi dokumentumban ismertetett
+alapkiépítés szerinti verzióra vonatkoznak. A speciá‐
+lis változatok kiegészítő kezelési ismertetőkkel kerül‐
+nek szállításra. Az esetleges módosításokkal vagy a
+speciális változat jellemzőivel kapcsolatban az érté‐
+kesítési szerződés nyújt tájékoztatást. Az ebben a
+kézikönyvben nem ismertetett utasításokkal, helyze‐
+tekkel vagy eseményekkel kapcsolatban forduljon a
+legközelebbi szervizközponthoz.
+
+1.3  Jótállás
+
+214

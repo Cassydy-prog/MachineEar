@@ -1,0 +1,111 @@
+NOTE: Allow sufficient space to be able to dismantle 
+pump without disturbing the pump inlet and 
+discharge piping.
+
+Select a dry place above the floor level wherever 
+possible. Take care to prevent pump from freezing 
+during cold weather when not in operation. Should 
+the possibility of freezing exist during a shut-down 
+period, the pump should be completely drained, and 
+all passages and pockets where liquid might collect 
+should be blown out with compressed air.
+
+Figure 8 - Foundation
+
+Make sure there is a suitable power source available 
+for the pump driver. If motor driven, electrical 
+characteristics should be identical to those shown 
+on motor data plate.
+
+Foundation
+
+A substantial foundation and footing should be built 
+to suit local conditions. It should form a rigid support 
+to maintain alignment.
+
+2. By adding or removing shims under the base, level 
+and plumb the pump shaft and flanges. The base 
+plate does not have to be level.
+3. Draw anchor nuts tight against base, and observe 
+pump and motor shafts or coupling hubs for 
+alignment. (Temporarily remove coupling guard 
+for checking alignment.)
+4. If alignment needs improvement, add shims or 
+wedges at appropriate positions under base so 
+that retightening of anchor nuts will shift shafts into 
+closer alignment. Repeat this procedure until a 
+reasonable alignment is reached.
+
+Vertical Pumps - Foundation bolts should be sized and
+accurately located. Each foundation bolt should be 
+located in a bushing two diameters larger than the 
+bolt to allow free movement of the bolt in conforming 
+to the mounting holes in the pedestal. When vertical 
+pumps are used with intermediate shafting, the motor 
+mount baseplate should be securely attached to the 
+floor or support structure.
+
+NOTE: Reasonable alignment is defined as that which
+pump contractor and the accepting facility (final 
+operator) mutually agree upon.
+
+5. Check to make sure the piping can be aligned to 
+the pump flanges without placing pipe strain on 
+either flange.
+6. Grout baseplate in completely (See "Grouting
+	 Procedure") and allow grout to dry thoroughly
+
+before attaching piping to pump. (24 hours is 
+sufficient time with approved grouting procedure.)
+
+Grouting procedure
+
+Horizontal Pumps - The foundation should be poured
+without interruption to within 1/2 to 1-1/2 inches of 
+the finished height. The top surface of the foundation 
+should be well scored and grooved before the 
+concrete sets; this provides a bonding surface for 
+the grout. Foundation bolts should be set in concrete 
+as shown in Figure 8. A 4-inch long tube around 
+the bolts at the top of the concrete will allow some 
+flexibility in bolt alignment to match the holes in 
+the baseplate. Allow enough bolt length for grout, 
+shims, lower baseplate flange, nuts and washers. The 
+foundation should be allowed to cure for several days 
+before the baseplate is shimmed and grouted.
+
+Baseplate setting: (before piping)
+
+Grout compensates for uneven foundation, 
+distributes weight of unit, and prevents shifting. 
+Use an approved, non-shrinking grout (such as 
+Embeco 636 by Master Builders, Cleveland, Ohio or 
+equivalent), as follows, after setting and leveling unit. 
+(See Figure 9)
+
+NOTE: This procedure assumes that a concrete 
+foundation has been prepared with anchor or hold 
+down bolts extending up ready to receive unit. It must 
+be understood that pump and motor have been
+mounted and rough aligned at the factory. If motor
+is to be field mounted, consult factory for 
+recommendations. Goulds Water Technology 
+cannot assume responsibility for final alignment.
+
+1. Build strong form around the foundation to 
+contain grout.
+2. Soak top of concrete foundation thoroughly, 
+then remove surface water.
+3. Baseplate should be completely filled with grout 
+and if necessary, temporarily use air relief tubing or 
+drill vent holes to remove trapped air.
+4. After the grout has thoroughly hardened, check 
+the foundation bolts and tighten if necessary.
+
+1. Use blocks and shims under base for support 
+at anchor bolts and midway between bolts, to 
+position base approximately 1" above the concrete 
+foundation with studs extending through holes in 
+the baseplate.
+
+18

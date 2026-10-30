@@ -1,0 +1,152 @@
+is - Þýðing á upprunalegu
+
+Gerð hlífar: vírnet
+Frekari upplýsingar eru á Mynd 18 á blaðsíðu 386.
+
+1. Losið skrúfurnar (2).
+2. Fjarlægið vírnetið. (1).
+Gerð hlífar: plötustál
+Frekari upplýsingar eru á Mynd 19 á blaðsíðu 388.
+
+8. Endurtaktu skref 7 nokkrum sinnum: ásstillingin
+er rétt ef fjarlægðir eru þær sömu á öllum punkt‐
+um umhverfis ummálið, innan leyfilegs fráviks;
+sjá Tafla 28 á blaðsíðu 399. Annars, Stilling teng‐
+is með millileggjum á blaðsíðu 139.
+9. Setjið tengihlífina aftur á.
+• M5 → 3 Nm (27 lbf·in) ± 15%
+• M6 → 5 Nm (44 lbf·in) ± 15%.
+
+Stillingarathugun tengis með leysimæli
+
+Þú getur kannað stillingu tengisins með leysimæl‐
+itæki: skoðið notendahandbók mælitækisins.
+
+Stilling tengis með millileggjum
+
+1. Losið festiskrúfurnar á hlífinni (5).
+2. Losið festiskrúfurnar sem halda efri hlífinni (3)
+fastri.
+3. Fjarlægið efri hlíf kúplingarhlífarinnar (1).
+4. Losaðu festiskrúfurnar sem halda neðri hlíf kúp‐
+lingarhlífarinnar (4).
+5. Fjarlægið neðri hlíf kúplingarhlífarinnar (2).
+6. Opnið og lyftið upp stuðnings-/stillhringnum (6).
+
+Skoðun og stilling tengibúnaðar
+
+Sjá Mynd 17 á blaðsíðu 384 fyrir upplýsingar um
+hvar festa eigi dæluna og vélina við undirstöðuna og
+hvar setja eigi meðfylgjandi millilegg.
+
+ATHUGA:
+Athugið stillingu tengisins aftur við heit rekstrarskil‐
+yrði.
+
+ATHUGA:
+Tryggið að tengið snúist greiðlega með handafli og
+að nægilegur slaki sé á milli tengiflata.
+
+1. Losið boltana sem festa dæluna og vélina við
+undirstöðuna.
+2. Lyftið dælunni og vélinni lítillega.
+3. Setjið millileggi milli undirstöðu og fóta dælunnar
+og vélarinnar, á einum eða fleiri tilgreindum stöð‐
+um.
+4. Setjið dæluna og vélina á undirstöðuna þannig að
+boltagötin raðist saman.
+5. Herðið boltana.
+6. Endurtakið athugun á stillingu tengis.
+
+Uppsetning tengihlífar
+
+ATHUGA:
+Röng stilling samstæðunnar getur valdið alvarlegum
+skemmdum á kerfinu.
+
+IS
+
+VARÚÐ:
+Aldrei skal láta dæluna vinna án þess að
+tengihlífin sé rétt sett á.
+
+ATHUGA:
+Ef tengið er rangstillt getur það valdið titringi sem
+leiðir til ótímabærs slits á snúningshlutum samstæð‐
+unnar.
+
+Gerð hlífar: vírnet
+Frekari upplýsingar eru á Mynd 18 á blaðsíðu 386.
+
+Athugið stillingu tengibúnaðar samstæðunnar:
+
+1. Stilltu hlífina (1) rétt þannig að hún hylji útgang
+dæluásins og stoðhringinn (3) við vélina.
+2. Festið skrúfur (2).
+Gerð hlífar: plötustál
+Frekari upplýsingar eru á Mynd 19 á blaðsíðu 388.
+
+• Eftir flutning og uppsetningu
+• Við fyrstu gangsetningu
+• Þegar vinnuhitastigi er náð.
+Framkvæmið athugunina jafnvel þótt samstæðan
+hafi verið afhent fullsamsett á grind.
+
+Athugun á stillingu tengis með reglustiku og
+þykktarmæli
+
+Fyrir upplýsingar um stillingu staðlaðs tengis (A) og
+tengis með millistykki (B), sjá Mynd 27 á blaðsíðu
+397
+1. Fjarlægið hlíf tengis.
+
+1. Setjið neðri hlífina (2) af tengihlífinni í rétta stöðu.
+2. Herðið festiskrúfurnar (4) á neðri hlífinni.
+3. Opnið og setjið stuðnings/stillihringinn (6) með
+hulstrið niður og þrýstið honum í ásstefnu á vél‐
+ina.
+4. Settu efri hlíf tengihlífarinnar (1) rétt á sinn stað.
+5. Herðið festiskrúfurnar á efri hlífinni (3).
+6. Herðið lokunarskrúfurnar á hálfhlífunum (5).
+
+4.3.4  Rafmagnsuppsetning
+
+1. Losið skrúfurnar á loki tengikassans.
+
+ATHUGA:
+Hlífin getur verið úr vírneti (sjá Mynd 18 á blað‐
+síðu 386) eða úr plötujárni (sjá Mynd 19 á blað‐
+síðu 388)
+
+2. Tengið og festið rafmagnssnúrurnar samkvæmt
+viðeigandi raflagnateikningu.
+
+Varðandi raflagnateikningar, sjá Mynd 21 á blað‐
+síðu 392. Raflagnateikningarnar má einnig finna
+aftan á loki tengikassans.
+
+a) Tengið jarðleiðsluna.
+
+Tryggið að jarðleiðslurnar séu lengri en fasal‐
+eiðslurnar.
+b) Tengið fasaleiðslurnar.
+
+3. Festið tengikassann.
+
+ATHUGA:
+
+2. Settu reglustiku yfir hálftengingarnar.
+3. Mældu fjarlægðirnar sem sýndar eru á myndinni.
+4. Snúðu tenginu handvirkt í 90° skrefum og endur‐
+taktu mælinguna.
+5. Endurtakið skref 4 nokkrum sinnum: geislastill‐
+ingin telst rétt ef fjarlægðirnar eru þær sömu á
+öllum stöðum umhverfis ummálið, innan leyfilegs
+fráviks; sjá Tafla 28 á blaðsíðu 399. Annars, sjá
+Stilling tengis með millileggjum á blaðsíðu 139.
+6. Mælið bilið milli helmingshluta tengisins með
+millimáti.
+7. Snúið tenginu handvirkt í 90° skrefum og athugið
+fjarlægðina aftur.
+
+139

@@ -1,0 +1,147 @@
+hu - Eredeti útmutató
+
+A csővezetékekben található hegesztési
+gyöngyök, a vízkő és más szennyeződé‐
+sek károsítják a szivattyút.
+
+FIGYELMEZTETÉS:
+A védelem lehet drótháló (lásd 18. ábra 386. ol‐
+dalon) vagy fémlemez (lásd 19. ábra 388. olda‐
+lon)
+
+4.3.3  A tengelykapcsoló
+egytengelyűségének beállítása
+
+A tengelykapcsoló védelem eltávolítása
+
+VIGYÁZAT!:
+SOHA NE működtesse a szivattyút, ha
+a csatlakozóvédő nincs megfelelően fel‐
+szerelve.
+
+Védelem típusa: drótháló
+További információkért lásd: 18. ábra 386. oldalon.
+
+1. Csavarja ki a csavarokat (2).
+2. Távolítsa el a dróthálót. (1).
+Védelem típusa: fémlemez
+További információkért lásd: 19. ábra 388. oldalon.
+
+2. Helyezzen egy vonalzót a félcsatlakozókra.
+3. Mérje meg az ábrán látható távolságokat.
+4. Fordítsa el a tengelykapcsolót kézzel 90°-os lépé‐
+sekben, és ismételje meg a mérést.
+5. Ismételje meg többször a 4. lépést: a radiális
+beállítás helyes, ha a távolságok a kerület min‐
+den pontján azonosak, a megengedett eltérésen
+belül; lásd: 28. táblázat 399. oldalon. Ellenkező
+esetben lásd: A tengelykapcsoló illesztése az alá‐
+tétekkel 221. oldalon.
+6. Ellenőrizze a félcsatlakozók közötti távolságot
+hézagmérővel.
+7. Fordítsa el kézzel a tengelykapcsolót 90°-os lépé‐
+sekben, és ellenőrizze újra a távolságot.
+8. Ismételje meg többször a 7. lépést: az axiális iga‐
+zítás helyes, ha a távolságok azonosak a kerület
+minden pontján, a megengedett eltérésen belül;
+lásd: 28. táblázat 399. oldalon. Egyéb esetben
+A tengelykapcsoló illesztése az alátétekkel 221.
+oldalon.
+9. Szerelje vissza a tengelykapcsoló védőelemet.
+• M5 → 3 Nm (27 lbf·in) ± 15%
+• M6 → 5 Nm (44 lbf·in) ± 15%.
+
+Tengelykapcsoló-beállítás ellenőrzése a lé‐
+zeres fogszabályzóval
+
+1. Csavarja ki a fél héj zárócsavarjait (5).
+2. Csavarja ki a felső fél burkolatot (3) rögzítő csa‐
+varokat.
+3. Távolítsa el a tengelykapcsoló védőelem felső fél
+burkolatát (1).
+4. Csavarja ki az alsó félburkot (4) rögzítő csavaro‐
+kat.
+5. Távolítsa el a tengelykapcsoló védőelem (2) alsó
+félburkát.
+6. Nyissa ki és emelje fel a tartó-/beállítógyűrűt (6).
+
+A tengelykapcsoló ellenőrzése és igazítása
+
+Ellenőrizheti a tengelykapcsoló és a lézerfogszabály‐
+zó illesztését: lásd a fogszabályzó kézikönyvét.
+
+A tengelykapcsoló illesztése az alátétekkel
+
+FIGYELMEZTETÉS:
+Ellenőrizze újra a tengelykapcsoló illeszkedését me‐
+leg üzemi körülmények között.
+
+A szivattyú és a motor alapzathoz való csatlakozta‐
+tására, valamint a mellékelt alátétek behelyezésének
+helyére vonatkozó 17. ábra 384. oldalon információ‐
+kat lásd: .
+
+FIGYELMEZTETÉS:
+Gondoskodjon arról, hogy a tengelykapcsoló köny‐
+nyen forgatható legyen kézzel, és legyen némi játék
+a fogak között.
+
+HU
+
+FIGYELMEZTETÉS:
+Az egység nem megfelelő beállítása súlyosan káro‐
+síthatja a rendszert.
+
+1. Csavarja ki a szivattyút és a motort az alaphoz
+rögzítő csavarokat.
+2. Kissé emelje meg a szivattyút és a motort.
+3. Helyezze be az alátéteket a szivattyú és a motor
+alapzata és lábai közé, a jelzett pontok közül egy‐
+nél vagy többnél.
+4. Helyezze a szivattyút és a motort az alapra úgy,
+hogy a csavarfuratok egy vonalba kerüljenek.
+5. Szorítsa meg a csavarokat.
+6. Ismételje meg a tengelykapcsoló igazításának el‐
+lenőrzését.
+
+Tengelykapcsoló védelem telepítése
+
+FIGYELMEZTETÉS:
+Ha a tengelykapcsoló nincs megfelelően beállítva,
+rezgéseket okozhat, ami az egység forgó alkatré‐
+szeinek idő előtti kopását okozhatja.
+
+Ellenőrizze az egység tengelykapcsolójának illeszke‐
+dését a következők után:
+
+VIGYÁZAT!:
+SOHA NE működtesse a szivattyút, ha
+a csatlakozóvédő nincs megfelelően fel‐
+szerelve.
+
+Védelem típusa: drótháló
+További információkért lásd: 18. ábra 386. oldalon.
+
+• Szállítás és telepítés
+• Első beindítás
+• Az üzemi hőmérséklet elérése.
+Végezze el az ellenőrzést még akkor is, ha az egysé‐
+get teljesen összeszerelték a kerettel.
+
+A tengelykapcsoló illeszkedésének ellenőr‐
+zése vonalzóval és hézagmérővel
+
+1. Helyezze át megfelelően a védőelemet (1), hogy
+körülvegye a szivattyútengely kimeneti végét és a
+motor felőli oldalon lévő tartógyűrűt (3).
+2. Húzza meg a csavarokat (2).
+Védelem típusa: fémlemez
+További információkért lásd: 19. ábra 388. oldalon.
+
+A szabványos tengelykapcsoló (A) és a távtartóval
+(B) való összekapcsolásra vonatkozó információkat
+lásd: 27. ábra 397. oldalon
+
+1. Távolítsa el a tengelykapcsoló védőelemét.
+
+221

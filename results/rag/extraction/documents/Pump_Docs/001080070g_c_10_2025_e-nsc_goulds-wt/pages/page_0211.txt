@@ -1,0 +1,161 @@
+sk - Preklad originálu
+
+stranu vhodné zariadenie na zabránenie spätného
+toku.
+
+– Zariadením na ochranu pred skratovaním
+– oddeľujúcim spínačom rozvodu s kontaktnou
+
+medzerou aspoň 3 mm
+
+Kontrolný zoznam pre potrubné rozvody
+
+Kontrolný zoznam – elektrický ovládací panel
+
+Skontrolujte, či sú splnené nasledovné požiadavky:
+
+POZNÁMKA:
+Ovládací panel musí zodpovedať charakteristikám
+elektrického čerpadla. Nesprávne kombinácie nemu‐
+sia dokázať zaručiť ochranu motora.
+
+Skontrolujte, či sú splnené nasledovné požiadavky:
+
+• Kontrolný panel musí chrániť motor pred preťaže‐
+ním a skratovaním.
+• Nainštalujte správnu ochranu proti preťaženiu (te‐
+pelné relé alebo ochranné zariadenie motora).
+
+Typ čerpadla
+Ochrana
+
+– Zabudovaná auto‐
+
+Štandardné jednofázo‐
+vé elektrické čerpadlo ≤
+2,2 kW
+
+matická resetova‐
+cia tepelná ampé‐
+rometrická ochrana
+(ochrana motora)
+– Ochrana proti skra‐
+
+tu (musí dodávať in‐
+štalatér)35
+
+Trojfázové elektrické
+čerpadlo36
+– Tepelná ochrana
+
+(musí dodať tech‐
+nik)
+– Istenie proti skratu
+
+(musí dodať tech‐
+nik)
+
+• Všetky potrubné rozvody sú nezávisle podložené
+- nesmú zaťažovať jednotku.
+• Aby sa zabránilo prenosu vibrácií čerpadla na po‐
+trubie a späť, používajú sa pružné potrubia.
+• Používate široké ohyby a vyhýbate sa použitiu
+sacích kolien, keďže tieto spôsobujú nadmerný
+prietokový odpor.
+• Potrubné rozvody nasávania sú dobre utesnené a
+odvzdušnené.
+• Ak používate čerpadlo v otvorenom obvode, prie‐
+mer sacieho potrubia je vzhľadom k podmien‐
+kam inštalácie vhodný. Sacie potrubie nesmie byť
+menšie než je priemer sacieho kanála.
+• V prípade, že sacie potrubie musí byť väčšie než
+je nasávacia strana čerpadla, nainštalujte excen‐
+trickú redukciu potrubia.
+• Ak sa čerpadlo nachádza pod hladinou kvapaliny,
+na koniec sacieho potrubia je sa namontuje pät‐
+kový ventil.
+• Pätkový ventil je celý ponorený do kvapaliny, aby
+nemohol do nasávania vniknúť vzduch ani vtedy,
+keď je kvapalina na najspodnejšej úrovni a čer‐
+padlo je namontované nad zdrojom kvapaliny.
+• Na sacie a výtlačné potrubie (v smere prúdenia
+smerom k spätnej klapke) sa namontujú dvojpo‐
+lohové ventily s vhodnou veľkosťou, aby sa mohol
+regulovať objem čerpadla pre účely kontroly a
+údržby.
+• Aby sa predišlo spätnému toku do čerpadla pri je‐
+ho vypnutí, je na výtlačné potrubie namontovaná
+spätná klapka.
+
+• Kontrolný panel musí byť vybavený testovacím
+ochranným systémom, ku ktorému je pripojený
+tlakový spínač, plavákový vypínač, sondy alebo
+iné vhodné zariadenia.
+• Na strane nasávania čerpadla odporúčame pou‐
+žívať nasledovné zariadenia:
+
+– V prípade, že čerpáte kvapalinu z infraštruk‐
+
+SK
+
+túrnej siete, použite tlakový spínač.
+– V prípade, že čerpáte vodu zo zásobníka ale‐
+
+VAROVANIE:
+Dvojpolohový ventil na strane výpuste ne‐
+uzatvárajte s cieľom priškrtiť čerpadlo na
+dobu dlhšiu ako niekoľko sekúnd. Ak mu‐
+síte čerpadlo obsluhovať na strane výpu‐
+ste dlhšie než niekoľko sekúnd, je potreb‐
+né namontovať obtokový okruh, aby sa
+zabránilo prehriatiu vody v čerpadle.
+
+bo rezervoára, použite plavákový spínač alebo
+plavákové snímače.
+• Pri použití tepelných relé odporúčame použiť tie,
+ktoré sú citlivé na poruchu fázy.
+
+Kontrolný zoznam – motor
+
+Ilustráciu znázorňujúcu požiadavky na potrubné roz‐
+vody si pozrite na obrázku Obrázok 13 na strane 380
+a Obrázok 14 na strane 380.
+
+VAROVANIE:
+
+4.2  Požiadavky na elektrické pripojenie
+• Platné miestne predpisy majú prednosť pred tu
+stanovenými požiadavkami.
+• V prípade požiarnych systémov (hydrantu a/ale‐
+bo rozstrekovačov) skontrolujte platné miestne
+predpisy.
+
+Kontrolný zoznam elektrických zapojení
+
+Skontrolujte, či sú splnené nasledovné požiadavky:
+
+• V prípade, že používate iný motor, než
+štandardný, prečítajte si prevádzkové
+pokyny, aby ste sa uistili, či je prítom‐
+né ochranné zariadenie.
+• Ak je motor vybavený automatický‐
+mi tepelnými ochranami, pamätajte
+na riziko neočakávaných spúšťaní pri
+pripojení na preťaženie. Takéto moto‐
+ry nepoužívajte pri požiarnych apliká‐
+ciách.
+
+POZNÁMKA:
+
+• Elektrické vodiče sú chránené pred vysokými te‐
+plotami, vibráciami a kolíziami.
+• Kábel napájania je vybavený:
+
+35
+poistiek aM (štartovanie motora) alebo magnetotermálneho spínača s krivkou C a Icn ≥ 4,5 kA alebo
+iným ekvivalentným zariadením.
+36
+tepelného relé s triedou vypnutia 10A + poistky aM (štartovanie motora) alebo magneto-termálny spínač
+na ochranu motora s triedou štartovania 10A.
+
+207

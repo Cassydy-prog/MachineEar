@@ -1,0 +1,64 @@
+Declarations of Conformity
+
+Optimyze: ja ietilpst sūkņa komplektācijā, skatiet dokumentāciju, kas piegādāta kopā ar pārraudzības ierīci [Direktīva 2014/53/ES 
+par radioiekārtām un sekojošie grozījumi, Direktīva 2011/65/ES par dažu bīstamu vielu izmantošanas ierobežošanu elektriskās un 
+elektroniskās iekārtās un sekojošie grozījumi, tostarp Direktīva 2015/863/ES].
+
+Montecchio Maggiore, 25/03/2025  
+
+Rev.  00
+
+Alessio Vendraminelli  
+Rīkotājdirektors
+
+Atbilstības deklarācija(-s) nav derīga(-s), ja tiek izmantota atsevišķi no pārējā Xylem dokumentācijas (kods 001080070G) teksta. 
+ 
+Atitikties deklaracijos 
+Vadovaukitės ant gaminio pateikiama specifinio žymėjimo deklaracija. 
+ 
+Elektrinis siurblys
+
+EB atitikties deklaracija (vertimas) 
+ 
+Įmonė „Xylem Service Italia S.r.l.“, kurios pagrindinė būstinė yra Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italy, 
+šiuo dokumentu deklaruoja, kad šis gaminys: 
+NSCC… arba NSCF… elektrinis siurblys (žr. etiketę paskutiniame puslapyje) 
+atitinka susijusias toliau nurodytų Europos direktyvų nuostatas 
+•  Direktyvos 2006/42/EB dėl mašinų ir vėlesni pakeitimai (II PRIEDAS –·fizinis arba juridinis asmuo yra įgaliotas sudaryti techninį 
+failą: Xylem Service Italia S.r.l.), 
+•  Ekologinio projektavimo direktyva 2009/125/EB ir vėlesni pakeitimai, Komisijos reglamentas (ES) 2019/1781 ir vėlesni pakeitimai 
+(elektros variklis, jei pažymėtas IE2, IE3 ar IE4), Komisijos reglamentas (ES) Nr. 547/2012 ir vėlesni pakeitimai (vandens siurblys, 
+jei pažymėtas MEI) 
+bei techniniai standartai 
+•  EN 809:1998+A1:2009, EN 60204-1:2018. 
+•  EN 60034-30:2009, EN 60034-30-1:2014, EN 60034-2-1:2007, EN 60034-2-1:2014, EN 16480:2021. 
+Montecchio Maggiore, 25/03/2025  
+
+red. 00
+
+Alessio Vendraminelli  
+Vykdantysis direktorius
+
+ES atitikties deklaracija (Nr. 01) 
+ 
+1. EMCD - aparato / gaminio modelis: NSCC… arba NSCF… (žr. etiketę paskutiniame puslapyje) 
+    RoHS –  unikalus EEE identifikavimas: NSCC… arba NSCF…  
+2. Gamintojo pavadinimas ir adresas: 
+ „Xylem Service Italia S.r.l.“ 
+ Via Vittorio Lombardi 14 
+ 36075 Montecchio Maggiore VI 
+ Italy 
+3. Ši atitikties deklaracija išduota tik gamintojo atsakomybe. 
+4. Deklaracijos objektas: elektrinis siurblys. 
+5. Pirmiau aprašytas deklaracijos objektas atitinka susijusius derinamuosius Europos Sąjungos teisės aktus 
+•  Direktyvą 2014/30/ES, 2014 m. vasario 26 d. (elektromagnetinis suderinamumas) ir vėlesnius pakeitimus.  
+•  Direktyvą 2011/65/ES, 2011 m. birželio 8 d. ir vėlesnius pakeitimus, įskaitant direktyvą (ES) 2015/863 (tam tikrų pavojingų 
+medžiagų naudojimo elektros ir elektronikos įrangoje ribojimas). 
+6. Nuorodos į susijusius naudotus darniuosius standartus arba nuorodos į kitas technines specifikacijas pagal tai, kuri atitiktis 
+deklaruojama: 
+•  EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-4:2007 
++A1:2011, EN IEC 61000-6-4:2019. 
+• EN IEC 63000:2018. 
+7. Paskelbtoji įstaiga: - - -
+
+434

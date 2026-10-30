@@ -1,0 +1,51 @@
+Evaluation of running features and damage to dismounted bearings
+Lip contact
+
+3.4.2 Wear of cage guiding surfaces
+
+Causes:
+– Insufficient lubricant supply to
+
+Symptoms:
+
+contact areas, often inadequate 
+drainage of the lubricant
+– Contaminated lubricant
+– Speed too high for the bearings
+
+applied
+– Excess tilting during assembly
+– Unexpectedly high operating temper-
+
+ature in the case of outer ring guided
+brass cages (different heat expansion
+steel/brass)
+
+Remedial measures:
+– Improve lubrication (greater flow,
+
+more cleanliness)
+– Use bearings designed for operating
+
+Wear may result when cages – parti-
+cularly brass cages – are guided at the
+lips of bearing rings. The surface is
+usually badly roughened and seizure also
+results (cage material clings to lip). A
+shoulder develops at the lip when there
+is a lot of wear since the cage is not as a
+rule in contact with its entire width, 
+fig. 86. Similar wear characteristics are
+also found at the side edges of the corre-
+sponding cage, see section 3.5.1. It is
+particularly hazardous for the inner ring
+lip contact of high-speed bearings.
+
+conditions in question
+– Coat cage
+
+86: Bad contact marks on the cage guiding surface of an outer ring lip with 
+smeared on material
+
+FAG
+52

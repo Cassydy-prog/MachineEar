@@ -1,0 +1,158 @@
+MANUEL D’INSTALLATION, D’UTILISATION ET D’ENTRETIEN
+
+Ventilateurs avec marquage CE IM-2-06
+
+Date de publ.: 3-23-22
+
+Sommaire
+
+Introduction .....................................................................................1 
+Protection personnelle ...................................................................1 
+Matériaux dangereux ......................................................................1 
+Installation
+
+Protection personnelle 
+Pour des raisons de sécurité, le personnel de maintenance doit 
+s’équiper de protection personnelle lors de la maintenance des 
+ventilateurs. Il est conseillé aux personnes portant les cheveux 
+longs de les refouler, possiblement sous une casquette.
+ 
+L’équipement de protection personnelle devrait inclure les 
+articles suivants:
+
+•
+Lunettes de sécurité approuvées par les autorités de
+sûreté locales
+
+Expédition et réception ............................................................1 
+Manutention ...............................................................................2 
+Stockage de la machine..........................................................2
+Bases et Structures de Support
+
+•
+Chaussures de protection avec embout acier et semelle
+résistante à l’huile
+
+•
+Gants lourds résistants à la coupure et à l’exposition aux
+produits chimiques. Ceci est particulièrement important
+lorsque des résidus dangereux sont présents dans les
+ventilateurs.
+
+•
+Appareil de respiration si des gaz ou vapeurs toxiques
+présentes sont escomptées.
+
+•
+Porter des vêtements étroits
+
+- Ventilateurs industriels ......................................................2 
+Installation du ventilateur – Unités Assemblées en Usine .............3 
+Installation du ventilateur- Unités non Assemblées ..............4 
+Installation du palier .................................................................5
+Cimentage ..................................................................................8 
+Assemblage du mécanisme d’entraînement ...........................8 
+Couplages flexibles ...................................................................8 
+Raccords de Conduits .............................................................8 
+Garde-fous et carters de protection ......................................8 
+Alimentation et contrôles électriques ......................................9 
+Maintenance
+
+Ne pas porter:
+•
+Anneaux
+•
+Bracelets
+•
+Colliers
+•
+Vêtements amples
+
+Maintenance du moteur ...........................................................9
+Maintenance du mécanisme d’Entraînement .......................10
+Maintenance du palier ............................................................1 0 
+Maintenance de la Roue et de l’Arbre ................................1 0 
+Maintenance Structurelle ........................................................1 0 
+Utilisation du Ventilateur
+
+Le personnel de maintenance est responsable de s’assurer que 
+l’éclairage est suffisant pour le travail qui doit être effectué. Un 
+éclairage portable additionnel peut s’avérer nécessaire puisqu’il n’y 
+a pas d’équipement d’éclairage fourni avec le ventilateur.
+
+Usage et Application corrects ...............................................10
+Bruit ..........................................................................................11
+Liste de contrôle d’exploitation .............................................12
+Accessoires en Option ...........................................................12
+Instructions de dépannage ....................................................12
+Recyclage ................................................................................13
+Annexe A – Installation de Ventilateur Commercial
+
+Instructions ..............................................................................13
+Annexe B - Ventilateurs Axiaux .................................................14
+
+Introduction
+
+Matériaux dangereux
+Twin City Fan Companies, Ltd. N’est pas toujours informé des 
+matériaux qui peuvent être traités par un ventilateur et ne peut 
+conséquemment pas avertir l ‘utilisateur des dangers associés. 
+Par suite, l’utilisateur final doit identifier les matériaux dangereux 
+présents et les indiquer sur le ventilateur avec un autocollant 
+d’avertissement. S’il y a des risques de matériaux dangereux 
+se déposant dans un ventilateur par suite d’accumulation sous 
+forme de dépôt du matériau procédé, tout le personnel de 
+maintenance et d’opération doit être formé pour manipuler de 
+tels risques avant d’accéder au ventilateur.
+ 
+Les lubrifiants utilisés sur les pièces de ventilateur peuvent 
+être dangereux s’ils entrent en contact avec les yeux ou sont 
+consommés.
+ 
+Pour des pratiques de sécurité générales supplémentaires 
+pour les équipements de circulation d’air, voyez le Bulletin 410 
+de l’AMCA.
+
+Installation
+Expédition et réception
+Tous le produits de Twin City Fan Companies, Ltd. Sont con-
+struits et inspectés avec soin avant d’être expédiés afin de 
+garantir les plus hauts standards de qualité et de performance. 
+Comparez tous les éléments avec le connaissement ou le bor-
+dereau d’envoi afin de vérifier que vous avez reçu l’unité adé-
+quate. Vérifiez chacune des pièces pour identifier d’éventuels 
+dommages survenus en cours de transport. Tout dommage doit 
+être immédiatement signalé au transporteur et un rapport de 
+dommage doit obligatoirement être rempli.
+
+Ce bulletin a été préparé pour guider les opérateurs de ventila-
+teurs dans l’installation, l’utilisation et les procédures de main-
+tenance correctes, afin d’assurer une durée de vie maximale 
+de l’équipement et une utilisation sans problèmes. Le person-
+nel utilisant ou maintenant cet équipement doit être formé aux 
+procédures correctes pour accomplir ces tâches.
+ 
+Comme beaucoup de ventilateurs de ce type présentent 
+des caractéristiques et des pièces spécifiques, référez-vous à 
+la documentation jointe et aux annexes pour information sup-
+plémentaire. Lorsque les fabricants de pièces procurent des 
+manuels d’installation et d’utilisation détaillés, ceux-ci seront 
+fournis. Du à la large variété des équipements couverts dans 
+ce bulletin, les instructions figurant ici revêtent un caractère 
+général.
+ 
+Pour une installation, un démarrage et une vie opérationnelle 
+sécuritaire de cet équipement, il est important que tout le per-
+sonnel impliqué avec celui-ci soit familiarisé avec les méthodes 
+de sécurité et lise ce bulletin. Consultez la section sécurité 
+avant de commencer tout travail. L’usager a la responsabilité 
+de s’assurer que toutes les conditions de sécurité et tous 
+les codes de sécurité applicables soient strictement observés. 
+L’utilisation et la maintenance de cet équipement doivent être 
+faites exclusivement par un personnel adéquatement formé.
+
+Manutention
+La manutention de tout équipement à circulation d’air doit être 
+effectuée par du personnel formé et se plier aux pratiques de
+
+©2006 - 2022 Twin City Fan Companies, Ltd.

@@ -1,0 +1,204 @@
+sv - Översättning av orginal instruktioner
+
+Orsak
+Lösning
+
+7.2  Huvudströmbrytaren är på, men
+elpumpen startar inte
+
+En fas saknas.
+Kontrollera
+
+Orsak
+Lösning
+
+• strömförsörjning
+• elektrisk anslutning
+
+7.5  Elpumpen startar, men termoskyddet
+utlöses varierande tid efter
+
+Det finns ingen ström.
+• Återställ strömförsörj‐
+ningen.
+• Kontrollera att alla elekt‐
+riska anslutningar till
+strömförsörjningen är in‐
+takta.
+
+Orsak
+Lösning
+
+Vänta tills pumpen har
+svalnat. Termoskyddet åter‐
+ställs automatiskt.
+
+Kontakta en lokal försälj‐
+nings- och servicerepre‐
+sentant.
+
+Termoskyddet som
+ingår i pumpen (om
+sådant finns) har ut‐
+lösts.
+
+Främmande föremål
+(solider eller fibersub‐
+stanser) inuti pumpen
+har gjort att pumphjulet
+sitter fast.
+
+Återställ termoskyddet.
+
+Termoreläet eller mo‐
+torskyddet i den elekt‐
+riska kontrollpanelen
+har utlösts.
+
+Pumpens leveranshas‐
+tighet är högre än den
+angivna gränsen på
+märkskylten.
+
+Kontrollera:
+
+Stäng delvis PÅ/AV-venti‐
+len nedåt tills leveranshas‐
+tigheten är lika med eller
+mindre än gränserna som
+anges på märkskylten.
+
+Skyddsenheten som
+förhindrar torrkörning
+har utlösts.
+
+SV
+
+• vätskenivån i tanken, el‐
+ler trycket i vattenled‐
+ningsnätet.
+• skyddsenheten och dess
+anslutningskablar.
+
+Pumpen är överlastad
+på grund av att vätskan
+som pumpas har alltför
+hög densitet och visko‐
+sitet.
+
+Kontrollera de faktiska
+effektkraven baserat på
+egenskaperna på vätskan
+som pumpas och byt ut
+motorn till en som passar.
+
+Byt ut säkringarna.
+
+Säkringarna för pum‐
+pen eller hjälpkretsar‐
+na har löst ut.
+
+Motorlagren är slitna.
+Kontakta en lokal försälj‐
+nings- och servicerepre‐
+sentant.
+
+7.6  Elpumpen startar, men systemets
+allmänna skydd aktiveras
+
+7.3  Elpumpen startar, men termoskyddet
+utlöses eller så utlöses säkringarna
+omedelbart därefter
+
+Orsak
+Lösning
+
+Orsak
+Lösning
+
+Kontrollera elsystemet.
+
+En kortslutning i elsyste‐
+met.
+
+Kabeln till strömförsörj‐
+ningen är skadad.
+
+Kontrollera kabeln och byt
+ut vid behov.
+
+Kontrollera komponenter‐
+na och byt ut vid behov.
+
+Värmeskyddet eller säk‐
+ringarna är inte lämpli‐
+ga för motorströmmen.
+
+7.7  Elpumpen startar, men systemets
+jordfelsbrytare (RCD, residual current device)
+aktiveras
+
+Kortslutning i den elekt‐
+riska motorn.
+
+Kontrollera komponenter‐
+na och byt ut vid behov.
+
+Orsak
+Lösning
+
+Motorn överlastas.
+Kontrollera pumpens
+driftsvillkor och återställ
+skyddet.
+
+Det finns ett
+jordfel.
+
+Kontrollera isoleringen på kompo‐
+nenterna i elsystemet.
+
+7.8  Pumpen kör men levererar för lite eller
+ingen vätska
+
+7.4  Elpumpen startar, men termoskyddet
+utlöses eller så utlöses säkringarna en kort
+tid därefter
+
+Orsak
+Lösning
+
+Orsak
+Lösning
+
+• Avlufta
+
+Det finns luft inuti
+pumpen eller rörsys‐
+temet.
+
+Skydda den elektriska
+panelen från värmekäl‐
+lan och direkt solljus.
+
+Pumpen är inte kor‐
+rekt evakuerad.
+
+Den elektriska kontrollpa‐
+nelen sitter på en plats
+med för hög temperatur
+eller är exponerad till di‐
+rekt solljus.
+
+Stoppa pumpen och upprepa
+evakueringsproceduren.
+Om problemet fortsätter:
+
+Kontrollera motorns
+driftsvillkor.
+
+Strömförsörjningens
+spänning är inte inom
+motorns arbetsgränser.
+
+120

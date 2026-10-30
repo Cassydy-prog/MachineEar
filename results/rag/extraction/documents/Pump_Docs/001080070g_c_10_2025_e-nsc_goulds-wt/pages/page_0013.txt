@@ -1,0 +1,151 @@
+it - Traduzione dell'originale
+
+Allineamento del giunto con spessori
+
+Controllare nuovamente l’allineamento del giunto in
+condizioni di funzionamento a caldo.
+
+Per informazioni sui punti di fissaggio della pompa e
+del motore col basamento e dove inserire gli spesso‐
+ri in dotazione, vedere Figura 17 a pagina 384.
+
+NOTA BENE:
+Assicurarsi che il giunto ruoti facilmente a mano e vi 
+sia gioco tra i denti.
+
+IT
+
+NOTA BENE:
+Un allineamento non corretto dell’unità può provoca‐
+re gravi danni al sistema.
+
+1. Svitare i bulloni di fissaggio della pompa e del
+motore col basamento.
+2. Sollevare leggermente la pompa e il motore.
+3. Inserire gli spessori tra il basamento e i piedi
+della pompa e del motore, in uno o più dei punti
+indicati.
+4. Posare la pompa e il motore sul basamento, alli‐
+neando i fori dei bulloni.
+5. Serrare i bulloni.
+6. Ripetere la verifica dell’allineamento del giunto.
+
+Installazione della protezione del giunto
+
+NOTA BENE:
+Se il giunto è disallineato può provocare vibrazioni 
+con conseguente usura precoce dei componenti ro‐
+tanti dell’unità.
+
+Verificare l’allineamento del giunto dell’unità dopo i
+seguenti eventi:
+
+ATTENZIONE:
+Non mettere mai in funzione la pompa 
+senza le protezioni del giunto corretta‐
+mente installate.
+
+Tipo di protezione: rete metallica
+Per informazioni, consultare Figura 18 a pagina 386.
+
+• Trasporto e installazione
+• Primo avviamento
+• Raggiungimento della temperatura operativa.
+Eseguire la verifica anche se l’unità è stata conse‐
+gnata completamente montata sul telaio.
+
+Verifica allineamento del giunto con righello
+e spessimetro
+
+Per informazioni sull’allineamento del giunto stan‐
+dard (A) e del giunto con distanziale (B), vedere Figu‐
+ra 27 a pagina 397.
+
+1. Riposizionare correttamente la protezione (1) in
+modo che avvolga l’estremità di uscita dell’albero
+della pompa e l’anello di supporto (3) lato moto‐
+re.
+2. Avvitare le viti (2).
+Tipo di protezione: in lamiera
+Per informazioni, consultare Figura 19 a pagina 388.
+
+1. Smontare la protezione del giunto.
+
+NOTA BENE:
+la protezione può essere in rete metallica (vedere 
+Figura 18 a pagina 386) o in lamiera (vedere Figu‐
+ra 19 a pagina 388)
+
+1. Posizionare il semiguscio inferiore della protezio‐
+ne del giunto (2).
+2. Avvitare le viti di fissaggio del semiguscio inferio‐
+re (4).
+3. Aprire e inserire l’anello di supporto/regolazione
+(6) con l’alloggiamento verso il basso e premerlo
+assialmente sul motore.
+4. Posizionare il semiguscio superiore della prote‐
+zione del giunto (1).
+5. Avvitare le viti di fissaggio del semiguscio supe‐
+riore (3).
+6. Avvitare le viti di chiusura dei semigusci (5).
+
+4.3.4  Installazione elettrica
+
+1. Rimuovere le viti del coperchio della morsettiera.
+
+2. Collegare e assicurare i cavi di alimentazione se‐
+condo il relativo schema d'installazione.
+
+Per gli schemi d'installazione, vedere Figura 21 a
+pagina 392. Gli schemi sono disponibili anche sul
+retro del coperchio della scatola morsettiera.
+
+a) Collegare il conduttore di terra (massa).
+
+Assicurarsi che il conduttore di terra (massa)
+sia più lungo dei conduttori di fase.
+b) Collegare i conduttori di fase.
+
+3. Montare il coperchio della scatola morsettiera.
+
+2. Posizionare un righello sui semi giunti.
+3. Misurare le distanze indicate in figura.
+4. Girare a mano il giunto a step di 90° e ripetere la
+misurazione.
+5. Ripetere più volte il passo 4: l'allineamento radia‐
+le è corretto se le distanze sono le stesse in
+tutti i punti attorno alla circonferenza e entro la
+deviazione ammessa, vedere Tabella 28 a pagina
+399. Diversamente, vedere Allineamento del giun‐
+to con spessori a pagina 9.
+6. Verificare la distanza tra i semi giunti con uno
+spessimetro.
+7. Girare a mano il giunto a step di 90° e controllare
+di nuovo la distanza.
+8. Ripetere più volte il passo 7: l'allineamento assia‐
+le è corretto se le distanze sono le stesse in
+tutti i punti attorno alla circonferenza e entro la
+deviazione ammessa, vedere Tabella 28 a pagina
+399. Diversamente, Allineamento del giunto con
+spessori a pagina 9.
+9. Rimontare la protezione del giunto.
+• M5 → 3 Nm (27 lbf·in) ± 15%
+• M6 → 5 Nm (44 lbf·in) ± 15%.
+
+Verifica allineamento del giunto con allinea‐
+tore laser
+
+NOTA BENE:
+Serrare correttamente i pressacavi per garantire 
+l'adeguata protezione contro lo scorrimento del 
+cavo e l'umidità.
+
+È possibile verificare l’allineamento del giunto con
+un allineatore laser: fare riferimento al manuale di
+istruzioni dell’allineatore.
+
+4. Se il motore non è provvisto di protezione termi‐
+ca a riarmo automatico, regolare la protezione da
+sovraccarico secondo l'elenco seguente.
+
+9

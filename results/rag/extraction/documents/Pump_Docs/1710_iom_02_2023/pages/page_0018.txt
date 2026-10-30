@@ -1,0 +1,67 @@
+4  Installation
+
+– The relative air humidity conditions exceed the guidelines.
+– The unit is located more than 1000 m (3000 ft) above the sea level. The motor
+
+performance may need to be de-rated or replaced with a more powerful motor.
+
+Pump positions and clearance
+
+Provide adequate light and clearance around the pump. Make sure that it is easily
+accessible for installation and maintenance operations.
+
+4.2  Foundation requirements
+
+Requirements
+
+• The foundation must be able to absorb any type of vibration and form a permanent, rigid
+support for the unit.
+• Provide a flat, substantial concrete foundation in order to prevent strain and distortion
+when you tighten the foundation bolts.
+
+4.3  Piping requirements
+
+Precautions
+
+WARNING:
+
+• Use pipes suited to the maximum working pressure of the pump. Failure to do so can
+cause the system to rupture, with the risk of injury.
+• Make sure that all connections are performed by qualified installation technicians and in
+compliance with the regulations in force.
+
+NOTICE:
+Observe all regulations issued by authorities having jurisdiction and by companies managing
+the public water supplies if the pump is connected to a public water system. If required,
+install appropriate backflow-prevention device on the suction side.
+
+Piping checklist
+
+Check that the following requirements are met:
+
+• All piping is independently supported, piping must not place a burden on the unit.
+• Flexible pipes or unions are used, in order to avoid transmission of pump vibrations to the
+pipes and vice versa.
+• Use wide bends, avoid using elbows which cause excessive flow resistance.
+• The suction piping is perfectly sealed and airtight.
+• If the pump is used in an open circuit, then the diameter of the suction pipe is suited to
+the installation conditions. The suction pipe must not be smaller than the diameter of the
+suction port.
+• If the suction piping must be larger than the suction side of the pump, then an eccentric
+pipe reducer is installed.
+• If the pump is placed above liquid level, a foot valve is installed at the end of the suction
+piping.
+• The foot valve is fully immersed into the liquid so that air cannot enter through the suction
+vortex, when the liquid is at the minimum level and the pump is installed above the liquid
+source.
+• Appropriately sized on-off valves are installed on the suction piping and on the delivery
+piping (downstream to the check valve) for regulation of the pump capacity, for pump
+inspection, and for maintenance.
+• Appropriately sized on-off valves are installed on the delivery piping (downstream to the
+check valve) for regulation of the pump capacity, for pump inspection, and for
+maintenance.
+• In order to prevent back flow into the pump when pump is turned off a check valve is
+installed on the delivery piping.
+
+16
+Series 1710 Installation, Operation, and Maintenance Manual

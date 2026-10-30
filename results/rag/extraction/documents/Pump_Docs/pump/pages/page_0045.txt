@@ -1,0 +1,102 @@
+7. Positive Displacement Pump Applications
+
+Positive Displacement Pump Applications
+
+Related Tip Sheet
+
+Related information is available in an ITP 
+BestPractices Tip Sheet titled Pump Selection 
+Considerations. Tip sheets can be found in 
+Appendix C, accessed on the Web at 
+www.eere.energy.gov/industry/
+bestpractices, or obtained by contacting the 
+EERE Information Center at 877-337-3463.
+
+The term positive displacement refers to the way 
+in which these pumps pressurize and move fluid. 
+Positive displacement pumps squeeze fluid by 
+decreasing the volume that contains it. One type 
+of positive displacement pump is a piston pump: 
+every stroke pushes along a certain amount of 
+fluid. An example of a rotary displacement pump 
+is a screw pump, which uses two parallel, 
+overlapping screws to push along a certain volume 
+with each revolution.
+
+ Applications
+Although positive displacement pumps have 
+higher maintenance requirements than other 
+types, they are inherently better suited for certain 
+applications. These applications include the 
+following:
+
+■	 High-Pressure/Low-Flow Applications. Positive
+
+with entrained gases in the suction line. This 
+feature allows system designers to place these 
+pumps above the fluid level, which can simplify 
+the system layout. Centrifugal pumps often require 
+special system equipment to remove gases and 
+prime the impeller. Although some centrifugal 
+pumps are designed to be self-priming, they are 
+also expensive, less reliable, and less efficient—
+and gas must still be removed.
+
+displacement pumps are usually more effective 
+in generating high pressures in low-flow appli-
+cations. Although centrifugal pumps can be 
+designed to generate high pressures—usually 
+through the use of multiple stages—these 
+special pumps tend to be comparatively 
+expensive.
+
+■	 High-Fluid-Viscosity Applications. Positive
+
+Certain positive displacement pumps—such as 
+diaphragm and peristaltic types—do not require 
+seals and thus do not leak. In systems that handle 
+corrosive or hazardous fluids, eliminating the 
+need for seal maintenance can yield substantial 
+cost savings.
+
+displacement pumps are more effective than 
+centrifugal pumps in moving viscous fluids. 
+By directly pressurizing the fluids, positive 
+displacement pumps lose less energy to the 
+high shear stresses that are inherent in viscous 
+fluids.
+
+■	 Accurately Controlled Flow Applications. Since
+
+each stroke or revolution generates a certain 
+amount of flow, positive displacement pumps 
+are typically used in applications requiring 
+precise flow control. By controlling the number 
+of pump cycles, positive displacement pumps 
+are well suited for metered-flow applications.
+
+ Special Considerations 
+Positive displacement pumps are usually installed 
+with pressure relief valves. In fact, in many of 
+these pumps, relief valves are internal to the 
+pump. This protection is needed because the 
+pumps push fluid into the discharge line 
+irrespective of backpressure. Consequently, if the 
+system flow becomes completely obstructed 
+downstream of the pump, fluid pressure builds 
+until the motor torque reaches an overload 
+condition or until the piping or other equipment 
+ruptures. Although relief valves are designed 
+to protect against such damage, they require 
+periodic testing and maintenance. A relief valve 
+that fails to operate properly can cause costly 
+system damage.
+
+In addition, many positive displacement pumps 
+have certain unique characteristics that make them 
+attractive. For example, positive displacement 
+pumps are usually self-priming and can operate
+
+41
+
+A Sourcebook for Industry

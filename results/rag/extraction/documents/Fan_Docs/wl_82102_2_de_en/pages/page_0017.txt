@@ -1,0 +1,49 @@
+Evaluation of running features and damage to dismounted bearings
+Condition of seats
+
+16: Seizing marks in the inner ring bore as a result of inner ring creeping on the
+shaft
+
+3.2.2 Seizing marks or sliding wear
+Symptoms:
+
+Cold welding at the fitting surfaces
+(inner ring bore, outer ring outside dia-
+meter) and axial mating surfaces or also
+shiny contact areas where surface rough-
+ness is good, figs. 15, 16.
+
+Wear of fitting surface and face, fig.
+17, perhaps reduction in preload or clea-
+rance enlargement.
+
+Causes:
+– Rotary motion between ring and
+
+shaft/housing with loose fits under
+circumferential load; with static load
+and unbalance also
+– Axial support of rings insufficient
+– Sluggish movement of floating bea-
+
+ring
+
+Remedial measures:
+– Use bearing seats which are as tight as
+
+possible
+– Extend axial mating surfaces
+– Secure axial support
+– Keep fitting surfaces dry
+– Improve floating bearing function
+
+15: Seizing marks on the outside diameter as a result of outer ring creeping in the
+housing
+
+17: Circumferential scoring and cold
+welding at the inner ring faces as a
+result of inner ring creeping on the
+shaft
+
+FAG
+16

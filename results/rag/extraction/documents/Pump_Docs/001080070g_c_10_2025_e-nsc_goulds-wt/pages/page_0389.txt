@@ -1,0 +1,188 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+4. Undirstaða
+5. Viðbótarmillilegg til stillingar
+
+4. Fundament
+5. Extra utjämningsshims
+4. Perustus
+5. Ylimääräinen tasapainotusle‐
+vy
+
+Eesti
+
+latviski
+
+lietuvių
+
+1. Seadme alus
+2. Loodimise paksus
+3. Ühendusvardad
+4. Vundament
+5. Täiendav loodimiskiil
+
+1. Įrenginio pagrindas
+2. Lyginimo storis
+3. Surišti strypai
+4. Pagrindas
+5. Papildomas lyginimo pleištas
+
+1. Iekārtas pamatne
+2. Līmeņošanas biezums
+3. Savienotājstienis
+4. Pamats
+5. Papildu līmeņošanas starpli‐
+ka
+
+Polski
+
+Čeština
+
+slovenský
+
+1. Podstawa jednostki
+2. Grubość poziomowania
+3. Pręty opaskowe
+4. Fundament
+5. Dodatkowa podkładka pozio‐
+mująca
+
+1. Základna jednotky
+2. Vyrovnávací tloušťka
+3. Spojovací tyče
+4. Základ
+5. Dodatečná vyrovnávací po‐
+dložka
+
+1. Základňa jednotky
+2. Hrúbka vyrovnávania
+3. Spojovacie tyče
+4. Nadácia
+5. Prídavná vyrovnávacia po‐
+dložka
+
+Magyar
+
+Română
+
+български
+
+1. Egység alapzata
+2. Szintezés vastagsága
+3. Kötőrudak
+4. Alapozás
+5. További szintező alátét
+
+1. Bază unitate
+2. Grosime nivelare
+3. Tije de legătură
+4. Fundația
+5. Bailag de nivelare suplimentar
+
+1. Единична основа
+2. Дебелина на нивелиране
+3. Прътове за връзване
+4. Фондация
+5. Допълнителен клин за
+нивелиране
+
+Slovenščina
+
+Hrvatski
+
+Српски
+
+1. Osnova enote
+2. Debelina izravnave
+3. Privezne palice
+4. Temelj
+5. Dodatna izravnalna ploščica
+
+1. Baza jedinice
+2. Debljina niveliranja
+3. Vete šipke
+4. Temelj
+5. Dodatna podloška za niveli‐
+ranje
+
+1. Baza jedinice
+2. Debljina nivelisanja
+3. Šipke za vezivanje
+4. Fondacija
+5. Dodatni podloški za nivelisan‐
+je
+
+Ελληνικά
+
+Türk
+
+Русский
+
+1. Ünite tabanı
+2. Tesviye kalınlığı
+3. Bağlantı çubukları
+4. Temel
+5. Ek tesviye şimi
+
+1. Βάση μονάδας
+2. Πάχος ευθυγράμμισης
+3. Δέστε ράβδους
+4. Θεμέλιο
+5. Πρόσθετη ροδέλα
+ευθυγράμμισης
+
+1. Основание блока
+2. Толщина выравнивания
+3. Тяги
+4. Фундамент
+5. Дополнительная
+регулировочная прокладка
+
+Україна
+
+عربي
+
+1
+.قاعدة
+ 
+الوحدة
+
+2
+.سُمك
+ 
+التسوية
+
+3
+.قضبان
+ 
+الربط
+
+4
+.األساس
+
+5
+.رقاقة
+ 
+ضبط
+ 
+التسوية
+ 
+اإلضافية
+
+1. Основа агрегата
+2. Товщина вирівнювання
+3. Стяжні гвинти
+4. Фундамент
+5. Додаткові регулювальні
+прокладки
+
+Allineamento del giunto • Coupling alignment • Alignement de l'accouplement • Ausrichten der
+Kupplung • Alineación de acoplamiento • Alinhamento do acoplamento • Afstellen van de koppe‐
+ling • Koblingstilpasning • Koplingsjustering • Kopplingsuppriktning • Kytkimen kohdistaminen •
+Tengi stillt • Siduri joondus • Savienojuma salāgošana • Movų lygiuotė • Wyosiowanie sprzęgła •
+Vyrovnání spojky • Zarovnanie spojov • A tengelykapcsoló egytengelyűségének beállítása • Ali‐
+nierea cuplajului • Центроване на съединителя • Poravnava spojke • Poravnanje spojki • Porav‐
+
+APPX
+
+385

@@ -1,0 +1,154 @@
+sv - Översättning av orginal instruktioner
+
+OBS!:
+Se till att kopplingen enkelt kan roteras för hand och
+att det finns ett visst spel mellan tänderna.
+
+OBS!:
+Felaktig justering av enheten kan orsaka allvarlig
+skada på systemet.
+
+1. Skruva loss bultarna som håller fast pumpen och
+motorn i basen.
+2. Lyft pumpen och motorn något.
+3. Sätt in shimsen mellan pump- och motorfoten, på
+en eller flera av de angivna punkterna.
+4. Placera pumpen och motorn på basen och rikta
+in bulthålen.
+5. Dra åt bultarna.
+6. Upprepa justeringskontrollen av kopplingen.
+
+Installation av kopplingsskydd
+
+OBS!:
+Om kopplingen är felinriktad kan den orsaka vibratio‐
+ner, vilket kan leda till för tidigt slitage på enhetens
+roterande komponenter.
+
+VAR FÖRSIKTIG!:
+Kör aldrig pumpen utan att kopplings‐
+skyddet är korrekt installerat.
+
+Kontrollera justeringen av enhetens koppling efter
+följande:
+
+Typ av skydd: trådnät
+För information, se Figur 18 på sidan 386.
+
+• Transport och installation
+• Första starten
+• Nå drifttemperaturen.
+Utför kontrollen även om enheten levererades helt
+monterad på lagerbocken.
+
+1. Placera om skyddet (1) korrekt så att det omger
+pumpaxelns utloppsände och stödringen (3) på
+motorsidan.
+2. Dra åt skruvarna (2).
+Typ av skydd: plåt
+För information, se Figur 19 på sidan 388.
+
+Kontrollera kopplingsuppriktningen med en
+linjal och bladmått
+
+SV
+
+För information om uppriktning av standardkoppling
+(A) och koppling med distans (B), se Figur 27 på
+sidan 397
+
+1. Ta bort kopplingsskyddet.
+
+1. Placera kopplingsskyddets nedre halvskal (2).
+2. Dra åt fästskruvarna på det nedre halvskalet (4).
+3. Öppna och sätt i stöd-/justeringsringen (6) med
+huset nedåt och tryck den axiellt på motorn.
+4. Placera kopplingsskyddets övre halvskal (1).
+5. Dra åt fästskruvarna på det övre halvskalet (3).
+6. Dra åt låsskruvarna på halvskalen (5).
+
+4.3.4  Elinstallation
+
+OBS!:
+Skyddet kan vara ett trådnät (se Figur 18 på si‐
+dan 386) eller en metallplåt (se Figur 19 på sidan
+388)
+
+1. Ta bort skruvarna från kopplingshusets lock.
+
+2. Anslut och dra åt strömkablarna enligt tillämpligt
+kopplingsschema:
+
+För kopplingsscheman, se Figur 21 på sidan 392.
+Diagrammen sitter även på baksidan av kopp‐
+lingshusets lock.
+
+a) Anslut jordledaren.
+
+Se till att jordledaren är längre än fasledarna.
+b) Anslut fasledarna.
+
+3. Montera höljet på kopplingsboxen.
+
+OBS!:
+Dra försiktigt åt kabelpackningsringarna för att
+säkerställa skydd mot att kabeln glider och att
+det kommer in fukt i kopplingsboxen.
+
+4. Om motorn inte är utrustad med automatisk åter‐
+ställning av termoskydd, justera då överbelast‐
+ningsskyddet i enlighet med nedanstående lista.
+
+– Om motorn används med full belastning, ställ
+
+2. Placera en linjal på halvkopplingarna.
+3. Mät avstånden som visas i bilden.
+4. Vrid kopplingen för hand i 90° steg och upprepa
+mätningen.
+5. Upprepa steg 4 flera gånger: den radiella juster‐
+ingen är korrekt om avstånden är samma vid alla
+punkter runt omkretsen, inom den tillåtna avvikel‐
+sen; se Tabell 28 på sidan 399. I annat fall, se
+Uppriktning av kopplingen med shims på sidan
+117.
+6. Kontrollera avståndet mellan halvkopplingarna
+med ett bladmått.
+7. Vrid kopplingen för hand i 90° steg och kontrolle‐
+ra avståndet igen.
+8. Upprepa steg 7 flera gånger: den axiella justering‐
+en är korrekt om avstånden är samma vid alla
+punkter runt omkretsen, inom tillåten avvikelse;
+se Tabell 28 på sidan 399. Annars, Uppriktning av
+kopplingen med shims på sidan 117.
+9. Sätt tillbaka kopplingsskyddet.
+• M5 → 3 Nm (27 lbf·in) ± 15 %
+• M6 → 5 Nm (44 lbf·in) ± 15 %.
+
+då in värdet till nominellt strömvärde för el‐
+pump (dataplattan)
+– Om motorn används med partiell belastning,
+
+Kontroll av kopplingens justering med laser‐
+skena
+
+ställ då in värdet driftsström (exempelvis upp‐
+mätt med en avbitare).
+– Om pumpen har ett stjärntriangelstartsystem,
+
+Du kan kontrollera kopplingens justering med en la‐
+serjusterare: se alignerns instruktionsmanual.
+
+Uppriktning av kopplingen med shims
+
+justera då termoreläet till 58 % av den nomi‐
+nella strömmen eller driftsströmmen (endast
+trefasmotorer).
+
+Se Figur 17 på sidan 384 för information om var
+pumpen och motorn ska anslutas till basen och var
+de medföljande shimsen ska sättas in.
+
+5  Drifttagning, start, drift och
+avstängning
+
+117

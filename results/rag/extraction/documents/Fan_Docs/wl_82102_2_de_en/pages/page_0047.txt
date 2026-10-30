@@ -1,0 +1,43 @@
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+3.3.4.4 Score marks
+Symptoms:
+
+not concentric to one another or are 
+misaligned and are shoved together 
+forcefully. This can be particularly 
+dangerous with large moving masses
+(large shaft is shoved with the bearing
+inner ring and rolling elements into the
+outer ring which has already been 
+pressed into the housing).
+
+Material displacement at rolling ele-
+ment pitch parallel to the axis in race-
+ways and rolling elements of separable
+cylindrical roller bearings or tapered 
+roller bearings. Sometimes several sets of
+such marks displaced to one another by
+a few degress on the circumference. 
+Frequently found on just about 1/3 of
+the circumference and not on the whole
+circumference, fig. 76.
+
+Causes:
+
+Remedial measures:
+– Use suitable mounting aids
+– Avoid misalignment 
+– If possible assemble parts with a slow
+
+rotating movement
+
+During mounting the single ring and
+the ring with the rolling element set are
+
+76: Score marks in the raceway of a cylindrical roller bearing inner ring caused by
+out-of-square insertion into the rolling element set
+
+FAG
+46

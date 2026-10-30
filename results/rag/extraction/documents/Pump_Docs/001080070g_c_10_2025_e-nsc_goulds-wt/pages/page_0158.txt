@@ -1,0 +1,193 @@
+lv - Oriģinālās instrukcijas
+
+7.10  Pump käivitub liiga sageli
+
+Põhjus
+Kõrvaldamise abinõud
+
+Põhjus
+Kõrvaldamise abi‐
+nõud
+
+Ühes või mõlemas alltoodud
+osas on leke:
+
+Parandage või asen‐
+dage katkine osa.
+
+• kontrollige mehaaniliste ti‐
+hendite võimalikke lekkeid;
+• kontrollige imitoru kinnitus‐
+tugevust;
+• vahetage kõik lekkivad kla‐
+pid välja.
+
+Avage klapp.
+
+• imitoru;
+• põhjaklapp või tagasilöö‐
+giklapp.
+
+Väljalaskepoole
+pärssimine on liiga
+suur.
+
+Survemahutis on katkenud
+kile või puudub õhu eeltäide.
+
+Vaadake vastavaid
+juhiseid survemahuti
+juhendist.
+
+Võtke klapid lahti ja puhastage
+need.
+
+Klapid on lukustu‐
+nud suletud või
+osaliselt suletud
+asendis.
+
+7.11  Pump vibreerib ja tekitab liiga palju
+müra
+
+Pump on ummistu‐
+nud.
+
+Võtke ühendust kohaliku müü‐
+gi- ja hooldusesindusega.
+
+Põhjus
+Kõrvaldamise abinõud
+
+Torustik on ummis‐
+tunud.
+
+Kontrollige torud ja puhastage
+need.
+
+Pumba kavitat‐
+sioon
+
+Muutke mootori klemmialusel
+või elektrijuhtpaneelil kahe
+faasi asendit.
+
+Tiiviku pöörlemis‐
+suund on vale.
+(kolmefaasiline ver‐
+sioon)
+
+Vähendage nõutavat voolukiirust
+ON-OFF klapi osalise sulgemise‐
+ga pumbast allavoolu. Probleemi
+püsimisel kontrollige pumba ta‐
+litlustingimusi (nt kõrguste erine‐
+vus, voolutakistus, vedeliku tem‐
+peratuur).
+
+Kontrollige pumba talitlustingi‐
+musi. Vajaduse korral tehke
+järgmist:
+
+Mootori laagrid
+on kulunud.
+
+Võtke ühendust kohaliku müügi- ja
+hooldusesindusega.
+
+Imitõste on liiga
+kõrge või on voolu‐
+takistus imitorudes
+liiga suur.
+
+• vähendage imikõrgust;
+• suurendage imitoru läbi‐
+mõõtu.
+
+Pumbas on
+võõrkehad.
+
+Võtke ühendust kohaliku müügi- ja
+hooldusesindusega.
+
+LV
+
+Tiivik käib vastu
+kulumisrõngast
+
+Võtke ühendust kohaliku müügi- ja
+hooldusesindusega.
+
+7.9  Elektripump peatub ja seejärel pöörleb
+vales suunas
+
+Kontrollige siduri joondust.
+
+Sidur on valesti
+joondatud
+
+Põhjus
+Kõrvaldamise abi‐
+nõud
+
+Siduri paindli‐
+kud elemendid
+on kulunud
+
+Kontrollige, kas esineb kulumise
+märke ja vajaduse korral asenda‐
+ge vastavad osad.
+
+Ühes või mõlemas alltoodud
+osas on leke:
+
+Parandage või asen‐
+dage katkine osa.
+
+Teiste olukordade puhul pöörduge kohaliku müügi-
+ja teenindusesinduse poole.
+
+• imitoru;
+• põhjaklapp või tagasilöö‐
+giklapp.
+
+Imipumbas on õhku.
+Laske õhk välja.
+
+jumu gūšanai vai īpašuma bojājumiem,
+kā arī garantijas anulēšanai.
+
+1  Ievads un informācija par drošību
+
+1.1  Ievads
+
+Rokasgrāmatas mērķis
+
+PAZIŅOJUMS:
+Saglabājiet šo rokasgrāmatu turpmākajam darbam,
+un uzglabājiet to viegli pieejamu iekārtas atrašanās
+vietā.
+
+Šīs rokasgrāmatas mērķis ir sniegt vajadzīgo infor‐
+māciju par sekojošo:
+
+1.2  Drošības terminoloģija un apzīmējumi
+
+Par drošības ziņojumiem
+
+• Uzstādīšana
+• Darbība
+• Tehniskā apkope
+
+Ir ļoti svarīgi, lai jūs pirms izstrādājuma lietošanas
+rūpīgi izlasītu, saprastu un ievērotu drošības ziņoju‐
+mus un noteikumus. Tie tiek izdoti, lai palīdzētu no‐
+vērst šādus apdraudējumus:
+
+UZMANĪBU:
+Pirms izstrādājuma uzstādīšanas un iz‐
+mantošanas uzmanīgi izlasiet šo rokas‐
+grāmatu. Nepareiza izstrādājuma izman‐
+tošana var būt par cēloni fizisku ievaino‐
+
+154

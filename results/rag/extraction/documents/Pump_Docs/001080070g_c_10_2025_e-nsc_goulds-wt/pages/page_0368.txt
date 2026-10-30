@@ -1,0 +1,115 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+F
+G
+
+10
+C
+11
+
+D
+12
+
+N
+24
+
+R
+25
+
+11
+C
+10
+
+B
+30
+
+S
+23
+
+N
+24
+
+R
+25
+
+12
+2
+51
+
+4
+50
+
+W
+53
+
+Z
+52
+
+L
+54
+
+U
+55
+
+F
+Codice • Code • Code • Código • Código • Code • Kode • Kode • Kod • Koodi • Kóði • Kood • Kods • Kodas •
+Kod • Kód • Kód • Kód • Cod • Код • Koda • Kod • Šifra • Κωδικός • Kod • Код • Код • الرمز
+
+G
+Materiale • Matériau • Werkstoff • Material • Material • Materiaal • Materiale • Materiale • Material • Materiaa‐
+li • Efni • Materjal • Materiāls • Medžiaga • Materiał • Materiál • Materiál • Anyag • Material • Материал •
+Material • Materijal • Materijal • Υλικό • Malzeme • Материал • Матеріал • المادة
+
+10
+Ghisa EN-GJL-200 / A48 Classe 30 • Fonte EN-GJL-200 / A48 Classe 30 • Grauguss EN-GJL-200 / A48 Klas‐
+se 30 • Hierro fundido EN-GJL-200 / A48 clase 30 • Ferro fundido EN-GJL-200/A48 Classe 30 • Gietijzer EN-
+GJL-200 / A48 Klasse 30 • Støbejern EN-GJL-200 / A48 klasse 30 • Støpejern EN-GJL-200 / A48 klasse 30 •
+Gjutjärn EN-GJL-200 / A48 klass 30 • Valurauta EN-GJL-200 / A48 Class 30 • Steypujárn EN-GJL-200 / A48
+Flokkur 30 • Malm EN-GJL-200 / A48 klass 30 • Čuguns EN-GJL-200/A48 klase 30 • Ketus EN-GJL-200 /
+A48, 30 klasės • Żeliwo EN-GJL-200 / A48 klasa 30 • Litina EN-GJL-200 / A48 třída 30 • Liatina EN-
+GJL-200/A48 trieda 30 • Öntöttvas, EN-GJL-200/A48, 30. osztály • Fontă EN-GJL-200/A48, Clasa 30 • Чугун
+EN-GJL-200 / A48 клас 30 • Lito železo EN-GJL-200/A48 razred 30 • Lijevano željezo EN-GJL-200 / A48 raz‐
+red 30 • Liveno gvožđe EN-GJL-200 / A48 klasa 30 • Χυτοσίδηρος EN-GJL-200 / A48 Τάξη 30 • Gövde demiri
+EN-GJL-200 / A48 Class 30 • Литой чугун EN-GJL-200 / A48 класс 30 • Литий чавун EN-GJL-200 / A48
+клас 30 • حديد
+ 
+زهر
+ EN-GJL200- / A48 الفئة
+ 30
+
+11
+Ghisa EN-GJL-250 / A48 Classe 35 • Fonte EN-GJL-250 / A48 Classe 35 • Grauguss  EN-GJL-250 / A48 Klas‐
+se 35 • Hierro fundido  EN-GJL-250/A48 Clase 35 • Ferro fundido EN-GJL-250/A48 Classe 35 • Gietijzer  EN-
+GJL-250 / A48 Klasse 35 • Støbejern  EN-GJL-250 / A48 Klasse 35 • Støpejern  EN-GJL-250 / A48 klasse 35
+• Gjutjärn  EN-GJL-250 / A48 klass 35 • Valurauta EN-GJL-250 / A48 Class 35 • Steypujárn EN-GJL-250 / A48
+Flokkur 35 • Malm EN-GJL-250 / A48 klass 35 • Čuguns EN-GJL-250/A48 klase 35 • Ketus EN-GJL-250 /
+A48, 35 klasės • Żeliwo EN-GJL-250 / A48 klasa 35 • Litina EN-GJL-250 / A48 třída 35 • Liatina EN-
+GJL-250/A48 trieda 35 • Öntöttvas, EN-GJL-250/A48, 35. osztály • Fontă EN-GJL-250/A48, Clasa 35 • Чугун
+EN-GJL-250 / A48 клас 35 • Lito železo  EN-GJL-250/A48 razred 35 • Lijevano željezo  EN-GJL-250 / A48
+razred 35 • Liveno gvožđe  EN-GJL-250 / A48 klasa 35 • Χυτοσίδηρος EN-GJL-250 / A48 Τάξη 35 • Gövde
+Demiri EN-GJL-250 / A48 Sınıf 35 • Литой чугун  EN-GJL-250 / A48 класс 35 • Литий чавун EN-GJL-250 /
+A48 клас 35 • حديد
+ 
+زهر
+ EN-GJL-250 / A48 الفئة
+ 35
+
+APPX
+
+12
+Ghisa sferoidale EN-GJS-400–15 / A395, Grado 60–40–15 • Fonte ductile EN-GJS-400–15 / A395, Nuance
+60–40–15 • Kugelgraphit EN-GJS-400–15 / A395, Güte 60–40–15 • Hierro dúctil EN-GJS-400–15 / A395,
+Grado 60–40–15 • Ferro dúctil EN-GJS-400–15/A395, Grau 60–40–15 • Vormbaar ijzer EN-GJS-400–15 /
+A395, Klasse 60–40–15 • Duktilt jern EN-GJS-400–15 / A395, klasse 60–40–15 • Nodularjern EN-GJS-400–
+15 / A395, klassifisering 60–40–15 • Segjärn EN-GJS-400–15 / A395, grad 60–40–15 • Pallografiittivalurau‐
+ta EN-GJS-400–15 / A395, Grade 60–40–15 • Sveigjanlegt járn EN-GJS-400–15 / A395, Gráða 60–40–15 •
+Kõrgtugev malm EN-GJS-400–15 / A395, aste 60–40–15 • Kaļamais čuguns EN-GJS-400–15/A395, klase
+60–40–15 • Tąsusis ketus EN-GJS-400–15 / A395, rūšis 60–40–15 • Żeliwo sferoidalne EN-GJS-400–15 /
+A395, 60–40–15 stopni • Tvárná litina EN-GJS-400–15 / A395, třída 60–40–15 • Kované železo EN-
+GJS-400–15/A395, trieda 60–40–15 • Lágyvas, EN-GJS-400–15/A395, 60–40–15 kategória • Fontă cu gra‐
+fit nodular EN-GJS-400–15/A395, Gradul 60–40–15 • Сферографитен чугун EN-GJS-400–15 / A395, клас
+60–40–15 • Kovno železo EN-GJS-400–15/A395, razred 60–40–15 • Nodularno željezo EN-GJS-400–15 /
+A395, Stupanj 60–40–15 • Nodularno gvožđe EN-GJS-400–15 / A395, Stepen 60–40–15 • Όλκιμος
+σίδηρος EN-GJS-400–15 / A395, βαθμός 60–40–15 • Dövülebilir demir EN-GJS-400–15 / A395, Derece 60–
+
+364

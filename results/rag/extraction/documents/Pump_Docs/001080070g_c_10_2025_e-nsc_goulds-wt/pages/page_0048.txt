@@ -1,0 +1,160 @@
+de - Übersetzung des Originals
+
+– Durchmesser und Anzahl der Fundamentboh‐
+
+rungen
+– Bohrungsabstände
+– Berechnung der Größe und Menge der Zugs‐
+
+nicht korrekt installiert sind: Befolgen Sie die Anwei‐
+sungen in Montage auf Betonfundament auf Seite
+43 und Befestigung der Pumpe auf Seite 43, zusätz‐
+lich zu den Checkliste Rohrleitungssystem auf Seite
+44
+
+Es wird auch empfohlen:
+
+• Prüfen Sie, ob die Pumpe und der Motor sicher
+am Sockel befestigt sind
+• Einsatz von Vibrationsschutzmaterial zwischen
+Sockel und Fundament
+• Wenn die Einheit über einen geschweißten Sockel
+verfügt, füllen Sie die in gezeigten Flächen mit
+BetonAbbildung 25 auf Seite 397.
+
+DE
+
+HINWEIS:
+Füllen Sie den gefalteten Blechsockel nicht Abbil‐
+dung 26 auf Seite 397 mit Beton.
+
+4.3.2  Checkliste Rohrleitungssystem
+
+Prüfen, ob die folgenden Anforderungen erfüllt sind:
+
+tangen mit chemischen Ankern, je nach Mo‐
+dell der Einheit.
+2. Bohren Sie das Fundament und sichern Sie die
+Zugstangen.
+3. Stellen Sie die Einheit auf das Fundament und
+verwenden Sie eine Wasserwaage an der Aus‐
+lassöffnung und der Welle, um sicherzustellen,
+dass sie waagerecht ist.
+Maximal zulässige Toleranz: 0,2 mm/m.
+4. Falls vorhanden, die Entleerungsschrauben, die
+die Saug- und Druckstutzen abdecken, entfernen.
+5. Die Saug- und Druckstutzen an den Rohrleitungen
+ausrichten.
+6. Befestigen Sie das Rohrleitungssystem an der
+Einheit; siehe auch Checkliste Rohrleitungssys‐
+tem auf Seite 44.
+7. Führen Sie bei Bedarf Ausgleichsscheiben zwi‐
+schen Fundament und Sockel ein: Wenn der
+Abstand zwischen den Zugstangen > 800 mm
+beträgt, setzen Sie zwei zusätzliche Ausgleichs‐
+scheiben in der Mitte des Sockels ein. Alle Aus‐
+gleichsscheiben müssen perfekt bündig sein. Sie‐
+he Abbildung 17 auf Seite 384.
+8. Ziehen Sie die Muttern der Spurstange gleichmä‐
+ßig und vollständig fest und stellen Sie sicher,
+dass die Drehmomente in der Tabelle angegeben
+sind.
+
+Mutter
+Drehmoment, Nm (lbf·in)
+
+M12
+60 (44)
+
+• Bei der Montage der Saughöhe muss das Saug‐
+rohr eine steigende Neigung zur Einheit von mehr
+als 2 % aufweisen, um Lufteinschlüsse zu vermei‐
+den.
+• Die Nenndurchmesser des Rohrleitungssystems
+müssen mindestens den Nenndurchmessern der
+Pumpenanschlüsse entsprechen.
+• Stützen Sie das Rohrleitungssystem unabhängig
+ab, um die Einheit nicht zu belasten.
+• Spülen Sie das Rohrleitungssystem, bevor Sie
+es an die Einheit anschließen, um Schweißrück‐
+stände, Ablagerungen und Verunreinigungen zu
+entfernen. Bei Erfordernis ist ein Filter zu instal‐
+lieren.
+
+M16
+120 (89)
+
+M20
+200 (148)
+
+M24
+350 (258)
+
+VORSICHT:
+Rückstände von Schweißarbeiten oder
+andere Verunreinigungen in den Rohrlei‐
+tungen führen zu Schäden in der Pumpe.
+
+M27
+530 (391)
+
+4.3.3  Ausrichten der Kupplung
+
+Hinweis:
+
+Ausbau des Kupplungsschutzes
+
+• Für das Zementieren der Grundplatte wird Beton
+mit geringer Schrumpfung empfohlen.
+
+Montage der Pumpe auf einem Sockel
+
+VORSICHT:
+Betreiben Sie die Pumpe nie ohne den
+ordnungsgemäß installierten Kupplungs‐
+schutz.
+
+Vergewissern Sie sich, dass die folgende Punkte ein‐
+gehalten wurden:
+
+Schutzart: Drahtgitter
+Weitere Informationen entnehmen Sie bitte Abbil‐
+dung 18 auf Seite 386.
+
+1. Schrauben (2) herausdrehen.
+2. Entfernen Sie das Drahtgitter. (1).
+Schutzart: Blech
+Weitere Informationen entnehmen Sie bitte Abbil‐
+dung 19 auf Seite 388.
+
+• Stabiler Sockel, der sich während des Betriebs
+nicht verdreht oder vibriert (Resonanzen).
+• Die Montageflächen der Pumpenfüße und des
+Motors auf dem Sockel müssen plan sein (ma‐
+schinelle Zurichtung wird empfohlen).
+• Sichere Befestigung von Pumpe und Motor.
+• Je nach verwendeter Kupplung ausreichender
+Abstand zwischen Pumpe und Motorwelle.
+• Zwischen Pumpe und Grundrahmen muss eine
+ausreichende Ausgleichsscheibe vorhanden sein,
+damit im Falle eines Austauschs die gleiche Hö‐
+he zwischen Boden und Mittellinie eingestellt
+werden kann (empfohlene vertikale Einstellung
+4-6 mm
+
+Vibrationsreduzierung
+
+1. Lösen Sie die Verschlussschrauben der Halb‐
+schalen (5).
+2. Lösen Sie die Befestigungsschrauben, mit denen
+die obere Schale (3) befestigt ist.
+3. Entfernen Sie die obere Schale des Kupplungs‐
+schutzes (1).
+4. Lösen Sie die Befestigungsschrauben, mit denen
+die untere Schale (4) befestigt ist.
+
+Die Einheit und der Flüssigkeitsfluss im System kön‐
+nen Vibrationen erzeugen, die verstärkt werden kön‐
+nen, wenn die Einheit oder das Rohrleitungssystem
+
+44

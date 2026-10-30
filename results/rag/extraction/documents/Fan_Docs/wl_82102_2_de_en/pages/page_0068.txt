@@ -1,0 +1,52 @@
+Other means of inspection at FAG
+
+Scanning electron microscope investigations
+
+4.5.Scanning electron microscope
+investigations (SEM)
+
+tion of raceways damaged by wear or the
+passage of current, fractured areas, for-
+eign particle indentations, and material
+inclusions, figs. 112a, b and c.
+
+With the usual surface uneveness of 
+damaged rolling bearing raceways, 
+photos can only be enlarged sharply de-
+fined up to 50 fold. This obstacle in
+light-optical inspection of surfaces can
+be bypassed with the very short-wave 
+electron beam in a scanning electron
+microscope (SEM). It makes the detec-
+tion of details several thousand times
+greater, fig. 111.
+
+When investigating damage a stereo-
+microscope is usually applied in addition
+to the naked eye to detect the individual
+failure causes. However, the damage-
+related details are sometimes tiny. Due
+to the relatively large wave length of 
+visible light, the definition of the image
+of light-optical projections is limited.
+
+The scanning electron microscope is
+therefore a vital aid for the visual inspec-
+
+112: SEM photos of surface structure
+in various sizes.
+a: raceway ok
+b: hard foreign particle indenta-
+
+tions
+c: fatigue damage commencing
+
+111: Scanning electron microscope
+a
+
+b
+
+c
+
+67
+FAG

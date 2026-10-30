@@ -1,0 +1,200 @@
+is - Þýðing á upprunalegu
+
+Syy
+Korjaustoimi
+
+7.7  Sähköpumppu käynnistyy, mutta
+järjestelmän jäännösvirtalaite (RCD)
+aktivoituu
+
+Vuoto yhdessä tai molemmissa
+seuraavista komponenteista:
+
+Korjaa tai vaihda
+viallinen kompo‐
+nentti.
+
+Syy
+Korjaustoimi
+
+• Imuputki
+• Pohjaventtiili tai tarkistus‐
+venttiili
+
+Maavuoto Tarkista sähköjärjestelmän komponent‐
+
+tien eristys.
+
+Imuputkessa on ilmaa.
+Poista ilma.
+
+7.10  Pumppu käynnistyy liian usein
+
+7.8  Pumppu toimii mutta tuottaa liian vähän
+tai ei lainkaan nestettä
+
+Syy
+Korjaustoimi
+
+Syy
+Korjaustoimi
+
+Vuoto yhdessä tai molemmissa
+seuraavista komponenteista:
+
+• Poista ilma
+
+Korjaa tai vaihda
+viallinen kompo‐
+nentti.
+
+Pumpussa tai put‐
+kistossa on ilmaa.
+
+• Imuputki
+• Pohjaventtiili tai tarkistus‐
+venttiili
+
+Pumppua ei ole esi‐
+täytetty oikein.
+
+Pysäytä pumppu ja suorita
+esitäyttö uudelleen.
+Jos ongelma jatkuu:
+
+Painesäiliössä on puhjennut kal‐
+vo tai ei ilman esitäyttöä.
+
+Katso painesäili‐
+ön ohjeita.
+
+7.11  Pumppu tärisee ja tuottaa liikaa melua
+
+• Tarkista, että mekaaninen
+tiiviste ei vuoda.
+• Tarkista, että imuputken
+tiukkuus on oikea.
+• Vaihda vuotavat venttiilit.
+
+Syy
+Korjaustoimi
+
+Avaa venttiili.
+
+Päästöpuolta on ku‐
+ristettu liikaa.
+
+Pumpun kavitaa‐
+tio
+
+IS
+
+Pura ja puhdista venttiilit.
+
+Venttiilit ovat luk‐
+kiutuneet kiinni tai
+osittain kiinni.
+
+Pienennä tarvittavaa virtausno‐
+peutta sulkemalla ON-OFF-vent‐
+tiili osittain pumpun jälkeen. Jos
+ongelma ei poistu, tarkista pum‐
+pun käyttöolosuhteet (esim. kor‐
+keusero, virtausvastus, nesteen
+lämpötila).
+
+Pumppu on tukkeu‐
+tunut.
+
+Ota yhteyttä paikalliseen
+myynti- ja huoltoedustajaan.
+
+Tarkista ja puhdista putket.
+
+Moottorin laake‐
+rit ovat kuluneet.
+
+Ota yhteyttä paikalliseen myynti-
+ja huoltoedustajaan.
+
+Putkisto on tukkeu‐
+tunut.
+
+Ota yhteyttä paikalliseen myynti-
+ja huoltoedustajaan.
+
+Pumpun sisällä
+on vieraita esinei‐
+tä.
+
+Vaihda kahden vaiheen paik‐
+ka moottorin riviliittimessä tai
+sähköohjauspaneelissa.
+
+Juoksupyörän pyö‐
+rimissuunta on vää‐
+rä.
+(kolmivaiheversio)
+
+Ota yhteyttä paikalliseen myynti-
+ja huoltoedustajaan.
+
+Juoksupyörä
+hankaa kulumis‐
+rengasta
+
+Tarkista kytkimen suuntaus.
+
+Tarkista pumpun toimintaolo‐
+suhteet. Tee tarvittaessa seu‐
+raavat asiat:
+
+Kytkin suunnattu
+väärin
+
+Imukorkeus on liian
+suuri, tai imuput‐
+kien virtausvastus
+on liian suuri.
+
+• Pienennä imukorkeutta
+• Suurenna imuputken hal‐
+kaisijaa.
+
+Kytkimen jousta‐
+vat elementit ku‐
+luneet
+
+Tarkista ja vaihda kyseiset ele‐
+mentit, jos niissä on merkkejä
+kulumisesta.
+
+7.9  Sähköpumppu pysähtyy ja pyörii sitten
+väärään suuntaan
+
+Kysy muussa tapauksessa neuvoa paikalliselta
+myynti- ja huoltoedustajalta.
+
+1  Inngangur og öryggi
+
+1.1  Inngangur
+
+Markmiðið með þessari handbók
+
+VARÚÐ:
+Lesið þessa handbók vandlega áður en
+varan er sett upp og hún notuð. Röng
+notkun vörunnar getur valdið líkamstjóni
+og skemmdum á eignum ásamt því ad
+ógilda ábyrgðina.
+
+Markmiðið með þessari handbók er að veita nauðs‐
+ynlegar upplýsingar fyrir:
+
+ATHUGA:
+
+• Uppsetning
+• Rekstur
+• Viðhald
+
+132

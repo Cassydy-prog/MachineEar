@@ -1,0 +1,163 @@
+sr - Prevod originalnog
+
+Opasnost od električne struje:
+
+smanji nazivna snaga motora ili da se motor
+zameni jačim.
+Za informacije o tome na koju vrednost smanjiti na‐
+zivnu snagu motora, pogledajte Tabela 11 na stranici
+379.
+
+Položaji pumpe i zazor
+
+• Pobrinite se da sve spojeve formiraju
+kvalifikovani tehničari za instalaciju i
+da su u skladu sa propisima na snazi.
+• Pre početka rada na jedinici, uverite
+se da su jedinica i kontrolna tabla izo‐
+lovani od napajanja i da se ne mogu
+napajati. To se odnosi i na kontrolno
+kolo.
+
+Uzemljenje
+
+• Da biste obezbedili odgovarajuću ventilaciju: ≥
+100 mm (4 in)
+• Da biste omogućili pregled i uklanjanje motora: ≥
+300 mm (12 in)
+• Ako je raspoloživi prostor manji, pogledajte teh‐
+nički katalog.
+
+Opasnost od električne struje:
+
+Instalacija iznad izvora tečnosti (usisni pod‐
+izač)
+
+Teorijska maksimalna visina usisavanja bilo koje
+pumpe je 10,33 m. U praksi, na usisni kapacitet pum‐
+pe utiče sledeće:
+
+• Temperatura tečnosti
+• Elevacija iznad nivoa mora (u otvorenom siste‐
+mu)
+• Pritisak sistema (u zatvorenom sistemu)
+• Otpornost cevi
+• Sopstvena unutrašnja otpornost na protok pum‐
+pe
+• Razlika u visini
+Sledeća jednačina koristi se za izračunavanje maksi‐
+malne visine iznad nivoa tečnosti na koju se pumpa
+može instalirati:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+Barometarski pritisak u barima (u zatvore‐
+nom sistemu pokazuje pritisak u sistemu)
+
+• Uvek povezujte spoljni zaštitni pro‐
+vodnik sa priključkom za uzemljenje
+pre postavljanja drugih električnih ve‐
+za.
+• Morate prizemljiti (zemlja) svu elek‐
+tričnu opremu. Ovo se odnosi na
+opremu pumpe, vozača i bilo koju
+opremu za praćenje. Ispitajte izvod
+uzemljenja da biste proverili da li je
+ispravno povezan.
+• Ako je kabl motora greškom otkinut,
+provodnik zemlje (zemlja) treba da
+bude poslednji provodnik koji se oslo‐
+bodio sa svog terminala. Proverite da
+li je provodnik uzemljenja duži od pro‐
+vodnika faze. To se odnosi na oba
+kraja kabla motora.
+• Dodajte dodatnu zaštitu od smrto‐
+nosnog šoka. Instalirajte diferencijal‐
+ni prekidač visoke osetljivosti (30
+mA) [uređaj za rezidualnu struju
+(RCD)].
+
+NPSH
+Vrednost unutrašnje otpornosti na protok
+pumpe u metrima
+
+4.1  Zahtevi u vezi objekta
+
+4.1.1  Lokacija pumpe
+
+Hf
+Ukupni gubici u metrima uzrokovani prola‐
+skoom tečnosti u usisnu cev pumpe
+
+Hv
+Pritisak pare u metrima koji odgovara tempe‐
+raturi tečnosti od T °C
+
+0,5
+Preporučeni sigurnosni razmak (m)
+
+OPASNOST:
+Ne koristite ovu jedinicu u okruženjima
+koja mogu sadržati zapaljive/eksplozivne
+ili hemijski agresivne gasove ili prahove.
+
+Z
+Maksimalna visina na koju se pumpa može
+instalirati (m)
+
+Smernice
+
+Obratite pažnju na sledeće smernice u vezi lokacije
+proizvoda:
+
+(pb*10,2 - Z) mora uvek biti pozitivan broj.
+Za više informacija pogledajte: Slika 12 na stranici
+380.
+
+SR
+
+NAPOMENA:
+Nemojte prelaziti kapacitet usisavanja pumpe, jer to
+može uzrokovati kavitaciju i oštetiti pumpu.
+
+4.1.2  Zahtevi u vezi cevovoda
+
+Mere predostrožnosti
+
+UPOZORENJE:
+
+• Pobrinite se da nikakve prepreke ne ometaju nor‐
+malan protok vazduha za hlađenje koji dovodi
+ventilator motora.
+• Uverite se da je područje instalacije zaštićeno od
+bilo kakvih curenja tečnosti ili poplava.
+• Ako je moguće, postavite pumpu malo više iznad
+nivoa poda.
+• Ambijentalna temperatura mora biti između 0°C
+(+32°F) i +40°C (+104°F).
+• Relativna vlažnost okolnog vazduha mora biti
+manja od 50% na +40°C (+104°F).
+• Kontaktirajte Službu prodaje i servisa u sledećim
+slučajevima:
+
+– Uslovi relativne vlažnosti vazduha nisu u okvi‐
+
+ru smernica.
+– Temperatura prostorije prelazi +40°C
+
+• Koristite cevi prilagođene maksimal‐
+nom radnom pritisku pumpe. Ako to
+ne učinite, može doći do pucanja si‐
+stema, uz opasnost od povrede.
+• Pobrinite se da sve spojeve formiraju
+kvalifikovani tehničari za instalaciju i
+da su u skladu sa propisima na snazi.
+
+(+104°F).
+– Jedinica se nalazi više od 1000 m (3000 ft)
+
+iznad nivoa mora. Može biti potrebno da se
+
+NAPOMENA:
+
+277

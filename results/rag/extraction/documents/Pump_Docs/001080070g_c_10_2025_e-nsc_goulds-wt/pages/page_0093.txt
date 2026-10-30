@@ -1,0 +1,148 @@
+da - Oversættelse af original instruktioner
+
+Tilsigtet brug
+
+Pumpen er egnet til:
+
+motor, skal være fastgjort og transporteres som vist
+i Figur 6 på side 368, Figur 7 på side 368 og Figur 8
+på side 368.
+
+Enhed uden motor
+
+• Vandforsyning og vandbehandling
+• Koldt- og varmtvandsforsyning i industri- og byg‐
+geservices
+• Vandings- og sprinklersystemer
+• Varmesystemer
+• Brandbekæmpelsesprogrammer
+Yderligere brug af ekstra materiale:
+
+• Distriktopvarmning
+• Generel industri
+
+ADVARSEL:
+I henhold til maskindirektivet
+2006/42/EC, vil en pumpe og en motor,
+der købes separat og derefter sammen‐
+kobles, resultere i en ny maskine. Perso‐
+nen, der foretager koblingen, er ansvarlig
+for alle sikkerhedsaspekter i den kombi‐
+nerede enhed og CE-mærkningen.
+
+Forkert brug
+
+2.3  Retningslinjer for opbevaring
+
+Opbevaringsplacering
+
+ADVARSEL:
+Forkert brug af pumpen kan resultere i
+farlige tilstande, som kan forårsage per‐
+sonskade og skade på udstyr.
+
+Produktet skal opbevares på et afdækket og tørt
+sted uden varme, snavs og vibrationer.
+
+Ved ukorrekt brug af produktet bortfalder garantien.
+Eksempler på ukorrekt brug:
+
+DA
+
+BEMÆRKNING:
+Beskyt produktet mod fugt, varmekilder og mekanisk
+skade.
+
+BEMÆRKNING:
+Anbring ikke tung vægt på det indpakkede produkt.
+
+• Væsker, der ikke er kompatible med pumpekon‐
+struktionsmaterialerne.
+• Farlige væsker (som f.eks. giftige, eksplosive, an‐
+tændelige eller korrosive væsker)
+• Drikkelige væsker, der ikke er vand (for eksempel
+vin eller mælk)
+Eksempler på ukorrekt installation:
+
+2.3.1  Langtidsopbevaring
+
+Hvis enheden opbevares i mere end 6 måneder, gæl‐
+der følgende krav:
+
+• Farlige lokationer (som f.eks. eksplosive eller
+korrosive atmosfærer).
+• Lokation, hvor lufttemperaturen er meget høj, el‐
+ler der er meget lidt ventilation.
+• Udendørs installationer, hvor der ikke er beskyt‐
+telse mod regn eller frysetemperaturer.
+
+FARE:
+Brug ikke pumpen til at håndtere brand‐
+bare og/eller eksplosive væsker.
+
+BEMÆRKNING:
+
+• Opbevares på et overdækket og tørt sted.
+• Opbevar enheden fri for varme, snavs og vibratio‐
+ner.
+• Rotér akslen med hånden mange gange i mindst
+tre måneder.
+Der henvises til producenterne af drevenheden og
+koblingen for procedurerne til længere tids opbeva‐
+ring.
+For spørgsmål om behandling ved længere tids op‐
+bevaring bedes du kontakte den lokale salgs- og ser‐
+vicerepræsentant.
+
+Omgivende temperatur
+
+• Brug ikke denne pumpe til at håndtere væsker,
+der indeholder slidende, faste eller fibrøse ele‐
+menter.
+• Brug ikke pumpen til gennemstrømningshastig‐
+heder på datapladen.
+
+Produktet skal gemmes ved en omgivende tempera‐
+tur fra -5°C til +40°C (23°F til 104°F).
+
+Specialprogrammer
+
+3  Produktbeskrivelse
+
+Kontakt den lokale salgs- og servicerepræsentant i
+de følgende tilfælde:
+
+3.1  Pumpedesign
+Pumpen er en horisontal pumpe med sneglegangs‐
+kabinet, der er tæt koblet til standard elektriske stan‐
+dardmotorer.
+Pumpen kan bruges til håndtering:
+
+• Hvis densiteten og/eller viskositetsværdien af
+den pumpede væske overskrider værdien af vand,
+som f.eks. vand med glykol; er det måske nød‐
+vendigt med en stærkere motor.
+• Hvis den pumpede væske er kemisk behandlet
+(for eksempel blødgjort, deioniseret, deminerali‐
+seret osv.).
+• Enhver situation, der er anderledes end dem, der
+er beskrevet, og relaterer til væskens natur.
+
+• Koldt eller varmt vand
+• Varme væsker
+• Væsker, der ikke er kemisk og mekanisk aggres‐
+sive over for pumpematerialerne.
+Produktet kan leveres som en pumpeenhed (pumpe
+og elektrisk motor) eller kun som pumpe.
+
+3.2  benævnelse
+Se Figur 2 på side 351 for en forklaring af benævnel‐
+ses-koden for pumpen og et eksempel.
+
+3.3  Navneplade
+
+BEMÆRKNING:
+Hvis du har købt en pumpe uden motor, skal du sikre,
+at motoren er egnet til kobling til pumpen.
+
+89

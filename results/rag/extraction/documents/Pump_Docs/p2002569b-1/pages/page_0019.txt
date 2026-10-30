@@ -1,0 +1,57 @@
+Figure 9- Setting baseplate and grouting
+
+5. Check the alignment after the foundation bolts 
+are tightened.
+6. Approximately 14 days after the grout has been
+	
+poured or when the grout has thoroughly dried, 
+apply an oil base paint to the exposed edges of the 
+grout to prevent air and moisture from coming in 
+contact with the grout.
+
+Suction and discharge piping
+
+General
+
+the piping system they must be installed beyond the 
+piping supports closest to the pump. Tie bolts should 
+be used with expansion joints to prevent pipe strain. 
+Do not install expansion joints next to the pump or 
+in any way that would cause a strain on the pump 
+resulting from system pressure changes. lt is usually 
+advisable to increase the size of both suction and 
+discharge pipes at the pump connections to decrease 
+the loss of head from friction.
+Install piping as straight as possible, avoiding 
+unnecessary bends. Where necessary, use 45-degree 
+or long sweep 90-degree fitting to decrease friction 
+losses.
+
+When installing the pump piping, be sure to observe 
+the following precautions:
+
+Piping should always be run to the pump.
+
+Make sure that all piping joints are air-tight.
+Where flanged joints are used, assure that inside
+diameters match properly.
+
+Do not move pump to pipe. This could make final
+alignment impossible.
+
+Remove burrs and sharp edges when making up 
+joints.
+
+Do not "spring" piping when making any connections.
+
+Provide for pipe expansion when hot fluids are to be
+pumped.
+
+Both the suction and discharge piping should be
+independently supported near the pump and 
+properly aligned so that no strain is transmitted to the 
+pump when the flange bolts are tightened. Use pipe 
+hangers or other supports at necessary intervals to 
+provide support. When expansion joints are used in
+
+19

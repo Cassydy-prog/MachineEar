@@ -1,0 +1,146 @@
+fr - Instructions initiales
+
+4. Dévisser les vis de fixation de la demi-coque infé‐
+rieure (4).
+5. Déposer la demi-coque inférieure de la protection
+d'accouplement (2).
+6. Ouvrir et soulever la bague de support/réglage
+(6).
+
+Vérification et alignement de l'accouplement
+
+L'unité et le débit de liquides dans le système peu‐
+vent générer des vibrations, qui peuvent être ampli‐
+fiées si l'unité ou le système de canalisations ne
+sont pas installés correctement : respecter les ins‐
+tructions dans Installation sur une fondation en bé‐
+ton en page 31 et Fixation de la pompe en page 31,
+en plus des Liste de contrôle du système de canali‐
+sations en page 32
+
+Il est également recommandé de :
+
+REMARQUE:
+Vérifier à nouveau l'alignement de l'accouplement
+dans des conditions de fonctionnement à chaud.
+
+FR
+
+REMARQUE:
+S'assurer que l'accouplement peut être facilement
+tourné à la main et qu'il y a un jeu entre les dents.
+
+• Vérifier que la pompe et le moteur sont solide‐
+ment fixés au socle
+• Insérer un matériau anti-vibration entre le socle
+et la fondation
+• Si le groupe est équipé d'une base soudée, rem‐
+plir de béton les espaces indiqués dans Figure 25
+en page 397.
+
+REMARQUE:
+Ne pas remplir de Figure 26 en page 397 béton le
+socle en tôle pliée.
+
+REMARQUE:
+Un alignement incorrect du groupe peut gravement
+endommager le système.
+
+4.3.2  Liste de contrôle du système de
+canalisations
+
+Vérifier le respect des points suivants :
+
+REMARQUE:
+Si l'accouplement est mal aligné, cela peut causer
+des vibrations, ce qui peut conduire à une usure pré‐
+maturée des composants rotatifs du groupe.
+
+Vérifier l'alignement de l'accouplement de l'unité
+après les points suivants :
+
+• Transport et installation
+• Mise en route initiale
+• Atteindre la température de fonctionnement.
+Effectuer la vérification même si l'unité a été livrée
+entièrement assemblée sur le cadre.
+
+Vérification de l'alignement de l'accouple‐
+ment à l'aide d'une règle et d'une jauge
+d'épaisseur
+
+• En cas d'installation de levage d'aspiration, pour
+éviter les poches d'air, la canalisation d'aspiration
+doit avoir une pente croissante vers l'unité dépas‐
+sant 2 %.
+• Les diamètres nominaux du système de canalisa‐
+tions doivent être au moins égaux aux diamètres
+nominaux des orifices de pompe.
+• Soutenir le système de canalisations indépen‐
+damment, de façon à ne pas surcharger le grou‐
+pe.
+• Rincer le système de canalisations avant de les
+raccorder à l'unité, pour éliminer tout résidu de
+soudure, dépôt et impureté. Si nécessaire, instal‐
+ler un filtre.
+
+Pour plus d'informations sur l'alignement d'un ac‐
+couplement standard (A) et d'un accouplement avec
+entretoise (B), voir Figure 27 en page 397
+
+1. Déposer la protection d'accouplement.
+
+ATTENTION:
+Les perles de soudure, le tartre et au‐
+tres impuretés dans les canalisations
+peuvent endommager la pompe.
+
+4.3.3  Alignement de l'accouplement
+
+REMARQUE:
+La protection peut être en treillis métallique (voir
+Figure 18 en page 386) ou en tôle métallique
+(voir Figure 19 en page 388)
+
+Dépose de la protection d'accouplement
+
+ATTENTION:
+Ne jamais faire fonctionner une pompe
+sans que le protecteur d'accouplement
+ait été correctement installé.
+
+Type de protection : treillis métallique
+Pour plus d'informations, voir Figure 18 en page 386.
+
+1. Dévisser les vis (2).
+2. Déposer le grillage. (1).
+Type de protection : tôle métallique
+Pour plus d'informations, voir Figure 19 en page 388.
+
+2. Placer une règle sur les demi-accouplements.
+3. Mesurer les distances indiquées sur le schéma.
+4. Tourner l'accouplement à la main par incréments
+de 90° et répéter la mesure.
+5. Répéter l'étape 4 plusieurs fois : l'alignement ra‐
+dial est correct si les distances sont les mêmes
+à tous les points autour de la circonférence, dans
+l'écart autorisé ; voir Tableau 28 en page 399.
+Sinon, voir Alignement de l'accouplement avec
+des cales en page 33.
+6. Vérifier la distance entre les demi-accouplements
+à l'aide d'une jauge d'épaisseur.
+7. Tourner l'accouplement à la main par incréments
+de 90° et vérifier à nouveau la distance.
+8. Répéter l'étape 7 plusieurs fois : l'alignement
+axial est correct si les distances sont les mêmes
+à tous les points autour de la circonférence, dans
+l'écart autorisé ; voir Tableau 28 en page 399.
+
+1. Dévisser les vis de fermeture des demi-coquilles
+(5).
+2. Dévisser les vis de fixation de la demi-coquille
+supérieure (3).
+3. Déposer la demi-coque supérieure de la protec‐
+tion d'accouplement (1).
+
+32

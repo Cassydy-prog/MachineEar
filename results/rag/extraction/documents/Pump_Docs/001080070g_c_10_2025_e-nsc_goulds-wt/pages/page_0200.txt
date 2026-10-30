@@ -1,0 +1,173 @@
+cs - Překlad originálu
+
+Instalační oblast
+
+Typ čerpadla
+Ochrana
+
+Třífázové elektrické
+čerpadlo34
+– Tepelná ochrana
+
+Nainstalujte jednotku na betonovou nebo kovovou
+základnu dostatečně silnou, aby byla zajištěna trvalá
+a pevná podpěra. Postupujte podle požadavků v od‐
+dílu Umístění čerpadla na straně 194.
+
+(musí být dodána
+montážní firmou)
+– Ochrana proti zkra‐
+
+Instalace na betonové základy
+
+tu (musí být dodána
+montážní firmou)
+
+Základní požadavky
+
+• Ovládací panel musí být vybaven ochranou před
+chodem nasucho, do které je připojen tlakový spí‐
+nač, plovákový spínač, čidla nebo jiná vhodná za‐
+řízení.
+• Pro použití na sací straně čerpadla jsou doporu‐
+čena následující zařízení:
+
+– Pokud je kapalina čerpána z vodní soustavy,
+
+použijte tlakový spínač.
+– Pokud je kapalina čerpána ze zásobníku nebo
+
+nádrže, použijte plovákový spínač nebo plová‐
+kové snímače.
+• Pokud jsou použita tepelná relé, doporučuje se
+použít relé, která jsou citlivá na výpadek fáze.
+
+• Beton musí mít odolnost proti stlačení C12/15 a
+splňovat požadavky expoziční třídy XC1 podle EN
+206-1
+• Velikosti musí odpovídat velikostem nosné desky
+jednotky
+• Základní hmotnost musí být ≥ 1,5násobek hmot‐
+nosti jednotky (≥ 5násobek hmotnosti jednotky,
+pokud je vyžadován tišší provoz)
+• Povrch by měl být co nejrovnější a nejrovnější
+• Sklon musí být ≤ 1 mm/m.
+Další pokyny naleznete v dokumentu č. 001080247X:
+pro stažení naskenujte QR kód uvedený v Obrázek 17
+na straně 384.
+
+Kontrolní seznam pro motor
+
+Upevnění čerpadla
+
+UPOZORNĚNÍ:
+
+Příklady vertikálních instalací naleznete na Obrázek
+15 na straně 383.
+1. Viz technický katalog pro:
+– Průměr a počet základních otvorů
+– Vzdálenosti otvorů
+– Výpočet velikosti a množství spojovacích tyčí
+
+• Pokud je používán jiný než standardní
+typ motoru, přečtěte si provozní poky‐
+ny, abyste se ujistili, že je motor vyba‐
+ven ochranným zařízením.
+• Je-li motor vybaven automatickými
+tepelnými chrániči, pamatujte na rizi‐
+ko neočekávaného spuštění v souvi‐
+slosti s přetížením. Nepoužívejte ta‐
+kové motory v protipožárních aplika‐
+cích.
+
+OZNÁMENÍ:
+
+CS
+
+• Používejte pouze dynamicky vyvážené motory
+s polovičním klínem v zakončení hřídele (IEC
+60034-14) a s normální intenzitou vibrací (N).
+• Síťové napětí a kmitočet musí souhlasit se speci‐
+fikacemi na typovém štítku.
+
+Motory obecně pracují s těmito tolerancemi síťového
+napájení:
+
+Frekvence (Hz)
+Fáze (~)
+Jmenovité na‐
+pětí (V, ± %)
+
+50
+1
+220–240 ± 6
+
+3
+230/400 ± 10
+
+s chemickými kotvami v závislosti na modelu
+jednotky.
+2. Vyvrtejte základ a zajistěte spojovací tyče.
+3. Umístěte jednotku na základ a použijte vodováhu
+na vypouštěcím portu a hřídeli, abyste se ujistili,
+že je vodováha.
+Maximální přípustná tolerance: 0,2 mm/m.
+4. Pokud jsou přítomny zátky pokrývající sací a vy‐
+pouštěcí porty, odstraňte je.
+5. Vyrovnejte sací a vypouštěcí otvory s potrubím.
+6. Připevněte potrubní systém k jednotce; viz také
+Kontrolní seznam potrubního systému na straně
+197.
+7. V případě potřeby vložte vyrovnávací podložky
+mezi základ a základnu: pokud je vzdálenost
+mezi spojovacími tyčemi > 800 mm, vložte do
+středu základny dvě další podložky. Všechny pod‐
+ložky musí být dokonale zarovnané. Viz část Ob‐
+rázek 17 na straně 384.
+8. Rovnoměrně a úplně utáhněte matice spojovací
+tyče a ujistěte se, že utahovací momenty odpoví‐
+dají údajům uvedeným v tabulce.
+
+400/690 ± 10
+
+60
+1
+220–230 ± 6
+
+Matice
+Točivý moment, Nm
+(lbf·in)
+
+3
+220/380 ± 5
+
+M12
+60 (44)
+
+380/660 ± 10
+
+M16
+120 (89)
+
+M20
+200 (148)
+
+Použijte kabely se 3 vodiči (2 + uzemnění) pro jed‐
+nofázové verze a se 4 vodiči (3 + uzemnění) pro
+třífázové verze.
+
+M24
+350 (258)
+
+M27
+530 (391)
+
+4.3  Instalace čerpadla
+
+4.3.1  Mechanická instalace
+
+34
+tepelného relé s třídou vypínání 10A + pojistky aM (spouštění motoru) nebo ochrana motoru magneto-te‐
+plotním spínačem se spouštěcí třídou 10A.
+
+196

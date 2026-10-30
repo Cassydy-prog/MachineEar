@@ -1,0 +1,165 @@
+Section 3. The Economics of Improving Pumping Systems
+
+200
+
+Performance Curve
+
+180
+
+160
+
+140
+
+Use this line if the total pump 
+head is known.
+Efﬁciency (%)
+
+BEP
+
+Head
+
+facilities, line voltage drops with increases in 
+power usage. A calculation example is shown in 
+Case II in the box titled “Direct Measurement.” 
+This calculation is also for a motor with a 
+constant load.
+
+70
+
+120
+
+(ft)
+
+Efﬁciency
+
+60
+
+100
+
+50
+
+15
+
+80
+
+40
+
+60
+
+30
+
+10
+
+bhp
+
+40
+
+20
+
+bhp
+
+5
+
+10
+
+20
+
+Use this line if the
+ﬂow rate is known.
+
+0 
+0
+
+0
+
+Direct measurement of motor current is not 
+always practical, however. Hot measurements of 
+motor current pose safety risks for workers, and 
+these measurements might not be feasible in an 
+industrial environment where power connections 
+are exposed to moisture or contaminants.
+
+0 
+50 
+100 
+150 
+200 
+250 
+300
+
+Flow (gpm)
+
+Figure 21. Using a Pump Performance Curve to Determine 
+Power Draw
+
+larly true for pumps that have relatively flat 
+performance curves, in which a small difference 
+in head makes a big difference in flow and bhp.
+
+Using Pump Curves. Another method of deter-
+mining a pump’s power consumption is to record 
+the pressure readings associated with the pump’s 
+operation and use its performance curve to 
+determine the corresponding brake horsepower. 
+Pump performance curves use total head to 
+indicate the pump output; consequently, this 
+method requires pressure instrumentation on the 
+suction and discharge sides of a pump and 
+correction for the velocity head.
+
+If the system gauge does not have the required 
+precision, a test gauge should be installed. In 
+many systems, the pipe fittings used for pressure 
+gauges have secondary connection ports to 
+accommodate calibration equipment. These ports 
+are well suited for a separate test gauge, which 
+is more accurate than the system gauge.
+
+Once the pressure on the discharge and suction 
+sides of a pump are known, the engineer can 
+calculate the total head developed by the pump. 
+This corresponds to a horsepower reading, as 
+shown in Figure 21.
+
+Using pump curves to estimate a pump’s power 
+consumption can be inaccurate and should be 
+a last resort, understanding that actual power 
+consumption may be as much as 20% greater 
+or 10% less than estimated. Increases in the 
+clearance in wear rings or other internal 
+restriction devices and wear of the impeller and 
+casing can lead to inaccuracies.
+
+To calculate annual energy costs, see the box on 
+page 61 titled “Using a Pump Performance Curve 
+to Determine Annual Electricity Costs.” This 
+approach might be limited, however, because in 
+many applications there is no gauge on the suction 
+side of the pump. Unless a reasonable assumption 
+of suction pressure is available (for example, the 
+height of a fluid level in a vented tank that feeds 
+directly into the pump suction), the total head 
+developed by the pump cannot be known.
+
+Unless the pump was tested in the factory, 
+standard performance curves represent typical 
+performance. As a result of normal manufacturing 
+variations, actual power measurements may be 
+5% higher or lower.
+
+To use the pump curve, the engineer must convert 
+the total pressure developed by the pump to a 
+head value. This conversion requires two key 
+factors:  the density of the system fluid and
+
+Another potential limitation is the accuracy of 
+pressure gauges used in many industrial appli-
+cations. These pressure gauges are usually 
+not calibrated regularly, so they might not be 
+sufficiently accurate. In some cases, these gauges 
+also lack the precision required to determine 
+power consumption accurately. This is particu-
+
+60
+
+Improving Pumping System Performance

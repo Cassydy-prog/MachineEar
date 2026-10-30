@@ -1,0 +1,1790 @@
+=== PDF page 1 of 32; declared page label 1 | native ===
+
+Installation, Operation, and
+
+Maintenance Manual
+
+90036301_1.0
+
+Series 1710
+
+
+
+=== PDF page 2 of 32; declared page label 2 | none ===
+
+
+
+
+
+=== PDF page 3 of 32; declared page label 1 | native ===
+
+Table of Contents
+
+Table of Contents
+
+1  Introduction and Safety........................................................................................................ 3
+1.1  Introduction....................................................................................................................3
+1.1.1  Inexperienced users................................................................................................3
+1.2  Safety............................................................................................................................ 3
+1.2.1  Safety terminology and symbols.............................................................................4
+1.2.2  User safety..............................................................................................................5
+1.2.3  Protecting the environment.....................................................................................6
+1.3  Spare parts....................................................................................................................6
+1.4  Product warranty........................................................................................................... 6
+
+2  Transportation and Storage................................................................................................. 8
+2.1  Inspect the delivery........................................................................................................8
+2.1.1  Examine the unit..................................................................................................... 8
+2.2  Lifting guidelines............................................................................................................8
+2.3  Storage guidelines.......................................................................................................10
+2.3.1  Long-term storage.................................................................................................10
+
+3  Product Description............................................................................................................11
+3.1  General description..................................................................................................... 11
+3.2  Pump application.........................................................................................................11
+3.3  Pump denomination and construction features........................................................... 12
+
+4  Installation..........................................................................................................................15
+4.1  Facility requirements................................................................................................... 15
+4.1.1  Pump location....................................................................................................... 15
+4.2  Foundation requirements.............................................................................................16
+4.3  Piping requirements.....................................................................................................16
+4.4  Electrical requirements................................................................................................17
+4.5  Install the pump........................................................................................................... 17
+4.6  Piping checklist............................................................................................................18
+4.7  Suction pipeline........................................................................................................... 18
+4.8  Discharge pipeline.......................................................................................................19
+4.9  Coupling arrangement.................................................................................................19
+4.10  Electrical installation..................................................................................................19
+
+5  Commissioning, Startup, Operation, and Shutdown.......................................................... 21
+5.1  Fill the pump................................................................................................................21
+5.2  Check the rotation direction (three-phase motor)........................................................22
+5.3  Pump operation precautions........................................................................................22
+5.4  Start the pump.............................................................................................................22
+
+6  Maintenance.......................................................................................................................24
+6.1  Service.........................................................................................................................24
+6.2  Inspection checklist..................................................................................................... 24
+6.3  Disassemble and replace the pump parts................................................................... 25
+
+7  Troubleshooting................................................................................................................. 26
+7.1  Troubleshooting for users............................................................................................26
+7.2  The main switch is on, but the electric pump does not start........................................26
+
+Series 1710 Installation, Operation, and Maintenance Manual
+1
+
+
+
+=== PDF page 4 of 32; declared page label 2 | native ===
+
+Table of Contents
+
+7.3  The electric pump starts, but the thermal protector trips or the fuses blow
+immediately after........................................................................................................... 26
+7.4  The electric pump starts, but the thermal protector trips or the fuses blow a short
+time after........................................................................................................................27
+7.5  The electric pump starts, but the thermal protector trips a varying time after..............27
+7.6  The electric pump starts, but the system's general protection is activated................. 27
+7.7  The electric pump starts, but the system's residual current device (RCD) is
+activated........................................................................................................................ 27
+7.8  The pump runs but delivers too little or no liquid.........................................................27
+7.9  The electric pump stops, and then rotates in the wrong direction .............................. 28
+7.10  The pump starts up too frequently.............................................................................28
+7.11  The pump vibrates and generates too much noise................................................... 28
+
+2
+Series 1710 Installation, Operation, and Maintenance Manual
+
+
+
+=== PDF page 5 of 32; declared page label 3 | native ===
+
+1  Introduction and Safety
+
+1  Introduction and Safety
+
+1.1  Introduction
+
+Purpose of this manual
+
+The purpose of this manual is to provide necessary information for:
+
+• Installation
+• Operation
+• Maintenance
+
+CAUTION:
+Read this manual carefully before installing and using the product. Improper use of the
+product can cause personal injury and damage to property, and may void the warranty.
+
+NOTICE:
+Save this manual for future reference, and keep it readily available at the location of the unit.
+
+1.1.1  Inexperienced users
+
+WARNING:
+This product is intended to be operated by qualified personnel only.
+
+Be aware of the following precautions:
+
+• This product is not to be used by anyone with physical or mental disabilities, or anyone
+without the relevant experience and knowledge, unless they have received instructions
+on using the equipment and on the associated risks or are supervised by a responsible
+person.
+• Children must be supervised to ensure that they do not play on or around the product.
+
+Requesting other information
+
+The instructions and warnings that are provided in this manual concern the standard version,
+as described in the sales document. Special versions can be supplied with supplementary
+instruction leaflets. See the sales contract for any modifications or special version
+characteristics. For instructions, situations, or events that are not considered in this manual
+or in the sales documents, please contact the nearest Xylem representative.
+Always specify the exact product type and identification code when requesting technical
+information or spare parts from the sales and service department.
+
+1.2  Safety
+
+WARNING:
+
+• The operator must be aware of safety precautions to prevent physical injury.
+• Operating, installing, or maintaining the unit in any way that is not covered in this manual
+could cause death, serious personal injury, or damage to the equipment. This includes
+any modification to the equipment or use of parts not provided by Xylem. If there is a
+question regarding the intended use of the equipment, please contact a Xylem
+representative before proceeding.
+• Do not change the service application without the approval of an authorized Xylem
+representative.
+
+Series 1710 Installation, Operation, and Maintenance Manual
+3
+
+
+
+=== PDF page 6 of 32; declared page label 4 | native ===
+
+1  Introduction and Safety
+
+CAUTION:
+You must observe the instructions contained in this manual. Failure to do so could result in
+physical injury, damage, or delays.
+
+1.2.1  Safety terminology and symbols
+
+About safety messages
+
+It is extremely important that you read, understand, and follow the safety messages and
+regulations carefully before handling the product. They are published to help prevent these
+hazards:
+
+• Personal accidents and health problems
+• Damage to the product and its surroundings
+• Product malfunction
+
+Hazard levels
+
+Hazard level
+Indication
+
+A hazardous situation which, if not avoided, will
+result in death or serious injury
+
+DANGER:
+
+A hazardous situation which, if not avoided, could
+result in death or serious injury
+
+WARNING:
+
+A hazardous situation which, if not avoided, could
+result in minor or moderate injury
+
+CAUTION:
+
+NOTICE:
+
+Notices are used when there is a risk of equipment
+damage or decreased performance, but not
+personal injury.
+
+Special symbols
+
+Some hazard categories have specific symbols, as shown in the following table.
+
+Electrical hazard
+Magnetic fields hazard
+
+Electrical Hazard:
+
+CAUTION:
+
+Hot surface hazard
+
+Hot surface hazards are indicated by a specific symbol that replaces the typical hazard level
+symbols:
+
+CAUTION:
+
+4
+Series 1710 Installation, Operation, and Maintenance Manual
+
+
+
+=== PDF page 7 of 32; declared page label 5 | native ===
+
+1  Introduction and Safety
+
+1.2.2  User safety
+
+General safety rules
+
+These safety rules apply:
+
+• Always keep the work area clean.
+• Pay attention to the risks presented by gas and vapors in the work area.
+• Avoid all electrical dangers. Pay attention to the risks of electric shock or arc flash
+hazards.
+• Always bear in mind the risk of drowning, electrical accidents, and burn injuries.
+
+Safety equipment
+
+Use safety equipment according to the company regulations. Use this safety equipment
+within the work area:
+
+• Hard hat
+• Safety goggles, preferably with side shields
+• Protective shoes
+• Protective gloves
+• Gas mask
+• Hearing protection
+• First-aid kit
+• Safety devices
+Note: Never operate a unit unless safety devices are installed.
+
+Electrical connections
+
+Electrical connections must be made by certified electricians in compliance with all
+international, national, state, and local regulations. For more information about requirements,
+see sections dealing specifically with electrical connections.
+
+Precautions before work
+
+Observe these safety precautions before you work with the product or are in connection with
+the product:
+
+• Provide a suitable barrier around the work area, for example, a guard rail.
+• Make sure that all safety guards are in place and secure.
+• Make sure that you have a clear path of retreat.
+• Make sure that the product cannot roll or fall over and injure people or damage property.
+• Make sure that the lifting equipment is in good condition.
+• Use a lifting harness, a safety line, and a breathing device as required.
+• Allow all system and pump components to cool before you handle them.
+• Make sure that the product has been thoroughly cleaned.
+• Disconnect and lock out power before you service the pump.
+• Check the explosion risk before you weld or use electric hand tools.
+
+Precautions during work
+
+Observe these safety precautions when you work with the product or are in connection with
+the product:
+
+• Never work alone.
+• Always wear protective clothing and hand protection.
+• Stay clear of suspended loads.
+• Always lift the product by its lifting device.
+• Beware of the risk of a sudden start if the product is used with an automatic level control.
+• Beware of the starting jerk, which can be powerful.
+• Rinse the components in water after you disassemble the pump.
+• Do not exceed the maximum working pressure of the pump.
+
+Series 1710 Installation, Operation, and Maintenance Manual
+5
+
+
+
+=== PDF page 8 of 32; declared page label 6 | native ===
+
+1  Introduction and Safety
+
+• Do not open any vent or drain valve or remove any plugs while the system is pressurized.
+Make sure that the pump is isolated from the system and that pressure is relieved before
+you disassemble the pump, remove plugs, or disconnect piping.
+• Never operate a pump without a properly installed coupling guard.
+
+1.2.3  Protecting the environment
+
+Emissions and waste disposal
+
+Observe the local regulations and codes regarding:
+
+• Reporting of emissions to the appropriate authorities
+• Sorting, recycling and disposal of solid or liquid waste
+• Clean-up of spills
+
+Exceptional sites
+
+CAUTION: Radiation Hazard
+Do NOT send the product to Xylem if it has been exposed to nuclear radiation, unless Xylem
+has been informed and appropriate actions have been agreed upon.
+
+Recycling guidelines
+
+Always follow local laws and regulations regarding recycling.
+
+1.3  Spare parts
+
+WARNING:
+Only use original spare parts to replace any worn or faulty components. The use of
+unsuitable spare parts may cause malfunctions, damage, and injuries as well as void the
+guarantee.
+
+CAUTION:
+Always specify the exact product type and part number when requesting technical
+information or spare parts from the Sales and Service Department.
+
+1.4  Product warranty
+
+Coverage
+
+Xylem undertakes to remedy defects in products from Xylem under these conditions:
+
+• The faults are due to defects in design, materials, or workmanship.
+• The faults are reported to a local sales and service representative within the warranty
+period.
+• The product is used only under the conditions that are described in this manual.
+• The monitoring equipment that is incorporated in the product is correctly connected and
+in use.
+• All service and repair work that is done by Xylem authorized personnel.
+• Genuine Xylem parts are used.
+
+Limitations
+
+The warranty does not cover defects that are caused by these situations:
+
+• Deficient maintenance
+• Improper installation
+• Modifications or changes to the product and installation that are made without consulting
+a Xylem authorized representative
+• Incorrectly executed repair work
+• Normal wear and tear
+
+6
+Series 1710 Installation, Operation, and Maintenance Manual
+
+
+
+=== PDF page 9 of 32; declared page label 7 | native ===
+
+1  Introduction and Safety
+
+Xylem assumes no liability for these situations:
+
+• Bodily injuries
+• Material damages
+• Economic losses
+
+Warranty claim
+
+Xylem products are high-quality products with expected reliable operation and long life.
+However, should the need for a warranty claim arise, contact your local sales and service
+representative.
+
+Series 1710 Installation, Operation, and Maintenance Manual
+7
+
+
+
+=== PDF page 10 of 32; declared page label 8 | native ===
+
+2  Transportation and Storage
+
+2  Transportation and Storage
+
+2.1  Inspect the delivery
+
+1. Check the outside of the package for evident signs of damage.
+2. Notify our distributor within eight days of the delivery date, if the product bears visible
+signs of damage.
+
+Unpack the unit
+
+1. Follow applicable step:
+– If the unit is packed in a carton, then remove the staples and open the carton.
+– If the unit is packed in a wooden crate, then open the cover while paying attention to
+
+the nails and straps.
+2. Remove the securing screws or the straps from the wooden base.
+
+2.1.1  Examine the unit
+
+1. Remove packing materials from the product.
+Dispose of all packing materials in accordance with local regulations.
+2. To determine whether any parts have been damaged or are missing, examine the
+product.
+3. If applicable, unfasten the product by removing any screws, bolts, or straps.
+Use care around nails and straps.
+4. If there is any issue, then contact a sales representative.
+
+2.2  Lifting guidelines
+
+Precautions
+
+WARNING:
+
+• Observe accident prevention regulations in force.
+• Crush hazard. The unit and the components can be heavy. Use proper lifting methods
+and wear steel-toed shoes at all times.
+
+Check the gross weight that is indicated on the package in order to select proper lifting
+equipment.
+
+Position and fastening
+
+The pump or pump unit can be transported only horizontally. Make sure that the pump or
+pump unit is securely fastened during transportation and cannot roll or fall over.
+
+WARNING:
+Do not use eyebolts screwed on the motor for handling the whole electric pump unit.
+Do not use the shaft end of the pump or of the motor to handle the pump, the motor or the
+unit.
+
+• Eyebolts screwed onto the motor may be exclusively used to handle the individual motor
+or, in case of a not balanced distribution of weights, to partially lift the unit vertically
+starting from a horizontal displacement.
+Pump unit must always be fixed and transported as shown in Figure 1 on page 9, and the
+pump without motor must be fixed and transported as shown in Figure 2 on page 9, Figure
+3 on page 9, and Figure 4 on page 10.
+
+8
+Series 1710 Installation, Operation, and Maintenance Manual
+
+
+
+=== PDF page 11 of 32; declared page label 9 | native ===
+
+2  Transportation and Storage
+
+NSC_M0031_A_SC
+
+Figure 1
+
+NSC_M0032_A_SC
+
+Figure 2
+
+Figure 3
+
+Series 1710 Installation, Operation, and Maintenance Manual
+9
+
+
+
+=== PDF page 12 of 32; declared page label 10 | native ===
+
+2  Transportation and Storage
+
+NSC_M0034_A_SC
+
+Figure 4
+
+2.3  Storage guidelines
+
+Storage location
+
+The product must be stored in a covered and dry location free from heat, dirt, and vibrations.
+
+NOTICE:
+Protect the product against humidity, heat sources, and mechanical damage.
+
+NOTICE:
+Do not place heavy weights on the packed product.
+
+2.3.1  Long-term storage
+
+If the unit is stored for more than 6 months, these requirements apply:
+
+• Store in a covered and dry location.
+• Store the unit free from heat, dirt, and vibrations.
+• Rotate the pump shaft by hand several times at least every three months.
+Refer to the drive unit and coupling manufacturers for their long-term storage procedures.
+For questions about possible long-term storage treatment services, please contact your local
+sales and service representative.
+
+Ambient temperature
+
+The product must be stored at an ambient temperature from -5°C to +40°C (23°F to 104°F).
+
+10
+Series 1710 Installation, Operation, and Maintenance Manual
+
+
+
+=== PDF page 13 of 32; declared page label 11 | native ===
+
+3  Product Description
+
+3  Product Description
+
+3.1  General description
+
+1710 Series is foot mounted, single stage and end suction pump with back pull-out design
+and is in accordance with the international standard ISO 2858.
+It comes in frame mounted series applicable for flexible coupling (optional Flexible spacer
+coupling) and Stub shaft coupling. Bare shaft option to be coupled to any standard IEC
+motor to substitute an existing ISO 2858 pump.
+
+3.2  Pump application
+
+Designed for non-combustible, low viscosity liquids, free of solids, abrasive materials, and
+fibers. Different chemical compositions are capable of being pumped by using different
+construction and seal options.
+This highly efficient and flexible design makes the 1710 Series pump ideal for a wide range
+of pumping applications, including non-listed fire pump, HVAC, Industrial secondary process,
+Water transfer and more.
+Operating conditions:
+
+• Flowrate: max 2100 m³/h
+• Pump head: max 160 m
+• Fluid temp: -15°C to 120°C
+• Max rating: 355 kW
+For other applications, contact your local sales and service representative.
+
+Improper use
+
+WARNING:
+Improper use of the pump may create dangerous conditions and cause personal injury and
+damage to property.
+
+An improper use of the product leads to the loss of the warranty.
+Examples of improper use:
+
+• Liquids not compatible with the pump construction materials
+• Hazardous liquids (such as toxic, explosive, flammable, or corrosive liquids)
+• Potable liquids other than water (for example, wine or milk)
+Examples of improper installation:
+
+• Hazardous locations (such as explosive, or corrosive atmospheres).
+• Location where the air temperature is very high or there is poor ventilation.
+• Outdoor installations where there is no protection against rain or freezing temperatures.
+
+DANGER:
+Do not use this pump to handle flammable and/or explosive liquids.
+
+NOTICE:
+
+• Do not use the pump for flow rates beyond the specified flow rates on the data plate.
+
+Special applications
+
+Contact the local sales and service representative in the following cases:
+
+Series 1710 Installation, Operation, and Maintenance Manual
+11
+
+
+
+=== PDF page 14 of 32; declared page label 12 | native ===
+
+3  Product Description
+
+• If the density and/or viscosity value of the pumped liquid exceeds the value of water,
+such as water with glycol; as it may require a more powerful motor.
+• If the pumped liquid is chemically treated (for example softened, deionized,
+demineralized etc.).
+• Any situation that is different from the ones that is described and relate to the nature of
+the liquid.
+
+3.3  Pump denomination and construction features
+
+Identification Code
+
+* Available for Coupling option [F] & [C]
+** Available for Coupling option [S]
+***Available for Coupling option [  ]
+
+COMPONENT
+STANDARD
+
+OPTION
+OTHER AVAILABLE OPTION
+
+Casing
+Cast Iron
+Ductile Iron
+304 SS
+316 SS
+Super Duplex
+
+Shaft (seal on
+
+shaft)
+420 SS
+Duplex SS
+
+Shaft (seal on
+
+sleeve)*
+420 SS
+4135
+
+Impeller
+304 SS
+Bronze C87600
+316 SS
+Super Duplex
+
+Casing Wear
+
+Rings
+Bronze C90300
+304 SS
+316 SS
+Super Duplex
+
+Mechanical
+
+Seal
+
+Carbon/
+Ceramic/FPM
+SiC/SiC/FPM
+
+Shaft Sleeves*
+304 SS
+316 SS
+Duplex SS
+
+Shaft sleeve
+
+nuts*
+304 SS
+316 SS
+Duplex SS
+
+Packing*
+PTFE
+—
+
+Lantern ring*
+304 SS
+—
+
+Seal flush lines*
+304 SS
+316 SS
+
+*Note: Available for Gland Packing (gland packing is an optional against mechanical seal).
+
+12
+Series 1710 Installation, Operation, and Maintenance Manual
+
+
+
+=== PDF page 15 of 32; declared page label 13 | native ===
+
+3  Product Description
+
+Large choice of casing and impeller material combinations, both PN16 and PN25, wide
+range of shaft sealing solutions to solve different needs in the industrial market.
+
+Flanges
+
+The flanges are drilled to EN1092/ISO7005, PN16. To enhance versatility, we can deliver
+PN25 drilled flanges and ASME B16.5 compatible drilled flanges, Class 150 and 300.
+
+Bearing Housing and Bearings
+
+1710 Standard features include a removable bearing cap on the non-drive end and lip seals
+fitted to both drive and non-drive ends in order to minimize the ingress of foreign liquids and
+materials. Bearings are normal bearings with pre-packed grease. Alternative bearing
+manufacturers and lubrication methods are available upon request.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+11
+12
+13
+
+14
+15 16
+17
+18
+
+1. Coupling Key
+10. Impeller
+
+2. Oil Seal-Drive End
+11. Half Round Key
+
+3. Bearing-Driver End
+12. Impeller Washer
+
+4. Bearing-Impeller End
+13. Impeller Nut
+
+5. Bearing Cover
+14. Foot Support
+
+6. Bearing Housing
+15. Mechanical Seal
+
+7. Shaft
+16. Rear Wear Ring*
+
+8. Back Plate
+17. Front Wear Ring
+
+9. Pump Casing
+18. Drain Plug
+
+*Note: Group 4, 1710 has no rear wear ring.
+
+Series 1710 Installation, Operation, and Maintenance Manual
+13
+
+
+
+=== PDF page 16 of 32; declared page label 14 | native ===
+
+3  Product Description
+
+Stub shaft construction
+
+1
+2
+3
+5
+4
+6
+7
+
+10
+11
+12
+13
+9
+8
+
+1. Motor
+8. Impeller Key
+
+2. Motor Adaptor
+9. Drain Plug
+
+3. Rear Wear Ring
+10. Stub Shaft
+
+4. Front Wear Ring
+11. Back Plate
+
+5. Mechanical Seal
+12. Impeller
+
+6. Impeller Washer
+13. Pump Casing
+
+7. Impeller Nut
+
+14
+Series 1710 Installation, Operation, and Maintenance Manual
+
+
+
+=== PDF page 17 of 32; declared page label 15 | native ===
+
+4  Installation
+
+4  Installation
+
+Preinstallation
+
+Before the installation of the pump unit, check whether the packing list matches with the
+order list and the data that are printed on the nameplate.
+
+Precautions
+
+WARNING:
+
+• Observe accident prevention regulations in force.
+• Use suitable equipment and protection.
+• Always refer to the local and/or national regulations, legislation, and codes in force
+regarding the selection of the installation site, plumbing, and power connections.
+
+Electrical Hazard:
+
+• Make sure that all connections are performed by qualified installation technicians and in
+compliance with the regulations in force.
+• Before starting work on the unit, make sure that the unit and the control panel are
+isolated from the power supply and cannot be energized. This applies to the control
+circuit as well.
+
+Grounding (earthing)
+
+Electrical Hazard:
+
+• Always connect the external protection conductor to ground (earth) terminal before
+making other electrical connections.
+• You must ground (earth) all electrical equipment. This applies to the pump equipment,
+the driver, and any monitoring equipment. Test the ground (earth) lead to verify that it is
+connected correctly.
+• If the motor cable is jerked loose by mistake, the ground (earth) conductor should be the
+last conductor to come loose from its terminal. Make sure that the ground (earth)
+conductor is longer than the phase conductors. This applies to both ends of the motor
+cable.
+• Add additional protection against lethal shock. Install a high-sensitivity differential switch
+(30 mA) [residual current device RCD].
+
+4.1  Facility requirements
+
+4.1.1  Pump location
+
+DANGER:
+Do not use this unit in environments that may contain flammable/explosive or chemically
+aggressive gases or powders.
+
+Guidelines
+
+Observe the following guidelines regarding the location of the product:
+
+• Make sure that no obstructions hinder the normal flow of the cooling air that is delivered
+by the motor fan.
+• Make sure that the installation area is protected from any fluid leaks, or flooding.
+• If possible, place the pump slightly higher than the floor level.
+• The relative humidity of the ambient air must be less than 50% at +40°C (+104°F).
+• Contact the Sales and Service Department if:
+
+Series 1710 Installation, Operation, and Maintenance Manual
+15
+
+
+
+=== PDF page 18 of 32; declared page label 16 | native ===
+
+4  Installation
+
+– The relative air humidity conditions exceed the guidelines.
+– The unit is located more than 1000 m (3000 ft) above the sea level. The motor
+
+performance may need to be de-rated or replaced with a more powerful motor.
+
+Pump positions and clearance
+
+Provide adequate light and clearance around the pump. Make sure that it is easily
+accessible for installation and maintenance operations.
+
+4.2  Foundation requirements
+
+Requirements
+
+• The foundation must be able to absorb any type of vibration and form a permanent, rigid
+support for the unit.
+• Provide a flat, substantial concrete foundation in order to prevent strain and distortion
+when you tighten the foundation bolts.
+
+4.3  Piping requirements
+
+Precautions
+
+WARNING:
+
+• Use pipes suited to the maximum working pressure of the pump. Failure to do so can
+cause the system to rupture, with the risk of injury.
+• Make sure that all connections are performed by qualified installation technicians and in
+compliance with the regulations in force.
+
+NOTICE:
+Observe all regulations issued by authorities having jurisdiction and by companies managing
+the public water supplies if the pump is connected to a public water system. If required,
+install appropriate backflow-prevention device on the suction side.
+
+Piping checklist
+
+Check that the following requirements are met:
+
+• All piping is independently supported, piping must not place a burden on the unit.
+• Flexible pipes or unions are used, in order to avoid transmission of pump vibrations to the
+pipes and vice versa.
+• Use wide bends, avoid using elbows which cause excessive flow resistance.
+• The suction piping is perfectly sealed and airtight.
+• If the pump is used in an open circuit, then the diameter of the suction pipe is suited to
+the installation conditions. The suction pipe must not be smaller than the diameter of the
+suction port.
+• If the suction piping must be larger than the suction side of the pump, then an eccentric
+pipe reducer is installed.
+• If the pump is placed above liquid level, a foot valve is installed at the end of the suction
+piping.
+• The foot valve is fully immersed into the liquid so that air cannot enter through the suction
+vortex, when the liquid is at the minimum level and the pump is installed above the liquid
+source.
+• Appropriately sized on-off valves are installed on the suction piping and on the delivery
+piping (downstream to the check valve) for regulation of the pump capacity, for pump
+inspection, and for maintenance.
+• Appropriately sized on-off valves are installed on the delivery piping (downstream to the
+check valve) for regulation of the pump capacity, for pump inspection, and for
+maintenance.
+• In order to prevent back flow into the pump when pump is turned off a check valve is
+installed on the delivery piping.
+
+16
+Series 1710 Installation, Operation, and Maintenance Manual
+
+
+
+=== PDF page 19 of 32; declared page label 17 | native ===
+
+4  Installation
+
+WARNING:
+Do not use the on-off valve on the discharge side in the closed position in order to throttle
+the pump for more than a few seconds. If the pump must operate with the discharge side
+closed for more than a few seconds, a bypass circuit must be installed to prevent
+overheating of the liquid inside the pump.
+
+4.4  Electrical requirements
+
+• The local regulations in force overrule these specified requirements.
+• In the case of fire fighting systems (hydrants and/or sprinklers), check the local
+regulations in force
+
+Electrical connection checklist
+
+Check that the following requirements are met:
+
+• The electrical leads are protected from high temperature, vibrations, and collisions.
+• The power supply line is provided with:
+– A short-circuit protection device
+– A mains isolator switch with a contact gap of at least 3 mm
+
+The electrical control panel checklist
+
+NOTICE:
+The control panel must match the ratings of the electric pump. Improper combinations could
+fail to guarantee the protection of the motor.
+
+Check that the following requirements are met:
+
+• The control panel must protect the motor against overload and short-circuit.
+• Install the correct overload protection (thermal relay or motor protector).
+• The control panel must be equipped with a dry-running protection system to which a
+pressure switch, float switch, probes, or other suitable device is connected.
+• The following devices are recommended for use on the suction side of the pump:
+– When the liquid is pumped from a water system, use a pressure switch.
+– When the liquid is pumped from a storage tank or reservoir, use a float switch or
+
+probes.
+• When thermal relays are used, relays that are sensitive to phase failure are
+recommended.
+
+4.5  Install the pump
+
+Install the pump set
+
+1. Position the pump set on the foundation and level it with the help of a spirit level that is
+placed on the discharge port.
+The permissible deviation is 0.2 mm/m.
+2. Remove the plugs covering the ports.
+3. Align the pump and piping flanges on both sides of the pump. Check the alignment of the
+bolts.
+4. Fasten the piping with bolts to the pump. Do not force the piping into place.
+5. Use shims for height compensation, if necessary.
+Always fit shims, if any, immediately to the left and right of the foundation bolts between
+the baseplate/foundation. For a bolt-to-bolt distance (L) > 800 mm, fit extra shims halfway
+between the bolt holes.
+6. Make sure that all shims lie perfectly flush.
+7. Insert the foundation bolts into the holes provided.
+
+Series 1710 Installation, Operation, and Maintenance Manual
+17
+
+
+
+=== PDF page 20 of 32; declared page label 18 | native ===
+
+4  Installation
+
+8. Use concrete to set the foundation bolts into the foundation.
+9. Wait until the concrete has set firmly, and then level the baseplate.
+10.Tighten the foundation bolts evenly and firmly.
+
+Note:
+
+• For baseplates, it is recommended to grout the baseplate with low-shrinkage concrete.
+• If the transmission of vibrations can be disturbing, provide vibration-damping supports
+between the pump and the foundation.
+
+Mount the pump to a base frame
+
+Be sure to check that the following are adhered to:
+
+• Solid base frame which does not twist or vibrate during operation (resonance).
+• Mounting surfaces of the pump feet and the motor on the base frame must be flat
+(machining is recommended).
+• Safe fastening of pump and motor must be guaranteed.
+• Adequate space between pump and motor shaft must be left depending on the used
+coupling.
+• Between pump and base frame must be an adequate shimming, so that in case of
+replacement the same height between bottom and centerline can be adjusted
+(recommended vertical adjustment 4-6 mm).
+
+4.6  Piping checklist
+
+Check that the following are adhered to:
+
+• The suction lift line has been laid with a rising slope, at positive suction head line with a
+downward slope towards the pump.
+• The nominal diameters of the pipelines are at least equal to the nominal diameters of the
+pump ports.
+• The pipelines have been anchored in close proximity to the pump and connected without
+transmitting any stresses or strains.
+
+CAUTION:
+Welding beads, scale and other impurities in the piping damage the pump.
+
+• Free the piping from any impurities.
+• If necessary, install a filter.
+
+4.7  Suction pipeline
+
+Suction pipeline must have no air leaks. Suction piping should be the same size or larger
+than that of the pump suction flange. Tapered eccentric reducer should be used when by
+using larger diameter pipe work. see figure
+
+1
+2
+
+1. Eccentric taper pipe
+2. Straight pipe
+The pump should be assembled by using a straight pipe of length not less than three times
+the pipe diameter. Identify that the end of the suction line is sufficiently below the lowest
+level of the liquid to prevent the formation of vortex, and the consequent entry of air into the
+suction pipe. Where there is suction lift, it is essential that a reputable foot valve by using a
+water opening of at least to that of the pipe, is used.
+
+18
+Series 1710 Installation, Operation, and Maintenance Manual
+
+
+
+=== PDF page 21 of 32; declared page label 19 | native ===
+
+4  Installation
+
+4.8  Discharge pipeline
+
+It is recommended that a non-return valve is assembled to the pumps discharge. The
+installation of a gate valve after the non-return valve is beneficial to aid in priming of the
+pump, trimming of the discharge flow and maintenance on the non return valve.
+
+4
+3
+
+2
+1
+
+1. Concentric taper pipe
+2. Check valve
+3. Gate valve
+4. Priming plug
+Discharge pipeline should be selected of a size applicable to carry the required capacity,
+such that the friction head created is not too much. When the pipeline is laid over undulating
+ground by using high points where air pockets can form, vent cocks must be put to expel the
+accumulation of air, which will affect the discharge capacity of the pump.
+
+4.9  Coupling arrangement
+
+After mounting to the foundation and the connection of the piping, the coupling must be
+adjusted again, even if the unit was delivered completely mounted on the frame.
+
+The following is intended as a guide only for the correct selection of the appropriate
+coupling .
+
+• Type of pump
+• Type of drive
+• The maximum output power/shaft power of the drive
+• Duty type: Continuous or Intermittent
+• Shaft diameter & key size of pump & drive
+• Alignment: Refer to coupling manufactures specifications.
+Contact the local sales and service representative for any requests or information.
+
+NOTICE:
+Improper alignment of the unit can lead to damages at coupling and unit.
+
+4.10  Electrical installation
+
+1. Remove the screws of the terminal box cover.
+2. Connect and fasten the power cables according to the applicable wiring diagram.
+a) Connect the ground (earth) lead.
+
+Make sure that the ground (earth) lead is longer than the phase leads.
+b) Connect the phase leads.
+3. Mount the terminal box cover.
+
+NOTICE:
+Tighten the cable glands carefully to ensure protection against cable slipping and
+humidity entering the terminal box.
+
+4. If the motor is not equipped with automatic reset thermal protection, then adjust the
+overload protection according to the list below.
+
+Series 1710 Installation, Operation, and Maintenance Manual
+19
+
+
+
+=== PDF page 22 of 32; declared page label 20 | native ===
+
+4  Installation
+
+– If the motor is used with full load, then set the value to the nominal current value of
+
+electric pump (data plate)
+– If the motor is used with partial load, then set the value to the operating current (for
+
+example measured with a current pincer).
+– If the pump has a star-delta starting system, then adjust the thermal relay to 58% of
+
+the nominal current or operating current (only for three-phase motors).
+
+20
+Series 1710 Installation, Operation, and Maintenance Manual
+
+
+
+=== PDF page 23 of 32; declared page label 21 | native ===
+
+5  Commissioning, Startup, Operation, and Shutdown
+
+5  Commissioning, Startup,
+Operation, and Shutdown
+
+Precautions
+
+WARNING:
+
+• Make sure that the drained liquid does not cause damage or injuries.
+• The motor protectors can cause the motor to restart unexpectedly. This could result in
+serious injury.
+• Never operate the pump without the coupling guard correctly installed.
+
+CAUTION:
+
+• The outer surfaces of the pump and motor can exceed 40ºC (104ºF) during operation. Do
+not touch with any part of the body without protective gear.
+• Do not put any combustible material near the pump.
+
+NOTICE:
+
+• Never operate the pump below the minimum rated flow, when dry, or without prime.
+• Never operate the pump with the delivery ON-OFF valve closed for longer than a few
+seconds.
+• Never operate the pump with the suction ON-OFF valve closed.
+• Do not expose an idle pump to freezing conditions. Drain all liquid that is inside the
+pump. Failure to do so can cause liquid to freeze and damage the pump.
+• The sum of the pressure on the suction side (mains, gravity tank) and the maximum
+pressure that is delivered by the pump must not exceed the maximum working pressure
+that is allowed (nominal pressure PN) for the pump.
+• Do not use the pump if cavitation occurs. Cavitation can damage the internal
+components.
+
+5.1  Fill the pump
+
+Installations with liquid level above the pump (suction head)
+
+1. Close the on-off valve located downstream from the pump.
+2. Remove the fill or gauge plug and open the on/off valve upstream until the water flows
+out of the hole.
+3. Close the fill or gauge plug
+
+Installations with liquid level below the pump (suction lift)
+
+1. All pipe system empty:
+a) Open the on-off valve located upstream from the pump.
+b) Remove the fill plug and the gauge plug. Use a funnel to fill the pump through the fill
+
+hole until the water flows out of this hole.
+c) Tighten the fill plug and the gauge plug.
+2. Filled discharge pipe system:
+a) Open the on-off valve located upstream from the pump and open the on-off valve
+
+downstream.
+b) Remove the gauge plug until water flows out of this hole.
+c) Tighten the gauge plug.
+
+Series 1710 Installation, Operation, and Maintenance Manual
+21
+
+
+
+=== PDF page 24 of 32; declared page label 22 | native ===
+
+5  Commissioning, Startup, Operation, and Shutdown
+
+5.2  Check the rotation direction (three-phase motor)
+
+Follow this procedure before start-up.
+1. Locate the arrows on the adaptor or the motor fan cover to determine the correct rotation
+direction.
+2. Start the motor.
+3. Quickly check the direction of rotation through the coupling guard or through the motor
+fan cover.
+4. Stop the motor.
+5. If the rotation direction is incorrect, then do as follows:
+a) Disconnect the power supply.
+b) In the terminal board of the motor or in the electric control panel, exchange the
+
+position of two of the three wires of the supply cable.
+c) Check the direction of rotation again.
+
+5.3  Pump operation precautions
+
+General considerations
+
+CAUTION:
+
+• Vary the capacity with the regulating valve in the discharge line. Never throttle the flow
+from the suction side since this can result in decreased performance, unexpected heat
+generation, and equipment damage.
+• Do not overload the driver. Driver overload can result in unexpected heat generation and
+equipment damage. The driver can overload in these circumstances:
+
+– The specific gravity of the pumped fluid is greater than expected.
+– The pumped fluid exceeds the rated flow rate.
+• Make sure to operate the pump at or near the rated conditions. Failure to do so can result
+in pump damage from cavitation or recirculation.
+
+Operation at reduced capacity
+
+WARNING:
+Never operate any pumping system with a blocked suction and discharge. Operation, even
+for a brief period under these conditions, can cause confined pumped fluid to overheat,
+which results in a violent explosion. You must take all necessary measures to avoid this
+condition.
+
+NOTICE:
+
+• Avoid increased radial load. Failure to do so can cause stress on the shaft and bearings.
+• Avoid heat build-up. Failure to do so can cause rotating parts to score or seize.
+• Avoid cavitation. Failure to do so can cause damage to the internal surfaces of the pump.
+
+Operation under freezing conditions
+
+NOTICE:
+Do not expose an idle pump to freezing conditions. Drain all liquid that is inside the pump.
+Failure to do so can cause liquid to freeze and damage the pump.
+
+5.4  Start the pump
+
+The responsibility for checking the correct flow and the temperature of the pumped liquid
+rests with the installer or owner.
+Before starting the pump, make sure that:
+
+22
+Series 1710 Installation, Operation, and Maintenance Manual
+
+
+
+=== PDF page 25 of 32; declared page label 23 | native ===
+
+5  Commissioning, Startup, Operation, and Shutdown
+
+• The pump is correctly connected to the power supply.
+• The pump is correctly filled according to instructions in Fill the pump (chapter 5).
+• The on-off valve located downstream from the pump is closed.
+1. Start the motor.
+2. Gradually open the on-off valve on the discharge side of the pump.
+At the expected operating conditions, the pump must run smoothly and quietly. If not, 
+refer to Troubleshooting on page 26.
+
+Series 1710 Installation, Operation, and Maintenance Manual
+23
+
+
+
+=== PDF page 26 of 32; declared page label 24 | native ===
+
+6  Maintenance
+
+6  Maintenance
+
+Precautions
+
+Electrical Hazard:
+Disconnect and lock out electrical power before installing or servicing the unit.
+
+WARNING:
+
+• Maintenance and service must be performed by skilled and qualified personnel only.
+• Observe accident prevention regulations in force.
+• Use suitable equipment and protection.
+• Make sure that the drained liquid does not cause damage or injuries.
+
+6.1  Service
+
+If the user wishes to schedule regular maintenance deadlines, they are dependent on the
+type of pumped liquid and on the operating conditions of the pump.
+Contact the local sales and service representative for any requests or information regarding
+routine maintenance or service.
+Extraordinary maintenance may be necessary to clean the liquid end and/or replace worn
+parts.
+
+Pumps with greased for life bearings
+
+Pumps with greased for life bearings do not require any scheduled routine maintenance.
+
+Pumps with re-greaseable bearings
+
+• Regrease at 4000 operating hours, but at least once per year. Clean lubrication nipples
+(SN) first.
+• Use NLGI Grade 2 grease or equivalent.
+Contact the local sales and service representative for any requests or information.
+
+Motor bearings
+
+After approximately five years, the grease in the motor bearings is so aged that a
+replacement of the bearings is recommended. The bearings must be replaced after 25000
+operating hours or according to the motor supplier maintenance instructions, whichever is
+shorter.
+
+Motor with regreasable bearings
+
+Follow motor supplier maintenance instructions.
+
+Coupling
+
+Check the clearance in the coupling elements regularly, at least once a year. We
+recommend checking every 1000 operating hours or every three months, whichever comes
+first.
+
+6.2  Inspection checklist
+
+Check the coupling
+Check the flexible elements of the coupling.
+Replace the relevant parts if there is any sign of
+wear and check the alignment.
+
+Check the mechanical seal
+Check for leakage of the mechanical seal. Replace
+the mechanical seal if leakage is found.
+
+24
+Series 1710 Installation, Operation, and Maintenance Manual
+
+
+
+=== PDF page 27 of 32; declared page label 25 | native ===
+
+6  Maintenance
+
+Checking the bearing seals
+Check correct seating of axial seal rings mounted
+on the shaft. Only gentle contact of the sealing lip
+shall be established.
+
+Check for quiet running
+Check frequently for quiet running of the pump with
+vibration measurements tools.
+
+Check for leakage of the mechanical seal. Replace the mechanical seal if leakage is found.
+
+6.3  Disassemble and replace the pump parts
+
+For more information about spare parts and assembly and disassembly of the pump, contact
+the local sales and service representative.
+
+Series 1710 Installation, Operation, and Maintenance Manual
+25
+
+
+
+=== PDF page 28 of 32; declared page label 26 | native ===
+
+7  Troubleshooting
+
+7  Troubleshooting
+
+7.1  Troubleshooting for users
+
+The main switch is on, but the electric pump does not start.
+
+Cause
+Remedy
+
+The thermal protector incorporated in the pump
+(if any) has tripped.
+
+Wait until the pump has cooled down. The thermal
+protector will automatically reset.
+
+Check the liquid level in the tank, or the mains pressure.
+
+The protective device against dry running has
+tripped.
+
+The electric pump starts, but the thermal protection trips a varying time after.
+
+Cause
+Remedy
+
+Contact the Sales and Service Department.
+
+There are foreign objects (solids or fibrous
+substances) inside the pump which have jammed the
+impeller.
+
+The pump is overloaded because it is pumping liquid
+that is too dense and viscous.
+
+Check the actual power requirements based on
+the characteristics of the pumped liquid and then
+contact the Sales and Service Department.
+
+The pump runs but delivers too little or no liquid.
+
+Cause
+Remedy
+
+The pump is clogged.
+Contact the Sales and Service Department.
+
+The troubleshooting instructions in the tables below are for installers only.
+
+7.2  The main switch is on, but the electric pump does not start
+
+Cause
+Remedy
+
+There is no power supply.
+•
+Restore the power supply.
+•
+Make sure all electrical connections to the power
+supply are intact.
+
+The thermal protector incorporated in the pump
+(if any) has tripped.
+
+Wait until the pump has cooled down. The thermal
+protector will automatically reset.
+
+Reset the thermal protection.
+
+The thermal relay or motor protector in the
+electric control panel has tripped.
+
+Check the:
+
+The protective device against dry running has
+tripped.
+
+•
+liquid level in the tank, or the mains pressure.
+•
+protective device and its connecting cables.
+
+Replace the fuses.
+
+The fuses for the pump or auxiliary circuits are
+blown.
+
+7.3  The electric pump starts, but the thermal protector trips or the
+fuses blow immediately after
+
+Cause
+Remedy
+
+The power supply cable is damaged.
+Check the cable and replace as necessary.
+
+Check the components and replace as necessary.
+
+The thermal protection or fuses are not suited
+for the motor current.
+
+26
+Series 1710 Installation, Operation, and Maintenance Manual
+
+
+
+=== PDF page 29 of 32; declared page label 27 | native ===
+
+7  Troubleshooting
+
+Cause
+Remedy
+
+The electric motor is short circuit.
+Check the components and replace as necessary.
+
+The motor overloads.
+Check the operating conditions of the pump and reset
+the protection.
+
+7.4  The electric pump starts, but the thermal protector trips or the
+fuses blow a short time after
+
+Cause
+Remedy
+
+The electrical panel is situated in an excessively heated
+area or is exposed to direct sunlight.
+
+Protect the electrical panel from heat source
+and direct sunlight.
+
+Check the operating conditions of the motor.
+
+The power supply voltage is not within the working limits
+of the motor.
+
+A power phase is missing.
+Check the
+
+•
+power supply
+•
+electrical connection
+
+7.5  The electric pump starts, but the thermal protector trips a varying
+time after
+
+Cause
+Remedy
+
+Contact the local sales and service representative.
+
+There are foreign objects (solids or fibrous
+substances) inside the pump which have
+jammed the impeller.
+
+The pumps delivery rate is higher than the limits
+specified on the data plate.
+
+Partially close the ON-OFF valve down stream until the
+delivery rate is equal or less than the limits specified on
+the data plate.
+
+The pump is overloaded because it is pumping
+liquid that is too dense and viscous.
+
+Check the actual power requirements based on the
+characteristics of the pumped liquid and replace the
+motor accordingly.
+
+The motor bearings are worn.
+Contact the local sales and service representative.
+
+7.6  The electric pump starts, but the system's general protection is
+activated
+
+Cause
+Remedy
+
+A short circuit in the electrical system.
+Check the electrical system.
+
+7.7  The electric pump starts, but the system's residual current device
+(RCD) is activated
+
+Cause
+Remedy
+
+There is an ground (earth) leakage.
+Check the insulation of the electrical system components.
+
+7.8  The pump runs but delivers too little or no liquid
+
+Cause
+Remedy
+
+There is air inside the pump or the piping.
+•
+Bleed the air
+
+Series 1710 Installation, Operation, and Maintenance Manual
+27
+
+
+
+=== PDF page 30 of 32; declared page label 28 | native ===
+
+7  Troubleshooting
+
+Cause
+Remedy
+
+The pump is not correctly primed.
+Stop the pump and repeat the prime procedure.
+If the problem continues:
+
+•
+Check that the mechanical seal is not leaking.
+•
+Check the suction pipe for perfect tightness.
+•
+Replace any valves that are leaking.
+
+Open the valve.
+
+The throttling on the delivery side is too
+extensive.
+
+Disassemble and clean the valves.
+
+Valves are locked in closed or partially
+closed position.
+
+The pump is clogged.
+Contact the local sales and service representative.
+
+The piping is clogged.
+Check and clean the pipes.
+
+Change the position of two of the phases on the terminal
+board of the motor or in the electric control panel.
+
+The rotation direction of the impeller is
+wrong.
+(three-phase version)
+
+Check the operating conditions of the pump. If necessary, do
+the following:
+
+The suction lift is too high or the flow
+resistance in the suction pipes is too
+great.
+
+•
+Decrease the suction lift
+•
+Increase the diameter of the suction pipe.
+
+7.9  The electric pump stops, and then rotates in the wrong direction
+
+Cause
+Remedy
+
+There is a leakage in one or both of the following components:
+
+Repair or replace the faulty component.
+
+•
+The suction pipe
+•
+The foot valve or the check valve
+
+There is air in the suction pipe.
+Bleed the air.
+
+7.10  The pump starts up too frequently
+
+Cause
+Remedy
+
+There is a leakage in one or both of the following components:
+
+Repair or replace the faulty
+component.
+
+•
+The suction pipe
+•
+The foot valve or the check valve
+
+There is a ruptured membrane or no air pre-charge in the pressure
+tank.
+
+See the relevant instructions in the
+pressure tank manual.
+
+7.11  The pump vibrates and generates too much noise
+
+Cause
+Remedy
+
+Pump cavitation
+Reduce the required flow rate by partially closing the ON-OFF valve
+downstream from the pump. If the problem persists check the
+operating conditions of the pump (for example height difference, flow
+resistance, liquid temperature).
+
+The motor bearings are worn.
+Contact the local sales and service representative.
+
+Contact the local sales and service representative.
+
+There are foreign objects inside
+the pump.
+
+Impeller rubs on the wear ring
+Contact the local sales and service representative.
+
+Coupling misaligned
+Check the coupling alignment.
+
+Check and replace the relevant parts if there is any sign of wear.
+
+Flexible elements of the coupling
+worn
+
+28
+Series 1710 Installation, Operation, and Maintenance Manual
+
+
+
+=== PDF page 31 of 32; declared page label 29 | native ===
+
+7  Troubleshooting
+
+For any other situation, refer to the local sales and service representative.
+
+Series 1710 Installation, Operation, and Maintenance Manual
+29
+
+
+
+=== PDF page 32 of 32; declared page label 30 | native ===
+
+Xylem |’zīləm|
+
+1) The tissue in plants that brings water upward from the roots;
+2) a leading global water technology company.
+
+We’re a global team unified in a common purpose: creating advanced technology
+solutions to the world’s water challenges. Developing new technologies that will
+improve the way water is used, conserved, and re-used in the future is central to
+our work. Our products and services move, treat, analyze, monitor and return water
+to the environment, in public utility, industrial, residential and commercial building
+services settings. Xylem also provides a leading portfolio of smart metering,
+network technologies and advanced analytics solutions for water, electric and gas
+utilities. In more than 150 countries, we have strong, long-standing relationships
+with customers who know us for our powerful combination of leading product
+brands and applications expertise with a strong focus on developing
+comprehensive, sustainable solutions.
+
+For more information on how Xylem can help you, go to www.xylem.com
+
+Visit our Web site for the latest version of this document
+and more information
+
+The original instruction is in English. All non-English
+instructions are translations of the original instruction.
+
+© 2022 Xylem
+
+Xylem Water Solutions Singapore Pte
+Ltd
+3A International Business Park
+Tower B, #10-10/18, ICON@IBP
+Singapore - 609935
+xylem.asia@xylem.com
+
+90036301_1.0_en-US_2022-12_IOM_Series 1710

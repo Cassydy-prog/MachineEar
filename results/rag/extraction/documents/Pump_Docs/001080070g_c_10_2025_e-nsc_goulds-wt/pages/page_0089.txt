@@ -1,0 +1,210 @@
+nl - Vertaling van origineel
+
+6.2  Controleafvinklijst
+
+Oorzaak
+Oplossing
+
+neem daarna contact op
+met de afdeling Verkoop
+en Service.
+
+De pomp loopt maar levert te weinig of geen vloei‐
+stof.
+
+Controleer de koppeling.
+Controleer de flexibele
+onderdelen van de kop‐
+peling. Vervang de re‐
+levante onderdelen als
+er tekenen van slĳtage
+zichtbaar zĳn en contro‐
+leer de afstelling.
+
+Oorzaak
+Oplossing
+
+Controleer de mechani‐
+sche pakking
+
+De pomp is ver‐
+stopt.
+
+Neem contact op met de afde‐
+ling Verkoop en Services.
+
+Controleer de mechani‐
+sche pakking op lekkage.
+Vervang de mechanische
+pakking wanneer deze
+lekt.
+
+Controleer de lagerpak‐
+kingen
+
+De instructies voor het oplossen van problemen in
+onderstaande tabellen zĳn uitsluitend voor installa‐
+teurs.
+
+7.2  De hoofdschakelaar staat aan, maar de
+elektrische pomp start niet
+
+Controleer of de axiale
+pakkingringen goed op
+de as zitten. Alleen voor‐
+zichtig contact van de
+pakkinglus mag plaats‐
+vinden.
+
+NL
+
+Oorzaak
+Oplossing
+
+Controleer op stille werk‐
+ing
+
+Er is geen stroom‐
+voorziening.
+
+Controleer regelmatig op
+stille werking van de
+pomp met vibratiemeet‐
+gereedschap.
+
+6.3  Demonteren en vervangen van
+pomponderdelen
+
+• Herstel de stroomvoor‐
+ziening.
+• Zorg ervoor dat alle
+elektrische aansluitingen
+naar de stroomvoorzie‐
+ning in orde zĳn.
+
+Neem voor meer informatie over reserveonderdelen
+en montage en demontage van de pomp contact
+op met de plaatselĳke verkoop- en servicevertegen‐
+woordiger.
+
+De in de pomp in‐
+gebouwde thermische
+beveiliging is geacti‐
+veerd.
+
+Wacht totdat de pomp is af‐
+gekoeld. De thermische be‐
+veiliging stelt zichzelf auto‐
+matisch terug.
+
+7  Lokaliseren van storingen
+
+Stel de thermische beveili‐
+ging terug.
+
+De thermische relais
+of motorbeschermer
+in het elektrische be‐
+dieningspaneel is ge‐
+activeerd.
+
+7.1  Problemen oplossen voor gebruikers
+De hoofdschakelaar staan aan, maar de elektrische
+pomp start niet.
+
+Controleer:
+
+Oorzaak
+Oplossing
+
+Het beveiligingsme‐
+chanisme tegen
+drooglopen is geacti‐
+veerd.
+
+De in de pomp inge‐
+bouwde thermische be‐
+veiliging is geactiveerd.
+
+• het vloeistofniveau in de
+tank of de hoofddruk.
+• het beveiligingsapparaat
+en de aangesloten ka‐
+bels.
+
+Wacht totdat de pomp is
+afgekoeld. De thermische
+beveiliging stelt zichzelf
+automatisch terug.
+
+Vervang de zekeringen.
+
+De zekeringen van de
+pomp of hulpcircuits
+zĳn doorgebrand.
+
+Het beveiligingsmecha‐
+nisme tegen drooglopen
+is geactiveerd.
+
+Controleer het vloeistofni‐
+veau in de tank of de
+hoofddruk
+
+De elektrische pomp start, maar de thermische be‐
+veiliging wordt na wisselende tĳden daarna geacti‐
+veerd.
+
+7.3  De elektrische pomp start, maar de
+thermische beveiliging wordt geactiveerd of
+de zekeringen branden meteen daarna door
+
+Oorzaak
+Oplossing
+
+Oorzaak
+Oplossing
+
+De stroomkabel is be‐
+schadigd.
+
+Controleer en vervang zo
+nodig de stroomkabel.
+
+Neem contact op met de
+afdeling Verkoop en Servi‐
+ces.
+
+Controleer en vervang zo
+nodig de onderdelen.
+
+Er bevinden zich vreem‐
+de voorwerpen (vaste
+bestanddelen of vezel‐
+achtige substanties) in
+de pump waardoor de
+waaier vastzit.
+
+De thermische beveili‐
+ging of zekeringen zĳn
+niet geschikt voor de
+stroomsterkte van de
+pomp.
+
+De elektromotor maakt
+kortsluiting.
+
+Controleer en vervang zo
+nodig de onderdelen.
+
+De pomp is overbelast
+omdat er vloeistof ge‐
+pompt is die te dik en te
+viskeus is.
+
+Controleer de feitelĳke
+stroomeisen op basis van
+de eigenschappen van
+de gepompte vloeistof en
+
+85

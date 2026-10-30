@@ -1,0 +1,193 @@
+sl - Prevod izvirnih navodil
+
+Črpalke z ležaji, ki jih je treba mazati
+
+Električna črpalka se zažene, vendar se pozneje (raz‐
+lično dolgo) sproži toplotno varovalo.
+
+Vzrok
+Ukrep
+
+Obrnite se na Oddelek za
+prodajo in servis.
+
+• Namažite vsakih 4.000 delovnih ur oz. vsaj enkrat
+letno. Najprej očistite mazalke (SN).
+• Uporabite mast razreda NLGI Grade 2 oz. enako‐
+vredno.
+Za kakršne koli zahteve ali informacije stopite v stik
+z lokalnim prodajnim in servisnim predstavnikom.
+
+V črpalki so tujki (trdna
+ali vlaknata telesa), za‐
+radi katerih je rotor obti‐
+čal.
+
+Ležaji motorja
+
+Črpalka je preobreme‐
+njena, ker črpa tekočino,
+ki je pregosta in preveč
+viskozna.
+
+Po približno petih letih je mast v ležajih motorja že
+tako stara, da priporočamo menjavo ležajev. Ležaje
+zamenjajte vsakih 25.000 delovnih ur oz. skladno z
+navodili za vzdrževanje, ki ste jih prejeli pri dobavite‐
+lju motorja (kar nastopi prej).
+
+Preverite dejanske zahte‐
+ve napajanja glede na ka‐
+rakteristike črpane tekoči‐
+ne in se nato obrnite na
+Oddelek za prodajo in ser‐
+vis.
+
+Motor z ležaji za domazovanje
+
+Črpalka deluje, vendar dovaja premalo ali nič tekoči‐
+ne.
+
+Upoštevajte navodila za vzdrževanje, ki ste jih prejeli
+pri dobavitelju motorja.
+
+Priklopna naprava
+
+Vzrok
+Ukrep
+
+Črpalka je zamaše‐
+na.
+
+Obrnite se na Oddelek za pro‐
+dajo in servis.
+
+Razmik v spojkah pregledujte redno, vsaj enkrat let‐
+no. Priporočamo, da preverjanje izvajate vsakih 1000
+delovnih ur ali vsake tri mesece, karkoli je prej.
+
+6.2  Seznam za preverjanje
+
+Navodila za odpravljanje težav v spodnjih tabelah so
+namenjene samo inštalaterjem.
+
+7.2  Glavno stikalo je vklopljeno, vendar se
+črpalka ne zažene
+
+Preverite spojko
+Preverite fleksibilne dele
+spojke. Če opazite zna‐
+ke obrabe, zamenjajte
+ustrezne dele in preverite
+poravnanost.
+
+Vzrok
+Ukrep
+
+Preverite mehansko tes‐
+nilo
+
+Preverite, ali mehansko
+tesnilo pušča. Če mehan‐
+sko tesnilo pušča, ga za‐
+menjajte.
+
+Ni napajanja.
+• Obnovite napajanje.
+• Prepričajte se, da so vse
+električni priključki na
+napajanje nepoškodova‐
+ne.
+
+Toplotno varovalo, na‐
+meščeno v črpalki (če
+je), se je sprožilo.
+
+Počakajte, da se črpalka oh‐
+ladi. Toplotno varovalo se
+samodejno ponastavi.
+
+Preverite tesnila ležajev
+Preverite, ali so aksial‐
+ni tesnilni obroči na gre‐
+di pravilno nameščeni.
+Vzpostavljen mora biti le
+nežen stik tesnilnega ro‐
+ba.
+
+Ponastavite toplotno varova‐
+lo.
+
+Toplotni rele ali zašči‐
+ta motorja na električ‐
+ni nadzorni plošči sta
+se sprožila.
+
+Preverite tiho delovanje
+Z orodji za merjenje vi‐
+bracij pogosto preverjajte
+tiho delovanje črpalke.
+
+Preverite:
+
+SL
+
+Naprava za zaščito
+pred tekom na suho
+se je sprožila.
+
+• raven tekočine v rezer‐
+voarju ali tlak omrežja in
+• zaščitno napravo in njeni
+priključne kable.
+
+6.3  Razstavljanje in menjava delov črpalke
+Za dodatne informacije o rezervnih delih ter sestav‐
+ljanju in razstavljanju črpalke se obrnite na lokalnega
+prodajnega in servisnega zastopnika.
+
+Zamenjajte varovalke.
+
+7  Odpravljanje napak
+
+Varovalke za črpalko
+ali dodatne tokokroge
+je vrglo ven.
+
+7.1  Odpravljanje težav za uporabnike
+Glavno stikalo je vklopljeno, vendar se črpalka ne
+zažene.
+
+7.3  Električna črpalka se zažene, vendar se
+sproži toplotno varovalo ali varovalke takoj
+pregorijo
+
+Vzrok
+Ukrep
+
+Vzrok
+Ukrep
+
+Toplotno varovalo, na‐
+meščeno v črpalki (če
+je), se je sprožilo.
+
+Počakajte, da se črpalka
+ohladi. Toplotno varovalo
+se samodejno ponastavi.
+
+Napajalni kabel je po‐
+škodovan.
+
+Preverite kabel in ga po po‐
+trebi zamenjajte.
+
+Naprava za zaščito
+pred tekom na suho se
+je sprožila.
+
+Preverite raven tekočine v
+rezervoarju ali tlak omrež‐
+ja.
+
+260

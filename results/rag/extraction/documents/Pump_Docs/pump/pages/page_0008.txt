@@ -1,0 +1,95 @@
+Section 1: Pumping System Basics
+
+E
+
+C
+
+D
+
+B
+
+H
+I
+
+G
+
+A
+
+F
+
+K
+
+J
+
+A
+
+A
+B
+C
+D
+E
+F
+G
+H
+
+I
+J
+K
+
+Key
+Pump
+Level Indicators
+Tank, Liquid Supply
+Pump Motor
+Motor Controller
+Throttle Valve
+Bypass Valve
+Heat Exchangers 
+  (End-Use Equipment)
+Instrumentation Line
+Pump Discharge Piping
+Pump Suction Piping
+
+Figure 1. Typical Pumping System Components
+
+A centrifugal pump’s flow/pressure relationship 
+is described by a performance curve that plots 
+the flow rate as a function of head (pressure). 
+Understanding this relationship is essential to 
+properly sizing a pump and designing a system 
+that performs efficiently. For more information, 
+see the fact sheet in Section 2 titled Centrifugal 
+Pumps.
+
+Although many applications can be served by 
+both positive displacement and centrifugal pumps, 
+centrifugal pumps are more common because they 
+are simple and safe to operate, require minimal 
+maintenance, and have characteristically long 
+operating lives. Centrifugal pumps typically suffer 
+less wear and require fewer part replacements 
+than positive displacement pumps. Although the 
+packing or mechanical seals must be replaced 
+periodically, these tasks usually require only a 
+minor amount of downtime. Centrifugal pumps 
+can also operate under a broad range of conditions. 
+The risk of catastrophic damage due to improper 
+valve positioning is low, if precautions are taken.
+
+Centrifugal pumps have a variable flow/pressure 
+relationship. A centrifugal pump acting against a 
+high system pressure generates less flow than it 
+does when acting against a low system pressure.
+
+In contrast, positive displacement pumps have a 
+fixed displacement volume. Consequently, the 
+flow rates they generate are directly proportional 
+to their speed. The pressures they generate are 
+determined by the system’s resistance to this 
+flow. Positive displacement pumps have operating 
+advantages that make them more practical for 
+certain applications. These pumps are typically 
+more appropriate for situations in which the 
+following apply:
+
+Improving Pumping System Performance

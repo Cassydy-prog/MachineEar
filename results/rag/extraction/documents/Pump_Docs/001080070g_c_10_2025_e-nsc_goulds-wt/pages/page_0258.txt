@@ -1,0 +1,208 @@
+sl - Prevod izvirnih navodil
+
+Koda materiala
+Material ohišja/
+
+Standardno/
+
+Nevarnost električnega udara:
+
+rotorja
+
+izbirno
+
+DB
+Kovno železo/
+
+Standard
+
+bron
+
+DN
+Kovno železo/
+
+Standard
+
+nerjavno jeklo
+
+• Priključitve naj izvajajo samo uspo‐
+sobljeni tehniki v skladu z veljavnimi
+predpisi.
+• Pred uporabo enote se prepričajte, da
+enota in nadzorna plošča nista v stiku
+z virom napajanja in da ni nevarnosti
+vklopa. To velja tudi za krmilno vezje.
+
+Standard
+
+NN
+Nerjavno jeklo/
+Nerjaveče jeklo
+
+Ozemljitev (zemlja)
+
+RR
+Dvojno/dvojno
+Izbirno
+
+Nevarnost električnega udara:
+
+3.6  Mehansko tesnilo
+Neuravnoteženo enojno mehansko tesnilo skladno z
+EN 12756, različica K.
+
+3.7  Omejitve uporabe
+
+Največji delovni tlak
+
+Na sliki Slika 4 na strani 367 je prikazan največji
+delovni tlak glede na model črpalke in temperaturo
+načrpane tekočine.
+P1 največ + Pnajmanj≤ PN
+
+P1 največ
+Največji vstopni tlak
+
+Pnajveč
+Največji tlak, ki ga ustvari črpalka
+
+PN
+Največji delovni tlak
+
+Temperaturni intervali tekočine
+
+• Pretvornik za zunanjo zaščito vedno
+priključite na ozemljitev (tla), preden
+ustvarite kakršno koli drugo električ‐
+no povezavo.
+• Ozemljiti morate vso električno opre‐
+mo. To velja za opremo črpalke, po‐
+gon in nadzorno opremo. Preizkusite
+ozemljitveni vodnik in preverite, ali je
+pravilno priključen.
+• Če se kabel motorja po nesreči iztak‐
+ne, mora biti ozemljitveni vodnik za‐
+dnji vodnik, ki se iztakne iz priključka.
+Poskrbite, da bo ozemljitveni vodnik
+daljši od faznih vodnikov. To velja za
+oba konca kabla motorja.
+• Namestite dodatno zaščito pred
+smrtnim udarom. Namestite viso‐
+koobčutljivo diferencialno stikalo (30
+mA) [zaščitno stikalo na diferenčni
+tok RCD].
+
+4.1  Zahteve pripomočka
+
+Na sliki Slika 4 na strani 367 so prikazana delovna
+temperaturna območja.
+Za posebne zahteve se obrnite na lokalnega pred‐
+stavnika za prodajo in servis.
+
+4.1.1  Namestitev črpalke
+
+Največje število zagonov na uro
+
+18,5
+
+NEVARNOST:
+Te enote ne uporabljajte v okoljih, ki lah‐
+ko vsebujejo vnetljive/eksplozivne ali ke‐
+mično agresivne pline ali praške.
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+Smernice
+
+60
+40
+30
+24
+16
+8
+4
+
+Zago‐
+ni na
+uro
+
+Pri namestitvi izdelka upoštevajte naslednje smerni‐
+ce:
+
+Raven hrupa
+
+SL
+
+Informacije o ravneh zvočnega tlaka črpalke, ki je
+opremljena s standardnim priloženim motorjem, naj‐
+dete v tabeli Tabela 9 na strani 368.
+Za ravni zvočnega tlaka črpalke brez motorja glejte
+Tabela 10 na strani 372.
+
+4  Namestitev
+
+Previdnostni ukrepi
+
+• Prepričajte se, da ni ovir, ki bi preprečevale običa‐
+jen tok hladnega zraka, ki ga proizvaja ventilator
+motorja.
+• Prepričajte se, da je območje za namestitev za‐
+ščiteno pred uhajanjem tekočin ali poplavljanjem.
+• Če je to možno, črpalko namestite nekoliko nad
+tlemi.
+• Temperatura okolice mora biti med 0 °C (+32 °F)
+in +40 °C (+104 °F).
+• Relativna vlažnost zraka v okolici mora biti nižja
+od 50 % pri +40 °C (+104 °F).
+• Obrnite se na Oddelek za prodajo in servis, če:
+– Je relativna vlažnost zraka višja od priporoče‐
+
+OPOZORILO:
+
+ne.
+– Je temperatura sobe višja od +40 °C (+104
+
+°F).
+– Je enota več kot 1000 m (3000 čevljev) nad
+
+• Upoštevajte veljavne predpise o pre‐
+prečevanju nesreč.
+• Uporabite ustrezno opremo in zašči‐
+to.
+• Vedno preberite veljavna lokalna
+in/ali državna določila, zakonodajo in
+predpise o izbiri mesta namestitve,
+vodovodnih in napajalnih priključkih.
+
+nadmorsko višino. Je treba delovanje moto‐
+rja znižati ali ga zamenjati z močnejšim moto‐
+rjem.
+Za več informacij o vrednosti za znižanje delovanja
+motorja si oglejte Tabela 11 na strani 379
+
+254

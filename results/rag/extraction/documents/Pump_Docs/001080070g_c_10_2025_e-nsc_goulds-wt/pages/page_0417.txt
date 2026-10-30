@@ -1,0 +1,65 @@
+Declarations of Conformity
+
+Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ 36075 Montecchio Maggiore VI 
+ Italy 
+3. This declaration of conformity is issued under the sole responsibility of the manufacturer. 
+4. Object of the declaration: electric pump. 
+5. The object of the declaration described above is in conformity with the relevant Union harmonization legislation 
+•  Directive 2014/30/EU of 26 February 2014 and subsequent amendments (electromagnetic compatibility).  
+•  Directive 2011/65/EU of 8 June 2011 and subsequent amendments, including directive (EU) 2015/863 (restriction of the use of 
+certain hazardous substances in electrical and electronic equipment). 
+6. References to the relevant harmonised standards used or references to the other technical specifications, in relation to which 
+conformity is declared: 
+•  EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-
+4:2007 +A1:2011, EN IEC 61000-6-4:2019. 
+• EN IEC 63000:2018. 
+7. Notified body: - - - 
+8. Additional information: 
+RoHS – Annex III – Applications exempted from the restrictions: lead as a binding element in steel, aluminium and copper alloys 
+[6(a), 6(b), 6(c)].  
+Optimyze: refer to documentation supplied with the monitoring device [Radio equipment 2014/53/EU and subsequent 
+amendments, Restriction of the use of certain hazardous substances in electrical and electronic equipment 2011/65/EU and 
+subsequent amendments, including the (EU) 2015/863 Directive]. 
+Signed for and on behalf of: Xylem Service Italia S.r.l.
+
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Managing Director
+
+The declaration(s) of conformity is(are) not valid if used separately from the rest of the text of the Xylem document code 
+001080070G. 
+Goulds is a registered trademark of Goulds Pumps, Inc., and is used under license. Optimyze is a trademark of Xylem Inc. or one 
+of its subsidiaries.
+
+Pump
+
+EC Declaration of Conformity (original) 
+ 
+Xylem Service Italia S.r.l., with headquarters in Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italy, hereby declares 
+that the product 
+NSC… pump (see label on last page) 
+fulfils the relevant provisions of the following European Directives 
+•  Machinery 2006/42/EC and subsequent amendments (ANNEX II - natural or legal person authorised to compile the technical file: 
+Xylem Service Italia S.r.l.), 
+•  Eco-design 2009/125/EC and subsequent amendments, Regulation (EU) No 547/2012 and subsequent amendments (water 
+pump, if MEI marked) 
+and technical standards 
+•  EN 809:1998+A1:2009. 
+•  EN 16480:2021. 
+Additional information: 
+Optimyze: if provided with the pump, refer to documentation supplied with the monitoring device [Radio equipment 2014/53/EU 
+and subsequent amendments, Restriction of the use of certain hazardous substances in electrical and electronic equipment 
+2011/65/EU and subsequent amendments, including the (EU) 2015/863 Directive]. 
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Managing Director
+
+413

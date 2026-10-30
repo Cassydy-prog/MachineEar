@@ -1,0 +1,105 @@
+1. Assessing Pumping System Needs
+
+Electrical System Wear. The stress on a motor 
+and its supporting electrical equipment is mini-
+mized when a motor is started under its lowest 
+mechanical load. For a radial centrifugal pump, 
+the brake horsepower (bhp) curve is typically a 
+constantly increasing line on the performance 
+curve, indicating that the motor current increases 
+as the flow rate goes up.
+
+In some cases, a large pump capable of handling 
+the highest system demand can be equipped with 
+an adjustable speed drive (ASD) to ensure that it 
+operates efficiently over a wide range of system 
+conditions (depending on the system curve). 
+ASDs are especially practical for systems that 
+are dominated by frictional resistance; however, 
+they must be evaluated carefully for use in 
+systems that have high static head. In high-
+static-head systems, reducing the pump speed 
+can cause a pump to operate close to shut-off 
+head conditions; this generally leads to poor 
+performance or, in severe cases, damage. For 
+more information, see the fact sheet in this 
+section titled Controlling Pumps with Adjustable 
+Speed Drives.
+
+A practical implication of a constantly rising bhp 
+line on the performance curve is that the pump’s 
+mechanical load is smallest at zero flow, that is, 
+when all valves downstream of the pump are 
+closed. Consequently, starting a centrifugal pump 
+while it is deadheaded and then opening the 
+valves soon after the pump comes up to speed can 
+reduce electrical stresses on the motor and the 
+motor controller.
+
+For an axial pump, this relationship between 
+flow and power is reversed. In an axial pump, 
+power decreases as flow increases. Consequently, 
+when soft-starting axial pumps, the operator must 
+ensure that downstream valves are open until the 
+pump is up to speed.
+
+Alternatively, expanding pumping system 
+capacity can be accomplished using multiple 
+pump arrangements. Multiple pump arrangements 
+allow several pumps to be available to serve a 
+system. System flow requirements dictate the 
+number of pumps energized at any particular 
+time. The principal benefit of this alternative is 
+to keep each pump operating closer to its BEP, 
+rather than requiring one large pump to operate 
+over a wide range of conditions.
+
+In some pumping systems, the effect of pump 
+starts on the fluid system itself is a larger concern 
+than their impact on the electrical system. For 
+example, rapid acceleration of large volumes of 
+fluid can create damaging water hammers. How-
+ever, as far as the electrical system is concerned, 
+start-up practices and, in some cases, special soft-
+starting switchgears that minimize electrical 
+surges and high starting currents can extend the 
+operating life of the system and improve overall 
+system reliability.
+
+Multiple pump arrangements are well suited 
+for systems that have high static heads and low 
+friction losses. Unlike alternatives that reduce  
+pump speed, the use of multiple pumps in 
+parallel avoids the danger of operating a pump 
+near shut-off head if the pumps are properly 
+matched, and this can allow each pump to 
+operate more efficiently. For more information, 
+see the fact sheet in this section titled Multiple 
+Pump Arrangements.
+
+Another multiple pump application is the use 
+of two different-sized pumps: a small one, known 
+as the pony pump, to handle normal loads, and 
+a large one to handle worst-case loads. The 
+advantage of using a pony pump is that the 
+smaller pump can be sized for efficient operation 
+during normal conditions, which then results in 
+lower operating and maintenance costs. For more 
+information, see the fact sheet in this section  
+titled Pony Pumps.
+
+ System Capacity Increases
+When a system needs to be modified or upgraded, 
+the available pumping capacity should also be 
+assessed. Unless the existing pump is consid-
+erably overdesigned, adding a branch to a system 
+or increasing the flow to an existing component 
+means that a larger pump or an additional pump 
+must be installed. Usually, the same type of pump 
+can be installed as the existing pump. However, 
+the size of the new pump or pumps can vary 
+according to service needs.
+
+17
+
+A Sourcebook for Industry

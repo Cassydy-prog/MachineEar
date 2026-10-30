@@ -1,0 +1,96 @@
+Four important rules which should always be followed
+for optimum seal life are:
+
+1. Keep the seal faces as clean as possible.
+2. Keep the seal as cool as possible.
+3. Assure that the seal always has proper lubrication.
+4. If seal is lubricated with filtered fluid, clean filter
+	 frequently.
+
+New packing should be placed carefully into the 
+stuffing box. If molded rings are used, the rings should 
+be opened sideways, and the joints pushed into the 
+stuffing box first. The rings are installed one at a time, 
+each ring seated firmly, and the joints staggered so 
+they are not in line. The joints should be kept toward 
+the upper side of the shaft and should be at about a 
+90 degree angle from each preceding joint.
+
+Cleaning without dismantling 
+pump
+
+If coil packing is used, cut one ring to accurate size 
+with either a butt or mitered joint. An accurately cut 
+butt joint is superior to a poor fitting mitered joint. 
+Fit the ring over the shaft to assure proper length. 
+Then remove and cut all other rings to the first 
+sample. When the rings are placed around the shaft, 
+a tight joint should be formed. Place the first ring 
+in the bottom of the stuffing box. Then install each 
+succeeding ring, staggering the joints as described 
+above, making sure each ring is firmly seated.
+
+We recommend that an increasing suction nozzle 
+or suction diffuser, bolted to the suction flange, be 
+supplied by Goulds Water Technology. (If this is not 
+done, a short section of pipe so designed that it can 
+be readily dropped out of the line can be installed 
+adjacent to the suction flange.) With this arrangement, 
+any matter clogging the impeller is accessible by 
+removing the nozzle (or pipe section).
+
+Other cleaning methods include running an auger 
+into the pump through the clean out hole in the 
+suction nozzle, or through the casing handhole. This 
+should free any clogging in the impeller eye.
+
+Make sure the seal cage is properly located in the 
+stuffing box under the sealing water inlet. The function 
+of the seal cage is to establish a liquid seal around the 
+shaft, prevent leakage of air through the stuffing box, 
+and lubricate the packing. If it is not properly located, 
+it serves no purpose.
+
+Mechanical shaft seals
+
+If the pump cannot be freed of clogging after the 
+above methods have been tried, dismantle the unit 
+as previously described to locate the trouble.
+
+General
+
+A mechanical shaft seal is supplied in place of a 
+packed stuffing box where specifically requested. 
+Mechanical seals are preferred over packing on some 
+applications because of better sealing qualities and 
+longer serviceability. Leakage is eliminated when a 
+seal is properly installed, and normally the life of the 
+seal is much greater than that of packing on
+similar applications.
+
+General instructions for operation of the various
+mechanical sealing arrangements are included below. 
+It is not feasible to include detailed instructions for all
+mechanical seals in this booklet because of the almost
+unlimited number of possible combinations and
+arrangements. Instead, seal manufacturer's 
+instructions will be included as a separate 
+supplement to this book where required.
+
+1. Mechanical seals are precision products and 
+should be treated with care. Use special care 
+when handling seals. Clean oil and clean parts are 
+essential to prevent scratching the finely lapped 
+sealing faces. Even light scratches on these faces 
+could result in leaky seals.
+2. Normally, mechanical seals require no adjustment 
+or maintenance, except routine replacement of 
+worn, or broken parts.
+3. A mechanical seal which has been used should not 
+be put back into service until the sealing faces have 
+been replaced or relapped. (Relapping is generally
+	 economical only in seals two inches in size and
+
+above.)
+
+31

@@ -1,0 +1,166 @@
+fi - Alkuperäisen käännöksen
+
+3. Avaa ja aseta tuki-/säätörengas (6) kotelo alas‐
+päin ja paina sitä aksiaalisesti moottoriin.
+4. Aseta kytkinsuojuksen (1) yläpuoli.
+5. Kiristä yläpuolikkaan kuoren (3) kiinnitysruuvit.
+6. Kiristä puolikuorien (5) sulkuruuvit.
+
+4.3.4  Sähköasennus
+
+1. Irrota liitäntärasian kannen ruuvit.
+
+2. Kytke ja kiinnitä virtakaapelit soveltuvan kytken‐
+täkaavion mukaan.
+
+Kytkentäkaaviot: katso Kuva 21 sivulla 392. Kaa‐
+viot ovat myös liitäntärasian kannen takapuolella.
+
+a) Kytke maadoitusjohto.
+
+• Älä koskaan käytä pumppua alle pienimmän sal‐
+litun nimellisvirtausnopeuden, kuivana tai ilman
+esitäyttöä.
+• Älä koskaan käytä pumppua ON-OFF-päästövent‐
+tiili suljettuna muutamaa sekuntia pidempään.
+• Älä koskaan käytä pumppua, jos ON-OFF-imu‐
+venttiili on suljettu.
+• Älä anna sammutetun pumpun olla alle nollan
+asteen lämpötilassa. Tyhjennä pumppu kaikista
+nesteistä. Jos ohjeita ei noudateta, neste voi jää‐
+tyä ja vaurioittaa pumppua.
+• Imupuolen (pääsyöttö, valumissäiliö) ja pumpun
+tuottaman maksimipaineen summa ei saa ylittää
+pumpun suurinta sallittua käyttöpainetta (nimel‐
+lispaine PN).
+• Älä käytä pumppua, jos siinä on kavitaatiota. Ka‐
+vitaatio saattaa vioittaa sisäosia.
+
+Varmista, että maadoitusjohto on vaihejohtoja
+pitempi.
+b) Kytke vaihejohdot.
+
+5.1  Täytä pumppu
+
+3. Asenna kytkentärasian kansi.
+
+Lisätietoja pumpun lisäliitännöistä: katso Kuva 22
+sivulla 392.
+
+HUOMIO:
+Kiristä kaapeliläpiviennit huolellisesti estääksesi
+kaapelin luistamisen ja kosteuden pääsyn kytken‐
+tärasiaan.
+
+Asennukset, joissa nesteen pinta on pumpun
+yläpuolella (imupää)
+
+Kuva, jossa pumpun tulpat näkyvät, on kohdassa Ku‐
+va 23 sivulla 394.
+
+4. Jos moottorissa ei ole automaattisesti nollautu‐
+vaa lämpösuojaa, säädä ylikuormitussuoja alla
+olevan luettelon mukaisesti.
+
+– Jos moottoria käytetään täydellä kuormalla,
+
+FI
+
+1. Sulje pumpun myötäsuunnassa oleva sulkuvent‐
+tiili.
+
+aseta arvoksi sähköpumpun nimellisvirta-arvo
+(tietokilpi)
+– Jos moottoria käytetään osakuormalla, ase‐
+
+2. Irrota täyttö- (3) tai mittatulppa (1) ja avaa vasta‐
+suunnassa olevaa sulkuventtiiliä, kunnes aukosta
+virtaa vettä.
+
+a) Sulje täyttö- (3) tai mittatulppa (1).
+
+ta arvoksi vetovirta (esimerkiksi virtapihdeillä
+mitattu).
+– Jos pumpussa on tähtikolmiokäynnistysjär‐
+
+jestelmä, säädä lämpörele 58 %:iin nimellis-
+tai vetovirrasta (vain kolmivaihemoottorit).
+
+Asennukset, joissa nesteen pinta on pumpun
+alapuolella (imukorkeus)
+
+Kuva, jossa pumpun tulpat näkyvät, on kohdassa Ku‐
+va 24 sivulla 395.
+
+5  Käyttöönotto, käynnistys, käyttö ja
+sammutus
+
+1. Kaikki putket tyhjiä:
+
+Varotoimet
+
+a) Avaa pumpun vastasuunnassa oleva sulku‐
+
+venttiili.
+b) Irrota täyttötulppa (3) ja mittatulppa (1). Täy‐
+
+VAROITUS:
+Fyysiset ja lämpövaarat
+
+tä pumppua suppilolla täyttöreiän kautta, kun‐
+nes tästä aukosta virtaa ulos vettä.
+c) Kiristä täyttötulppa (3) ja mittatulppa (1).
+
+2. Täytetty poistoputkisto:
+
+• Käytä aina henkilökohtaisia suojava‐
+rusteita.
+• Tarkista, että kytkinsuoja on asennet‐
+tu.
+
+a) Avaa pumpun vastasuunnassa oleva sulku‐
+
+VAROITUS:
+
+venttiili ja avaa myötäsuunnassa oleva sulku‐
+venttiili.
+b) Avaa mittatulppaa (1), kunnes tästä aukosta
+
+virtaa ulos vettä.
+c) Kiristä mittatulppa (1).
+
+• Varmista, että poistuva neste ei voi
+aiheuttaa vahinkoja eikä loukkaantu‐
+misia.
+• Moottorin suojaimet saattavat käyn‐
+nistää sen uudelleen odottamatta. Tä‐
+mä saattaa aiheuttaa vakavan vam‐
+man.
+
+5.2  Tarkista pyörimissuunta
+(kolmivaihemoottori)
+Noudata tätä menettelyä ennen käynnistystä.
+
+VAROITUS:
+
+1. Määritä oikea pyörimissuunta etsimällä sovitti‐
+men tai moottorin puhaltimen suojuksen nuolet.
+
+2. Käynnistä moottori.
+
+3. Tarkista pyörimissuunta nopeasti kytkinsuojuk‐
+sen tai moottorin puhaltimen suojuksen läpi.
+
+• Pumpun ja moottorin ulkopintojen
+lämpötila voi ylittää 40 ºC (104 ºF)
+käytön aikana.
+• Älä laita mitään palavaa materiaalia
+pumpun lähelle.
+
+4. Sammuta moottori.
+
+5. Jos pyörimissuunta on väärä, toimi seuraavasti:
+
+HUOMIO:
+
+129

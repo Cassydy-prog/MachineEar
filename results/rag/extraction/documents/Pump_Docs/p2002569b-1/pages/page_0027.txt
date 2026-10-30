@@ -1,0 +1,54 @@
+Not enough pressure
+
+CAUSES
+CURES
+
+21. Speed too low.
+See item 5.
+
+22. Air leaks in suction piping.
+See item 8.
+
+23. Mechanical defects.
+See items 15, 16 and 17.
+
+24. Obstruction in liquid passages.
+Dismantle pump and inspect passages of impeller and casing. 
+Remove obstruction.
+
+May be possible to over rate pump to point where it will provide
+adequate pressure despite condition. Better to provide gas 
+separation chamber on suction line near pump, and periodically 
+exhaust accumulated gas. See item 14.
+
+25. Air or gases in liquid. (Test in
+laboratory, reducing pressure on
+liquid to pressure in suction line.
+Watch for bubble formation.)
+
+26. Too small impeller diameter.
+(Probable cause if none of above.)
+See item 20.
+
+Pump operates for short time, then stops
+
+CAUSES
+CURES
+
+27. Incomplete priming.
+Free pump, piping and valves of all air. If high points in suction line
+prevent this, they need correcting. See page 21.
+
+28. Suction lift too high.
+Sec item 3.
+
+29. Air leaks in suction piping.
+See item 8.
+
+30. Air leaks in stuffing box.
+See item 9.
+
+31. Air or gases in liquid.
+See item 25.
+
+27

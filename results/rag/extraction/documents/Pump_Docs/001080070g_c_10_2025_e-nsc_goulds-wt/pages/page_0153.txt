@@ -1,0 +1,156 @@
+et - Originaali tõlkimine
+
+Nõuded vundamendile
+
+• Tahke alusraam, mis ei väändu ega vibreeri töö
+ajal (resonants).
+• Pumbajalgade ja mootori paigalduspinnad alus‐
+raamil peavad olema lamedad (soovituslik on
+masindamine).
+• Tagatud peab olema pumba ja mootori ohutu kin‐
+nitus.
+• Kasutatud sidurist olenevalt peab pumba ja moo‐
+tori võlli vahel olema piisavalt ruumi.
+• Pumba ja alusraami vahel peab olema sobiv kiil,
+nii et asendamise korral saab reguleerida sama
+kõrgust alumise põhja ja keskjoone vahel (soovi‐
+tuslik vertikaalne seadistus on 4-6 mm).
+
+Vibratsiooni vähendamine
+
+• Betooni survekindlus peab olema C12/15 ja vas‐
+tama kokkupuuteklassi XC1 nõuetele vastavalt
+standardile EN 206-1
+• Suurused peavad sobima seadme tugiplaadi suu‐
+rusega
+• Vundamendi kaal peab olema ≥ 1,5 korda sead‐
+me kaal (≥ 5 korda seadme kaal, kui nõutakse
+vaiksemat töötamist)
+• Pind peab olema võimalikult lame ja horisontaal‐
+ne
+• Kallak peab olema ≤ 1 mm/m.
+Lisajuhised leiate dokumendist nr 001080247X: alla‐
+laadimiseks skannige QR-kood, mille leiate jaotisest
+Joonis 17 leheküljel 384.
+
+Pumba kinnitamine
+
+Horisontaalsete ja vertikaalsete paigalduste kohta
+vaadake näiteid siit: Joonis 15 leheküljel 383.
+
+Seade ja vedelike vool süsteemis võib põhjustada
+vibratsioone, mis võib tugevneda, kui seade või to‐
+rustik ei ole korralikult paigaldatud: järgige juhiseid
+jaotises Betoonvundamendi paigaldamine leheküljel
+148 ja Pumba kinnitamine leheküljel 149, lisaks jaoti‐
+sele Torusüsteemi kontrollnimekiri leheküljel 149
+
+Samuti soovitatakse järgmist.
+
+1. Vt tehnilist kataloogi järgmise kohta:
+– Vundamendi aukude diameeter ja arv
+– Aukude vahed
+– Keemiliste ankrutega ühendusvarraste suuru‐
+
+• Kontrollige, kas pump ja mootor on kindlalt aluse‐
+le kinnitatud
+• Sisestage aluse ja vundamendi vahele vibratsioo‐
+nivastane materjal
+• Kui seadmel on keevitatud alus, täitke joonisel
+Joonis 25 leheküljel 397 näidatud tühimikud be‐
+tooniga.
+
+ET
+
+MÄRKUS:
+Ärge täitke kurrutatud plekist alust Joonis 26 lehe‐
+küljel 397 betooniga.
+
+4.3.2  Torusüsteemi kontrollnimekiri
+Kontrollige, et tehtud on järgmist.
+
+se ja koguse arvutamine, olenevalt seadme
+mudelist.
+2. Puurige vundamenti auk ja kinnitage ühendusvar‐
+dad.
+3. Paigutage seade vundamendile ja kasutage vesi‐
+loodi väljavooluava ja võlli puhul, et kontrollida
+nende horisontaalsust.
+Maksimaalne lubatud kõrvalekalle: 0,2 mm/m.
+4. Imi- ja väljavooluavade korkide olemasolu korral
+eemaldage need.
+5. Joondage imi- ja väljavooluavad nende torustik‐
+uga.
+6. Kinnitage torusüsteem seadmega; vt ka Torusüs‐
+teemi kontrollnimekiri leheküljel 149.
+7. Vajadusel sisestage vundamendi ja aluse vahele
+tasanduskiilud: kui ühendusvarraste vahe on >
+800 mm, sisestage aluse keskosa juurde kaks li‐
+sakiilu. Kõik kiilud peavad olema ühel tasapinnal.
+Vt jaotist Joonis 17 leheküljel 384.
+8. Pingutage ühendusvarraste mutrid ühtlaselt ja
+täielikult, veendudes, et pingutusmomendid vas‐
+taksid tabelis näidatud väärtustele.
+
+Mutter
+Pingutusmoment, Nm
+(lbf·in)
+
+• Imikõrguse paigaldamisel peab imitoru olema
+õhutaskute vältimiseks seadme suunas üle 2%
+tõusvalt kaldus.
+• Torusüsteemi nominaalsed diameetrid peavad
+olema vähemalt võrdsed pumba portide nomi‐
+naalsete diameetritega.
+• Toestage torusüsteem eraldi nii, et see ei koor‐
+maks seadet.
+• Loputage torusüsteem enne seadmega ühenda‐
+mist, et eemaldada kõik keevitusjäägis, muud
+jäägid ja mustus. Vajaduse korral paigaldage fil‐
+ter.
+
+M12
+60 (44)
+
+M16
+120 (89)
+
+M20
+200 (148)
+
+HOIATUS:
+Keevituspuru, katlakivi ja muud saasteai‐
+ned torustikus lõhuvad pumpa.
+
+M24
+350 (258)
+
+4.3.3  Siduri joondus
+
+M27
+530 (391)
+
+Sidurikaitsme eemaldamine
+
+Märkus.
+
+• Alusplaadid on soovitatav krohvida kuivamisel
+vähe kahaneva betooniga.
+
+HOIATUS:
+Ärge kunagi kasutage pumpa, kui selle
+sidurikaitse pole nõuetekohaselt paigal‐
+datud.
+
+Pumba kinnitamine alusraami külge
+
+Kontrollige kindlasti, et tagatud on järgmised tingi‐
+mused.
+
+Kaitse tüüp: traatvõrk
+Lisateabe saamiseks vt jaotist Joonis 18 leheküljel
+386.
+1. Keerake lahti kruvid (2).
+2. Eemaldage traatvõrk. (1).
+
+149

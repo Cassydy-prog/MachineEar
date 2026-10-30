@@ -1,0 +1,194 @@
+de - Übersetzung des Originals
+
+Cause
+Remède
+
+Cause
+Remède
+
+fermée ou partielle‐
+ment fermée.
+
+Éclatement de membrane ou
+pas de précharge d'air dans le
+réservoir sous pression.
+
+La pompe est col‐
+matée.
+
+Contacter le représentant
+SAV local.
+
+Consulter les ins‐
+tructions correspon‐
+dantes dans le ma‐
+nuel du réservoir
+sous pression.
+
+La canalisation est
+colmatée.
+
+Vérifier et nettoyer les canali‐
+sations.
+
+7.11  La pompe vibre et fait trop de bruit
+
+Cause
+Remède
+
+Échanger la position de deux
+phases sur le bornier du mo‐
+teur ou le tableau électrique
+de commande.
+
+Le sens de rotation
+de la roue est incor‐
+rect.
+(version triphasée)
+
+Cavitation de la
+pompe
+
+DE
+
+Vérifier les conditions de
+fonctionnement de la pompe.
+Si nécessaire, procéder com‐
+me suit :
+
+Le levage d'aspira‐
+tion est trop élevé ou
+la perte de charge
+dans la canalisation
+d'aspiration trop im‐
+portante.
+
+Réduire le débit requis en fer‐
+mant partiellement la vanne
+MARCHE-ARRÊT en aval de la
+pompe. Si le problème persiste,
+vérifier les conditions de fonc‐
+tionnement de la pompe (par
+exemple différence de hauteur,
+perte de charge, température du
+liquide).
+
+• Réduire le levage d'aspira‐
+tion
+• Augmenter le diamètre
+de la canalisation d'aspi‐
+ration.
+
+Contacter le représentant SAV
+local.
+
+Les roulements
+du moteur sont
+usés.
+
+7.9  La pompe électrique s'arrête puis tourne
+dans le mauvais sens
+
+Contacter le représentant SAV
+local.
+
+Il y a des corps
+étrangers à l'inté‐
+rieur de la pom‐
+pe.
+
+Cause
+Remède
+
+La roue frotte sur
+la bague d'usure
+
+Contacter le représentant SAV
+local.
+
+Il existe une fuite sur l'un ou les
+deux composants suivants :
+
+Réparer ou rem‐
+placer le com‐
+posant défectu‐
+eux.
+
+Couplage désali‐
+gné
+
+Vérifier l'alignement de l'accou‐
+plement.
+
+• Canalisation d'aspiration
+• Clapet de pied ou clapet antire‐
+tour
+
+Purger l'air.
+
+Éléments souples
+de l'accouple‐
+ment usés
+
+Vérifier et remplacer les pièces
+pertinentes en cas de signe
+d'usure.
+
+Présence d'air dans la canalisation
+d'aspiration.
+
+7.10  La pompe démarre trop fréquemment
+
+Pour tout autre cas, consulter le Service commercial
+et après-vente local.
+
+Cause
+Remède
+
+Il existe une fuite sur l'un
+ou les deux composants sui‐
+vants :
+
+Réparer ou rempla‐
+cer le composant
+défectueux.
+
+• Canalisation d'aspiration
+• Clapet de pied ou clapet
+antiretour
+
+1  Einführung und Sicherheit
+
+1.1  Einführung
+
+tieren und verwenden. Ein nicht bestim‐
+mungsgemäßer Gebrauch des Produktes
+kann zu Personen- und Sachschäden so‐
+wie zum Verlust der Garantie führen.
+
+Zweck dieses Handbuchs
+
+Der Zweck dieser Betriebsanleitung liegt in der Be‐
+reitstellung der erforderlichen Informationen für:
+
+HINWEIS:
+Bewahren Sie diese Betriebsanleitung zur späteren
+Bezugnahme auf und halten Sie diese am Standort
+der Einheit bereit.
+
+• Installation
+• Betrieb
+• Wartung
+
+1.2  Sicherheitsterminologie und Symbole
+
+Sicherheitshinweise und -vorschriften
+
+VORSICHT:
+Lesen Sie diese Betriebsanleitung auf‐
+merksam, bevor Sie das Produkt mon‐
+
+Es ist sehr wichtig, dass Sie die folgenden Sicher‐
+heitshinweise und -vorschriften sorgfältig durchle‐
+
+37

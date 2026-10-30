@@ -1,0 +1,102 @@
+3. Indications of Oversized Pumps
+
+Indications of Oversized Pumps
+
+Related Tip Sheets
+
+Conservative engineering practices often result in 
+the specification, purchase, and installation of 
+pumps that exceed process requirements. Engineers 
+often decide to include a margin of safety in sizing 
+pumps to compensate for uncertainties in the 
+design process. Anticipated expansions in system 
+capacity and potential fouling effects add to the 
+tendency to source pumps that are “one size up” 
+from those that meet system requirements.
+
+Related information is available in two ITP 
+BestPractices Tip Sheets titled Select an 
+Energy-Efficient Centrifugal Pump and Test 
+for Pumping System Efficiency. Tip sheets 
+can be found in Appendix C, accessed on the 
+Web at www.eere.energy.gov/industry/
+bestpractices, or obtained by contacting the 
+EERE Information Center at 877-337-3463.
+
+create fatigue loads on welds in both the pipes and 
+piping supports.
+
+Highly Throttled Flow Control Valves. Throttle 
+valves affect system flow in two principal ways:
+
+Unfortunately, oversizing pumps adds to system 
+operating costs in terms of both energy and 
+maintenance requirements; these costs are often 
+overlooked during the system specification 
+process. Since many of these operating and 
+maintenance costs are avoidable, correcting an 
+oversized pump can be a cost-effective system 
+improvement.
+
+■	 Shifting system flow balance, forcing flow
+
+rates in different system branches to increase 
+or decrease
+
+■	 Changing the overall system backpressure—
+
+essentially causing the pump to “see” a 
+different system, which shifts its operating 
+point along its performance curve.
+
+Appendix B, Pumping System Assessment Tool, 
+describes a useful DOE-developed software tool 
+that can help engineers identify and prioritize 
+opportunities to optimize pumping systems. Many 
+of the principles discussed here can also help to 
+indicate whether a pump is operating efficiently 
+relative to the needs of its system.
+
+ Common Indications of Oversizing
+There are five common indications that a pump is 
+oversized: excessive flow noise, highly throttled 
+flow control valves, heavy use of bypass lines, 
+frequent replacements of bearings and seals, and 
+intermittent pump operation.
+
+Both these effects occur concurrently to an extent 
+that depends on the system’s configuration. In 
+systems with oversized pumps, valves tend to 
+remain in restrictive positions, and this forces the 
+pump to operate against a high backpressure. 
+Since this backpressure is typically higher than the 
+pressure associated with the pump’s best efficiency 
+point (BEP), the pump operates inefficiently and is 
+susceptible to higher-than-normal bearing wear.
+
+Excessive Flow Noise. Oversized pumps tend to 
+cause excessive levels of noise. These problems 
+are frequently disregarded as normal system 
+operating characteristics as the operators simply 
+get used to the system’s acoustic levels. Unless the 
+noise levels worsen, the system is assumed to be 
+performing normally. However, the cumulative 
+damage that results from flow-induced pipe 
+vibrations can significantly accelerate system wear.
+
+Many control valves are oversized to ensure 
+adequate flow. Unknowns such as pump 
+performance, pipeline fouling and scaling, and 
+future production rates all tend to create a bias 
+toward oversizing. Many control valves normally 
+operate at less than 50% open. Appropriate valve 
+characterization is often not applied. This results 
+in a high degree of nonlinearity and thus 
+inconsistent control performance.
+
+Pipe vibrations tend to loosen flanged connections 
+and other mechanical joints. These vibrations also
+
+25
+
+A Sourcebook for Industry

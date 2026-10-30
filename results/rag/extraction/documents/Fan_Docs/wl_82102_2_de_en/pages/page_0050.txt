@@ -1,0 +1,55 @@
+Evaluation of running features and damage to dismounted bearings
+
+Lip contact
+
+3.4.1.2  Seizure in lip contact
+Symptoms:
+
+Partial or large-area welding and deep
+scratches in the lip and roller face areas,
+figs. 81 and 82. Also lubricant coking in
+this area. Frequently related to very high
+loads.
+
+Causes:
+– Inadequate lubrication with high
+
+loads and high speeds (quantity or
+operating viscosity of lubricant too
+low)
+– Inadequate lubrication with high
+
+loads and low speeds when there is no
+hydrodynamic lubricating film be-
+tween roller face and lip 
+– Too high preload of tapered roller
+
+81: Skewing rollers caused seizure marks at the lip when in contact with its edges.
+
+bearings 
+– Detrimental preload due to heat ex-
+
+pansion
+– Skewing of rollers for example in the
+
+case of raceway wear, ring tilting or
+insufficient adjustment, fig. 81
+– Axial load too high on cylindrical
+
+roller bearings
+– Axial preload of inner ring too high
+
+for out-of-square mating surfaces.
+
+Remedial measures:
+– Improve lubrication (increase vis-
+
+cosity, EP additives, increase lubricant
+quantity)
+– Ensure correct adjustment of bearings
+
+82: Seizure can arise at the roller face and lip when the lubricant supply is 
+inadequate and loads are high.
+
+49
+FAG

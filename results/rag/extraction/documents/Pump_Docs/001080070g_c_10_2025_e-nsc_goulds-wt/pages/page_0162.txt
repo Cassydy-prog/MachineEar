@@ -1,0 +1,157 @@
+lv - Oriģinālās instrukcijas
+
+Piesardzības pasākumi
+
+BRĪDINĀJUMS:
+
+• Ja iespējams, novietojiet sūkni mazliet augstāk
+par grīdas līmeni.
+• Vides temperatūrai jābūt no 0 °C (+32 °F) līdz
++40 °C (+104 °F).
+• Apkārtējās vides relatīvajam gaisa mitrumam jā‐
+būt mazākam par 50 % pie +40 °C (+104 °F).
+• Sazinieties ar pārdošanas un servisa nodaļu, ja:
+– relatīvie gaisa mitruma apstākļi pārsniedz
+
+vadlīnijās noteiktos;
+– telpas temperatūra pārsniedz +40 °C
+
+(+104 °F);
+– iekārta atrodas vairāk nekā 1000 m (3000 pē‐
+
+• Ievērojiet spēkā esošos darba drošī‐
+bas noteikumus.
+• Izmantojiet piemērotu aprīkojumu un
+aizsargierīces.
+• Vienmēr pārbaudiet spēkā esošos
+vietējā un valsts līmeņa noteikumus,
+likumus un standartus par uzstādīša‐
+nas vietas izvēli, cauruļvadu sistēmu
+un strāvas pieslēgumiem.
+
+Elektriskās strāvas apdraudējums:
+
+das) virs jūras līmeņa. Motora sniegums var
+būt jāpieregulē vai tas ir jānomaina ar jaudīgā‐
+ku motoru.
+Informāciju par to, ar kuru vērtību pārregulēt motoru,
+skatiet šeit: Tabula 11 379 lappusē.
+
+Sūkņa novietojums un atstarpe
+
+• Pārbaudiet, vai visus savienojumus ir
+uzstādījuši kvalificēti tehniķi saskaņā
+ar spēkā esošajiem noteikumiem.
+• Pirms darba ar iekārtu uzsākšanas
+pārliecinieties, ka iekārta un vadības
+panelis ir izolēti no elektropadeves un
+nevar tikt pieslēgti strāvai. Tas attie‐
+cas arī uz vadības kontūru.
+
+Zemējums
+
+• Lai nodrošinātu atbilstošu ventilāciju ≥ 100 mm
+(4 collas)
+• Lai ļautu pārbaudīt un izņemt motoru: ≥ 300 mm
+(12 collas)
+• Ja pieejamā telpa ir mazāka, skatiet tehnisko ka‐
+talogu.
+
+Elektriskās strāvas apdraudējums:
+
+Uzstādīšana virs ūdens ņemšanas vietas
+(celšana ar iesūknēšanu)
+
+Jebkuram sūknim teorētiskais maksimālais sūknē‐
+šanas augstums ir 10,33 m. Praktiskajā pielietojumā
+sūkņa veiktspēju ietekmē vairāki faktori
+
+LV
+
+• Šķidruma temperatūra
+• Augstums virs jūras līmeņa (nenoslēgtā sistēmā)
+• Spiediens sistēmā (noslēgtā sistēmā)
+• Cauruļvadu pretestība
+• Sūkņa iekšējā plūsmas pretestība
+• Augstumu starpība
+Lai aprēķinātu maksimālo augstumu virs šķidruma
+līmeņa, kādā var uzstādīt sūkni, izmanto šādu formu‐
+lu:
+(pb*10,2 – Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+Barometriskais spiediens, bāri (slēgtās sistē‐
+mās — sistēmas spiediens)
+
+NPSH
+Sūkņa iekšējā plūsmas pretestība vērtība
+metros
+
+• Vienmēr pievienojiet ārējo aizsardzī‐
+bas pievadu zemējuma (zemesvada)
+spailei pirms pārējo elektrisko pieva‐
+du pieslēgšanas.
+• Ir jāiezemē viss elektroaprīkojums.
+Tas attiecas uz sūkņa aprīkojumu,
+dzinēju un visu pārraudzības aprīkoju‐
+mu. Pārbaudiet zemējuma vadu, lai
+pārliecinātos, vai tas ir pareizi pievie‐
+nots.
+• Ja motora kabelis ir nejauši kļuvis va‐
+ļīgs grūdienu rezultātā, zemējuma va‐
+dītājam jābūt pēdējam, kas kļūtu va‐
+ļīgs. Pārbaudiet, vai zemējuma vads
+ir garāks par fāžu vadītājiem. Tas at‐
+tiecas uz abiem motora pieslēguma
+kabeļa galiem.
+• Izmantojiet papildus aizsardzību pret
+nāvējošu elektriskās strāvas triecie‐
+nu. Uzstādiet jutīgu diferenciālo slē‐
+dzi (30 mA) [strāvas starpības ierīci
+RCD].
+
+Hf
+Kopējie zudumi metros, ko izraisa šķidruma
+transportēšana sūkņa iesūkšanas caurulē
+
+4.1  Prasības pret novietojumu vietu
+
+Hv
+Tvaika spiediens metros, kas atbilst šķidru‐
+ma temperatūrai T °C
+
+4.1.1  Sūkņa novietojums
+
+0,5
+Ieteicamā drošības rezerve (m)
+
+Z
+Maksimālais sūkņa uzstādīšanas augstums
+(m)
+
+BĪSTAMI:
+Neizmantojiet šo sūkni vidē, kas satur
+uzliesmojošas un sprāgstošas gāzes vai
+ķīmiski bīstamas gāzes un pulverus.
+
+(pb*10,2 – Z) vienmēr jābūt pozitīvam skaitlim.
+Papildinformāciju skatiet šeit: Attēls 12 380 lappusē.
+
+Vadlīnijas
+
+Ievērojiet šīs vadlīnijas attiecībā uz produkta novieto‐
+jumu:
+
+PAZIŅOJUMS:
+Nepārsniedziet sūkņa iesūknēšanas jaudu, jo tas var
+izraisīt kavitāciju un sūkņa bojājumus.
+
+4.1.2  Prasības cauruļvadiem
+
+• Pārliecinieties, ka nav šķēršļu, kas traucētu nor‐
+mālai dzesēšanas gaisa plūsmai, kas tiek padota
+ar motora ventilatoru.
+• Pārliecinieties, ka uzstādīšanas zona ir pasargāta
+no šķidrumiem vai pārplūšanas.
+
+158

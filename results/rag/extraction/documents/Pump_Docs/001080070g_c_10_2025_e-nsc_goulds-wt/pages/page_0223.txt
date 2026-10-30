@@ -1,0 +1,167 @@
+hu - Eredeti útmutató
+
+Szivattyú típusa
+Védelem
+
+Háromfázisú elektro‐
+mos szivattyú38
+– Termikus védelem
+
+(a telepítő gondos‐
+kodik róla)
+– Rövidzárlat elleni
+
+védelem (a telepítő
+gondoskodik róla)
+
+FIGYELMEZTETÉS:
+Tilos a nyomóoldali elzárószelepet né‐
+hány másodpercnél hosszabb ideig a
+szivattyú fojtása érdekében zárva tarta‐
+ni. Ha a szivattyúnak pár másodperc‐
+nél hosszabban kell működnie elzárt nyo‐
+móoldallal, a szivattyúban lévő folyadék
+túlhevülésének megelőzésére megkerülő
+csővezetéket kell alkalmazni.
+
+A csővezetékre vonatkozó követelményeket szemlél‐
+tető ábrákkal kapcsolatban lásd: 13. ábra 380. olda‐
+lon and és 14. ábra 380. oldalon.
+
+• A vezérlőpanelen lennie kell szárazonfutás elleni
+védelmi rendszernek, amihez nyomáskapcsoló,
+úszókapcsoló, szonda vagy más alkalmas esz‐
+köz csatlakozik.
+• A szivattyú szívóoldalán a következő berendezé‐
+sek használata javasolt:
+
+– Ha a folyadékot vízhálózatból szivattyúzzák,
+
+használjon nyomáskapcsolót.
+– Ha a folyadékot tárolótartályból vagy víztáro‐
+
+4.2  Villamossági követelmények
+• A hatályos helyi előírások felülírják az itt megha‐
+tározott követelményeket.
+• Tűzoltórendszerek (tűzcsapok és/vagy tűzoltó
+berendezések) esetén ellenőrizze a hatályos jog‐
+szabályokat.
+
+zóból szivattyúzzák, használjon úszókapcso‐
+lót vagy úszóérzékelőt.
+• Hőrelé használata esetén javasolt fázishibát ér‐
+zékelő relék használata.
+
+Elektromos bekötés ellenőrzőlistája
+
+A motor ellenőrzőlistája
+
+Ellenőrizze, hogy a következő feltételek teljesülnek-e:
+
+FIGYELMEZTETÉS:
+
+• Biztosított a villamos vezetékek magas hőmér‐
+séklettel, rezgéssel és ütődésekkel szembeni vé‐
+delme.
+• A tápkábel rendelkezik a következőkkel:
+– Rövidzárlat elleni védőegység
+– Hálózati leválasztó kapcsoló legalább 3 mm
+
+érintkező-távolsággal
+
+Az elektromos kapcsolótáblával kapcsolatos
+ellenőrzőlista
+
+• Tájékozódjon a kezelési útmutató‐
+ból annak meghatározása érdekében,
+hogy az alapkiépítés szerintitől eltérő
+motor használata esetén a berende‐
+zés rendelkezik-e védőeszközzel.
+• Ha a motor automatikus hőkioldó ér‐
+zékelőkkel van felszerelve, túlterhelt‐
+ség esetén fennáll a spontán elindu‐
+lás veszélye. Ne használja az ilyen
+motorokat tűzoltó alkalmazásra.
+
+FIGYELMEZTETÉS:
+
+FIGYELMEZTETÉS:
+Az elektromos kapcsolótábla villamossági jellemzői‐
+nek meg kell felelniük az elektromos szivattyú vonat‐
+kozó értékeinek. A nem megfelelő kombináció nem
+biztosítja a motor védelmét.
+
+Ellenőrizze, hogy a következő feltételek teljesülnek-e:
+
+HU
+
+• Kizárólag dinamikusan kiegyenlített, közepes re‐
+teszű tengelynyúlvánnyal (IEC 60034-14) és nor‐
+mál rezgésszinttel (N) rendelkező motort hasz‐
+náljon.
+• A szivattyú kizárólag az adattáblán feltüntetett
+hálózati feszültségen és frekvencián használha‐
+tó.
+
+• Az elektromos kapcsolótábla védelmet biztosít
+a motor számára a túlterheléssel és a zárlattal
+szemben.
+• Építse be megfelelő túlterhelés-védelmi eszközt
+(hőrelét vagy motorvédőt).
+
+A motorok általánosságban az alábbi tápfeszültség
+tűrésekkel üzemelnek:
+
+Szivattyú típusa
+Védelem
+
+Frekvencia, Hz
+Fázis, ~
+UN [V] ± %
+
+– Beépített automati‐
+
+50
+1
+220 – 240 ± 6
+
+Egyfázisú standard
+elektromos szivattyú, ≤
+2,2 kW
+
+3
+230/400 ± 10
+
+400/690 ± 10
+
+kus visszaállású ter‐
+mikus és túláram el‐
+leni védelem (motor
+védelme)
+– Rövidzárlat elleni
+
+60
+1
+220 – 230 ± 6
+
+3
+220/380 ± 5
+
+védelem (a telepí‐
+tőnek kell biztosíta‐
+nia)37
+
+380/660 ± 10
+
+Használjon szabályszerű 3 eres (2+földelés) kábelt
+az egyfázisú és 4 eres (3+földelés) a háromfázisú
+változathoz.
+
+37
+aM biztosítékok (motorindítás) vagy mágneses-termikus kapcsoló C görbével és Icn ≥ 4,5 kA vagy más
+egyenértékű eszközzel.
+38
+hőrelé 10A kioldási osztállyal + aM biztosíték (motorindítás) vagy motorvédelem mágneses-hőkapcsoló
+10A indítási osztállyal.
+
+219

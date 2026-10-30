@@ -1,0 +1,147 @@
+es - Traducción del original
+
+2.3  Pautas de almacenamiento
+
+• Calefacción urbana
+• Industria general
+
+Zona de almacenamiento
+
+Uso inapropiado
+
+El producto debe almacenarse en un lugar cubierto,
+seco, fresco y sin suciedad ni vibraciones.
+
+ADVERTENCIA:
+El uso indebido de la bomba puede ori‐
+ginar situaciones peligrosas y provocar
+daños personales y materiales.
+
+NOTA:
+Proteja el producto de la humedad, las fuentes de
+calor y los daños mecánicos.
+
+Un uso no adecuado del producto produce la pérdi‐
+da de la garantía.
+Ejemplos de uso incorrecto:
+
+NOTA:
+No coloque elementos pesados sobre el producto
+empaquetado.
+
+2.3.1  Almacenamiento a largo plazo
+
+ES
+
+Si la unidad se almacena durante más de 6 meses,
+se aplican estos requisitos:
+
+• Líquidos no compatibles con los materiales de
+construcción de la bomba
+• Líquidos peligrosos (como el líquidos tóxicos, ex‐
+plosivos, inflamables o corrosivos)
+• Líquidos potables que no sean agua (por ejem‐
+plo, vino o leche)
+Ejemplos de instalación incorrecta:
+
+• Ubicaciones peligrosas (como atmósferas corro‐
+sivas o explosivas).
+• Ubicaciones en las que la temperatura del aire es
+muy alta o la ventilación es escasa.
+• Instalaciones en el exterior en las que no hay pro‐
+tección contra la lluvia o temperaturas de conge‐
+lación.
+
+PELIGRO:
+No utilice la bomba para trabajar con lí‐
+quidos inflamables o explosivos.
+
+• Almacene la unidad en un lugar seco.
+• Almacene la unidad en un lugar fresco y sin su‐
+ciedad ni vibraciones.
+• Gire el eje con la mano varias veces al menos
+cada tres meses.
+Consulte con los fabricantes de la unidad del motor
+y de los acoplamientos acerca de los procedimien‐
+tos de almacenamiento a largo plazo.
+Si tiene preguntas acerca de posibles servicios de
+tratamiento para el almacenamiento a largo plazo,
+póngase en contacto con su representante de ven‐
+tas y servicio local.
+
+Temperatura ambiente
+
+NOTA:
+
+El producto debe almacenarse a una temperatura
+ambiente entre -5 °C y +40 °C (23 °F y 104 °F).
+
+3  Descripción del producto
+
+• No utilice la bomba para trabajar con líquidos
+con sustancias abrasivas, sólidas o fibrosas.
+• No utilice la bomba para tasas de flujo no inclui‐
+das dentro de las especificadas en la placa de
+características.
+
+Aplicaciones especiales
+
+Póngase en contacto con el representante local de
+ventas y servicio en los siguientes casos:
+
+3.1  Diseño de la bomba
+La bomba es una bomba horizontal con una carcasa
+de voluta acoplada a motores eléctricos estándar.
+La bomba puede usarse para manejar:
+
+• Agua fría o templada
+• Líquidos limpios
+• Líquidos que no sean química y mecánicamente
+agresivos para los materiales de la bomba.
+El producto se puede suministrar como una unidad
+de bomba (bomba y motor eléctrico) o solamente
+como una bomba.
+
+• Si el valor de viscosidad y/o densidad del líquido
+bombeado excede el valor del agua, como agua
+con glicol; ya que puede ser necesario un motor
+más potente.
+• Si el líquido bombeado está tratado químicamen‐
+te (por ejemplo, suavizado, desionizado, desmi‐
+neralizado, etc.).
+• Cualquier situación que sea diferente a las des‐
+critas y que esté relacionada con la naturaleza
+del líquido.
+
+NOTA:
+Si ha adquirido una bomba sin motor, compruebe
+que el motor es el adecuado para conectarlo a la
+bomba.
+
+Uso previsto
+
+3.2  denominación de la bomba
+Consulte Figura 2 en la página 351 para ver una ex‐
+plicación del código de denominación de la bomba y
+un ejemplo.
+
+La bomba es adecuada para:
+
+• Suministro de agua y tratamiento de agua
+• Suministro de agua caliente y de refrigeración en
+servicios de construcción e industria
+• Riego y sistemas de rociadores
+• Sistemas de calefacción
+• Aplicaciones antiincendios
+Usos adicionales para material opcional:
+
+3.3  Placa de identificación
+La placa de identificación se encuentra en el soporte
+de los cojinetes. En la placa de identificación apare‐
+cen las principales especificaciones del producto.
+Para obtener más información, consulte Figura 1 en
+la página 345.
+En la placa de identificación se proporciona informa‐
+ción relativa al material del impulsor y la carcasa, el
+
+52

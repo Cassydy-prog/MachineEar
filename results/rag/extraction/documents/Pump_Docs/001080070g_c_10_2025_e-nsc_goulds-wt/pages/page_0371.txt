@@ -1,0 +1,61 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+55
+UAVGG: Carburo di tungsteno/Carbonio impregnato in metallo/FKM; AU3VGG: Carbonio impregnato in me‐
+tallo/Carburo di tungsteno/FKM • UAVGG : carbure de tungstène/carbone imprégné de métal/FKM ;
+AU3VGG : carbone imprégné de métal/carbure de tungstène/FKM • UAVGG: Wolframkarbid/Metallimprä‐
+gnierter Kohlenstoff/FKM; AU3VGG: Metallimprägnierter Kohlenstoff/Wolframkarbid/FKM • UAVGG: carburo
+de volframio/carbono impregnado de metal/FKM; AU3VGG: carbono impregnado de metal/carburo de vol‐
+framio/FKM • UAVGG: Carboneto de tungsténio/carbono impregnado de metal/FKM; AU3VGG: Carbono im‐
+pregnado de metal/carboneto de tungsténio/FKM • UAVGG: met wolfraamcarbide/metaal geïmpregneerde
+koolstof/FKM; AU3VGG: metaal geïmpregneerde koolstof/wolfraamcarbide/FKM • UAVGG: Wolframcarbid/
+metalimprægneret kulstof/FKM; AU3VGG: Metalimprægneret kulstof/ wolframcarbid/FKM • UAVGG: Wol‐
+framkarbid/metallimpregnert karbon/FKM; AU3VGG: Metallimpregnert karbon/wolframkarbid/FKM •
+UAVGG: volframkarbid/metallimpregnerat kol/FKM; AU3VGG: metallimpregnerat kol/volframkarbid/FKM •
+UAVGG: volframikarbidi/metallikyllästeinen hiili/FKM; AU3VGG: metallikyllästeinen hiili/volframikarbidi/FKM
+• U3AVGG: Volframkarbíð/málmmettað kolefni/FKM; AU3VGG: Málmmettað kolefni/volframkarbíð/FKM •
+UAVGG: volframkarbiid / süsinikku sisaldav metall / FKM; AU3VGG: süsinikku sisaldav metall / volframkar‐
+biid / FKM • UAVGG: volframa karbīds / metāla impregnēts ogleklis / FKM; AU3VGG: metāla impregnēts
+ogleklis / volframa karbīds / FKM • UAVGG: volframo karbidas / metalu impregnuota anglis / FKM; AU3VGG:
+metalu impregnuota anglis / volframo karbidas / FKM • UAVGG: węglik wolframu/węgiel impregnowany me‐
+talem/FKM; AU3VGG: węgiel impregnowany metalem/węgiel wolframu/FKM • UAVGG: Karbid wolframu /
+kovem impregnovaný uhlík / FKM; AU3VGG: Kovem impregnovaný uhlík / karbid wolframu / FKM • UAVGG:
+Karbid volfrámu/uhlík impregnovaný kovom/FKM; AU3VGG: Uhlík impregnovaný kovom/karbid
+volfrámu/FKM • UAVGG: volfrám-karbid/fémmel impregnált szén/FKM; AU3VGG: fémmel impregnált szén/
+volfrám-karbid/FKM • UAVGG: Carbură de tungsten/carbon impregnat cu metal/FKM; AU3VGG: Carbon im‐
+pregnat cu metal/carbură de tungsten/FKM • UAVGG: Волфрамов карбид/ импрегниран с метал
+въглерод/FKM; AU3VGG: Импрегниран с метал въглерод/волфрамов карбид/FKM • UAVGG: volframov
+karbid/kovinsko impregniran ogljik/FKM; AU3VGG: kovinski impregnirani ogljik/ volframov karbid/FKM •
+UAVGG: Ugljični karbid/metalni impregnirani ugljik/FKM; AU3VGG: Metalni impregnirani ugljik/volfram kar‐
+bid/FKM • UAVGG: Tungsten karbid/metalni impregniran ugljenik/FKM; AU3VGG: Metal impregniran uglje‐
+nik/ volfram karbid/FKM • UAVGG: Καρβίδιο βολφραμίου/μεταλλικός εμποτισμένος άνθρακας/FKM,
+AU3VGG: Μεταλλικός εμποτισμένος άνθρακας/ Καρβίδιο βολφραμίου/FKM • UAVGG: Tungsten karbür/
+metal emdirilmiş karbon/FKM; AU3VGG: Metal emdirilmiş karbon/ tungsten karbür/FKM • UAVGG: карбид
+вольфрама/углерод, пропитанный металлом/FKM; AU3VGG: карбид, пропитанный металлом/карбид
+вольфрама/FKM • UAVGG: Карбід вольфраму / вуглець, просочений металом / FKM; AU3VGG:
+Вуглець, просочений металом / карбід вольфраму / FKM • UAVGG: كربيد
+ 
+التنجستين
+ / 
+كربون
+ 
+مشبع
+ 
+بالمعدن
+/
+FKM ؛AU3VGG: كربون
+ 
+مشبع
+ 
+بالمعدن
+/
+كربيد
+ 
+التنجستين
+/FKM
+
+4.
+
+APPX
+
+367

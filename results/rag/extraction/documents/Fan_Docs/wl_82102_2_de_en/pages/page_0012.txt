@@ -1,0 +1,93 @@
+Securing damaged bearings · Evaluation of running features and damage
+
+to dismounted bearings
+
+– Avoid contamination after dismount-
+
+3 Evaluation of running features and damage to dismounted 
+bearings
+
+ing. Pack the bearings separately in
+clean foil if possible, since paper and
+cloths remove oil from the grease.
+– Select sufficiently strong and thick
+
+packaging to prevent damage arising
+during transport.
+
+conditions or external features of the
+bearing frequently provide an indication
+of the cause of damage. The table in 
+fig. 12 illustrates the main damage 
+features in rolling bearings with their 
+typical causes.
+
+Bearing damage may not always im-
+ply a complete failure of a rolling bear-
+ing but also implies a reduction in the
+efficiency of the bearing arrangement. In
+this context it should be remembered
+that the earlier the particular bearing is
+dismounted the sooner the source of
+trouble can be detected.
+
+This summary cannot take all types of
+damage into account but just provide a
+rough outline. It should also be kept in
+mind that a number of damage patterns
+are exclusively or almost only found with
+certain types of bearings or under special
+application conditions. In many cases
+one bearing may reveal several damage
+features concurrently. It is then frequent-
+ly difficult to determine the primary
+cause of failure and a systematic clarifi-
+cation of diverse damage hypothesis is
+the only answer. The systematic proce-
+dure described below is recommended
+for such cases.
+
+A bearing arrangement can only func-
+tion smoothly if the operating and en-
+vironmental conditions and the compo-
+nents of the arrangement (bearings, 
+mating parts, lubrication, sealing) are
+correctly coordinated. The cause of bear-
+ing damage does not always lie in the
+bearing alone. Damage which originates
+from bearing material and production
+faults is very rare. Prior to inspecting
+bearing damage by means of individual
+parts the possible damage sources should
+be studied based on the facts found 
+according to Section 2. The operating
+
+11: Causes of failure in rolling bearings (Source: antriebstechnik 18 (1979) No. 3,
+71-74). Only about 0.35% of all rolling bearings do not reach expected life.
+
+20 % unsuitable
+lubricant
+20 % aged
+lubricant
+
+15 % insufficient
+lubricant
+
+<1 % material
+and production faults
+
+10 % unsuitable choice of bearing
+(design, size, load carrying
+capacity)
+
+20 % solid
+contamination
+
+5 % consequential damage
+5 % mounting faults
+
+5 % liquid
+contamination
+
+11
+FAG

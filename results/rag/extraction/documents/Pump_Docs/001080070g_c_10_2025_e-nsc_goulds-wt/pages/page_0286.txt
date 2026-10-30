@@ -1,0 +1,167 @@
+sr - Prevod originalnog
+
+a) Otvorite on-off ventil lociran uzvodno od pum‐
+
+UPOZORENJE:
+
+pe.
+b) Uklonite priključak za ispunu (3) i utikač mera‐
+
+ča (1). Koristite levak da biste napunili pumpu
+kroz otvor za ispunu sve dok voda ne počne
+da ističe iz ovog otvora.
+c) Zategnite priključak za ispunu (3) i merenje
+
+(1).
+
+• Održavanje i servisiranje mora obav‐
+ljati samo iskusno i stručno osoblje.
+• Obratite pažnju da li se poštuju propi‐
+si za sprečavanje nezgoda.
+• Koristite prikladnu opremu i zaštitu.
+• Uverite se da ispuštena tečnost ne
+uzrokuje oštećenja ili povrede.
+
+2. Ispunjen sistem cevi za pražnjenje:
+
+a) Otvorite on-off ventil lociran uzvodno od pum‐
+
+pe i otvorite on-off ventil nizvodno od nje.
+b) Uklonite priključak za merenje (1) dok voda ne
+
+počne da protiče kroz ovaj otvor.
+c) Zategnite priključak za merenje (1).
+
+5.2  Proverite smer rotacije (trofazni motor)
+Pre pokretanja sledite ovu proceduru.
+
+6.1  Servis
+Ako korisnik želi da isplanira rokove redovnog održa‐
+vanja, oni zavise od tipa upumpane tečnosti i uslova
+rada pumpe.
+Kontaktirajte lokalnog predstavnika prodaje i servisa
+u vezi bilo kakvih zahteva ili informacija koje se od‐
+nose na redovno održavanje ili servisiranje.
+Vanredno održavanje može biti neophodno radi čiš‐
+ćenja kraja s tečnošću i/ili zamene istrošenih delova.
+
+1. Pronađite strelice na adapteru ili poklopcu venti‐
+latora motora kako bi se utvrdio ispravan smer
+rotacije.
+
+Pumpe sa trajno podmazanim ležajevima
+
+2. Pokrenite motor.
+
+Pumpe sa trajno podmazanim ležajevima ne zahte‐
+vaju zakazano redovno održavanje.
+
+3. Brzo proverite smer rotacije kroz štitnik spojnice
+ili kroz poklopac ventilatora motora.
+
+4. Zaustavite motor.
+
+Pumpe sa ležajevima koji se mogu ponovo
+podmazivati
+
+5. Ako je smer rotacije pogrešan, uradite sledeće:
+
+a) Isključite napajanje.
+b) Na priključnoj tabli motora ili na električnoj
+
+kontrolnoj tabli, izmenite položaj dve od tri
+žice kabla za napajanje.
+
+• 4000 radnih sati, ali najmanje jednom godišnje.
+Prvo očistite priključke za podmazivanje (SN).
+• Koristite mazivo NLGI Grade 2 ili ekvivalentno.
+Kontaktirajte lokalnog predstavnika prodaje i servisa
+u vezi sa bilo kojim zahtevima ili informacijama.
+
+Ležajevi motora
+
+Za šeme ožičenja pogledajte Slika 21 na stra‐
+nici 392.
+c) Ponovo proverite smer rotacije.
+
+5.3  Pokretanje pumpe
+
+Posle otprilike pet godina, mast u ležajevima motora
+je toliko stara da se preporučuje zamena ležajeva.
+Ležajevi se moraju zameniti nakon 25.000 radnih sa‐
+ti ili u skladu sa uputstvima za održavanje dobavlja‐
+ča motora, koji god period je kraći.
+
+Motor sa ležajevima koji se mogu ponovo
+podmazivati
+
+NAPOMENA:
+Nakon početnog pokretanja i kada se dostigne radna
+temperatura, proverite poravnanje spojnice jedinice,
+pogledajte Provera spoja i poravnanje na stranici
+280.
+
+Sledite uputstva za održavanja dobavljača motora.
+
+Spojnica
+
+Instalater i vlasnik su odgovorni za proveru ispravno‐
+sti protoka i temperature upumpane tečnosti.
+Pre pokretanja pumpe, uverite se da važi sledeće:
+
+Redovno proveravajte zazor u elementima spojnice,
+najmanje jednom godišnje. Preporučujemo da prove‐
+ru vršite na svakih 1.000 radnih sati ili na svaka tri
+meseca, do čega prvo dođe.
+
+6.2  Kontrolna lista za pregled
+
+SR
+
+• Pumpa ispravno povezana na napajanje.
+• Pumpa ispravno napunjena u skladu sa uputstvi‐
+ma datim u delu Punjenje pumpe (poglavlje 5).
+• On-off ventil lociran nizvodno od pumpe zatvo‐
+ren.
+
+1. Pokrenite motor.
+
+2. Postupno otvarajte on-off ventil na ispusnoj stra‐
+ni pumpe.
+
+Proverite spojnicu
+Proverite fleksibilne ele‐
+mente spojnice. Zameni‐
+te odgovarajuće delove
+ako postoje bilo kakvi
+znaci habanja i proverite
+poravnanje.
+
+U očekivanim radnim uslovima pumpa mora da
+radi glatko i tiho. U suprotnom, pogledajte Reša‐
+vanje problema na stranici 283.
+
+Proverite mehanički za‐
+tvarač
+
+6  Održavanje
+
+Mere predostrožnosti
+
+Proverite da li ima cure‐
+nja mehaničkog zaptiva‐
+ča. Zamenite mehanički
+zatvarač ako postoji pro‐
+puštanje.
+
+Opasnost od električne struje:
+Isključite i zaključajte električno napaja‐
+nje pre instaliranja ili servisiranja pumpe.
+
+Provera zaptivača ležaja
+Proverite pravilno po‐
+stavljanje aksijalnih pr‐
+stenova zaptivača po‐
+stavljenih na osovinu.
+
+282

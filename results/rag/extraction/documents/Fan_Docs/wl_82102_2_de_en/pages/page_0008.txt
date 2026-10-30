@@ -1,0 +1,61 @@
+Unusual operating behaviour indicating damage
+Bearing monitoring with technical devices · Urgency of bearing exchange
+
+cant cleanliness. Extensive examinations
+have been made on ball bearings on the
+progress of damage under various loads.
+The main results are as follows:
+
+In lots of cases a machine may remain
+in operation without the quality of the
+product suffering despite damage. How
+long it may do so depends on the bear-
+ing load, speed, lubrication, and lubri-
+
+8: Development of fatigue damage on the inner ring raceway of an angular
+contact ball bearing. The periodic intervals between inspections from damage
+begin on, are given in percentage of the nominal life L10.
+
+The vibration measuring procedures
+are very suitable for detecting fatigue 
+damage. It is easiest with bearings with
+point contact (ball bearings) and with
+more sophisticated evaluation proce-
+dures such as envelope detection, for ex-
+ample, damage to roller bearings is 
+found just as reliably. They are less suit-
+able, however, for observing the lubrica-
+tion condition. A fault in the lubricant
+supply can be reliably spotted by tem-
+perature measuring, as described above.
+This is particularly well illustrated in 
+figure 7.  The shock value is far less sen-
+sitive than the temperature sensor. 
+Hence, in the case of expensive technical
+plants, temperature and vibration 
+measurements complement one another
+ideally.
+
+1.3 Urgency of bearing exchange
+– remaining life
+Once bearing damage has been detec-
+ted, the question arises as to whether the
+bearing must be exchanged immediately
+or whether it is possible to leave it in
+operation until the machine's next sche-
+duled standstill. There are several condi-
+tions which must be given consideration
+before making any decision. If, for ex-
+ample, reduced working accuracy of a
+machine tool is reason to suspect bearing
+damage, the urgency of bearing exchan-
+ge primarily depends on how long parts
+can continue to be produced without
+lacking in quality. Bearings which block
+suddenly at a high speed due to hot run-
+ning caused by an interruption in lubri-
+cant supply going unrecognised, must be
+replaced immediately, of course.
+
+7
+FAG

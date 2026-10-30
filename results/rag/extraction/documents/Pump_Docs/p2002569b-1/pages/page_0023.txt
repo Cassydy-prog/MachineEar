@@ -1,0 +1,129 @@
+Operation
+Pre-start checks
+
+A mechanical shaft seal is supplied in place of a 
+packed stuffing box when specifically requested. The 
+change from packing to an alternate arrangement may 
+be made in the field by competent service personnel. 
+Conversion kits may be ordered from your
+Goulds Water Technology Sales Representative.
+
+Before initial start of the pump, make the following
+inspections:
+
+Single mechanical seal
+
+Pumps containing single mechanical seals normally 
+utilize the pumped liquid to lubricate the seal faces. 
+This method is preferred when the pumped liquid 
+is neither abrasive nor corrosive. If the liquid being 
+pumped is not suitable, an external flush should be 
+provided. (See "External Liquid Lubricant" page 22.)
+
+Double mechanical seal
+
+A double mechanical seal consists of two single seals
+mounted back-to-back and a suitable sealing liquid 
+which is introduced into the seal chamber. The sealing 
+liquid (preferably clear water) is injected into the 
+box at a higher pressure than that which exists at the 
+entrance to the seal cavity on the pump side. The 
+pressure differential isolates the sealing faces from the 
+pumped liquid. Double mechanical seals are normally 
+preferred in pumps handling sewage, slurries, or any 
+other solids suspended in the pumped liquid.
+
+1. Check alignment between pump and motor
+2. Check all connections to motor and starting device
+	
+with wiring diagram. Check voltage, phase, and
+	
+frequency on motor nameplate with line circuit.
+3. Check suction and discharge piping and pressure 
+gauges for proper operation.
+4. Check impeller adjustment, see specific section 
+for proper adjustment.
+5. Turn rotating element by hand to assure that it 
+rotates freely.
+6. Check stuffing box adjustment, lubrication, 
+and piping.
+7. Check driver lubrication.
+8. Assure that pump bearings are properly lubricated.
+9. Assure that coupling is properly lubricated, if 
+required.
+10. Assure that pump is full of liquid, (See "Priming" 
+below) and all valves are properly set and 
+operational, with the discharge valve closed, 
+and the suction valve open.
+11. Check rotation. Be sure that the driver operates in 
+the direction indicated by the arrow on the pump 
+casing as serious damage can result if the pump 
+is operated with incorrect rotation. Check rotation 
+each time the motor leads have been disconnected.
+
+CAUTION: ROTATION SHOULD BE CHECKED WITH
+COUPLING DISCONNECTED ON COUPLED UNITS.
+
+Lubrication for the double seal is provided by the
+sealing liquid which is introduced through the tap 
+in the seal cavity. The sealing liquid pressure must 
+always be higher than the pressure on the seal closer 
+to the suction side. If sufficient sealing pressure is not 
+maintained, the pressure within the pump can force 
+open the lower seal and allow the pumped liquid to 
+enter the box which can damage the seals.
+
+Priming
+
+Two methods are used to provide sealing liquid to the
+stuffing box:
+
+1. A common method utilizes a pressure line which is
+	 installed from a tap on the discharge nozzle to the
+
+If the pump is installed with a positive head on the 
+suction, it can be primed by opening the suction and 
+vent valve and allowing the liquid to enter the casing.
+If the pump is installed with a suction lift, priming must
+be done by other methods such as foot valves, 
+ejectors, or by manually filling the casing and 
+suction line.
+
+tap in the stuffing box cartridge. A filter is installed in 
+the line to trap the solid particles. The filter must 
+be capable of screening out all particles above 
+25 microns in size.
+
+Since the liquid is bypassed from the high pressure
+(discharge) side of the pump, and dead-ended in the
+stuffing box cartridge, there are no problems in
+maintaining a sufficient pressure differential provided
+the filter is not clogged.
+
+CAUTION: UNDER EITHER CONDITION, THE PUMP
+MUST BE COMPLETELY FILLED WITH LIQUID
+BEFORE STARTING. THE PUMP MUST NOT BE RUN
+DRY IN THE HOPE IT WILL PRIME ITSELF. SERIOUS
+DAMAGE TO THE PUMP MAY RESULT IF IT IS
+STARTED DRY.
+
+Starting
+
+2. Clear, clean water can be supplied from an external
+	
+source in some installations. City water can be used 
+if there is an air break between the water supply 
+and the water being provided to the pump. Various 
+municipal ordinances require this break to prevent 
+contamination of the city water supply.
+
+1. Close drain valves and valve in discharge line.
+2. Open fully all valves in the suction line.
+3. Turn on seal water to the stuffing box. (If pumped
+	
+fluid is dirty or if leakage of air is to be prevented,
+	
+these lines should be always left open.)
+4. Prime the pump.
+
+23

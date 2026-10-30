@@ -1,0 +1,61 @@
+Appendix A: Glossary of Basic Pumping System Terms
+
+suction specific speed – An index used to describe
+
+the inlet conditions of a pump; it is defined by 
+the equation:
+
+—
+S =
+
+n √ Q
+      NPSHR3/4
+
+total head – A measure of the total energy
+
+imparted to the fluid by a centrifugal pump. 
+This value includes static pressure increase 
+and velocity head.
+
+valve – A device used to control fluid flow in a
+
+piping system. There are many types of valves 
+with different flow control characteristics, 
+sealing effectiveness, and reliability.
+
+valve seat – The component of a valve that
+
+provides the sealing surface. Some valves have 
+just one seat; others have a primary seat, which 
+prevents leakage across the valve, and a back 
+seat, which prevents leakage from the valve to 
+the environment.
+
+vapor pressure – The force per unit area that the
+
+fluid exerts in an effort to change the phase from 
+a liquid to a vapor. This pressure is a function of 
+a fluid’s chemical and physical properties, and 
+its temperature.
+
+variable frequency drive (VFD) – A type of
+
+adjustable speed drive that controls the speed 
+of ac motors by regulating the frequency of the 
+electric power. VFDs are the most common type 
+of adjustable speed drives and can significantly 
+reduce energy use by matching the speed of 
+driven equipment to required output.
+
+velocity head – The component of the total head
+
+that is attributable to fluid motion (also known 
+as dynamic head).
+
+viscosity – The resistance of a fluid to flow when
+
+subjected to shear stress.
+
+97
+
+A Sourcebook for Industry

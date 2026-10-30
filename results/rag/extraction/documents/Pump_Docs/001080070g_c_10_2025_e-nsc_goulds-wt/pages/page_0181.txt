@@ -1,0 +1,227 @@
+lt - Originalo vertimas
+
+Priežastis
+Sprendimas
+
+Priežastis
+Sprendimas
+
+Patikrinkite siurblio eksploata‐
+vimo sąlygas. Jei reikia, atliki‐
+te šiuos veiksmus:
+
+Siurblys perkrautas,
+nes siurbiamas per
+tirštas ir per klampus
+skystis.
+
+Patikrinkite faktinius galios
+reikalavimus, remdamiesi
+siurbiamo skysčio savybė‐
+mis, ir atitinkamai pakeiskite
+variklį.
+
+Per didelis siurbimo
+aukštis arba siur‐
+bimo vamzdžiuose
+yra per didelis hi‐
+draulinis pasiprieši‐
+nimas.
+
+• sumažinkite siurbimą
+aukštyn,
+• padidinkite siurbimo vamz‐
+džio skersmenį.
+
+Nusidėvėjo variklio
+guoliai.
+
+Kreipkitės į vietos prekybos ir
+techninės priežiūros atstovą.
+
+7.9  Elektrinis siurblys nustoja veikti ir
+pasisuka neteisinga kryptimi
+
+7.6  Elektrinis siurblys įsijungia, bet
+suaktyvinta bendra sistemos apsauga
+
+Priežastis
+Sprendimas
+
+Priežastis
+Sprendimas
+
+Nuotėkis viename iš šių arba
+abiejuose komponentuose:
+
+Trumpasis sujungimas
+elektros sistemoje.
+
+Patikrinkite elektros sis‐
+temą.
+
+Sutaisykite arba
+pakeiskite suge‐
+dusį komponen‐
+tą.
+
+• siurbimo vamzdyje,
+• apatiniame atgaliniame vož‐
+tuve arba atgaliniame vožtu‐
+ve.
+
+7.7  Elektrinis siurblys įsijungia, bet
+suaktyvinamas sistemos liekamosios srovės
+prietaisas (RCD).
+
+Siurbimo vamzdyje yra oro.
+Išleiskite orą.
+
+Priežastis
+Sprendimas
+
+7.10  Siurblys paleidžiamas per dažnai
+
+Netinkamas įžemi‐
+nimas.
+
+Patikrinkite elektros sistemos
+komponentų izoliaciją.
+
+Priežastis
+Sprendimas
+
+Nuotėkis viename iš šių arba
+abiejuose komponentuose:
+
+7.8  Siurblys veikia, bet siurbia per mažai
+skysčio arba iš viso nesiurbia
+
+Sutaisykite arba
+pakeiskite suge‐
+dusį komponentą.
+
+Priežastis
+Sprendimas
+
+• siurbimo vamzdyje,
+• apatiniame atgaliniame vož‐
+tuve arba atgaliniame vožtu‐
+ve.
+
+LT
+
+• Išleiskite orą
+
+Siurblio viduje ar‐
+ba vamzdžiuose yra
+oro.
+
+Slėgio rezervuare įtrūko mem‐
+brana arba nėra iš anksto pripil‐
+dyto oro.
+
+Žr. atitinkamas slė‐
+gio rezervuaro va‐
+dovo instrukcijas.
+
+Siurblys netinkamai
+užpildytas.
+
+Sustabdykite siurblį ir iš naujo
+jį užpildykite.
+Jei problema lieka:
+
+7.11  Siurblys vibruoja ir skleidžia per didelį
+triukšmą
+
+Priežastis
+Sprendimas
+
+Siurblio kavita‐
+cija
+
+• Patikrinkite, ar mechaninis
+sandariklis sandarus.
+• Patikrinkite, ar siurbimo
+vamzdis visiškai sandarus.
+• Pakeiskite visus nesanda‐
+rius vožtuvus.
+
+Atidarykite vožtuvą.
+
+Per stiprus drose‐
+liavimas išleidimo
+pusėje.
+
+Sumažinkite reikiamą srauto greitį
+iš dalies uždarydami ĮJUNGIMO-
+IŠJUNGIMO vožtuvą žemyn nuo
+siurblio. Jei problema kartojasi,
+patikrinkite siurblio eksploatavimo
+sąlygas (pvz., aukščių skirtumą,
+hidraulinį pasipriešinimą, skysčio
+temperatūrą).
+
+Išardykite ir išvalykite vožtu‐
+vus.
+
+Vožtuvai užstrigo
+uždarytoje ar iš da‐
+lies uždarytoje pa‐
+dėtyje.
+
+Nusidėvėjo va‐
+riklio guoliai.
+
+Kreipkitės į vietos prekybos ir
+techninės priežiūros atstovą.
+
+Siurblys yra užsi‐
+kimšęs.
+
+Kreipkitės į vietos prekybos ir
+techninės priežiūros atstovą.
+
+Siurblyje yra pa‐
+šalinių objektų.
+
+Kreipkitės į vietos prekybos ir
+techninės priežiūros atstovą.
+
+Vamzdžiai užsikim‐
+šę.
+
+Patikrinkite vamzdžius ir juos
+išvalykite.
+
+Kreipkitės į vietos prekybos ir
+techninės priežiūros atstovą.
+
+Nutrinta spar‐
+nuotė ant darbi‐
+nio žiedo
+
+Patikrinkite movos sulygiavimą.
+
+Pakeiskite dviejų fazių padėtį
+variklio gnybtų skyde arba
+elektros valdymo skyde.
+
+Mova nesuly‐
+giuota
+
+Netinkama spar‐
+nuotės sukimosi
+kryptis.
+(trifazė versija)
+
+Movos lankstie‐
+ji elementai su‐
+sidėvėję
+
+Patikrinkite ir pakeiskite reikiamas
+dalis, jei yra susidėvėjimo požy‐
+mių.
+
+177

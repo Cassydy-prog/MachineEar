@@ -1,0 +1,67 @@
+Declarations of Conformity
+
+och de tekniska standarderna 
+•  EN 809:1998+A1:2009, EN 60204-1:2018. 
+•  EN 60034-30:2009, EN 60034-30-1:2014, EN 60034-2-1:2007, EN 60034-2-1:2014, EN 16480:2021. 
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Verkställande direktör
+
+EU-försäkran om överensstämmelse (nr 01) 
+
+1. EMCD - Apparat-/produktmodell: NSCC… eller NSCF… (se etiketten på sista sidan) 
+    RoHS - Unik identifikation av EEE: NSCC… eller NSCF…  
+2. Tillverkarens namn och adress: 
+ Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ IT-36075 Montecchio Maggiore VI 
+ Italien 
+3. Denna försäkran om överensstämmelse utfärdas under tillverkarens eget ansvar. 
+4. Föremål för försäkran: elektrisk pump 
+5. Föremålet för försäkran ovan överensstämmer med relevant unionslagstiftning om harmonisering 
+•  Direktiv 2014/30/EU av den 26 februari 2014 och senare ändringar (elektromagnetisk kompatibilitet).  
+•  Direktiv 2011/65/EU av den 8 juni 2011 och senare ändringar, inklusive direktiv 2015/863/EU (begränsning av användningen av 
+vissa farliga ämnen i elektrisk och elektronisk utrustning). 
+6. Hänvisningar till de relevanta harmoniserade standarder som använts eller hänvisningar till andra tekniska specifikationer, enligt 
+vilka överensstämmelsen försäkras: 
+• EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-4:2007 
++A1:2011, EN IEC 61000-6-4:2019. 
+• EN IEC 63000:2018. 
+7. Anmält organ: - - - 
+8. Ytterligare information: 
+RoHS – Bilaga III – Användningar som undantas från begränsningen: bly som legeringselement i stål, aluminium, kopparlegeringar 
+[6(a), 6(b), 6(c)].  
+Optimyze: se den dokumentation som medföljer övervakningsenheten [radioutrustning 2014/53/EU och senare ändringar, 
+begränsning av användningen av vissa farliga ämnen i elektriska och elektroniska produkter 2011/65/EU och senare ändringar, 
+inklusive direktivet (EU) 2015/863]. 
+Undertecknat för och åt: Xylem Service Italia S.r.l.
+
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Verkställande direktör
+
+Försäkran om överensstämmelse är inte giltig om den används separat från resten av texten i Xylems dokumentkod 001080070G. 
+ 
+Pump 
+ 
+EG-intyg om överensstämmelse (översättning) 
+ 
+Xylem Service Italia Srl, med huvudkontor i Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italy, försäkrar härmed att 
+produkten: 
+NSC… pump (se etiketten på sista sidan) 
+uppfyller gällande krav i följande europeiska direktiv 
+•  Maskindirektiv 2006/42/EG och senare ändringar (BILAGA II – fysisk eller juridisk person som är behörig att sammanställa den 
+tekniska dokumentationen: Xylem Service Italia S.r.l.), 
+•  Ekodesign 2009/125/EG med senare ändringar, förordning (EU) nr. 547/2012 med senare ändringar (vattenpump om den är MEI-
+mörkt) 
+och de tekniska standarderna 
+•  EN 809:1998+A1:2009. 
+•  EN 16480:2021.
+
+427

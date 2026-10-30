@@ -1,0 +1,57 @@
+IM-1080
+
+Water Mitigation
+Inline induced flow lab fans such as Model QIFE and Model TVIFE require water mitigation upstream from the fan to manage water 
+that may enter a fan that is not in operation. For a bottom intake mixing box application, care must be taken by the engineer to design 
+ductwork with drains to mitigate any water that may enter through the fan. A side intake mixing box, which allows the water to collect 
+and drain from the mixing box before entering the ductwork, would be another solution. Less concern is required for Model TFE and 
+Model QFE products. The outlet damper on the Model TFE and Model QFE is designed to prevent rain entry.
+
+All lab fan selections should have an outlet velocity of at least 3000 feet per minute at the nozzle per ANSI Z9.5. This will ensure that 
+no rain enters the system when the fans are running.
+
+Damper and Actuator Installation
+Access to the isolation damper is obtained through opening the slide out door on the side of the plenum. Remove bolts from face of 
+slide out door and remove damper/door assembly for inspection and maintenance. The 2-Position spring return actuator is attached 
+to the damper shaft through the slide out door in a NEMA 4 enclosure and can be removed with the damper/door assembly. Wiring is 
+completed through knockouts in NEMA 4 enclosure around the actuator.
+
+Access to bypass damper and modulating actuator for removal is obtained by removing the weather hood covering the damper. 
+Damper is attached to plenum face with standard zip screws. An inspection door is available on the side of the weather cover for 
+standard inspection and maintenance of the damper. Wiring for the modulating actuator is fed through the knockouts in the weather 
+hood.
+
+CAUTION
+
+1.	 Use copper conductors only.
+2.	 Protect wiring from sharp edges. Leave some slack in the line 
+to prevent damage.
+
+Electrical Connection
+1.	 Connect supply wiring to the disconnect switch (non-fused standard). Check the wiring diagrams on the motor for connections.
+2.	 The motor is factory set at the voltage marked on the fan nameplate. Check the line voltage with the nameplate voltage and wiring 
+diagrams.
+3.	 The main power wiring should be sized for the ampacity shown 
+on the dataplate. Size wires in accordance with the ampacity 
+tables in Article 310 of the National Electrical Code. If long 
+wires are required, it may be necessary to increase wire size 
+to prevent excessive voltage drop. Wires should be sized for a 
+maximum of 3% voltage drop.
+4.	 Disconnect switches are not fused. The power leads must be protected at the point of distribution in accordance with the fan 
+dataplate.
+5.	 On fans without a thermal protector integral to the motor (refer to unit or motor dataplate to determine if protector is present) a 
+separate overload device is required. Refer to Sections 430-32 of the N.E.C. for sizing.
+6.	 All units must be electrically grounded in accordance with local codes or, in the absence of local codes, with the latest edition of the 
+National Electrical Code (ANSI/NFPA 70). A ground lug is provided as standard in the unit terminal box. Size grounding conductor 
+in accordance with Table 250-95 of the National Electrical Code. DO NOT use the ground lug for connecting a neutral conductor.
+7.	 Supply voltage to the power ventilator should not vary by more than 10% of the value indicated on the unit dataplate. Phase 
+unbalance must not exceed 2%.
+
+WARNING
+
+Failure of motor due to operation on improper line voltage or with excessive phase unbalance constitutes product abuse and 
+may cause severe damage to the unit’s electrical components.
+
+11
+
+Installation, Operation & Maintenance Manual

@@ -1,0 +1,125 @@
+Freezing protection
+
+NOTE: If the pump does not prime properly, or loses
+prime during start-up, it should be shutdown and the 
+condition corrected before the procedure is repeated.
+
+Pumps that are shut down during freezing conditions
+should be protected by one of the following 
+methods.
+
+1 . Drain the pump; remove all liquids from the 
+casing.
+2. Keep fluid moving in the pump and insulate or heat
+	
+the pump to prevent freezing.
+	
+CAUTION: IF HEAT IS USED TO KEEP THE PUMP
+FROM FREEZING, DO NOT LET THE TEMPERATURE
+RISE ABOVE 150°F.
+
+Field tests
+
+5. (Pumps moving high temperature liquids.) Open 
+the warm-up valve to circulate liquid for preheating.
+	
+Consult the instructions that cover such specially
+	
+designed heating system.
+6. Start the pump driver (turbines and engines may 
+require warming up; consult the manufacturer's 
+instructions).
+7. When the pump is operating at full speed, open 
+the discharge valve slowly. This should be done 
+promptly after start-up to prevent damage to pump 
+by operating at zero flow.
+8. Adjust the liquid seal valves to produce the 
+recommended pressure for either the mechanical 
+seal or packed stuffing box.
+
+Operating checks
+
+Performance curve
+A typical performance curve for a specific pump 
+can be obtained from Goulds Water Technology. 
+This can be used in conjunction with a field test, 
+if one is required. All Goulds Water Technology 
+pump tests and curves are based on the "Hydraulic 
+Institute Standards." Any field test must be conducted 
+according to these Standards.
+
+Unless otherwise specifically agreed, all capacity, 
+head, and efficiencies are based on shop tests when 
+handling clear, cold, fresh water at a temperature not 
+over 85°F and under suction conditions as specified 
+in the contract.
+
+1 . Check the pump and piping to assure that there 
+are no leaks.
+2. Check and record pressure gauge readings for 
+future reference.
+3. Check and record voltage, amperage per phase, 
+and kW if an indicating wattmeter is available.
+4. Check bearings for lubrication and temperature. 
+Normal temperature is 180°F maximum.
+5. Check and adjust stuffing box for correct operation.
+	
+(See page 31).
+6. Check sealing water lines and valves.
+
+To aid in calculating pump performance, the following
+test information and definitions are included for 
+reference.
+
+CAUTION: MAKE ALL PUMP OUTPUT ADJUSTMENTS
+WITH THE DISCHARGE VALVE. DO NOT THROTTLE
+THE SUCTION LINE TO ADJUST THE PUMP OUTPUT.
+
+NOTE: Complete procedure for testing pumps 
+is given in the "Hydraulic Institute Standards" 
+Centrifugal Pump Section.
+
+Shutdown
+
+Gauge datum
+
+The datum for all gauge readings is taken as the 
+centerline of the pump shaft for all horizontal shaft 
+pumps and as the eye of the impeller for vertical 
+pumps.
+
+The following steps of procedure will take care of 
+most normal shutdowns of the pump. Make any 
+further adjustments of process piping, valves, etc., as 
+required. If the pump is to be removed from service 
+for an extended period of time, refer to "Temporary 
+Storage" and "Freezing Protection" (See page 17).
+
+1. Close the discharge valve slowly.
+
+Head measurement
+
+NOTE: When stopping pump, always close discharge
+valve first.
+
+The unit for measuring head should be feet; 
+therefore, all pressure readings of the pumped 
+liquid should be converted to feet. The relationship 
+between a pressure expressed in pounds per square 
+inch (psi) and that expressed in feet of head is:
+
+Head in feet =   psi x 2.3
+
+sg
+
+2. Shut down the driver (Consult manufacturer's 
+instructions for special operations.)
+3. Close seal liquid valves. (If pumped liquid is dirty 
+or if leakage is to be prevented, these lines should 
+always be left open.)
+4. Open drain valves as required.
+
+Where sg =specific gravity of the liquid pumped
+Where sg = 1.0 for water at 60°F
+
+24

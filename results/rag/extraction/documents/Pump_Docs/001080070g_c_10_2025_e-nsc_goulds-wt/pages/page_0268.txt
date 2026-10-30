@@ -1,0 +1,145 @@
+hr - Izvorne upute
+
+2.3.1  Dugoročno skladištenje
+
+Ako je jedinica uskladištena više od 6 mjeseci, vrije‐
+de sljedeći zahtijevi:
+
+• Opasna mjesta (kao što su eksplozivne ili koro‐
+zivne atmosfere).
+• Mjesta gdje je temperatura zraka vrlo visoka ili
+gdje postoji slabo provjetravanje.
+• Vanjske instalacije gdje ne postoji zaštita od kiše
+ili od temperatura smrzavanja.
+
+OPASNOST:
+Ne koristite ovu pumpe za obradu zapa‐
+ljivih i/ili eksplozivnih tekućina.
+
+NAPOMENA:
+
+• Spremiti na pokrivenom i suhom mjestu.
+• Spremiti dalje od vatre, prljavštine i vibracija.
+• Okrenite osovinu rukom nekoliko puta najmanje
+jednom u svaka tri mjeseca.
+Pogledajte postupke dugoročnog skladištenja proiz‐
+vođača pogonske jedinice i spojke.
+Za pitanja o mogućim uslugama čuvanja tijekom du‐
+goročnog skladištenja, obratite se lokalnom zastup‐
+niku za prodaju i servis.
+
+Temperatura okoline
+
+• Nemojte upotrebljavati ovu pumpu za rad s teku‐
+ćinama koje sadrže nagrizajuće, krute ili vlakna‐
+ste tvari.
+• Pumpu nemojte koristiti za brzine protoka izvan
+vrijednosti navedenih na pločici s podacima.
+
+Proizvod se mora skladištiti na ambijentalnoj tempe‐
+raturi od -5°C do +40°C (23°F do 104°F).
+
+Posebne primjene
+
+3  Opis proizvoda
+
+3.1  Dizajn pumpe
+
+Kontaktirajte lokalnog zastupnika za prodaju i servis
+u sljedećim slučajevima:
+
+Pumpa je vodoravna pumpa sa spiralnim kućištem
+spojenim sa standardnim elektromotorima.
+Pumpa se može koristiti za obradu:
+
+• Ako vrijednost gustoće i/ili viskoznosti upumpa‐
+ne tekućine prelazi vrijednost vode, kao u slučaju
+smjese vode i glikola, s obzirom da se može za‐
+htijevati snažniji motor.
+• Ako je upumpana tekućina kemijski obrađena
+(primjerice omekšana, deionizirana, demineralizi‐
+rana itd.).
+• Svaka situacija koja je različita od onih koje su
+opisane a odnosi se na prirodu tekućine.
+
+• Hladne ili tople vode
+• Čistih tekućina
+• Tekućina koje nisu kemijski i mehanički agresiv‐
+ne na materijale pumpe.
+Proizvod može biti isporučen kao jedinica pumpe
+(pumpa i električni motor) ili samo kao pumpa.
+
+3.2  Pumpa denominacija
+Pogledajte Slika 2 na stranici 351 u vezi objašnjenja
+šifre denominacije za pumpu i jedan primjer.
+
+NAPOMENA:
+Ako ste kupili pumpu bez motora, pobrinite se da je
+motor prikladan za spajanje s pumpom.
+
+Namjena
+
+Pumpa je pogodna za:
+
+3.3  Natpisna pločica
+Natpisna pločica se nalazi na nosaču ležaja. Natpis‐
+na pločica sadrži ključne specifikacije proizvoda. Za
+više informacija pogledajte Slika 1 na stranici 345.
+Natpisna pločica pruža informacije o materijalu ro‐
+tora i kućišta, mehaničkom zatvaraču i njegovom
+materijalu. Za više informacija pogledajte Slika 3 na
+stranici 363.
+
+• Vodoopskrbu i pročišćavanje vode
+• Hlađenje i opskrbu toplom vodom u industrijama
+i graditeljstvu
+• Sustave za navodnjavanje i prskalice
+• Sustave za grijanje
+• Protupožarne primjene
+Dodatne primjene za izborni materijal:
+
+IMQ ili TUV ili IRAM ili druge oznake (samo
+za električne pumpe)
+
+• Daljinsko grijanje
+• Opća industrija
+
+HR
+
+Nepravilno korištenje
+
+Osim ako je drugačije navedeno, za proizvode s
+oznakom odobrenja koja se odnosi na električnu si‐
+gurnost, odobrenje se odnosi isključivo na električnu
+pumpu.
+
+UPOZORENJE:
+Nepravilno korištenje pumpe može stvo‐
+riti opasne uvjete i prouzročiti osobne oz‐
+ljede i oštećenje imovine.
+
+3.4  Opis pumpe
+• Dimenzije spojeva sukladno EN 733 (mode‐
+li 32-125…-200; 40-125…-250; 50-125…-250;
+65-125…-315;80-160…-315; 100-200…-400;
+125-250…-400; 150-315…-400).
+• Pumpa sa spiralnim kućištem spojena sa zad‐
+njim izvlačivim nosačem ležaja.
+
+Nepravilno korištenje proizvoda dovodi do gubitka
+jamstva.
+Primjeri nepravilnog korištenja:
+
+3.5  Materijal
+Metalni dijelovi pumpe koji dolaze u dodir s tekući‐
+nom izrađeni su od sljedećeg:
+
+• Tekućine koje nisu kompatibilne s materijalima
+od kojih je pumpa izrađena
+• Opasne tekućine (kao što su otrovne, eksploziv‐
+ne, zapaljive ili korozivne tekućine)
+• Pitke tekućine osim vode (na primjer, vino ili mli‐
+jeko)
+Primjeri nepravilne instalacije:
+
+264

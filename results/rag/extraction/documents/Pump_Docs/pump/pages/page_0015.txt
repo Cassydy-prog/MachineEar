@@ -1,0 +1,91 @@
+Section 2: Performance Improvement Opportunity Roadmap
+
+Section 2:  Performance Improvement Opportunity Roadmap
+
+Overview
+
+The Fact Sheets
+
+The rest of this section contains 11 fact sheets that 
+address both component and system issues. Each 
+fact sheet describes in detail a specific opportunity 
+to improve the performance of an industrial 
+pumping system. The fact sheets are as follows:
+
+Cost-effective operation and maintenance of a 
+pumping system require attention to the needs of 
+both individual equipment and the entire system. 
+Often, operators are so focused on the immediate 
+demands of the equipment that they forget to step 
+back and notice how certain system parameters are 
+affecting this equipment.
+
+1.	 Assessing Pumping System Needs
+
+2.	 Common Pumping System Problems
+
+3.	 Indications of Oversized Pumps
+
+4.	 Piping Configurations to Improve Pumping
+
+System Efficiency
+
+A systems approach analyzes both supply and 
+demand sides of the system and how they interact, 
+shifting the focus from individual components to 
+total system performance. This approach usually 
+involves the following types of interrelated 
+actions:
+
+5.	 Basic Pump Maintenance
+
+■	 Establish current conditions and operating
+
+6.	 Centrifugal Pumps
+
+parameters
+
+7.	 Positive Displacement Pump Applications
+
+■	 Determine present process production needs
+
+and estimate future ones
+
+8.	 Multiple Pump Arrangements
+
+■	 Gather and analyze operating data and develop
+
+9.	 Pony Pumps
+
+load duty cycles
+
+10.	 Impeller Trimming
+
+■	 Assess alternative system designs and
+
+11.	 Controlling Pumps with Adjustable Speed
+
+improvements
+
+Drives
+
+■	 Determine the most technically and
+
+economically sound options, taking into 
+consideration all subsystems
+
+■	 Implement the best option
+
+■	 Assess energy consumption with respect to
+
+performance
+
+■	 Continue to monitor and optimize the system
+
+■	 Continue to operate and maintain the system
+
+for peak performance.
+
+11
+
+A Sourcebook for Industry

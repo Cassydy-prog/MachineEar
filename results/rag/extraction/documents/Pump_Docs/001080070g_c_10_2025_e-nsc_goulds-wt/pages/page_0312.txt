@@ -1,0 +1,216 @@
+tr - Orijinal talimatlar
+
+Sebep
+Çözüm
+
+Aşağıdaki tablolardaki sorun giderme talimatları sa‐
+dece montaj personeli içindir.
+
+• güç kaynağı
+• elektrik bağlantısı
+
+7.2  Ana şalter açılır, fakat elektrikli pompa
+çalışmaz.
+
+Sebep
+Çözüm
+
+7.5  Elektrikli pompa çalışır, fakat sonrasında
+termal koruyucu değişken süreyi tetikler
+
+Sebep
+Çözüm
+
+Yerel satış ve servis temsil‐
+cisi ile temasa geçin.
+
+Güç yoktur.
+• Gücün gelmesini sağla‐
+yın.
+• Güç kaynağına giden
+tüm elektrik bağlantıları‐
+nın sağlam olduğundan
+emin olun.
+
+Pompanın içinde, per‐
+vanenin sıkışmasına
+neden olan yabancı ci‐
+simler (katı veya lifli
+maddeler) var.
+
+Pompadaki termal
+koruyucu (varsa) te‐
+tiklenmiş.
+
+Pompa soğuyana kadar bek‐
+leyin. Termal koruyucu oto‐
+matik sıfırlanacaktır.
+
+Termal korumayı sıfırlayın.
+
+Pompanın dağıtım hı‐
+zı veri plakasında be‐
+lirtilen limitlerden da‐
+ha yüksek.
+
+Dağıtım hızı veri plakasında
+belirtilen sınırlara eşit veya
+bu sınırların altında olana
+kadar AÇIK-KAPALI valf aşa‐
+ğı akışını kısmen kapatın.
+
+Elektrikli kontrol pa‐
+nelindeki termal röle
+veya motor koruyucu
+tetiklenmiştir.
+
+Şunları kontrol edin:
+
+Daha yoğun ve viskoz
+sıvı pompaladığından
+pompa aşırı yüklü.
+
+Kuru çalışmaya karşı
+koruyucu cihaz tetik‐
+lenmiştir.
+
+Pompalanan sıvının özellik‐
+lerine göre asıl güç gerekli‐
+liklerini kontrol edin ve mo‐
+toru buna göre değiştirin.
+
+• tankın sıvı seviyesi veya
+şebeke basıncı.
+• koruyucu cihaz ve bağlan‐
+tı kabloları.
+
+Motor yatakları yıpran‐
+mıştır.
+
+Yerel satış ve servis temsil‐
+cisi ile temasa geçin.
+
+Sigortaları değiştirin.
+
+Pompanın veya yar‐
+dımcı devrelerin si‐
+gortaları yanmıştır.
+
+7.6  Elektrikli pompa çalışır, fakat sistemin
+genel koruması etkinleştirilir
+
+Sebep
+Çözüm
+
+7.3  Elektrikli pompa çalışır, fakat sonrasında
+hemen termal koruyucu tetiklenir ya da
+sigortalar atar
+
+Elektrik sisteminde bir kısa
+devre.
+
+Elektrik sistemini kon‐
+trol edin.
+
+Sebep
+Çözüm
+
+7.7  Elektrikli pompa çalışır, fakat sistemin
+kalan akım aygıtı (RCD) etkinleştirilir
+
+Güç kaynağı kablosu
+hasar görmüştür.
+
+Kabloyu kontrol edin ve ge‐
+rektiği şekilde değiştirin.
+
+Sebep
+Çözüm
+
+Bileşenleri kontrol edin ve ge‐
+rektiği şekilde değiştirin.
+
+Termal koruma ya da
+sigortalar motor akı‐
+mına uygun değildir.
+
+Toprak kaçağı
+mevcut.
+
+Elektrik sistemi bileşenlerinin ya‐
+lıtımını kontrol edin.
+
+Elektrik motoru kısa
+devre yapmıştır.
+
+Bileşenleri kontrol edin ve ge‐
+rektiği şekilde değiştirin.
+
+7.8  Pompa çalışıyor ancak çok az sıvı sevk
+ediyor veya hiç sevk etmiyor
+
+Motor aşırı yüklen‐
+miştir.
+
+Pompanın çalışma koşulları‐
+nı kontrol ederek korumayı sı‐
+fırlayın.
+
+Sebep
+Çözüm
+
+• Havayı alın
+
+Pompa ya da boru
+içinde hava var.
+
+TR
+
+7.4  Elektrikli pompa çalışır, fakat kısa süre
+sonrasında termal koruyucu tetiklenir ya da
+sigortalar atar
+
+Pompa doğru şe‐
+kilde kullanıma ha‐
+zırlanmamıştır.
+
+Sebep
+Çözüm
+
+Pompayı durdurun ve kullanıma
+hazırlama prosedürünü tekrar‐
+layın.
+Sorun devam ederse:
+
+Elektrik panelini ısı kay‐
+nağından ve doğrudan
+güneş ışığından koruyun.
+
+Elektrik paneli aşırı sıcak
+bir bölgede yer alıyor ve‐
+ya doğrudan güneş ışığı‐
+na maruz kalıyor.
+
+Motorun çalışma koşulla‐
+rını denetleyin.
+
+• Mekanik yalıtımın sızdırma‐
+dığından emin olun.
+• Emiş borusunun tam bir sı‐
+kılığa sahip olduğunu kon‐
+trol edin.
+• Sızdıran valfleri değiştirin.
+
+Güç kaynağı voltajı, mo‐
+torun çalışma limitleri
+dahilinde değil.
+
+Valfi açın.
+
+Bir elektrik fazı eksiktir.
+Güç kaynağını
+
+Dağıtım tarafında
+kısma çok fazla.
+
+308

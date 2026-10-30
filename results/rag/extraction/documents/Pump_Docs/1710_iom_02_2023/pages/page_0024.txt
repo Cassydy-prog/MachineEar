@@ -1,0 +1,63 @@
+5  Commissioning, Startup, Operation, and Shutdown
+
+5.2  Check the rotation direction (three-phase motor)
+
+Follow this procedure before start-up.
+1. Locate the arrows on the adaptor or the motor fan cover to determine the correct rotation
+direction.
+2. Start the motor.
+3. Quickly check the direction of rotation through the coupling guard or through the motor
+fan cover.
+4. Stop the motor.
+5. If the rotation direction is incorrect, then do as follows:
+a) Disconnect the power supply.
+b) In the terminal board of the motor or in the electric control panel, exchange the
+
+position of two of the three wires of the supply cable.
+c) Check the direction of rotation again.
+
+5.3  Pump operation precautions
+
+General considerations
+
+CAUTION:
+
+• Vary the capacity with the regulating valve in the discharge line. Never throttle the flow
+from the suction side since this can result in decreased performance, unexpected heat
+generation, and equipment damage.
+• Do not overload the driver. Driver overload can result in unexpected heat generation and
+equipment damage. The driver can overload in these circumstances:
+
+– The specific gravity of the pumped fluid is greater than expected.
+– The pumped fluid exceeds the rated flow rate.
+• Make sure to operate the pump at or near the rated conditions. Failure to do so can result
+in pump damage from cavitation or recirculation.
+
+Operation at reduced capacity
+
+WARNING:
+Never operate any pumping system with a blocked suction and discharge. Operation, even
+for a brief period under these conditions, can cause confined pumped fluid to overheat,
+which results in a violent explosion. You must take all necessary measures to avoid this
+condition.
+
+NOTICE:
+
+• Avoid increased radial load. Failure to do so can cause stress on the shaft and bearings.
+• Avoid heat build-up. Failure to do so can cause rotating parts to score or seize.
+• Avoid cavitation. Failure to do so can cause damage to the internal surfaces of the pump.
+
+Operation under freezing conditions
+
+NOTICE:
+Do not expose an idle pump to freezing conditions. Drain all liquid that is inside the pump.
+Failure to do so can cause liquid to freeze and damage the pump.
+
+5.4  Start the pump
+
+The responsibility for checking the correct flow and the temperature of the pumped liquid
+rests with the installer or owner.
+Before starting the pump, make sure that:
+
+22
+Series 1710 Installation, Operation, and Maintenance Manual

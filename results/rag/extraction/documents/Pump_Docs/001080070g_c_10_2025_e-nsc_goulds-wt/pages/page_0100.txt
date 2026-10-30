@@ -1,0 +1,160 @@
+da - Oversættelse af original instruktioner
+
+3. Kontrollér hurtigt roteringsretningen gennem ko‐
+blingguiden eller motorventilatordækslet.
+
+Ekstraordinær vedligeholdelse kan være nødvendig
+for at rense væskeenden og/eller udskifte slidte de‐
+le.
+
+4. Stop motoren.
+
+Pumper med lejer, der er smurt for hele deres
+levetid
+
+5. Hvis rotationsretningen er ukorrekt, skal du gøre,
+som følger:
+
+a) Afbryd strømforsyningen.
+b) På motorens klemtavle eller det elektriske
+
+Punper med lejer, der er smurt for hele deres levetid,
+kræver ikke nogen skemalagt rutinevedligeholdelse.
+
+Pumper med lejer, der skal smøres
+
+kontrolpanel skal to af de tre kabler fra forsy‐
+ningskablerne udskiftes.
+
+Se Figur 21 på side 392 for kablingsdiagram‐
+mer.
+c) Kontrollér roteringsretningen igen.
+
+5.3  Start af pumpe
+
+• Smør for hver 4000 driftstimer, dog mindst en
+gang om året. Rengør smørenipler (SN) først.
+• Brug NLGI grad 2 fedt eller tilsvarende.
+Kontakt din lokale salgs- og servicerepræsentant for
+forespørgsler eller oplysninger.
+
+Motorlejer
+
+BEMÆRKNING:
+Efter den første opstart og når driftstemperaturen
+er nået, skal du kontrollere justeringen af enhedens
+kobling, se Koblingskontrol og tilpasning på side 94.
+
+Efter cirka fem år, er smørefedtet i motorlejerne så
+gammelt, at en udskiftning af lejerne anbefales. Le‐
+jerne skal udskiftes efter 25000 driftstimer eller i
+henhold til motorleverandørens vedligeholdelsesvej‐
+ledning, hvis denne er kortere.
+
+DA
+
+Motor med lejer, der kan smøres
+
+Ansvaret for at kontrollere korrekt gennemstrømning
+og temperaturen af den pumpede væske påhviler
+installatøren eller ejeren.
+Før du starter pumpen, skal du sørge for, at:
+
+Følg motorleverandørens vedligeholdelsesvejled‐
+ning.
+
+Kobling
+
+• pumpen er korrekt tilsluttet til strømforsyningen.
+• Pumpen fyldes korrekt i overensstemmelse med
+instruktionerne i Fyld pumpen (kapitel 5).
+• Tænd-sluk-ventilen, der er placeret downstream
+fra pumpen, er lukket.
+
+1. Start motoren.
+
+Tjek koblingselementernes frirum regelmæssigt,
+mindst en gang om året. Det anbefales at tjekke
+for hver 1000 driftstimer eller hver tredje måned, alt
+efter hvad der kommer først.
+
+2. Åbn gradvist tænd-sluk-ventilen på bortskaffel‐
+sesiden af pumpen.
+
+6.2  Inspektionskontrolliste
+
+Ved de forventede driftsbetingelser kører pum‐
+pen jævnt og stille. Se Fejlsøgning på side 96,
+hvis dette ikke er tilfældet.
+
+6  Vedligeholdelse
+
+Kontrollér koblingen
+Kontrollér koblingens
+fleksible elementer. Ud‐
+skift de relevante dele,
+hvis der er tegn på sli‐
+tage, og kontrollér tilpas‐
+ningen.
+
+Forholdsregler
+
+Kontrollere den mekani‐
+ske plombering
+
+Elektrisk fare:
+Frakobl og afsikr den elektriske strøm,
+før du installerer eller servicerer enhe‐
+den.
+
+Kontrollér den mekani‐
+ske plombering for læka‐
+ge. Udskift den mekani‐
+ske plombering, hvis der
+findes lækage.
+
+ADVARSEL:
+
+Kontrol af lejeplomberin‐
+gerne
+
+Kontrollér, at de aksiale
+plomberingsringe, der er
+monteret på akslen, sid‐
+der korrekt. Der må kun
+etableres en skånsom
+kontakt af plomberings‐
+læben.
+
+Kontrollér for stille kørsel Kontrollér hyppigt for stil‐
+
+• Vedligeholdelse og service må kun
+udføres at kvalificeret personale.
+• Sørg for at overholde alle gældende
+bestemmelser for at forhindre ulyk‐
+ker.
+• Anvend passende udstyr samt be‐
+skyttelse.
+• Kontrollér, at den drænede væske ik‐
+ke forårsager skade eller kvæstelser.
+
+le kørsel af pumpen
+med vibrationsmålings‐
+redskaber.
+
+6.3  Demontér og gensaml pumpedelene
+Du kan få flere oplysninger om reservedele og sam‐
+ling og demontering af pumpen ved at kontakte din
+lokale salgs- og servicerepræsentant.
+
+6.1  Service
+Hvis brugeren ønsker at planlægge regelmæssig
+vedligeholdelse, er denne afhængig af typen af den
+pumpede væske og af pumpens driftsbetingelser.
+Kontakt salgs- og servicerepræsentanten for fore‐
+spørgsler eller information vedrørende rutinevedlige‐
+holdelse eller service.
+
+7  Fejlsøgning
+
+96

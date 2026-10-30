@@ -1,0 +1,189 @@
+•
+Température de circulation de l’air entre 120°F (49°C) et
+-20°F (-29°C) avec une fluctuation de température maxi­
+male de 15°F (8°C) par minute.
+
+•
+Les températures ambiantes ne doivent pas excéder 104°F
+(40°C) pour les ventilateurs standard.
+
+•
+Vitesse d’opération constante.
+
+Opérer un ventilateur dans l’une quelconque des conditions suiv­
+antes peut provoquer des risques de sécurité:
+
+•
+Ne pas opérer un ventilateur dans un environnement pour
+lequel il n’a pas été conçu. Ceci comprend l’utilisation du
+ventilateur à des températures ou avec des vapeurs abrasives
+ou corrosives ou des matériaux solides (cendres inclues)
+autres que ceux pour lesquels le ventilateur a été conçu.
+L’utilisation à haute température ou avec des vapeurs abra­
+sives ou corrosives demande des considérations spéciales
+qui doivent être incluses dans la conception, la sélection des
+matériaux, le revêtement et l’entretien du ventilateur.
+
+•
+Ne pas opérer le ventilateur à une vitesse supérieure
+à celle pour laquelle le ventilateur, le mécanisme
+d’entraînement, les joints, les roulements et autres com­
+ponents ont été conçus.
+
+Les graisses sont faites à partir de différents produits de 
+base. Il y a des graisses à base synthétique, à base de lithium, 
+à base de sodium, etc. Éviter de mélanger des graisses avec 
+des bases différentes. Elles peuvent s’avérer incompatibles et 
+se détériorer rapidement, voire se décomposer. L’autocollant de 
+lubrification indique la liste des lubrifiants acceptables. Tous les 
+paliers sont remplis avec une graisse à base de lithium avant de 
+quitter l’usine, à moins d’indication contraire. Lorsque les ven­
+tilateurs sont démarrés, les paliers peuvent rejeter un excès de 
+graisse par les joints pour un court moment. Ne pas remplacer 
+cette évacuation initiale, car cet écoulement s’arrêtera de lui-
+même lorsque tout l’excès de graisse sera évacué. Il arrive que 
+les paliers aient une tendance à chauffer durant cette période. Il 
+ne faut pas s’en alarmer à moins que cela ne dure plus de 48 
+heures ou qu’ils deviennent très chauds (plus de 200°F, 93°C).
+	
+Si les paliers vibrent excessivement à tout moment, où 
+s’ils tournent à une température supérieure à 200°F, 93°C, 
+les paliers doivent être inspectés pour une lubrification et un 
+alignement correct. Vérifier également le serrage des vis sans 
+tête, des boulons de couvercle, et des colliers ; vérifier aussi 
+que le lubrifiant ne montre pas de signe de contamination. Les 
+paliers ou les éléments de paliers endommagés doivent être 
+remplacés s’ils s’avèrent être défectueux ou s ‘ils montrent des 
+signes d’usure. Lors de la lubrification, utiliser une quantité de 
+graisse suffisante pour purger les joints. Tourner les paliers 
+manuellement lors de la lubrification.
+
+•
+Ne pas utiliser de systèmes de vitesse de rotation vari­
+able sans consultation préliminaire avec Twin City Fan
+Companies, Ltd.
+
+•
+Ne pas opérer le ventilateur avec des roulements et des
+joints incorrectement lubrifiés. Les fréquences de lubrifica­
+tion sont détaillées dans la section maintenance correspon­
+dante de ce manuel.
+•
+Ne pas opérer un ventilateur exhibant des niveaux de
+vibration excessifs. Les lectures d’entrée ne doivent pas
+excéder 7.2mm/s RMS.
+
+•
+Ne pas opérer un ventilateur en panne.
+
+•
+Ne pas opérer le ventilateur avec des pièces de rechange
+ou des composantes qui ne sont pas recommandées par
+Twin City Fan Companies, Ltd. L’usage de pièces qui
+ont des performances insuffisantes peut causer une usure
+prématurée et des pannes.
+
+Maintenance de la Roue et de l’Arbre
+Inspecter l’arbre et la roue pour détecter des accumulations de 
+saleté, de corrosion, et des signes de stress ou de fatigue après 
+un mois de service. L’intervalle entre les inspections futures 
+sera basé sur les résultats de cette inspection initiale. Nettoyer 
+les composantes. S’il se trouve quelque signe de stress ou de 
+fatigue (déformation, craquelure, surfaces excessivement usées) 
+la pièce doit être remplacée. Toute accumulation de matériel 
+sur des pièces tournantes ou sur des pièces qui peuvent entrer 
+en contact avec des pièces tournantes doit être nettoyée. Si, 
+pour quelque raison que ce soit, la roue doit être enlevée, 
+s’assurer qu’elle est bien attachée à l’arbre avant de redémar­
+rer le ventilateur. La roue et l’arbre doivent aussi être inspec­
+tés chaque fois qu’une vibration excessive est observée (les 
+lectures d’entrée doivent être 7.2mm/s ou moins). Référence 
+IS 14694:2003, “Ventilateurs industriels – Spécifications pour 
+l’Équilibrage et les Niveaux de Vibration” pour plus de détails 
+sur les niveaux de vibration acceptables.
+
+Toutes les conditions ci dessus peuvent entraîner des défaillances 
+mécaniques amenant des risques de sécurité comprenant exposition 
+à des objets éjectés et à des vapeurs ou du matériel toxiques.
+	
+Pour les applications à haute température, l’usage d’un 
+mécanisme auxiliaire est recommandé (tel que le système de 
+rotation disponible chez Twin City Fan Companies, Ltd.) qui 
+tourne le ventilateur doucement quand celui-ci ne travaille pas 
+alors qu’il est exposé à de hautes températures. Une exposi­
+tion à de hautes températures lorsque le ventilateur ne travaille 
+pas peut être causé par une panne de courant ou l’opération 
+standard d’un procédé.
+	
+Lorsque des ventilateurs multiples sont installés pour redon­
+dance, le ventilateur ainsi utilisé doit être démarré de façon 
+hebdomadaire pour éviter le besoin de considérer les exigences 
+de stockage.
+
+Maintenance Structurelle
+Tous les éléments ou dispositifs structurels servant à soutenir 
+ou à fixer le ventilateur à une structure doivent être contrôlés à 
+intervalles réguliers. Les isolateurs de vibration, boulons, bases, 
+etc., sont tous susceptibles de manquements dus à la corro­
+sion, l ‘usure ou à d’autres causes. Un montage incorrect peut 
+résulter en de mauvaises caractéristiques de fonctionnement, 
+fatigue ou défaillance du ventilateur. Inspecter les éléments 
+métalliques pour corrosion, craquelures ou autres signes de 
+stress. Remplacer tout élément montrant un quelconque de ces 
+signes. Le béton doit être contrôlé afin de vérifier l’intégrité 
+structurelle de la fondation et réparé ou remplacé si des signes 
+d’endommagement sont décelés.
+	
+Lorsque le ventilateur est utilisé pour traiter des gaz ou 
+vapeurs toxiques, le cadre et les soudures doivent être inspec­
+tés pour corrosion et craquelures à intervalles réguliers afin de 
+s’assurer qu’il n’y a pas de fuites de gaz toxiques. L’état du 
+revêtement doit aussi être inspecté pour s’assurer qu’aucune 
+part du ventilateur n'est mise à nu. Tous les joints et conduits 
+doivent également être examinés pour signes d’usure. Une 
+inspection initiale un mois après la mise en service est utilisée 
+pour déterminer une fréquence d’inspection appropriée.
+
+Bruit
+Les niveaux de bruit sont fournis avec tous les ventilateurs. 
+Ces niveaux sont basés sur les méthodes de test en cham­
+bre de réverbération AMCA 300 Cette méthode est similaire 
+à ISO 3741. L’installation sur le terrain et les conditions envi­
+ronnantes peuvent grandement modifier le bruit. À cause de 
+ceci, l’utilisateur doit vérifier que le niveau de bruit dans les 
+conditions d’installation est sous 70 dBA Si le niveau de bruit 
+est supérieur à 70 dBA, des mesures doivent être prises pour 
+ramener le niveau de bruit à un niveau acceptable.
+
+Les standards EN qui suivent peuvent être consultés comme 
+guide pour mesurer le niveau de bruit:
+
+Utilisation du Ventilateur
+Usage et Application corrects
+Il est critique que les ventilateurs soient opérés exclusivement 
+de la manière dont leur conception l’a prévu. Une construction 
+standard est conçue pour une application standard, telle que 
+définie ci-dessous:
+
+•
+Air propre – pas de matières solides, de particules, ou de
+gaz abrasifs ou corrosifs.
+
+EN 809 EN ISO 5136:2003	
+-
+Acoustique - Détermination
+du niveau de bruit émis dans
+un conduit par les ventila­
+teurs et autres machines de
+circulation d’air - Méthode
+en conduit.
+EN ISO 11200/A1 1997	
+-
+Bruits
+émis 
+par 
+les
+
+10
+
+IM-2-06

@@ -1,0 +1,125 @@
+Suction and stuffing box wear ring removal
+(optional)
+
+The optional wear rings are removed from the casing
+and stuffing box cover by the following method:
+1.  Drill two axial holes in each wear ring
+	 approximately 180 degrees apart being careful not
+	 to drill into the casing or stuffing box cover.
+2. Split the wearing rings using a chisel.
+3. Remove the pieces.
+
+This completes the disassembly of the Series A-C 
+2000 close-coupled pump.
+
+Assembly procedures
+
+Motor adapter assembly
+
+If necessary, mount the motor adapter (1-534-0) to 
+the motor using four capscrews (1-904-0). Be certain 
+the adapter is mounted such that the drain hole is on 
+the bottom. Tighten the capscrews.
+
+Stuffing box assembly
+
+NOTE: There are two pipe taps on the stuffing
+box; one closer to the gland, and one farther away 
+from the gland.
+
+If the pump is equipped with a mechanical seal, 
+the small box cover should be positioned with the 
+pipe tap closer to the gland in the most accessible 
+position.
+
+Figure 7B - "G" Setting dimensions
+
+If the pump is equipped with packing, the stuff box 
+cover should be positioned so the pipe tap farthest 
+from the gland is in the most accessible position.
+
+For ease of assembly, install pipe fittings in the 
+stuffing box pipe taps before assembling stuffing 
+box on the motor adapter.
+
+A. General assembly
+
+1. Install the two gland retaining studs (6-908-0)
+	
+into the stuffing box cover.
+    2. Screw the impeller stud (4-908-0) into the end
+	
+of the motor shaft using a locking compound
+	
+on the stud.
+
+2. Place the seal spring retainer into stuffing box.
+	
+3. Place seal spring into stuffing box.
+	
+4. Place sleeve and seal assembly into stuffing
+
+box with rotating half of seal installed closest
+
+to the impeller.
+	
+5. Install the seal gland (6-014-0) (flat side toward 	
+
+stuffing box) on the stuffing box using the gland 	 	
+	
+studs (6-908-0) and gland nuts (6-903-0). Tighten 	 	
+	
+gland nuts evenly until the gland is approximately 	
+	
+1/8" from the stuffing box.
+	
+6. Slide the deflector ring (1-136-0) onto the motor 	 	
+	
+shaft.
+	
+7. Slide the stuffing box cover, seal, and sleeve
+
+assembly onto the motor shaft being certain
+
+the stuffing box is closest to the motor
+
+adapter. To prevent any leakage, use Dow
+
+Corning Silicone Rubber #732 or equal
+
+sealant between the shaft and shaft sleeve.
+	
+8. If applicable, bolt the motor adapter to the
+
+stuffing box using capscrews (1-904-0).
+
+B. Pumps with mechanical seals
+    1. Install the rotating and stationary elements of
+	
+the mechanical seal (6-400-0) on the shaft
+	
+sleeve (1-009-0) being certain that the two
+	
+wearing surfaces face each other. Position the
+	
+seal on the sleeve according to the "G "
+	
+dimension found in Figure 7A.
+
+C. Pumps with packed stuffing boxes
+
+1. Slide deflector (1-136-0) onto the motor shaft.
+	
+2. Slide the packing gland (6-014-0) onto the motor 	 	
+	
+shaft (flat side toward motor).
+	
+3. Slide the shaft sleeve (1-009-0) onto the motor 	
+  
+    shaft. To prevent leakage, use Dow Corning 
+    Silicone Rubber #732 or equal lubricating sealant 		
+	
+between the shaft and shaft sleeve.
+Figure 7A
+
+13

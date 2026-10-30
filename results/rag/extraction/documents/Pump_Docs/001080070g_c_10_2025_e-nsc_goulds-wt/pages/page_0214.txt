@@ -1,0 +1,156 @@
+sk - Preklad originálu
+
+5  Uvedenie do prevádzky, spustenie,
+prevádzka a vypnutie
+
+4. Umiestnite čerpadlo a motor na základňu zarov‐
+naním otvorov pre skrutky.
+5. Zatiahnite skrutky.
+6. Zopakujte kontrolu zarovnania spojky.
+
+Bezpečnostné opatrenia
+
+Inštalácia ochrany spoja
+
+VAROVANIE:
+Fyzické a tepelné nebezpečenstvo
+
+UPOZORNENIE:
+Nikdy neuvádzajte čerpadlo do prevádz‐
+ky bez správne nainštalovaného ochran‐
+ného krytu spojky.
+
+• Vždy používajte osobné ochranné
+prostriedky.
+• Skontrolujte, či je nainštalovaná
+ochrana spojky.
+
+Typ ochrany: drôtená sieťovina
+Informácie nájdete v časti Obrázok 18 na strane 386.
+
+VAROVANIE:
+
+• Presvedčte sa, že vypúšťaná tekutina
+nespôsobuje škody ani úrazy.
+• Ochranný spínač motora môže zaprí‐
+činiť neočakávané opätovné spuste‐
+nie motora. Môže to spôsobiť aj zá‐
+važný úraz.
+
+1. Ochranu (1) umiestnite správne tak, aby obklopo‐
+vala výstupný koniec hriadeľa čerpadla a podpor‐
+ný krúžok (3) na strane motora.
+2. Utiahnite skrutky (2).
+Typ ochrany: plech
+Informácie nájdete v časti Obrázok 19 na strane 388.
+
+UPOZORNENIE:
+
+• Vonkajší povrch čerpadla a motora
+môže mať počas prevádzky viac než
+40 ºC (104 ºF).
+• V blízkosti čerpadla sa nesmie nachá‐
+dzať žiadny horľavý materiál.
+
+POZNÁMKA:
+
+1. Umiestnite spodnú polovicu krytu ochrany spojky
+(2).
+2. Utiahnite upevňovacie skrutky spodného polovič‐
+ného plášťa (4).
+3. Otvorte a vložte podporný/nastavovací krúžok (6)
+s puzdrom smerom nadol a axiálne ho zatlačte
+na motor.
+4. Umiestnite hornú polovicu krytu ochrany spojky
+(1).
+5. Utiahnite upevňovacie skrutky horného polovič‐
+ného plášťa (3).
+6. Utiahnite uzatváracie skrutky polovičných škrupín
+(5).
+
+4.3.4  Elektrická inštalácia
+
+1. Odskrutkujte skrutky krytu svorkovnice.
+
+2. Pripojte a upevnite káble napájania podľa prísluš‐
+nej schémy zapojenia:
+
+SK
+
+Schému zapojenia nájdete v časti Obrázok 21 na
+strane 392. Schémy si taktiež môžete pozrieť na
+zadnej strane krytu svorkovnice.
+
+a) Pripojte uzemňovacie vedenie.
+
+Presvedčte sa, že uzemňovací (ukostrovací)
+vodič je dlhší ako fázové vodiče.
+b) Pripojte fázové vodiče.
+
+3. Namontujte kryt svorkovnice.
+
+• Čerpadlo sa nesmie uvádzať do prevádzky, ak je
+prietok nižší ako menovitý, nasucho, ani bez na‐
+plnenia.
+• Čerpadlo nikdy nenechajte spustené s uzatvore‐
+ným dvojpolohovým výtlačným ventilom dlhšie
+než niekoľko sekúnd.
+• Nikdy nespúšťajte čerpadlo s uzatvoreným dvoj‐
+polohovým sacím ventilom.
+• Čerpadlo bežiace naprázdno nevystavujte pod‐
+mienkam mrazu. Vysušte všetku vlhkosť v čer‐
+padle. Ak tak neurobíte, môže to spôsobiť za‐
+mrznutie kvapaliny a poškodenie čerpadla.
+• Súčet tlaku na strane nasávania (rozvody, gravi‐
+tačná nádrž) a maximálneho tlaku, ktorý je vy‐
+tváraný čerpadlom, nesmie prekročiť maximálny
+povolený prevádzkový tlak (nominálny tlak PN)
+daného čerpadla.
+• Nepoužívajte čerpadlo, ak dochádza ku kavitácii.
+Kavitácia môže poškodiť vnútorné komponenty.
+
+POZNÁMKA:
+Utiahnite káblové hrdlá tak, aby nemohlo dôjsť
+k prekĺznutiu káblov a aby sa do svorkovnice ne‐
+mohla dostať vlhkosť.
+
+5.1  Naplňte čerpadlo
+Informácie o ďalších pripojeniach čerpadla nájdete v
+Obrázok 22 na strane 392.
+
+Montáž čerpadla pod hladinu kvapaliny
+(sacia hlava)
+
+4. Ak motor nie je vybavený automatickou reseto‐
+vacou tepelnou ochranou, upravte ochranu proti
+preťaženiu podľa zoznamu nižšie.
+
+– Ak motor používate pri plnej záťaži, nastavte
+
+Ilustráciu zobrazujúcu miesta zapojení čerpadla náj‐
+dete v Obrázok 23 na strane 394.
+
+hodnotu na nominálny prúd elektrického čer‐
+padla (štítok s údajmi).
+– Ak motor používate pri čiastočnej záťaži, hod‐
+
+1. Zavrite dvojpolohový ventil umiestnený v smere
+toku pod čerpadlom.
+
+notu nastavte na prevádzkový prúd (napr. od‐
+meraný prúdovými kliešťami).
+– Ak čerpadlo má systém spúšťača hviezda-tro‐
+
+2. Odmontujte plniacu zátku (3) alebo zátku merača
+(1) a otvorte dvojpolohový ventil v smere proti
+toku, až kým nezačne voda vytekať z otvoru.
+
+a) Zatvorte plniacu zátku (3) alebo zátku merača
+
+juholník, nastavte teplotné relé na 58 % nomi‐
+nálneho alebo prevádzkového prúdu (len pre
+trojfázové motory).
+
+(1).
+
+210

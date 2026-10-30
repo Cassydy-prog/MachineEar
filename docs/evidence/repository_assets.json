@@ -1,0 +1,56 @@
+{
+  "prepared_at_utc": "2026-10-28T11:13:39.897878+00:00",
+  "authorization": "User requested publishing manuals, feature CSV and prepared RAG, excluding recordings.",
+  "manual_count": 12,
+  "feature_csv": {
+    "path": "data/features/machineear_features_all_snr.csv",
+    "sha256": "8a8ced3882b10524bbe89a13d74d8f840ae855a5de2ee96406f0862eb1777c6d"
+  },
+  "fixed_split": {
+    "path": "results/baseline/data_splits.csv",
+    "sha256": "e200c5769ae7cd475a5f516b93d9170001340a602e6ca947a790fced5cc22201",
+    "duplicate_feature_directory_copy_added": false
+  },
+  "rag_files": 882,
+  "files_copied": 895,
+  "bytes": 133585961,
+  "adjusted_location_metadata_and_links": [
+    "results/rag/extraction/index.html",
+    "results/rag/extraction/manifest.json"
+  ],
+  "source_manuals_and_feature_csv_unchanged": true,
+  "indexed_page_text_chunks_vectors_and_sqlite_unchanged": true,
+  "recordings_added": false,
+  "embedding_weights_or_environment_added": false,
+  "external_embedding_or_llm_service_used": false,
+  "final_test_inference_rerun": false,
+  "verification": {
+    "local_suite": {
+      "run": 39,
+      "passed": 39,
+      "skipped": 0,
+      "failures": 0,
+      "errors": 0
+    },
+    "clone_without_recordings_or_downloaded_encoder_ocr_assets": {
+      "run": 39,
+      "passed": 32,
+      "skipped": 7,
+      "failures": 0,
+      "errors": 0
+    },
+    "original_audio_script_git_blobs_unchanged": 9,
+    "original_trained_models_splits_results_and_notebooks_unchanged": true,
+    "documentation_links": "checked",
+    "hosted_ci": "not run",
+    "new_anomaly_detection_experiments_added": false,
+    "staged_checksum_linked_blobs_match_original_bytes": true,
+    "checkout_corpus_search": {
+      "fan_verified_passages": 3,
+      "pump_verified_passages": 3,
+      "corpus": "checkout data/manuals and results/rag; only query encoder/runtime borrowed locally",
+      "recordings_used": false
+    }
+  },
+  "contribution_scope": "RAG, portable assets and a thin bridge calling Ballystone's unchanged scripts/predict_audio.py; no added anomaly-detector implementation."
+}

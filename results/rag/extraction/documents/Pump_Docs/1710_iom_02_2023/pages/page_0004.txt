@@ -1,0 +1,17 @@
+Table of Contents
+
+7.3  The electric pump starts, but the thermal protector trips or the fuses blow
+immediately after........................................................................................................... 26
+7.4  The electric pump starts, but the thermal protector trips or the fuses blow a short
+time after........................................................................................................................27
+7.5  The electric pump starts, but the thermal protector trips a varying time after..............27
+7.6  The electric pump starts, but the system's general protection is activated................. 27
+7.7  The electric pump starts, but the system's residual current device (RCD) is
+activated........................................................................................................................ 27
+7.8  The pump runs but delivers too little or no liquid.........................................................27
+7.9  The electric pump stops, and then rotates in the wrong direction .............................. 28
+7.10  The pump starts up too frequently.............................................................................28
+7.11  The pump vibrates and generates too much noise................................................... 28
+
+2
+Series 1710 Installation, Operation, and Maintenance Manual

@@ -1,0 +1,40 @@
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+3.3.2.4 Rolling element indentations
+Symptoms:
+
+Indentations at the rolling element
+pitch in the raceways of non-separable
+bearings, fig. 58. Fatigue sometines 
+arising therefrom, see also "Fatigue as a
+result of static overload" in section
+3.3.2.1.
+The indentations may also have 
+occured during dismounting: check 
+cycling features (shiny edges), determine
+mounting direction.
+
+Causes:
+– Static overload/shock impacts
+– Mounting or dismounting forces
+
+applied via rolling elements (incorrect
+mounting order, unsuitable accesso-
+ries)
+
+Remedial measures:
+
+Mount the ring with the tight fit first.
+When both rings have a tight fit mount
+them together with a suitable disk.
+
+58: Ball indentations in the shoulders
+of a deep groove ball bearing. The
+mounting tool was attached to the
+ring with a loose fit and the forces
+were therefore applied via the balls.
+
+37
+FAG

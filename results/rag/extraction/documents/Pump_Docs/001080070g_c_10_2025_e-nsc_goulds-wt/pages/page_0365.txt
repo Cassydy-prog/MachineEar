@@ -1,0 +1,208 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+6. Void
+7. Void
+8. Void
+9. Void
+10. Casing material
+11. Impeller material
+12. Mechanical seal + O-ring ma‐
+terial configuration
+13. Free digits for options
+
+5. D310 = Diametro della girante
+6. Vuoto
+7. Vuoto
+8. Vuoto
+9. Vuoto
+10. Materiale corpo pompa
+11. Materiale girante
+12. Tenuta meccanica + configu‐
+razione materiale O-ring
+13. Cifre libere per le opzioni
+
+5. D310 = Diamètre de la roue
+6. Vide
+7. Vide
+8. Vide
+9. Vide
+10. Matériau du corps
+11. Matériau de la roue
+12. Configuration de joint mécani‐
+que et matériau de joint tori‐
+que
+13. Chiffres libres pour options
+
+Deutsch
+
+Español
+
+Português
+
+1. NSC = Pumpentyp
+2. Kupplungsangabe; Leer = nur
+mit Welle
+3. Leer
+4. 125–315 = Pumpengröße
+5. D310 = Laufraddurchmesser
+6. Leer
+7. Leer
+8. Leer
+9. Leer
+10. Gehäusewerkstoff
+11. Laufradwerkstoff
+12. Werkstoffkonfiguration für
+Gleitringdichtung + O-Ring
+13. Freie Ziffern für Optionen
+
+1. NSC = tipo de bomba
+2. Indicación de acoplamiento;
+nulo = eje libre
+3. Nulo
+4. 125–315 = tamaño de la
+bomba
+5. D310 = diámetro del impulsor
+6. Nulo
+7. Nulo
+8. Nulo
+9. Nulo
+10. Material de la carcasa
+11. Material del impulsor
+12. Configuración del material del
+sello mecánico y la junta tóri‐
+ca
+13. Dígitos libres para opciones
+
+1. NSC = tipo de bomba
+2. Indicação do acoplamento; in‐
+válido = eixo simples
+3. Inválido
+4. 125–315 = Dimensão da
+bomba
+5. D310 = Diâmetro do impulsor
+6. Inválido
+7. Inválido
+8. Inválido
+9. Inválido
+10. Material da caixa
+11. Material do impulsor
+12. Configuração do vedante me‐
+cânico + material do anel em
+O
+13. Dígitos livres para opções
+
+Nederlands
+
+Dansk
+
+Norsk
+
+1. NSC = Type pomp
+2. Koppelingindicatie; hole = on‐
+bedekte as
+3. Hol
+4. 125–315 = Pompgrootte
+5. D310 = Waaierdiameter
+6. Hol
+7. Hol
+8. Hol
+9. Hol
+10. Materiaal van de behuizing
+11. Materiaal van waaier
+12. Mechanische sluiting + O-ring
+materiaal configuratie
+13. Vrije getallen voor opties
+
+1. NSC = Pumpetype
+2. Koblingsindikation; ugyldig =
+fritliggende aksel
+3. Ugyldig
+4. 125–315 = Pumpestørrelse
+5. D310 = Pumpehjul diameter
+6. Ugyldig
+7. Ugyldig
+8. Ugyldig
+9. Ugyldig
+10. Kabinettets materiale
+11. Pumpehjulets materiale
+12. Mekanisk forpakning + O-ring‐
+smaterialekonfiguration
+13. Ledige cifre til indstillinger
+
+1. NSC = Pumpetype
+2. Koplingsindikasjon, void = ba‐
+re aksel
+3. Void
+4. 125–315 = Pumpstørrelse
+5. D310 = Pumpehjulsdiameter
+6. Void
+7. Void
+8. Void
+9. Void
+10. Husmateriale
+11. Pumpehjulsmateriale
+12. Konfigurasjon me mekanisk
+tetning + o-ringmateriale
+13. Fire sifre for opsjoner
+
+Svenska
+
+Suomalainen
+
+íslenskur
+
+APPX
+
+1. NSC = Pumptyp
+2. Kopplingsindikering; blank =
+bar axel
+3. Luftficka
+4. 125–315 = Pumpstorlek
+5. D310 = Pumphjulsdiameter
+6. Luftficka
+7. Luftficka
+8. Luftficka
+9. Luftficka
+10. Husmaterial
+11. Pumphjulsmaterial
+12. Materialkonfiguration för me‐
+kanisk tätning och O-ring
+13. Ledig siffror för tillval
+
+1. NSC = Tegund dælu
+2. Tengivísun; ógilt = óvarinn
+öxull
+3. Ógilt
+4. 125–315 = Dælustærð
+5. D310 = Þvermál dæluhjóls
+6. Ógilt
+7. Ógilt
+8. Ógilt
+9. Ógilt
+10. Hlífðarefni
+11. Dæluhjólsefni
+12. Vélarþétting + efnisgerð O-
+hrings
+13. Lausir tölustafir fyrir valmögu‐
+leika
+
+1. NSC = pumpputyyppi
+2. Kytkimen ilmaisin: tyhjä = pal‐
+jas akseli
+3. Tyhjiö
+4. 125–315 = pumpun koko
+5. D310 = juoksupyörän halkaisi‐
+ja
+6. Tyhjiö
+7. Tyhjiö
+8. Tyhjiö
+9. Tyhjiö
+10. Pesän materiaali
+11. Juoksupyörän materiaali
+12. Mekaanisen tiivisteen ja O-
+renkaan materiaalikonfiguraa‐
+tio
+13. Vapaat numerot vaihtoehtoja
+varten
+
+361

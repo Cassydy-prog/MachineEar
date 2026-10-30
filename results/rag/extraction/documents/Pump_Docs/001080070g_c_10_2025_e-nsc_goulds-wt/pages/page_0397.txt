@@ -1,0 +1,134 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+150-500
+200-250..-315..-400..-500
+250-315..-400..-500
+300-350..-400..-450
+
+32-125..-160..-200..-250
+40-125..-160..- 200..-250
+50-125..-160..- 200..-250
+65-125..-160..- 200..-250
+80-160..- 200..-250
+
+50-315
+65-315
+80-315..-316..-400
+100-160..-200..-250..-315..-400
+125-200..-250..-315..-400
+150-200..-250-..315..-400
+
+A
+A, B
+
+E
+G 3/8"
+G 3/8"
+G 1/2"
+
+PM1
+G 1/4"    *)
+G 1/4"
+G 1/2"
+
+CO1
+--
+G 1/4"    *)
+G 1/2"    *)
+
+PM2
+G 1/4"    *)
+G 1/4"    *)
+G 1/2"    *)
+
+F
+G 3/8"
+G 3/8"
+--
+
+T
+--
+--
+G 1/2"    *)
+
+A
+Materiale corpo pompa C, D • Casing material C, D • Matériau de corps C, D • Gehäusewerkstoff C, D •
+Material de la carcasa C, D • Material da caixa C, D • Behuizing materiaal C, D • Kabinettets materiale C, D
+• Husmateriale  C, D • Pumphusmaterial C, D • Pesän materiaali C, D • Hlífðarefni C, D • Kesta materjal C, D
+• Apvalka materiāls C, D • Korpuso medžiaga C, D • Materiał obudowy C, D • Materiál skříně C, D • Materiál
+skrine C, D • Ház anyaga C, D • Material carcasă C, D • Материал на корпуса C, D • Material ohišja C, D •
+Materijal kućišta C, D • Materijal kućišta C, D • Υλικό για κέλυφος C, D • Gövde malzemesi C, D •
+Материал корпуса C, D • Матеріал корпусу C, D • مواد
+ 
+العلبة
+ ،C، D
+
+B
+Materiale corpo pompa N, R • Casing material N, R • Matériau de corps N, R • Gehäusewerkstoff N, R •
+Material de la carcasa N, R • Material da caixa N, R • Behuizing materiaal N, R • Kabinettets materiale N, R
+• Husmateriale  N, R • Pumphusmaterial N, R • Pesän materiaali N, R • Hlífðarefni N, R • Kesta materjal N, R
+• Apvalka materiāls N, R • Korpuso medžiaga N, R • Materiał obudowy N, R • Materiál skříně N, R • Materiál
+skrine N, R • Ház anyaga N, R • Material carcasă N, R • Материал на корпуса N, R • Material ohišja N, R •
+Materijal kućišta N, R • Materijal kućišta N, R • Υλικό για κέλυφος N, R • Gövde malzemesi N, R •
+Материал корпуса N, R • Матеріал корпусу N, R • مواد
+ 
+العلبة
+ ،N, R
+
+E
+Drenaggio • Drain • Vidange • Ablauf • Drenaje • Drenagem • Afwatering • Afløb • Drenering • Dränering •
+Tyhjennys • Niðurfall • Äravool • Drenāža • Išleidimas • Spust • Výpust • Odtok • Vízlevezető • Golire •
+Изпразване • Odtok • Ispust • Odvod • Θυρίδα αποστράγγισης • Tahliye • Сливное отверстие • Спуск •
+التصريف
+
+PM1
+Punto di presa di pressione, mandata • Pressure tapping point, discharge • Point de prise de pression, re‐
+foulement • Druckmessstelle, Auslass • Punto de la toma de vapor a presión, descarga • Descarga do pon‐
+to de toma de pressão • Drukaflaatpunt, ontlading • Punkttilslutning under tryk, afledning • Trykk ved ut‐
+tappingspunktet • Tryckanslutningspunkt, utlopp • Paineen haaroituspiste, poisto • Þrýstiúttak, útlosun •
+Surverõhu ava, väljavool • Spiediena samazināšanas punkts, izplūde • Slėgio atšakos vieta, išleidimas •
+Króciec do pomiaru ciśnienia, tłoczenie • Místo pro měření tlaku, na výtlačné straně • Bod merania tlaku
+na výstupe • Nyomóoldali nyomásleágazó pont • Punct de derivație pentru presiune, evacuare • Точка на
+заустване на налягането на изхода • Odtočna tlačna priključna točka • Priključak za regulaciju tlaka,
+pražnjenje • Priključak za regulaciju pritiska, odvod • Εκκένωση σημείου κτυπήματος με πίεση • Basınç
+itme noktası, boşaltım • Патрубок отбора давления на стороне нагнетания • Патрубок відбору тиску
+на боці нагнітання • نقطة
+ 
+التوصيل
+ 
+بالضغط،
+ 
+التفريغ
+
+CO1
+Uscita ricircolo • Circulation outlet • Sortie de circulation • Zirkulationsausgang • Salida de circulación •
+Saída de circulação • Circulatie-uitlaat • Cirkulationsudløb • Sirkulasjonsuttak • Cirkulationsutlopp • Kier‐
+ron poisto • Hringrásarútfall • Ringvoolu väljalaskeava • Cirkulācijas izeja • Cirkuliacijos anga • Wylot obie‐
+gu • Cirkulační výstup • Cirkulačný vývod • Keringetési kimeneti nyílás • Orificiu de circulație • Изход за
+циркулация • Obtočna odprtina • Izlaz za cirkulaciju • Izlaz za cirkulaciju • Έξοδος κυκλοφορίας • Devir
+çıkışı • Выход линии циркуляции • Вихід лінії циркуляції • مخرج
+ 
+التوزيع
+
+APPX
+
+PM2
+Punto di presa di pressione, aspirazione • Pressure tapping point, suction • Point de prise de pression,
+aspiration • Druckmessstelle, Ansaugung • Punto de la toma de vapor a presión, aspiración • Sucção do
+ponto de toma de pressão • Drukaflaatpunt, aanzuiging • Punkttilslutning under tryk, sugning • Trykk ved
+sugetappingspunktet • Tryckanslutningspunkt, sug • Paineen haaroituspiste, imu • Þrýstiúttak, sogun •
+Imirõhu ava • Spiediena samazināšanas punkts, iesūkšana • Slėgio atšakos vieta, įsiurbimas • Króciec do
+pomiaru ciśnienia, zasysanie • Místo pro měření tlaku, na straně sání • Bod merania tlaku satia • Szívóol‐
+dali nyomásleágazó pont • Punct de derivație pentru presiune, aspirație • Точка на заустване на
+налягането от страната на засмукване • Sesalna tlačna priključna točka • Priključak za regulaciju tlaka,
+usisavanje • Priključak za regulaciju pritiska, usis • Αναρρόφηση σημείου κτυπήματος με πίεση • Basınç
+itme noktası, boşaltım • Патрубок отбора давления на стороне всасывания • Патрубок відбору тиску
+на боці всмоктування • نقطة
+ 
+التوصيل
+ 
+بالضغط،
+ 
+الشفط
+
+393

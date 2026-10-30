@@ -1,0 +1,103 @@
+Section 4. Where To Find Help
+
+Resources and Tools
+
+All HI standards are developed in accordance with 
+ANSI guidelines. HI is also a source of other pump-
+related publications and educational products.
+
+This section provides information on books 
+and reports, other publications, government 
+and commercial statistics and market forecasts, 
+software, training courses, and other sources of 
+information that can help users make informed 
+purchasing and system design decisions. A 
+wide range of information is available on pump 
+applications. This section focuses on resources 
+and tools in the following formats:
+
+•	 Books, Manuals, and Reports
+•	 Magazines and Periodicals
+•	 Government  and Commercial Statistics 
+and Market Forecasts
+•	 Software
+•	 Training Courses
+•	 Online Technical Information
+
+A DOE BestPractices Allied Partner, HI has worked 
+with the DOE Industrial Technologies Program over 
+the past decade on a variety of cooperative efforts 
+related to pumping systems efficiency and training. 
+EERE contributed to the development of the HI/
+Europump life-cycle costing and variable speed 
+pumping guidebooks, and HI has co-sponsored 
+sessions of the DOE-developed PSAT Specialist 
+Qualification workshops. HI’s Web site includes an 
+energy savings section that features downloadable 
+DOE tools, resources, software, and case studies. 
+Other HI-DOE projects include a video-based 
+education program on “Energy Reduction in Pumps 
+& Pumping Systems,” co-authored trade journal 
+articles on energy-efficient pumping systems, and 
+training workshops offered to the municipal water 
+and wastewater industry.
+
+Note:  The descriptions accompanying the 
+following sources have generally been taken 
+directly from the publisher/author/developer. 
+Inclusion of these sources does not imply 
+endorsement by the U.S. Department of Energy.
+
+American National Standards Institute (ANSI) 
+11 West 42nd Street
+New York, NY 10036
+Phone: 212-642-4900
+Fax: 212-398-0023
+
+Books, Manuals, and Reports
+
+Butterworth-Heinemann (Gulf Publishing)
+200 Wheeler Road, 6th floor
+Burlington MA 01803
+Phone: 781-221-2212
+www.bh.com
+
+ANSI is a private, nonprofit membership 
+organization whose goal is administration and 
+coordination of standards for a broad range of 
+goods and services for the United States. ANSI 
+maintains a number of codes developed by the 
+Hydraulic Institute and other organizations for 
+centrifugal pumps, positive displacement pumps, 
+and fire-protection pumps.
+
+American Society of Mechanical Engineers (ASME)
+345 E. 47th Street
+New York, NY 10017‑2392
+Phone: 800-843-2473
+Fax: 202-429-9417
+
+ASME is a professional society with interests 
+in the design and operation of machines and 
+components. ASME reports on technology 
+developments that can impact material selection 
+and pump design.
+
+Centrifugal Pumps:  Design and Application, 
+2nd Edition
+Authors: Val S. Lobanoff and Robert R. Ross
+Description: This book includes the following 
+chapters: Specific Speed & Modeling Laws; 
+Impeller Design; General Pump Design; 
+Volute Design; Design of Multi-Stage Casing; 
+Double-Suction Pumps & Side-Suction Design; 
+NPSH; Vertical Pumps; Pipeline, Waterflood 
+& CO2 Pumps; High Speed Pumps; Double-
+Case Pumps; Slurry Pumps; Hydraulic Power 
+Recovery Turbines; Chemical Pumps – Metallic 
+& Nonmetallic; Shaft Design & Axial Thrust; 
+Mechanical Seals; Vibration & Noise in Pumps;
+
+76
+
+Improving Pumping System Performance

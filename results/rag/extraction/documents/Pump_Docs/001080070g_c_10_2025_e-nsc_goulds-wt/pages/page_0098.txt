@@ -1,0 +1,147 @@
+da - Oversættelse af original instruktioner
+
+Beskyttelsen kan være trådnet (se Figur 18 på
+side 386) eller metalplade (se Figur 19 på side
+388)
+
+FORSIGTIG:
+Svejsekugler, skaling og andre urenheder
+i rørforbindelsen kan beskadige pumpen.
+
+4.3.3  Koblingstilpasning
+
+Fjernelse af koblingsbeskyttelsen
+
+FORSIGTIG:
+Betjen aldrig pumpen uden korrekt instal‐
+leret koblingsbeskyttelse.
+
+Beskyttelsestype: trådnet
+Du kan finde flere oplysninger i Figur 18 på side 386.
+
+1. Skru skruerne (2) af.
+2. Fjern trådnettet. (1).
+Beskyttelsestype: plademetal
+Du kan finde flere oplysninger i Figur 19 på side 388.
+
+DA
+
+2. Anbring en lineal på halvkoblingerne.
+3. Mål afstandene, der er vist på figuren.
+4. Drej koblingen manuelt i trin på 90°, og gentag
+målingen.
+5. Gentag trin 4 flere gange: den radiale justering
+er korrekt, hvis afstandene er ens på alle punkter
+rundt om omkredsen inden for den tilladte afvi‐
+gelse; se Tabel 28 på side 399. Ellers, se Juste‐
+ring af koblingen med mellemlægsplader på side
+94.
+6. Kontrollér afstanden mellem halvkoblingerne
+med en følemåler.
+7. Drej koblingen manuelt i trin på 90°, og kontrollér
+afstanden igen.
+8. Gentag trin 7 flere gange: den aksiale justering
+er korrekt, hvis afstandene er ens på alle punkter
+rundt om omkredsen inden for den tilladte afvi‐
+gelse; se Tabel 28 på side 399. Ellers, Justering
+af koblingen med mellemlægsplader på side 94.
+9. Sæt koblingsbeskyttelsen på igen.
+• M5 → 3 Nm (27 lbf·in) ± 15 %
+• M6 → 5 Nm (44 lbf·in) ± 15 %.
+
+Kontrol af koblingsjustering med laserskinne
+
+1. Skru lukkeskruerne på halvskallerne (5) af.
+2. Skru fastgørelsesskruerne, der fastgør den øver‐
+ste halve skal (3), af.
+3. Fjern den øverste halvskal af koblingsbeskyttel‐
+sen (1).
+4. Skru fastgørelsesskruerne, der fastgør den neder‐
+ste halve skal (4).
+5. Fjern den nederste halvskal af koblingsbeskyttel‐
+sen (2).
+6. Åbn og løft støtte-/justeringsringen (6).
+
+Du kan kontrollere koblingens tilpasning med en la‐
+serskinne: Se skinnens instruktionsmanual.
+
+Koblingskontrol og tilpasning
+
+Justering af koblingen med mellemlægspla‐
+der
+
+BEMÆRKNING:
+Kontrollér koblingens justering igen under varme
+driftsforhold.
+
+Se Figur 17 på side 384 for information om, hvor
+pumpen og motoren skal fastgøres til basen, og hvor
+de medfølgende mellemlægsplader skal indsættes.
+
+BEMÆRKNING:
+Sørg for, at koblingen nemt kan roteres med hånden,
+og at der er noget leg mellem tænderne.
+
+BEMÆRKNING:
+Forkert justering af enheden kan forårsage alvorlig
+beskadigelse af systemet.
+
+1. Skru boltene, der fastgør pumpen og motoren til
+basen, af.
+2. Løft pumpen og motoren en smule.
+3. Indsæt mellemlægspladerne mellem pumpens
+og motorens fod på et eller flere af de angivne
+punkter.
+4. Anbring pumpen og motoren på basen, idet bol‐
+thullerne justeres.
+5. Tilspænd boltene.
+6. Gentag kontrol af koblingens justering.
+
+Montering af koblingsbeskyttelse
+
+BEMÆRKNING:
+Hvis koblingen er forkert justeret, kan det forårsage
+vibrationer, hvilket kan resultere i for tidlig slitage af
+enhedens roterende komponenter.
+
+FORSIGTIG:
+Betjen aldrig pumpen uden korrekt instal‐
+leret koblingsbeskyttelse.
+
+Kontrollér justeringen af enhedskoblingen efter føl‐
+gende:
+
+Beskyttelsestype: trådnet
+Du kan finde flere oplysninger i Figur 18 på side 386.
+
+• Transport og installation
+• Indledende opstart
+• Nå driftstemperaturen.
+Udfør kontrollen, selvom enheden blev leveret helt
+samlet på rammen.
+
+Kontrol af koblingens tilpasning med en line‐
+al og en følemåler
+
+1. Flyt beskyttelsen (1) korrekt, så den omgiver
+pumpeakslens udløbsende og støtteringen (3) på
+motorsiden.
+2. Tilspænd skruerne (2).
+Beskyttelsestype: plademetal
+Du kan finde flere oplysninger i Figur 19 på side 388.
+
+For information om justering af en standardkobling
+(A) og en kobling med afstandsstykke (B), se Figur
+27 på side 397
+1. Fjern koblingsbeskyttelsen.
+
+BEMÆRKNING:
+
+1. Anbring koblingsbeskyttelsens nederste halvskal
+(2).
+2. Tilspænd fastgørelsesskruerne på den nederste
+halve skal (4).
+3. Åbn og indsæt støtte-/justeringsringen (6) med
+huset nedad, og tryk den aksialt på motoren.
+
+94

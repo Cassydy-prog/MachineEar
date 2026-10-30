@@ -1,0 +1,80 @@
+Acknowledgements
+
+This second edition of Improving Pumping System Performance: A Sourcebook for Industry was developed 
+by the U.S. Department of Energy’s Industrial Technologies Program (ITP) and the Hydraulic Institute (HI). 
+ITP undertook this project as part of a series of sourcebook publications on industrial equipment. Other topics 
+in this series include compressed air systems, fan and blower systems, motors and drives, steam systems, and 
+process heating systems. For more information about ITP and HI, see Section 4, “Where to Find Help.”
+
+The Department of Energy, Lawrence Berkeley National Laboratory, the Alliance to Save Energy, and Resource 
+Dynamics Corporation wish to thank staff at the many organizations that so generously assisted in the collection 
+of data for this sourcebook. In addition, we would like to particularly recognize the following for their input and 
+reviews of the first and second editions of this sourcebook:
+
+Al Iseppon, Pentair Water
+
+Stefan M. Abelin, ITT Flygt Corporation
+
+Steve Kratzke
+
+Robert Asdal, Hydraulic Institute
+
+Ross C. Mackay, Ross Mackay Associates Ltd.
+
+William Beekman, Floway Pumps
+
+William Marscher, Mechanical Solutions, Inc.
+
+Heinz Block, P.E., Process Machinery Consulting
+
+J. P. Messina, P.E.
+
+Steve Bolles, Process Energy Services
+
+Michael Pemberton, ITT IPG PumpSmart Control Solutions
+
+Karl Buscher, ITT Fluid Handling – Bell & Gossett
+
+Gregg Romanyshyn, Hydraulic Institute
+
+Don Casada, Diagnostic Solutions, LLC
+
+Arnold Sdano, Fairbanks Morse Pump Company
+
+Mick Cropper, Sulzer Pumps U.S. Inc.
+
+Michael W. Volk, Volk Associates, Inc.
+
+Barry Erickson, Flowserve Corp.
+
+Trey Walters, Applied Flow Technology
+
+Gunnar Hovstadius, Gunnar Hovstadius
+
+Consulting, LLC
+
+Second Edition, May 2006
+
+Prepared for the United States Department of Energy
+Office of Energy Efficiency and Renewable Energy
+Industrial Technologies Program
+
+By
+Lawrence Berkeley National Laboratory
+Berkeley, California
+
+Resource Dynamics Corporation
+Vienna, Virginia
+
+Alliance to Save Energy
+Washington, D.C.
+
+In cooperation with the Hydraulic Institute
+Parsippany, New Jersey
+
+Produced by the National Renewable Energy Laboratory
+Golden, Colorado
+
+Cover photo credit:  Diagnostic Solutions, LLC, and Blacksburg, Christiansburg, VPI Water Authority, NREL/PIX13296
+
+Improving Pumping System Performance

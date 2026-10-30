@@ -1,0 +1,61 @@
+IM-895
+
+Handling
+Handling of all air moving equipment should be conducted by trained personnel and be consistent with safe handling practices. Verify 
+the lift capacity and operating condition of handling equipment. When using hoisting equipment, only qualified and trained personnel 
+should operate the equipment.
+
+Units shipped completely assembled may be lifted with slings and spreader bars. (Use well-padded chains, cables or nylon straps, 
+rated to lift the required weight.) On most units, lifting lugs are designed to protect the fan and fan housing from damage. Never lift a 
+fan by the inlet or discharge flange, shafting or drives, impeller, motor or motor base, or in any other manner that may bend or distort 
+parts. Never lift with slings or timbers passed through the fan inlets.
+
+For fans provided without lifting lugs, use a forklift or pallet jack to handle the equipment. Consult a qualified person before lifting.
+
+CAUTION
+
+1.	 Maintain handling equipment to avoid serious personal injury and do not stand under 
+the load.
+2.	 If supplied, only use the provided lifting lugs to lift the equipment.
+3.	 Ensure that the lifting equipment is rated for the capacity to be lifted.
+
+Lift completely 
+assembled fans with 
+straps and spreader bar, 
+as shown
+Lifting lugs are provided on most units.
+
+Partial or disassembled units require special handling. All parts should be handled in a method that protects the coatings and parts 
+from damage. Components should be handled such that forces are not concentrated to avoid bending or distortion.
+
+The housing should be lifted using suitably rated spreader bars and padded chains or straps. Do not distort housing or side plates 
+when lifting.
+
+The shaft and impeller assembly may be lifted using a hoist and a spreader with slings around the shaft at either side of the impeller. 
+Use the spreader bar to ensure that the slings do not push against the sides of the impeller as this may distort the impeller. Take care 
+not to damage the shaft where the impeller or bearings will be mounted. Never lift or support the assembly by the impeller. Always 
+support the assembly by the shaft when lifting or storing (see the section regarding proper storage of equipment). Do not support the 
+shaft or the impeller on the housing sides. See the Fan Installation section for additional details.
+
+Impellers shipped separately can be lifted by slings running between the blades or through the hub. Never lift the impeller by a single 
+blade or single point on the flange/shroud. Do not to put a chain within the hub bore. Always transport impellers by lifting, do not roll 
+the impeller as this can damage coatings and change the balance of the impeller.
+
+CAUTION
+
+Bent shafting is a source of vibration and bearing failure, so be sure 
+to handle the shaft with care. If the shaft is bent, replace the shaft. 
+Any scratches on the shaft may be repaired with fine emery cloth 
+or a stone. Remove only the displaced metal that forms a high 
+point at the edge of the scratch.
+
+1.	 Bearing pedestals should be lifted using straps or padded 
+chains. Under no circumstance should an attached or separated 
+bearing pedestal be lifted by the shaft, bearings, drives, motor 
+or impeller.
+2.	 Note some rotor assemblies may have an off-center CoG and 
+therefore a qualified person should be consulted before lifting.
+
+5
+
+Installation, Operation & Maintenance Manual

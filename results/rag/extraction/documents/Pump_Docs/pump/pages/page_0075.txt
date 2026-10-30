@@ -1,0 +1,113 @@
+Section 4. Where To Find Help
+
+selection and management software tool; it 
+includes a catalog of more than 20,000 ac 
+motors. The software also features motor 
+inventory management tools, maintenance log 
+tracking, efficiency analysis, savings evaluation, 
+energy accounting, and environmental reporting 
+capabilities.
+
+■	 MotorMaster+ International includes many of
+
+to assist manufacturers who are interested in 
+increasing the efficiency of their industrial 
+operations. You can learn about upcoming events, 
+solicitations, and much more by visiting the 
+ITP site at www.eere.energy.gov/industry. The 
+BestPractices site provides case studies of 
+companies that have successfully implemented 
+energy-efficient technologies and practices, 
+software tools, tip sheets, training events, and 
+solicitations for plant assessments. You can view 
+these and other resources at www.eere.energy.gov/
+industry/bestpractices.
+
+Industrial Energy Savers Web Site. Manufac-
+turers will find a number of resources on this site 
+to implement industrial energy efficiency projects 
+and see immediate savings. See www.eere.energy.
+gov/consumerinfo/industry.
+
+the capabilities and features of MotorMaster+ 
+but allows users to evaluate repair/replacement 
+options on a broader range of motors. The user 
+can conduct analyses in different currencies, 
+cal­culate efficiency benefits for various utility 
+rate schedules with demand charges, edit and 
+modify motor rewind efficiency loss defaults, 
+and determine “best available” motors. This 
+tool can be operated in English, Spanish, and 
+French.
+
+■	 The Pumping System Assessment Tool
+
+(PSAT) helps industrial users assess the 
+efficiency of pumping system operations. PSAT 
+uses achievable pump performance data from 
+Hydraulic Institute standards as well as motor 
+performance data from the MotorMaster+ 
+database to calculate potential savings in 
+energy and associated costs.
+
+■	 The Steam System Scoping Tool is designed
+
+ Training 
+Training sessions in industrial system improve-
+ments using DOE software tools are offered 
+periodically through Allied Partners. A particularly 
+useful training session involves the Pumping 
+System Assessment Tool (PSAT). See the 
+discussion on the PSAT tool in Appendix B. More 
+information on PSAT training and other training 
+offerings can be found on the BestPractices Web 
+site, www.eere.energy.gov/industry/bestpractices.
+
+to help steam system energy managers and 
+operations personnel for large industrial plants. 
+This spreadsheet program will profile and grade 
+steam system operations and management. 
+It will help you evaluate your steam system 
+operations against identified best practices.
+
+ Software Tools 
+ITP and its partners have developed several 
+software tools to help plant managers make good 
+decisions about implementing efficient practices in 
+their manufacturing facilities.
+
+■	 The Steam System Assessment Tool (SSAT)
+
+■	 AirMaster+ is a software tool developed by
+
+uses a graphical model of a generic steam 
+system for up to three steam pressure headers 
+(high, medium, and low). You can enter data 
+for your own plant conditions, including fuel 
+type and cost, electricity, water costs, initial 
+boiler efficiency, header pressures, and turbine 
+efficiencies.
+
+■	 3E-Plus Insulation Appraisal Software.
+
+EERE BestPractices and jointly sponsored by 
+the Compressed Air ChallengeTM. AIRMaster+ 
+helps end users assess the potential for 
+efficiency and productivity improvements in 
+compressed air systems without bias to any 
+particular technology, organization, or product. 
+The software allows users to run a number of 
+“what-if” scenarios to determine which energy 
+efficiency measures have the greatest savings 
+potential for their facility.
+
+■	 MotorMaster+ is an energy-efficient motor
+
+Because insulation is used in many process 
+heating systems and almost all steam systems, 
+restoration, replacement, and/or installation of 
+missing insulation are common improvement
+
+71
+
+A Sourcebook for Industry

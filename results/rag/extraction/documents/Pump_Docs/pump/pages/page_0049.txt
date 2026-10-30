@@ -1,0 +1,57 @@
+8. Multiple Pump Arrangements
+
+200
+
+180
+
+System Curve
+High Speed
+
+160
+
+140
+
+Head
+
+(ft)
+
+120
+
+Medium Speed
+
+100
+
+80
+
+60
+
+Pump Curves
+
+Low Speed
+
+40
+
+20
+
+0
+
+0
+50
+100
+150
+200
+250
+
+Flow (gpm)
+
+Figure 15. Multiple-Speed Pump Performance Curves
+
+single-speed pumps do, their ability to operate over 
+a wide range of conditions is a key advantage. 
+Multiple-speed pumps are also space-savers; their 
+compact operating package avoids the additional 
+piping and valves required for parallel pumps.
+
+45
+
+A Sourcebook for Industry

@@ -1,0 +1,37 @@
+Other means of inspection at FAG
+
+Component tests
+
+114: Test rig for inspecting the efficiency of rolling bearing seals
+
+4.6 Component tests
+There are numerous test rigs in FAG's
+development department for testing the
+efficiency of newly designed products. In
+some cases such tests can be used to cla-
+rify the cause of bearing damage. They
+include, on the one hand, direct tests on
+customer units for example deformation
+and vibration measuring on machines
+and, on the other hand, tightness inspec-
+tions, measuring of frictional moment,
+and life tests on test rigs, figs. 114 and
+115. The tests are performed under
+clearly defined conditions where the ex-
+pected results are reliably foreseeable.
+Once the bearings have met the require-
+ments in the experiment, the inspection
+of the damage case in question must
+then focus on the examination of actual
+operating conditions (unexpected extra
+load, also due to faulty mounting etc.).
+Should the bearings fail after an unex-
+pectedly short running period, the tech-
+nical monitoring facilities of the test rigs
+allow damage to be detected in its stage
+of origin. This is often a problem in the
+field but it is also frequently decisive for
+finding the cause of damage.
+
+69
+FAG

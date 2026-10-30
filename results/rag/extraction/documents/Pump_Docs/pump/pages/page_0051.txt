@@ -1,0 +1,99 @@
+9. Pony Pumps
+
+Pony Pumps
+
+Related Tip Sheet
+
+Related information is available in an ITP 
+BestPractices Tip Sheet titled Optimize Parallel 
+Pumping Systems. Tip sheets can be found in 
+Appendix C, accessed on the Web at www.
+eere.energy.gov/industry/bestpractices, or 
+obtained by contacting the EERE Information 
+Center at 877-337-3463.
+
+Pumping systems have a wide range of flow needs. 
+In many applications, there is a large difference 
+between the flow required during normal system 
+operation and that required during peak load 
+conditions. For example, some cooling system and 
+rainwater collection applications require a relative-
+ly low flow rate. Occasionally, however, a heavy 
+storm or a large heat load caused by a sudden 
+increase in production demand creates a need for 
+greater pumping capacity.
+
+If pumps are sized to handle a peak flow or worst-
+case conditions, they could operate at substantially 
+less efficient levels for long periods during times 
+of high demand. Oversized pumps in applications 
+like these tend to waste energy, and they require 
+frequent maintenance because they operate far 
+from their best efficiency points.
+
+ Costs of Intermittent Pump Operation
+Intermittent pump operation is caused by an 
+unbalanced set of system flows. For example, a 
+pump’s high flow rate drains the tank or reservoir 
+to the point where the low-level switch de-
+energizes or turns off the pump. When the fluid 
+level in the tank rises and activates the high-level 
+switch, the pump is re-energized, turning back on 
+to drain the tank (see Figure 16 on page 48).
+
+In applications such as sewage treatment plants, 
+the normal operating demands on pumps may be 
+relatively low. During storms, however, the 
+amount of fluid that must be drained from holding 
+ponds or tanks increases dramatically. So pumps 
+that maintain holding pond levels must be able to 
+handle storm conditions.
+
+To avoid the high friction losses and maintenance 
+problems that accompany continuous operation or 
+frequent starts of oversized pumps, a plant can 
+install smaller ones, called “pony pumps,” to 
+handle normal operating conditions. The large 
+pumps would then be used occasionally only to 
+handle severe load conditions, providing 
+considerable cost savings.
+
+Repeatedly stopping and restarting a pump wears 
+out the motor controllers and dynamic surfaces in 
+the pump/motor assembly, and it can lead to 
+unreliable pump operation. This problem is 
+especially severe for large pumps, because of their 
+high starting currents. Each repeated closing and 
+opening of high-voltage contacts also creates a 
+danger of sparking that can damage the contact 
+surfaces. In addition, discontinuous loading of the 
+transformers and switchgear often shortens their 
+operating lives. Some pump/motor assemblies are 
+specially designed to handle repeated starting and 
+stopping. For such applications, this more 
+expensive type of equipment should be specified.
+
+ When To Consider Pony Pumps
+Indicators of a need for a smaller pump to handle 
+normal operating conditions include the following:
+
+■	 Intermittent pump operation
+
+■	 Excessive flow noise, cavitation, and piping
+
+vibrations that disappear during heavy demand 
+periods. (If these conditions persist, then the 
+primary pump may need to be downsized.)
+
+Many pumps do not respond well to start-ups and 
+shutdowns. The mechanical seals used in many 
+pumps rely on a lubricating film of system fluid. 
+This film requires a revolution or two to develop 
+and, over time, repeated start-ups accelerate seal 
+wear. Similarly, bearings that are subjected to 
+cyclical loading tend to have shorter operating 
+lives than those in constant-use applications.
+
+47
+
+A Sourcebook for Industry

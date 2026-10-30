@@ -1,0 +1,144 @@
+lv - Oriģinālās instrukcijas
+
+– Ja motors tiek izmantots ar pilnu slodzi, iesta‐
+
+tiet strāvu, vienādu ar elektriskā sūkņa strāvas
+nominālo vērtību (skatīt etiķeti).
+– a motors tiek izmantots ar daļēju slodzi, iesta‐
+
+tiet strāvu, vienādu ar darba strāvas vērtību
+(piemēram, izmērītu ar strāvmaiņa knaiblēm).
+– Ja sūknim ir zvaigznes-trīsstūra palaišanas
+
+1. Atskrūvējiet skrūves, kas nostiprina sūkni un mo‐
+toru pie pamatnes.
+2. Nedaudz paceliet sūkni un motoru.
+3. Starp pamatni un sūkņa un motora kājām ievie‐
+tojiet starplikas vienā vai vairākos norādītajos
+punktos.
+4. Novietojiet sūkni un motoru uz pamatnes, pielā‐
+gojot bultskrūvju caurumus.
+5. Pievelciet bultskrūves.
+6. Atkārtojiet savienojuma salāgošanas pārbaudi.
+
+sistēma, noregulējiet termoreleju uz 58% no
+nominālās strāvas vai darba strāvas (tikai trīs‐
+fāzu motoriem).
+
+Savienojuma aizsardzības uzstādīšana
+
+5  Nodošana ekspluatācijā, darba
+sākšana, darbība un izslēgšana
+
+Piesardzības pasākumi
+
+UZMANĪBU:
+Nekad nedarbiniet sūkni bez pareizi uz‐
+stādīta savienojuma aizsarga.
+
+Aizsardzības veids: stiepļu režģis
+Informāciju skatiet Attēls 18 386 lappusē.
+
+BRĪDINĀJUMS:
+Fiziskā un termiskā bīstamība
+
+• Vienmēr lietojiet individuālos aizsar‐
+dzības līdzekļus.
+• Pārbaudiet, ka ir uzstādīta savienoju‐
+ma aizsardzība.
+
+BRĪDINĀJUMS:
+
+1. No jauna pareizi pielāgojiet aizsardzību (1), lai
+tā aptver sūkņa vārpstas izvades galu un balsta
+gredzenu (3) motora pusē.
+2. Pievelciet skrūves (2).
+Aizsardzības veids: metāla loksnes
+Informāciju skatiet Attēls 19 388 lappusē.
+
+• Pārliecinieties, vai izsūknētais šķi‐
+drums nevar izraisīt bojājumus vai ie‐
+vainojumus.
+• Motora darbības aizsargierīces var iz‐
+raisīt negaidītu motora izslēgšanos
+un ieslēgšanos. Tas var izraisīt no‐
+pietnus fiziskus ievainojumus.
+
+LV
+
+UZMANĪBU:
+
+1. Uzlieciet stiprinājuma aizsardzības apakšējo čau‐
+las pusi (2).
+2. Pievelciet apakšējās čaulas puses stiprinājuma
+skrūves (4).
+3. Atveriet un ievietojiet balsta/regulēšanas gredze‐
+nu (6) ar korpusu uz leju, un spiediet to aksiāli
+pret motoru.
+4. Uzlieciet stiprinājuma aizsardzības augšējo čau‐
+las pusi (1).
+5. Pievelciet augšējās čaulas puses stiprinājuma
+skrūves (4).
+6. Pievelciet čaulas pušu slēgšanas skrūves (5).
+
+4.3.4  Elektroinstalācija
+
+• Sūkņa un motora ārējās virsmas tem‐
+peratūra darba laikā var pārsniegt 40
+ºC (104 ºF).
+• Nenovietojiet sūkņa tuvumā viegli uz‐
+liesmojošus materiālus.
+
+1. Izskrūvējiet sadales kastes pārsega skrūves.
+
+PAZIŅOJUMS:
+
+2. Pieslēdziet un piestipriniet barošanas vadus sa‐
+skaņā ar atbilstošo savienojumu shēmu.
+
+Pieslēguma shēmas skatīt Attēls 21 392 lappu‐
+sē. Shēmas ir atrodas arī sadales kastes vāka
+aizmugurē.
+
+a) Pievienojiet zemējuma vadu.
+
+Pārbaudiet, vai zemējuma vads ir garāks par
+fāzu vadītājiem.
+b) Pieslēdziet fāzes vadus.
+
+3. Uzstādiet spaiļu kārbas vāciņu.
+
+PAZIŅOJUMS:
+Uzmanīgi pievelciet kabeļa blīvslēgus, lai novēr‐
+sta kabeļa izslīdēšanu un sadales kastē bloķētu
+mitruma iekļuvi.
+
+• Nedarbiniet sūkni, ja nav pietiekamas caurplūdes,
+tukšgaitā, bez ūdens padeves vai bez pietieka‐
+mas uzpildes.
+• Nekad nedarbiniet sūkni ilgāk par dažām sekun‐
+dēm, ja aizvērts izplūdes slēgvārsts.
+• Nedarbiniet sūkni, ja tā iesūknēšanas slēgvārsts
+ir noslēgts.
+• Nepakļaujiet dīkstāvē esošu sūkni sala iedarbī‐
+bai. Izteciniet visu šķidrumu, kas atrodas sūkņa
+iekšpusē. Ja tas netiek izdarīts, šķidrums var sa‐
+salt un sabojāt sūkni.
+• Spiediena sūkņa iesūknēšanas pusē (ūdensvads,
+tvertne) un maksimālā sūkņa spiediena summa
+nedrīkst pārsniegt sūkņa maksimālo pieļaujamo
+darba spiedienu (nominālo spiedienu PN).
+• Neizmantojiet sūkni, ja ir novērojama kavitācija.
+Kavitācijas rezultātā var tikt bojātas sūkņa iekš‐
+ējās detaļas.
+
+4. Ja motors nav aprīkots ar termisko aizsardzības
+drošinātāju, kurš automātiski atiestatās, noregu‐
+lējiet aizsardzību pret pārslodzēm, vadoties pēc
+zemāk redzamajiem norādījumiem.
+
+5.1  Sūkņa uzpildīšana
+Informāciju par sūkņa papildu savienojumiem ska‐
+tiet šeit: Attēls 22 392 lappusē.
+
+162

@@ -1,0 +1,170 @@
+fr - Instructions initiales
+
+Fixation de la pompe
+
+Voir Figure 15 en page 383 pour des exemples d'ins‐
+tallations horizontales et verticales.
+
+est prévu en cas d'utilisation d'un au‐
+tre moteur que celui de série.
+• Si le moteur est équipé de protec‐
+teurs thermiques automatiques, at‐
+tention aux risques de démarrages in‐
+attendus associés à une surcharge.
+Ne pas utiliser ces moteurs pour les
+applications de lutte contre l'incendie.
+
+1. Voir le catalogue technique pour :
+– Diamètre et nombre de trous de fondation
+– Distances des trous
+– Calcul de la taille et de la quantité des tirants
+
+REMARQUE:
+
+FR
+
+• N'utiliser que des moteurs équilibrés dynamique‐
+ment avec une demi-clavette dans la rallonge
+d'arbre (IEC 60034-14) avec un taux de vibration
+normal (N).
+• La tension et la fréquence du moteur doivent cor‐
+respondre aux indications de la plaque signaléti‐
+que du moteur.
+
+En général, les moteurs peuvent fonctionner dans
+les tolérances de tension secteur suivantes :
+
+Fréquence en
+
+Phase ~
+UN [V] ± %
+
+Hz
+
+50
+1
+220 – 240 ± 6
+
+3
+230/400 ± 10
+
+400/690 ± 10
+
+60
+1
+220 – 230 ± 6
+
+avec des ancrages chimiques, selon le modè‐
+le de l'unité.
+2. Percer la fondation et fixer les tirants.
+3. Placer le groupe sur la fondation et utiliser un ni‐
+veau à bulle sur l'orifice de refoulement et l'arbre
+pour s'assurer qu'il est de niveau.
+Tolérance maximale autorisée : 0,2 mm/m.
+4. S'ils sont présents, retirer les bouchons des orifi‐
+ces d'aspiration et de refoulement.
+5. Aligner les orifices de refoulement et d'aspiration
+avec leur tuyauterie.
+6. Fixer le système de canalisations au groupe ; voir
+Liste de contrôle du système de canalisations en
+page 32.
+7. Si nécessaire, insérer des cales de mise à niveau
+entre la fondation et le socle : si la distance entre
+les biellettes est > 800 mm, insérer deux cales
+supplémentaires au centre du socle. Toutes les
+cales doivent être parfaitement affleurantes. Voir
+Figure 17 en page 384.
+8. Serrer régulièrement et à fond les écrous de la
+biellette, en s'assurant que les couples sont ceux
+indiqués dans le tableau.
+
+3
+220/380 ± 5
+
+Écrou
+Couple, Nm (lbf·in)
+
+380/660 ± 10
+
+M12
+60 (44)
+
+M16
+120 (89)
+
+M20
+200 (148)
+
+Utiliser un câble conforme aux réglementations, à
+3 conducteurs (2 + terre/masse) pour les versions
+monophasées et 4 conducteurs (3 + terre/masse)
+pour la version triphasée.
+
+M24
+350 (258)
+
+4.3  Installation de la pompe
+
+M27
+530 (391)
+
+4.3.1  Installation mécanique
+
+Remarque :
+
+Zone d'installation
+
+• Pour les plaques de socle, il est recommandé de
+sceller la plaque de socle avec un mortier à faible
+retrait.
+
+Montage de la pompe sur un cadre socle
+
+Poser le groupe sur une fondation en béton ou en
+métal suffisamment solide pour assurer un support
+rigide et permanent. Respecter les exigences de la
+section Emplacement de la pompe en page 29.
+
+Installation sur une fondation en béton
+
+S'assurer de vérifier que les points suivants sont res‐
+pectés :
+
+Exigences relatives à la fondation
+
+• Cadre socle solide ne risquant pas de vibrer ni de
+se déformer en fonctionnement (résonance).
+• Les faces d'appui des pieds de la pompe et du
+moteur sur le cadre socle doivent être planes
+(usinage recommandé).
+• Une fixation sûre de la pompe et du moteur doit
+être assurée.
+• Un espace suffisant doit être réservé entre la
+pompe et l'arbre du moteur, selon le type d'accou‐
+plement utilisé.
+• Entre la pompe et le châssis de base, un calage
+adéquat doit être effectué, de façon à pouvoir
+régler en cas de remplacement la même hauteur
+entre le bas et l'axe (réglage vertical recomman‐
+dé 4-6 mm
+
+Diminution des vibrations
+
+• Le béton doit avoir une résistance à la compres‐
+sion de C12/15 et être conforme aux exigences
+de la classe d’exposition XC1 selon la norme EN
+206-1
+• Les dimensions doivent être appropriées aux di‐
+mensions de la plaque d'appui de l'unité
+• Le poids de la fondation doit être ≥ 1,5 fois le
+poids de l'unité (≥ 5 fois le poids de l'unité si un
+fonctionnement plus silencieux est nécessaire)
+• La surface doit être aussi plane et de niveau que
+possible
+• La pente doit être ≤ 1 mm/m.
+Des instructions supplémentaires sont disponibles
+dans le document n° 001080247X : pour le téléchar‐
+ger, scannez le code QR trouvé dans Figure 17 en
+page 384.
+
+31

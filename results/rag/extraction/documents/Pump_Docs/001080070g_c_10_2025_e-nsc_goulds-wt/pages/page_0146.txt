@@ -1,0 +1,202 @@
+is - Þýðing á upprunalegu
+
+Dælan gengur en flytur of lítinn eða engan vökva.
+
+Orsök
+Lausn
+
+Orsök
+Lausn
+
+Kannaðu vinnsluaðst‐
+æður hreyfilsins.
+
+Spenna raftengingarinnar
+er ekki innan vinnslu‐
+marka hreyfilsins.
+
+Dælan er stífluð. Hafið samband við sölu- og þjón‐
+
+ustudeildina.
+
+Orkufasa vantar.
+Athugaðu
+
+• raftenginguna
+• raftenging
+
+Leiðbeiningar í töflu hér fyrir neðan um bilanaleit er
+ætluð þeim sem setja upp dæluna.
+
+7.2  Kveikt er á aðalrofa en rafknúna dælan
+fer ekki í gang.
+
+7.5  Rafknúna dælan fer í gang en
+hitaálagsvörnin slær út misfljótt eftir það
+
+Orsök
+Lausn
+
+Orsök
+Lausn
+
+Hafa skal samband við við‐
+komandi sölu- og þjónust‐
+ufulltrúa.
+
+Það er ekkert rafmagn.
+• Komið rafmagninu af‐
+tur á.
+• Tryggið að allar ra‐
+fleiðslurnar séu í lagi.
+
+Aðskotahlutir (fastir
+eða trefjaefni) eru
+inni í dælunni og hafa
+stíflað dæluhjólið.
+
+Hitavörnin sem inn‐
+byggð er í dæluna (ef
+við á) hefur slegið út.
+
+Bíðið þar til dælan hefur
+kólnað. Hitavörnin endur‐
+stillist sjálfkrafa.
+
+Dæluútstreymishrað‐
+inn er hærri en mörk‐
+in sem tilgreind eru á
+upplýsingaplötunni.
+
+Endursettu hitavörnina.
+
+Lokið aðrennslisloka að
+hluta þar til útstreymishrað‐
+inn er jafn eða lægri en þau
+mörk sem gefin eru upp á
+upplýsingaplötunni.
+
+Hitaliði eða vélarvörn í
+rafmagnsstjórnborðinu
+hefur slegið út.
+
+Athugið:
+
+Yfirálag er á dælunni
+af því að hún dæl‐
+ir vökva sem er of
+þykkur og seigur.
+
+Athugið eiginlega raforkun‐
+otkun byggt á eiginleikum
+dæluvökvans og skiptu um
+hreyfilinn í samræmi við það.
+
+Varnarbúnaðurinn gegn
+þurrgangi hefur slegið
+út.
+
+IS
+
+Legurnar í hreyflinum
+eru slitnar.
+
+Hafa skal samband við við‐
+komandi sölu- og þjónust‐
+ufulltrúa.
+
+• vatnsyfirborð í geymin‐
+um eða þrýsting í aðal‐
+lögn.
+• varnarbúnað og tengd‐
+ar snúrur.
+
+Skiptið um öryggi.
+
+Öryggi fyrir dælu eða
+aukarásir eru sprungin.
+
+7.6  Dælan fer í gang, en kerfisvörnin er
+virkjuð
+
+Orsök
+Lausn
+
+7.3  Rafknúna dælan fer í gang en
+hitaálagsvörnin eða bræðivörin slá út strax
+eftir það
+
+Skammhlaup í rafkerfi
+Athugaðu rafkerfið.
+
+Orsök
+Lausn
+
+7.7  Dælan fer í gang, en leifastraumstækið
+(RCD) er virkjað
+
+Rafmagnssnúran er
+skemmd.
+
+Farðu yfir snúruna og skiptu
+um ef þörf reynist.
+
+Orsök
+Lausn
+
+Farðu yfir einingarnar og
+skiptu um eftir þörfum.
+
+Það er jarðleki. Athugaðu einangrun á einingum raf‐
+
+Hitaálagsvörnin eða
+bræðivörin henta ekki
+fyrir vélarstrauminn.
+
+kerfisins.
+
+Rafvélin er skamm‐
+hleypt.
+
+Farðu yfir einingarnar og
+skiptu um eftir þörfum.
+
+7.8  Dælan gengur en flytur of lítinn eða
+engan vökva.
+
+Hreyfillinn ofhleðst.
+Farðu yfir vinnsluaðstæður
+dælunnar og endurræstu
+vörnina.
+
+Orsök
+Lausn
+
+• Losaðu loftið
+
+Það er loft í dælu
+eða lögnum.
+
+7.4  Rafknúna dælan fer í gang en
+hitaálagsvörnin eða bræðivörin slá út
+misfljótt eftir það
+
+Dælan var ekki rétt
+gangsett.
+
+Stöðvaðu dæluna og endur‐
+taktu gangsetningarferlið.
+Ef vandamálið er viðvarandi:
+
+Orsök
+Lausn
+
+Rafmagnstaflan er staðs‐
+ett á of heitu svæði eða er
+í beinu sólarljósi.
+
+Verðu rafmagnstöfluna
+fyrir hita og beinu sólar‐
+ljósi.
+
+142

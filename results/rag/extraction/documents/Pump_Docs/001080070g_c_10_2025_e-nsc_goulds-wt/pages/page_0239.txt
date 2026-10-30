@@ -1,0 +1,161 @@
+ro - Traducerea originalului
+
+a) Deschideţi supapa pornit-oprit aflată în amon‐
+
+AVERTISMENT:
+
+te faţă de pompă şi deschideţi supapa pornit-
+oprit aflată în aval.
+b) Scoateţi buşonul de calibrare (1) până când
+
+apa curge prin orificiu.
+c) Strângeţi buşonul de calibrare (1).
+
+5.2  Verificaţi direcţia de rotaţie (motor
+trifazic)
+Urmaţi această procedură înainte de pornire.
+
+• Întreţinerea şi service-ul trebuie efec‐
+tuate numai de personal competent
+şi calificat.
+• Respectaţi reglementările în vigoare
+privind prevenirea accidentelor.
+• Utilizaţi un echipament şi elemente
+de protecţie adecvate.
+• Asiguraţi-vă că lichidul drenat nu pro‐
+voacă defecţiuni sau răni.
+
+1. Localizaţi săgeţile de pe adaptor şi de pe capacul
+ventilatorului motorului pentru a determina direc‐
+ţia de rotaţie corectă.
+
+2. Porniți motorul.
+
+3. Verificaţi rapid direcţia de rotaţie prin apărătoa‐
+rea cuplajului sau prin capacul ventilatorului mo‐
+torului.
+
+4. Opriți motorul.
+
+6.1  Service
+Dacă doriţi să programaţi termene de întreţinere pe‐
+riodică, acestea depind de tipul de lichid pompat şi
+de condiţiile de exploatare ale pompei.
+Contactaţi reprezentantul local de vânzări şi servicii
+pentru orice solicitări sau informaţii privind service-
+ul sau întreţinerea de rutină.
+Întreţinerea extraordinară poate fi necesară pentru a
+curăţa capătul cu lichid şi/sau a înlocui piese uzate.
+
+5. Dacă direcţia de rotaţie este incorectă, procedaţi
+după cum urmează.
+
+Pompe cu rulmenți lubrifiați pe viață
+
+a) Deconectați sursa de alimentare.
+b) În tabloul de conexiune al motorului sau în
+
+Pompele cu rulmenți lubrifiați pe viață nu necesită
+întreținere de rutină programată.
+
+panoul de control electric, schimbaţi poziţia a
+două din cele trei fire ale cablului de alimenta‐
+re.
+
+Pompe cu rulmenți cu posibilitate de reunge‐
+re
+
+Pentru schemele cablajului, consultaţi Figura
+21 la pagina 392
+c) Verificaţi din nou direcţia de rotaţie.
+
+5.3  Pornirea pompei
+
+• Reungeți după 4000 de ore de funcționare, dar
+minimum o dată pe an. Mai întâi curățați racordu‐
+rile de ungere (SN).
+• Utilizați unsoare NLGI de gradul 2 sau echivalent.
+Pentru orice solicitări sau informaţii, contactaţi re‐
+prezentantul local de service şi vânzări.
+
+Rulmenții motorului
+
+NOTĂ:
+După pornirea inițială și după atingerea temperaturii
+de funcționare, verificați alinierea cuplajului unității,
+consultați Verificarea și alinierea cuplajului la pagina
+233.
+
+După aproximativ cinci ani, unsoarea din rulmenții
+motorului este atât de învechită, încât se recomandă
+înlocuirea rulmenților. Rulmenții trebuie înlocuiți du‐
+pă 25.000 de ore de funcționare sau în conformitate
+cu instrucțiunile de întreținere ale furnizorului moto‐
+rului, indiferent care durată este mai scurtă.
+
+Responsabilitatea verificării debitului și a temperatu‐
+rii corecte a lichidului pompat revine instalatorului
+sau proprietarului.
+Înainte de a porni pompa, asiguraţi-vă că:
+
+Motor cu rulmenți cu posibilitate de reungere
+
+RO
+
+Respectați instrucțiunile de întreținere ale furnizoru‐
+lui motorului.
+
+Cuplaj
+
+• Pompa este conectată corect la sursa de alimen‐
+tare.
+• Pompa este umplută corect în conformitate cu
+instrucțiunile din secțiunea Umplerea pompei
+(capitolul 5).
+• Supapa de deschidere-închidere aflată în aval fa‐
+ţă de pompă este închisă.
+
+1. Porniți motorul.
+
+Verificaţi periodic jocul din elementele cuplajului, cel
+puţin o dată pe an. Recomandăm verificarea la fieca‐
+re 1000 de ore de exploatare sau o dată la trei luni,
+indiferent care interval survine primul.
+
+2. Deschideţi treptat supapa pornit-oprit de pe par‐
+tea de evacuare a pompei.
+
+6.2  Listă de verificare pentru inspecție
+
+În condiţiile de funcţionare normale, pompa tre‐
+buie să funcţioneze lin şi silenţios. În caz contrar,
+consultaţi Depanarea la pagina 236.
+
+6  Întreţinere
+
+Verificarea cuplajului
+Verificați elementele fle‐
+xibile ale cuplajului. În‐
+loc. piesele relev. dacă
+există orice indic. de uzu‐
+ră și ver. alin.
+
+Precauții
+
+Verificarea garniturii de
+etanșare mecanice
+
+Verificați dacă există
+scurgeri ale garniturii de
+etanșare mecanice. Înlo‐
+cuiți garnitura de etanșa‐
+re mecanică dacă există
+scurgeri.
+
+Pericol de electrocutare:
+Deconectaţi şi blocaţi alimentarea elec‐
+trică înainte de a instala pompa sau
+înainte de a supune pompa operaţiunilor
+de service.
+
+235

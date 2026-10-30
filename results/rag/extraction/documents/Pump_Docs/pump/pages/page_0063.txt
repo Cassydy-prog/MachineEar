@@ -1,0 +1,104 @@
+Section 3. The Economics of Improving Pumping Systems
+
+and demand costs. Annual electricity costs can be 
+calculated by inserting this information into the 
+equation in the simple calculation shown in the 
+box on page 58.
+
+Direct Measurement
+Assumptions:  
+ 3-phase motor
+ 0.85 power factor (nameplate)
+ $0.05/kWh unit electricity cost
+ Annual hours of operation = 8,760 hours 
+    (3-shift, continuous operation)
+
+Case I. Using a wattmeter
+Annual electricity costs =
+(wattmeter reading, using a 3-phase setting) x
+(annual hours of operation) x (electricity cost in $/kWh)
+
+For example: Wattmeter reading = 77.88 kW
+
+Annual electricity costs = 
+(77.88 kW) x (8,760 hours) x ($0.05/kWh) 
+    = $34,111
+
+This simple calculation assumes that the electric 
+motor driving the pump is 95% efficient (the 0.95 
+in the 1/0.95 factor), which is a reasonable 
+estimate for a pump motor larger than 50 hp. 
+Newer motors may have even higher efficiencies 
+because of provisions of the Energy Policy Act 
+that have been in effect since 1997. If the pump 
+uses an older motor that has been rewound several 
+times or has a smaller motor, then a motor 
+efficiency of 80% to 90% (or the motor nameplate 
+efficiency rating) should be used. The motors used 
+on most centrifugal pumps have a 1.15 continuous 
+service factor. This means that a motor with a 
+nominal nameplate rating of 100 bhp could, in 
+fact, be operated continuously up to 115 bhp, 
+although motor efficiency drops slightly above 
+the rated load. Using nameplate data to calculate 
+energy costs for motors that operate above the 
+rated load will understate the actual costs.
+
+Case II. Using a voltmeter and an ammeter 
+separately
+Annual electricity costs =
+[(load amps) x (volts) x (1.732) x 
+    (power factor)/1,000)] x (annual hours of 
+    operation) x (electricity cost in $/kWh)
+
+For example: Average load amp measurement across 
+all phases = 115 A
+Measured voltage = 460 V
+
+Annual electricity costs = 
+[(115 A) x (460 V) x (1.732) x (0.85)/1,000)]
+    x (8,760 hours) x ($0.05/kWh) = $34,111
+
+Direct Measurement Method. A more accurate 
+way to determine electricity consumption requires 
+taking electrical measurements. Depending on 
+the availability of instrumentation and measure-
+ment access, the direct measurement method 
+requires reading power (kW) with a wattmeter or 
+reading amps and volts and calculating kW using 
+the nameplate power factor.
+
+65% of the motor’s rated capacity, then 
+calculations using direct measurement of volts 
+and amps will not provide useful results.
+
+Wattmeters require two simultaneous inputs 
+(voltage and current), and many motor install-
+ations do not offer convenient access to both. 
+To calculate electricity consumption, multiply 
+the measured kW value by the hours of operation 
+and electricity costs, as shown in the calculation 
+for Case I in the box on this page titled “Direct 
+Measurement.” This calculation is for a motor 
+with a constant load—i.e., one that does not vary 
+over time.
+
+Current is measured by using a clamp-on type 
+ammeter. The current is measured on each of the 
+three power cables running to the motor (most 
+industrial motors are three-phase). At some sites, 
+the motor controller is a convenient point at 
+which to take these readings; at other sites, the 
+connection box on the motor itself is more 
+accessible. Line voltage is usually measured at 
+the motor controller and should be measured at 
+the same time as the current reading; in some
+
+If a wattmeter is not available, or if using a 
+wattmeter is not practical, then amps and volts 
+can be measured separately. If there is a 
+possibility that the motor load is less than
+
+59
+
+A Sourcebook for Industry

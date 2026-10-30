@@ -1,0 +1,64 @@
+Evaluation of running features and damage to dismounted bearings
+Cage damage
+
+92: Fractured cage-rivet connections may result from vibration stress.
+
+3.5.5 Fracture of cage connections
+Symptoms:
+– Loosening of riveted joints, rivet
+
+fracture (fig. 92)
+– Breaking off of cage prongs
+
+Causes:
+– Vibrations or shocks which super-
+
+impose the normal cage stress, e.g. 
+vibrating units or vehicles
+– Tilting in the case of deep groove ball
+
+bearings
+
+Remedial measures:
+– Use of solid cage rather than pressed
+
+cage
+– Use of window-type cage particularly
+
+when stress is great
+
+93: Disruptive fracture at the side edge of a spherical roller bearing cage
+3.5.6 Cage fracture
+Symptoms:
+
+Fracture of cage side edges (fig. 93),
+crosspiece fracture more seldom
+Causes:
+– Mounting damage
+– Kinematically permissible speed ex-
+
+ceeded
+– As a result of wear and due to poor
+
+lubrication (see section 3.5.1)
+– Moment load too high or tilting of
+
+ball bearings (see section 3.5.4)
+– In the case of tapered roller bearing
+
+pairs which have a large clearance,
+also when axial loads reverse quickly
+
+Remedial measures:
+– Mount carefully
+– Filter lubricant
+– Increase lubricant flow through
+
+and/or use different viscosity
+– Avoid tilting as much as possible
+– Operate bearing pair preloaded if
+
+possible
+
+FAG
+56

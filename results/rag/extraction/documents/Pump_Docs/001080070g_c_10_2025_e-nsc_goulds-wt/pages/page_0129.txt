@@ -1,0 +1,157 @@
+fi - Alkuperäisen käännöksen
+
+Pumpun sijoituspaikka ja vapaa tila
+
+• Sopivan ilmanvaihdon varmistamiseksi: ≥ 100
+mm (4 in)
+• Moottorin tarkastus ja irrotus: ≥ 300 mm (12 in)
+• Jos käytettävissä on vähemmän tilaa, katso tek‐
+ninen luettelo.
+
+ovat voimassa olevien säädösten mu‐
+kaisia.
+• Varmista ennen yksikköön kohdistu‐
+van työn aloittamista, että yksikkö ja
+ohjauspaneeli ovat jännitteettömiä ei‐
+vätkä voi tulla jännitteellisiksi. Tämä
+koskee myös ohjauspiiriä.
+
+Maadoitus
+
+Asennus nestelähteen yläpuolelle (imukor‐
+keus)
+
+Sähköiskun vaara:
+
+Kaikkien pumppujen teoreettinen maksimi-imukor‐
+keus on 10,33 m. Käytännössä pumpun imukapasi‐
+teettiin vaikuttavat seuraavat tekijät:
+
+• Nesteen lämpötila
+• Korkeus merenpinnan yläpuolella (avoimessa jär‐
+jestelmässä)
+• Järjestelmän paine (suljetussa järjestelmässä)
+• Putkien resistanssi
+• Pumpun oma sisäinen virtausvastus
+• Korkeuserot
+Seuraavan yhtälön avulla lasketaan suurin korkeus
+nestetason yläpuolella, johon pumppu voidaan asen‐
+taa:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+Ilmanpaine baareissa (suljetussa järjestel‐
+mässä järjestelmän paine)
+
+FI
+
+NPSH
+Pumpun sisäisen virtausvastuksen arvo met‐
+reinä
+
+• Liitä aina ulkoinen suojajohdin maa‐
+doitusliittimeen ennen muiden sähkö‐
+liitäntöjen tekemistä.
+• Kaikki sähkölaitteet on maadoitetta‐
+va. Tämä koskee pumppulaitetta, voi‐
+manlähdettä ja valvontalaitteistoa.
+Varmista testaamalla, että maadoi‐
+tusjohto on liitetty oikein.
+• Jos moottorikaapeli nykäistään va‐
+hingossa irti, maadoitusjohtimen tu‐
+lee olla viimeinen johdin, joka irtoaa
+liittimestä. Varmista, että maadoitus‐
+johdin on vaihejohtimia pidempi. Tä‐
+mä ohje koskee moottorikaapelin mo‐
+lempia päitä.
+• Käytä lisäsuojausta tappavaa iskua
+vastaan. Asenna herkkä differentiaa‐
+likytkin (30 mA) [jäännösvirtalaite
+RCD].
+
+Hf
+Nesteen pumpun imuputken läpi kulkemisen
+aiheuttama kokonaishäviö metreinä
+
+4.1  Laitoksen vaatimukset
+
+4.1.1  Pumpun sijoitus
+
+Hv
+Höyrynpaine metreinä, joka vastaa nesteen
+lämpötilaa T °C
+
+0,5
+Suositeltu turvamarginaali (m)
+
+Z
+Suurin korkeus, johon pumppu voidaan asen‐
+taa (m)
+
+VAARA:
+Älä käytä tätä yksikköä ympäristöissä,
+joissa voi olla palonarkoja/räjähtäviä tai
+kemiallisesti syövyttäviä kaasuja tai jau‐
+heita.
+
+(pb*10,2 - Z) täytyy aina olla positiivinen luku.
+Lisätietoja on kohdassa Kuva 12 sivulla 380.
+
+Ohjeita
+
+Noudata seuraavia ohjeita tuotteen sijoittamisessa:
+
+HUOMIO:
+Älä ylitä pumpun imukapasiteettia, sillä se voi ai‐
+heuttaa kavitaatiota ja pumpun vaurioitumisen.
+
+4.1.2  Putkiston vaatimukset
+
+Varotoimet
+
+VAROITUS:
+
+• Varmista, että mikään ei estä moottorin tuulet‐
+timen tuottaman jäähdytysilman normaalia vir‐
+tausta.
+• Varmista, että asennusalue on suojattu nestevuo‐
+doilta tai tulvimiselta.
+• Sijoita pumppu mahdollisuuksien mukaan hie‐
+man lattiatason yläpuolelle.
+• Ympäristön lämpötilan on oltava 0 °C (+32 °F) –
++40 °C (+104 °F).
+• Ympäristön suhteellisen kosteuden tulee olla alle
+50 % lämpötilassa +40 °C (+104 °F).
+• Ota yhteyttä myynti- ja huolto-osastoon, jos:
+– Ilman suhteellinen kosteus on ohjearvoa kor‐
+
+keampi.
+– Huoneen lämpötila on korkeampi kuin +40 °C
+
+• Käytä putkia, jotka sopivat pumpun
+maksimityöpaineelle. Jos näin ei toi‐
+mita, seurauksena voi olla järjestel‐
+män rikkoutuminen ja siitä aiheutuva
+vammautumisvaara.
+• Varmista, että pätevä sähköteknikko
+on tehnyt kaikki liitännät ja että ne
+ovat voimassa olevien säädösten mu‐
+kaisia.
+
+(104 °F).
+– Yksikkö sijaitsee yli 1000 m (3000 jalkaa) me‐
+
+renpinnan yläpuolella. Moottorin tehoa täytyy
+ehkä alentaa tai se täytyy vaihtaa tehokkaam‐
+paan.
+Tietoja moottorin tehon alentamisarvosta on koh‐
+dassa Taulukko 11 sivulla 379.
+
+HUOMIO:
+Jos pumppu on kytketty yleiseen vesijärjestelmään,
+noudata kaikkien toimivaltaisten viranomaisten ja
+julkista vedenjakelua hallitsevien yritysten määräyk‐
+siä. Asenna tarvittaessa imupuolelle asianmukainen
+takaisinvirtauksen estolaite.
+
+125

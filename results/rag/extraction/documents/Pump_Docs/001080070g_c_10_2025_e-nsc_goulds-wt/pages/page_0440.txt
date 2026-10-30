@@ -1,0 +1,64 @@
+Declarations of Conformity
+
+•  Ekoprojekt 2009/125/WE z późniejszymi zmianami, Rozporządzenie (UE) 2019/1781 z późniejszymi zmianami (silnik elektryczny, 
+jeżeli posiada oznaczenie IE2, IE3 lub IE4), Rozporządzenie (UE) nr 547/2012 z późniejszymi zmianami (pompa wodna, jeżeli 
+posiada oznaczenie MEI) 
+i normy techniczne 
+•  EN 809:1998+A1:2009, EN 60204-1:2018. 
+•  EN 60034-30:2009, EN 60034-30-1:2014, EN 60034-2-1:2007, EN 60034-2-1:2014, EN 16480:2021. 
+Montecchio Maggiore, 25/03/2025  
+
+Rew. 00
+
+Alessio Vendraminelli  
+Dyrektor zarządzający
+
+Deklaracja zgodności UE (nr 01) 
+ 
+1. EMCD - Model urządzenia/produktu: NSCC… lub NSCF… (patrz etykieta na ostatniej stronie) 
+    RoHS - Niepowtarzalny identyfikator EEE: NSCC… lub NSCF…  
+2. Nazwa i adres producenta: 
+ Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ 36075 Montecchio Maggiore VI 
+ Italy 
+3. Niniejsza deklaracja zgodności wydana zostaje na wyłączną odpowiedzialność producenta. 
+4. Przedmiot deklaracji: pompa elektryczna 
+5. Przedmiot deklaracji opisany powyżej jest zgodny z odpowiednimi przepisami harmonizacyjnymi UE 
+•  Dyrektywa 2014/30/UE z 26 lutego 2014 r. (kompatybilność elektromagnetyczna) z późniejszymi zmianami.  
+•  Dyrektywa 2011/65/UE z dnia 8 czerwca 2011 r. (ograniczenie stosowania niektórych niebezpiecznych substancji w sprzęcie 
+elektrycznym i elektronicznym) z późniejszymi zmianami, w tym dyrektywą 2015/863 (UE). 
+6. Odniesienia do odpowiednich zastosowanych norm zharmonizowanych oraz odniesienia do innych danych technicznych, 
+względem których deklarowana jest zgodność: 
+• EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-4:2007 
++A1:2011, EN IEC 61000-6-4:2019. 
+•  EN IEC 63000:2018. 
+7. Jednostka notyfikowana: - - - 
+8. Informacje dodatkowe: 
+RoHS – Załącznik III – Zastosowania zwolnione z ograniczeń: ołów jako pierwiastek stopowy w stali, aluminium i stopach miedzi 
+[6(a), 6(b), 6(c)].  
+Optimyze: należy zapoznać się z dokumentacją dostarczoną z urządzeniem monitorującym [Dyrektywa Radiowa 2014/53/UE z 
+późniejszymi zmianami, Dyrektywa w sprawie ograniczenia stosowania niektórych niebezpiecznych substancji w sprzęcie 
+elektrycznym i elektronicznym 2011/65/UE z późniejszymi zmianami, w tym wprowadzonymi przez Dyrektywę (UE) 2015/863]. 
+Podpisano w imieniu: Xylem Service Italia S.r.l.
+
+Montecchio Maggiore, 25/03/2025  
+
+Rew. 00
+
+Alessio Vendraminelli  
+Dyrektor zarządzający
+
+Deklaracja(-e) zgodności jest/są nieważna(-e), jeśli jest/są używana(-e) w oderwaniu od reszty tekstu dokumentu Xylem o kodzie 
+001080070G. 
+ 
+Pompa
+
+Deklaracja zgodności EC (tłumaczenie) 
+ 
+Firma Xylem Service Italia S.r.l. z siedzibą przy Via Vittorio Lombardi 14 – 36075 Montecchio Maggiore VI – Italy (Włochy) 
+oświadcza 
+NSC… pompa (patrz etykieta na ostatniej stronie) 
+spełnia odpowiednie wymogi następujących dyrektyw europejskich
+
+436

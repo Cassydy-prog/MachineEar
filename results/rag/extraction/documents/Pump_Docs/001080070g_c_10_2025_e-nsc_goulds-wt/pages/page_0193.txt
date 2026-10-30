@@ -1,0 +1,212 @@
+pl - Tłumaczenie oryginału
+
+Przyczyna
+Środek zaradczy
+
+Przyczyna
+Środek zaradczy
+
+Brak zasilania energią
+elektryczną.
+
+bezpośredniego światła sło‐
+necznego.
+
+Sprawdzić warunki ro‐
+bocze silnika.
+
+Napięcie zasilania nie mieś‐
+ci się w przedziale ograni‐
+czeń roboczych silnika.
+
+• Przywrócić zasilanie
+energią elektryczną.
+• Upewnić się, czy wszyst‐
+kie połączenia elektrycz‐
+ne ze źródłem zasilania
+są nienaruszone.
+
+Brakuje fazy zasilania.
+Sprawdzić
+
+• zasilanie
+• zasilania energią.
+
+Zadziałał przekaźnik
+termoelektryczny w
+pompie (jeśli jest za‐
+instalowany).
+
+Poczekać na ostygnięcie
+pompy. Przekaźnik termoe‐
+lektryczny przestawi się au‐
+tomatycznie.
+
+Ponownie nastawić prze‐
+kaźnik termoelektryczny.
+
+7.5  Pompa elektryczna uruchamia się, lecz
+przekaźnik termoelektryczny uaktywnia się
+po upływie różnej długości okresów czasu po
+uruchomieniu.
+
+Został uruchomiony
+przekaźnik termoelek‐
+tryczny lub ochronnik
+silnika na tablicy połą‐
+czeń elektrycznych.
+
+Należy sprawdzić:
+
+Przyczyna
+Środek zaradczy
+
+Zostało uruchomione
+urządzenie zabezpie‐
+czające przed pracą
+pompy na sucho.
+
+Skontaktować się z lo‐
+kalnym przedstawicielem
+działu sprzedaży i serwisu.
+
+• poziom cieczy w zbiorni‐
+ku lub ciśnienie w sieci,
+• urządzenie zabezpiecza‐
+jące oraz jego przewody
+przyłączeniowe.
+
+Wymienić bezpieczniki.
+
+Wewnątrz pompy zna‐
+lazły się obce ciała
+(ciała stałe lub sub‐
+stancje włókniste), któ‐
+re spowodowały zakle‐
+szczenie wirnika napę‐
+dzanego.
+
+Zostały stopione bez‐
+pieczniki pompy lub
+obwodów pomocni‐
+czych.
+
+Wydajność pompy jest
+wyższa od wartoś‐
+ci granicznych, określo‐
+nych na tabliczce zna‐
+mionowej.
+
+Częściowo zamknąć stru‐
+mień zaworu WŁ.-WYŁ. do
+momentu, gdy prędkość
+podawania będzie równa
+lub mniejsza od wartości
+granicznych podanych na
+tabliczce znamionowej.
+
+7.3  Pompa elektryczna uruchamia
+się, lecz zaraz po tym następuje
+zadziałanie przekaźnika termoelektrycznego
+lub stopienie bezpieczników.
+
+PL
+
+Przyczyna
+Środek zaradczy
+
+Pompa jest przeciążo‐
+na w wyniku pompowa‐
+nia cieczy o zbyt dużej
+gęstości lub lepkości.
+
+Sprawdzić przewód i wy‐
+mienić w razie potrzeby.
+
+Sprawdzić rzeczywiste za‐
+potrzebowanie mocy w
+oparciu o właściwości po‐
+mpowanej cieczy i odpo‐
+wiednio wymienić silnik.
+
+Doszło do uszkodzenia
+przewodu zasilającego
+energią elektryczną.
+
+Łożyska silnika są zu‐
+żyte.
+
+Skontaktować się z lo‐
+kalnym przedstawicielem
+działu sprzedaży i serwisu.
+
+Sprawdzić elementy i
+wymienić w razie potrze‐
+by.
+
+Przekaźnik termoelek‐
+tryczny lub bezpieczniki
+nie są dostosowane do
+prądu pobieranego przez
+silnik elektryczny.
+
+7.6  Pompa elektryczna uruchamia się,
+lecz zostaje włączone ogólne zabezpieczenie
+układu.
+
+W silniku elektryczne wy‐
+stępuje zwarcie.
+
+Sprawdzić elementy i
+wymienić w razie potrze‐
+by.
+
+Przyczyna
+Środek zaradczy
+
+Silnik jest przeciążony.
+Sprawdzić warunki robo‐
+cze pompy i ponownie
+ustawić zabezpieczenie.
+
+Doszło do zwarcia w ukła‐
+dzie elektrycznym.
+
+Sprawdzić układ elek‐
+tryczny.
+
+7.7  Pompa elektryczna uruchamia się, lecz
+zostaje uruchomiony wyłącznik różnicowo-
+prądowy (RCD).
+
+7.4  Pompa elektryczna uruchamia
+się, lecz krótko po tym następuje
+zadziałanie przekaźnika termoelektrycznego
+lub stopienie bezpieczników.
+
+Przyczyna
+Środek zaradczy
+
+Przyczyna
+Środek zaradczy
+
+Występuje upływ do
+masy (uziemienia).
+
+Sprawdzić izolację części
+składowych układu elektrycz‐
+nego.
+
+Tablica połączeń elektrycz‐
+nych znajduje się w prze‐
+strzeni z nadmiernym wy‐
+dzielaniem ciepła lub jest
+wystawiona na działanie
+
+Chronić tablicę połą‐
+czeń elektrycznych
+przed źródła ciepła
+oraz bezpośrednim
+światłem słonecznym.
+
+189

@@ -1,0 +1,95 @@
+7  Troubleshooting
+
+Cause
+Remedy
+
+The electric motor is short circuit.
+Check the components and replace as necessary.
+
+The motor overloads.
+Check the operating conditions of the pump and reset
+the protection.
+
+7.4  The electric pump starts, but the thermal protector trips or the
+fuses blow a short time after
+
+Cause
+Remedy
+
+The electrical panel is situated in an excessively heated
+area or is exposed to direct sunlight.
+
+Protect the electrical panel from heat source
+and direct sunlight.
+
+Check the operating conditions of the motor.
+
+The power supply voltage is not within the working limits
+of the motor.
+
+A power phase is missing.
+Check the
+
+•
+power supply
+•
+electrical connection
+
+7.5  The electric pump starts, but the thermal protector trips a varying
+time after
+
+Cause
+Remedy
+
+Contact the local sales and service representative.
+
+There are foreign objects (solids or fibrous
+substances) inside the pump which have
+jammed the impeller.
+
+The pumps delivery rate is higher than the limits
+specified on the data plate.
+
+Partially close the ON-OFF valve down stream until the
+delivery rate is equal or less than the limits specified on
+the data plate.
+
+The pump is overloaded because it is pumping
+liquid that is too dense and viscous.
+
+Check the actual power requirements based on the
+characteristics of the pumped liquid and replace the
+motor accordingly.
+
+The motor bearings are worn.
+Contact the local sales and service representative.
+
+7.6  The electric pump starts, but the system's general protection is
+activated
+
+Cause
+Remedy
+
+A short circuit in the electrical system.
+Check the electrical system.
+
+7.7  The electric pump starts, but the system's residual current device
+(RCD) is activated
+
+Cause
+Remedy
+
+There is an ground (earth) leakage.
+Check the insulation of the electrical system components.
+
+7.8  The pump runs but delivers too little or no liquid
+
+Cause
+Remedy
+
+There is air inside the pump or the piping.
+•
+Bleed the air
+
+Series 1710 Installation, Operation, and Maintenance Manual
+27

@@ -1,0 +1,87 @@
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+3.3
+Pattern of rolling contact
+
+Usually brown or blue colours result.
+However, no obvious conclusions can be
+drawn from the colour about the operat-
+ing temperature which led to its origin.
+Very different shades of colour have at 
+times been observed on the rolling ele-
+ments of a bearing although the operat-
+ing conditions are very similar.
+
+when the lubricant film separates well.
+The individual pattern of the tracks is,
+however, largely dependent on the 
+illumination of the surface but it should
+be possible to recognise almost all the
+machining structure particularly when
+working with a magnifying glass and
+microscope (compare with non-contact
+areas at the edge of the raceway!). In-
+dividual indentations of small foreign
+particles are inevitable. When lubrica-
+tion is particularly good they are the
+only indication of the position of the
+load zones in the bearing, fig 23.
+
+This oil discolouration should on no
+account be confused with the tempering
+colours which are found on faulty bear-
+ings in rare cases and which arise as a re-
+sult of much higher temperatures, see
+section 3.3.5.
+
+3.3.1 Source and significance of tracks
+Regardless of the occurence of dam-
+age, there are changes in the contact sur-
+faces between rings and rolling elements
+called tracks to be found on every bear-
+ing which has been in operation. These
+tracks arise from the roughening or
+smoothening of the surface structure ori-
+ginally produced. They are also charac-
+terised by indentations made by cycled
+foreign particles which are often micro-
+scopically small. Conclusions can there-
+fore be drawn from the tracks about the
+quality of lubrication, lubricant clean-
+liness and the direction of load as well as
+its distribution in the bearing.
+
+Tracks in the form of equatorial lines
+are sometimes found on balls as well.
+They appear on angular contact ball 
+bearings when the balls always have the
+same rotary axis. Any significant reduc-
+tion in life does not derive from them,
+fig. 24.
+
+3.3.1.1 Normal tracks
+Under rotary motion and load the
+rolling elements leave tracks on the race-
+ways which are bright in appearance
+
+When temperatures are above 
+approximately 80 °C discolouration of
+the raceways or rolling elements is a fre-
+quent feature. It originates from chemi-
+cal reactions of the steel with the lubri-
+cant or its additives and has no negative
+effect on the service life of the bearing.
+Quite the contrary: These surface 
+features frequently indicate effective
+wear protection of an additive.
+
+24: Ball with equatorial circumferential lines
+
+23: Normal track, surface structure still
+visible, just small indentations by
+foreign particles
+
+19
+FAG

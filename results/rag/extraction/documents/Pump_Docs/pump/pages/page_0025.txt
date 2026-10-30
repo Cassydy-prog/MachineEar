@@ -1,0 +1,78 @@
+2. Common Pumping System Problems
+
+To prevent cavitation, centrifugal pumps must 
+operate with a certain amount of pressure at the 
+inlet. This pressure is known as the net positive 
+suction head, or NPSH, which is discussed in the 
+fact sheet in this section titled Centrifugal Pumps.
+
+If cavitation causes enough loss of material in the 
+impellers, they can become unbalanced, creating 
+alternating bearing loads that accelerate bearing 
+wear. Because it dramatically shortens pump life, 
+cavitation is a serious threat to system reliability. 
+Cavitation also increases other maintenance  
+requirements by inducing vibrations that stress 
+pump foundations and connected piping.
+
+Cavitation-like damage can also occur as a result 
+of internal recirculation. Operating the system at 
+low flow rates can establish damaging flow 
+patterns in either the suction or discharge regions 
+of an impeller.
+
+ Seal and Packing Problems
+The point at which the shaft penetrates the pump 
+casing, known as the stuffing box, provides a leak 
+path that must be sealed. This area is normally 
+sealed using packing or mechanical seals (see 
+Figure 6). For systems in which fluid leakage is 
+not a significant concern, packing is usually used 
+because it is much less expensive and requires less 
+sophisticated maintenance skills. Mechanical seals 
+provide superior sealing, but they are typically 
+more expensive and harder to repair or replace. 
+Most pumps sold today are provided with 
+mechanical seals.
+
+For applications in which cavitation is to some 
+extent unavoidable, high-tensile-strength 
+materials should be specified for the impeller. 
+Tougher materials can withstand higher energy 
+cavitation. However, use caution when sourcing 
+materials to ensure that they are compatible with 
+the system fluid.
+
+Packing. There are two basic types of packing 
+problems: overtightening and improper install-
+
+Packing
+
+Packing Gland
+
+Packing Seal Rings
+
+Pump Shaft
+
+Mechanical
+
+Seal
+
+Stationary Seal Face 
+Seal Housing or Gland
+
+Pump Housing
+
+O-Rings
+
+Dynamic Seal Face
+
+Spring
+
+Pump Shaft
+
+Figure 6. Two Types of Sealing Methods: Packing and Mechanical Seals
+
+21
+
+A Sourcebook for Industry

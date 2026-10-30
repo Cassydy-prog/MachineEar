@@ -1,0 +1,275 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+Српски
+
+Hrvatski
+
+Slovenščina
+
+1. NSC = Tip pumpe
+2. Indikacija spajanja; F = monti‐
+rana na ram, C = montirana na
+ram sa odstojnom spojnicom
+3. Tip pogona; prazno= stan‐
+dardni asinhroni motor, H =
+opremljen sistemom Hydro‐
+var, X = drugi pogoni
+4. 125–315 = Veličina pumpe
+5. 220 = Nazivna snaga motora
+(kWx10)
+6. Rotor; prazno = puni prečnik,
+A = skraćeni prečnik, B = skra‐
+ćeni prečnik, X = drugo
+7. Tip motora, P = PLM, S = SM,
+W = WEG, X = Drugo
+8. Broj polova; 2 = 2–polni, 4 =
+4–polni, 6 = 6–polni
+9. Električni napon i frekvencija;
+
+1. NSC = Vrsta pumpe
+2. Indikacija spajanja; F = monti‐
+rana na ram, C = montirana na
+ram sa odstojnom spojkom
+3. Vrsta pogona; prazno= stan‐
+dardni asinkroni motor, H =
+opremljen sa sustavom Hy‐
+drovar, X = drugi pogoni
+4. 125–315 = Veličina pumpe
+5. 220 = Nazivna snaga motora
+(kWx10)
+6. Rotor; prazno = puni promjer,
+A = skraćeni promjer, B = skra‐
+ćeni promjer, X = drugo
+7. Vrsta motora, P = PLM, S =
+SM, W = WEG, X = Drugo
+8. Broj polova; 2 = 2–polni, 4 =
+4–polni, 6 = 6–polni
+9. Električni napon i frekvencija;
+
+1. NSC = vrsta črpalke
+2. Oznaka spoja; F = namestitev
+na okvirju, C = namestitev na
+okvirju z distančnim spojem
+3. Vrsta pogona; nično = stan‐
+dardni asinhroni motor, H =
+opremljen z enoto Hydrovar, X
+= drugi pogoni
+4. 125–315 = Velikost črpalke
+5. 220 = Nazivna moč motorja
+(kW × 10)
+6. Rotor; nično = polni premer,
+A = prirezan premer, B = prire‐
+zan premer, X = drugo
+7. Vrsta motorja, P = PLM, S =
+SM, W = WEG, X = drugo
+8. Število polov; 2 = 2-polni, 4 =
+4-polni, 6 = 6-polni
+9. Električna napetost in frek‐
+venca
+
+50 Hz
+
+50 Hz
+
+50 Hz
+
+5H
+1x220-240 V
+
+5H
+1x220-240 V
+
+5H
+1x220-240 V
+
+5R
+3x220-240/380-415 V
+
+5R
+3x220-240/380-415 V
+
+5R
+3x220-240/380-415 V
+
+5V
+3x380-415/660-690 V
+
+5V
+3x380-415/660-690 V
+
+5V
+3x380-415/660-690 V
+
+5P
+3x200-208/346-360 V
+
+5P
+3x200-208/346-360 V
+
+5P
+3x200-208/346-360 V
+
+5S
+3x255-265/440-460 V
+
+5S
+3x255-265/440-460 V
+
+5S
+3x255-265/440-460 V
+
+5T
+3x290-300/500-525 V
+
+5T
+3x290-300/500-525 V
+
+5T
+3x290-300/500-525 V
+
+5W
+3x440-460/- V
+
+5W
+3x440-460/- V
+
+5W
+3x440-460/- V
+
+60 Hz
+
+60 Hz
+
+60 Hz
+
+6F
+1x220-230 V
+
+6F
+1x220-230 V
+
+6F
+1x220-230 V
+
+6E
+1x200-210 V
+
+6E
+1x200-210 V
+
+6E
+1x200-210 V
+
+6P
+3x220-230/380-400 V
+
+6P
+3x220-230/380-400 V
+
+6P
+3x220-230/380-400 V
+
+6R
+3x255-277/440-480 V
+
+6R
+3x255-277/440-480 V
+
+6R
+3x255-277/440-480 V
+
+6V
+3x440-480/- V
+
+6V
+3x440-480/- V
+
+6V
+3x440-480/- V
+
+6U
+3x380-400/660-690 V
+
+6U
+3x380-400/660-690 V
+
+6U
+3x380-400/660-690 V
+
+6N
+3x200-208/346-360 V
+
+6N
+3x200-208/346-360 V
+
+6N
+3x200-208/346-360 V
+
+6T
+3x330-346/575-600 V
+
+6T
+3x330-346/575-600 V
+
+6T
+3x330-346/575-600 V
+
+10. Materijal kućišta
+11. Materijal rotora
+12. Konfiguracija materijala me‐
+haničkog zatvarača + O-prste‐
+na
+13. Slobodan unos za opcije
+
+10. Material ohišja
+11. Material rotorja
+12. Konfiguracija materialov za
+mehansko tesnilo + O-tesnilo
+13. Prosti znaki za možnosti
+
+10. Materijal kućišta
+11. Materijal radnog kola
+12. Konfiguracija materijala me‐
+haničkog zatvarača + O-prste‐
+na
+13. Slobodan unos cifara za opci‐
+je
+
+Ελληνικά
+
+Türk
+
+Русский
+
+APPX
+
+1. NSC = тип насоса
+2. Обозначения на муфте; F =
+смонтированный на раме, C
+= смонтированный на раме
+с проставкой муфты
+3. Тип привода; void=
+стандартный асинхронный
+двигатель, H = оборудован
+
+1. NSC = Τύπος αντλίας
+2. Ένδειξη σύζευξης, F =
+τοποθέτηση σε πλαίσιο, C =
+τοποθέτηση σε πλαίσιο με
+σύνδεσμο διαχωριστή
+3. Τύπος συστήματος
+μετάδοσης κίνησης, void=
+πρότυπος ασύγχρονος
+κινητήρας, H = εξοπλισμένος
+
+1. NSC = Pompa tipi
+2. Kaplin göstergesi; F = çerçe‐
+veye monte, C = burç bağlantı‐
+lı, çerçeve montajlı
+3. Sürücü tipi; geçersiz= stan‐
+dart asenktron motor, H = Hy‐
+drovar ile donatılmış, X =diğer
+sürücüler
+4. 125–315 = Pompa boyutu
+
+358

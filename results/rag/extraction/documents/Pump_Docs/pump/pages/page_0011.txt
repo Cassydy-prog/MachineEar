@@ -1,0 +1,100 @@
+Section 1: Pumping System Basics
+
+reduction will read lower than one upstream of the 
+reduction, although the distance may only be 
+a few inches.
+
+ Fluid Energy
+For practical pump applications, the energy of a 
+fluid is commonly measured in terms of head. 
+Head is usually expressed in feet or meters, 
+which refers to the height of a column of system 
+fluid that has an equivalent amount of potential 
+energy. This term is convenient because it 
+incorporates density and pressure, which allows 
+centrifugal pumps to be evaluated over a range 
+of system fluids. For example, at a given flow 
+rate, a centrifugal pump will generate two 
+different discharge pressures for two different-
+density fluids, but the corresponding head for 
+these two conditions is the same.
+
+The total head of a fluid system consists of 
+three terms or measurements: static pressure 
+(gauge pressure), height (or potential energy), 
+and velocity head (or kinetic energy).
+
+ Fluid Properties 
+In addition to being determined by the type of 
+system being serviced, pump requirements are 
+influenced greatly by fluid characteristics such as 
+viscosity, density, particulate content, and vapor 
+pressure. Viscosity is a property that measures the 
+shear resistance of a fluid. A highly viscous liquid 
+consumes more energy during flow because its 
+shear resistance creates heat. Some fluids, such 
+as cold lubricating oil (at less than 60°F), are 
+sufficiently viscous that centrifugal pumps cannot 
+move them effectively. As a result, the range of 
+fluid viscosities over the operating temperatures of 
+a system is a key system design factor. A pump/
+motor combination that is appropriately sized for 
+oil at a temperature of 80°F may be undersized for 
+operation at 60°F.
+
+The quantities and properties of particulates in a 
+system fluid also affect pump design and selection. 
+Some pumps cannot tolerate much debris. And the 
+performance of some multistage centrifugal pumps 
+degrades significantly if seals between stages 
+become eroded. Other pumps are designed for use 
+with high-particulate-content fluids. Because of the 
+way they operate, centrifugal pumps are often used 
+to move fluids with high particulate content, such 
+as coal slurries.
+
+Static pressure, as the name indicates, is the 
+pressure of the fluid in the system. It is the 
+quantity measured by conventional pressure 
+gauges. The height of the fluid level has a 
+substantial impact on the static pressure in a 
+system, but it is itself a distinct measurement of 
+fluid energy. For example, a pressure gauge on a 
+vented tank reads atmospheric pressure. If this 
+tank is located 50 feet (ft) above the pump, 
+however, the pump would have to generate at 
+least 50 ft of static pressure (for tap water, the 
+gauge would have to read 21.7 pounds per 
+square inch [psi]) to push water into the tank.
+
+The difference between the vapor pressure of a 
+fluid and the system pressure is another funda-
+mental factor in pump design and selection. 
+Accelerating a fluid to high velocities—a 
+characteristic of centrifugal pumps—creates a 
+drop in static pressure. This drop can lower the 
+fluid pressure to the fluid’s vapor pressure or 
+below. At this point, the fluid “boils,” changing 
+from a liquid to a vapor. Known as cavitation, 
+this effect can severely impact a pump’s 
+performance. As the fluid changes phase during 
+cavitation, tiny bubbles form. Since vapor takes 
+up considerably more volume than fluid, these 
+bubbles decrease flow through the pump.
+
+Velocity head (also known as “dynamic head”) 
+is a measure of a fluid’s kinetic energy. In most 
+systems, the velocity head is small in com-
+parison to the static head. For example, the flow 
+velocity in cooling systems does not typically 
+exceed 15 ft per second, which is roughly 
+equivalent to 3.5 ft of head (if the system fluid 
+is water, this velocity head translates to about 
+1.5 psi gauge [psig]). The velocity head of a 
+fluid must be considered when siting pressure 
+gauges, when designing a system, and when 
+evaluating a reading from a pressure gauge, 
+especially when the system has varying pipe 
+sizes. A pressure gauge downstream of a pipe
+
+A Sourcebook for Industry

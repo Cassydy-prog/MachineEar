@@ -1,0 +1,159 @@
+hu - Eredeti útmutató
+
+FIGYELMEZTETÉS:
+Ne működtesse a szivattyút a szívási kapacitáson
+felül, mert az kavitációt okozhat, és károsíthatja a
+szivattyút.
+
+4.1.2  Csővezetékekkel kapcsolatos
+követelmények
+
+Óvintézkedések
+
+FIGYELMEZTETÉS:
+
+• Ügyeljen arra, hogy semmi ne akadályozza a mo‐
+tor ventilátora által szállított hűtőlevegő szabad
+áramlását.
+• Gondoskodjon róla, hogy a telepítési terület men‐
+tes legyen folyadékszivárgástól, elárasztástól.
+• Amennyiben lehetséges, a szivattyút valamivel a
+padló szintje fölé kell helyezni.
+• A környezeti hőmérsékletnek 0 °C (+32 °F) és
++40 °C (+104 °F) között kell lennie.
+• A környezeti levegő relatív páratartalmának +40
+°C (+104 °F) hőmérsékleten 50% alatt kell marad‐
+nia.
+• Forduljon az Értékesítési és Szervizszolgálathoz
+a következők esetében:
+
+– A relatív páratartalom meghaladja az irány‐
+
+mutatásban meghatározott értéket.
+– A helyiség hőmérséklete meghaladja a +40 °C
+
+(+104 °F) értéket.
+– Az egység több mint 1000 m-rel (3000 láb) a
+
+• Használjon a szivattyú legmagasabb
+terhelésének megfelelő vezetékeket.
+Ellenkező esetben a rendszerben
+szakadás történhet, amely sérülést
+okozhat.
+• A csatlakozásokat megfelelő képesí‐
+téssel rendelkező szakembernek, a
+helyi előírásoknak megfelelően kell
+bekötnie.
+
+tengerszint felett van. A motor teljesítményét
+csökkentetni kell, vagy nagyobb teljesítményű
+motorra van szükség.
+A motor terhelésének csökkentésével kapcsolatos
+értéket illetően lásd a következőt: 11. táblázat 379.
+oldalon.
+
+A szivattyú elhelyezése és a beépítési távol‐
+ság
+
+FIGYELMEZTETÉS:
+Ha a szivattyú közüzemi vízhálózatra csatlakozik,
+tartsa be a hatályos állami rendelkezéseket és a
+közüzemi vízszolgáltató szabályzatait. Ha szüksé‐
+ges, szereljen be megfelelő visszafolyásgátló beren‐
+dezést a szívó oldalra.
+
+Csövezés ellenőrzőlistája
+
+Ellenőrizze, hogy a következő feltételek teljesülnek-e:
+
+• A megfelelő szellőzés biztosítása érdekében: ≥
+100 mm (4 in)
+• A motor ellenőrzése és eltávolítása érdekében: ≥
+300 mm (12 in)
+• Ha a rendelkezésre álló hely kevesebb, lásd a
+műszaki katalógust.
+
+Telepítés a folyadékforrás szintje fölé (szívó‐
+magasság)
+
+Minden szivattyú elméleti maximális szívásmagas‐
+sága 10,33 m. A gyakorlatban a szivattyú szívási
+kapacitását az alábbi hatások befolyásolják:
+
+HU
+
+• A folyadék hőmérséklete
+• tengerszint feletti magasság (nyitott rendszernél)
+• rendszernyomás (zárt rendszernél)
+• a csővezetékek ellenállása
+• A szivattyú saját belső áramlási ellenállása
+• magasságkülönbségek
+A következő egyenlettel számítható ki az a folyadék‐
+szint feletti maximális magasság, ahová a szivattyú
+beszerelhető:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+A légnyomás bárban megadott értéke (zárt
+rendszerben a rendszernyomást mutatja)
+
+NPSH
+A szivattyú belső áramlási ellenállásának
+méterben megadott értéke
+
+Hf
+A folyadéknak a szivattyú szívócsövén va‐
+ló áthaladása által okozott teljes veszteség
+méterben
+
+Hv
+A folyadék T °C hőmérsékletének megfelelő,
+méterben megadott gőznyomás
+
+0,5
+Javasolt biztonsági tűrés (m)
+
+Z
+Maximális magasság, amire a szivattyú tele‐
+píthető (m)
+
+• Valamennyi csővezeték független alátámasztás‐
+sal rendelkezzen, a csővezeték nem nehezedhet
+az egységre.
+• A szivattyú és a csővezeték egymásra ható rez‐
+géseinek elszigetelésére flexibilis csöveket vagy
+csatlakozásokat kell alkalmazni.
+• Használjon nagy szögű idomokat, kerülje a jelen‐
+tős áramlási ellenállást okozó könyökök haszná‐
+latát.
+• A szívóoldali csővezeték tökéletesen légmente‐
+sen tömített.
+• Ha a szivattyút nyílt körben használják, a szívóve‐
+zeték átmérője a telepítési feltételeknek megfele‐
+lő legyen. A szívóoldali csővezeték átmérője nem
+lehet kisebb a szívócsonk átmérőjénél.
+• Ha a szívóoldali csővezetéknek nagyobb átmérő‐
+jűnek kell lennie a szivattyú szívóoldali csonkjá‐
+nál, használjon excenter szűkítő idomot.
+• Ha a szivattyú a folyadék szintje fölött helyezke‐
+dik el, a szívóvezeték végén lábszelepet kell alkal‐
+mazni.
+• A lábszelep teljesen merüljön a folyadékba, hogy
+ne kerülhessen levegő a rendszerbe a szívóör‐
+vényből, ha a folyadék szintje a minimum alá
+csökken és a szivattyú a folyadékforrás fölé lett
+szerelve.
+• Megfelelően méretezett elzárószelepeket kell
+szerelni a szívó és az elmenő csővezetékbe (a
+visszacsapó szelep után) a szivattyú szállításá‐
+nak a szabályozása, a szivattyú ellenőrzése és
+karbantartása érdekében.
+• A folyadéknak a kikapcsolt szivattyú esetén a
+szivattyúba történő visszaáramlásának megaka‐
+dályozása érdekében visszacsapó szelep került
+beszerelésre az elmenő csővezetékbe.
+
+(pb*10,2 - Z) kötelezően pozitív szám.
+További információkért lásd: 12. ábra 380. oldalon.
+
+218

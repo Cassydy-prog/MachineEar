@@ -1,0 +1,101 @@
+1. Assessing Pumping System Needs
+
+Assessing Pumping System Needs
+
+Related Tip Sheet
+
+There are three principal points in the life cycle of 
+a system that present opportunities to improve 
+pumping system performance:
+
+■	 During initial system design and pump
+
+selection
+
+■	 During troubleshooting to solve a system
+
+problem
+
+■	 During a system capacity change.
+
+A summary of the key issues in this fact sheet 
+is available in an ITP BestPractices Tip Sheet 
+titled Conduct an In-Plant Pumping System 
+Survey. Tip sheets can be found in Appendix 
+C, accessed on the Web at www.eere.energy.
+gov/industry/bestpractices, or obtained by 
+contacting the EERE Information Center at 
+877-337-3463.
+
+matched to its system. This tool provides guide-
+lines, a checklist, and data collection sheets to 
+assist system operators in identifying and priori-
+tizing opportunities for reducing energy use in 
+pumping systems.
+
+ Analyzing System Requirements
+A key to improving system performance and 
+reliability is to fully understand system require-
+ments (peak demand, average demand, and the 
+variability of demand) with respect to time of 
+day and time of year. It is much simpler to design 
+and operate systems with relatively consistent 
+requirements than to have to account for wide 
+variations in demand.
+
+Problems with oversized pumps often develop 
+because the system is designed for peak loads, 
+while normal operating loads are much smaller. 
+Excess flow energy is then forced into the system. 
+In addition to increasing operating costs, this 
+excess flow energy creates unnecessary wear on 
+components such as valves, piping, and piping 
+supports.
+
+ Initial Pump Selection
+Pump selection starts with a basic knowledge of 
+system operating conditions: fluid properties, 
+pressures, temperatures, and system layout. These 
+conditions determine the type of pump that is 
+required to meet certain service needs. There are 
+two basic types of pumps: positive displacement 
+and centrifugal. Although axial-flow pumps are 
+frequently classified as a separate type, they have 
+essentially the same operating principles as 
+centrifugal pumps.
+
+Often, system operators do not realize the impact 
+of running a system at higher-than-necessary 
+levels of flow and pressure. Pumps and valve 
+lineups are set to meet the worst-case demand—
+for example, a cooling system might be aligned to 
+handle the largest heat load but is not readjusted 
+during periods of lower demand.
+
+Positive displacement pumps pressurize a fluid by 
+squeezing it in a collapsing volume, such as by a 
+piston in a cylinder. Centrifugal and axial pumps 
+impart kinetic energy to a fluid and rely on the 
+conversion of this kinetic energy to potential 
+energy to increase fluid pressure. In general, 
+positive displacement and centrifugal pumps 
+serve different applications.
+
+The operating cost and reliability of many systems 
+can be improved by recognizing the variability of 
+system demand and by matching flow and pressure 
+requirements more closely to system needs.
+
+Appendix B describes the Pumping System 
+Assessment Tool (PSAT), a software tool that 
+helps determine how well an existing pump is
+
+Positive displacement pumps are used in low-flow, 
+high-head applications and with high-viscosity 
+fluids. In contrast, centrifugal pumps are used 
+typically in high-flow, low-head applications in 
+which fluid viscosity is not prohibitively high.
+
+13
+
+A Sourcebook for Industry

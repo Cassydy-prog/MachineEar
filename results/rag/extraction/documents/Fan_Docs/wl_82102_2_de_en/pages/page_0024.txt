@@ -1,0 +1,58 @@
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+• Tracks with detrimental radial preload
+
+• Tracks with oval deformation
+
+Symptoms:
+
+Symptoms:
+
+Several separate track areas form on
+the circumference of the stationary ring,
+fig. 34.
+
+Circumferential tracks appear on
+both rings in the case of detrimental 
+radial preload, fig. 33. Hot run damage
+can arise in extreme cases, section 3.3.5.
+
+Causes:
+– Oval housing or shaft, e.g. due to di-
+
+Causes:
+– Fit interference at shaft/housing too
+
+large
+– Temperature difference too great be-
+
+verse rigidness throughout the cir-
+cumference during machining or due
+to tap holes near the bearing seats
+– Different housing rigidness in cir-
+
+tween inner and outer rings 
+– Bearing clearance too small
+
+cumferential direction with high 
+interference of the outer ring
+– Storing thin-walled bearings in verti-
+
+cal position
+
+33: Deep groove ball bearing under 
+detrimental radial preload. The
+tracks extend over the entire 
+circumference, even on the point 
+loaded ring.
+
+34: Oval deformation of a deep groove
+ball bearing. Two opposed radial
+load zones formed in the raceway of
+the ovally deformed outer ring
+(point load).
+
+23
+FAG

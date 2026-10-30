@@ -1,0 +1,148 @@
+fi - Alkuperäisen käännöksen
+
+Pumpulla voidaan käsitellä:
+
+Älä käytä moottoriin ruuvattuja silmukka‐
+pultteja koko sähköpumppuyksikön kä‐
+sittelyyn.
+Älä käytä pumpun tai moottorin akseli‐
+päätä pumpun, moottorin, tai yksikön kä‐
+sittelemiseen.
+
+• Kylmää tai kuumaa vettä
+• Puhtaita nesteitä
+• Nesteitä, jotka eivät ole kemiallisesti ja mekaani‐
+sesti aggressiivisia pumpun materiaaleille.
+Tuote voidaan toimittaa pumppuyksikkönä (pumppu
+ja sähkömoottori) tai pelkästään pumppuna.
+
+HUOMIO:
+Jos olet hankkinut moottorittoman pumpun, varmis‐
+ta, että moottori sopii kytkettäväksi pumppuun.
+
+Käyttötarkoitus
+
+Pumppu sopii seuraaviin tarkoituksiin:
+
+• Moottorin ruuvattuja silmukkapultteja saa käyt‐
+tää ainoastaan yksittäisen moottorin käsittelyyn
+tai – mikäli paino ei ole jakautunut tasaisesti
+– yksikön nostamiseen osittain pystyyn vaaka-
+asennosta.
+Pumppuyksikkö täytyy aina kiinnittää ja kuljettaa ku‐
+van Kuva 5 sivulla 368 mukaisesti, ja pumppu ilman
+moottoria täytyy kiinnittää ja kuljettaa kuvan Kuva 6
+sivulla 368, Kuva 7 sivulla 368 ja Kuva 8 sivulla 368
+mukaisesti.
+
+Yksikkö ilman moottoria
+
+• Vedensyöttö ja vedenkäsittely
+• Jäähdytys ja lämpimän veden syöttö teollisuus-
+ja rakennuspalveluissa
+• Kastelu- ja sprinklerijärjestelmät
+• Lämmitysjärjestelmät
+• Palontorjuntasovellukset
+Muut käyttötarkoitukset valinnaista materiaalia var‐
+ten:
+
+• Kaukolämpö
+• Yleinen teollisuus
+
+VAROITUS:
+Konedirektiivin 2006/42/EY pumppu ja
+moottori, jotka ostetaan erikseen ja kyt‐
+ketään sitten yhteen, muodostavat uu‐
+den koneen. Kytkennän tekevä henkilö
+on vastuussa kaikista yhdistetyn yksikön
+turvallisuusseikoista ja CE-merkinnästä.
+
+Epäasianmukainen käyttö
+
+FI
+
+2.3  Varastointiohjeita
+
+Varastointipaikka
+
+VAROITUS:
+Pumpun virheellinen käyttö voi luoda
+vaaratilanteita ja aiheuttaa ruumiinvam‐
+moja ja omaisuusvahinkoja.
+
+Säilytä tuotetta katetussa ja kuivassa ympäristössä
+suojattuna kuumuudelta, lialta ja tärinältä.
+
+Tuotteen epäasianmukainen käyttö aiheuttaa takuun
+menettämisen.
+Esimerkkejä epäasianmukaisesta käytöstä:
+
+HUOMIO:
+Suojaa tuote kosteudelta, kuumuudelta ja mekaani‐
+silta vaurioilta.
+
+HUOMIO:
+Älä aseta raskaita kuormia pakatun tuotteen päälle.
+
+2.3.1  Pitkäaikainen varastointi
+
+• Nesteet, jotka eivät ole yhteensopivia pumpun
+valmistusmateriaalien kanssa
+• Vaaralliset nesteet (esim. myrkylliset, räjähdysalt‐
+tiit, palonarat tai syövyttävät nesteet)
+• Muut juotavat nesteet kuin vesi (esimerkiksi viini
+tai maito)
+Esimerkkejä epäasianmukaisesta asennuksesta:
+
+Noudata seuraavia ohjeita, jos yksikköä säilytetään
+yli kuusi kuukautta:
+
+• Vaaralliset sijainnit (esimerkiksi räjähdysaltis tai
+syövyttävä ilma).
+• Sijainti, jossa ilman lämpötila on erittäin korkea
+tai ilmanvaihto on huono.
+• Ulkoasennukset, joissa ei ole suojaa sateelta tai
+pakkaselta.
+
+VAARA:
+Älä käsittele tällä pumpulla palavia ja/tai
+räjähdysalttiita nesteitä.
+
+HUOMIO:
+
+• Säilytä katetussa ja kuivassa tilassa.
+• Säilytä yksikkö lämmöltä, lialta ja tärinältä suo‐
+jassa.
+• Pyöritä akselia käsin useita kierroksia vähintään
+joka kolmas kuukausi.
+Lisätietoja pitkäaikaisesta varastoinnista on käyttö‐
+yksikön ja kytkimen valmistajien käyttäjäoppaissa.
+Jos sinulla on kysyttävää pitkäaikaisista säilytyshoi‐
+topalveluista, ota yhteys paikalliseen myynti- ja huol‐
+toedustajaan.
+
+Ympäristön lämpötila
+
+• Älä käsittele tällä pumpulla nesteitä, jotka sisältä‐
+vät hiovia, kiinteitä tai kuitumaisia aineita.
+• Älä käytä pumppua virtausnopeuksilla, joita ei
+mainita tietokilven virtausnopeuksissa.
+
+Tuote täytyy säilyttää ympäristön lämpötilassa -5 °C
+– +40 °C (23 °F – 104 °F).
+
+Erikoiskäyttökohteet
+
+3  Tuotteen kuvaus
+
+Ota yhteys paikalliseen myynti- ja huoltoedustajaan:
+
+• Jos pumpattavan nesteen tiheys- ja/tai viskosi‐
+teettiarvo ylittää veden arvon, esimerkiksi glyko‐
+
+3.1  Pumpun malli
+Pumppu on vaakasuuntainen pumppu, jonka kieruk‐
+kakotelo on kytketty kiinteästi vakiosähkömoottorei‐
+hin.
+
+123

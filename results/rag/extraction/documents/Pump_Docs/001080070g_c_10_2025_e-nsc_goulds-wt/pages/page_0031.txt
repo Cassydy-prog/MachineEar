@@ -1,0 +1,148 @@
+fr - Instructions initiales
+
+2.3  Conseil de stockage
+
+Usages supplémentaires pour les matériels en op‐
+tion :
+
+Lieu de stockage
+
+• Chauffage urbain
+• Industrie en général
+
+Usage non conforme
+
+Le produit doit être stocké dans un lieu couvert et
+sec, exempt de source de chaleur, de saleté et de
+vibrations.
+
+REMARQUE:
+Protéger le produit contre l’humidité, les sources de
+chaleur et les dommages mécaniques.
+
+AVERTISSEMENT:
+Une utilisation incorrecte de la pompe
+peut provoquer des situations dangereu‐
+ses et occasionner des blessures corpo‐
+relles ou des dégâts matériels.
+
+FR
+
+REMARQUE:
+Ne pas poser d’objets lourds sur le produit emballé.
+
+Une utilisation incorrecte du produit conduit à la per‐
+te de la garantie.
+Exemples d'utilisation incorrecte :
+
+2.3.1  Stockage longue durée
+
+Si le groupe doit être stocké plus de 6 mois, les
+exigences suivantes doivent être respectées :
+
+• Liquides non compatibles avec les matériaux de
+construction de la pompe
+• Liquides dangereux (par exemple toxiques, explo‐
+sifs, inflammables ou corrosifs)
+• Liquides potables autre que l'eau (par exemple
+vin ou lait)
+Exemples d'installation incorrecte :
+
+• Emplacements dangereux (par exemple atmos‐
+phères explosives ou corrosives).
+• Emplacement où la température de l'air est très
+élevée ou la ventilation insuffisante.
+• Installations à l'extérieur en l'absence de protec‐
+tion contre la pluie ou le gel.
+
+• Stocker dans un endroit abrité et sec.
+• Stocker le groupe à l'abri de la chaleur, de la sale‐
+té et des vibrations.
+• Faire tourner l'arbre à la main plusieurs fois au
+moins tous les trois mois.
+Consulter les fabricants de l'ensemble d'entraîne‐
+ment et des accouplements pour la marche à suivre
+en cas de stockage de longue durée.
+Pour toute question sur les services de traitement
+possibles pour le stockage à long terme, contacter
+votre représentant commercial et après-vente local.
+
+Température ambiante
+
+DANGER:
+Ne pas utiliser cette pompe pour pomper
+des liquides inflammables et/ou explosi‐
+bles.
+
+Le produit doit être stocké à température ambiante
+de -5 °C à +40 °C (23 °F à 104 °F).
+
+REMARQUE:
+
+3  Descriptif du produit
+
+• Ne pas utiliser cette pompe pour pomper des
+liquides contenant des substances abrasives, so‐
+lides ou fibreuses.
+• Ne pas utiliser la pompe pour des débits dépas‐
+sant ceux mentionnés sur la plaque signalétique.
+
+3.1  Conception de la pompe
+La pompe est du type horizontal avec corps en volu‐
+te et accouplement direct à des moteurs électriques
+standard.
+La pompe peut être utilisée pour le traitement de :
+
+Applications spéciales
+
+Contacter le service après-vente local dans les cas
+suivants :
+
+• Eau chaude ou froide
+• Liquides propres
+• Liquides sans agressivité chimique ni mécanique
+pour les matériaux de la pompe.
+Le produit peut être fourni sous forme de groupe
+de pompage (pompe et moteur électrique) ou sous
+forme de pompe seule.
+
+• Si la densité et/ou la viscosité du liquide pompé
+dépasse celle de l'eau, par exemple eau avec gly‐
+col, un moteur plus puissant peut être nécessai‐
+re.
+• Si le liquide pompé est traité chimiquement (par
+exemple adouci, désionisé, déminéralisé, etc.).
+• Pour toute situation différente de celles décrites
+et dépendant de la nature du liquide.
+
+REMARQUE:
+Si vous avez acheté une pompe sans moteur, s'assu‐
+rer que le moteur est conçu pour accouplement à la
+pompe.
+
+Usage prévu
+
+3.2  Pompe dénomination
+Voir Figure 2 en page 351 pour une explication du
+code de et de dénomination de la pompe et un
+exemple.
+
+La pompe convient pour :
+
+• Fourniture et traitement de l'eau
+• Fourniture d'eau de refroidissement et d'eau
+chaude dans les services industriels et de bâti‐
+ment
+• Systèmes d'irrigation et d'arrosage
+• Systèmes de chauffage
+• Applications de lutte contre l'incendie
+
+3.3  Plaque signalétique
+La plaque signalétique se trouve sur le support de
+palier. La plaque signalétique regroupe les caracté‐
+ristiques principales du produit. Pour plus d'informa‐
+tions, voir Figure 1 en page 345.
+La plaque signalétique donne des informations sur
+le matériau de la roue et du corps, le joint mécanique
+
+27

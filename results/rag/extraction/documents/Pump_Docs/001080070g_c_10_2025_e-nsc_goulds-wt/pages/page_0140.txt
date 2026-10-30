@@ -1,0 +1,159 @@
+is - Þýðing á upprunalegu
+
+ekki sé hægt að setja spennu á þau.
+Þetta á sömuleiðis við um stýrirásina.
+
+Uppsetning ofan við vökvayfirborð (sog‐
+hækkun)
+
+Jarðtenging
+
+Hámarksfræðileg soghæð hverrar dælu er 10,33 m. Í
+reynd hefur eftirfarandi áhrif á soggetu dælunnar:
+
+Rafmagnshætta:
+
+• Hitastig vökvans
+• Hæð yfir sjávarmáli (í opnu kerfi)
+• Kerfisþrýstingur (í lokuðu kerfi)
+• Mótstaða í pípulögnum
+• Innri mótstaða dælunnar sjálfrar
+• Hæðarmismunur
+Eftirfarandi jafna er notuð til að reikna út hve hátt yfir
+vökvayfirborði megi setja upp dæluna:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+Loftþrýstingur í börum (í lokuðum kerf‐
+um er kerfisþrýstingur)
+
+Gildi innri mótstöðu dælunnar gefin upp
+í metrum
+
+NPSH [Net
+Positive
+Suction
+Head]
+
+Hf
+Heildartap í metrum vegna streymis
+vökvans í gegnum sogleiðslu dælunnar
+
+• Tengið ávallt verndarleiðara við jarð‐
+tengil áður en aðrar raftengingar eru
+framkvæmdar.
+• Jarðtengið (jörð) allan búnað tryggi‐
+lega. Þetta á við um dælubúnað, drif
+og allan eftirlitsbúnað. Prófið jarðleið‐
+ara til að sannreyna að hann sé rétt
+tengdur.
+• Ef vélarkaplinum er kippt úr sambandi
+fyrir mistök, ætti jarðleiðarinn að vera
+sá síðasti til að losna frá tengli sínum
+Tryggið að jarðarleiðarinn sé lengri en
+fasaleiðararnir. Þetta á við um báða
+enda vélarkapalsins.
+• Bætið við aukavörn gegn banvænum
+raflosti. Setjið upp næmnisrofa með
+mikilli næmni (30 mA) [lekastraums‐
+rofa, RCD].
+
+Hv
+Gufuþrýstingur í metrum sem samsvar‐
+ar hitastigi vökvans T °C
+
+4.1  Kröfur um aðstöðu
+
+0,5
+Ráðlögð öryggisfrávik (m)
+
+4.1.1  Dælustaðsetning
+
+Z
+Hámarkshæð þar sem hægt er að setja
+upp dælu (m)
+
+IS
+
+(pb*10,2 - Z) skal ávallt vera stærra en núll.
+Fyrir nánari upplýsingar, sjá Mynd 12 á blaðsíðu 380.
+
+HÆTTA:
+Ekki skal nota þessa samstæðu í eld‐
+fimu/sprengifimu umhverfi eða þar sem
+tærandi gastegundir eða duft er fyrir
+hendi.
+
+Viðmiðunargildi
+
+ATHUGA:
+Ekki skal fara fram úr sogafköstum dælunnar því að
+það getur valdið straumtæringu og skemmt dæluna.
+
+Fylgið eftirfarandi viðmiðunargildum varðandi staðs‐
+etningu vörunnar:
+
+4.1.2  Pípulagnakröfur
+
+Varúðarráðstafanir
+
+AÐVÖRUN:
+
+• Notið pípur sem ráða við hámark‐
+svinnuþrýsting dælunnar. Ef þetta er
+ekki gert getur kerfið gefið sig, með
+tilheyrandi hættu á meiðslum.
+• Tryggið að allar tengingar séu fram‐
+kvæmdar af löggiltum tæknimönnum
+og í samræmi við gildandi reglur.
+
+• Tryggið að ekkert hindri eðlilegt loftflæði kæli‐
+loftsins sem vélarviftan veitir.
+• Tryggið að uppsetningarsvæðið sé varið fyrir vö‐
+kvalekum og flóðum.
+• Ef hægt er skal koma dælunni örlítið ofar en
+gólfhæð.
+• Umhverfishitinn skal vera á milli 0°C (+32°F) og
++40°C (+104°F).
+• Rakastig andrúmslofts í kring skal vera undir 50%
+við +40°C (+104°F).
+• Hafið samband við sölu- og þjónustudeild ef:
+– Rakastig fer upp fyrir viðmiðunargildi.
+– Herbergishiti fer yfir +40°C (+104°F).
+– Samstæðan er staðsett meira en 1000 m
+
+ATHUGA:
+Fylgja skal öllum reglugerðum viðeigandi yfirvalda
+og fyrirtækja sem stýra almenningsvatnsveitum ef
+dælan er tengd við þær. Ef þörf er skal setja viðeig‐
+andi bakflæðisbúnað á soghliðina.
+
+(3000 ft) yfir sjávarmáli. Það getur þurft að
+færa niður afköst vélar eða skipta henni út
+fyrir öflugri vél.
+Upplýsingar um hvaða gildi á að nota til að minnka
+afl vélarinnar, sjá Tafla 11 á blaðsíðu 379.
+
+Gátlisti fyrir pípulagnir
+
+Staðsetningar dælu og rými í kring
+
+Athugið hvort eftirfarandi kröfur eru uppfylltar:
+
+• Til að tryggja nægilega loftræstingu: ≥ 100 mm (4
+tommur)
+• Til að auðvelda skoðun og fjarlægingu vélarinnar:
+≥ 300 mm (12 tommur)
+• Ef minna rými er tiltækt skal hafa hliðsjón af tæk‐
+nibæklingnum.
+
+• Allar pípulagnir skulu vera sjálfstætt studdar og
+mega ekki leggja neitt álag á samstæðuna.
+• Notaðar eru sveigjanlegar lagnir eða tengistykki
+til að komast hjá að titringur frá dælu berist í
+pípulagnir og öfugt.
+• Notið langar beygjur, forðist hné sem veita of
+mikið streymisviðnám.
+• Sogpípur eru fullkomlega vatns- og loftþéttar.
+
+136

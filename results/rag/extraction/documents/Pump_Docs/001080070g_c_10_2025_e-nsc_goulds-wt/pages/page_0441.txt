@@ -1,0 +1,65 @@
+Declarations of Conformity
+
+•  Dyrektywa w sprawie maszyn 2006/42/WE z późniejszymi zmianami (ZAŁĄCZNIK II - osoba fizyczna lub prawna uprawniona do 
+tworzenia dokumentacji technicznej: Xylem Service Italia S.r.l.), 
+•  Dyrektywa w sprawie ekoprojektu 2009/125/WE z późniejszymi zmianami, Rozporządzenie (UE) nr 547/2012 (Pompa wodna z 
+późniejszymi zmianami, jeśli ma oznaczenie MEI) 
+i normy techniczne 
+•  EN 809:1998+A1:2009. 
+•  EN 16480:2021. 
+Informacje dodatkowe: 
+Optimyze: w przypadku dostarczania z pompą należy zapoznać się z dokumentacją dostarczoną z urządzeniem monitorującym 
+(Dyrektywa Radiowa 2014/53/UE z późniejszymi zmianami, Dyrektywa w sprawie ograniczenia stosowania niektórych 
+niebezpiecznych substancji w sprzęcie elektrycznym i elektronicznym 2011/65/UE z późniejszymi zmianami, w tym wprowadzonymi 
+przez Dyrektywę (UE) 2015/863).
+
+Montecchio Maggiore, 25/03/2025  
+
+Rew. 00
+
+Alessio Vendraminelli  
+Dyrektor zarządzający
+
+Deklaracja(-e) zgodności jest/są nieważna(-e), jeśli jest/są używana(-e) w oderwaniu od reszty tekstu dokumentu Xylem o kodzie 
+001080070G. 
+ 
+Prohlášení o shodě 
+Odkazujeme na specifické prohlášení o označení na výrobku. 
+ 
+Elektrické čerpadlo
+
+ES Prohlášení o shodě (překlad) 
+ 
+Společnost Xylem Service Italia S.r.l. s hlavním sídlem v Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Itálie tímto 
+prohlašuje, že výrobek: 
+elektrické čerpadlo NSCC… nebo NSCF… (viz nálepku na poslední straně) 
+splňuje příslušná ustanovení následujících evropských směrnic 
+•  Směrnice 2006/42/ES o strojních zařízeních ve znění pozdějších předpisů (PŘÍLOHA II - fyzická nebo právnická osoba pověřená 
+sestavením technické dokumentace: Xylem Service Italia S.r.l.), 
+•  Ekodesign 2009/125/ES a pozdější změny, Nařízení (EU) č. 2019/1781 a pozdější změny (elektrický motor, pokud označen IE2 
+nebo IE3 nebo IE4), Nařízení (EU) č. 547/2012 a pozdější změny (vodní čerpadlo, pokud označen MEI) 
+a technické normy 
+•  EN 809:1998+A1:2009, EN 60204-1:2018. 
+• EN 60034-30:2009, EN 60034-30-1:2014, EN 60034-2-1:2007, EN 60034-2-1:2014, EN 16480:2021. 
+Montecchio Maggiore, 25/03/2025  
+
+Verze 00
+
+Alessio Vendraminelli  
+    Generální ředitel
+
+EU Prohlášení o shodě (č. 01) 
+ 
+1. EMCD - Model zařízení/výrobku: NSCC… nebo NSCF… (viz nálepku na poslední straně) 
+    RoHS- Jednoznačná identifikace EEZ: NSCC… nebo NSCF…  
+2. Název a adresa výrobce: 
+ Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ 36075 Montecchio Maggiore VI 
+ Itálie 
+3. Toto prohlášení o shodě je vydáno na výhradní odpovědnost výrobce. 
+4. Předmět prohlášení: elektrické čerpadlo 
+5. Předmět výše uvedeného prohlášení je ve shodě s příslušnými harmonizačními právními předpisy Evropské unie 
+•  Směrnice 2014/30/EU z 26. února 2014 ve znění pozdějších předpisů (elektromagnetická kompatibilita).
+
+437

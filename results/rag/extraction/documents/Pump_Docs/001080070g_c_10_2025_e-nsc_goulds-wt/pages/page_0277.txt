@@ -1,0 +1,199 @@
+sr - Prevod originalnog
+
+Uzrok
+Rješenje
+
+Uzrok
+Rješenje
+
+U usisnoj cijevi postoji zrak.
+Odzračite.
+
+Pumpa nije ispravno
+napunjena.
+
+Zaustavite pumpu i ponovite
+postupak punjenja.
+Ako se problem nastavi:
+
+7.10  Pumpa se pokreće previše često
+
+Uzrok
+Rješenje
+
+Jedna ili obje sljedeće
+komponente cure:
+
+• Provjerite da li mehanički
+zatvarač curi.
+• Provjerite da li je usisna ci‐
+jev savršeno zaptivena.
+• Zamijenite sve ventile koji
+cure.
+
+Popravite ili zamijenite
+neispravnu komponen‐
+tu.
+
+Otvorite ventil.
+
+• Usisna cijev
+• Nožni ventil ili kontrolni
+ventil
+
+Prigušenje na do‐
+premnoj strani previ‐
+še je veliko.
+
+Rastavite i očistite ventile.
+
+Postoji raspuknuta mem‐
+brana ili nema zraka u tlač‐
+nom spremniku.
+
+Pogledajte odgovaraju‐
+će upute u priručniku
+za tlačni spremnik.
+
+Ventili su zaključani
+u zatvorenom ili dje‐
+lomično zatvorenom
+položaju.
+
+7.11  Pumpa vibrira i stvara preveliku buku
+
+Pumpa je začeplje‐
+na.
+
+Obratite se lokalnom pred‐
+stavniku prodaje i servisa.
+
+Uzrok
+Rješenje
+
+Cijevi su začepljene. Provjerite i očistite cijevi.
+
+Kavitacija pum‐
+pe
+
+Smjer okretanja ro‐
+tora je pogrešan.
+(trofazna verzija)
+
+Promijenite položaj dvije faze
+na priključnoj ploči motora
+ili na električnoj upravljačkoj
+ploči.
+
+Smanjite potrebnu brzinu proto‐
+ka djelomičnim zatvaranjem ON-
+OFF ventila nizvodno od pumpe.
+Ako se problem nastavi provjerite
+uvjete rada pumpe (visinsku razli‐
+ku, otpornost na protok, tempera‐
+turu tekućine itd.).
+
+Provjerite uvjete rada pumpe.
+Ako je potrebno, učinite slje‐
+deće:
+
+Ležajevi motora
+su pohabani.
+
+Obratite se lokalnom predstavni‐
+ku prodaje i servisa.
+
+Usisni podizač je
+previsok ili je ot‐
+pornost na protok
+u usisnim cijevima
+prevelika.
+
+• Smanjite usisnu visinu
+• Povećajte promjer usisne
+cijevi.
+
+Obratite se lokalnom predstavni‐
+ku prodaje i servisa.
+
+Unutar pumpe
+postoje strani
+predmeti.
+
+Rotor se tare o
+prsten
+
+Obratite se lokalnom predstavni‐
+ku prodaje i servisa.
+
+7.9  Električna pumpa se zaustavlja, a zatim
+se okreće u pogrešnom smjeru
+
+Provjerite poravnanje spojke.
+
+Uzrok
+Rješenje
+
+Spojka nije po‐
+ravnata
+
+Jedna ili obje sljedeće kompo‐
+nente cure:
+
+Popravite ili zami‐
+jenite neispravnu
+komponentu.
+
+Fleksibilni ele‐
+menti spojke su
+pohabani
+
+Provjerite i zamijenite odgovaraju‐
+će dijelove ako postoje bilo kakvi
+znakovi habanja.
+
+• Usisna cijev
+• Nožni ventil ili kontrolni
+ventil
+
+U bilo kojoj drugoj situaciji obratite se lokalnom za‐
+stupniku za prodaju i servis.
+
+SR
+
+ti telesne povrede i oštećenje imovine i
+može poništiti garanciju.
+
+1  Uvod i sigurnost
+
+1.1  Uvod
+
+Svrha priručnika
+
+NAPOMENA:
+Sačuvajte ovaj priručnik za buduću upotrebu i držite
+ga lako dostupnim na mestu na kome se jedinica
+nalazi.
+
+Svrha ovog priručnika je da pruži neophodne infor‐
+macije za:
+
+1.2  Terminologija i simboli bezbednosti
+
+O bezbednosnim porukama
+
+• Instalacija
+• Rad
+• Održavanje
+
+Izuzetno je važno da pre rukovanja proizvodom paž‐
+ljivo pročitate, razumete i poštujete bezbednosne
+poruke i propise. One su objavljene kao pomoć u
+sprečavanju sledećih opasnosti:
+
+OPREZ:
+Pažljivo pročitajte ovaj priručnik pre in‐
+stalacije i korišćenja proizvoda. Nepravil‐
+no korišćenje proizvoda može uzrokova‐
+
+273

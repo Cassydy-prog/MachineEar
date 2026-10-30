@@ -1,0 +1,225 @@
+tr - Orijinal talimatlar
+
+3,00
+7,50
+15
+22
+37
+75
+160
+
+60
+40
+30
+24
+16
+8
+4
+
+• EN 733'e göre bağlantı boyutları (model‐
+ler 32-125…-200; 40-125…-250; 50-125…-250;
+65-125…-315;80-160…-315; 100-200…-400;
+125-250…-400; 150-315…-400).
+• Geri çekme rulman braketine sahip salyangoz
+gövde pompası.
+
+Saat
+başı‐
+na
+baş‐
+latma
+sayısı
+
+3.5  Malzeme
+Pompanın sıvı ile temas eden metal kısımları aşağı‐
+dakilerden yapılmıştır:
+
+Gürültü seviyesi
+
+Malzeme kodu
+Malzeme göv‐
+
+Standart/İsteğe
+
+desi / çarkı
+
+Bağlı
+
+CC
+Dökme demir/
+
+Standart
+
+Standart verilen motor ile donatılan pompanın ses
+basınç seviyeleri için, bkz. Tablo 9 sayfa 368.
+Motorsuz pompanın ses basıncı seviyeleri için bkz.
+Tablo 10 sayfa 372.
+
+Dökme demir
+
+CB
+Dökme demir/
+
+Standart
+
+4  Kurulum
+
+Bronz
+
+Önlemler
+
+Standart
+
+CS
+Dökme demir/
+Paslanmaz çelik
+
+UYARI:
+
+Standart
+
+CN
+Dökme demir/
+Paslanmaz çelik
+
+Standart
+
+DC
+Dövülebilir de‐
+mir / Dökme de‐
+
+mir
+
+DB
+Dövülebilir de‐
+
+Standart
+
+• Geçerli kaza önleme yönetmeliklerine
+uyun.
+• Uygun ekipmanlar ve korumalar kulla‐
+nın.
+• Montaj yerini, su tesisatı ve güç bağ‐
+lantılarını seçerken her zaman yürür‐
+lükteki yerel ve/veya ulusal yönetme‐
+liklere, yasa ve kurallara başvurun.
+
+mir / Bronz
+
+Elektrik Tehlikesi:
+
+Standart
+
+DN
+Dövülebilir de‐
+mir / Paslanmaz
+
+çelik
+
+NN
+Paslanmaz çe‐
+
+Standart
+
+lik /
+Paslanmaz çelik
+
+RR
+Çift yönlü/Çift
+
+İsteğe Bağlı
+
+yönlü
+
+• Tüm bağlantıların kalifiye bir elektrik
+teknisyeni tarafından ve yürürlükteki
+yönetmeliklere uygun olarak yapıldı‐
+ğından emin olun.
+• Birim üzerinde çalışmaya başlama‐
+dan önce birimin ve kumanda paneli‐
+nin güç beslemesinden yalıtıldığından
+ve çalışmayacağından emin olun. Bu,
+kumanda devresi için de geçerlidir.
+
+Topraklama
+
+3.6  Mekanik salmastra
+Dengesiz tek mekanik keçe EN 12756, K versiyonu.
+
+Elektrik Tehlikesi:
+
+3.7  Uygulama sınırları
+
+Maksimum çalışma basıncı
+
+Şekil 4 sayfa 367, pompa modeline ve pompalanan
+sıvının sıcaklığına bağlı olarak maksimum çalışma
+basıncını gösterir.
+P1maks + Pmaks≤ PN
+
+P1maks
+Maksimum giriş basıncı
+
+Pmaks
+Pompanın ürettiği maksimum basınç
+
+TR
+
+PN
+Maksimum çalışma basıncı
+
+Sıvı sıcaklığı aralıkları
+
+Şekil 4 sayfa 367 çalışma sıcaklığı aralıklarını göste‐
+rir.
+Özel gereklilikler için satış ve servis temsilcisiyle
+bağlantı kurun.
+
+• Diğer elektrik bağlantılarını yapmadan
+önce her zaman harici koruma kon‐
+düktörünü toprak terminaline bağla‐
+yın.
+• Tüm elektrikli ekipmanı uygun şekilde
+topraklamalısınız. Bu, pompa ekipma‐
+nı, sürücü ve herhangi bir izleme ekip‐
+manı için geçerlidir. Doğru bağlanmış
+olduğunu doğrulamak için toprak ucu‐
+nu test edin.
+• Motor kablosu yanlışlıkla sarsıntıyla
+gevşerse, terminalde gevşeyecek son
+iletken toprak kablosu olmalıdır. Top‐
+rak iletkeninin faz iletkenlerinden da‐
+ha uzun olmasını sağlayın. Bu, motor
+kablosunun her iki ucu için geçerlidir.
+• Ölümcül çarpmaya karşı ilave koruma
+ekleyin. Yüksek hassasiyetli bir fark
+svici (30 mA) takın [kalıntı akım aygıtı
+RCD].
+
+Saatteki maksimum başlatma sayısı
+
+4.1  Tesis gereklilikleri
+
+kW
+0,25
+-
+
+4,00
+-
+
+11
+-
+
+18,5
+30
+-
+
+45
+-
+
+90
+-
+
+4.1.1  Pompa konumu
+
+301

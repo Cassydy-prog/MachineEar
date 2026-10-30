@@ -1,0 +1,54 @@
+Evaluation of running features and damage to dismounted bearings
+Cage damage
+
+3.5 Cage damage
+
+Causes:
+– Lubricant contaminated with hard
+
+foreign particles
+– Too little or unsuitable lubricant
+
+3.5.1 Wear due to starved lubrication 
+and contamination
+Symptoms:
+
+Remedial measures:
+– Ensure clean assembly conditions
+– Filter lubricant
+– Increase lubricant flow through
+
+and/or apply a different viscosity
+
+In the case of cages with lip guidance
+wear in the side edges, for those guided
+by rolling elements wear in the pockets.
+Subsequent damage due to advanced
+wear could cause rolling element guid-
+ance to develop into lip guidance and
+abrade there also or vice versa. Wear is
+generally in the axial direction to a large
+extent symmetric in the pockets or in the
+case of cylindrical roller bearings at both
+side edges, fig. 88.
+
+88: Wear of cage side edges
+
+3.5.2 Wear due to excess speed
+Symptoms:
+
+Wear of cage outside diameter due to
+grazing at the bearing outer ring, fig. 89.
+
+Causes:
+– Excess speed
+– Unsuitable cage construction selected
+
+Remedial measures:
+– Use different type of cage
+
+89: Wear of cage outside diameter due
+to grazing at the bearing outer ring
+
+FAG
+54

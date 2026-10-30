@@ -1,0 +1,63 @@
+Declarations of Conformity
+
+Declarație de conformitate CE (traducere) 
+ 
+Xylem Service Italia S.r.l., cu sediul în Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italia, declară prin prezenta că 
+produsul 
+NSCC… sau NSCF… pompă electrică (a se vedea eticheta de pe ultima pagină) 
+respectă prevederile relevante ale următoarelor directive europene 
+•  2006/42/CE privind utilajele și modificările ulterioare (ANEXA II - persoana fizică sau juridică autorizată să întocmească dosarul 
+tehnic: Xylem Service Italia S.r.l.), 
+•  2009/125/CE privind proiectarea ecologică și modificările ulterioare, Regulamentul (UE) 2019/1781 și modificările ulterioare 
+(motor electric, dacă e marcat cu IE2, IE3 sau IE4), Regulamentul (UE) nr. 547/2012 și modificările ulterioare (pompă de apă dacă 
+e marcat cu MEI) 
+și standardele tehnice 
+•  EN 809:1998+A1:2009, EN 60204-1:2018. 
+•  EN 60034-30:2009, EN 60034-30-1:2014, EN 60034-2-1:2007, EN 60034-2-1:2014, EN 16480:2021. 
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Director General
+
+Declarația de conformitate UE (nr. 01) 
+ 
+1. EMCD - Model aparat/produs: NSCC… sau NSCF… (a se vedea eticheta de pe ultima pagină) 
+    RoHS - Identificare unică a EEE: NSCC… sau NSCF…  
+2. Numele și adresa producătorului: 
+ Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ 36075 Montecchio Maggiore VI 
+ Italia 
+3. Prezenta declarație de conformitate este emisă exclusiv pe răspunderea producătorului. 
+4. Obiectul declarației: pompă electrică. 
+5. Obiectul declarației descrise mai sus este în conformitate cu legislația de armonizare relevantă a Uniunii 
+•  Directiva 2014/30/UE din 26 februarie 2014 și modificările ulterioare (compatibilitatea electromagnetică).  
+•  Directiva 2011/65/UE din 8 iunie 2011 și modificările ulterioare, inclusiv Directiva (UE) 2015/863 (restricționarea utilizării 
+anumitor substanțe periculoase în echipamentele electrice și electronice). 
+6. Referințe la standardele armonizate relevante utilizate sau referințe la celelalte specificații tehnice, în legătură cu care este 
+declarată conformitatea: 
+•  EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-
+4:2007 +A1:2011, EN IEC 61000-6-4:2019. 
+•  EN IEC 63000:2018. 
+7. Organism notificat: - - - 
+8. Informații suplimentare: 
+(RoHS) – Anexa III – Aplicații care nu sunt supuse restricțiilor: plumbul ca element de legătură în aliajele din oțel, aluminiu, cupru 
+[6(a), 6(b), 6(c)].  
+Optimyze: consultați documentația furnizată cu dispozitivul de monitorizare [Echipamente radio 2014/53/UE și modificările 
+ulterioare, Restricționarea utilizării anumitor substanțe periculoase în echipamentele electrice și electronice 2011/65/UE și 
+modificările ulterioare, inclusiv Directiva (UE) 2015/863]. 
+Semnat pentru și în numele: Xylem Service Italia S.r.l.
+
+Alessio Vendraminelli  
+Director General
+
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Declarația(iile) de conformitate nu este (sunt) validă(e) dacă se folosește(sc) separat de restul textului din documentul Xylem cod 
+001080070G.
+
+442

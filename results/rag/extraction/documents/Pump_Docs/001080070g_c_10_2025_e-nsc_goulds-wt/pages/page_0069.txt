@@ -1,0 +1,194 @@
+pt - Tradução do original
+
+Uso indevido
+
+IMQ ou TUV ou IRAM ou outras marcas
+(apenas para bomba eléctrica)
+
+ADVERT.:
+Uma utilização inadequada da bomba
+pode criar condições perigosas e provo‐
+car ferimentos e danos à propriedade.
+
+Excepto quando especificado o contrário, e para pro‐
+dutos com uma marca de aprovação de segurança
+eléctrica, esta refere-se exclusivamente à bomba
+eléctrica.
+
+Uma utilização incorreta do produto implica a perda
+da garantia.
+Exemplos de utilização imprópria:
+
+3.4  Descrição da bomba
+• Dimensões de ligação de acordo
+com a norma EN 733 (modelos
+32-125…-200; 40-125…-250; 50-125…-250;
+65-125…-315;80-160…-315; 100-200…-400;
+125-250…-400; 150-315…-400).
+• Caixa helicoidal da bomba com suporte de rola‐
+mento de retirante anterior.
+
+3.5  Material
+
+• Líquidos não compatíveis com os materiais de
+construção da bomba
+• Líquidos perigosos (como tóxicos, explosivos, in‐
+flamáveis ou corrosivos)
+• Líquidos potáveis diferentes de água (por exem‐
+plo, vinho ou leite)
+Exemplos de instalação imprópria:
+
+PT
+
+As partes metálicas que entrem em contacto com o
+líquido são feitas do seguinte:
+
+Código do ma‐
+
+Material da cai‐
+
+Padrão / Opcio‐
+
+terial
+
+xa/impulsor
+
+nal
+
+CC
+Ferro fundido/
+
+Padrão
+
+• Locais perigosos (como atmosferas explosivas
+ou corrosivas).
+• Locais onde a temperatura do ar for demasiado
+elevada ou existir pouca ventilação.
+• Instalações no exterior onde não exista protec‐
+ção contra chuva ou temperaturas excessiva‐
+mente baixas.
+
+Ferro fundido
+
+CB
+Ferro fundido/
+
+Padrão
+
+Bronze
+
+PERIGO:
+Não utilize esta bomba para lidar com
+líquidos inflamáveis e/ou explosivos.
+
+Padrão
+
+CS
+Ferro fundido/
+Aço inoxidável
+
+AVISO:
+
+Padrão
+
+CN
+Ferro fundido/
+Aço inoxidável
+
+Padrão
+
+CD
+Ferro dúctil/
+Ferro fundido
+
+• Não utilize esta bomba para lidar com líquidos
+que contenham substâncias abrasivas, sólidas
+ou fibrosas.
+• Não utilize a bomba para valores de fluxo que
+ultrapassam os especificados na placa de carac‐
+terísticas.
+
+DB
+Ferro dúctil/
+
+Padrão
+
+Bronze
+
+Aplicações especiais
+
+DN
+Ferro dúctil/Aço
+
+Padrão
+
+inoxidável
+
+Contacte um representante de vendas e assistência
+nos seguintes casos:
+
+NN
+Aço inoxidável/
+
+Padrão
+
+Aço inoxidável
+
+RR
+Duplex/Duplex
+opcional.
+
+3.6  Vedante mecânico
+Precisão do vedante mecânico único desequilibrado
+EN 12756, versão K.
+
+• Se o valor da densidade e/ou viscosidade do lí‐
+quido bombeado exceder o valor da água, como
+água com glicol. Pode ser necessário um motor
+mais potente.
+• Se o líquido bombeado for tratado quimicamente
+(por exemplo, amaciado, desionizado, desmine‐
+ralizado, etc.).
+• Quaisquer situações que sejam diferentes das
+descritas e relacionadas com a natureza do líqui‐
+do.
+
+3.7  Limites de aplicação
+
+Pressão máxima de trabalho
+
+3.2  Denominaçãoda bomba
+Consulte Figura 2 na página 351 para obter uma
+explicação do código de denominação da bomba e
+um exemplo.
+
+Figura 4 na página 367 mostra a pressão máxima de
+trabalho, que está dependente do modelo da bomba
+e da temperatura do líquido bombeado.
+P1max + Pmax≤ PN
+
+P1max
+Pressão máxima de entrada
+
+Pmax
+Pressão máxima gerada pela bomba
+
+PN
+Pressão máxima de funcionamento
+
+Intervalos de temperatura do líquido
+
+3.3  Placa
+A placa está localizada no suporte de rolamento. A
+placa de identificação enumera as especificações
+chave do produto. Para obter mais informações,
+consulte Figura 1 na página 345 .
+A placa de identificação fornece informações acer‐
+ca do material do impulsor e da caixa, do vedante
+mecânico e dos seus materiais. Para obter mais in‐
+formações, consulte Figura 3 na página 363 .
+
+Figura 4 na página 367 mostra os intervalos da tem‐
+peratura de funcionamento.
+
+65

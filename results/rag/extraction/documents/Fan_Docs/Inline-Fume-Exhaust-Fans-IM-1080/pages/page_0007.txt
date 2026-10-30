@@ -1,0 +1,173 @@
+IM-1080
+
+Fan Installation (refer to lifting/safety section)
+All fan impellers are statically and dynamically balanced using state of the art equipment in the factory. Final trim balancing is 
+performed on factory assembled fans, unless the specified electrical characteristics of the motor are outside the limits of the factory 
+test equipment. If the motor and drives are supplied, the complete assembly is run tested and balanced. Infrequently, fans are 
+supplied with unusual electrical characteristics and cannot be tested with the motor. In this situation the fans are run and balanced 
+using a factory driver. Likewise, if motors and/or drives are not supplied, the fan is tested with the factory driver. Final balancing, at 
+the buyer’s expense, should be performed in the field after the motor and/or drives are installed. This service is available from TCF, 
+otherwise this should be entrusted to a qualified technician.
+
+Follow proper handling instructions as given earlier.
+1.	
+Move the fan to the final mounting position.
+2.	
+Remove skid, crates and packing materials carefully.
+3.	
+Place the fan on mounting structure. Carefully level the unit 
+(checking the level on the shaft).
+4.	
+Check the alignment of the bearings. Shim or reposition the 
+bearings if necessary.
+5.	
+Check alignment of sheaves on belt driven fans.
+6.	
+Check tension of belts to see if it is sufficient. Sheaves on 
+belt driven fans are often provided with taper lock bushings. 
+When tightening bushing bolts, proceed in a progressive 
+manner to avoid cocking the tapered surfaces between the 
+bushing and the sheave. Torque per tables below.
+
+Click To View Our
+Sheave Installation Video
+
+7.	
+Check the tightness of the impeller on the shaft. Check the 
+tightness of foundation bolts, motor bolts, sheaves and 
+bearings. Make sure there is no rubbing or binding and that 
+the impeller-inlet cone clearances and overlap are correct.
+8.	
+Check that bearings are fully lubricated and check the oil 
+level in the static oil lube systems.
+9.	
+Install any accessories shipped loose from the factory.
+
+Carefully level the fan on the foundation
+
+Tightening Torque
+
+TAPER BUSHINGS - TIGHTENING TORQUE (Ft. Lbs.)
+
+FASTENER - TIGHTENING TORQUE (Ft. Lbs.)
+
+SIZE
+
+SIZE
+
+GRADE 2
+GRADE 5
+GRADE 8
+
+SPLIT
+QD 
+FOR DRIVE
+IN IRON
+IN ALUM. HUB
+#10
+—
+—
+6
+1⁄4-20
+7.9
+7.5
+9
+5⁄16-18
+16
+13
+15
+3⁄8-16
+29
+24
+30
+7⁄16-14
+—
+—
+—
+1⁄2-13
+70
+—
+60
+9⁄16-12
+—
+—
+75
+5⁄8-11
+140
+112
+135
+3⁄4-10
+—
+—
+—
+7⁄8-9
+—
+—
+—
+1-8
+—
+—
+—
+11⁄4-7
+—
+—
+—
+
+#10
+—
+—
+—
+1⁄4-20
+5.5
+8
+12
+5⁄16-18
+11
+17
+25
+3⁄8-16
+22
+30
+45
+7⁄16-14
+30
+50
+70
+1⁄2-13
+55
+75
+110
+9⁄16-12
+—
+—
+—
+5⁄8-11
+100
+150
+200
+3⁄4-10
+150
+270
+380
+7⁄8-9
+165
+430
+600
+1-8
+250
+645
+900
+11⁄4-7
+500
+1120
+1500
+
+The above torque values are for nonlubricated fasteners and Browning Bushings. For bearing set screws, use manufacturer’s recommendations. If other bushings are 
+used, utilize bushing manufacturer's specifications.
+
+Tolerance: +/- 5%
+For impeller set screws use Grade 2 values.
+
+7
+
+Installation, Operation & Maintenance Manual

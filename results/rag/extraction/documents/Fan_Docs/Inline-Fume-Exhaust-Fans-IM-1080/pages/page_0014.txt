@@ -1,0 +1,154 @@
+IM-1080
+
+Check, Test & Start Procedure
+
+WARNING
+
+1.	 Electric shock hazard. Could cause severe injury or death. Failure to bond the frame of this equipment to the building electrical ground by 
+use of the grounding terminal provided or other acceptable means may result in electrical shock. Disconnect electric power before servicing 
+equipment. Service to be performed only by qualified personnel. Make sure power is turned off and locked in the OFF position.
+2.	 Rotation is critical. If allowed to operate in the wrong direction, the motor will overload and burn out.
+3.	 Especially check three-phase units for rotation. For three-phase, rotation can be changed by interchanging any two of the three line leads. If 
+the unit is checked on temporary wiring, it should be rechecked when permanently installed. Motor burn-out or tripped overload protection 
+devices are usually the result of wrong rotation.
+
+1.	 Check to verify that the impeller is free to rotate.
+
+NOTICE
+
+2.	 For optimum fan performance make sure that the impeller to 
+inlet venturi gap or overlap is maintained. See table in Impeller 
+Placement section.
+
+The fan was balanced at the factory to be within stringent vibration 
+levels before shipment. However, there are several things that 
+may cause vibration, such as rough handling in shipment and 
+installation, weak foundations and alignments.
+
+3.	 Verify that supply voltage on the line side of disconnect agrees 
+with voltage on fan data plate and is within the 10% utilization 
+voltage.
+
+4.	 Apply power to unit and check rotation of impeller with the directional arrow on the unit.
+
+5.	 Electrical Input Check: Perform check of fan ampere draw and verify that motor nameplate amps are not exceeded. Take into 
+account the service factor range if motor is nameplated above a 1.0 service factor.
+
+6.	 Fan RPM should be checked and verified with a tachometer.
+
+7.	 Units with Speed Control (Direct Drive): Verify that speed controller gives desired operating range of RPM. If minimum speed value 
+is not desired, it may be adjusted.
+
+Impeller Placement
+
+TFE
+QFE, QIFE, TVIFE
+
+FAN
+SIZE
+
+A
+B
+A
+B
+MIN.
+MAX.
+90
+–
+–
+12.25
+0.25
+0.38
+122
+12.25
+0.31
+15.00
+0.31
+0.44
+135
+–
+–
+16.50
+0.38
+0.50
+150
+15.00
+0.38
+18.25
+0.44
+0.56
+182
+18.25
+0.56
+20.00
+0.50
+0.63
+200
+20.00
+0.63
+22.25
+0.56
+0.69
+222
+22.25
+0.69
+24.50
+0.63
+0.75
+245
+24.50
+0.75
+27.00
+0.69
+0.88
+270
+27.00
+0.88
+30.00
+0.75
+0.97
+300
+30.00
+0.97
+33.00
+0.88
+1.06
+330
+33.00
+1.06
+36.50
+0.75
+0.94
+365
+36.50
+0.94
+40.25
+0.81
+1.03
+402
+40.25
+1.03
+44.50
+0.88
+1.13
+445
+44.50
+1.13
+49.00
+1.00
+1.25
+490
+49.00
+1.25
+54.25
+1.13
+1.38
+542
+54.25
+1.38
+60.00
+1.25
+1.56
+
+Installation, Operation & Maintenance Manual
+14

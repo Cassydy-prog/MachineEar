@@ -1,0 +1,106 @@
+5. Basic Pump Maintenance
+
+Basic Pump Maintenance
+
+Related Tip Sheet
+
+Centrifugal pumps are widely used because of their 
+low maintenance requirements. However, like all 
+machinery, they still require periodic maintenance. 
+Common maintenance tasks on centrifugal pumps 
+include the following:
+
+■	 Bearing lubrication and replacement
+
+■	 Mechanical seal replacement
+
+■	 Packing tightening and replacement
+
+A summary of key issues presented here is 
+available in an ITP BestPractices Tip Sheet 
+titled Maintain Pumping Systems Effectively. Tip 
+sheets can be found in Appendix C, accessed 
+on the Web at www.eere.energy.gov/industry/
+bestpractices, or obtained by 
+contacting the EERE Information Center at 
+877-337-3463.
+
+■	 Wear ring adjustment or replacement
+
+■	 Impeller replacement
+
+■	 Pump/motor alignment
+
+■  Motor repair or replacement.
+
+mendations and on their own experience with 
+pumps in similar applications. In systems that do 
+not have abnormally severe operating demands, a 
+typical maintenance schedule like the one shown 
+here could be followed.
+
+Packing and Mechanical Seal Adjustments. 
+Packing and mechanical seal adjustments should 
+be done weekly, taking into consideration the 
+following:
+
+■	 For packing, adjust the tightness of the gland
+
+ Common Failures
+The most costly consequence of improper pump 
+maintenance is unscheduled downtime. Causes 
+of this downtime vary according to the demands 
+of the application. In corrosive or hazardous 
+fluid systems, mechanical seal leaks often require 
+shutting down the system for safety reasons. In 
+other systems, such leaks can be tolerated. And in 
+some systems, problems such as bearing seizures 
+may pose the greatest threat to continuous system 
+operation. Since each system places particular 
+demands on its pump/motor equipment, main-
+tenance requirements vary widely.
+
+bolts to obtain the cooling flow leakage rate 
+allowed by the pump manufacturer (usually 
+2 to 60 drops per minute). Do not overtighten 
+the bolts—this will burn up the packing and 
+require repacking of the stuffing box. As 
+the packing wears, add more packing rings. 
+Eventually, the stuffing box will need all new 
+packing rings. When repacking the box, clean 
+and lubricate the gland bolts.
+
+■	 For mechanical seals, check the performance
+
+of the seal and measure leakage.
+
+Bearing Lubrication. Bearings should be lubri­
+cated semiannually or annually. Operators should 
+pay particular attention to the following:
+
+■	 For grease-lubricated bearings, add grease as
+
+ Preventive Maintenance and Schedules
+To minimize unscheduled downtime, basic system 
+maintenance should be performed at predetermined 
+intervals. Factors that must be weighed in setting 
+this schedule include the cost of downtime; the 
+cost and risk of catastrophic failure; the expected 
+mean time between repair (MTBR) for motors, 
+bearings, and seals; and the availability of backup 
+equipment. Hours of operation or calendar intervals
+—e.g., quarterly or semiannually—can help deter-
+mine the schedule. See, for example, the basic 
+maintenance checklist sample in this fact sheet.
+
+described in the technical manual for the 
+pump. Be careful not to overgrease bearings, 
+because this interferes with the ball or roller 
+motion and might cause overheating.
+
+Operators can base decisions about the frequency 
+of maintenance on the manufacturer’s recom-
+
+33
+
+A Sourcebook for Industry

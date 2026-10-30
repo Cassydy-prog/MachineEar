@@ -1,0 +1,159 @@
+hu - Eredeti útmutató
+
+5.2  Ellenőrizze a forgásirányt (háromfázisú
+motor)
+Kövesse ezt az eljárást indítás előtt.
+
+• Használjon megfelelő védőfelszere‐
+lést.
+• Ügyeljen, hogy a szivattyúzott folya‐
+dék ne okozhasson személyi sérülést
+vagy anyagi kárt.
+
+1. A megfelelő forgásirány meghatározásához ke‐
+resse meg az adapteren vagy a motor ventiláto‐
+rának burkolatán lévő nyilakat.
+
+2. Indítsa el a motort.
+
+3. A tengelykapcsoló védőborításán vagy a motor
+ventilátorának borításán ellenőrizze gyorsan a
+forgásirányt.
+
+4. Állítsa le a motort.
+
+5. Ha a forgásirány nem megfelelő, a következőkép‐
+pen járjon el:
+
+a) Húzza ki a tápkábelt.
+b) A motor kapocstábláján vagy a villamos kap‐
+
+6.1  Szerviz
+Amennyiben a felhasználó tervszerű megelőző kar‐
+bantartási határidőket kíván előre ütemezni, akkor
+azokat a szivattyúzott folyadéktól és a szivattyú üze‐
+mi körülményeitől függően kell megállapítani.
+A tervszerű karbantartással vagy szervizeléssel kap‐
+csolatos kérésekkel vagy információkkal kapcsolat‐
+ban forduljon a helyi kereskedelmi és szervizképvise‐
+lethez.
+Rendkívüli karbantartás válhat szükségessé a folya‐
+dékkal érintkező részek tisztítása és/vagy az elhasz‐
+nálódott alkatrészek cseréje miatt.
+
+csolótáblán cserélje meg a tápkábel három
+vezetéke közül kettőnek a bekötését.
+
+Egész élettartamukra zsírozott csapágyakkal
+működő szivattyúk
+
+A bekötési rajzért lásd 21. ábra 392. oldalon.
+c) Ellenőrizze ismételten a forgásirányt.
+
+5.3  Indítsa el a szivattyút
+
+Az egész élettartamukra zsírozott csapágyakkal mű‐
+ködő szivattyúk nem igényelnek rendszeres karban‐
+tartást.
+
+Újrakenhető csapágyakkal működő szivat‐
+tyúk
+
+FIGYELMEZTETÉS:
+Az első indítás után és az üzemi hőmérséklet eléré‐
+se után ellenőrizze az egység tengelykapcsolójának
+beállítását, lásd: A tengelykapcsoló ellenőrzése és
+igazítása 221. oldalon.
+
+• Kenés 4000 üzemóra után, de legalább évente
+egyszer. Először tisztítsa meg a zsírzószemeket.
+• HEGI 2 minőségű vagy azzal egyenértékű zsírt
+használjon.
+A kérésekkel vagy információkkal kapcsolatban for‐
+duljon a helyi kereskedelmi és szervizképviselethez.
+
+Motorcsapágyak
+
+A szivattyúzott folyadék megfelelő áramlásának és
+hőmérsékletének ellenőrzése a telepítő vagy a tulaj‐
+donos felelőssége.
+A szivattyú elindítását megelőzően győződjön meg a
+következőkről:
+
+Nagyjából öt év elteltével a motorcsapágyak zsírja
+annyira elöregszik, hogy a csapágyak cseréje lesz
+javasolt. A csapágyakat 25 000 üzemóra után vagy a
+motor beszállítója által közölt karbantartási utasítá‐
+sok szerint kell cserélni, amelyik előbb bekövetkezik.
+
+Kenhető csapágyakkal szerelt motor
+
+HU
+
+• A szivattyú megfelelően van a tápfeszültséghez
+csatlakoztatva
+• A szivattyú helyes feltöltésére vonatkozó útmuta‐
+tás a Szivattyú feltöltése című részben található
+(5. fejezet).
+• A szivattyú nyomóágán található zárószelep zár‐
+va van.
+
+1. Indítsa el a motort.
+
+Kövesse a motor szállítójának karbantartási utasítá‐
+sait.
+
+2. Fokozatosan nyissa meg a szivattyú nyomóoldali
+csővezetékén lévő elzárószelepet.
+
+Vonófej
+
+A várt üzemi feltételek mellett a szivattyúnak si‐
+mán és csendesen kell járnia. Ha nem így műkö‐
+dik, lásd Hibaelhárítás 224. oldalon.
+
+Rendszeresen, legalább évente egyszer ellenőrizze a
+csatlakozó elemek közötti hézagot. Javasoljuk, hogy
+1000 üzemóránként vagy három havonta ellenőrizze
+azt, attól függően, melyik a korábbi időpont.
+
+6  Karbantartás
+
+6.2  Az ellenőrzések listája
+
+Óvintézkedések
+
+A tengelykapcsoló ellen‐
+őrzése
+
+Áramütés veszélye!:
+Karbantartási és beszerelési műveletek
+végzése előtt az egységet áramtalanítsa,
+és biztosítja véletlen elindítás ellen.
+
+Ellenőrizze a tengelykap‐
+csoló rugalmas részeit.
+Ha kopásra utaló jeleket
+észlel, cserélje ki a fon‐
+tosabb részeket, és ellen‐
+őrizze az egytengelyűsé‐
+get.
+
+FIGYELMEZTETÉS:
+
+A mechanikus tömítés el‐
+lenőrzése
+
+Ellenőrizze, hogy nem
+szivárog-e a mechanikus
+tömítés. Ha szivárgást
+tapasztal, cserélje ki a
+mechanikus tömítést.
+
+• A karbantartási és javítási munkálato‐
+kat csak szakképzett személyzet vé‐
+gezheti.
+• Tartsa be a hatályos baleset-megelő‐
+zési előírásokat.
+
+223

@@ -1,0 +1,210 @@
+nl - Vertaling van origineel
+
+Oorzaak
+Oplossing
+
+Oorzaak
+Oplossing
+
+De motor raakt overbe‐
+last.
+
+Een kortsluiting in het
+elektrische systeem.
+
+Controleer het elektri‐
+sche systeem.
+
+Controleer de bedrĳfsom‐
+standigheden van de pomp
+en stel de beveiliging terug.
+
+7.7  De elektrische pomp start, maar
+het apparaat voor reststroom (RCD) is
+geactiveerd
+
+7.4  De elektrische pomp start, maar de
+thermische beveiliging wordt geactiveerd of
+de zekeringen branden korte tijd daarna door
+
+Oorzaak
+Oplossing
+
+Oorzaak
+Oplossing
+
+Er is een aard‐
+lek.
+
+Controleer de isolatie van de elek‐
+trische onderdelen van het sys‐
+teem.
+
+Bescherm het elektri‐
+sche besturingspaneel
+tegen de warmtebron
+en tegen direct zonlicht.
+
+Het elektrische bestu‐
+ringspaneel bevindt zich
+in een overmatig warme
+omgeving of wordt bloot‐
+gesteld aan direct zon‐
+licht.
+
+7.8  De pomp loopt maar levert te weinig of
+geen vloeistof
+
+Oorzaak
+Oplossing
+
+NL
+
+Controleer de bedrĳfs‐
+omstandigheden van de
+motor.
+
+• Laat lucht af
+
+Het voltage van de
+stroomvoorziening valt
+niet binnen de limieten
+van de motor.
+
+Er zit lucht in de
+pomp of de leidin‐
+gen.
+
+Controleer de
+
+Er ontbreekt een stroom‐
+fase.
+
+De pomp is niet
+goed aangezogen.
+
+• voeding
+• elektrische aanslui‐
+ting
+
+Stop de pomp en herhaal de
+aanzuigprocedure.
+Als het probleem aanhoudt:
+
+7.5  De elektrische pomp start, maar de
+thermische beveiliging wordt na wisselende
+tijden daarna geactiveerd
+
+• controleer of de mechani‐
+sche afdichting niet lekt.
+• controleer of de aanzuiglei‐
+ding stevig vastzit.
+• Vervang alle kleppen die lek‐
+ken.
+
+Oorzaak
+Oplossing
+
+Open de klep.
+
+De vernauwing
+aan de afvoerkant
+is te groot.
+
+Neem contact op met uw
+plaatselĳke verkoop- en ser‐
+vicevertegenwoordiger.
+
+Demonteer en reinig de klep‐
+pen.
+
+Kleppen zĳn geslo‐
+ten of deels geslo‐
+ten.
+
+Er bevinden zich
+vreemde voorwerpen
+(vaste bestanddelen
+of vezelachtige sub‐
+stanties) in de pump
+waardoor de waaier
+vastzit.
+
+De pomp is ver‐
+stopt.
+
+Neem contact op met uw plaat‐
+selĳke verkoop- en serviceverte‐
+genwoordiger.
+
+Controleer en reinig de leiding.
+
+De leiding is ver‐
+stopt.
+
+De leversnelheid van
+de pomp is hoger
+dan de limieten die
+op het typeplaatje ver‐
+meld staan.
+
+Sluit de ON-OFF-klep gedeel‐
+telĳk tot de afgiftesnelheid
+gelĳk is aan of lager is dan
+de limieten die op het gege‐
+vensplaatje staan aangege‐
+ven.
+
+Verander de positie van twee
+van de fasen op de contact‐
+doos van motor of in het elektri‐
+sche bedieningspaneel.
+
+De draairichting
+van de waaier is
+verkeerd.
+(driefasige versie)
+
+De pomp is overbe‐
+last omdat er vloei‐
+stof gepompt is die te
+dik en te viskeus is.
+
+Controleer de feitelĳke
+stroomvereisten op basis
+van de eigenschappen van
+de gepompte vloeistof en
+vervang de motor op basis
+hiervan.
+
+Controleer de bedrĳfsomstan‐
+digheden van de pomp. Doe zo
+nodig het volgende:
+
+De motorlagers zĳn
+versleten.
+
+De aanzuighoogte
+is te groot of
+de doorvoerweer‐
+stand in de aan‐
+voerleidingen is te
+groot.
+
+Neem contact op met uw
+plaatselĳke verkoop- en ser‐
+vicevertegenwoordiger.
+
+• Verminder de aanzuighoog‐
+te
+• Vergroot de diameter van de
+aanzuigleiding.
+
+7.9  De elektrische pomp stopt en draait
+vervolgens de verkeerde kant op
+
+7.6  De elektrische pomp start, maar de
+algemene beveiliging van het systeem is
+geactiveerd
+
+86

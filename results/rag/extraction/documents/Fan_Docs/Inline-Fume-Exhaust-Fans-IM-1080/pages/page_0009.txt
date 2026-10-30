@@ -1,0 +1,51 @@
+IM-1080
+
+NOTICE
+
+When installing the components, lifting lugs shall be utilized 
+for safe installation. Lifting lugs are designed for the weight 
+of the component they are welded to and should not be used 
+to lift assemblies.
+
+Fan and Windband Installation
+•	 Follow proper handling instructions as provided earlier.
+•	 Identify each fan and component and match the equipment up with 
+the supplied customer drawing(s).
+•	 Move the fan to the final mounting location.
+•	 Remove skid, crates and packing materials carefully.
+•	 For fans mounted directly to roof curb (supplied with a curb cap), 
+place the fan on properly installed roof curb. Fans mounted on a 
+mixing plenum box (supplied with mixing plenum box transition) require the installation of the mixing plenum box prior to installing 
+fan.
+•	 Fans shipped as a single unit shall be broken down into several parts. Install each item individually in the following order:
+1.	 Fan and curb cap onto the installed roof curb. 
+-or- 
+Fan and mixing plenum box transition onto installed mixing box.
+2.	 Stack extension, if in the scope of supply (TFE/QFE only)
+3.	 Windband
+
+Fan Housing Installation
+1.	 Place supplied gasket around the perimeter of the mixing plenum box or roof curb.
+2.	 Lower fan housing onto roof curb or mixing plenum box aligning the bolt holes on the two components. Allow for gasket to 
+compress naturally prior to securing fan housing to the adjacent component.
+3.	 Install 316 stainless steel hardware (provided) in all mounting holes. Use a commercially available anti-seizing compound 
+formulated for 316 stainless steel to hardware. Carefully level the unit on the roof curb or mixing plenum box. Be careful not to 
+force the fan to the mounting structure. This may cause misalignment, which may cause unsafe operating conditions, vibration and 
+premature failure.
+4.	 Check the alignment of the bearings. Shim or reposition the bearings if necessary.
+5.	 Check face alignment of sheaves on belt driven fans. Check tension of belts to see if it is sufficient. Sheaves on belt driven fans are 
+often provided with taper lock bushings. When tightening bushing bolts, proceed in a progressive manner to avoid cocking the 
+tapered surfaces between the bushing and the sheave.
+6.	 Check the tightness of the impeller on the shaft. Check the tightness of foundation bolts, motor bolts, sheaves and bearings. Make 
+sure there is no rubbing or binding and that the impeller-inlet cone clearances and overlap are correct.
+
+Stack Extension (QFE/TFE) Installation
+1.	 Place supplied gasket around the perimeter of the fan outlet.
+2.	 Lower the stack extension onto the fan housing aligning the bolt holes on the two components. Allow for gasket to compress 
+naturally prior to securing fan housing to the adjacent component.
+3.	 Install 316 stainless steel hardware (provided) in all mounting holes. Use a commercially available anti-seizing compound formulated 
+for 316 stainless steel to hardware.
+
+9
+
+Installation, Operation & Maintenance Manual

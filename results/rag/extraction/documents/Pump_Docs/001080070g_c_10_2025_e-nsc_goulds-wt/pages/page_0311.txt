@@ -1,0 +1,179 @@
+tr - Orijinal talimatlar
+
+1. Motoru başlatın.
+
+6.2  Denetim kontrol listesi
+
+2. Pompanın tahliye tarafındaki açma kapama valfi‐
+ni kademeli biçimde açın.
+
+Beklenen çalışma koşullarında, pompa sorunsuz
+ve sessiz çalışmalıdır. Aksi durumda, bkz. Sorun
+Giderme sayfa 307.
+
+Kaplini kontrol edin
+Kaplinin esnek eleman‐
+larını kontrol edin. Her‐
+hangi bir yıpranma belir‐
+tisi olan parçaları değişti‐
+rin ve hizalamayı kontrol
+edin.
+
+6  Bakım
+
+Mekanik keçeyi kontrol
+edin
+
+Önlemler
+
+Mekanik keçe sızıntısını
+kontrol edin. Sızıntı tespit
+edilirse, mekanik keçeyi
+değiştirin.
+
+Rulman keçelerini kontrol
+etme
+
+Elektrik Tehlikesi:
+Üniteyi monte etmeden veya ona bakım
+uygulamadan önce gücünü kapatıp fişini
+çekin.
+
+UYARI:
+
+Mil üzerine monte edilen
+eksenel keçe halkalarının
+doğru yerleştirildiğinden
+emin olun. Keçe ağzı ha‐
+fifçe temas ettirilmelidir.
+
+Sessiz çalışmayı kontrol
+edin
+
+Titreşim ölçümü araçları‐
+na sahip pompanın ses‐
+siz çalışmasını sık sık
+kontrol edin.
+
+6.3  Pompa parçalarını ayırın ve değiştirin
+
+• Bakım ve servis işleri sadece eğitim‐
+li ve uzman personel tarafından yapıl‐
+malıdır.
+• Geçerli kaza önleme yönetmeliklerine
+uyun.
+• Uygun ekipmanlar ve korumalar kulla‐
+nın.
+• Boşaltılan sıvının yaralanmalara veya
+maddi hasara yol açmasını önleyin.
+
+Yedek parçalar, pompanın montaj ve ayrılması ile ilgi‐
+li daha fazla bilgi için yerel satış ve servis temsilcisi‐
+ne başvurun.
+
+7  Sorun Giderme
+
+7.1  Kullanıcılar için sorun giderme
+Ana şalter açılır, fakat elektrikli pompa çalışmaz.
+
+Sebep
+Çözüm
+
+6.1  Servis
+Kullanıcı düzenli bakım tarihleri planlamak istiyorsa,
+bunlar pompalanan sıvının türüne ve pompanın çalış‐
+ma şartlarına bağlıdır.
+Rutin bakım veya servis hakkında bilgi almak veya
+diğer istekleriniz için Satış ve Servis Bölümüne baş‐
+vurun.
+Sıvı ucunu temizlemek ve/veya yıpranan parçaları
+değiştirmek için olağandışı bakım gerekebilir.
+
+Pompadaki termal ko‐
+ruyucu (varsa) tetik‐
+lenmiş.
+
+Pompa soğuyana kadar
+bekleyin. Termal koruyucu
+otomatik sıfırlanacaktır.
+
+Rulman ömrü için gresle yağlanan pompalar
+
+Rulman ömrü için gresle yağlanan pompalar, düzenli
+olarak bakım gerektirmez.
+
+Kuru çalışmaya karşı
+koruyucu cihaz tetik‐
+lenmiştir.
+
+Tankın sıvı seviyesini veya
+şebeke basıncını kontrol
+edin.
+
+Yeniden greslenebilir rulmanlara sahip olan
+pompalar
+
+Elektrikli pompa çalışır, fakat sonrasında termal ko‐
+ruma değişken süreyi tetikler.
+
+Sebep
+Çözüm
+
+• 4000 çalışma saatinden sonra ve en az yılda bir
+kere yeniden gresle yağlayın. Önce yağlama me‐
+melerini (SN) temizleyin.
+• NLGI 2. Sınıf veya dengi bir gres yağı kullanın.
+Herhangi bir talep veya bilgi için yerel satış ve servis
+temsilcisine başvurun.
+
+Satış ve Servis Bölümü‐
+ne başvurun.
+
+Motor rulmanları
+
+Pompanın içinde, perva‐
+nenin sıkışmasına neden
+olan yabancı cisimler (ka‐
+tı veya lifli maddeler) var.
+
+TR
+
+Daha yoğun ve viskoz sıvı
+pompaladığından pompa
+aşırı yüklü.
+
+Motor rulmanlarındaki gres, yaklaşık olarak beş yılın
+ardından oldukça eskir ve rulmanların değiştirilmesi
+önerilir. Rulmanlar hangisi daha önce gelirse, 25000
+çalışma saatinden sonra veya motor tedarikçisinin
+bakım talimatları doğrultusunda değiştirilmelidir.
+
+Pompalanan sıvının
+özelliklerine göre asıl
+güç gereksinimlerini
+kontrol edin ve Satış ve
+Servis Bölümüne başvu‐
+run.
+
+Yeniden greslenebilir rulmanlara sahip motor
+
+Motor tedarikçisinin bakım talimatlarını uygulayın.
+
+Kuplaj
+
+Pompa çalışıyor ancak çok az sıvı sevk ediyor veya
+hiç sevk etmiyor.
+
+Sebep
+Çözüm
+
+Pompa tıkanmıştır. Satış ve Servis Bölümüne baş‐
+
+Bağlantı elemanlarındaki boşluğu düzenli olarak yıl‐
+da en az bir kez kontrol edin. Hangisi önce gelirse,
+1000 çalışma saatinde bir veya her üç ayda bir kon‐
+trol etmenizi öneririz.
+
+vurun.
+
+307

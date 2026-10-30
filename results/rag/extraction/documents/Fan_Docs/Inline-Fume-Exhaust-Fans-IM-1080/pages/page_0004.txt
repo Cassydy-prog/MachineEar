@@ -1,0 +1,39 @@
+IM-1080
+
+Unit Storage
+
+If fan installation is to be delayed, store the unit in an environmentally stable and protected area. During storage, the fan should 
+not be subjected to vibration from external sources or bearing damage may occur. The unit should be reasonably protected from 
+any accidental impacts. Cover the fan to protect coatings and to prevent any foreign material or moisture from entering the inlet or 
+discharge. Take care to protect the motor, drives and bearings.
+
+Extended storage requires monthly inspections. Check for corrosion or damage to the unit and for debris within the fan.
+
+Bearings tend to take on moisture if the atmosphere in which they are stored is not at a constant temperature. To avoid corrosion, it is 
+necessary to keep the bearings full of grease and to rotate them periodically. Even when full of grease, bearings will take on moisture, 
+so it is necessary to purge the bearings with new grease to expel moisture every thirty days. It is recommended that the bearings be 
+purged with grease while being rotated by hand. Do not use high pressure greasers as they may ruin the bearing seals. Remove old/
+excess grease and regrease the bearing in accordance with the bearing manufacturer's instructions.
+
+The drives and belts should be removed if the fan is to be stored for a prolonged period. The drives should be labeled for service and 
+stored in a dry place. Belts should be removed, coiled without kinks, placed in a heavy carton and stored in a dry, well-ventilated place. 
+To prevent belt deterioration storage conditions should not exceed 85°F and 70% humidity. If belts show signs of deterioration, they 
+should be replaced prior to startup.
+
+Motors should be stored in a clean, dry, vibration-free location. The packaging should be opened up enough to allow air circulation 
+around the motor. The winding temperature should be kept slightly above that of the surroundings to prevent condensation. This can 
+be accomplished by energizing the internal heaters, if the motor is so equipped, or by using space heaters. If it is impossible to heat 
+the windings, the motor should be wrapped tightly with a waterproof material that also encloses several bags of desiccant. Replace 
+the desiccant regularly to prevent moisture problems. The motor rotor should also be rotated regularly (monthly) to assure the 
+bearing parts are well greased. Shafts on motors equipped with shaft grounding rings must remain rust free. Failure to do so renders 
+the grounding feature inoperative and may result in bearing failure under VFD operation. Consult the motor manufacturer for further 
+detail on motor storage and start up after longer periods of storage. It may be necessary to regrease the bearings. If the fan's bearings 
+or motor bearings have extended lubrication lines, it will be necessary to replace the grease by detaching from the motor/bearing 
+and purging the line with new grease.
+
+When the unit is removed from storage, all fan bearing grease should be purged and replenished with fresh grease as per the lubrication 
+decal. The motor should be measured to verify that the resistance is still at a satisfactory level compared to the value recorded prior to 
+storage.
+
+Installation, Operation & Maintenance Manual
+4

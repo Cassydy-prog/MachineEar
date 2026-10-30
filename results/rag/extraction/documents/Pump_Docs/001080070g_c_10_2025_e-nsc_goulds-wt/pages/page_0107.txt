@@ -1,0 +1,158 @@
+no - Oversettelse av opprinnelige instruksjoner
+
+Hf
+Samlede tap i meter som er forårsaket av at
+væsken renner gjennom pumpens sugerør
+
+Hv
+Damptrykket i meter som tilsvarer væsken
+Ts temperatur i °C
+
+0,5
+Anbefalt sikkerhetsmargin (m)
+
+Z
+Maksimal høyde der pumpen kan monteres
+(m)
+
+når væsken er ved maksimalt nivå, og pumpen er
+installert over væskekilden.
+• På-av-ventiler med passende størrelse monteres
+på sugerøret og på tilførselsrøret (nedstrøms fra
+tilbakeslagsventilen( for å regulere pumpekapasi‐
+teten for å kunne inspisere og vedlikeholde pum‐
+pen.
+• En tilbakeslagsventil må være installert på tilfør‐
+selspumpen slik at tilbakestrømning hindres når
+pumpen er slått av.
+
+(pb*10,2 - Z) må alltid være et positivt tall.
+Se Figur 12 på side 380 for å finne ytterligere infor‐
+masjon.
+
+MERK:
+Overskrid ikke pumpens sugekapasitet da dette kan
+forårsake kavitasjon og skade pumpen.
+
+4.1.2  Rørkrav
+
+ADVARSEL:
+Ikke bruk på-av-ventilen på utløpssiden
+i lukket stilling i mer enn noen få sekun‐
+der for å strupe pumpen. Dersom pum‐
+pen må brukes ved utløpssiden lukket i
+mer enn noen få sekunder, må en forbi‐
+kjøringskrets installeres for å hindre at
+væsken inni pumpen overopphetes.
+
+Forholdsregler
+
+Se Figur 13 på side 380 og Figur 14 på side 380 for å
+finne illustrasjoner som viser rørkravene.
+
+ADVARSEL:
+
+4.2  Elektriske krav
+
+NO
+
+• De gjeldende lokale forskriftene overstyrer disse
+spesifikke kravene.
+• Kontroller gjeldende lokale forskrifter når det gjel‐
+der brannslukkingssytemet (hydranter og sprin‐
+kleranlegg).
+
+• Bruk rør som egner seg for det maksi‐
+male arbeidstrykket til pumpen. Hvis
+du ikke tar hensyn til dette, kan det
+oppstå sprekker i systemet, noe som
+kan føre til fare for personskader.
+• Forviss deg om at alle tilkoblinger er
+utført av autoriserte installatører og i
+samsvar med gjeldende forskrifter.
+
+Sjekkliste i forbindelse med elektriske kob‐
+linger
+
+Kontroller at følgende krav oppfylles:
+
+• De eletriske ledningene er beskyttet mot høy tem‐
+peratur, vibrasjoner og kollisjoner.
+• Strømtilførselen har følgende:
+– En anordning for å verne mot kortslutning
+– En isolatorbryter på ledningsnettet med et
+
+MERK:
+Overhold alle forskrifter som utstedes av myndighe‐
+ter med juridiksjon og av firmaer som tar seg av
+den offentlige vanntilførselen, dersom pumpen er til‐
+koplet et offentlig vannsystem. Hvis det kreves, må
+du installere hensiktsmessig tilbakestrømssperre på
+sugesiden.
+
+kontaktgap på minst 3 mm
+
+Sjekkliste - rør
+
+Sjekkliste i forbindelse med det elektriske
+kontrollpanelet
+
+Kontroller at følgende krav oppfylles:
+
+MERK:
+Det elektriske kontrollpanelet må stemme overens
+med ytelsene til den elektriske pumpen. Feil kombi‐
+nasjoner kan føre til at motoren ikke beskyttes.
+
+Kontroller at følgende krav oppfylles:
+
+• Det elektriske kontrollpanelet må verne motoren
+mot overbelastning og kortslutning.
+• Innstaller riktig overbelastningsvern (varmerelé
+eller motorvern).
+
+Pumpetype
+Beskyttelse
+
+– Innebygd termisk
+
+Enkeltfaset standard
+elektrisk pumpe ≤ 2,2
+kW
+
+amperometrisk vern
+som tilbakestilles
+automatisk (motor‐
+vern)
+– Kortslutningsvern
+
+(må leveres av in‐
+stallatøren)17
+
+• Alle rørene støttes separat. Rørene må ikke påfø‐
+re belastning på enheten.
+• Fleksible rør eller koblinger brukes for å unngå
+overføring av pumpevibrasjoner til rørene og mot‐
+satt.
+• Bruk bøy med store vinkler, unngå bruken av vin‐
+kelstykker som forårsaker stor strømningsmot‐
+stand.
+• Sugerørene skal være fullstendig forseglet og
+lufttette.
+• Dersom pumpen brukes i en åpen krets, må su‐
+gerørets diameter passe installasjonsforholdene.
+Sugerøret må ikke være mindre enn diameteren
+på sugeporten.
+• Et eksentrisk overgangsstykke må monteres der‐
+som sugerøret må være større enn sugedelen på
+pumpen.
+• Dersom pumpen plasseres over væskenivået, in‐
+stalleres en fotventil i enden av sugerøret.
+• Fotventilen er helt nedsenket i væsken slik at det
+ikke kan komme inn luft gjennom sugevirvelen
+
+17
+smelter aM (motorstartende) eller magnettermisk bryter med kurve C og Icn ≥ 4,5 kA eller annen
+tilsvarende enhet.
+
+103

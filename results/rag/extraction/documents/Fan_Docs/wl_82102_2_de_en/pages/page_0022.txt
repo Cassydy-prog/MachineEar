@@ -1,0 +1,67 @@
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+The thinner the lubricant film the
+greater the influence on the surface. We
+refer to poor surface separation in this
+case, fig. 28.
+
+When the specific load is high in the
+contact areas, the tracks are bright, 
+pressure-polished and frequently shiny
+and are a clear contrast to the uncycled
+part of the raceways, fig. 29.
+
+Causes:
+– Insufficient lubricant quantity avail-
+
+able in the bearing
+– The viscosity of the lubricant is in-
+
+3.3.1.2 Unusual tracks
+Whether tracks are considered nor-
+mal or unusual depends greatly on the
+case of application. Bearings could have
+perfectly normal tracks, for example,
+which are an indication of mainly radial
+load. If, however, the bearings should be
+operating under axial preload, the tracks
+would be an indication of incorrect bear-
+ing mounting. Therefore, in order to as-
+sess the tracks correctly the conditions of
+application should be known. Some fun-
+damental symptoms can, however, al-
+ways be assessed by means of the tracks.
+
+• Tracks in the case of inadequate 
+lubrication
+
+sufficient for the operating tempera-
+ture and speed (see catalgoue "FAG
+Rolling Bearings", adjusted rating life
+calculation)
+
+Symptoms:
+
+Remedial measures:
+– Improve lubricant supply
+– Adapt lubricant viscosity to operating
+
+conditions
+– Use lubricant with approved additives
+– Use bearing parts with surface coating
+
+The visual pattern of the tracks and
+the surface as observed by microscope,
+that is, roughness, make it possible to
+draw conclusions about the quality of 
+lubrication. Dull roughened tracks arise
+from a non-separating lubricant film 
+under moderate load.
+
+29: Pressure-polished track
+28: Track with surface wear
+
+21
+FAG

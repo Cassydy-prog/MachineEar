@@ -1,0 +1,83 @@
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+nJ
+
+nJ
+
+P
+P
+
+25: Radial load of a radial bearing, e.g.
+deep groove ball bearing. Under
+point load and with a sufficiently 
+rigid housing, the track on the 
+stationary ring is shorter than half
+the raceway circumference in so far
+as there is no radial preload. Under
+circumferential load, the track
+spreads over the entire raceway 
+circumference. 
+a:
+Point load for the outer ring, 
+circumferential load for the inner
+ring
+b: Point load for the inner ring,
+
+circumferential load for the outer
+ring
+
+P
+P
+
+nA
+
+nA
+
+rotating inner ring
+constant load direction
+
+rotating inner ring
+circumferential load direction
+
+rotating outer ring
+circumferential load direction
+
+rotating outer ring
+constant load direction
+
+25a
+25b
+
+26: Axial load of a radial bearing, e.g. deep groove ball bearing. On the inner and
+outer rings the tracks spread off-centre over the entire raceway circumference.
+
+27: Combined radial-axial load of a deep groove ball bearing. In the case of the 
+inner ring (circumferential load) there is a constant wide track over the entire
+raceway circumference. The track on the outer ring (point load) is wider in the
+radial load zone than on the rest of the circumference.
+
+27
+26
+
+The arrangement of the tracks is based
+on the direction of the external load and
+the cycling conditions (point load or 
+circumferential load, axial load, com-
+bined load), figs. 25 to 27. A "target-
+actual" comparison would also reveal
+important information on unexpected
+load conditions, e.g. a disturbed floating
+bearing function. In the case of radial
+load exclusively, the origination of tracks
+in circumferential direction on the 
+stationary ring depends mainly on the
+amount of load, the size of the bearing
+clearance, and the rigidity of the mating
+parts. The greater the load and smaller
+the clearance as well as the softer the
+housing, the longer the load zone is and
+thus the track also.
+
+FAG
+20

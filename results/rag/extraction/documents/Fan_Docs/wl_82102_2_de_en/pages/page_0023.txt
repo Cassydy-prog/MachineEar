@@ -1,0 +1,75 @@
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+Symptoms with liquid contamination:
+
+• Tracks in the case of contamination in
+bearing or lubricant
+
+Causes:
+– Inadequate sealing
+– Mounting conditions not clean
+– Production residues, e.g. foundry
+
+We must first differentiate between
+solid and liquid contamination.
+
+sand
+– Temperature differences (condensa-
+
+Symptoms with solid contamination:
+
+tion of water)
+– Dirty oil
+
+Remedial measures:
+– Improve sealing constructively
+– Clean mounting and well washed
+
+Water is one of the main liquid conta-
+minants. It can be taken up by the lubri-
+cant in some small amounts. It degrades
+the effect of lubrication, however, and
+often leads to tracks like those illustrated
+in fig. 29. When there are large amounts
+of moisture in the bearing dull tracks 
+arise. Pressure-polished tracks with 
+fatigue damage result also from corro-
+sion or high load, please refer to "Fatigue
+as a result of poor lubrication" in section
+3.3.2.1.
+
+mating parts, coat if necessary
+– Rinse out entire oil system before
+
+taking into operation (before first
+bearing rotation!)
+
+Indentations are the result of foreign
+particles being cycled on the raceway. By
+means of the indentations, microscopic
+inspection of the tracks allows the differ-
+entiation between particles made of soft
+material, hardened steel and hard mine-
+rals, figs. 30, 31, 32. Foreign particles
+which are particularly large and hard are
+a hazard to the life. You can find more
+detail on this in the description of 
+fatigue damage, please refer also to 
+"Fatigue resulting from  the cycling of
+foreign particles" in section 3.3.2.1. 
+A large amount of small hard foreign
+particles leads to roughening as in fig. 28
+and accelerates abrasive wear.
+
+30: Indentations of soft foreign 
+particles
+
+31: Indentations of foreign particles
+made of hardened steel
+
+32: Indentations of hard mineral 
+foreign particles
+
+FAG
+22

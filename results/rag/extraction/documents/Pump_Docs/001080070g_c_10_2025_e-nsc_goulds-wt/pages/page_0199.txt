@@ -1,0 +1,151 @@
+cs - Překlad originálu
+
+0,5
+Doporučená bezpečnostní rezerva (m)
+
+Z
+Maximální výška, do které lze instalovat
+čerpadlo (m)
+
+regulaci výkonu čerpadla, kontrolu čerpadla a je‐
+ho údržbu.
+• Aby nedošlo ke zpětnému toku do čerpadla, když
+je vypnuté, je na výtlačném potrubí nainstalován
+pojistný ventil.
+
+(pb * 10,2 - Z) musí být vždy kladné číslo.
+Více informací viz Obrázek 12 na straně 380.
+
+OZNÁMENÍ:
+Nepřekračujte sací mohutnost čerpadel, protože by
+mohlo dojít ke kavitaci a poškození čerpadla.
+
+4.1.2  Požadavky na potrubí
+
+UPOZORNĚNÍ:
+Při regulaci odtoku z čerpadla nezavírejte
+uzavírací ventil na výtlačné straně na více
+než několik vteřin. Pokud musí čerpadlo
+pracovat s výtlačnou stranou uzavřenou
+po delší dobu než pár vteřin, je nutné na‐
+instalovat obtok, aby se zabránilo přehří‐
+vání kapaliny uvnitř čerpadla.
+
+Bezpečnostní opatření
+
+UPOZORNĚNÍ:
+
+Ilustrace týkající se požadavků na potrubí naleznete
+na Obrázek 13 na straně 380 a Obrázek 14 na straně
+380.
+
+4.2  Elektrické požadavky
+
+• Platné místní předpisy mají přednost před těmito
+stanovenými požadavky.
+• V případě protipožárních systémů (hydranty
+a sprinklery) zkontrolujte platné místní předpisy.
+
+• Použijte potrubí vhodné pro maximál‐
+ní pracovní tlak čerpadla. Jinak by
+mohlo dojít k prasknutí systému s ri‐
+zikem úrazu.
+• Ujistěte se, že veškeré zapojení bylo
+provedeno kvalifikovanými montážní‐
+mi techniky a je v souladu s platnými
+předpisy.
+
+Kontrolní seznam pro elektrická připojení
+
+Zkontrolujte, zda jsou splněny následující požadav‐
+ky:
+
+OZNÁMENÍ:
+Pokud je čerpadlo připojeno k veřejnému vodovod‐
+nímu systému, dodržujte veškeré předpisy vydané
+pravomocnými orgány a společnostmi spravujícími
+veřejné zásobování vodou. Pokud je to vyžadováno,
+namontujte na sací stranu vhodnou zpětnou klapku.
+
+• Elektrické vedení je chráněno před vysokými te‐
+plotami, vibracemi a nárazy.
+• Zdroj napájení je vybaven:
+– zařízením na ochranu před zkratem,
+– přepínačem izolátoru hlavního vedení se vzdá‐
+
+leností mezi kontakty o šířce alespoň 3 mm.
+
+Kontrolní seznam pro potrubí
+
+Zkontrolujte, zda jsou splněny následující požadav‐
+ky:
+
+Kontrolní seznam pro elektrický ovládací
+panel
+
+CS
+
+OZNÁMENÍ:
+Ovládací panel musí odpovídat jmenovitému výkonu
+elektrického čerpadla. Při nesprávné kombinaci ne‐
+musí být zaručena ochrana motoru.
+
+Zkontrolujte, zda jsou splněny následující požadav‐
+ky:
+
+• Ovládací panel chrání motor před přetížením a
+zkratem.
+• Nainstalujte odpovídající ochranu před přetíže‐
+ním (tepelné relé nebo nadproudové relé).
+
+Typ čerpadla
+Ochrana
+
+– Vestavěná tepel‐
+
+Standardní jednofázové
+elektrické čerpadlo ≤
+2,2 kW
+
+ně amperometrická
+ochrana s automa‐
+tickým resetováním
+(nadproudové relé)
+– Ochrana proti zkra‐
+
+tu (musí být dodána
+instalátorem)33
+
+• Potrubí má vlastní oporu a nepředstavuje pro čer‐
+padlo zátěž.
+• Aby se zabránilo přenosu vibrací čerpadla na po‐
+trubí a naopak, používají se ohebné trubky nebo
+svazky.
+• Používejte pozvolné ohyby, jelikož použití trubko‐
+vých kolen může vést k nadměrnému odporu pro‐
+udění.
+• Sací potrubí je dokonale utěsněné a vzduchotěs‐
+né.
+• Pokud je čerpadlo používáno v otevřeném systé‐
+mu, průměr sacího potrubí odpovídá podmínkám
+instalace. Průměr sacího potrubí nesmí být men‐
+ší než průměr sacího otvoru.
+• Pokud průměr sacího potrubí musí být větší než
+průměr sací strany čerpadla, je nainstalována
+excentrická přechodka.
+• Pokud je čerpadlo umístěno nad hladinou kapali‐
+ny, je na konec sacího potrubí nainstalován patní
+ventil.
+• Patní ventil je zcela ponořen do kapaliny, takže
+sacím vírem nemůže vstupovat vzduch ve chvíli,
+kdy je kapalina na minimální úrovni a čerpadlo je
+umístěno nad zdrojem kapaliny.
+• Ventily odpovídající velikosti jsou nainstalovány
+na sacím potrubí a na výtlačném potrubí (smě‐
+rem po proudu k pojistnému ventilu) a umožňují
+
+33
+pojistek aM (rozběh motoru) nebo magneto-teplotního spínače s křivkou C a Icn ≥ 4,5 kA nebo jiným
+ekvivalentním zařízením.
+
+195

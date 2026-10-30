@@ -1,0 +1,210 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+Polski
+
+Čeština
+
+slovenský
+
+1. Typ čerpadla
+2. a. = Sériové číslo + datum vý‐
+roby; b. = Rok výroby + číslo
+objednávky + číslo pozice ob‐
+jednávky
+3. Maximální provozní tlak
+4. Maximální teplota provozní
+kapaliny
+5. Minimální teplota provozní ka‐
+paliny
+6. Kód čerpadla
+7. Průměr plného oběžného kola
+(pouze pro plná oběžná kola)
+8. Průměr zmenšeného oběžné‐
+ho kola (pouze pro oříznutá
+oběžná kola)
+9. Průtoková rychlost
+10. Rozsah dopravní výšky
+11. Otáčky
+12. Nominální nebo maximální
+výkon čerpadla (jednotky
+elektrického čerpadla); maxi‐
+mální příkon čerpadla (čerpa‐
+dlo)
+13. Index minimální účinnosti
+14. Hydraulická účinnost v bodě
+s nejlepší účinností (pouze
+pro oříznutá oběžná kola)
+15. Hmotnost
+
+1. Typ čerpadla
+2. a. = sériové číslo + dátum vý‐
+roby; b. = Rok výroby + číslo
+objednávky + číslo objednáv‐
+ky
+3. Maximálny prevádzkový tlak
+4. Maximálna prevádzková te‐
+plota kvapaliny
+5. Minimálna prevádzková teplo‐
+ta kvapaliny
+6. Kód čerpadla
+7. Úplný rozmer obežného kole‐
+sa (len pre úplné obežné kole‐
+sá)
+8. Zmenšený priemer obežného
+kolesa (len pre ozubené obež‐
+né kolesá)
+9. Rozsah prietoku
+10. Rozsah vodnej nádrže
+11. Otáčky
+12. Menovitý alebo maximálny vý‐
+kon čerpadla (elektrické čer‐
+pacie zariadenie), maximálny
+príkon čerpadla (čerpadlo)
+13. Index minimálnej efektivity
+14. Hydraulická efektivita v najle‐
+pšom bode efektivity (len pre
+ozubené obežné kolesá)
+15. Hmotnosť
+
+1. Typ pompy
+2. a. = Numer seryjny + data pro‐
+dukcji; b. = Rok produkcji +
+numer zamówienia + numer
+pozycji zamówienia
+3. Maksymalne ciśnienie roboc‐
+ze
+4. Maksymalna temperatura
+cieczy podczas pracy
+5. Minimalna robocza tempera‐
+tura cieczy
+6. Kod pompy
+7. Średnica pełnego wirnika (tyl‐
+ko wirniki pełne)
+8. Średnica wirnika zredukowa‐
+nego (tylko wirniki zreduko‐
+wane)
+9. Zakres natężenia przepływu
+10. Zakres wysokości podnosze‐
+nia
+11. Prędkość
+12. Znamionowa lub maksymal‐
+na moc pompy (zespół pom‐
+py elektrycznej); maksymalna
+przyjęta moc pompy (pompa)
+13. Indeks wydajności minimalnej
+14. Wydajność hydrauliczna w
+punkcie najwyższej wydajno‐
+ści (tylko wirniki zredukowa‐
+ne)
+15. Masa
+
+Magyar
+
+Română
+
+български
+
+APPX
+
+1. Szivattyú típusa
+2. a. = Sorozatszám + gyártás
+dátuma; b. = Gyártás éve +
+rendelés száma + rendelési
+pozíció száma
+3. Maximális üzemi nyomás
+4. Maximális üzemi folyadék-hő‐
+mérséklet
+5. Minimális üzemi folyadék-hő‐
+mérséklet
+6. Szivattyú kódja
+7. Teljes járókerék átmérője
+(csak teljes járókerekek ese‐
+tén)
+8. Csökkentett járókerék átmé‐
+rő (csak levágott járókerekek
+esetén)
+9. Kapacitástartomány
+10. Nyomómagasság-tartomány
+11. Fordulatszám
+12. Névleges vagy maximális
+szivattyúteljesítmény (elektro‐
+mos szivattyúegység); maxi‐
+mális elnyelt szivattyúteljesít‐
+mény (szivattyú)
+13. Minimális hatékonysági index
+14. Hidraulikus hatékonyság a
+legjobb hatékonysági ponton
+(csak a levágott járókerekek
+esetén)
+15. Tömeg
+
+1. Tip pompă
+2. a. = Număr de serie + data fa‐
+bricației; b. = Anul producției
++ numărul comenzii + numă‐
+rul poziției comenzii
+3. Presiune de funcționare maxi‐
+mă
+4. Temperatură maximă lichid în
+stare de funcționare
+5. Temperatură minimă lichid în
+stare de funcționare
+6. Cod pompă
+7. Diametru rotor cu pale de di‐
+mensiuni complete (doar pen‐
+tru rotoarele cu pale de di‐
+mensiuni complete)
+8. Diametru rotor cu pale de di‐
+mensiuni reduse (doar pentru
+rotoarele cu pale cu diametru
+exterior redus)
+9. Interval debit
+10. Interval presiune hidrostatică
+11. Viteză
+12. Putere nominală sau maximă
+a pompei (unitate de pompa‐
+re electrică); putere maximă
+absorbită a pompei (pompă)
+13. Indice de eficienţă minimă
+14. Eficienţă hidraulică în punctul
+de eficienţă optimă (doar pen‐
+tru rotoarele cu pale cu dia‐
+metru exterior redus
+15. Greutate
+
+1. Тип помпа
+2. а. = Сериен номер + дата на
+производство; б. = Година
+на производство + номер
+на поръчка + номер на
+позиция на поръчка
+3. Максимално работно
+налягане
+4. Максимална работна
+температура на течността
+5. Минимална работна
+температура на течността
+6. Код на помпата
+7. Диаметър на целия ротор
+(само за цели ротори)
+8. Диаметър на намаления
+ротор (само за изрязани
+ротори)
+9. Диапазон на дебита
+10. Диапазон на напора
+11. Скорост
+12. Номинална или
+максимална мощност на
+помпата (електрическа
+помпа); максимална
+използвана мощност на
+помпата (помпа)
+13. Индекс на минимална
+ефективност
+14. Хидравлична ефективност
+в точката на най-добра
+ефективност (само за
+изрязани ротори)
+15. Тегло
+
+349

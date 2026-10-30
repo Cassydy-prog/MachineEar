@@ -1,0 +1,146 @@
+sk - Preklad originálu
+
+POZNÁMKA:
+Zložený plechový základ nenapĺňajte Obrázok 26 na
+strane 397 betónom.
+
+POZNÁMKA:
+Ak je spojka nesprávne zarovnaná, môže spôsobiť
+vibrácie, ktoré môžu viesť k predčasnému opotrebo‐
+vaniu rotujúcich komponentov jednotky.
+
+4.3.2  Kontrolný zoznam systému potrubia
+Skontrolujte, či boli dodržané tieto body:
+
+Skontrolujte zarovnanie spojky jednotky po nasle‐
+dovnom:
+
+• Preprava a inštalácia
+• Prvotné spustenie
+• Dosiahnutie prevádzkovej teploty.
+Vykonajte kontrolu, aj keď bola jednotka dodávaná
+úplne zmontovaná na ráme.
+
+Kontrola zarovnania spojky s pravítkom a
+mierkou
+
+Informácie o zarovnaní štandardnej spojky (A) a
+spojky s dištančnou vložkou (B) nájdete v časti Obrá‐
+zok 27 na strane 397
+
+• V prípade inštalácie nasávacieho zdviháka musí
+mať sacie potrubie stúpajúci sklon k jednotke,
+ktorý presahuje 2 %.
+• Nominálne priemery potrubného systému musia
+byť aspoň rovné nominálnym priemerom otvorov
+čerpadla.
+• Nezávisle podoprite potrubný systém, aby ste ne‐
+zaťažili zariadenie.
+• Pred ich pripojením k jednotke prepláchnite po‐
+trubný systém, aby ste odstránili všetky zvyšky
+zvarov, usadeniny a nečistoty. V prípade potreby
+namontujte filter.
+
+1. Odstráňte ochranu spojky.
+
+UPOZORNENIE:
+Zvarové húsenice, šupiny a iné nečistoty
+v potrubí poškodzujú čerpadlo.
+
+POZNÁMKA:
+Ochranou môže byť drôtená sieťovina (pozri Ob‐
+rázok 18 na strane 386) alebo plech (pozri Obrá‐
+zok 19 na strane 388)
+
+4.3.3  Zarovnanie spojov
+
+Odstránenie ochrany spojky
+
+UPOZORNENIE:
+Nikdy neuvádzajte čerpadlo do prevádz‐
+ky bez správne nainštalovaného ochran‐
+ného krytu spojky.
+
+Typ ochrany: drôtená sieťovina
+Informácie nájdete v časti Obrázok 18 na strane 386.
+
+1. Odskrutkujte skrutky (2).
+2. Odstráňte drôtenú sieť. (1).
+Typ ochrany: plech
+Informácie nájdete v časti Obrázok 19 na strane 388.
+
+SK
+
+2. Na polovičné spojky umiestnite pravítko.
+3. Zmerajte vzdialenosti zobrazené na obrázku.
+4. Ručne otočte spojku v krokoch po 90° a zopakuj‐
+te meranie.
+5. Krok 4 niekoľkokrát zopakujte: radiálne zarovna‐
+nie je správne, ak sú vzdialenosti rovnaké na
+všetkých miestach obvodu, v rámci prípustnej od‐
+chýlky; pozri Tabuľka 28 na strane 399. V opač‐
+nom prípade si pozrite časť Zarovnanie spojky s
+vyrovnávacími podložkami na strane 209.
+6. Pomocou mierky skontrolujte vzdialenosť medzi
+polovičnými spojkami.
+7. Ručne otočte spojku v krokoch po 90° a znova
+skontrolujte vzdialenosť.
+8. Krok 7 niekoľkokrát zopakujte: axiálne zarovnanie
+je správne, ak sú vzdialenosti rovnaké na všet‐
+kých miestach obvodu, v rámci prípustnej odchýl‐
+ky; pozri Tabuľka 28 na strane 399. V opačnom
+prípade Zarovnanie spojky s vyrovnávacími pod‐
+ložkami na strane 209.
+9. Opäť nasaďte ochranu spojky.
+• M5 → 3 Nm (27 lbf·in) ± 15 %
+• M6 → 5 Nm (44 lbf·in) ± 15 %.
+
+Kontrola zarovnania spoja s laserovým vyrov‐
+návačom
+
+1. Odskrutkujte uzatváracie skrutky polovičných
+škrupín (5).
+2. Odskrutkujte upevňovacie skrutky zaisťujúce hor‐
+nú polovicu krytu (3).
+3. Odstráňte hornú polovicu krytu ochrany spojky
+(1).
+4. Odskrutkujte upevňovacie skrutky zaisťujúce
+spodnú polovicu krytu (4).
+5. Odstráňte spodnú polovicu krytu ochrany spojky
+(2).
+6. Otvorte a nadvihnite podporný/nastavovací krú‐
+žok (6).
+
+Kontrola a zarovnanie spoja
+
+Môžete skontrolovať zarovnanie spojky s laserovým
+vyrovnávačom: pozrite si návod na použitie vyrovná‐
+vača.
+
+Zarovnanie spojky s vyrovnávacími podložka‐
+mi
+
+POZNÁMKA:
+V horúcich prevádzkových podmienkach znova skon‐
+trolujte zarovnanie spojky.
+
+Informácie o tom, kde pripojiť čerpadlo a motor k
+základni a kde vložiť dodané vyrovnávacie podložky,
+Obrázok 17 na strane 384 nájdete v časti .
+
+POZNÁMKA:
+Zaistite, aby sa spojka dala ľahko otáčať rukou a aby
+medzi zubami vznikla určitá hra.
+
+POZNÁMKA:
+Nesprávne zarovnanie jednotky môže spôsobiť váž‐
+ne poškodenie systému.
+
+1. Odskrutkujte skrutky zaisťujúce čerpadlo a motor
+k základni.
+2. Mierne nadvihnite čerpadlo a motor.
+3. Vložte vyrovnávacie podložky medzi základňu a
+nohy čerpadla a motor na jeden alebo viac uvede‐
+ných bodov.
+
+209

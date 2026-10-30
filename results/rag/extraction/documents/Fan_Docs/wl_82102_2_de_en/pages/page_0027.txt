@@ -1,0 +1,54 @@
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+• Tracks with misalignment
+Symptoms:
+
+Remedial measures:
+– Observe mounting specifications re-
+
+Causes:
+– Shaft deflection
+– Misaligned housing halves or
+
+plummer block housings
+– Out-of-square abutment surfaces
+– Dirt between abutment surfaces and
+
+garding permissible tilting, see FAG
+Catalogue
+– Ensure cleanliness during mounting
+– Set suitable bearing clearance
+
+bearing rings during mounting
+– Too much bearing clearance in com-
+
+In the case of ball bearings the track
+of the stationary ring does not run verti-
+cally but diagonally to the axial direc-
+tion, figs. 38 and 39. With roller bear-
+ings the track is more distinct on one
+edge of the raceway than on the other
+under tilting, fig. 40.
+
+bination with moment load
+
+38: Misaligned bearings
+a:
+Tilting of the inner rings relative to the outer rings in the case of misaligned housing seats
+b: Tilting of the inner rings relative to each other in the case of shaft deflection
+c:
+Tracks of a misaligned deep groove ball bearing with rotating inner ring
+d: Tracks of a misaligned deep groove ball bearing with rotating outer ring
+
+F
+F
+
+b
+a
+
+c
+d
+
+FAG
+26

@@ -1,0 +1,219 @@
+et - Originaali tõlkimine
+
+Põhjus
+Kõrvaldamise abinõud
+
+Pump töötab, kuid pumpab liiga vähe vedelikku või ei
+pumpa üldse
+
+ku otsese päikeseval‐
+gusega.
+
+Põhjus
+Kõrvaldamise abinõud
+
+Kontrollige mootori talitlus‐
+tingimusi.
+
+Pump on um‐
+mistunud.
+
+Pöörduge müügi- ja teeninduso‐
+sakonna poole.
+
+Toiteallika pinge on
+väljaspool mootori
+tööpiiranguid.
+
+Puudub töötakt.
+Kontrollige
+
+Allolevas tabelis toodud juhised rikkeotsinguks on
+mõeldud ainult paigaldajatele.
+
+• toiteallikat;
+• elektriühendust.
+
+7.2  Pealüliti on sees, aga elektripump ei
+käivitu
+
+7.5  Elektripump käivitub, aga
+temperatuurikaitse lülitub eri aegadel välja
+
+Põhjus
+Kõrvaldamise abinõud
+
+Põhjus
+Kõrvaldamise abinõud
+
+Energiavarustus
+puudub.
+
+• Taastage energiavarustus.
+• Veenduge, et kõik toitealli‐
+ka elektriühendused olek‐
+sid vigastamata.
+
+Võtke ühendust kohaliku
+müügi- ja hooldusesinduse‐
+ga.
+
+Pumbas on võõrke‐
+had (tahked või kiu‐
+dained), mis on um‐
+mistanud tiiviku.
+
+Oodake pumba jahtumiseni.
+Temperatuurikaitse lähtesta‐
+takse automaatselt.
+
+Pumbas olev tempe‐
+ratuurikaitse (kui on
+olemas) on lahti tul‐
+nud.
+
+Pumba väljalaskekii‐
+rus on suurem kui
+andmesildil määrat‐
+letud piirmäärad.
+
+Lähtestage temperatuurikait‐
+se.
+
+Sulgege osaliselt allavoolu
+ON-OFF klapp, kuni väljalas‐
+kekiirus on võrdne või väik‐
+sem andmesildil määratletud
+piirväärtustest.
+
+Elektrijuhtpaneelis
+olev termorelee või
+mootorikaitse on
+lahti tulnud.
+
+Kontrollige:
+
+Kontrollige tegelikke, pumba‐
+tava vedeliku omaduste põhi‐
+seid toitenõudeid ja vahetage
+mootor sellele vastavalt välja.
+
+ET
+
+Kuivalt töötamise
+kaitseseade on lahti
+tulnud.
+
+Pumbal on ülekoor‐
+mus, sest see pum‐
+pab liiga tihedat
+ja viskoosset vede‐
+likku.
+
+• vedelikutaset mahutis või
+toruvõrgustikus;
+• kaitseseadist ja selle
+ühenduskaableid.
+
+Mootori laagrid on
+kulunud.
+
+Võtke ühendust kohaliku
+müügi- ja hooldusesinduse‐
+ga.
+
+Vahetage kaitsmed välja.
+
+Pumba kaitsmed või
+abivooluringid on lä‐
+bi põlenud.
+
+7.6  Elektripump käivitub, aga süsteemi
+üldkaitse on aktiivne
+
+Põhjus
+Kõrvaldamise abinõud
+
+7.3  Elektripump käivitub, aga kohe pärast
+seda lülitub temperatuurikaitse välja või
+kaitsmed põlevad läbi
+
+Kontrollige elektrisüsteemi.
+
+Elektrisüsteemis on lü‐
+his.
+
+Põhjus
+Kõrvaldamise abinõud
+
+Toitekaabel on kah‐
+justatud.
+
+Kontrollige kaablit ja vajadusel
+vahetage välja.
+
+7.7  Elektripump käivitub, aga süsteemi
+residuaalvoolu seade (RCD) on aktiivne
+
+Kontrollige komponente ja va‐
+jadusel vahetage välja.
+
+Põhjus
+Kõrvaldamise abinõud
+
+Temperatuurikaitse
+või kaitsmed ei so‐
+bi mootori vooluga.
+
+Tekkinud on
+maanduse leke.
+
+Kontrollige elektrisüsteemi
+komponentide isolatsiooni.
+
+Elektrimootoris te‐
+kib lühis.
+
+Kontrollige komponente ja va‐
+jadusel vahetage välja.
+
+Mootor on ülekoor‐
+muses.
+
+Kontrollige pumba talitlustingi‐
+musi ja lähtestage kaitse.
+
+7.8  Pump töötab, kuid pumpab liiga vähe
+vedelikku või ei pumpa üldse
+
+Põhjus
+Kõrvaldamise abinõud
+
+• Laske õhk välja.
+
+7.4  Elektripump käivitub, aga mõne aja
+pärast lülitub temperatuurikaitse välja või
+kaitsmed põlevad läbi
+
+Pumbas või torusti‐
+kus on õhku.
+
+Põhjus
+Kõrvaldamise abinõud
+
+Pump ei ole õigesti
+eeltäidetud.
+
+Seisake pump ja korrake eel‐
+täitmisprotseduuri.
+Kui probleem püsib:
+
+Elektripaneel asub liig‐
+se kuumusega piirkon‐
+nas või puutub kok‐
+
+Kaitske elektripaneeli soo‐
+jusallika ja otsese päikese‐
+valguse eest.
+
+153

@@ -1,0 +1,1902 @@
+=== PDF page 1 of 16 | native ===
+
+Document 463687
+
+®
+
+Model IP
+Industrial Process Fans
+
+Installation, Operation and Maintenance Manual
+
+Please read and save these instructions for future reference. Read carefully before attempting to assemble, install, 
+operate or maintain the product described. Protect yourself and others by observing all safety information. Failure 
+to comply with these instructions will result in voiding of the product warranty and may result in personal injury 
+and/or property damage.
+
+IP
+
+General Safety Information
+
+DANGER
+
+Always disconnect, lock and tag power source before 
+installing or servicing. Failure to disconnect power 
+source can result in fire, shock or serious injury.
+
+Only qualified personnel should install this fan. 
+Personnel should have a clear understanding of these 
+instructions and should be aware of general safety 
+precautions. Improper installation can result in electric 
+shock, possible injury due to coming in contact with 
+moving parts, as well as other potential hazards. 
+Other considerations may be required if high winds 
+or seismic activity are present. If more information is 
+needed, contact a licensed professional engineer before 
+moving forward.
+
+CAUTION
+
+When servicing the fan, motor may be hot enough 
+to cause pain or injury. Allow motor to cool before 
+servicing.
+
+CAUTION
+
+Precaution should be taken in explosive atmospheres.
+
+DANGER
+
+Pour écarter les risques d’incendie, de choc électrique 
+ou de blessure grave, veiller à toujours débrancher, 
+verrouiller et étiqueter la source de courant avant 
+l’installation ou l’entretien.
+
+ATTENTION
+
+Lors de toute intervention sur la soufflante, le moteur 
+peut être suffisamment chaud pour provoquer une 
+douleur voire une blessure. Laisser le moteur refroidir 
+avant toute maintenance.
+
+ATTENTION
+
+1.	 Follow all local electrical and safety codes, as well as 
+the National Electrical Code (NEC), the National Fire 
+Protection Agency (NFPA), where applicable. Follow 
+the Canadian Electric Code (CEC) in Canada.
+2.	 The rotation of the wheel is critical. It must be 
+free to rotate without striking or rubbing any 
+stationary objects.
+3.	 Motor must be securely and adequately grounded.
+4.	 Do not spin fan wheel faster than max cataloged fan 
+rpm. Adjustments to fan speed significantly effects 
+motor load. If the fan RPM is changed, the motor 
+current should be checked to make sure it is not 
+exceeding the motor nameplate amps.
+5.	 Do not allow the power cable to kink or come in 
+contact with oil, grease, hot surfaces or chemicals. 
+Replace cord immediately if damaged.
+6.	 Verify that the power source is compatible with 
+the equipment.
+7.	 Never open access doors to a duct while the fan 
+is running.
+
+Faire preuve de précaution dans les atmosphères 
+explosives.
+
+Industrial Process Fans
+1
+®
+
+
+
+=== PDF page 2 of 16 | native ===
+
+Receiving
+
+should be evenly maintained between 30°F to 110°F 
+(-1°C to 43°C). Wide temperature swings may cause 
+condensation and “sweating” of metal parts. All 
+accessories must be stored indoors in a clean, dry 
+atmosphere. 
+Remove any accumulations of dirt, water, ice or snow 
+and wipe dry before moving to indoor storage. To avoid 
+“sweating” of metal parts allow cold parts to reach room 
+temperature. To dry parts and packages use a portable 
+electric heater to get rid of any moisture build up. Leave 
+coverings loose to permit air circulation and to allow for 
+periodic inspection.
+
+Upon receiving the product check to make sure all items 
+are accounted for by referencing the delivery receipt or 
+packing list. Inspect each crate for shipping damage 
+before accepting delivery. Notify the carrier if any 
+damage is noticed. The customer will make a notation 
+of damage (or shortage of items) on the delivery 
+receipt acknowledging any damage to the product. 
+All damage should be noted on all the copies of the 
+bill of lading which is countersigned by the delivering 
+carrier. If damaged, immediately contact your local 
+representative. Any physical damage to the unit after 
+acceptance is not the responsibility of manufacturer.
+Unpacking
+
+Verify that all required parts and the correct quantity 
+of each item have been received. If any items are 
+missing, report shortages to your local representative to 
+arrange for obtaining missing parts. Sometimes it is not 
+possible that all items for the unit be shipped together 
+due to availability of transportation and truck space. 
+Confirmation of shipment(s) must be limited to only 
+items on the bill of lading.
+Handling
+
+The unit should be stored at least 3½ in. (89 mm) off the 
+floor on wooden blocks covered with moisture proof 
+paper or polyethylene sheathing. Aisles between parts 
+and along all walls should be provided to permit air 
+circulation and space for inspection.
+OUTDOOR - Fans designed for outdoor applications 
+may be stored outdoors, if absolutely necessary. Roads 
+or aisles for portable cranes and hauling equipment 
+are needed.
+The fan should be placed on a level surface to prevent 
+water from leaking into the fan. The fan should be 
+elevated on an adequate number of wooden blocks so 
+that it is above water and snow levels and has enough 
+blocking to prevent it from settling into soft ground. 
+Locate parts far enough apart to permit air circulation, 
+sunlight, and space for periodic inspection. To minimize 
+water accumulation, place all fan parts on blocking 
+supports so that rain water will run off.
+
+Do not cover parts with plastic film or tarps as these 
+cause condensation of moisture from the air passing 
+through heating and cooling cycles.
+
+Fans are to be rigged and moved by the lifting brackets 
+provided or by the skid when a forklift is used. Location 
+of brackets varies by model and size. Handle in such 
+a manner as to keep from scratching or chipping the 
+coating. Damaged finish may reduce the ability of the 
+fan to resist corrosion. Fans should never be lifted by 
+the shaft, fan housing, motor, belt guard or accessories.
+Storage
+
+•		Rotate fan wheel monthly and purge bearings once 
+every three months.
+
+•		Energize fan motor once every three months.
+
+Fan wheels should be blocked to prevent spinning 
+caused by strong winds. 
+Inspection & Maintenance during Storage
+
+•		Store belts flat to keep them from warping and 
+stretching.
+
+While in storage, inspect fans once per month. Keep a 
+record of inspection and maintenance performed.
+
+•		Store unit in location which does not have vibration.
+
+•		After storage period, purge grease before putting fan 
+into service.
+
+If moisture or dirt accumulations are found on parts, 
+the source should be located and eliminated. At each 
+inspection, rotate the wheel by hand ten to fifteen 
+revolutions to distribute lubricant on motor. If paint 
+deterioration begins, consideration should be given to 
+touch-up or repainting. Fans with special coatings may 
+require special techniques for touch-up or repair.
+
+If storage of fan is in a humid, dusty or corrosive 
+atmosphere, rotate the fan and purge the bearings once 
+a month. Improper storage which results in damage to 
+the fan will void the warranty.
+
+Machined parts coated with rust preventive should be 
+restored to good condition promptly if signs of rust 
+occur. Immediately remove the original rust preventive 
+coating with petroleum solvent and clean with lint-free 
+cloths. Polish any remaining rust from surface with 
+crocus cloth or fine emery paper and oil. Do not destroy 
+the continuity of the surfaces. Wipe clean thoroughly 
+with Tectyl® 506 (Ashland Inc.) or the equivalent. 
+For hard to reach internal surfaces or for occasional 
+use, consider using Tectyl® 511M Rust Preventive or 
+WD‑40® or the equivalent.
+
+Fans are protected against damage during shipment. If 
+the unit cannot be installed and operated immediately, 
+precautions need to be taken to prevent deterioration of 
+the unit during storage. The user assumes responsibility 
+of the fan and accessories while in storage. The 
+manufacturer will not be responsible for damage during 
+storage. These suggestions are provided solely as a 
+convenience to the user.
+INDOOR - The ideal environment for the storage of 
+fans and accessories is indoors, above grade, in a 
+low humidity atmosphere which is sealed to prevent 
+the entry of blowing dust, rain, or snow. Temperatures
+
+Industrial Process Fans
+2
+®
+
+
+
+=== PDF page 3 of 16 | native ===
+
+Removing from Storage
+
+Table of Contents
+
+General Safety Information. . . . . . . . . . . . . . . . . . . . . 1
+
+As fans are removed from storage to be installed in their 
+final location, they should be protected and maintained 
+in a similar fashion until the fan equipment goes into 
+operation.
+
+Receiving / Unpacking / Handling / Storage . . . . . . . 2
+	Inspection and Maintenance during Storage. . . . . . 2
+Removing from Storage. . . . . . . . . . . . . . . . . . . . . . 3
+General Information. . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+Prior to assembly and installation of the unit and system 
+components, inspect the fan assembly to make sure it is 
+in working order.
+
+1.	 Check all fasteners, set screws on the fan, wheel, 
+bearings, drive, motor base and accessories for 
+tightness.
+
+Unit and System Identification Tags . . . . . . . . . . . . 4
+Pre-Installation Information. . . . . . . . . . . . . . . . . . . 4
+Electrical Disconnects. . . . . . . . . . . . . . . . . . . . . . . 4
+Moving Parts. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Guards / Access Doors. . . . . . . . . . . . . . . . . . . . . . . 4
+Air Pressure and Suction. . . . . . . . . . . . . . . . . . . . . 4
+Fans - Rigging and Lifting. . . . . . . . . . . . . . . . . . . . . . 5
+Installation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+2.	 Rotate the fan wheel by hand and assure no parts 
+are rubbing. Access to the wheel is obtained 
+through a bolted panel located on the side of the 
+fan housing.
+
+3.	 Ensure proper wheel settings for radial gap and 
+alignment. Refer to Radial Gap, Overlap and Wheel 
+Alignment section on page 8.
+
+Ducted Inlet Installations. . . . . . . . . . . . . . . . . . . . . 6
+Ducted Outlet Installations. . . . . . . . . . . . . . . . . . . . 6
+Non-Ducted Installations. . . . . . . . . . . . . . . . . . . . . 6
+Fan Drainage Piping and Trap Detail. . . . . . . . . . . . 7
+	Bases. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Belt Guards . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Electrical Connections . . . . . . . . . . . . . . . . . . . . . . . . 8
+Radial Gap, Overlap and Wheel Alignment . . . . . . . . 9
+Unit Start-Up. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+Visual Inspection of Equipment. . . . . . . . . . . . . . . 10
+Additional Steps for Initial Start-Up. . . . . . . . . . . . 10
+Vibration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Routine Maintenance . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+Motors. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+	Shaft Bearings. . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+	Belt Drive Maintenance. . . . . . . . . . . . . . . . . . . . . 12
+Belt Adjustment. . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Variable Frequency Drive Operation. . . . . . . . . . . . . 13
+Field Coating Touch-Up Procedure. . . . . . . . . . . . . . 13
+Parts List. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Troubleshooting. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Maintenance Log. . . . . . . . . . . . . . . . . . . . . Backcover
+Our Commitment. . . . . . . . . . . . . . . . . . . . . Backcover
+
+Industrial Process Fans
+3
+®
+
+
+
+=== PDF page 4 of 16 | native ===
+
+General Information
+
+To ensure a successful installation, the instructions in this manual should be read and adhered to. Failure to comply 
+with proper installation procedures may void the warranty.
+Unit and System Identification Tags
+
+Each fan has a permanently affixed manufacturer’s engraved metal nameplate 
+containing the model number and individual serial number.
+
+The tag shown is an example of an identification nameplate on the fan. The 
+information provides general details about the fan, as well as contains specific 
+information unique to the unit. When contacting your local manufacturer’s 
+representative with future needs or questions, have the information on this label 
+available. Tags are mounted in an area which is clearly visible, usually on the side 
+of the fan cabinet.
+Pre-Installation Information
+
+Before installation, it is important to be certain the mounting surface will bear the operating weight of the unit. For 
+proper unit operation, it is also important that it be operated in a completely level position.
+
+For further details on safety practices involving industrial and commercial fans, please refer to AMCA 
+Publication 410.
+Electrical Disconnects
+
+All fan motors should have disconnects located in close visual proximity to turn off electrical service. Service 
+disconnects shall be locked-out when maintenance is being performed.
+Moving Parts
+
+All moving parts must have guards to protect personnel. Refer to local codes for requirements as to the number, 
+type and design. Fully secure fan wheel before performing any maintenance. The fan wheel may start “free wheeling” 
+even if all electrical power has been disconnected. Before the initial start-up or any restart, check the following items 
+to make sure that they are installed and secure.
+
+•	 Do not spin fan wheel faster than the maximum cataloged fan RPM.
+
+•	 Adjustments to fan speed significantly affects motor load. If the fan RPM is changed, the motor current should be 
+checked to make sure it is not exceeding the motor nameplate amps.
+Guards – Motor Cover, Weatherhood, Shaft, Belt, Inlet or Outlet Guard
+
+Do not operate fans without proper protective devices in place. Failure to do so may result in serious bodily injury 
+and property damage. Check local codes to ensure compliance for all protective devices.
+Access Doors
+
+Before opening access doors, ensure the fan wheel has stopped moving and that the wheel has been secured from 
+being able to rotate. Do not operate fan without access door in its fully closed position.
+Air Pressure and Suction
+
+In addition to the usual hazards associated with rotating machinery, fans also create a dangerous suction at the inlet. 
+Special caution needs to be used when moving around a fan, whether it is in operation or not. Before start-up, make 
+sure the inlet area is clear of personnel and loose objects.
+
+Industrial Process Fans
+4
+®
+
+
+
+=== PDF page 5 of 16 | native ===
+
+Fans - Rigging and Lifting
+
+Typical Arrangement 10 without Isolation Base
+
+IMPORTANT
+
+Fans should never be lifted by the shaft, motor, motor 
+cover or accessories.
+
+1.	 Before lifting, be sure that all shipping materials have 
+been removed from the unit.
+
+2.	 Use standard lifting and rigging practices.
+
+3.	 ALL lifting brackets on each unit must be utilized at 
+the same time.
+
+4.	 Fan to be kept level during lifting and installation.
+
+5.	 Spreader bars must span the unit to prevent damage 
+to the unit by the lifting cables.
+
+6.	 Always test-lift the unit to check for proper balance 
+and rigging before hoisting to desired location.
+
+7.	 Never lift unit in windy conditions.
+
+8.	 Preparation of roof opening should be completed 
+prior to lifting unit to the roof.
+
+Typical Arrangement 4 Without Isolation Base
+
+Fans are to be rigged and moved by the lifting brackets 
+provided or by the skid when a forklift is used. Location 
+of brackets varies by model and size. Handle in such 
+a manner as to keep from scratching or chipping the 
+coating. Damaged finish may reduce ability of fan to 
+resist corrosion.
+
+See coating repair section of this manual for details 
+regarding touch-up of damaged surfaces.
+
+IMPORTANT
+
+Spreader bars are recommended to prevent damage 
+to the unit. Failure to use spreader bars may result in 
+damage which becomes the installer’s responsibility.
+
+Typical with Isolation Base
+If the fan assembly has an isolation base, lift the 
+entire assembly by the four corner holes located in 
+each corner of the base. This is the case for both the 
+standard base or base with height savings bracket.
+
+Isolation Base
+Isolation Base with 
+Height Savings Bracket
+
+Industrial Process Fans
+5
+®
+
+
+
+=== PDF page 6 of 16 | native ===
+
+Installation
+
+Ducted Outlet Installations
+Discharge Duct Turns - Duct turns located near the 
+fan discharge should always be in the direction of the 
+fan rotation.
+
+Move the fan to the desired location. Check and tighten 
+fasteners throughout the unit and then fasten securely 
+through mounting holes provided in the base angles. 
+The unit must be set level (shimming may be necessary). 
+Flexible duct connections and vibration isolators should 
+be used where noise is a factor.
+
+n
+
+o
+
+i
+
+t
+
+a
+
+t
+
+o
+
+The motor voltage and ampere rating must be checked 
+for compatibility with the electrical supply prior to final 
+electrical connection. Supply wiring to the fan must 
+be properly fused, and conform to local and national 
+electrical codes.
+
+R
+
+POOR
+
+Fan performance is reduced when duct 
+turns are made immediately off the 
+fan discharge. To achieve cataloged 
+fan performance there 
+should be at least 
+three equivalent 
+duct diameters of 
+straight ductwork 
+between the fan 
+discharge and 
+any duct turns.
+
+n
+
+o
+
+i
+
+t
+
+Length of Straight Duct
+
+a
+
+t
+
+o
+
+R
+
+Installations with inlet or discharge configurations that 
+deviate from this standard may result in reduced fan 
+performance. Restricted or unstable flow at the fan 
+inlet can cause pre-rotation of incoming air or uneven 
+loading of the fan wheel yielding large system losses 
+and increased sound levels. Free discharge or turbulent 
+flow in the discharge ductwork will also result in system 
+effect losses. Refer to the following diagrams for the 
+most efficient installation conditions.
+
+GOOD
+
+Non-Ducted Installations
+Inlet Clearance - Installation of a fan with an open 
+inlet too close to a wall or bulkhead will cause reduced 
+fan performance. It is desirable to have one fan wheel 
+diameter between parallel fan units and a minimum of 
+three-fourths of a wheel diameter between the fan inlet 
+and the wall.
+
+Ducted Inlet Installations 
+Inlet Duct Turns - Installation of a duct turn or elbow 
+too close to the fan inlet reduces fan performance 
+because air is loaded 
+unevenly into the fan 
+wheel. To achieve full fan 
+performance, there should 
+be at least three fan wheel 
+diameters between the turn 
+or elbow and the fan inlet.
+
+POOR
+
+3/4 to one
+ fan
+wheel
+diameter
+
+3/4 to one
+fan
+wheel
+diameter
+
+Three fan wheel diameters
+
+Single Fan Installation
+
+Turning
+
+Vanes
+
+GOOD
+
+3/4 to 
+one fan
+
+3/4 to 
+one fan
+
+One fan
+diameter
+
+wheel
+diameter
+
+wheel
+diameter
+
+Parallel Fan Installation
+
+Inlet Spin - Inlet spin is a frequent cause of reduced 
+fan performance. The change in fan performance is a 
+function of the intensity of spin and not easily defined. 
+The best solution is proper duct design and airflow 
+patterns. Turning vanes reduce the effects of inlet spin.
+
+Free Discharge - Free or abrupt discharge into a 
+plenum results in a reduction in fan performance. The 
+effect of discharge static regain is not realized.
+
+Turning
+
+R
+
+R
+
+o
+
+o
+
+t
+
+t
+
+Vanes
+
+a
+
+a
+
+t
+
+t
+
+i
+
+i
+
+o
+
+o
+
+n
+
+n
+
+POOR
+GOOD
+
+Industrial Process Fans
+6
+®
+
+
+
+=== PDF page 7 of 16 | native ===
+
+Bases (Foundation and Isolation)
+
+Fan Drainage Piping and Trap Detail  
+(by others)
+
+Critical to every fan installation is a strong, level 
+foundation. A reinforced poured concrete pad with 
+a structural steel base or inertia base provides an 
+excellent foundation. Structural bases must be sturdy 
+enough, with welded construction, to prevent flexing 
+and vibration.
+
+Fans may have been supplied with an optional drain. 
+Drains are located at the underside of the scroll housing. 
+The drain may need to be connected to a drainage 
+system to ensure proper disposal of any water or 
+condensate that may occur.
+
+•	
+Drain connections with and without a plug are 
+1 inch (25.4 mm)
+
+•	
+Installed piping to have a downward angle to allow 
+for drainage.
+
+•	
+Fill traps to recommended level before start-up.
+
+Note:  A conservative method of trap design is to set
+
+To eliminate vibration and noise from being transferred 
+to the building, vibration isolators should be used. The 
+fan is mounted directly on the isolation base and must 
+be supported for the entire length of the fan base angle 
+(Refer to the Centrifugal Fan Isolation Base Assembly 
+Instructions if the base was supplied by manufacturer). 
+Isolators are installed between the isolation base and 
+the foundation.
+
+N = total static pressure.
+Positive Pressure Trap
+
+1.25 inch 
+minimum
+
+Connect 
+this end 
+to fan drain.
+
+N
+
+H/2
+H/2
+H
+
+FAN ON
+FAN OFF
+
+N = Negative fan pressure (inches W.C.)
+H = N - 0.5 inches minimum
+
+After the fan, isolation base, and isolators are installed, 
+the entire assembly 
+must be leveled. 
+Position the level on 
+the isolation base, 
+not the fan shaft, 
+for proper leveling. 
+Additionally, the 
+motor and fan 
+shafts must be 
+level and parallel 
+relative to each 
+other for proper 
+alignment.
+Typical Fan on Isolation Base
+
+Check local codes for proper disposal of drain water 
+which has been in contact with the exhaust air.
+
+CAUTION
+
+Fans used for grease exhaust need to be equipped with 
+a separate grease collector.
+
+Drain Options
+
+•	
+None
+
+•	
+Without plug
+
+When installing a fan, ensure the proper protective 
+devices are used to protect personnel from moving 
+parts and other hazards. A complete line of protective 
+accessories are available from the manufacturer 
+including: inlet guards, outlet guards, belt guards, 
+shaft guards, protective cages and electrical 
+disconnects.
+
+Electrical Disconnects
+
+All fan motors should have disconnects located in 
+close visual proximity to turn off electrical service. 
+Service disconnects shall be locked out when 
+maintenance is being performed.
+
+Moving Parts
+
+All moving parts must have guards to protect 
+personnel. Refer to local codes for requirements as to 
+the number, type and design. Fully secure fan wheel 
+before performing any maintenance. The fan wheel 
+may start “free wheeling” even if all electrical power 
+has been disconnected. Before the initial start-up or 
+any restart, check the guards (belt, shaft, inlet and 
+outlet) and check the access doors to ensure that 
+they are installed and secure.
+
+Industrial Process Fans
+7
+®
+
+
+
+=== PDF page 8 of 16 | native ===
+
+Belt Guards
+
+Fan
+Z
+W
+
+X/Y
+
+Motor position and fan rotation are
+determined from drive side
+
+Greenheck offers 
+various types of 
+customized belt guards 
+dependent upon fan 
+model, arrangement 
+and motor position. 
+Motor position is 
+determined from the 
+drive side.
+
+If the belt guard is not factory mounted or was not 
+supplied by manufacturer, then it must be field mounted. 
+Brackets and mounting hardware are the responsibility 
+of the installer. The figures below illustrate suggested 
+attachment points for belt guard mounting bracket 
+locations. These locations vary with motor mounting 
+position, arrangement, and fan type. The bearing 
+supports and fan structure are used in most instances 
+and when the motor is not mounted to the fan itself, a 
+bracket should also be located near it. This information 
+is intended only as a guide and actual field conditions 
+may dictate another mounting location for the guard 
+brackets. Refer to local codes for securing guarding.
+
+The various types of belt guards are shown in 
+illustrations. If the guard is not purchased from 
+Greenheck, they must be supplied by the installer  
+or owner.
+
+Motor Position: X/Y
+
+Motor Position: W/Z
+
+Arrangement - 1, 3
+
+Arrangement - 1, 3
+
+Typical Belt Guard
+
+Motor Position: L/R
+
+Arrangement 9
+
+Suggested Belt Guard Attachment Points
+
+(shaded gray)
+
+Electrical Connections
+
+Industrial Process – Arr. 1 & 9
+
+Before electrical connections are made, the supply 
+voltage, phase and ampere capacity must be checked 
+for compatibility with the fan motor. In addition, the 
+supply wiring must be properly fused and conform to 
+local and national electrical codes. If the unit is supplied 
+with a safety disconnect switch, ensure proper wiring 
+to the fan motor. Be sure the disconnect is switched to 
+the “OFF” position before connecting supply wires. If 
+no disconnect is supplied, ensure the supply wire is not 
+live before connection. Supply wires are then connected 
+to the optional safety disconnect switch (if supplied) or 
+motor.
+
+Industrial Process Fans
+8
+®
+
+
+
+=== PDF page 9 of 16 | native ===
+
+Radial Gap, Overlap and Wheel Alignment
+
+Overlap
+
+Wheel
+
+Inlet 
+Cone
+
+Efficient fan performance can be maintained by having 
+the correct radial gap, overlap and wheel alignment. 
+These items should be checked after the fan has been 
+in operation for 24 hours and before start-up after 
+the unit has been serviced. Radial gap and overlap 
+information applies to IP with air handling wheel.
+
+A
+
+Radial
+
+Gap
+
+Unit  
+Size
+
+IP (Air Handling)
+
+Radial Gap is adjusted 
+by loosening the inlet 
+cone bolts and centering 
+the cone on the wheel. 
+If additional adjustment 
+is required to maintain 
+a constant radial gap, 
+loosening the bearing 
+bolts and centering the 
+wheel is acceptable as a 
+secondary option.
+
+IP (Air Handling)  
+Inlet Cone to Backplate
+A Dimension
+± Tolerance (in.)
+
+Equal Spacing
+
+Overlap or offset, is 
+adjusted by loosening 
+the wheel hub from the 
+shaft and moving the 
+wheel to the desired 
+position along the 
+shaft.
+
+Housing
+
+Wheel
+
+Wheel Alignment  
+IP (Open Radial or Backplated)
+
+Dimension
+± Tolerance (mm)
+5
+3.67
+± 1/8
+93
+± 3
+7
+5.36
+± 1/8
+136
+± 3
+9
+6.88
+± 1/8
+175
+± 3
+11
+8.38
+± 1/4
+213
+± 6
+13
+9.92
+± 1/4
+252
+± 6
+15
+11.39
+± 3/8
+289
+± 10
+17
+12.95
+± 3/8
+329
+± 10
+19
+14.48
+± 3/8
+368
+± 10
+21
+15.95
+± 3/8
+405
+± 10
+23
+17.50
+± 1/2
+445
+± 13
+26
+20.00
+± 1/2
+508
+± 13
+29
+22.31
+± 1/2
+567
+± 13
+33
+25.75
+± 1/2
+654
+± 13
+37
+28.82
+± 1/2
+732
+± 13
+41
+31.38
+± 1/2
+797
+± 13
+
+The transition between 
+the inlet cone and 
+wheel should be as 
+shown; there is a 
+smooth feel to the 
+profile when moving 
+from one component  
+to the other. Overlap  
+on double width fans is 
+set by having equal spacing on each side of the wheel.
+
+Correct wheel alignment for an industrial process fan 
+(open radial or backplated/wool wheel) is achieved by 
+centering the wheel in the housing.
+
+Clockwise Rotation
+
+Centrifugal
+
+Industrial Process
+
+Airfoil
+
+Radial Blade
+
+Centrifugal 
+Backward Inclined
+
+Always viewed from the drive side.
+
+Industrial Process Fans
+9
+®
+
+
+
+=== PDF page 10 of 16 | native ===
+
+Unit Start-Up
+
+Visual Inspection of Equipment
+
+The equipment type and arrangement should be verified 
+as ordered at once when it arrives at the job site. When 
+a discrepancy is found, the local sales representative 
+must be notified immediately so that corrective action 
+may be investigated, also verify electrical conformance 
+to specifications. Unauthorized alterations and 
+unauthorized back charges will not be recognized by the 
+manufacturer.
+
+After the unit has been assembled, installed and all 
+utilities have been hooked up, the unit is now ready for 
+operation.
+
+WARNING
+
+motors can be reversed by changing internal 
+connections as described on the motor label or 
+wiring diagram.
+2.	 If the fan has inlet vanes, they should be partially 
+closed to reduce power requirements. This is 
+especially important if the fan is designed for a high 
+temperature application and is being started at room 
+temperature.
+3.	 Fans with multi-speed motors should be checked on 
+low speed during initial start-up.
+4.	 Check for unusual noise, vibration or overheating of 
+bearings. Refer to the “Troubleshooting” section of 
+this manual if a problem develops.
+5.	 Grease may be forced out of the bearing seals during 
+initial start-up. This is a normal self-purging feature 
+of this type of bearing.
+
+Vibration
+
+Disconnect and secure to the “Off” position all 
+electrical power to the fan prior to inspection or 
+servicing. Failure to comply with this safety precaution 
+could result in serious injury or death.
+
+Before starting the unit, check the following:
+
+Excessive vibration is the most frequent problem 
+experienced during initial start-up. Left unchecked,
+
+1.	 Disconnect and lock-out all power switches to fan.
+
+See warning below.
+
+Common Sources of Vibration
+
+2.	 Check all fasteners, set screws and locking collars
+
+on the fan, bearings, drive, motor base and 
+accessories for tightness.
+
+3.	 Rotate the fan wheel manually to be sure that it is
+
+free to operate. Remove any dirt or debris that may 
+have accumulated during installation.
+
+excessive 
+vibration 
+can cause a 
+multitude of 
+problems, 
+including 
+structural and/
+or component 
+failure.
+
+4.	 Check for bearing alignment and lubrication.
+
+5.	 Check for coupling alignment (Arr. 8 only).
+
+1. Wheel unbalance 
+2. Drive pulley misalignment 
+3. Incorrect belt tension 
+4. Bearing / coupling misalignment 
+5. Mechanical looseness 
+6. Faulty belts 
+7. Drive component unbalance 
+8. Poor inlet / outlet conditions 
+9. Foundation stiffness
+
+6.	 Check the V-belt drive for proper alignment and
+
+tension.
+
+7.	 Check all guarding (if supplied) to ensure that it is
+
+securely attached and not interfering with rotating 
+parts.
+
+8.	 Check operation of variable inlet vanes or discharge
+
+dampers (if supplied) for freedom of movement.
+
+9.	 Check all electrical connections for proper
+
+attachment.
+
+Many of these 
+conditions can 
+be discovered 
+by careful observation. Refer to the troubleshooting 
+section of this manual for corrective actions. If 
+observation cannot locate the source of vibration, a 
+qualified technician using vibration analysis equipment 
+should be consulted. If the problem is wheel unbalance, 
+in-place balancing can be done providing there is 
+access to the fan wheel. Any correction weights added 
+to the wheel should be welded to either the wheel back 
+(single-plane balance) or to the wheel back and wheel 
+cone (two-plane balance).
+
+10.	 Check housing and ductwork, if accessible, for 
+obstructions and foreign material that may damage 
+the fan wheel.
+Additional Steps for Initial Start-Up
+
+Greenheck performs a vibration test on all centrifugal 
+fans before shipping. Three vibration readings are taken 
+on each bearing in the horizontal, vertical, and axial 
+directions. The allowable maximum vibration for belt 
+drive units is 0.15 in/sec. peak velocity filter-in for rigid 
+mount and 0.20 in/sec. peak velocity filter-in for flexible 
+mount at the fan RPM per AMCA Standard 204. These 
+vibration signatures are a permanent record of how the 
+fan left the factory and are available upon request.
+
+Generally, fan vibration and noise is transmitted to other 
+parts of the building by the ductwork. To eliminate this 
+undesirable effect, the use of heavy canvas connectors 
+is recommended. If fireproof material is required, 
+Flexweave™1000 - Type FN-30 can be used.
+
+1.	 Check for proper wheel rotation by momentarily 
+energizing the fan. Rotation is always determined 
+by viewing the wheel from the drive side and should 
+correspond to the rotation decal affixed to the unit. 
+	
+One of the most frequently encountered problems 
+with centrifugal fans is motors which are wired to run 
+in the wrong direction. This is especially true with 
+3-phase installations where the motor will run in  
+either direction, depending on how it has been wired. 
+To reverse rotation of a 3-phase motor, interchange 
+any two of the three electrical leads. Single phase
+
+Industrial Process Fans
+10
+®
+
+
+
+=== PDF page 11 of 16 | native ===
+
+Routine Maintenance
+
+Shaft Bearings
+
+WARNING
+
+Before taking any corrective action, make certain unit 
+is not capable of operation during repairs.
+
+Once the unit has been put into operation, a routine 
+maintenance schedule should be set up to accomplish 
+the following:
+
+The bearings for Greenheck fans are carefully selected 
+to match the maximum load and operating conditions 
+of the specific class, arrangement, and fan size. The 
+instructions provided in this manual and those provided 
+by the bearing manufacturer will minimize any bearing 
+problems. Bearings are the most critical moving part 
+of the fan, therefore special care is required when 
+mounting them on the unit and maintaining them.
+
+Refer to the following chart and the manufacturer’s 
+instructions for grease types and intervals for various 
+operating conditions. Never mix greases made with 
+different bases. This will cause a breakdown of the 
+grease and possible failure of the bearing.
+
+Recommended Bearing Lubrication Schedule
+
+Relubrication Schedule in Months*
+
+Bearing Bore (inches)
+
+Fan  
+RPM
+
+1⁄2 -  
+1
+11⁄8 -  
+11⁄2
+15⁄8 -  
+17⁄8
+115⁄16 - 
+23⁄16
+27⁄16 
+- 3
+
+33⁄16 - 
+31⁄2
+315⁄16 - 
+41⁄2
+415⁄16 - 
+51⁄2
+
+To 250
+12
+12
+12
+12
+12
+12
+10
+8
+
+500
+12
+12
+11
+10
+8
+7
+5
+4
+
+750
+12
+9
+8
+7
+6
+4
+3
+2
+
+1.	 Lubrication of bearings and motor (see below).
+2.	 Wheel, housing, bolts and set screws on the entire 
+fan should be checked for tightness.
+3.	 Any dirt accumulation on the wheel or in the housing 
+should be removed to prevent unbalance and 
+possible damage.
+4.	 Isolation bases should be checked for freedom 
+of movement and the bolts for tightness. Springs 
+should be checked for breaks and fatigue. Rubber 
+isolators should be checked for deterioration.
+5.	 Inspect fan impeller and housing looking for fatigue, 
+corrosion or wear.
+When performing any service to the fan, disconnect the 
+electrical supply and secure fan impeller.
+Motors
+
+1000
+12
+7
+6
+5
+4
+3
+2
+1
+
+1250
+12
+6
+5
+4
+3
+2
+1
+.5
+
+1500
+12
+5
+4
+3
+2
+1
+.75
+
+2000
+12
+3
+3
+2
+1
+.5
+.25
+
+2500
+12
+2
+2
+1
+.5
+.25
+
+3000
+12
+2
+1
+.5
+.25
+
+Motor maintenance is generally limited to cleaning 
+and lubrication. Cleaning should be limited to exterior 
+surfaces only. Removing dust and grease build up on 
+the motor housing assists proper motor cooling. Never 
+wash-down motor with high pressure spray.
+
+3500
+12
+1
+.5
+.25
+
+4000
+12
+.5
+.25
+
+5000
+12
+.25
+
+Number  
+of shots**
+4
+8
+8
+10
+16
+25
+41
+57
+
+Greasing of motors is only intended when fittings are 
+provided. Many fractional motors are permanently 
+lubricated for life and require no further lubrication. 
+Motors supplied with grease fittings should be 
+greased in accordance with the manufacturer’s 
+recommendations.
+
+*	Lubrication interval is based on 12 hour day operation and
+
+CAUTION
+
+maximum 160˚F housing temperature. For 24 hour per day 
+operation, the interval should be cut in half.
+
+**	Lubricant should be added with the shaft rotating and
+
+When operating conditions of the fan are to be 
+changed (speed, pressure, temperature, etc.), consult 
+Greenheck to determine if the unit can operate safely 
+at the new conditions.
+
+until clean grease is seen purging from the bearing. The 
+lubrication interval may be modified based on the condition 
+of the purged grease. If bearing is not visible to observe 
+purged grease, lubricate with number of shots indicated for 
+bore size.
+
+•	For conditions including high temperatures, moisture, dirt
+
+or excessive vibration, consult the factory for a specific 
+lubrication interval for your application.
+
+•	Lubricant should be a high quality lithium complex grease
+
+conforming to NLGI Grade 2. Factory recommends Mobilux 
+EP-2 or synthetic Mobilith SHC100.
+	•	The use of synthetic lubricants will increase lubrication
+
+intervals by approximately three times.
+	•	Storage periods of three months or longer require monthly
+
+rotation of the shaft and purging grease prior to storage and 
+start-up.
+
+Industrial Process Fans
+11
+®
+
+
+
+=== PDF page 12 of 16 | native ===
+
+Belt Drive Maintenance
+
+Belt Adjustment
+
+Belts on model IP are adjusted from the exterior of the 
+fan. Covers should be opened or removed so the belt(s) 
+can be inspected and checked for proper tension.
+
+L-Adjustment
+
+Bolts
+
+V-belt drives must be checked on a regular basis 
+for wear, tension, alignment and dirt accumulation. 
+Premature or frequent belt failures can be caused by 
+improper belt tension, (either too loose or too tight) 
+or misaligned sheaves. Abnormally high belt tension 
+or drive misalignment will cause excessive bearing 
+loads and may result in failure of the fan and/or motor 
+bearings. Conversely, loose belts will cause squealing 
+on start-up, excessive belt flutter, slippage, and 
+overheated sheaves. Either excessively loose or tight 
+belts may cause fan vibration.
+
+Plate Bolts
+
+When replacing V-belts on multiple groove drives all 
+belts should be changed to provide uniform drive 
+loading. Use a set of matched belts whenever possible. 
+Do not pry belts on or off the sheave. Loosen belt 
+tension until belts can be removed by simply lifting 
+the belts off the 
+sheaves.
+
+Deﬂection  =  Belt Span
+
+64
+
+The tension of the belt(s) are adjusted by raising and 
+lowering the motor plate. There are bolts on each side of 
+the fan that must be used in order to adjust the belt(s). 
+Each side has two plate bolts and two L-adjustment 
+bolts.
+
+Belt Span
+
+1.	 Loosen, but DO NOT remove the two plate bolts on 
+each side of the motor plate.
+
+After replacing 
+belts, insure that 
+slack in each belt 
+is on the same 
+side of the drive. 
+Belt dressing 
+should never be 
+used.
+
+Do not install new belts on worn sheaves. If the sheaves 
+have grooves worn in them, they must be replaced 
+before new belts are installed.
+
+2.	 Loosen, then adjust the L-bolts to raise or lower 
+the motor in order to tighten or loosen the belt(s) as 
+needed. The nuts on the L-adjustment bolts should 
+be adjusted evenly so the motor plate is raised or 
+lowered as level as possible.
+
+3.	 Tighten all the L-adjustment bolts and the plate 
+bolts to lock motor in place after proper tension is 
+reached.
+
+NOTE
+
+The proper tension for operating a V-belt drive is the 
+lowest tension at which the belts will not slip at peak 
+load conditions. For more information about measuring 
+belt tension, refer to Greenheck’s Product Application 
+Guide, FA/127-11, Measuring Belt Tension, found online 
+at greenheck.com in the Resources section.
+
+Loosen the plate bolts as minimal as possible to 
+allow the plate to move, but so the plate has minimal 
+movement when bolts are re-tightened.
+
+Check belt tension before start up and after the first 
+24 hours of operation. The belt tension should also be 
+checked periodically thereafter.
+
+WARNING
+
+Be sure to raise or lower the motor plate as even as 
+possible for proper belt engagement and to avoid 
+jamming the plate.
+
+Improper sheave
+
+Proper sheave
+
+alignment
+
+alignment
+
+WARNING
+
+Do not overtighten belts. Excessive belt tension can 
+lead to premature belt and/or bearing failure.
+
+Industrial Process Fans
+12
+®
+
+
+
+=== PDF page 13 of 16 | native ===
+
+Variable Frequency Drive Operation
+
+Field Coating Touch-Up Procedure 
+for Scratched Areas
+
+WARNING
+
+Standard coating and color is RAL7023 Concrete Grey. 
+The procedure outlines the correct method for repairing 
+minor scratches in the coating.
+
+TOUCH-UP PAINT REPAIR KIT CONTENTS
+
+• One pint of Kem Kromik® primer
+
+- including a technical data sheet
+	• One pint of industrial enamel
+
+- including a technical data sheet
+	• Four disposable foam brushes
+	• One sheet sandpaper
+	• Repair procedure details
+
+For operation with a Variable Frequency Drive 
+(VFD), always check motor amps when adjusting 
+the operating frequency. Motor may be sized for 
+the original selected operating speed under 60 Hz. 
+Bypassing the VFD or increasing the speed from this 
+original selection, even if less than 60 Hz, may cause 
+motor overload or failure. Consult factory with fan 
+serial number before increasing the upper limiting 
+frequency.
+Always check the fan rpm when adjusting the 
+operating frequency. Do not exceed maximum 
+class fan rpm of the wheel as stated on the unit 
+identification nameplate.
+
+1.	 Scuff affected area to be repaired using medium 
+sandpaper (provided) or medium Scotch Brite™ pad. 
+Feather the edges.
+
+2.	 Clean affected area to be touched up using an 
+alkaline based cleaner and rinse.
+
+3.	 Apply Kem Kromik® primer using 1 inch foam brush 
+(provided). Follow technical data sheet instructions.
+
+It is the responsibility of the installing body to perform 
+coast-down tests and identify any resonant frequencies 
+after the equipment is fully installed. These resonant 
+frequencies are to be removed from the operating 
+range of the fan by using the “skip frequency” function 
+in the VFD programming. Failure to remove resonant 
+frequencies from the operating range will decrease the 
+operating life of the fan and void the warranty.
+
+4.	 Allow primer to dry a minimum of 2-1/2 hours before 
+top coating.
+
+5.	 Apply topcoat with industrial enamel using 1 inch 
+foam brush (provided). Follow technical data sheets 
+instructions. Allow painted units to air-dry and cure 
+before putting into service. See Technical Data 
+sheets (included with kit) for detailed drying and cure 
+schedules at different temperatures.
+
+NOTE
+
+While the manufacturer provides heavy-duty, quality 
+products for marine environments, routine paint 
+touch-ups may be required in coastal regions where 
+salt or marine air could damage the coating. The 
+severe environment will accelerate the damage from 
+any scratches or chips and it is recommended that 
+those be repaired immediately.
+
+To order additional coating repair kits please reference  
+part number HAZ2597 PNT FIELD REPAIR KIT, 
+RAL7023 CONCRETE GREY. Please contact factory 
+with your fan’s serial number for colors other than our 
+standard.
+
+Industrial Process Fans
+13
+®
+
+
+
+=== PDF page 14 of 16 | native ===
+
+Parts List
+
+Each fan bears a manufacturer’s nameplate with model number and serial number embossed. This information will 
+assist the local manufacturer’s representative and the factory in providing service and replacement parts. Before 
+taking any corrective action, make certain unit is not capable of operation during repairs.
+
+CAUTION
+
+A fan manufactured with an explosion resistant motor does not certify the entire unit to be explosion proof. Refer 
+to UL Listing Mark for the fans approved usage.
+
+Industrial Process
+
+Volume Control Damper
+
+Outlet Companion Flange
+
+Outlet Flange
+
+Inlet Flange
+
+Inlet Companion Flange
+
+Shaft
+
+Bearings
+
+Heat  
+Slinger
+
+Belts
+
+Weatherhood 
+Arrangement 10 only
+
+Motor
+Drives / Sheaves
+
+Industrial Process Fans
+14
+®
+
+
+
+=== PDF page 15 of 16 | native ===
+
+Troubleshooting
+
+WARNING
+
+Before taking any corrective action, make certain unit 
+is not capable of operation during repairs.
+
+Problem
+Cause
+Corrective Action
+
+Wheel rubbing (inlet)
+Adjust wheel and/or inlet cone. 
+Tighten wheel hub or bearing collars on shaft.
+
+V-belt drive
+
+Tighten Sheaves on motor/fan shaft. Adjust belt tension. Align 
+sheaves properly (see V-Belt Drives section). Replace worn belts or 
+sheaves.
+
+Excessive Noise
+
+Bearings
+Replace defective bearing(s). Lubricate bearings. 
+Tighten collars and fasteners.
+
+Wheel unbalance
+Clean all dirt off wheel. Check wheel balance, rebalance in place if 
+necessary.
+
+Low CFM
+Fan
+Check wheel for correct rotation. Increase fan speed.*
+
+Duct system
+See page 3.
+
+High CFM
+Fan
+Decrease fan speed.
+
+Duct system
+Resize ductwork. Access door, filters, grilles not installed.
+
+Static Pressure Wrong
+
+Duct system has more 
+or less restriction than 
+anticipated
+
+Change obstructions in system. Use correction factor to adjust for 
+temperature/altitude. Resize ductwork. Clean filters/coils. Change 
+fan speed.*
+
+Fan
+Check rotation of wheel. Reduce fan speed.
+
+High Horsepower
+
+Duct system
+Resize ductwork. Check proper operation of face and bypass 
+dampers. Check filters and access doors.
+
+Electrical supply
+Check fuses/circuit breakers. Check for switches turned off or 
+disconnected. Check for correct supply voltage.
+
+Fan Doesn’t Operate
+
+Drive
+Check for broken belts. Tighten loose pulleys.
+
+Motor
+Assure motor is correct horsepower and not tripping overload 
+protector.
+
+Lubrication
+Check for excessive or insufficient grease in the bearings.
+
+Overheated Shaft 
+Bearing
+
+Mechanical
+Replace damaged bearing. Relieve excessive belt tension. Align 
+bearings. Check for bent shaft.
+
+Belts
+Adjust tightness of belts. Replacement belts should be a matched 
+set.
+
+Excessive Vibration
+
+System unbalance
+
+Check alignment of shaft, motor and pulleys. Adjustable pitch 
+pulleys with motors over 15 hp are especially prone to unbalance. 
+Check wheel balance, rebalance if necessary.
+
+*Always check motor amps and compare to nameplate rating. Excessive fan speed may overload the motor and 
+result in motor failure. Do not exceed the maximum cataloged RPM of the fan.
+
+NOTE: Always provide the unit model and serial numbers when requesting parts or service information.
+
+Industrial Process Fans
+15
+®
+
+
+
+=== PDF page 16 of 16 | native ===
+
+Maintenance Log
+
+Date____________________Time______________ AM/PM
+
+Date____________________Time______________ AM/PM
+
+Notes:_ __________________________________________
+
+Notes:_ __________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+Date____________________Time______________ AM/PM
+
+Date____________________Time______________ AM/PM
+
+Notes:_ __________________________________________
+
+Notes:_ __________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+Date____________________Time______________ AM/PM
+
+Date____________________Time______________ AM/PM
+
+Notes:_ __________________________________________
+
+Notes:_ __________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+Date____________________Time______________ AM/PM
+
+Date____________________Time______________ AM/PM
+
+Notes:_ __________________________________________
+
+Notes:_ __________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+_________________________________________________
+
+Our Commitment
+
+As a result of our commitment to continuous improvement, Greenheck reserves the right to change specifications 
+without notice.
+
+Product warranties can be found online at Greenheck.com, either on the specific product page or in the literature 
+section of the website at Greenheck.com/Resources/Library/Literature.
+
+Greenheck’s Industrial Process Fans catalog provides 
+additional information describing the equipment, fan 
+performance, available accessories, and specification data.
+
+AMCA Publication 410-96, Safety Practices for Users and 
+Installers of Industrial and Commercial Fans, provides 
+additional safety information. This publication can be obtained 
+from AMCA International, Inc. at www.amca.org.
+
+®
+
+Phone: 715.359.6171 • Fax: 715.355.2399 • Parts: 800.355.5354 • E-mail: gfcinfo@greenheck.com • Website: www.greenheck.com
+
+463687 • Industrial Process Fans, Rev. 12, April 2022	
+Copyright 2022 © Greenheck Fan Corporation
+16

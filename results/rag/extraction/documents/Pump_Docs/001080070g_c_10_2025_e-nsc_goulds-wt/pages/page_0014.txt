@@ -1,0 +1,164 @@
+it - Traduzione dell'originale
+
+– Se il motore viene utilizzato a pieno carico,
+
+Installazioni con il livello del liquido
+al di sopra della pompa (aspirazione
+sottobattente)
+
+regolare al valore nominale della corrente del‐
+l'elettropompa (targa dati).
+– Se il motore viene utilizzato a carico parzia‐
+
+Per una figura che mostra il punto in cui si trovano i
+tappi della pompa, vedere Figura 23 a pagina 394.
+
+le,regolare al valore alla corrente d'esercizio
+(pinza amperometrica).
+– Se è presente un sistema di avviamento stel‐
+
+1. Chiudere la valvola di intercettazione a valle della
+pompa.
+
+la-triangolo, regolare il relè termico sul 58%
+della corrente nominale o della corrente di
+esercizio (solo per motori trifase).
+
+IT
+
+2. Rimuovere il tappo di riempimento (3) o dell’indi‐
+catore (1) e aprire la valvola di intercettazione a
+monte, finché l’acqua non fuoriesce dal foro.
+
+a) Chiudere il tappo di riempimento (3) o dell’in‐
+
+5  Messa in funzione, avviamento,
+funzionamento e spegnimento
+
+dicatore (1).
+
+Precauzioni
+
+Installazioni con il livello del liquido al di
+sotto della pompa (soprabattente)
+
+AVVERTENZA:  
+Rischi fisici e termici
+
+Per una figura che mostra il punto in cui si trovano i
+tappi della pompa, vedere Figura 24 a pagina 395.
+
+1. Impianto con tutte le tubazioni vuote:
+
+a) Chiudere la valvola di intercettazione posizio‐
+
+• Utilizzare sempre i dispositivi di pro‐
+tezione individuale.
+• Verificare che sia installata la prote‐
+zione del giunto.
+
+nata a monte della pompa.
+b) Rimuovere il tappo di riempimento (3) e il tap‐
+
+AVVERTENZA:
+
+po della presa manometro (1). Utilizzare un
+imbuto per riempire la pompa attraverso il fo‐
+ro di riempimento fino a quando l’acqua non
+fuoriesce dal foro.
+c) Serrare il tappo di riempimento (3) e il tappo
+
+dell’indicatore (1).
+
+2. Impianto co tubazioni di mandata piene:
+
+• Fare attenzione al liquido scaricato in
+modo che non possa arrecare danni a
+cose o persone.
+• Le protezioni del motore possono
+causare un riavvio imprevisto del mo‐
+tore. Questo può determinare gravi le‐
+sioni personali.
+
+a) Aprire la valvola di intercettazione a monte
+
+ATTENZIONE:
+
+della pompa e aprire la valvola di intercetta‐
+zione a valle.
+b) Rimuovere il tappo dell’indicatore (1) finché
+
+l’acqua non fuoriesce da questo foro.
+c) Serrare il tappo dell’indicatore (1).
+
+• Durante il funzionamento, le superfi‐
+ci esterne della pompa e del motore
+possono superare i 40ºC (104ºF).
+• Non porre materiale combustibile vi‐
+cino alla pompa.
+
+AVVISO:
+
+5.2  Controllo del senso di rotazione (motore
+trifase)
+Attenersi a questa procedura prima dell'avvio.
+
+1. Individuare le frecce sulla lanterna, sul giunto e/o
+sul copriventola del motore per determinare il
+senso di rotazione corretto.
+
+2. Avviare il motore.
+
+3. Controllare rapidamente il senso di rotazione at‐
+traverso la protezione del giunto o il copriventola
+del motore.
+
+4. Arrestare il motore.
+
+5. Se il senso di rotazione è errato, attenersi alla
+seguente procedura:
+
+a) Scollegare l'alimentazione.
+b) Nella morsettiera del motore o nel quadro
+
+elettrico di comando, scambiare la posizione
+di due dei tre fili del cavo di alimentazione.
+
+Per gli schemi di cablaggio, vedere Figura 21
+a pagina 392.
+c) Verificare nuovamente il senso di rotazione.
+
+5.3  Avviamento della pompa
+
+• NON mettere in funzione la pompa al di sotto
+della portata nominale minima, a secco o senza
+adescamento.
+• Non far funzionare mai la pompa con la valvola
+di intercettazione (aspirazione o mandata) chiu‐
+sa per più di pochi secondi.
+• Non far funzionare mai la pompa con la valvola
+di intercettazione di aspirazione chiusa.
+• Non esporre una pompa inattiva a temperature
+di congelamento. Scaricare tutto il liquido che si
+trova all’interno della pompa. La mancata osser‐
+vanza di questa indicazione può determinare il
+congelamento del liquido e danneggiare la pom‐
+pa.
+• La somma della pressione sul lato di aspirazione
+(rete principale, serbatoio a gravità) e la pressio‐
+ne massima erogata dalla pompa non deve supe‐
+rare la massima pressione di lavoro permessa
+(pressione nominale PN) della pompa.
+• Non utilizzare la pompa in caso di cavitazione.
+La cavitazione può danneggiare i componenti in‐
+terni.
+
+NOTA BENE:
+Dopo il primo avviamento e al raggiungimento della 
+temperatura operativa verificare l’allineamento del
+
+5.1  Riempire la pompa
+Per informazioni sulle connessioni della pompa ag‐
+giuntive, vedere Figura 22 a pagina 392.
+
+10

@@ -1,0 +1,179 @@
+es - Traducción del original
+
+Compruebe el sello me‐
+cánico
+
+Compruebe que no haya
+fugas en el sello mecá‐
+nico. Reemplace el sello
+mecánico si se encuen‐
+tra una fuga.
+
+Comprobación de los se‐
+llos de cojinete
+
+• El mantenimiento y el servicio deben
+ser realizados sólo por personal cali‐
+ficado y especializado.
+• Respete las normativas de preven‐
+ción de accidentes en vigor.
+• Utilice equipo y protección adecua‐
+dos.
+• Asegúrese de que el líquido evacuado
+no produzca daños o lesiones.
+
+Compruebe que los ani‐
+llos de sellado axiales se
+asientan correctamente
+al montarse en el eje.
+Solo debe establecerse
+un contacto suave del re‐
+borde de sellado.
+
+Compruebe el funciona‐
+miento en silencio
+
+ES
+
+Compruebe frecuente‐
+mente el funcionamiento
+en silencio de la bomba
+con las herramientas de
+medición de la vibración.
+
+6.3  Desmontaje y sustitución de las piezas
+de la bomba
+
+6.1  Servicio
+Si el usuario desea programar fechas límite de man‐
+tenimiento regulares, dependen del tipo de fluido
+bombeado y de las condiciones de funcionamiento
+de la bomba.
+Póngase en contacto con el representante local de
+ventas y servicio para cualquier solicitud de informa‐
+ción relativa a la rutina de mantenimiento o el servi‐
+cio.
+Puede ser necesario un mantenimiento extraordina‐
+rio para limpiar el extremo del líquido y/o reemplazar
+piezas desgastadas.
+
+Bombas con cojinetes engrasados de por vi‐
+da
+
+Para obtener más información acerca de las piezas
+de repuesto y montaje y desmontaje de la bomba,
+pongas en contacto con su representante de ventas
+y servicio local.
+
+Las bombas con cojinetes engrasados de por vida
+no requieren ningún mantenimiento programado.
+
+7  Solución de problemas
+
+Bombas con cojinetes reengrasables
+
+7.1  Solución de problemas para los usuarios
+El interruptor principal está encendido pero la bom‐
+ba eléctrica no arranca.
+
+Causa
+Solución
+
+• Vuelva a engrasar tras 4000 horas de funciona‐
+miento; al menos una vez al año. Limpie antes
+los niples de lubricación (SN).
+• Use grasa NLGI de Grado 2 o equivalente.
+Póngase en contacto con el representante local de
+ventas y servicio para cualquier solicitud de informa‐
+ción.
+
+Cojinetes del motor
+
+El protector térmico in‐
+corporado en la bomba
+(de haberlo) se ha acti‐
+vado.
+
+Espere hasta que la bom‐
+ba se haya enfriado. El
+protector térmico se res‐
+tablecerá automáticamen‐
+te.
+
+Compruebe el nivel de lí‐
+quido en el tanque o la
+presión de la red eléctrica.
+
+El dispositivo de pro‐
+tección contra funcio‐
+namiento en seco se ha
+activado.
+
+Después de aproximadamente cinco años, la grasa
+de los cojinetes del motor está tan vieja que se
+recomienda sustituir los cojinetes. Los cojinetes de‐
+ben reemplazarse después de 25000 horas de fun‐
+cionamiento o de acuerdo con las instrucciones de
+mantenimiento del proveedor del motor, lo que sea
+menos.
+
+Motor con cojinetes reengrasables
+
+La bomba eléctrica arranca, pero la protección térmi‐
+ca se activa un tiempo variable después.
+
+Siga las instrucciones de mantenimiento del provee‐
+dor del motor.
+
+Causa
+Solución
+
+Acoplamiento
+
+Póngase en contacto con
+el departamento de ventas
+y servicio.
+
+Hay objetos extraños
+(sustancias solidas o
+fibrosas) dentro de la
+bomba que han atas‐
+cado el impulsor.
+
+Compruebe la separación en los elementos de aco‐
+plamiento de forma regular, al menos una vez al
+año. Recomendamos realizar una comprobación ca‐
+da 1000 horas de funcionamiento o cada tres me‐
+ses, lo que sea anterior.
+
+6.2  Lista de verificación
+
+La bomba está sobre‐
+cargada porque el lí‐
+quido bombeado es
+demasiado denso y
+viscoso.
+
+Compruebe el acopla‐
+miento
+
+Compruebe los requisitos
+de potencia en función de
+las características del líqui‐
+do bombeado y, a continua‐
+ción, póngase en contacto
+con el departamento de
+ventas y servicio.
+
+La bomba funciona pero no bombea o bombea poco
+líquido.
+
+Compruebe los elemen‐
+tos flexibles del acopla‐
+miento. Reemplace las
+piezas relevantes si hay
+algún signo de desgas‐
+te y compruebe la alinea‐
+ción.
+
+60

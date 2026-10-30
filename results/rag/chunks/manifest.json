@@ -1,0 +1,88 @@
+{
+  "pages_jsonl_sha256": "0b70b4e0b1f14c18d36e1860830172fa72cf8eac07c322ac79e325a40f858376",
+  "page_records": 835,
+  "chunk_count": 3353,
+  "indexed_page_count": 828,
+  "skipped_pages": [
+    {
+      "page_id": "fdafff421224dc9f3ea0fd9426ed52c219e6e82909a5758be203a5b9acc6fc9d:p0001",
+      "citation": "[Fan_Docs/Troubleshooting-Maintenance-Guides-1.pdf, PDF p. 1]",
+      "reason": "unusable_or_unreviewed"
+    },
+    {
+      "page_id": "fdafff421224dc9f3ea0fd9426ed52c219e6e82909a5758be203a5b9acc6fc9d:p0002",
+      "citation": "[Fan_Docs/Troubleshooting-Maintenance-Guides-1.pdf, PDF p. 2]",
+      "reason": "unusable_or_unreviewed"
+    },
+    {
+      "page_id": "2d7b35d709fe82b9cf5cab06eaf9c842b547bb18df6c23def38971891ceb5686:p0073",
+      "citation": "[Fan_Docs/wl_82102_2_de_en.pdf, PDF p. 73]",
+      "reason": "unusable_or_unreviewed"
+    },
+    {
+      "page_id": "54879bbd3c549db7fd421bf0cc16ab7fc1acd573a07efd8b953a00739cf1be21:p0002",
+      "citation": "[Pump_Docs/001080070g_c_10_2025_e-nsc_goulds-wt.pdf, PDF p. 2]",
+      "reason": "unusable_or_unreviewed"
+    },
+    {
+      "page_id": "54879bbd3c549db7fd421bf0cc16ab7fc1acd573a07efd8b953a00739cf1be21:p0463",
+      "citation": "[Pump_Docs/001080070g_c_10_2025_e-nsc_goulds-wt.pdf, PDF p. 463]",
+      "reason": "unusable_or_unreviewed"
+    },
+    {
+      "page_id": "4df0943a01d8cb6d3d192a356106f9d810ceebceffca501761bf2e39c85b6c96:p0002",
+      "citation": "[Pump_Docs/1710_iom_02_2023.pdf, PDF p. 2]",
+      "reason": "unusable_or_unreviewed"
+    },
+    {
+      "page_id": "67b96c739f041341ea16a51646dfedbd8d76f5205f7691cf552a432eb9551b80:p0015",
+      "citation": "[Pump_Docs/p2002569b-1.pdf, PDF p. 15]",
+      "reason": "unusable_or_unreviewed"
+    }
+  ],
+  "max_passage_tokens": 480,
+  "max_words": 350,
+  "overlap_words_max": 40,
+  "language_counts": {
+    "en": 898,
+    "nl": 70,
+    "de": 94,
+    "ca": 1,
+    "fr": 158,
+    "und": 218,
+    "it": 77,
+    "es": 85,
+    "pt": 73,
+    "da": 77,
+    "no": 104,
+    "sv": 79,
+    "fi": 77,
+    "et": 110,
+    "lv": 71,
+    "lt": 72,
+    "pl": 76,
+    "cs": 88,
+    "sk": 74,
+    "hu": 79,
+    "ro": 78,
+    "bg": 81,
+    "sl": 83,
+    "hr": 145,
+    "el": 91,
+    "tr": 74,
+    "ru": 74,
+    "uk": 76,
+    "ar": 70
+  },
+  "machine_scope_counts": {
+    "fan": 332,
+    "both": 159,
+    "pump": 2862
+  },
+  "tokenizer_revision": "761b726dd34fb83930e26aab4e9ac3899aa1fa78",
+  "tokenizer_sha256": "0b44a9d7b51c3c62626640cda0e2c2f70fdacdc25bbbd68038369d14ebdf4c39",
+  "chunks_jsonl_sha256": "1ed085ddf745183acb76293f69c04c0bc292d1a83c20bf3b62638c97e9d973c7",
+  "language_detection": "langdetect, seed 42; heuristic score, not calibrated probability",
+  "unreviewed_ocr_included": false,
+  "pages_unchanged": true
+}

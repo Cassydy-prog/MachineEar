@@ -1,0 +1,283 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+9. Frecuencia y tensión eléctri‐
+ca;
+
+9. Elektrische Spannung und
+Frequenz;
+
+50 Hz
+
+50 Hz
+
+8. Número do pólos; 2 = de 2
+pólos, 4 = de 4 pólos, 6 = de 6
+pólos
+9. Frequência e voltagem eléctri‐
+ca;
+
+5H
+1x220-240 V
+
+5H
+1x220-240 V
+
+50 Hz
+
+5R
+3x220-240/380-415 V
+
+5R
+3x220-240/380-415 V
+
+5H
+1x220-240 V
+
+5V
+3x380-415/660-690 V
+
+5V
+3x380-415/660-690 V
+
+5R
+3x220-240/380-415 V
+
+5P
+3x200-208/346-360 V
+
+5P
+3x200-208/346-360 V
+
+5V
+3x380-415/660-690 V
+
+5S
+3x255-265/440-460 V
+
+5S
+3x255-265/440-460 V
+
+5P
+3x200-208/346-360 V
+
+5T
+3x290-300/500-525 V
+
+5T
+3x290-300/500-525 V
+
+5S
+3x255-265/440-460 V
+
+5W
+3x440-460/- V
+
+5W
+3x440-460/- V
+
+5T
+3x290-300/500-525 V
+
+60 Hz
+
+60 Hz
+
+5W
+3x440-460/- V
+
+6F
+1x220-230 V
+
+6F
+1x220-230 V
+
+60 Hz
+
+6E
+1x200-210 V
+
+6E
+1x200-210 V
+
+6F
+1x220-230 V
+
+6P
+3x220-230/380-400 V
+
+6P
+3x220-230/380-400 V
+
+6E
+1x200-210 V
+
+6R
+3x255-277/440-480 V
+
+6R
+3x255-277/440-480 V
+
+6P
+3x220-230/380-400 V
+
+6V
+3x440-480/- V
+
+6V
+3x440-480/- V
+
+6R
+3x255-277/440-480 V
+
+6U
+3x380-400/660-690 V
+
+6U
+3x380-400/660-690 V
+
+6V
+3x440-480/- V
+
+6N
+3x200-208/346-360 V
+
+6N
+3x200-208/346-360 V
+
+6U
+3x380-400/660-690 V
+
+6T
+3x330-346/575-600 V
+
+6T
+3x330-346/575-600 V
+
+6N
+3x200-208/346-360 V
+
+6T
+3x330-346/575-600 V
+
+10. Gehäusewerkstoff
+11. Laufradwerkstoff
+12. Werkstoffkonfiguration für
+Gleitringdichtung + O-Ring
+13. Freie Ziffern für Optionen
+
+10. Material de la carcasa
+11. Material del impulsor
+12. Configuración del material del
+sello mecánico y la junta tóri‐
+ca
+13. Dígitos libres para opciones
+
+10. Material da caixa
+11. Material do impulsor
+12. Configuração do vedante me‐
+cânico + material do anel em
+O
+13. Dígitos livres para opções
+
+Nederlands
+
+Dansk
+
+Norsk
+
+1. NSC = Pumpetype
+2. Koplingsinduksjon, E = ram‐
+memontert, C= rammemon‐
+tert med avstandskopling
+3. Drivverkstype, void = standard
+asynkrommotor, H = utstyrt
+med, X = andre drivverk
+4. 125–315 = Pumpstørrelse
+5. 220 = Nominell motorkraft
+(kWx10)
+6. Løpehjul, void = full diameter,
+A = justert diameter, B = ju‐
+stert diameter, X = annet
+7. Motortype, P = PLM, S = SM,
+W = WEG, X = annet
+8. Antall poler, 2 = 2–polet, 4 =
+4–polet, 6 = 6–polet
+9. Elektrisk spenning og frek‐
+vens:
+
+1. NSC = Pumpetype
+2. Koblingsindikation; F = ram‐
+memonteret, C = rammemon‐
+teret med afstandskobling
+3. Drivertype; void= standard
+asynkron motor, H = udstyret
+med Hydrovar, X =andre drive‐
+re
+4. 125–315 = Pumpestørrelse
+5. 220 = Motorens mærkeeffekt
+(kWx10)
+6. Pumpehjul; void = fuld diame‐
+ter, A = beskåret diameter, B =
+beskåret diameter, X = andre
+7. Motortype, P = PLM, S = SM,
+W = WEG, X = Andre
+8. Antal poler; 2 = med 2 poler, 4
+= med 4 poler, 6 = med 6 poler
+9. Elektrisk spænding og frek‐
+vens;
+
+50 Hz
+
+1. NSC = Type pomp
+2. Koppelingindicatie; F = frame-
+gemonteerd, C = frame-ge‐
+monteerd met spacerkoppe‐
+ling
+3. Type aandrijving; void= stan‐
+daard asynchrone motor, H
+= uitgerust met Hydrovar, X
+=andere aandrijvingen
+4. 125–315 = Pompgrootte
+5. 220 = Nominaal motorvermo‐
+gen (kWx10)
+6. Waaier; void = volledige dia‐
+meter, A = ingekorte diameter,
+B = ingekorte, X = overige
+7. Type motor, P = PLM, S = SM,
+W = WEG, X = Overige
+8. Aantal polen; 2 = 2–polen, 4 =
+4–polen, 6 = 6–polen
+9. Elektrische voltage en fre‐
+quentie;
+
+APPX
+
+50 Hz
+
+5H
+1x220-240 V
+
+50 Hz
+
+5H
+1x220-240 V
+
+5R
+3x220-240/380-415 V
+
+5H
+1x220-240 V
+
+5R
+3x220-240/380-415 V
+
+5V
+3x380-415/660-690 V
+
+5R
+3x220-240/380-415 V
+
+5V
+3x380-415/660-690 V
+
+353

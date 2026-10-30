@@ -1,0 +1,52 @@
+Evaluation of running features and damage to dismounted bearings
+
+Pattern of rolling contact
+
+• Fatigue as a result of misalignment
+
+47: Fatigue may occur at the edge of the raceway of a misaligned tapered roller 
+bearing due to local overload.
+
+Symptoms:
+– Track asymmetric to bearing centre,
+
+fig. 40
+– Fatigue on the edges of raceway/
+
+rolling elements, fig. 47
+– Circumferential notches on the entire
+
+or part of ball surface caused by 
+plastic deformation and therefore 
+having smooth edges. In extreme 
+cases the bottoms of the notches may
+have cracks, fig. 48.
+
+Causes:
+
+48: Fatigue at the raceway edge in the case of ball bearings, e.g. with high moment
+load (edge running); left raceway edge, right ball.
+
+Due to housing misalignment or shaft
+bending the inner ring tilts as opposed
+to the outer ring and high moment loads
+result. In ball bearings this leads to a
+constraining force in the cage pockets
+(section 3.5.4) and to more sliding in
+the raceways as well as the balls running
+on the shoulder edge. In the case of rol-
+ler bearings, the raceway is asymmetri-
+cally loaded; when tilting of the rings is
+extreme, the edges of the raceways and
+rolling elements also carry the load 
+causing excess stress in those positions,
+please refer to "Tracks with misalign-
+ment" in section 3.3.1.2.
+
+Remedial measures:
+– Use self-aligning bearings
+– Correct misalignment 
+– Strengthen shaft
+
+31
+FAG

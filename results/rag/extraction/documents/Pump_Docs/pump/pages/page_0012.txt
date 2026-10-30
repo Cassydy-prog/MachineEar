@@ -1,0 +1,101 @@
+Section 1: Pumping System Basics
+
+The damaging aspect of cavitation occurs when 
+these vapor bubbles return to liquid phase in a 
+violent collapse. During this collapse, high-
+velocity water jets impinge onto surrounding 
+surfaces. The force of this impingement often 
+exceeds the mechanical strength of the impacted 
+surface, which leads to material loss. Over time, 
+cavitation can create severe erosion problems in 
+pumps, valves, and pipes.
+
+cooled and that tanks are drained or filled quickly. 
+Sufficient pressure and flow must be guaranteed 
+to satisfy system requirements; this creates a 
+tendency to oversize pumps and the motors that 
+run them. Because systems are designed with flow 
+control devices to regulate temperature and protect 
+equipment from overpressurization, oversizing 
+system pumps can burden these flow control 
+devices with high energy dissipation loads.
+
+There are four primary methods for controlling 
+flow through a system or its branches: throttle 
+valves, bypass valves, pump speed control, and 
+multiple pump arrangements. The appropriate 
+flow control method depends on the system size 
+and layout, fluid properties, the shape of the pump 
+power curve, the system load, and the system’s 
+sensitivity to flow rate changes.
+
+Other problems that cause similar damage are 
+suction and discharge recirculation. Suction 
+recirculation is the formation of damaging flow 
+patterns that result in cavitation-like damage in the 
+suction region of an impeller. Similarly, discharge 
+recirculation is the formation of damaging flow 
+patterns in the outer region of an impeller. These 
+recirculation effects usually result from operating 
+a pump at a flow rate that is too low. To avoid this 
+type of damage, many pumps are listed with a 
+minimum flow rating.
+
+A throttle valve chokes fluid flow so that less fluid 
+can move through the valve, creating a pressure 
+drop across it. Throttle valves are usually more 
+efficient than bypass valves, because as they are 
+shut, they maintain upstream pressure that can help 
+push fluid through parallel branches of the system.
+
+Bypass lines allow fluid to flow around a system 
+component. A major drawback of bypass valves is 
+their detrimental impact on system efficiency. The 
+power used to pump the bypassed fluid is wasted. 
+In static-head-dominated systems, however, bypass 
+valves could be more efficient than throttle valves 
+or systems with adjustable speed drives (ASDs).
+
+ System Types
+Like pumps, pumping system characteristics and 
+needs range widely, but they can be classified in 
+general as either closed-loop or open-loop 
+systems. A closed-loop system recirculates fluid 
+around a path with common beginning and end 
+points. An open-loop system has an input and an 
+output, as fluid is transferred from one point to 
+another. Pumps that serve closed-loop systems, 
+such as a cooling water system, typically do not 
+have to contend with static head loads unless there 
+are vented tanks at different elevations. In closed-
+loop systems, the frictional losses of system piping 
+and equipment are the predominant pump load.
+
+In contrast, open-loop systems often require 
+pumps to overcome static head requirements as a 
+result of elevation and tank pressurization needs. 
+A mine dewatering system is one example; it uses 
+pumps to move water from the bottom of a mine 
+up to the surface. In this case, static head is often 
+the dominant pump load.
+
+Pump speed control includes both mechanical and 
+electrical methods of matching the speed of the 
+pump to the flow/pressure demands of the system. 
+ASDs, multiple-speed pumps, and multiple pump 
+configurations are usually the most efficient flow 
+control options, especially in systems that are 
+dominated by friction head, because the amount 
+of fluid energy added by the pumps is determined 
+directly from the system demand. Pump speed 
+control is especially appropriate for systems in 
+which friction head predominates.
+
+Both ASDs and multiple-speed motors provide 
+efficient system operation by driving pumps at
+
+  Principles of Flow Control 
+Flow control is essential to system performance. 
+Sufficient flow ensures that equipment is properly
+
+Improving Pumping System Performance

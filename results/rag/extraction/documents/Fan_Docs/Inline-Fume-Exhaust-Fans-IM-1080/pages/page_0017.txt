@@ -1,0 +1,41 @@
+IM-1080
+
+Fan Bearing Maintenance (refer to safety section)
+Proper lubrication of the fan drive bearings helps assure maximum bearing life. All fans are equipped with decals indicating the 
+recommended relubrication intervals for normal operating conditions. Refer to the Safety & Bearing Lubrication Instructions section 
+for the lubrication schedule. Note that all speeds shown do not apply to all shaft sizes in that group. Consult the factory if in doubt of 
+maximum speed for a particular bearing. Note that every installation is different and the frequency of relubrication should be adjusted 
+accordingly. On high moisture applications, the lubrication frequency may need to be doubled or tripled to adequately protect the 
+bearings. Double the relubrication frequency on fans with vertical shafts. Observation of the conditions of the grease expelled from 
+the bearings at the time of relubrication is the best guide as to whether regreasing intervals and mount of grease added should be 
+altered.
+
+Greases are made with different bases. There are synthetic base greases, lithium base, sodium base, polyurea, etc. Avoid mixing 
+greases with different bases. They could be incompatible and result in rapid deterioration or breakdown of the grease. The lubrication 
+sticker identifies a list of acceptable lubricants. All bearings are filled with a lithium complex grease before leaving the factory. When 
+the fans are started, the bearings may discharge excess grease through the labrinth seals for a short period of time. Do not replace the 
+initial discharge because leakage will cease when the excess grease has worked out. Sometimes the bearings have a tendency to run 
+hotter during this period. This is no reason for alarm unless it lasts over 48 hours or temperatures exceed 200°F. When relubricating, 
+use a sufficient amount of grease to purge the seals. Rotate bearings by hand during relubrication. If extended lubrication lines are 
+fitted, lubricate the bearings while the fan is operating if it is safe to do so.
+
+Impeller and Shaft Maintenance (refer to safety section)
+
+Periodically inspect the shaft and impeller for dirt buildup, corrosion and signs of excess stress or fatigue. Clean the components. If 
+the impeller is removed for any reason, make sure that it is securely attached to the shaft before restarting the fan.
+
+Structural Maintenance (refer to safety section)
+All structural components or devices used to support or attach the fan to a structure should be checked at regular intervals. Vibration 
+isolators, bolts, foundations, etc., are all subject to failure from corrosion, erosion and other causes. Improper mounting can lead to 
+poor operation characteristics or fan fatigue and failure. Check metallic components for corrosion, cracks or other signs of stress. 
+Concrete should be checked to insure the structural integrity of the foundation.
+
+Duct Connections 
+(refer to safety section)
+The fan support structure is normally not designed to carry loads imposed by the weight of ducts, silencers, stacks, etc. Supporting 
+these loads on the fan can cause housing distortion and may cause performance or vibration problems. Use of flexible connections is 
+recommended for all fans and imperative when using vibration isolation or handling high temperature gases.
+
+17
+
+Installation, Operation & Maintenance Manual

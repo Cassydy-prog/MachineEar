@@ -1,0 +1,231 @@
+fi - Alkuperäisen käännöksen
+
+Vakio/lisäva‐
+
+Materiaalikoodi
+Pesän/juoksu‐
+pyörän materi‐
+
+ruste
+
+aali
+
+Ruostumaton
+
+teräs
+
+lia sisältävä vesi, sillä se voi edellyttää tehok‐
+kaampaa moottoria.
+• Jos pumpattavaa nestettä on käsitelty kemialli‐
+sesti (esimerkiksi pehmennetty, deionoitu, puh‐
+distettu suoloista tms.).
+• Mikä tahansa tilanne, joka poikkeaa kuvatuista ja
+liittyy nesteen luonteeseen.
+
+RR
+Duplex/duplex
+Valinnainen
+
+3.2  Pumppu nimitys
+Kohdassa Kuva 2 sivulla 351 on pumpun nimityksen
+koodin selitys ja yksi esimerkki.
+
+3.6  Mekaaninen tiiviste
+Tasapainottamaton yksi mekaaninen tiiviste. EN
+12756, versio K.
+
+3.7  Käyttörajat
+
+Maksimikäyttöpaine
+
+3.3  Nimikilpi
+Nimikilpi on laakeripukissa. Nimikilvestä löytyvät
+tuotteen tärkeimmät tiedot. Lisätietoja on kohdassa
+Kuva 1 sivulla 345.
+Nimikilvessä on tietoja juoksupyörän ja pesän mate‐
+riaalista, mekaanisesta tiivisteestä ja niiden materi‐
+aaleista. Lisätietoja on kohdassa Kuva 3 sivulla 363.
+
+Kuva 4 sivulla 367 näyttää maksimikäyttöpaineen
+pumppumallin ja pumpattavan nesteen lämpötilan
+mukaan.
+P1max + Pmax≤ PN
+
+IMQ, TUV, IRAM tai muu merkki (vain
+sähköpumppu)
+
+P1max
+Maksimitulopaine
+
+Pmax
+Pumpun tuottama maksimipaine
+
+PN
+Suurin käyttöpaine
+
+Ellei toisin mainita, sähköturvallisuuteen liittyvillä
+hyväksyntämerkeillä varustettujen tuotteiden hyväk‐
+syntä tarkoittaa ainoastaan sähköpumppua.
+
+Nesteen lämpötilaintervallit
+
+3.4  Pumpun kuvaus
+
+FI
+
+Kuva 4 sivulla 367 näyttää käyttölämpötila-alueet.
+Ota yhteyttä myynti- ja huoltoedustajaan, kun ky‐
+seessä ovat erikoisvaatimukset.
+
+Käynnistysten enimmäismäärä/tunti
+
+• Liitännän mitat: EN 733 (mallit
+32-125…-200; 40-125…-250; 50-125…-250;
+65-125…-315;80-160…-315; 100-200…-400;
+125-250…-400; 150-315…-400).
+• Kierukkakotelon pumppu, jossa on takaa ulosve‐
+dettävä laakeripukki.
+
+18,5
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+3.5  Materiaali
+Pumpun nestettä koskettavien metalliosien valmis‐
+tusmateriaaleja ovat:
+
+60
+40
+30
+24
+16
+8
+4
+
+Vakio/lisäva‐
+
+Materiaalikoodi
+Pesän/juoksu‐
+pyörän materi‐
+
+ruste
+
+Käyn‐
+nis‐
+tystä/
+tunti
+
+aali
+
+Melutaso
+
+CC
+Valurauta/valu‐
+
+Vakio
+
+rauta
+
+CB
+Valurauta/
+
+Vakio
+
+pronssi
+
+Vakio
+
+Tietoja vakiovarusteisella moottorilla varustetun
+pumpun äänenpainetasoista on kohdassa Taulukko
+9 sivulla 368.
+Katso pumpun äänenpainetasot ilman moottoria
+kohdasta Taulukko 10 sivulla 372.
+
+CS
+Valurauta/
+Ruostumaton
+
+teräs
+
+4  Asennus
+
+Vakio
+
+Turvatoimet
+
+CN
+Valurauta/
+Ruostumaton
+
+teräs
+
+VAROITUS:
+
+Vakio
+
+DC
+Pallografiittiva‐
+lurauta/valurau‐
+
+ta
+
+Vakio
+
+DB
+Pallografiittiva‐
+lurauta/pronssi
+
+Vakio
+
+• Noudata voimassa olevia turvalli‐
+suussääntöjä.
+• Käytä sopivaa laitetta ja suojausta.
+• Tarkista aina voimassa olevat paikal‐
+liset ja/tai kansalliset asennuspaik‐
+kaa sekä putki- ja sähköliitäntöjä kos‐
+kevat säädökset.
+
+DN
+Pallografiittiva‐
+lurauta/ruostu‐
+
+maton teräs
+
+Sähköiskun vaara:
+
+NN
+Ruostumaton
+
+Vakio
+
+teräs /
+
+• Varmista, että pätevä sähköteknikko
+on tehnyt kaikki liitännät ja että ne
+
+124

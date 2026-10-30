@@ -1,0 +1,191 @@
+no - Oversettelse av opprinnelige instruksjoner
+
+• Vanntilførsel og vannbehandling
+• Tilførsel av kjølevann og varmt vann til industri-
+og byggetjenester
+• Vannings- og sprinklersystemer
+• Oppvarmingssystemer
+• Brannslokkingsarbeid
+Andre bruksområder til valgfritt materiale:
+
+Navnskiltet befinner seg på lagerbraketten. Navnskil‐
+tet viser viktige produktspesifikasjoner. Se Figur 1 på
+side 345 for å finne ytterligere informasjon.
+Navnskiltet inneholder informasjon om løpehjulet og
+husmaterialet, den mekaniske tetningen og dens
+materialer. Se Figur 3 på side 363 for å finne ytter‐
+ligere informasjon.
+
+• Distriktsoppvarming
+• Generell industri
+
+IMQ eller TUV eller IRAM eller andre
+merkinger (kun ved elektrisk pumpe)
+
+Feil bruk
+
+Dersom det ikke står noe annet, henviser produkter
+med godkjenningsmerke i forbindelse med elektrisk
+relatert sikkerhet, kun til den elektriske pumpen.
+
+ADVARSEL:
+Uriktig bruk av pumpen kan skape farlige
+situasjoner og personskader og materiel‐
+le skader.
+
+Feilbruk av produktet fører til at garantien blir ugyl‐
+dig.
+Eksempler på feilbruk:
+
+3.4  Pumpebeskrivelse
+• Koplingsdimensjoner iht. EN 733 (modelle‐
+ne 32-125…-200; 40-125…-250; 50-125…-250;
+65-125…-315;80-160…-315; 100-200…-400;
+125-250…-400; 150-315…-400).
+• Pumpe med volutthus med lagerbrakett med ut‐
+trekk bak.
+
+3.5  Materiale
+
+NO
+
+Metalldelene på pumpen som kommer i kontakt med
+væske, er laget av følgende:
+
+• Væsker som ikke er kompatible med materialene
+som pumpen er laget av
+• Farlige væsker (f.eks. toksiske, eksplosive, tenn‐
+bare eller etsende væsker)
+• Drikkbare væsker annet enn vann (f.eks. vin eller
+melk)
+Eksempler på feil installasjon:
+
+Materialkode
+Materiale hus/
+
+Standard / valg‐
+
+løpehjul
+
+fritt
+
+CC
+Støpejern/
+
+Standard
+
+Støpejern
+
+CB
+Støpejern/Bron‐
+
+Standard
+
+• Farlige steder (som eksplosive eller etsende at‐
+mosfærer).
+• Sted der lufttemperaturen er svært høy eller sted
+som er dårlig ventilert.
+• Utendørs installasjoner der det ikke finnes vern
+mot regn eller temperaturer under 0 °C.
+
+se
+
+Standard
+
+CS
+Støpejern/
+Rustfritt stål
+
+Standard
+
+FARE:
+Du må ikke bruke denne pumpen til å
+håndtere antennelige og/eller eksplosive
+væsker.
+
+CN
+Støpejern/
+Rustfritt stål
+
+MERK:
+
+Datainnsamling
+Kulegrafittjern/
+
+Standard
+
+Støpejern
+
+DB
+Kulegrafittjern/
+
+Standard
+
+Bronse
+
+DN
+Kulegrafittjern /
+
+Standard
+
+• Du må ikke bruke denne pumpen til å håndtere
+væsker som inneholder slipende, faste eller fibre‐
+te stoffer.
+• Ikke bruk pumpen ved strømningshastigheter
+som er høyere enn de spesifiserte strømningsha‐
+stighetene på dataskiltet.
+
+Rustfritt stål
+
+NN
+Rustfritt stål /
+
+Standard
+
+Spesielle bruksområder
+
+Rustfritt stål
+
+RR
+Duplex/Duplex
+Valgfritt
+
+Kontakt den lokale salgs- og servicerepresentanten i
+følgende tilfeller:
+
+3.6  Mekanisk tetning
+Ubalansert enkel mekanisk tetning iht. EN 12756,
+versjon K.
+
+3.7  Bruksgrenser
+
+Maksimalt arbeidstrykk
+
+• Det kan være at det er nødvendig med kraftigere
+motor dersom tettheten og/eller viskositetsverdi‐
+en til væsken som pumpes, overstiger vannets
+verdi.
+• Dersom væsken som pumpes, er kjemisk be‐
+handlet (f.eks. gjort blødere, deionisert, demine‐
+ralisert, osv.)
+• Alle situasjoner som avviker fra dem som beskri‐
+ves og er relatert til væskens sammensetning.
+
+Figur 4 på side 367 viser maksimalt arbeidstrykk
+avhengig av pumpemodellen og temperaturen til væ‐
+sken som pumpes.
+P1maks. + Pmaks.≤ PN
+
+3.2  Pumpe benevning
+Se Figur 2 på side 351 for å finne en forklaring på
+benevnings-koden til pumpen og ett eksempel.
+
+P1maks.
+Maksimalt inntakstrykk
+
+3.3  Navnskilt
+
+Pmaks.
+Maksimalt trykk som genereres av pumpen
+
+101

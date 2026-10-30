@@ -1,0 +1,204 @@
+no - Oversettelse av opprinnelige instruksjoner
+
+Motor med lagre som kan smøres på nytt.
+
+Årsak
+Middel
+
+Følg vedlikeholdsinstruksjonene til motorleverandø‐
+ren.
+
+fibermateriale) inni pum‐
+pen slik at pumpehjulet
+er kilt fast.
+
+Kobling
+
+Pumpen er overbelastet
+fordi den pumper væske
+som er for tett og viskøs.
+
+Kontroller klaringen i koplingselementene med be‐
+stemte mellomrom, minst én gang i året. Vi anbefa‐
+ler kontroller etter hver 1000 driftstimer eller hver 3.
+måned, det som skjer først.
+
+Kontroller de faktiske
+strømkravene basert på
+egenskapene til væsken
+som pumpes, og kontakt
+Salgs- og service-avdelin‐
+gen etterpå.
+
+6.2  Sjekkliste ved inspeksjon
+
+Pumpen går, men leverer for lite væske eller ikke
+væske i det hele tatt
+
+Årsak
+Middel
+
+Kontroll koblingen
+Kontroller koplingens
+fleksible elementer. Skift
+ut aktuelle deler hvis det
+finnes tegn til slitasje, og
+kontroller justeringen.
+
+Pumpen er tilstop‐
+pet.
+
+Kontakt Salgs og service-av‐
+delingen.
+
+Kontrollere den mekani‐
+ske tetningen
+
+Feilsøkningsinstruksjonene i tabellen nedenfor er be‐
+regnet kun på installatører.
+
+Kontroller for å se et‐
+ter lekkasje i den meka‐
+niske tetningen. Skift ut
+den mekaniske tetningen
+hvis det oppdages lekka‐
+sje.
+
+NO
+
+7.2  Hovedbryteren er på, men den elektriske
+pumpen starter ikke
+
+Kontroller lagerforseglin‐
+gene
+
+Årsak
+Middel
+
+Kontroller at de aksiale
+pakningen som er mon‐
+tert på akslingen, sitter
+riktig på plass. Det skal
+bare være en forsiktig
+kontakt med forseglings‐
+leppen.
+
+Det finnes ikke strøm.
+• Få tilbake strømmen.
+• Sørg for at alle de elektri‐
+ske koplingene til strøm‐
+forsyningen er på plass.
+
+Kontroller stillegående
+kjøring
+
+Kontroller ofte stillegåen‐
+de kjøring av pumpen
+med verktøy som måler
+vibrasjon.
+
+Vent til pumpen er nedkjølt.
+Den termiske bryteren tilba‐
+kestilles automatisk.
+
+Den termiske bryter
+som er en del av pum‐
+pen (dersom en slik
+finnes), er blitt utløst.
+
+Tilbakestill den varmever‐
+net.
+
+6.3  Demonter og skift ut pumpedeler
+Kontakt den lokale salgs- og servicerepresentanten
+for å få ytterligere informasjon om reservedeler og
+montering og demontering av pumpen.
+
+Varmereléet eller mo‐
+torvernet i det elektri‐
+ske kontrollpanelet er
+blitt utløst.
+
+Kontroller følgende:
+
+7  Feilsøking
+
+Verneinnretningen
+mot tørrkjøring er blitt
+utløst.
+
+• væskenivået i tanken el‐
+ler trykket på rørnettet.
+• verneinnretningen og til‐
+koplede kabler.
+
+7.1  Brukernes feilsøking
+Hovedbryteren er på, men den elektriske pumpen
+starter ikke.
+
+Skift ut sikringene.
+
+Årsak
+Middel
+
+Sikringene på pumpe‐
+ne eller tilleggskretse‐
+ne har røket.
+
+Den termiske bryter
+som er en del av pum‐
+pen (dersom en slik fin‐
+nes), er blitt utløst.
+
+Vent til pumpen er ned‐
+kjølt. Den termiske bryte‐
+ren tilbakestilles automa‐
+tisk.
+
+7.3  Den elektriske pumpen starter, men
+den termiske bryteren utløses eller sikringen
+ryker rett etterpå
+
+Verneinnretningen mot
+tørrkjøring er blitt utløst.
+
+Kontroller væskenivået i
+tanken eller trykket på rør‐
+nettet.
+
+Årsak
+Middel
+
+Strømkabelen er ska‐
+det.
+
+Kontroller kabelen, og skift
+ut om nødvendig.
+
+Den elektriske pumpen starter, men den termiske
+bryteren ble utløst på forskjellige tidspunkter etter‐
+på.
+
+Kontroller komponentene,
+og skift ut om nødvendig.
+
+Varmevern eller sikrin‐
+ger er ikke egnet til
+motorstrøm.
+
+Årsak
+Middel
+
+Den elektriske moto‐
+ren har kortsluttet.
+
+Kontroller komponentene,
+og skift ut om nødvendig.
+
+Det finnes fremmedlege‐
+mer (faste stoffer eller
+
+Kontakt Salgs og service-
+avdelingen.
+
+108

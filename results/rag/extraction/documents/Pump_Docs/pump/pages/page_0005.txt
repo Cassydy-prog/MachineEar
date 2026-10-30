@@ -1,0 +1,104 @@
+Quick Start Guide
+
+Quick Start Guide
+
+■	Determine the most technically and
+
+economically sound options, taking into 
+consideration all of the subsystems
+
+■	Implement the best option
+
+■	Assess energy consumption with respect
+
+to performance
+
+■	Continue to monitor and optimize the system
+
+This sourcebook is designed to provide pumping 
+system users with a reference that outlines oppor-
+tunities for improving system performance. It is 
+not meant to be a comprehensive technical text 
+on pumping systems; rather, it provides practical 
+guidelines and information to make users aware 
+of potential performance improvements. Guidance 
+on how to find more information and assistance is 
+also included.
+
+■	Continue to operate and maintain the system
+
+for peak performance.
+
+To use a systems approach effectively, a pumping 
+system designer needs to understand system 
+fundamentals, know where opportunities for 
+improvements are commonly found, and have a 
+list of key resources that can help to identify and 
+implement successful projects. Therefore, this 
+sourcebook is divided into four main sections, 
+as outlined below.
+
+Throughout this sourcebook, performance and 
+efficiency improvements are described in terms 
+of a “systems approach.” For cost-effective 
+operation and maintenance of pumping systems, 
+attention must be paid not just to individual pieces 
+of equipment but to the system as a whole. A 
+systems approach to optimizing a pumping system 
+analyzes both the supply and demand sides of the 
+system and how they interact, shifting the focus 
+from individual components to total system 
+performance.
+
+Often, operators are so focused on the immediate 
+demands of equipment that they overlook the 
+broader question:  How do the system’s param-
+eters affect this equipment? For example, 
+frequently replacing pump seals and bearings 
+can keep a maintenance crew so busy that they 
+overlook the system operating conditions that are 
+causing most (or all) of the problems.
+
+A systems approach involves the following types 
+of interrelated actions:
+
+ Section 1. Pumping System Basics
+If you are not familiar with the basics of pumping 
+systems, the first section provides a brief 
+discussion of terms, relationships, and important 
+system design considerations. It describes key 
+factors involved in pump selection and system 
+design; it also provides an overview of different 
+types of pumps and their general applications. 
+Key terms and parameters used in selecting 
+pumps, designing systems, and controlling fluid 
+flow are discussed. If you are already familiar 
+with pumping systems, you might want to skip 
+this section and go straight to the next one.
+
+■	 Establish current conditions and operating
+
+parameters
+
+■	 Determine present and estimate future process
+
+production needs
+
+■	 Gather and analyze operating data and develop
+
+load duty cycles
+
+■	 Assess alternative system designs and
+
+ Section 2. Performance Improvement 
+Opportunity Roadmap
+This section describes the key components of a 
+pumping system and opportunities to improve 
+the system’s performance. Also provided is a 
+figurative system diagram identifying pumping 
+system components and performance improve-
+ment opportunities. A set of fact sheets describing
+
+improvements
+
+A Sourcebook for Industry

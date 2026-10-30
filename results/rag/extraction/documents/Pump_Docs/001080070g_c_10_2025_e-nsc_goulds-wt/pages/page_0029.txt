@@ -1,0 +1,175 @@
+fr - Instructions initiales
+
+Cause
+Remedy
+
+Cause
+Remedy
+
+There is a leakage in one or
+both of the following compo‐
+nents:
+
+Repair or replace
+the faulty compo‐
+nent.
+
+check the operating conditions
+of the pump (for example height
+difference, flow resistance, liquid
+temperature).
+
+• The suction pipe
+• The foot valve or the check
+valve
+
+The motor bear‐
+ings are worn.
+
+Contact the local sales and serv‐
+ice representative.
+
+Contact the local sales and serv‐
+ice representative.
+
+There is a ruptured membrane
+or no air pre-charge in the pres‐
+sure tank.
+
+There are foreign
+objects inside
+the pump.
+
+See the relevant
+instructions in
+the pressure tank
+manual.
+
+FR
+
+Impeller rubs on
+the wear ring
+
+Contact the local sales and serv‐
+ice representative.
+
+Check the coupling alignment.
+
+7.11  The pump vibrates and generates too
+much noise
+
+Coupling mis‐
+aligned
+
+Cause
+Remedy
+
+Check and replace the relevant
+parts if there is any sign of wear.
+
+Flexible ele‐
+ments of the
+coupling worn
+
+Pump cavitation
+Reduce the required flow rate
+by partially closing the ON-OFF
+valve downstream from the
+pump. If the problem persists
+
+For any other situation, refer to the local sales and
+service representative.
+
+Niveaux de risque
+
+1  Introduction et sécurité
+
+Niveau de risque
+Indication
+
+1.1  Introduction
+
+Objet de ce manuel
+
+DANGER:
+
+L'objet de ce manuel est d'apporter les informations
+nécessaires pour :
+
+Une situation dangereu‐
+se qui, si elle n’est pas
+évitée, entraînera la mort
+ou des blessures corpo‐
+relles graves
+
+• Montage
+• Fonctionnement
+• Maintenance
+
+AVERTISSE‐
+MENT:
+
+Une situation dangereu‐
+se qui, si elle n’est pas
+évitée, peut entraîner la
+mort ou des blessures
+corporelles graves
+
+ATTENTION:
+
+ATTENTION:
+Lire attentivement ce manuel avant d'ins‐
+taller et d'utiliser ce produit. Une mauvai‐
+se utilisation du produit peut entraîner
+des blessures et des dégâts matériels et
+pourrait annuler la garantie.
+
+Une situation dangereu‐
+se qui, si elle n’est pas
+évitée, peut entraîner des
+blessures corporelles mi‐
+neures ou légères
+
+REMARQUE:
+
+REMARQUE:
+Conserver ce manuel pour une consultation ultérieu‐
+re et veiller à ce qu'il puisse facilement être consulté
+sur le site à tout moment.
+
+S’utilisent quand il existe
+un risque de dommages
+matériels ou de réduc‐
+tion des performances,
+mais pas de blessure
+
+1.2  Terminologie et symboles de sécurité
+
+Symboles spéciaux
+
+À propos des messages de sécurité
+
+Certaines catégories de dangers sont signalées par
+des symboles spécifiques, comme indiqué dans le
+tableau suivant.
+
+Il est extrêmement important de lire, comprendre et
+respecter soigneusement les consignes de sécurité
+et la réglementation avant d’utiliser ce produit. Ces
+consignes sont publiées pour contribuer à la préven‐
+tion des risques suivants :
+
+Danger électrique
+Risque de champ ma‐
+gnétique
+
+• Accidents corporels et problèmes de santé
+• Dommage au produit et à son environnement
+• Dysfonctionnement du produit
+
+ATTENTION:
+
+Risque élec‐
+trique:
+
+25

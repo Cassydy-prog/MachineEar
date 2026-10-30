@@ -1,0 +1,69 @@
+IM-1080
+
+Drive Maintenance (refer to safety section)
+
+V-belt drives need periodic inspection, retensioning and occasional belt replacement. When inspecting drives, look for dirt buildup, 
+burrs or obstructions that can cause premature belt or drive replacement. If burrs are found, use fine emery cloth or a stone to remove 
+them. Be careful that dust does not enter the bearings.
+
+WARNING
+
+When working around belts and pulleys, keep 
+hands away from pinch points.
+
+Check sheaves for wear. Excessive slippage of belts on sheaves can cause wear and 
+vibration. Replace worn sheaves with new ones. Carefully align sheaves to avoid 
+premature sheave failure. If fraying or other wear is observed to be mostly on one 
+side of the belts, the drives may be misaligned. Realign and reinstall new belts. 
+Tighten sheave bolts (or set screws if appropriate).
+
+When replacing belts, replace the entire set. Never use belt dressing on any belts, as it may cause belt wear.
+
+Motor Change-Out and Jib Crane
+
+WARNING
+
+Designed to handle the weight of the heaviest individual component. The 
+mount is connected to the specially reinforced mixing box spacer mixing 
+box structure. Single and double mixing boxes receive one (1) jib crane. 
+3x1 and 4x1 configurations receive two (2) jib cranes.
+
+Be aware of your surroundings as fan 
+components can be heavy.
+
+Motor Change-Out Procedure (Direct Drive Fans)
+Twin City Fan Model TVIFE is available with a portable jib crane option for 
+use in removing the motor. The jib crane mounts directly to a fabricated 
+base that is built into the mixing plenum box. When using a jib crane 
+verify that it is not being used to lift loads that are greater than its design 
+capacity.
+
+To remove the motor:
+Attach the jib crane to the mounting bracket on the mixing plenum box, 
+verify that all attachments are properly tightened and that there are no 
+cracks and no damage on the crane or mounting bracket.
+
+Position the jib crane above the windband of the fan and rig the crane 
+cable to the lifting brackets on the windband itself. Wind in cable until 
+all lines are taught. Remove all bolts securing the windband to the fan 
+assembly itself. Lift the windband off of the fan assembly and lower it to 
+the roof top.
+
+Position the jib crane above the fan housing and again rig the crane cable 
+to the lifting brackets on the fan housing and tighten the cable. Remove 
+all bolts holding the fan housing to mounting bracket on the mixing box 
+or curb cap. Lift the fan housing and lower it to the roof top. Loosen and 
+remove impeller from motor shaft. Loosen and remove bolts holding 
+motor to fan housing and remove motor.
+
+Install new motor:
+Attach motor to fan housing, make sure all bolts are sufficiently tightened. 
+Attach impeller to motor shaft and tighten. Using jib crane, lift impeller 
+and housing assembly by mounting brackets back onto mixing box/curb 
+cap. Carefully lower housing assembly onto box. Verify impeller and funnel 
+are overlapping correctly. Bolt housing assembly to mixing plenum box/
+curb cap. Lift windband by lifting lugs and align with bolt holes on top of 
+fan assembly. Bolt windband to fan assembly.
+
+Installation, Operation & Maintenance Manual
+18

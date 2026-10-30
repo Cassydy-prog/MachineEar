@@ -1,0 +1,170 @@
+sk - Preklad originálu
+
+• Používajte iba dynamicky vyvážené motory s kľú‐
+čom nadstavca hriadeľa polovičných rozmerov
+(IEC 60034-14) a s normálnou rýchlosťou vibrácií
+(N).
+• Sieťové napätie a frekvencia musí zodpovedať
+technickým požiadavkám uvedeným na typovom
+štítku.
+
+Motory môžu obyčajne fungovať v rámci nasledujú‐
+cich odchýlok sieťového napätia:
+
+Frekvencia Hz
+Fáza ~
+UN [V] ± %
+
+50
+1
+220 – 240 ± 6
+
+3
+230/400 ± 10
+
+4. Ak sú prítomné, odstráňte zátky zakrývajúce sa‐
+cie a vypúšťacie otvory.
+5. Zarovnajte sacie a vypúšťacie otvory s ich potru‐
+bím.
+6. Upevnite potrubný systém k jednotke; pozrite si
+tiež Kontrolný zoznam systému potrubia na stra‐
+ne 209.
+7. V prípade potreby vložte vyrovnávacie podložky
+medzi základňu a základňu: ak je vzdialenosť
+medzi spojovacími tyčami > 800 mm, vložte dve
+dodatočné podložky do stredu základne. Všetky
+podložky musia byť dokonale vypláchnuté. Pozri‐
+te si Obrázok 17 na strane 384.
+8. Rovnomerne a úplne utiahnite matice spojovacej
+tyče a uistite sa, že sú uťahovacie momenty uve‐
+dené v tabuľke.
+
+400/690 ± 10
+
+60
+1
+220 – 230 ± 6
+
+Matica
+Krútiaci moment, Nm
+(lbf·in)
+
+3
+220/380 ± 5
+
+M12
+60 (44)
+
+380/660 ± 10
+
+M16
+120 (89)
+
+M20
+200 (148)
+
+M24
+350 (258)
+
+Použite káble podľa smerníc s 3 žilami (2+zem) pre
+jednofázové verzie, a so 4 žilami (3+zem) pre trojfá‐
+zové verzie.
+
+M27
+530 (391)
+
+4.3  Inštalácia čerpadla
+
+Poznámka:
+
+4.3.1  Mechanická montáž
+
+Montážna oblasť
+
+• Pre základné dosky sa odporúča zálievková mal‐
+ta s nezrážajúcim sa betónom.
+
+Namontujte čerpadlo k základnému rámu
+
+Uistite sa, že ste skontrolovali a dodržali nasledujú‐
+ce:
+
+Jednotku nainštalujte na betónovú alebo kovovú zá‐
+kladňu dostatočne silnú na zabezpečenie trvalej a
+pevnej podpery. Postupujte podľa požiadaviek uve‐
+dených v časti Umiestnenie čerpadla na strane 206.
+
+Inštalácia na betónovom základe
+
+Základné požiadavky
+
+SK
+
+• Pevný základný rám, ktorý sa nekrúti ani nevibru‐
+je počas prevádzky (nerezonuje).
+• Montážne povrchy päty čerpadla a motor na pev‐
+nom základnom ráme musia byť ploché (odporú‐
+ča sa strojové obrobenie).
+• Musí byť zabezpečené bezpečné upevnenie čer‐
+padla a motora.
+• V závislosti od použitého spoja musí byť medzi
+čerpadlom a hriadeľom motora dostatočná vzdia‐
+lenosť.
+• Medzi čerpadlom a základným rámom musí byť
+primerané vyrovnávanie, aby sa v prípade výme‐
+ny dala nastaviť rovnaká výška medzi spodnou a
+stredovou čiarou (odporúčané vertikálne nastave‐
+nie 4 – 6 mm
+
+Zníženie vibrácií
+
+• Betón musí mať kompresný odpor C12/15 a musí
+spĺňať požiadavky expozičnej triedy XC1 podľa
+EN 206-1
+• Veľkosti musia zodpovedať veľkostiam nosnej
+dosky jednotky
+• Základná hmotnosť musí byť ≥ 1,5-násobkom
+hmotnosti jednotky (≥ 5-násobok hmotnosti jed‐
+notky, ak sa vyžaduje tichšia prevádzka)
+• Povrch by mal byť čo najrovnejší a najrovnejší
+• Sklon musí byť ≤ 1 mm/m.
+Ďalšie pokyny nájdete v dokumente č. 001080247X:
+ak ho chcete stiahnuť, naskenujte QR kód, ktorý náj‐
+dete v Obrázok 17 na strane 384.
+
+Upevnenie čerpadla
+
+Príklady horizontálnej a vertikálnej montáže nájdete
+v Obrázok 15 na strane 383.
+
+Jednotka a prietok kvapalín v systéme môžu genero‐
+vať vibrácie, ktoré možno zosilniťInštalácia na betó‐
+novom základe na strane 208Upevnenie čerpadla na
+strane 208, ak jednotka alebo potrubný systém nie
+sú správne nainštalované: okrem Kontrolný zoznam
+systému potrubia na strane 209
+
+Odporúča sa tiež:
+
+1. Pozrite si technický katalóg pre:
+– Priemer a počet dier základu
+– Vzdialenosť otvorov
+– Výpočet veľkosti a množstva spojovacích tyčí
+
+• Skontrolujte, či sú čerpadlo a motor bezpečne
+pripevnené k základni.
+• Vložte antivibračný materiál medzi základňu a zá‐
+kladňu
+• Ak má jednotka zváranú základňu, doplňte betó‐
+nom priestory zobrazené na Obrázok 25 na stra‐
+ne 397.
+
+s chemickými kotvami v závislosti od modelu
+jednotky.
+2. Vyvŕtajte základ a zaistite upevňovacie tyče.
+3. Jednotku položte na základňu a na výtlačný port
+a hriadeľ použite vodováhu, aby ste sa uistili, že
+je vo vodorovnej polohe.
+Maximálna prípustná tolerancia: 0,2 mm/m.
+
+208

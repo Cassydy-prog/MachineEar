@@ -1,0 +1,183 @@
+es - Traducción del original
+
+7.10  Die Pumpe startet zu häufig
+
+Ursache
+Abhilfemaßnahme
+
+Ursache
+Abhilfemaßnahme
+
+steht, prüfen Sie die Betriebs‐
+bedingungen der Pumpe (zum
+Beispiel Höhendifferenz, Durch‐
+flusswiderstand, Medientempera‐
+tur, usw.).
+
+In einer oder beiden der fol‐
+genden Komponenten ist ei‐
+ne Leckage vorhanden:
+
+Reparieren Sie die
+betroffene Kompo‐
+nente oder tauschen
+Sie sie aus.
+
+Wenden Sie sich an den lokalen
+Vertriebs- und Servicevertreter.
+
+• Ansaugrohr
+• Fußventil oder Rück‐
+schlagventil
+
+Die Motorlager
+sind verschlis‐
+sen.
+
+Wenden Sie sich an den lokalen
+Vertriebs- und Servicevertreter.
+
+Eine Membran ist gerissen,
+oder der Druckbehälter ent‐
+hält keine Luft.
+
+In der Pumpe be‐
+finden sich
+Fremdkörper.
+
+Siehe die relevan‐
+te Anweisungen
+im Druckbehälter-
+Handbuch.
+
+Wenden Sie sich an den lokalen
+Vertriebs- und Servicevertreter.
+
+Laufrad schleift
+auf dem Ver‐
+schleißring.
+
+ES
+
+7.11  Die Pumpe vibriert und erzeugt zu viel
+Lärm
+
+Kupplung falsch
+ausgerichtet
+
+Prüfen Sie die Ausrichtung der
+Kupplung.
+
+Ursache
+Abhilfemaßnahme
+
+Flexible Elemen‐
+te der Kupplung
+verschlissen
+
+Bauteile überprüfen und Teile
+austauschen, wenn sie Anzei‐
+chen von Verschleiß zeigen.
+
+Pumpenkavitati‐
+on
+
+Reduzieren Sie den erforderli‐
+chen Durchfluss, indem Sie
+das ON-OFF-Ventil stromabwärts
+der Pumpe teilweise schließen.
+Wenn das Problem weiterhin be‐
+
+In allen anderen Fällen wenden Sie sich bitte an den
+lokalen Vertriebs- und Servicevertreter.
+
+Niveles de riesgo
+
+1  Introducción y seguridad
+
+Nivel de riesgo
+Indicación
+
+1.1  Introducción
+
+Propósito de este manual
+
+PELIGRO:
+
+Una situación peligrosa
+que, si no se evita, provo‐
+cará la muerte o lesiones
+graves.
+
+Este manual está concebido para ofrecer la informa‐
+ción necesaria sobre:
+
+• Instalación
+• Funcionamiento
+• Mantenimiento
+
+ADVERTEN‐
+CIA:
+
+Una situación peligrosa
+que, si no se evita, pue‐
+de provocar la muerte o
+lesiones graves.
+
+¡PRECAU‐
+CIÓN!:
+
+Una situación peligrosa
+que, si no se evita, puede
+provocar lesiones leves o
+moderadas.
+
+¡PRECAUCIÓN!:
+Lea este manual atentamente antes de
+instalar y utilizar el producto. El uso inco‐
+rrecto de este producto puede provocar
+lesiones personales y daños materiales,
+además de anular la garantía.
+
+NOTA:
+
+Se utilizan avisos cuan‐
+do hay riesgo de daños
+en el equipo un menor
+rendimiento, pero no da‐
+ños personales.
+
+NOTA:
+Guarde este manual para futura referencia y mantén‐
+galo a mano en el lugar donde esté situada de la
+unidad.
+
+Símbolos especiales
+
+1.2  Terminología y símbolos de seguridad
+
+Algunas categorías de riesgo tienen símbolos espe‐
+cíficos, como se muestran en la siguiente tabla.
+
+Acerca de los mensajes de seguridad
+
+Peligro eléctrico
+Peligro de campos mag‐
+néticos
+
+Es fundamental que lea, comprenda y siga los men‐
+sajes y las normativas de seguridad antes de mani‐
+pular el producto. Se publican con el fin de prevenir
+estos riesgos:
+
+Peligro eléc‐
+trico:
+
+¡PRECAU‐
+CIÓN!:
+
+• Accidentes personales y problemas de salud
+• Daños en el producto y su entorno
+• Funcionamiento defectuoso del producto
+
+50

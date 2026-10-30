@@ -1,0 +1,208 @@
+da - Oversættelse af original instruktioner
+
+Årsag
+Afhjælpning
+
+7.1  Fejlsøgning for brugere
+Hovedafbryderen er tændt, men den elektriske pum‐
+pe starter ikke.
+
+Årsag
+Afhjælpning
+
+• væskeniveauet i tanken
+eller hovedtrykket.
+• den beskyttende enhed
+og dens forbindelses‐
+kabler
+
+Udskift sikringerne.
+
+Den integrerede termiske
+beskytter, der er integreret
+i pumpen (hvis der er no‐
+gen), er udløst.
+
+Vent, til pumpen er ned‐
+kølet. Den termiske be‐
+skytter nulstilles auto‐
+matisk.
+
+Sikringerne til pumpen
+eller hjælpekredsløbet
+er sprunget.
+
+Den beskyttende enhed
+mod tørkørsel er udløst.
+
+Kontrollér væskeniveau‐
+et i tanken eller hoved‐
+trykket.
+
+7.3  Den elektriske pumpe starter, men den
+termiske beskytter udløses, eller sikringerne
+springer kort tid efter
+
+Den elektriske pumpe starter, men den termiske af‐
+bryder udløses på et varierende tidspunkt derefter.
+
+Årsag
+Afhjælpning
+
+Årsag
+Afhjælpning
+
+Strømforsyningskablet
+er beskadiget.
+
+Kontrollér kablet og udskift
+det, hvis det er nødvendigt.
+
+Kontakt salgs- og ser‐
+viceafdelingen.
+
+DA
+
+Kontrollér komponenterne
+og udskift dem, hvis det er
+nødvendigt.
+
+Den termiske beskyt‐
+telse eller sikringerne
+passer ikke til motor‐
+strømmen.
+
+Der er fremmedlegemer
+(faste stoffer eller fibrø‐
+se substanser) inden i
+pumpen, der har blokeret
+kompressorhjulet.
+
+Den elektriske motor
+er kortsluttet.
+
+Kontrollér komponenterne
+og udskift dem, hvis det er
+nødvendigt.
+
+Pumpen er overbelastet,
+fordi den pumper væske,
+der er for tæt og viskos.
+
+Motoren er overbela‐
+stet.
+
+Kontrollér de faktiske
+strømkrav, der er base‐
+ret på karakteristikken af
+den pumpede væske og
+kontakt derefter salgs-
+og serviceafdelingen.
+
+Kontrollér pumpens drifts‐
+betingelser og nulstil be‐
+skyttelsen.
+
+Pumpen kører men leverer for lidt eller ingen væske.
+
+Årsag
+Afhjælpning
+
+7.4  Den elektriske pumpe starter, men den
+termiske beskytter udløses, eller sikringerne
+springer kort tid efter
+
+Pumpen er tilstop‐
+pet.
+
+Kontakt salgs- og serviceaf‐
+delingen.
+
+Årsag
+Afhjælpning
+
+Fejlsøgningsintruktionerne i tabellerne nedenfor er
+kun installatører.
+
+Beskyt det elektriske pa‐
+nel mod varmekilden og
+direkte sollys.
+
+Det elektriske panel er an‐
+bragt på et for ophedet
+område, eller er ekspone‐
+ret for direkte sollys.
+
+7.2  Hovedkontakten er tændt, men den
+elektriske pumpe starter ikke
+
+Kontrollér motorens
+driftsbetingelser.
+
+Årsag
+Afhjælpning
+
+Strømforsyningsspæn‐
+dingen ligger ikke inden
+for motorens arbejdsbe‐
+grænsninger.
+
+Kontrollér
+
+Der er ingen strømfor‐
+syning.
+
+Der mangler en strømfa‐
+se.
+
+• strømforsyningen
+• den elektriske forbin‐
+delse.
+
+• Genopret strømforsy‐
+ningen.
+• Sørg for, at alle forbin‐
+delser til strømforsynin‐
+gen er intakte.
+
+Vent, til pumpen er nedkø‐
+let. Den termiske beskytter
+nulstilles automatisk.
+
+7.5  Den elektriske pumpe starter, men den
+termiske beskytter udløses en varierende tid
+efter
+
+Den integrerede termi‐
+ske beskytter, der er in‐
+tegreret i pumpen (hvis
+der er nogen), er ud‐
+løst.
+
+Årsag
+Afhjælpning
+
+Nulstil den termiske be‐
+skytter.
+
+Det termiske relæ eller
+motorafbryderen i det
+elektriske kontrolpanel
+er udløst.
+
+Kontakt den lokale salgs-
+og servicerepræsentant.
+
+Kontrollér:
+
+Der er fremmedlegemer
+(faste stoffer eller fibrø‐
+se substanser) inden i
+pumpen, der har bloke‐
+ret kompressorhjulet.
+
+Den beskyttende enhed
+mod tørkørsel er ud‐
+løst.
+
+97

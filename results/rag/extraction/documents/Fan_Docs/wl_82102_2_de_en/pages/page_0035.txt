@@ -1,0 +1,61 @@
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+3.3.2.2 Corrosion damage
+
+Remedial measures:
+– Suitable storage according to the
+
+• Corrosion due to humidity (rust)
+
+the contact areas when standstill is for a
+long period, fig. 54. This leads to wear 
+at a later stage and premature fatigue 
+originating at the rust pits.
+
+Symptoms:
+
+specifications of rolling bearing 
+manufacturer
+– Improvement in seals (additional
+
+Causes:
+– Incorrect storage in warehouse (rela-
+
+shields perhaps)
+– Use lubricant with corrosion inhibi-
+
+Brownish discolouration of the com-
+plete bearing surface, usually unevenly
+distributed in the form of individual
+pits, fig. 53.
+
+tive air humidity > 60%)
+– Extreme temperature variations (con-
+
+tors
+– Relubricate frequently in the case of
+
+densation moisture)
+– Sealing failure (accelerated by the
+
+grease lubrication, particularly prior
+to standstill periods
+
+In many cases there are also spots of
+rust with pits at the rolling element
+pitch (standstill corrosion). Capillary 
+effect causes humidity to concentrate on
+
+abrasive action of dirt, fig. 87)
+– Unsuitable lubricant
+
+53: Corrosion of the outer ring of a
+deep groove ball bearing, the 
+corrosion protection of which was
+destroyed by humidity
+
+54: Corrosion pits in the raceway at rolling element pitch
+
+FAG
+34

@@ -1,0 +1,213 @@
+pl - Tłumaczenie oryginału
+
+Poziom hałasu
+
+Kod materiału
+Materiał obudo‐
+
+Standard/opcja
+
+wy/wirnika
+
+Standardowy
+
+CS
+żeliwo/
+Stal nierdzewna
+
+Standardowy
+
+Poziomy ciśnienia akustycznego pomp wyposażo‐
+nych w silniki standardowe zamieszczono w Tabela
+9 na stronie 368.
+Poziomy ciśnienia akustycznego pomp bez silnika
+zamieszczono w Tabela 10 na stronie 372.
+
+CN
+żeliwo/
+Stal nierdzewna
+
+4  Instalacja
+
+DC
+Żeliwo sferoidal‐
+
+Standardowy
+
+ne / żeliwo
+
+Środki ostrożności
+
+DB
+Żeliwo sferoidal‐
+
+Standardowy
+
+ne / brąz
+
+OSTRZEŻENIE:
+
+DN
+Żeliwo sferoidal‐
+
+Standardowy
+
+ne / stal nie‐
+
+rdzewna
+
+NN
+stal nierdzew‐
+
+Standardowy
+
+na/
+Stal nierdzewna
+
+RR
+Dupleks/
+
+Opcjonalne
+
+dupleks
+
+• Przestrzegać obowiązujących przepi‐
+sów dotyczących zapobiegania wy‐
+padkom.
+• Używać odpowiedniego sprzętu i
+środków ochrony.
+• Należy zawsze przestrzegać lokal‐
+nych i/lub krajowych przepisów, regu‐
+lacji prawnych i norm dotyczących
+wyboru miejsca instalacji oraz przyłą‐
+czy wody i zasilania.
+
+3.6  Uszczelnienie mechaniczne
+
+Niebezpieczeństwo porażenia prądem
+elektrycznym:
+
+Niesymetryczne, pojedyncze uszczelnienie mecha‐
+niczne zgodnie z normą. EN 12756, wersja K.
+
+3.7  Limity stosowania
+
+Maksymalne ciśnienie robocze
+
+Rysunek 4 na stronie 367 przedstawia maksymalne
+ciśnienie robocze w zależności od modelu pompy
+oraz temperatury pompowanej cieczy.
+P1maks + Pmaks≤ PN
+
+• Sprawdzić, czy wszystkie połączenia
+zostały wykonane przez technika wy‐
+kwalifikowanego w zakresie montażu,
+zgodnie z obowiązującymi przepisa‐
+mi.
+• Przed rozpoczęciem pracy przy jed‐
+nostce należy sprawdzić, czy jednost‐
+ka i panel sterowania są odcięte od
+źródła zasilania i nie można dostar‐
+czać do nich mocy. Dotyczy to rów‐
+nież obwodu sterowania.
+
+PL
+
+P1maks
+Maksymalne ciśnienie wlotowe
+
+Uziemienie (masa)
+
+Pmaks
+Maksymalne ciśnienie wytwarzane przez
+pompę
+
+PN
+Maksymalne ciśnienie robocze
+
+Niebezpieczeństwo porażenia prądem
+elektrycznym:
+
+Przedziały temperatur cieczy
+
+Rysunek 4 na stronie 367 przedstawia zakresy tem‐
+peratur roboczych.
+W sprawie wymagań szczególnych należy skontak‐
+tować się z przedstawicielem działu sprzedaży i ser‐
+wisu.
+
+Maksymalna liczba uruchomień na godzinę
+
+18,5
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+60
+40
+30
+24
+16
+8
+4
+
+Licz‐
+ba
+uru‐
+cho‐
+mień
+na
+go‐
+dzinę
+
+• Zawsze przyłączać przewód zew‐
+nętrznego zabezpieczenia do zacisku
+uziemienia (masy), zanim zostaną
+wykonane inne połączenia elektrycz‐
+ne.
+• Cały osprzęt elektryczny musi zostać
+podłączony do masy (uziemiony). Do‐
+tyczy to osprzętu pompy, członu na‐
+pędzającego i całego sprzętu monito‐
+rującego. Sprawdzić przewód masy
+(uziemienia), aby upewnić się, że jest
+prawidłowo podłączony.
+• Jeśli kabel silnika zostanie omyłko‐
+wo szarpnięty i poluzowany, przewód
+masy (uziemienia) powinien być os‐
+tatnim przewodem, który zostanie od‐
+łączony od zacisku. Należy spraw‐
+dzić, czy przewód masy (uziemienia)
+jest dłuższy niż przewody fazowe.
+Dotyczy to obu końców kabla silnika.
+• Wprowadzić dodatkowe zabezpiecze‐
+nie przed śmiertelnym porażeniem.
+Zainstalować wyłącznik różnicowy o
+wysokiej czułości (30 mA) [wyłącznik
+różnicowo-prądowy RCD].
+
+181

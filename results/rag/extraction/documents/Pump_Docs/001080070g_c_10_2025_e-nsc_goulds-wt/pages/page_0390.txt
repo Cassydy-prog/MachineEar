@@ -1,0 +1,108 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+nanje spojnice • Ευθυγράμμιση συνδέσμων • Kaplin hizalama • Установка соосности муфты •
+Регулювання муфти • محاذاة
+ 
+القارنة
+
+18.
+
+NSC_M0041_A_sc
+
+32
+40
+50
+65
+80
+
+-125
+-125
+-125
+-125
+-160
+
+-160
+-160
+-160
+-160
+-200
+
+-200
+-200
+-200
+-200
+-250
+
+-250
+-250
+-250
+-250
+
+Italiano
+
+English
+
+Français
+
+1. Wire mesh coupling protec‐
+tion
+2. Screws
+3. Supporting/adjusting ring
+
+1. Protection d'accouplement à
+treillis métallique
+2. Vis
+3. Bague de support/réglage
+
+1. Protezione del giunto in rete
+metallica
+2. Viti
+3. Anello di supporto/regolazio‐
+ne
+
+Deutsch
+
+Español
+
+Português
+
+1. Schutz der Drahtgitterkup‐
+plung
+2. Schrauben
+3. Stütz-/Einstellring
+
+1. Protección del acoplamiento
+de malla de alambre
+2. Tornillos
+3. Anillo de soporte/ajuste
+
+1. Protecção do acoplamento
+de rede metálica
+2. Parafusos
+3. Anel de ajuste/suporte
+
+Nederlands
+
+Dansk
+
+Norsk
+
+1. Bescherming draadgaaskop‐
+peling
+2. Schroeven
+3. Steun-/stelring
+
+1. Beskyttelse av trådnettkoblin‐
+ger
+2. Skruer
+3. Støtte-/justeringsring
+
+APPX
+
+1. Beskyttelse af ledningsnetko‐
+bling
+2. Skruer
+3. Understøttelses-/justering‐
+sring
+
+386

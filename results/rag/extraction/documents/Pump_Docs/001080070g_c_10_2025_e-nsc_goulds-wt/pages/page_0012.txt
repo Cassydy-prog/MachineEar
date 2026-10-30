@@ -1,0 +1,161 @@
+it - Traduzione dell'originale
+
+Fissaggio della pompa
+
+Per esempi di installazioni orizzontale e verticale,
+vedere Figura 15 a pagina 383.
+
+spettare le istruzioni in Installazione su fondazione
+in calcestruzzo a pagina 7 e Fissaggio della pompa
+a pagina 8, oltre a Lista di controllo delle tubazioni a
+pagina 8.
+
+È inoltre consigliabile:
+
+1. Vedere il catalogo tecnico per:
+– Diametro e quantità dei fori della fondazione
+– Distanze tra i fori
+– Calcolare le dimensioni e la quantità dei tiran‐
+
+IT
+
+• Verificare che la pompa e il motore siano salda‐
+mente fissati al basamento
+• Inserire materiale antivibrante tra il basamento e
+la fondazione
+• Se l’unità ha il basamento saldato, riempire con
+calcestruzzo i vani indicati in Figura 25 a pagina
+397.
+
+NOTA BENE:
+Non riempire con calcestruzzo il basamento in la‐
+miera piegata Figura 26 a pagina 397.
+
+4.3.2  Lista di controllo delle tubazioni
+Controllare che sia rispettato quanto segue:
+
+ti con ancoraggio chimico, a seconda del mo‐
+dello dell’unità.
+2. Forare la fondazione e fissare i tiranti.
+3. Collocare l’unità sulla fondazione e livellarla l’uni‐
+tà mediante una livella a bolla appoggiata sulla
+bocca di mandata e sull’albero.
+Tolleranza max. consentita: 0.2 mm/m.
+4. Rimuovere i tappi che coprono le bocche di aspi‐
+razione e di mandata, se presenti.
+5. Allineare le bocche di aspirazione e di mandata
+alle rispettive tubazioni.
+6. Fissare le tubazioni all’unità, vedere anche Lista
+di controllo delle tubazioni a pagina 8.
+7. Se necessario, inserire degli spessori di livella‐
+mento tra fondamenta e basamento: se la distan‐
+za tra i tiranti è > 800 mm, inserire due spessori
+supplementari al centro del basamento. Tutti gli
+spessori devono essere perfettamente a filo. Ve‐
+dere Figura 17 a pagina 384.
+8. Serrare i dadi dei tiranti uniformemente e a fon‐
+do, rispettando le coppie di serraggio riportate
+nella tabella.
+
+Dado
+Coppia, Nm (lbf·in)
+
+• Se l’installazione è soprabattente, la tubazione
+di aspirazione devere pendenza crescente verso
+l’unità superiore al 2%, per evitare sacche d’aria.
+• I diametri nominali delle tubazioni devono essere
+almeno uguali ai diametri nominali delle porte
+delle bocche della pompa.
+• Supportare le tubazioni in modo indipendente per
+non gravare sull’unità.
+• Eseguire il flussaggio delle tubazioni prima di col‐
+legarle all’unità per eliminare residui di saldatura,
+depositi e impurità. Se necessario, installare un
+filtro.
+
+M12
+60 (44)
+
+M16
+120 (89)
+
+M20
+200 (148)
+
+ATTENZIONE:
+Cordoni di saldatura, depositi e altre 
+impurità nelle tubazioni danneggiano la 
+pompa.
+
+M24
+350 (258)
+
+4.3.3  Allineamento del giunto
+
+M27
+530 (391)
+
+Rimozione della protezione giunto
+
+Nota:
+
+• Per le piastre base, si consiglia di stuccare la
+piastra di base con calcestruzzo a basso ritiro.
+
+Montare la pompa al telaio di base
+
+ATTENZIONE:
+Non mettere mai in funzione la pompa 
+senza le protezioni del giunto corretta‐
+mente installate.
+
+Assicurarsi che le indicazioni seguenti siano rispet‐
+tate:
+
+Tipo di protezione: rete metallica
+Per informazioni, consultare Figura 18 a pagina 386.
+
+1. Svitare le viti (2).
+2. Rimuovere la rete metallica. (1).
+Tipo di protezione: in lamiera
+Per informazioni, consultare Figura 19 a pagina 388.
+
+• Telaio di base solido che non si piega né vibra
+durante il funzionamento (risonanza).
+• Superfici di montaggio dei piedini della pompa e
+motore sul telaio di base devono essere piani (si
+consiglia di eseguire le lavorazioni necessarie).
+• Deve essere garantito un fissaggio sicuro della
+pompa e del motore.
+• Deve essere lasciato uno spazio adeguato tra la
+pompa e l'albero motore a seconda del giunto
+utilizzato.
+• Tra pompa e telaio di base deve esserci un di‐
+slivello tale che, in caso di sostituzione, possa
+essere regolata la stessa altezza tra la linea infe‐
+riore e centrale (raccomandata regolazione verti‐
+cale 4-6 mm).
+
+1. Svitare le viti chiusura dei semigusci (5).
+2. Svitare le viti di fissaggio del semiguscio superio‐
+re (3).
+3. Rimuovere il semiguscio superiore della protezio‐
+ne del giunto (1).
+4. Svitare le viti di fissaggio del semiguscio inferiore
+(4).
+5. Rimuovere il semiguscio inferiore della protezio‐
+ne del giunto (2).
+6. Aprire e sollevare l’anello di supporto/regolazione
+(6).
+
+Riduzione delle vibrazioni
+
+Verifica e allineamento del giunto
+
+NOTA BENE:
+
+L’unità e il flusso dei liquidi nell’impianto possono
+generare vibrazioni, amplificate dall’eventuale non
+corretta installazione dell’unità e delle tubazioni: ri‐
+
+8

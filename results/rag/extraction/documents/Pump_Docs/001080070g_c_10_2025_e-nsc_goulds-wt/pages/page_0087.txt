@@ -1,0 +1,152 @@
+nl - Vertaling van origineel
+
+Installatie van koppelingsbescherming
+
+5  In werking stellen, opstarten,
+bedienen en uitschakelen
+
+Voorzorgsmaatregelen
+
+VOORZICHTIG:
+Stel de pomp NOOIT in werking wanneer
+de koppelingsbescherming niet correct
+is gemonteerd.
+
+WAARSCHUWING:
+Fysieke en thermische gevaren
+
+Type bescherming: draadgaas
+Voor informatie, zie Afbeelding 18 op pagina 386.
+
+• Draag altĳd persoonlĳke bescher‐
+mingsmiddelen.
+• Controleer of de koppelingsbescher‐
+ming is geïnstalleerd.
+
+WAARSCHUWING:
+
+1. Plaats de bescherming (1) op de juiste manier
+zodat deze het uiteinde van de pompasuitlaat en
+de steunring (3) aan de motorzĳde omringt.
+2. Draai de schroeven (2) vast.
+Type bescherming: plaatwerk
+Voor informatie, zie Afbeelding 19 op pagina 388.
+
+• Zorg ervoor dat de afgevoerde vloei‐
+stof geen schade of letsel veroor‐
+zaakt.
+• De motorbeschermers kunnen de mo‐
+tor onverwacht opnieuw starten. Dit
+kan ernstig letsel tot gevolg hebben.
+
+NL
+
+VOORZICHTIG:
+
+• Het buitenoppervlak van de pomp en
+de motor kunnen tĳdens werking war‐
+mer worden dan 40 ºC (104 ºF).
+• Plaats geen brandbaar materiaal in
+de buurt van de pomp.
+
+1. Plaats de onderste helft van de koppelingsbe‐
+scherming (2).
+2. Draai de klemschroeven van de onderste helft
+van de kom (4) vast.
+3. Open en plaats de steun/stelring (6) met de be‐
+huizing omlaag en druk deze axiaal op de motor.
+4. Plaats de bovenste helft van de koppelingsbe‐
+scherming (1).
+5. Draai de klemschroeven van de bovenste helft
+van de behuizing (3) vast.
+6. Draai de sluitschroeven van de halve mantels (5)
+vast.
+
+4.3.4  Elektrische installatie
+
+OPMERKING:
+
+1. Verwĳder de schroeven van de kap van de con‐
+tactdoos.
+
+2. Sluit de stroomkabels aan en bevestig ze con‐
+form het toepasselĳke bedradingschema.
+
+Voor bedradingschema´s, zie Afbeelding 21 op
+pagina 392. De schema´s staan ook achter op de
+kap van de contactdoos.
+
+a) Sluit de aarddraad (massa) aan.
+
+Zorg ervoor dat de aarddraad (massa) langer
+is dan de fasedraden.
+b) Sluit de fasedraden aan.
+
+3. Monteer de klep van de contactdoos.
+
+OPMERKING:
+Draai de kabelwartels voorzichtig aan om te voor‐
+komen dat de kabel kan verschuiven en er vocht
+in de contactdoos terecht kan komen.
+
+• Gebruik de pomp nooit wanneer de stroomsnel‐
+heid lager is dan het minimale nominale niveau,
+wanneer deze droog is of niet gevuld.
+• Bedien de pomp met de aanleverklep ON-OFF ge‐
+sloten nooit langer dan een paar seconden.
+• Bedien de pomp nooit met de aanzuigklep ON-
+OFF gesloten.
+• Stel een stilstaande pomp niet bloot aan bevrie‐
+zing. Tap alle vloeistof af die zich in de pomp
+bevindt. Doet u dit niet, dan kan de vloeistof be‐
+vriezen en de pomp beschadigen.
+• De som van de druk aan de aanzuigzĳde (voe‐
+ding, valtank) en de maximale druk die wordt
+geleverd door de pomp mag niet groter zĳn dan
+de maximale bedrĳfsdruk die is toegestaan (no‐
+minale druk PN) voor de pomp.
+• Gebruik de pomp niet als er cavitatie optreedt.
+Cavitatie kan leiden tot schade aan de interne
+onderdelen.
+
+4. Als de motor niet is uitgerust met een automati‐
+sche terugstelfunctie van de thermische beveili‐
+ging, stel dan de beveiliging tegen overbelasting
+in volgens onderstaande lĳst.
+
+5.1  De pomp vullen
+Voor meer informatie over extra pompaansluitingen,
+zie Afbeelding 22 op pagina 392.
+
+– Als de motor wordt gebruikt op volledige be‐
+
+Installaties met vloeistofniveau boven de
+pomp (aanzuigkop)
+
+lasting, stel dan de waarde in op de nominale
+stroomsterkte van de elektrische pomp (type‐
+plaatje)
+– Als de motor wordt gebruikt op gedeeltelĳ‐
+
+Voor een illustratie waarop de pomppluggen staan
+afgebeeld, zie Afbeelding 23 op pagina 394.
+
+1. Sluit de aan-uitklep die zich stroomafwaarts ten
+opzichte van de pomp bevindt.
+
+ke belasting, stel dan de waarde in op de
+bedrĳfsstroomsterkte (bĳvoorbeeld gemeten
+met een stroomtang).
+– Als de pomp over een star-delta-startsysteem
+
+2. Verwĳder de vul- (3) of peilplug (1) en open de
+aan-/uitklep stroomopwaarts totdat het water uit
+de opening stroomt.
+
+beschikt, stel het thermische relais dan in op
+58% van de nominale stroomsterkte of de be‐
+drĳfssstroom (alleen voor driefasemotoren).
+
+a) Sluit de vul- (3) of peilplug (1).
+
+83

@@ -1,0 +1,160 @@
+IM-1080
+
+NOTICE
+
+Troubleshooting Guidelines
+Use current safety practices when investigating fan or system 
+performance problems. General safe practices and performance 
+troubleshooting guidelines can be found in AMCA Publications 
+410 and 202, respectively. Fan application and field measurement 
+procedures can be found in AMCA Publications 201 and 203.
+
+Below is a list of possible areas to check when air or sound values do 
+not match expectations. Most fan problems can be pinpointed to one 
+of these common causes.
+
+Most fans manufactured by Twin City Fan & Blower are factory 
+balanced prior to shipment. Certain high horsepower, large or 
+unusual voltage fans, may not be run as an assembly due to power 
+constraints, however the rotors have been dynamically balanced. 
+Installation variables, handling and movement of the fan during 
+shipment may cause the rotating assembly to shift. Balance should 
+be checked once the fan is installed. If a final trim balance is 
+required, it is the end user's responsibility to bring the fan back to 
+factory specifications. Final trim balancing is not the responsibility 
+of Twin City Fan & Blower. Refer to the Vibration Guidelines table 
+below.
+
+Air Capacity Problems
+1.	 Resistance of the system is not at design rating. If resistance is 
+lower than expected, both airflow and horsepower may be up. 
+If resistance is higher than anticipated, air volume will be down.
+2.	 Fan speed is not at design speed.
+3.	 Air density is not at the design value. Also check air performance 
+measurement techniques/procedures.
+4.	 Devices for air modulation are closed or plugged. Also check 
+filters.
+5.	 Impeller mounted improperly or is rotating in reverse.
+6.	 Parts of the system or fan have been damaged or need cleaning.
+
+Motor Problems
+1.	 	Incorrect wiring.
+2.	 	Speed of fan too high.
+3.	 	Parts improperly installed; binding.
+4.	 	Bearings improperly lubricated.
+5.	 	WR2 capability of motor too low for application.
+6.	 	Protection devices may be improperly sized.
+7.	 VFD compatible electrically? Effective shaft grounding?
+8.	 	Is cabling and grounding correct?
+
+Drive Problems
+1.	 Belts improperly tensioned.
+2.	 Drive alignment is poor. Check belt or coupling.
+
+Noise Problems
+1.	 Air performance is incorrect and the fan is not at design point 
+of operation. Fan is being forced to operate in an unstable flow 
+region near peak or to the left of the peak of the curve.
+2.	 Bearing failure. Check bearings (lubrication).
+3.	 Supply voltage high or inconsistent supply frequency. Adjustable 
+frequency controllers can generate motor noise.
+4.	 Objects that are installed in a high velocity airstream can 
+generate noise. This includes flow sensors, turning vanes, etc.
+5.	 Poor fan inlet conditions.
+6.	 Acoustics or sound measurement procedure incorrect.
+
+Bearing Problems
+Generally speaking, Twin City Fan uses three types of bearings:
+1.	 Ball bearing with set screw lock.
+2.	 Spherical roller bearings with set screw lock.
+3.	 Spherical roller bearings with adapter lock/taper lock feature to 
+attach them to the shaft.
+
+Ball Bearings – These are self-aligning bearings and should present no 
+alignment problems with one exception: i.e., on Sealmaster bearings 
+there is a pin beneath the grease fitting that prevents the bearings 
+outer race from rotating. Should this pin jam, the bearing loses its 
+alignment feature. Common failure causes are (1) set screws loosening 
+and shaft turning within the bearing and (2) crowned bearing supports. 
+Loosen one bolt and measure the clearance between the pillow block 
+and the support. Add shim to compensate.
+
+Vibration Problems
+1.	 	Misalignment of drive components. Check belt or coupling.
+2.	 	Poor foundation or mounting structure (resonances).
+3.	 	Foreign material attached to rotating components.
+4.	 	Damaged rotating components (bearings, shaft, fan, impeller, 
+sheaves).
+5.	 Broken, loose or missing set screws.
+6.	 	Loose bolts.
+7.	 	Vibration transmitted by another source.
+8.	 	Water accumulating in airfoil blades.
+9.	 	Fan is operating in stall or unstable flow region.
+
+Vibration Guidelines
+
+Spherical Roller Bearings with Set Screw Lock – The self-aligning 
+characteristic of these bearings are inherent in the spherical roller 
+design. The closer that these bearings are to perfect alignment, the 
+cooler they will operate. Common failure causes are the same as 
+with ball bearings, mainly set screws loosening and crowned bearing 
+supports.
+
+Rigidly Mounted
+
+Flexibly Mounted
+
+Condition
+
+Fan 
+Application
+
+mm/s (in./s)
+
+mm/s (in./s)
+
+Category
+
+Start-up
+BV-3
+6.4 (0.25)
+8.8 (0.35)
+BV-4
+4.1 (0.16)
+6.4 (0.25)
+
+Alarm
+BV-3
+10.2 (0.40)
+16.5 (0.65)
+BV-4
+6.4 (0.25)
+10.2 (0.40)
+
+Shutdown
+BV-3
+12.7 (0.50)
+17.8 (0.70)
+BV-4
+10.2 (0.40)
+15.2 (0.60)
+
+Values shown are peak velocity, mm/s (inches/s), Filter out. Table taken from ANSI/AMCA 
+Standard 204-05, Table 6.3. AMCA defines BV-3 for applications up to 400 HP; BV-4 for 
+applications over 400 HP.
+
+Spherical Roller Bearings with Adapter Lock – Again, the self-aligning 
+feature is inherent in the spherical design. Good alignment results 
+in a cooler operating bearing. The faster the bearing operates the 
+more critical this becomes. A common cause of failure is improper 
+installation practice. Removing too much clearance from the bearing 
+can result in preloading the bearing, resulting in premature failure; 
+and removing not enough can result in the shaft rotating within the 
+bearing. Properly tightened, this method of attaching a bearing to a 
+shaft is second only to a press fit. Crowned bearing supports can also 
+preload these bearings and should be checked by loosening one side 
+of the bearing and checking for clearance.
+
+19
+
+Installation, Operation & Maintenance Manual

@@ -1,0 +1,103 @@
+Dismantling the stuffing box
+
+Disassembly and reassembly
+procedures
+
+A. Pumps with mechanical seals
+     1. Remove spacer sleeve (1 -154-0).
+     2. Remove the two nuts holding the gland
+          (6-014-0) to the stuffing box (2-036-0).
+     3. Pull the stuffing box cover off the shaft assembly.
+
+The procedures outlined in this section cover the 
+dismantling and reassembly of different types of 
+Series A-C 2000 close-coupled pumps.
+
+NOTE: On the larger Series A-C 2000 pumps, it will 
+be necessary to remove the capscrews holding the 
+stuffing box cover to the motor adapter.
+
+When working on the pumps, use accepted 
+mechanical practices to avoid unnecessary damage 
+to parts. Check the condition of all pump parts when 
+the pump is dismantled and replace if necessary.
+
+NOTE: The mechanical seal (6-400-0) should now be 
+exposed on the shaft sleeve. (In some cases, the shaft 
+sleeve may come off the shaft with the stuffing box 
+cover. If this happens, gently press or pull the shaft 
+sleeve and mechanical seal from the stuffing box 
+toward motor side of the stuffing box cover.) This will 
+expose the mechanical seal as above.
+
+General dismantling instructions
+1. Disconnect the power source to the driver.
+2. Close the suction and discharge valves to isolate 
+the pump from the system. Turn off liquid supply 
+and disconnect any piping to the stuffing box.
+3. Remove all bolts holding the motor to the 
+foundation.
+
+Dismantling procedure
+
+Initial disassembly
+
+4. Remove the seal from the shaft sleeve, examine      
+         for damage, and if necessary replace.
+     5. Remove the gland (6-014-0), shaft sleeve 
+          (1-009-0), and the deflector (1-136-0) from
+          the motor shaft. A puller may be used to
+          remove the shaft sleeve if it does not slide off
+          the motor shaft easily.
+
+1. Drain the pump by opening the discharge gauge
+	 tap located directly below the discharge flange and
+	 removing the drain plug (1-910-0) at the bottom
+	 of the casing.
+2. Unbolt the motor adapter from the casing by
+	 removing capscrews (1-904-0) and where
+	 applicable clamping lugs (1-937-0). Pull the entire
+	 rotating assembly and motor from the casing
+	 leaving the casing connected to the piping unless it
+	 is to be repaired, replaced, or if applicable , to have
+	 new wear rings installed.
+3. Remove the "0" ring (2-914-0) from the stuffing
+	 box cover and inspect for damage. Replace if
+	 necessary.
+
+B. Pumps with packed stuffing box
+    1.  Loosen packing gland (6-014-0) by loosening
+         the two gland retaining nuts.
+     2. Pull the stuffing box cover, gland, and packing
+         from the motor shaft.
+     3. Remove the two gland retaining nuts and the
+          gland (6-014-0). Remove the packing rings
+         (6-924-0) and, where applicable, the seal cage
+         (6-013-0) from the stuffing box. A standard
+         packing hook is recommended for removing
+         the packing and seal cage.
+      4. Remove the packing base ring.
+
+lmpeller removal
+
+Motor adapter removal
+
+NOTE: Do not remove the adapter from the motor 
+unless the motor is to be repaired or replaced. If the 
+adapter is removed, it will necessitate repositioning 
+of motor adapter to the motor shaft.
+
+1. Hold impeller by the outside diameter.
+2. Remove the impeller nut (4-023-0). To do this,
+	
+turn the impeller nut counterclockwise as viewed
+	
+from the suction inlet.
+3. Pull the impeller (4-002-0) from the shaft and 
+remove the impeller key (4-911-0). (Figure 5 
+Impeller Removal)
+
+Figure 5 - Impeller Removal
+Figure 6 - Removing Mechanical Seal
+
+12

@@ -1,0 +1,162 @@
+fi - Alkuperäisen käännöksen
+
+a) Katkaise virransyöttö.
+b) Vaihda syöttökaapelin kolmesta johtimesta
+
+Pumput, joissa on uudelleenvoideltavat laa‐
+kerit
+
+kahden paikka moottorin riviliittimessä tai
+sähköohjauspaneelissa.
+
+Kytkentäkaaviot: katso Kuva 21 sivulla 392.
+c) Tarkista pyörimissuunta uudelleen.
+
+5.3  Pumpun käynnistäminen
+
+• Voitele uudelleen 4000 käyttötunnin välein mutta
+vähintään kerran vuodessa. Puhdista voitelunipat
+(SN) ensin.
+• Käytä NLGI Grade 2 -rasvaa tai vastaavaa.
+Ota yhteys paikalliseen myynti- ja huoltoedustajaan,
+jos sinulla on kysyttävää tai haluat tietoja.
+
+Moottorin laakerit
+
+HUOMIO:
+Tarkista ensimmäisen käynnistyksen jälkeen ja kun
+käyttölämpötila on saavutettu, yksikön kytkimen
+kohdistus, katso Kytkimen tarkistus ja kohdistus si‐
+vulla 128.
+
+Noin viiden vuoden jälkeen moottorin laakerien ras‐
+va on niin iäkästä, että laakerit kannattaa vaihtaa.
+Laakerit täytyy vaihtaa 25 000 käyttötunnin jälkeen
+tai moottorin toimittajan huolto-ohjeiden mukaisesti
+sen mukaan, kumpi on lyhyempi.
+
+Moottori, jossa on uudelleenvoideltavat laa‐
+kerit
+
+Asentaja tai omistaja on vastuussa oikean virtauk‐
+sen ja pumpattavan nesteen lämpötilan tarkistami‐
+sesta.
+Varmista ennen pumpun käynnistämistä, että:
+
+Noudata moottorin toimittajan huolto-ohjeita.
+
+Kytkin
+
+• Pumppu on kytketty oikein virtalähteeseen.
+• Pumppu on täytetty oikein kohdan Pumpun täyt‐
+täminen (luku 5) ohjeiden mukaisesti.
+• Pumpun myötäsuunnassa sijaitseva sulkuventtiili
+on suljettu.
+
+1. Käynnistä moottori.
+
+Tarkista kytkinelementtien välys säännöllisesti vä‐
+hintään kerran vuodessa. Tarkistusta suositellaan
+1000 käyttötunnin tai kolmen kuukauden välein sen
+mukaan, kumpi täyttyy ensin.
+
+6.2  Tarkastuslista
+
+2. Avaa pumpun poistopuolen sulkuventtiiliä vähän
+kerrallaan.
+
+FI
+
+Pumpun täytyy käydä odotetuissa käyttöolosuh‐
+teissa tasaisesti ja hiljaisesti. Jos näin ei ole, kat‐
+so Vianmääritys sivulla 130.
+
+6  Huolto
+
+Tarkista kytkin
+Tarkista kytkimen jous‐
+tavat elementit. Vaihda
+asiaankuuluvat osat, jos
+merkkejä kulumisesta
+löytyy, ja tarkista kohdis‐
+tus.
+
+Varotoimet
+
+Tarkista mekaaninen tii‐
+viste
+
+Tarkista, onko mekaani‐
+sessa tiivisteessä vuoto‐
+ja. Vaihda mekaaninen
+tiiviste, jos vuotoja löytyy.
+
+Sähköiskun vaara:
+Katkaise ja lukitse sähkövirta ennen yksi‐
+kön asennusta ja huoltoa.
+
+Laakerintiivisteiden tar‐
+kistaminen
+
+VAROITUS:
+
+Tarkista akseliin kiinni‐
+tettyjen aksiaalisten tii‐
+visterenkaiden oikea is‐
+tuvuus. Tiivisteen huuli
+saa koskettaa vain ke‐
+vyesti.
+
+Tarkista hiljainen käynti
+Tarkista pumpun hiljai‐
+nen käynti säännöllisesti
+tärinänmittaustyökaluilla.
+
+• Huollon saa suorittaa vain ammatti‐
+taitoinen ja pätevä henkilö.
+• Noudata voimassa olevia turvalli‐
+suussääntöjä.
+• Käytä sopivaa laitetta ja suojausta.
+• Varmista, että poistuva neste ei voi
+aiheuttaa vahinkoja eikä loukkaantu‐
+misia.
+
+6.3  Pura ja vaihda pumpun osat
+Lisätietoja varaosista ja pumpun kokoamisesta ja
+purkamisesta on saatavana paikalliselta myynti- ja
+huoltoedustajalta.
+
+7  Vianmääritys
+
+7.1  Vianmääritys käyttäjille
+Pääkytkin on päällä, mutta sähköpumppu ei käynnis‐
+ty.
+
+6.1  Palvelu
+Jos käyttäjä haluaa määrittää määräaikaishuoltovä‐
+lit, ne riippuvat pumpattavan nesteen tyypistä ja
+pumpun käyttöolosuhteista.
+Ota yhteys paikalliseen myynti- ja huoltoedustajaan,
+jos sinulla on kysyttävää tai haluat tietoja määräai‐
+kaishuolloista.
+Nestepään puhdistaminen ja/tai kuluneiden osien
+vaihtaminen saattaa vaatia ylimääräisiä huoltotoi‐
+menpiteitä.
+
+Pumput, joissa on kestovoidellut laakerit
+
+Syy
+Korjaustoimi
+
+Pumput, joissa on kestovoidellut laakerit, eivät tarvit‐
+se määräaikaishuoltoa.
+
+Pumpussa oleva
+lämpösuoja (jos on)
+on lauennut.
+
+Odota, kunnes pumppu on
+jäähtynyt. Lämpösuoja nol‐
+lautuu automaattisesti.
+
+130

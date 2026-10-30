@@ -1,0 +1,57 @@
+Evaluation of running features and damage to dismounted bearings
+
+Lip contact
+
+3.4.3.2  Discolouration of sealing track
+Symptoms:
+
+3.4.3
+Damage to seal running areas
+3.4.3.1 Worn sealing lip tracks
+Symptoms:
+
+Brown or blue colour in the area of
+sealing lip contact, particularly in the
+case of shaft seals. Excess heating leads to
+hardening and intense wear of the seal-
+ing, see section 3.6.1.
+
+Causes:
+– Intense heating of lip and shaft area
+
+At the area of the sealing lip contact a
+circumferential groove, usually shiny, 
+develops in the lip. Also in conjunction
+frequently with worn sealing lips and 
+damage to the bearing as a result of 
+penetrating contaminants. Corrosion in
+the sealing area is found in several cases
+as well, fig. 87.
+
+due to overlapping or to a high press-
+on force of the sealing
+– Sealing lip area of contact not suffi-
+
+ciently lubricated
+
+Causes:
+– Extreme amount of external dirt, par-
+
+ticularly in moist environment.
+– Lip runs dry.
+
+Remedial measures:
+– Lubricate sealing lip
+– Reduce press-on force insofar as per-
+
+missible for the sealing effect
+
+Remedial measures:
+– Use preseals, e.g. flinger rings.
+– Lubricate sealing lip.
+
+87: Corrosion in the area of the sealing track at the lip of an angular contact ball
+bearing
+
+53
+FAG

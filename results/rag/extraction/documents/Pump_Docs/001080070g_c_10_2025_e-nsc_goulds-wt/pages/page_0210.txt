@@ -1,0 +1,161 @@
+sk - Preklad originálu
+
+Nebezpečenstvo zásahu elektrickým
+prúdom:
+
+Ohľadom informácií o tom, akú hodnotu je potrebné
+odpočítať od menovitého výkonu motora, si pozrite:
+Tabuľka 11 na strane 379.
+
+Polohy čerpadla a odstupy
+
+• Presvedčte sa, že všetky pripojenia
+vykoná kvalifikovaný technik na inšta‐
+láciu a v súlade s platnými predpismi.
+• Pred začatím prác na jednotke sa ui‐
+stite, či sú jednotka a ovládací panel
+odpojené od napájania a či nie je
+možné jeho neželané pripojenie. Platí
+to aj pre regulačný obvod.
+
+• Na zabezpečenie vhodného vetrania: ≥ 100 mm
+(4 palce)
+• Na umožnenie kontroly a demontáže motora: ≥
+300 mm (12 in)
+• Ak je dostupný priestor menší, pozrite si technic‐
+ký katalóg.
+
+Ukostrenie (uzemnenie)
+
+Montáž nad zdrojom kvapaliny (sacia výška)
+
+Nebezpečenstvo zásahu elektrickým
+prúdom:
+
+Maximálna teoretická sacia výška akéhokoľvek čer‐
+padla je 10,33 m. V praxi saciu kapacitu čerpadla
+ovplyvňujú tieto faktory:
+
+• Teplota čerpanej tekutiny
+• Nadmorská výška (pri otvorenom systéme)
+• Tlak v systéme (pri uzavretom systéme)
+• Odpor potrubia
+• Vlastný inherentný prietokový odpor čerpadla
+• Výškové rozdiely
+Na výpočet maximálnej výšky nad hladinou kvapali‐
+ny, v ktorej môže byť čerpadlo nainštalované, sa pou‐
+žíva nasledovná rovnica:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+Barometrický tlak v baroch (v uzavretom sy‐
+stéme systémový tlak)
+
+NPSH
+Hodnota inherentného prietokového odporu
+čerpadla, v metroch
+
+Hf
+Celkové straty v metroch spôsobené precho‐
+dom kvapaliny nasávacím potrubím čerpadla
+
+• Pred spájaním ďalších elektrických
+pripojení vždy pripojte k svorke uko‐
+strenia vonkajší chránič.
+• Každé elektrické zariadenie je nutné
+uzemniť (ukostriť). Platí to pre za‐
+riadenia čerpadla, pohon a všetky
+monitorovacie zariadenia. Preskúšaj‐
+te uzemňovací (ukostrovací) vodič a
+skontrolujte, či je správne pripojený.
+• Ak sa kábel motora omylom uvoľní,
+uzemňovací (ukostrovací) vodič by sa
+mal uvoľniť zo svojej svorky ako po‐
+sledný. Presvedčte sa, že uzemňova‐
+cí (ukostrovací) vodič je dlhší ako je
+fázový vodič. Platí to pre oba konce
+kábla motora.
+• Pridajte ďalšiu ochranu proti smrteľ‐
+nému úrazu. Namontujte vysoko citli‐
+vý diferenciálny spínač (30 mA) [prú‐
+dový chránič].
+
+Hv
+Tlak pary (v metroch), ktorý zodpovedá te‐
+plote kvapaliny T (v °C)
+
+4.1  Požiadavky na príslušenstvo
+
+0,5
+Odporúčaná bezpečnostná rezerva (m)
+
+4.1.1  Umiestnenie čerpadla
+
+Z
+Maximálna výška, v ktorej môže byť čerpadlo
+namontované (m)
+
+SK
+
+(pb*10,2 - Z) musí byť vždy kladné číslo.
+Ďalšie informácie nájdete v časti Obrázok 12 na stra‐
+ne 380.
+
+NEBEZPEČENSTVO:
+Nepoužívajte toto čerpadlo v prostredí,
+ktoré môže obsahovať horľavé alebo
+chemicky agresívne plyny alebo prášky.
+
+Pokyny
+
+Dodržiavajte nasledovné pokyny týkajúce sa umiest‐
+nenia výrobku:
+
+POZNÁMKA:
+Neprekračujte nasávací výkon čerpadla, pretože by
+to mohlo spôsobovať kavitáciu a poškodenie čerpad‐
+la.
+
+4.1.2  Požiadavky na potrubné rozvody
+
+Bezpečnostné opatrenia
+
+VAROVANIE:
+
+• Uistite sa, že žiadne prekážky nebránia normálne‐
+mu prietoku chladného vzduchu, ktorý je dodáva‐
+ný ventilátorom motora.
+• Uistite sa, že miesto inštalácie je chránené pred
+priesakmi kvapaliny alebo pred zaplavením.
+• Ak je to možné, umiestnite čerpadlo o niečo vyš‐
+šie ako je úroveň terénu.
+• Teplota okolia musí byť medzi 0 °C (+32 °F) až
++40°C (+104 °F).
+• Relatívna vlhkosť okolitého vzduchu musí byť niž‐
+šia ako 50 % pri teplote +40 °C (+104 °F).
+• Kontaktujte Oddelenie predaja a servisu, ak:
+– Podmienky relatívnej vlhkosti vzduchu prekra‐
+
+• Používajte potrubia vhodné pre maxi‐
+málny pracovný tlak čerpadla. Ak tak
+neurobíte, môže to spôsobiť prasknu‐
+tie systému a riziko úrazu.
+• Presvedčte sa, že všetky pripojenia
+vykoná kvalifikovaný technik na inšta‐
+láciu a v súlade s platnými predpismi.
+
+čujú hodnoty v pokynoch.
+– Teplota miestnosti prekročí +40 °C (+104 °F).
+– Jednotka je umiestnená v nadmorskej výške
+
+viac ako 1000 m (3000 stôp). Môže dôjsť k
+zníženiu výkonu motora alebo ho bude nutné
+vymeniť za výkonnejší motor.
+
+POZNÁMKA:
+Dodržiavajte všetky predpisy úradov vo vašej juri‐
+sdikcii a spoločností spravujúcich verejné vodovody,
+pokiaľ je čerpadlo pripojené na systém verejných
+vodovodov. V prípade potreby nainštalujte na saciu
+
+206

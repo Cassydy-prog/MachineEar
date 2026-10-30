@@ -1,0 +1,155 @@
+sv - Översättning av orginal instruktioner
+
+Säkerhetsåtgärder
+
+VARNING!:
+
+• Omgivningstemperaturen måste vara mellan 0 °C
+(+32 °F) och +40 °C (+104 °F).
+• Den relativa luftfuktigheten för den omgivande
+luften måste vara mindre än 50 % vid +40 °C
+(+104 °F).
+• Kontakta försäljnings- och serviceavdelningen
+om:
+
+– Den relativa luftfuktigheten överskrider riktlin‐
+
+jerna.
+– Rumstemperaturen överstiger +40 °C (+104
+
+°F).
+– Enheten är placerad mer än 1 000 m (3 000
+
+• Använd ledningar som är lämpliga för
+pumpens maximala arbetstryck. Un‐
+derlåtenhet att göra detta kan orsaka
+sprickor i systemet med risk för ska‐
+da.
+• Säkerställ att alla anslutningar är ut‐
+förda av kvalificerade installationstek‐
+niker och i enlighet med gällande fö‐
+reskrifter.
+
+fot) över havsnivå. Motorprestanda kan behö‐
+va sänkas eller så kan det vara nödvändigt att
+byta ut motorn mot en kraftfullare motor.
+Information om vilket värde som motorprestanda
+ska sänkas med finns i Tabell 11 på sidan 379.
+
+Pumpplacering och avstånd
+
+OBS!:
+Följ alla föreskrifter utfärdade av behöriga myndig‐
+heter och av företag som förvaltar den offentliga vat‐
+tenförsörjningen om pumpen är ansluten till ett of‐
+fentligt vattensystem. Om så krävs måste ett lämp‐
+ligt backflödesskydd installeras på sugsidan.
+
+Checklista för rörsystem
+
+Kontrollera att följande krav är uppfyllda:
+
+• För att säkerställa lämplig ventilation: ≥ 100 mm
+(4 tum)
+• För att tillåta inspektion och borttagning av mo‐
+torn: ≥ 300 mm (12 tum)
+• Om det tillgängliga utrymmet är mindre, hänvisa
+till den tekniska katalogen.
+
+Installation över vätskekälla (suglyft)
+
+SV
+
+Teoretisk maximal sughöjd för valfri pump är 10,33
+m. I praktiken är det följande som påverkar pumpens
+sugkapacitet:
+
+• Temperaturen på vätskan som pumpas
+• Höjd över havet (i ett öppet system)
+• Systemtryck (i ett slutet system)
+• Rörmotstånd
+• Pumpens egna flödesmotstånd
+• Höjdskillnader
+Använd följande ekvation för att beräkna den maxi‐
+mala höjden ovan vätskenivån som pumpen kan in‐
+stalleras:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+Barometertryck i bar (i slutet system är det
+systemtrycket)
+
+NPSH
+Värdet i meter för pumpens egna flödesmot‐
+stånd
+
+Hf
+Total förlust i meter som skapas när vätskan
+passerar genom pumpens sugledning
+
+Hv
+Ångtryck i meter som stämmer överens med
+vätsketemperaturen T °C
+
+• Alla rör stöds oberoende av pumpen, rören får
+inte belasta enheten.
+• Flexibla rör eller rörkopplingar används för att
+undvika överföring av pumpvibrationer till rören
+och tvärtom.
+• Använd stora krökar, undvik vinkelrör då de orsa‐
+kar stort flödesmotstånd.
+• Rörsystemet på sugsidan är förseglat och luft‐
+tätt.
+• Diametern på sugledningen är lämplig för instal‐
+lationsvillkoren om pumpen används i en öppen
+krets. Sugledningen får inte vara mindre än dia‐
+metern på sugporten.
+• Installera en excentrisk rörskarv om rörsystemet
+på sugsidan måste vara större än sugsidan på
+pumpen.
+• Om pumpen placeras över vätskenivån installe‐
+ras en bottenventil i slutet på sugledningen.
+• Bottenventilen är helt nedsänkt i vätskan så att
+luften inte kan komma in genom sugvirveln när
+vätskan är på miniminivån och pumpen installe‐
+ras över vätskekällan.
+• På/av-ventiler av lämplig storlek installeras på
+sugledningen och på leveransrörsystemet (ned‐
+ströms till backventilen) för reglering av pumpka‐
+paciteten, för pumpinspektion och underhåll.
+• En backventil installeras på leveransrörsystemet
+för att förhindra bakflöde in i pumpen när pum‐
+pen är avstängd.
+
+0,5
+Rekommenderad säkerhetsmarginal (m)
+
+Z
+Maximal höjd som pumpen kan installeras
+på (m)
+
+(pb*10,2 - Z) måste alltid vara ett positivt värde.
+Mer information finns i Figur 12 på sidan 380.
+
+OBS!:
+Överskrid inte pumpens sugkapacitet då det kan or‐
+saka kavitation och skada på pumpen.
+
+VARNING!:
+Använd inte på/av-ventilen på utloppssi‐
+dan i stängt läge för att strypa pump‐
+flödet i mer än ett par sekunder. Om
+pumpen måste köras med utloppssidan
+stängd under mer än ett par sekunder
+måste en förbikopplingskrets installeras
+för att förhindra överhettning av vätskan
+inuti pumpen.
+
+4.1.2  Rörkrav
+
+Illustrationer som visar kraven på rörsystemet finns i
+Figur 13 på sidan 380 och Figur 14 på sidan 380.
+
+4.2  Elektriska krav
+
+114

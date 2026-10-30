@@ -1,0 +1,196 @@
+de - Übersetzung des Originals
+
+gungen verursachen und zu Personen-
+und Sachschäden führen.
+
+IMQ, TÜV oder IRAM oder andere Zeichen
+(nur für elektrische Pumpe)
+
+Sofern nicht anders angegeben, bezieht sich die Zu‐
+lassung bei Produkten mit Zulassungszeichen zur
+elektrischen Sicherheit ausschließlich auf die elektri‐
+sche Pumpe.
+
+Die nicht bestimmungsgemäße Verwendung des
+Produkt führt zum Verlust der Gewährleistung.
+Beispiele für die nicht bestimmungsgemäße Verwen‐
+dung:
+
+3.4  Pumpenbeschreibung
+• Anschlussabmessungen gemäß EN 733 (Mo‐
+delle 32-125…-200; 40-125…-250; 50-125…-250;
+65-125…-315;80-160…-315; 100-200…-400;
+125-250…-400; 150-315…-400).
+• Spiralgehäusepumpe mit herausziehbarem La‐
+gerträger.
+
+• Flüssigkeiten, die nicht mit den Pumpenwerkstof‐
+fen kompatibel sind
+• Gefährliche Flüssigkeiten (wie giftige, explosions‐
+gefährliche, entzündliche oder korrosive Flüssig‐
+keiten)
+• Andere trinkbare Flüssigkeiten als Wasser (zum
+Beispiel Wein oder Milch)
+Beispiele für ungeeignete Montageorte:
+
+DE
+
+3.5  Werkstoff
+
+Die Metallteile der Pumpe, die mit dem Medium in
+Berührung kommen können, bestehen aus:
+
+Werkstoffbe‐
+
+Standard/optio‐
+
+• Gefährliche Standorte (wie explosionsgefährdete
+oder korrosive Atmosphären).
+• Standorte mit hoher Lufttemperatur oder
+schlechter Belüftung.
+• Installationen im Freien ohne Schutz vor Regen
+oder Frost.
+
+zeichnung
+
+Werkstoff für
+Gehäuse/Lauf‐
+
+nal
+
+rad
+
+CC
+Grauguss/Grau‐
+
+Standard
+
+guss
+
+GEFAHR:
+Verwenden Sie diese Pumpe nicht zur
+Förderung von entflammbaren und/oder
+explosiven Fördermedien.
+
+CB
+Grauguss/Bron‐
+
+Standard
+
+ze
+
+HINWEIS:
+
+CS
+Grauguss/
+
+Standard
+
+Edelstahl
+
+CN
+Grauguss/
+
+Standard
+
+Edelstahl
+
+• Verwenden Sie diese Pumpe nicht zur Förderung
+von Fördermedien, die abrasive, feste oder faser‐
+artige Stoffe enthalten.
+• Verwenden Sie die Pumpe nicht für einen größe‐
+ren Durchfluss als auf dem Typenschild angege‐
+ben.
+
+Datensammlung
+Kugelgraphit/
+
+Standard
+
+Grauguss
+
+Sonderanwendungen
+
+DB
+Kugelgraphit/
+
+Standard
+
+Bronze
+
+Wenden Sie sich an den lokalen Vertriebs- und Ser‐
+vicevertreter
+
+Standard
+
+DN
+Kugelgraphit/
+Rostfreier Stahl
+
+NN
+Rostfreier
+
+Standard
+
+Stahl /
+Edelstahl
+
+RR
+Duplex/Duplex
+Optional
+
+• Wenn die Dichte und/oder Viskosität des Förder‐
+mediums die entsprechenden Werte von Wasser
+überschreiten, wie zum Beispiel Wasser mit Gly‐
+kol; in diesem Fällen kann ein leistungsstärkerer
+Motor erforderlich sein.
+• Wenn das Fördermedium chemisch behandelt ist
+(zum Beispiel entionisiert, entmineralisiert, mit
+Weichmacher versetzt, usw.).
+• Andere flüssigkeitsbezogene Aspekte, die von
+den hier beschriebenen abweichen.
+
+3.6  Gleitringdichtung
+Druckbelastete Einzel-Gleitringdichtung nach EN
+12756, Version K.
+
+3.7  Anwendungsgrenzen
+
+3.2  Pumpenkennzeichnung
+Eine Erklärung des Kennzeichnungscodes der Pum‐
+pe sowie ein Beispiel finden Sie in Abbildung 2 auf
+Seite 0
+.
+
+Maximaler Arbeitsdruck
+
+Abbildung 4 auf Seite 367 zeigt den maximalen Ar‐
+beitsdruck in Abhängigkeit vom Pumpenmodell und
+der Temperatur des Fördermediums.
+P1max + Pmax≤ PN
+
+P1max
+Maximaler Einlassdruck
+
+Pmax
+Maximaler von der Pumpe gelieferter Druck
+
+PN
+Maximaler Betriebsdruck
+
+3.3  Typenschild
+Das Typenschild befindet sich am Lagerträger. Das
+Typenschild enthält wichtige Produktspezifikationen.
+Weitere Informationen entnehmen Sie bitte Abbil‐
+dung 1 auf Seite 345.
+Das Typenschild enthält Informationen und Werk‐
+stoffangaben zu Laufrad, Gehäuse und Gleitringdich‐
+tung. Weitere Informationen entnehmen Sie bitte Ab‐
+bildung 3 auf Seite 363.
+
+Medientemperaturintervalle
+
+Abbildung 4 auf Seite 367 zeigt die Arbeitstempera‐
+turbereiche.
+
+40

@@ -1,0 +1,59 @@
+1  Introduction and Safety
+
+1  Introduction and Safety
+
+1.1  Introduction
+
+Purpose of this manual
+
+The purpose of this manual is to provide necessary information for:
+
+• Installation
+• Operation
+• Maintenance
+
+CAUTION:
+Read this manual carefully before installing and using the product. Improper use of the
+product can cause personal injury and damage to property, and may void the warranty.
+
+NOTICE:
+Save this manual for future reference, and keep it readily available at the location of the unit.
+
+1.1.1  Inexperienced users
+
+WARNING:
+This product is intended to be operated by qualified personnel only.
+
+Be aware of the following precautions:
+
+• This product is not to be used by anyone with physical or mental disabilities, or anyone
+without the relevant experience and knowledge, unless they have received instructions
+on using the equipment and on the associated risks or are supervised by a responsible
+person.
+• Children must be supervised to ensure that they do not play on or around the product.
+
+Requesting other information
+
+The instructions and warnings that are provided in this manual concern the standard version,
+as described in the sales document. Special versions can be supplied with supplementary
+instruction leaflets. See the sales contract for any modifications or special version
+characteristics. For instructions, situations, or events that are not considered in this manual
+or in the sales documents, please contact the nearest Xylem representative.
+Always specify the exact product type and identification code when requesting technical
+information or spare parts from the sales and service department.
+
+1.2  Safety
+
+WARNING:
+
+• The operator must be aware of safety precautions to prevent physical injury.
+• Operating, installing, or maintaining the unit in any way that is not covered in this manual
+could cause death, serious personal injury, or damage to the equipment. This includes
+any modification to the equipment or use of parts not provided by Xylem. If there is a
+question regarding the intended use of the equipment, please contact a Xylem
+representative before proceeding.
+• Do not change the service application without the approval of an authorized Xylem
+representative.
+
+Series 1710 Installation, Operation, and Maintenance Manual
+3

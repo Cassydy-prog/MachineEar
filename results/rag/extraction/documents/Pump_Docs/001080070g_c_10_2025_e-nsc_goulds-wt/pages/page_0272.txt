@@ -1,0 +1,154 @@
+hr - Izvorne upute
+
+• Čvrsti okvir baze koji se ne okreće niti vibrira tije‐
+kom rada (rezonancija).
+• Plohe za montažu stopala pumpe i motora na
+okviru baze moraju biti ravne (preporuča se obra‐
+da strojem).
+• Mora se jamčiti sigurno pričvršćivanje pumpe i
+motora.
+• Odgovarajući prostor između pumpe i osovine
+motora mora biti lijevo, ovisno o korištenoj spojki.
+• Između pumpe i okvira baze mora biti odgovara‐
+juće podložna, tako da se u slučaju zamjene mo‐
+že podesiti ista visina između donje i središnje li‐
+nije (preporučeno okomito podešavanje 4-6 mm).
+
+• Konkretan mora imati otpornost na kompresiju
+C12/15 i zadovoljavati zahtjeve klase izloženosti
+XC1 prema EN 206-1
+• Veličine moraju biti prikladne za veličine potpor‐
+ne ploče jedinice
+• Težina temelja mora biti ≥ 1,5 puta veća od težine
+jedinice (≥ 5 puta veća težina jedinice ako je po‐
+treban tiši rad)
+• Površina mora biti što ravna i što je moguće rav‐
+nija
+• Pad mora biti ≤ 1 mm/m.
+Dodatne upute možete pronaći u dokumentu br.
+001080247X: za preuzimanje skenirajte QR kod koji
+se nalazi u Slika 17 na stranici 384.
+
+Smanjenje vibracija
+
+Podešavanje pumpe
+
+Za primjere vodoravne i okomite instalacije pogledaj‐
+te Slika 15 na stranici 383.
+
+Jedinica i protok tekućina u sustavu mogu generirati
+vibracije, koje se mogu pojačati ako jedinica ili cjevo‐
+vodni sustav nisu pravilno instalirani: poštujte upute
+u Instalacija na betonskom temelju na stranici 267 i
+Podešavanje pumpe na stranici 268, pored Kontrolni
+popis sustava za spajanje na stranici 268
+
+1. Pogledajte tehnički katalog za:
+– Promjer i broj otvora temelja
+– Udaljenost otvora
+– Izračunavanje veličine i količine vezivnih šipki
+
+Također se preporučuje:
+
+• Provjerite jesu li pumpa i motor sigurno pričvr‐
+šćeni za bazu
+• Umetnite antivibracijski materijal između baze i
+temelja
+• Ako jedinica ima zavarenu bazu, napunite beto‐
+nom prostore prikazane u Slika 25 na stranici
+397.
+
+NAPOMENA:
+Nemojte puniti sklopljenu metalnu bazu Slika 26 na
+stranici 397 betonom.
+
+4.3.2  Kontrolni popis sustava za spajanje
+Provjerite da li se poštivaju sljedeći zahtjevi:
+
+kemijskim sidrima, ovisno o modelu jedinice.
+2. Izbušite podlogu i pričvrstite šipke za vezice.
+3. Postavite jedinicu na temelj i koristite razinu du‐
+ha na odvodnom otvoru i osovini kako biste bili
+sigurni da je ravna.
+Maksimalna dopuštena tolerancija: 0,2 mm/m.
+4. Ako postoje, uklonite čepove koji pokrivaju usis‐
+ne i ispusne otvore.
+5. Poravnajte usisne i ispusne otvore s njihovim cje‐
+vovodima.
+6. Pričvrstite cjevovodni sustav na jedinicu; pogle‐
+dajte također Kontrolni popis sustava za spajanje
+na stranici 268.
+7. Ako je potrebno, umetnite podloške za niveliranje
+između temelja i baze: ako je udaljenost između
+podupirača > 800 mm, umetnite dvije dodatne
+podloške u središte baze. Sve podloške moraju
+biti savršeno isprane. Pogledajte Slika 17 na stra‐
+nici 384.
+8. Ravnom i potpuno zategnite matice podupirača,
+pazeći da momenti budu kako je naznačeno u
+tablici.
+
+Matica
+Moment, Nm (lbf·in)
+
+M12
+60 (44)
+
+• U slučaju instalacije usisnog dizala, kako bi se
+izbjegli zračni džepovi, usisna cijev mora imati
+rastući nagib prema jedinici veći od 2%.
+• Nominalni promjeri cjevovodnog sustava moraju
+biti najmanje jednaki nominalnim promjerima pri‐
+ključaka pumpe.
+• Podržite sustav cjevovoda neovisno, kako ne bi‐
+ste opterećivali jedinicu.
+• Isperite sustav cijevi prije spajanja na jedinicu
+kako biste uklonili ostatke, naslage i nečistoće
+zavarivanja. Ako je potrebno instalirajte filter.
+
+M16
+120 (89)
+
+HR
+
+M20
+200 (148)
+
+OPREZ:
+Zavareni slojevi, kamenac i druge neči‐
+stoće u cijevima oštećuju pumpu.
+
+M24
+350 (258)
+
+M27
+530 (391)
+
+4.3.3  Poravnanje spojki
+
+Uklanjanje zaštite spojke
+
+Napomena:
+
+• Za postolje baze se preporuča stavljanje ispune
+oko postolja baze s betonom koji se malo skup‐
+lja.
+
+OPREZ:
+Nikad ne koristite pumpu bez ispravno
+instalirane zaštitne spojke.
+
+Postavite pumpu na okvir baze
+
+Vrsta zaštite: žičana mreža
+Za informacije pogledajte Slika 18 na stranici 386.
+
+Obavezno provjerite da li se poštivaju sljedeći zahtje‐
+vi:
+
+1. Odvijte vijke (2).
+2. Uklonite žičanu mrežicu. (1).
+Vrsta zaštite: metalni lim
+Za informacije pogledajte Slika 19 na stranici 388.
+
+268

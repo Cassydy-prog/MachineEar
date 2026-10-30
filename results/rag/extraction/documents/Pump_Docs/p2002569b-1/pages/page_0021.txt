@@ -1,0 +1,115 @@
+3. Where two or more pumps are connected to the 
+same suction line, install gate valves so that any 
+pump can be isolated from the line. Gate valves 
+should be installed on the suction side of all pumps 
+with a positive pressure for maintenance purposes. 
+Install gate valves with stems horizontal to avoid 
+air pockets. Globe valves should not be used, 
+particularly where NPSH is critical.
+4. The pump must never be throttled by the use of 
+a valve on the suction side of the pump. Suction 
+valves should be used only to isolate the pump 
+for maintenance purposes, and should always be 
+installed in positions to avoid air pockets.
+
+Discharge piping
+
+Figure 11 - Unbalanced loading of a double 
+suction impeller due to uneven flow around
+
+an elbow adjacent to the pump.
+
+If the discharge piping is short, the pipe diameter can 
+be the same as the discharge opening. If the piping is 
+long, pipe diameter should be one or two sizes larger 
+than the discharge opening. On long horizontal runs, 
+it is desirable to maintain as even a grade as possible. 
+Avoid high spots, such as loops, which will collect air 
+and throttle the system or lead to erratic pumping.
+
+Valves in discharge piping
+
+When operating on a suction lift, the suction pipe 
+should slope upward to the pump nozzle. A horizontal 
+suction line must have a gradual rise to the pump. Any 
+high point in the pipe will become filled with air and 
+thus prevent proper operation of the pump. When 
+reducing the piping to the suction opening diameter 
+use an eccentric reducer with the eccentric side down 
+to avoid air pockets.
+
+A check valve and gate valve should be installed in 
+the discharge. The check valve, placed between pump 
+and gate valve, protects the pump from excessive 
+back pressure, and prevents liquid from running 
+back through the pump in case of power failure. The 
+gate valve is used in priming and starting, and when 
+shutting the pump down.
+
+NOTE: When operating on suction lift never use a 
+straight taper reducer in a horizontal suction line, as it
+tends to form an air pocket in the top of the reducer 
+and the pipe.
+
+Pressure gauges
+
+To facilitate cleaning pump liquid passage without 
+dismantling pump, an increasing suction nozzle or 
+suction diffuser should be bolted to the suction flange. 
+If this is not done, a short section of pipe (Dutchman 
+or spool piece) so designed that it can be readily 
+dropped out of the line can be installed adjacent to 
+the suction flange. With this arrangement, any matter 
+clogging the impeller is accessible by removing the 
+nozzle (or pipe section).
+
+Properly sized pressure gauges should be installed in 
+both the suction and discharge nozzles in the gauge 
+taps (which are provided on request). The gauges will 
+enable the operator to easily observe the operation 
+of the pump, and also determine if the pump is 
+operating in conformance with the performance 
+curve. If cavitation, vapor binding, or other unstable 
+operation should occur, widely fluctuating discharge 
+pressure will be noted.
+
+Valves in suction piping
+
+Stuffing box
+
+When installing valves in the suction piping, observe 
+the following precautions:
+
+1. If the pump is operating under static suction lift
+	
+conditions, a foot valve may be installed in the 
+suction line to avoid the necessity of priming each 
+time the pump is started. This valve should be of the 
+flapper type, rather than the multiple spring type, 
+sized to avoid excessive friction in the suction line. 
+(Under all other conditions, a check valve, if used, 
+should be installed in the discharge line. 
+See Figure 12.)
+2. When foot valves are used, or where there are other
+	
+possibilities of "water hammer," close the discharge
+	
+valve slowly before shutting down the pump.
+
+Contaminants in the pumped liquid must not enter 
+the packing space. These contaminants may cause 
+severe abrasion or corrosion of the shaft, or shaft 
+sleeve, and rapid packing deterioration; they can 
+even plug the stuffing box flushing and lubrication 
+system. The stuffing box must be supplied at all 
+times with a source of clean, clear liquid to flush 
+and lubricate the packing. The most important 
+consideration is to establish the optimum flushing 
+pressure that will eliminate contaminants from 
+the packing. If this pressure is too low, fluid being 
+pumped may enter the stuffing box. If the pressure 
+is too high, excessive packing wear will result; and 
+extreme heat may develop in the shaft causing higher 
+bearing temperatures. The most desirable condition,
+
+21

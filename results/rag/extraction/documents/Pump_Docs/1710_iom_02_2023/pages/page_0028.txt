@@ -1,0 +1,104 @@
+7  Troubleshooting
+
+7  Troubleshooting
+
+7.1  Troubleshooting for users
+
+The main switch is on, but the electric pump does not start.
+
+Cause
+Remedy
+
+The thermal protector incorporated in the pump
+(if any) has tripped.
+
+Wait until the pump has cooled down. The thermal
+protector will automatically reset.
+
+Check the liquid level in the tank, or the mains pressure.
+
+The protective device against dry running has
+tripped.
+
+The electric pump starts, but the thermal protection trips a varying time after.
+
+Cause
+Remedy
+
+Contact the Sales and Service Department.
+
+There are foreign objects (solids or fibrous
+substances) inside the pump which have jammed the
+impeller.
+
+The pump is overloaded because it is pumping liquid
+that is too dense and viscous.
+
+Check the actual power requirements based on
+the characteristics of the pumped liquid and then
+contact the Sales and Service Department.
+
+The pump runs but delivers too little or no liquid.
+
+Cause
+Remedy
+
+The pump is clogged.
+Contact the Sales and Service Department.
+
+The troubleshooting instructions in the tables below are for installers only.
+
+7.2  The main switch is on, but the electric pump does not start
+
+Cause
+Remedy
+
+There is no power supply.
+•
+Restore the power supply.
+•
+Make sure all electrical connections to the power
+supply are intact.
+
+The thermal protector incorporated in the pump
+(if any) has tripped.
+
+Wait until the pump has cooled down. The thermal
+protector will automatically reset.
+
+Reset the thermal protection.
+
+The thermal relay or motor protector in the
+electric control panel has tripped.
+
+Check the:
+
+The protective device against dry running has
+tripped.
+
+•
+liquid level in the tank, or the mains pressure.
+•
+protective device and its connecting cables.
+
+Replace the fuses.
+
+The fuses for the pump or auxiliary circuits are
+blown.
+
+7.3  The electric pump starts, but the thermal protector trips or the
+fuses blow immediately after
+
+Cause
+Remedy
+
+The power supply cable is damaged.
+Check the cable and replace as necessary.
+
+Check the components and replace as necessary.
+
+The thermal protection or fuses are not suited
+for the motor current.
+
+26
+Series 1710 Installation, Operation, and Maintenance Manual

@@ -1,0 +1,81 @@
+Appendix C: Pumping Systems Tip Sheet Number 4
+
+Background
+
+Test for Pumping System Efficiency
+
+Pump efficiencies of 50% to 60% or lower are quite common. Because pump 
+inefficiencies are not readily apparent, however, opportunities to save energy by 
+repairing or replacing components and optimizing systems are often overlooked.
+
+A pump’s efficiency can degrade 
+as much as 10% to 25% before it 
+is replaced, according to a study 
+of industrial facilities commis­
+sioned by the U.S. Department of 
+Energy (DOE).
+
+ Define Pumping System Efficiency
+System efficiency incorporates the efficiencies of the pump, motor, and other system 
+components, as shown in the area of the illustration outlined by the dashed line.
+
+Pumping system efficiency (ηsys) is defined as follows:
+
+Qreq x Hreq x SG
+ 
+ηsys  =   ———————
+                          5308 x Pe
+
+where 
+	
+	Qreq  =	 required fluid flow rate, in 	 	
+
+	 gallons per minute 
+	
+	Hreq  = 	 required pump head, in feet 
+	
+	 SG  = 	 specific gravity 
+	
+	 Pe  = 	 electrical power input.
+
+Only the required head and flow rates are considered in calculating system efficiency. 
+Unnecessary head losses are deducted from the pump head, and unnecessary bypass or 
+recirculation flow is deducted from the pump flow rate.
+
+References
+Centrifugal Tests (ANSI/HI 1.6-2000), 
+Hydraulic Institute, 2000.
+Conduct an In-Plant Pumping System 
+Survey, DOE Pumping Systems Tip 
+Sheet, 2005.
+Match Pumps to System Requirements, 
+DOE Pumping Systems Tip Sheet, 
+2005.
+Trim or Replace Impellers on 
+Oversized Pumps, DOE Pumping 
+Systems Tip Sheet, 2005.
+
+  Conduct Efficiency Tests
+Efficiency tests help facilities staff identify inefficient systems, determine energy 
+efficiency improvement measures, and estimate potential energy savings. These tests 
+are usually conducted on larger pumps and on those that operate for long periods of 
+time. For details, see Hydraulic Institute standards ANSI/HI 1.6-2000, Centrifugal 
+Pump Tests, and ANSI/HI 2.6-2000, Vertical Pump Tests.
+
+Flow rates can be obtained with reliable instruments installed in the system or prefer-
+ably with stand-alone tools such as a sonic (Doppler-type) or “transit time” flow meter 
+or a Pitot tube and manometer. Turbulence can be avoided by measuring the flow rate on 
+a pipe section without fittings at a point where there is still a straight run of pipe ahead.
+
+ Improve System Efficiency
+Internal leaks caused by excessive impeller clearances or by worn or misadjusted parts 
+can reduce the efficiency of pumps. Corrective actions include restoring internal 
+clearances and replacing or refurbishing worn or damaged throat bushings, wear rings, 
+impellers, or pump bowls. Changes in process requirements and control strategies, 
+deteriorating piping, and valve losses all affect pumping system efficiency.
+
+DOE/GO-102005-2158 • October 2005 • Pumping Systems Tip Sheet #4
+
+109
+
+A Sourcebook for Industry

@@ -1,0 +1,151 @@
+et - Originaali tõlkimine
+
+kalde piiridesse; vt Tabel 28 leheküljel 399. Muul
+juhul vt Siduri joondamine kiiludega leheküljel
+150.
+9. Pange sidurikaitse tagasi.
+• M5 → 3 Nm (27 lbf·in) ± 15%
+• M6 → 5 Nm (44 lbf·in) ± 15%.
+
+Siduri joondatuse kontrollimine laseriga
+joondusvahendiga.
+
+Kaitse tüüp: lehtmetall
+Lisateabe saamiseks vt jaotist Joonis 19 leheküljel
+388.
+1. Keerake hülsipoolte sulgemiskruvid (5) lahti.
+2. Keerake ülemise hülsipoole kinnituskruvid (3)
+lahti.
+3. Eemaldage sidurikaitsme ülemine hülsipool (1).
+4. Keerake alumise hülsipoole kinnituskruvid (4)
+lahti.
+5. Eemaldage sidurikaitsme alumine hülsipool (2).
+6. Avage ja tõstke üles tugi-/reguleerimisrõngas (6).
+
+Siduri joondatust saate kontrollida laseriga joondus‐
+vahendiga: vt laseriga joondusvahendi kasutusjuhen‐
+dit.
+
+Siduri kontrollimine ja joondamine
+
+Siduri joondamine kiiludega
+
+MÄRKUS:
+Kontrollige uuesti siduri joondatust kuumades töö‐
+tingimustes.
+
+Jaotisest Joonis 17 leheküljel 384 leiate teavet selle
+kohta, kuhu pump ja mootor alusel kinnitada ja kuhu
+sisestada kaasasolevad kiilud.
+
+MÄRKUS:
+Veenduge, et sidurit saab kergesti käega pöörata ja
+et hammaste vahel oleks ruumi.
+
+MÄRKUS:
+Seadme vale joondatus võib süsteemi tõsiselt kah‐
+justada.
+
+1. Keerake lahti kruvid, millega pump ja mootor on
+alusele kinnitatud.
+2. Tõstke kergelt pumpa ja mootorit.
+3. Sisestage kiilud aluse ja pumbajala ning mootori
+vahele ühes või mitmes näidatud kohas.
+4. Asetage pump ja mootor alusele, joondades pol‐
+diavad.
+5. Pinguldage polte.
+6. Korrake siduri joondatuse kontrolli.
+
+Sidurikaitsme paigaldus
+
+MÄRKUS:
+Kui sidur on valesti joondatud, võib see põhjusta‐
+da vibratsioone, mis võivad viia seadme pöörlevate
+komponentide enneaegse kulumiseni.
+
+ET
+
+HOIATUS:
+Ärge kunagi kasutage pumpa, kui selle
+sidurikaitse pole nõuetekohaselt paigal‐
+datud.
+
+Kontrollige seadme siduri joondatust pärast järgne‐
+vaid toiminguid.
+
+• Transport ja paigaldus
+• Algne käivitamine
+• Töötemperatuuri saavutamine.
+Teostage kontrollimine isegi siis, kui seade tarniti
+täielikult raamile monteerituna.
+
+Kontrollige siduri joondatust joonlaua ja kalii‐
+bermõõdikuga.
+
+Standardsiduri (A) ja vahepuksiga siduri (B) joonda‐
+mise kohta leiate teavet jaotisest Joonis 27 lehekül‐
+jel 397
+
+1. Eemaldage sidurikaitse.
+
+MÄRKUS:
+Kaitse võib olla traatvõrgust (vt Joonis 18 lehe‐
+küljel 386) või lehtmetallist (vt Joonis 19 lehekül‐
+jel 388)
+
+Kaitsme tüüp: traatvõrk
+Lisateabe saamiseks vt jaotist Joonis 18 leheküljel
+386.
+1. Asetage kaitse (1) korralikult nii, et see ümbrit‐
+seks pumba võlli väljundotsa ja tugirõngast (3)
+mootori poolel.
+2. Pingutage kruvid (2).
+Kaitse tüüp: lehtmetall
+Lisateabe saamiseks vt jaotist Joonis 19 leheküljel
+388.
+1. Paigutage sidurikaitsme alumine hülsipool (2)
+oma kohale.
+2. Pingutage alumise hülsipoole kinnituskruvid (4).
+3. Avage ja sisestage tugi-/reguleerimisrõngas (6)
+nii, et korpus oleks suunatud allapoole ja vajuta‐
+ge see telgsuunas mootorisse.
+4. Paigutage sidurikaitsme ülemine hülsipool (1)
+oma kohale.
+5. Pingutage ülemise hülsipoole kinnituskruvid (3).
+6. Pingutage hülsipoolte sulgemiskruvid (5).
+
+4.3.4  Elektritööde tegemine
+
+1. Eemaldage klemmikarbi kaane kruvid.
+
+2. Ühendage ja kinnitage toitekaablid sobiva juht‐
+mestiku skeemi kohaselt.
+
+Juhtmestiku skeemi vaadake jaotisest Joonis 21
+leheküljel 392. Diagrammid on saadaval ka klem‐
+mikarbi kaane tagaküljel.
+
+a) Ühendage maandusjuhe.
+
+2. Asetage joonlaud siduripooltele.
+3. Mõõtke välja joonisel näidatud kaugused.
+4. Pöörake sidurit käega 90° kaupa ja korrake mõõt‐
+mist.
+5. Korrake sammu 4 minu korda: radiaalne joonda‐
+tus on õige, kui kaugused on kogu ümbermõõdu
+ulatuses samad, jäädes lubatud kõrvalekalde pii‐
+ridesse; vt Tabel 28 leheküljel 399. Muul juhul vt
+Siduri joondamine kiiludega leheküljel 150.
+6. Kontrollige siduripoolte kaugust kaliibermõõdik‐
+uga.
+7. Pöörake sidurit käega 90° kaupa ja kontrollige
+uuesti kaugust.
+8. Korrake sammu 7 minut korda: telgsuunaline
+joondatus on õige, kui kaugused on kogu ümber‐
+mõõdu ulatuses samad, jäädes lubatud kõrvale‐
+
+Veenduge, et maandusjuhe oleks faasijuht‐
+metest pikem.
+b) Ühendage faasijuhtmed.
+
+150

@@ -1,0 +1,51 @@
+2. Common Pumping System Problems
+
+these pumps at or near their minimum flow 
+conditions for extended periods greatly 
+increases the chances of pump shaft failure.
+
+ Positive Displacement Pump Problems
+Positive displacement pumps can experience 
+many of the same problems described earlier 
+in regard to centrifugal pumps, and they can 
+experience some problems of their own. In 
+many positive displacement pumps, the cyclical 
+nature of the pumping action causes fatigue in 
+components such as bearings and diaphragms.
+
+Also, since their flow rate is essentially 
+independent of backpressure, with positive 
+displacement pumps there is an inherent risk of 
+overpressurizing the discharge piping. If valves 
+in the pumping system are aligned so that all 
+the discharge lines downstream of a pump are 
+closed while the pump is operating, over-
+pressure conditions can occur quickly. In such 
+cases, if a pressure relief mechanism is not 
+activated, the pump motor will either reach its 
+lockout torque or the pressure will build until 
+some part of the system fails or ruptures. 
+Because of these dangers, pressure relief valves 
+need to be installed and maintained. If these 
+valves fail to operate properly, catastrophic 
+system damage can occur. Therefore, a regular 
+maintenance program to check these valves 
+should be strictly followed.
+
+A characteristic of many positive displacement 
+pumps is pulsating flow. The fluid-borne and 
+structure-borne vibrations resulting from these 
+pulsations can create load conditions that hasten 
+the degradation of piping, valves, and piping 
+supports. Consequently, pumping systems that 
+are not designed to handle the vibration loads 
+of positive displacement pumps may experience 
+severe operating and maintenance problems.
+
+In addition, positive displacement pumps are 
+very susceptible to wear from abrasives in the 
+fluid being pumped.
+
+23
+
+A Sourcebook for Industry

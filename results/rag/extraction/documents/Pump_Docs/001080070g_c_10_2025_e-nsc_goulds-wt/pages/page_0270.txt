@@ -1,0 +1,162 @@
+hr - Izvorne upute
+
+Smjernice
+
+Za više informacija pogledajte Slika 12 na stranici
+380.
+
+Obratite pozornost na sljedeće smjernice u vezi s
+lokacijom proizvoda:
+
+NAPOMENA:
+Nemojte prelaziti kapacitet usisavanja pumpe, jer to
+može uzročiti kavitaciju i oštećenje pumpe.
+
+4.1.2  Zahtjevi u vezi cjevovoda
+
+Mjere opreza
+
+UPOZORENJE:
+
+• Pobrinite se da nikakve prepreke ne ometaju nor‐
+malan protok zraka za hlađenje koji doprema
+ventilator motora.
+• Pobrinite se da je područje instalacije zaštićeno
+od bilo kakvih curenja tekućine ili poplavljivanja.
+• Ako je moguće, postavite pumpu malo više od
+razine poda.
+• Ambijentalna temperatura mora biti između 0°C
+(32°F) i +40°C (104°F).
+• Relativna vlažnost okolnog zraka mora biti manja
+od 50% na +40°C (+104°F).
+• Obratite se odjelu prodaje i servisa u sljedećim
+slučajevima:
+
+– Uvjeti relativne vlažnosti zraka nisu unutar
+
+• Koristite cijevi prilagođene najvećem
+radnom tlaku pumpe. U protivnom
+može doći do puknuća sustava, što
+može rezultirati ozljedama.
+• Pobrinite se da sve spojeve formiraju
+kvalificirani tehničari za instalaciju i
+da su u skladu s propisima na snazi.
+
+smjernica.
+– Sobna temperatura prelazi +40°C (+104°F).
+– Jedinica se nalazi više od 1000 m (3000 ft)
+
+iznad razine mora. Može biti potrebno smanjti
+učinkovitost motora ili zamijeniti ga s jačim
+motorom.
+Za informacije o tome na koju vrijednost smanjiti
+nazivnu snagu motora, pogledajte Tablica 11 na stra‐
+nici 379.
+
+NAPOMENA:
+Poštujte sve propise koje izdaju ovlašteni organi koji
+imaju nadležnost i tvrtke koje upravljaju sustavima
+za opskrbu vodom, ako je pumpa spojena na javni
+vodoopskrbni sustav. Ako je potrebno, instalirajte
+odgovarajući uređaj za sprječavanje protustruje na
+usisnoj strani.
+
+Položaji pumpe i zazor
+
+Kontrolni popis za cjevovod
+
+Provjerite jesu li ispunjeni sljedeći zahtjevi:
+
+• Osigurati odgovarajuću ventilaciju: ≥ 100 mm (4
+in)
+• Za omogućavanje pregleda i uklanjanja motora: ≥
+300 mm (12 in)
+• Ako je dostupan prostor manji, pogledajte tehnič‐
+ki katalog.
+
+Instalacija iznad izvora tekućine (usisna visi‐
+na)
+
+Teorijska maksimalna usisna visina bilo koje pumpe
+je 10,33 m. U praksi, na usisni kapacitet pumpe utje‐
+če sljedeće:
+
+HR
+
+• Temperatura tekućine
+• Nadmorska visina iznad razine mora (u otvore‐
+nom sustavu)
+• Tlak sustava (u zatvorenom sustavu)
+• Otpornost cijevi
+• Vlastita unutarnja otpornost na protok pumpe
+• Razlika u visini
+Sljedeća jednadžba koristi se za izračunavanje mak‐
+simalne visine iznad razine tekućine na kojoj pumpa
+može biti instalirana:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+Barometarski tlak u barima (u zatvorenom
+sustavu pokazuje tlak u sustavu)
+
+NPSH
+Vrijednost unutarnje otpornosti na protok
+pumpe u metrima
+
+Hf
+Ukupni gubici u metrima uzrokovani prola‐
+zom tekućine u usisnu cijev pumpe
+
+• Sve cijevi su neovisno podržane; cijevi ne smiju
+predstavljati teret za jedinicu.
+• Elastične cijevi ili cijevni spojevi se koriste kako
+bi se izbjeglo prenošenje vibracija sa pumpe na
+cijevi i obratno.
+• Koristite široke zavoje, izbjegavajte korištenje ko‐
+ljena koja uzrokuju prekomjernu otpornost na
+protok.
+• Usisni cjevovod savršeno je zabrtvljen i hermeti‐
+čan.
+• Ako se pumpa koristi u otvorenom krugu, pro‐
+mjer usisne cijevi prilagođen je uvjetima ugrad‐
+nje. Usisna cijev ne smije biti manja od promjera
+usisnog priključka.
+• Ako usisni cjevovod mora biti veći od usisne stra‐
+ne pumpe, instalira se reduktor s ekscentričnom
+cijevi.
+• Ukoliko se pumpa postavi iznad razine tekućine,
+nožni ventil se instalira na kraju usisnog cjevovo‐
+da.
+• Nožni ventil potpuno je uronjen u tekućinu, tako
+da zrak ne može ući kroz usisni vrtlog kada je
+tekućina na minimalnoj razini i pumpa instalirana
+iznad izvora tekućine.
+• On-off ventili odgovarajuće veličine instaliraju se
+na usisnoj cijevi i na dopremnoj cijevi (nizvodno
+do kontrolnog ventila) za regulaciju kapaciteta
+pumpe, provjeru pumpe, kao i za održavanje.
+• Kako bi se spriječio povratni tok u pumpu kada
+je ona isključena, na dopremnoj cijevi je instaliran
+kontrolni ventil.
+
+Hv
+Tlak pare u metrima koji odgovara tempera‐
+turi tekućine T °C
+
+0,5
+Preporučeni dodatak za sigurnost (m)
+
+Z
+Maksimalna visina na kojoj pumpa može biti
+instalirana (m)
+
+(pb*10,2 - Z) uvijek mora biti pozitivni broj.
+
+UPOZORENJE:
+Nemojte koristiti on-off ventil u zatvore‐
+nom položaju na odvodnoj strani kako
+bi pumpu prigušili za više od nekoliko
+sekundi. Ako pumpa mora raditi s zatvo‐
+renom tlačnom stranom više od nekoli‐
+
+266

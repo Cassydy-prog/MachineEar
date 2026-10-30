@@ -1,0 +1,191 @@
+it - Traduzione dell'originale
+
+Se è stata acquistata una pompa senza motore, veri‐
+ficare che il motore sia adatto per l'accoppiamento
+con la pompa.
+
+Vedere Figura 2 a pagina 351 per una spiegazione
+del di denominazione e descrizione della pompa e
+per un esempio.
+
+Destinazione d’uso
+
+La pompa è adatta per:
+
+IT
+
+3.3  Targhetta
+La targhetta si trova sulla staffa del cuscinetto. Nella
+targa dati sono elencate le caratteristiche principali
+del prodotto. Per ulteriori informazioni, vedere Figura
+1 a pagina 345.
+La targa dati fornisce informazioni relative al mate‐
+riale di girante e corpo, alla tenuta meccanica e ai
+relativi materiali. Per ulteriori informazioni, vedere
+Figura 3 a pagina 363.
+
+• Rifornimento idrico e trattamento dell’acqua
+• Raffreddamento e approvvigionamento di acqua
+calda nelle industrie e negli impianti civili.
+• Impianti di irrigazione e sprinkler
+• Impianti di riscaldamento
+• Applicazioni antincendio
+Utilizzi aggiuntivi per materiale opzionale:
+
+Marchio IMQ , TUV o IRAM o altri marchi
+(solo per l'elettropompa)
+
+• Teleriscaldamento
+• Industria in generale
+
+Uso improprio
+
+Salvo diversa specifica indicazione, per i prodotti re‐
+canti un marchio di approvazione per la sicurezza
+elettrica, l’approvazione è riferita esclusivamente al‐
+l’elettropompa.
+
+AVVERTENZA: 
+Un uso improprio della pompa può crea‐
+re condizioni pericolose e causare lesioni 
+personali e danni alle cose.
+
+L’uso improprio del prodotto può rendere nulla la ga‐
+ranzia.
+Alcuni esempi di usi impropri:
+
+3.4  Descrizione della pompa
+• Dimensioni delle connessioni in conformità al‐
+la EN 733 (modelli 32-125…-200; 40-125…-250;
+50-125…-250; 65-125…-315;80-160…-315;
+100-200…-400; 125-250…-400; 150-315…-400).
+• Pompa con corpo a voluta con staffa del cusci‐
+netto estraibile posteriormente.
+
+3.5  Materiale
+Le parti metalliche della pompa a contatto con l'ac‐
+qua sono realizzate in:
+
+• Liquidi non compatibili con i materiali di costru‐
+zione della pompa
+• Liquidi pericolosi (come liquidi tossici, esplosivi,
+infiammabili o corrosivi)
+• Liquidi potabili diversi dall'acqua (ad esempio vi‐
+no o latte)
+Alcuni esempi di installazioni improprie:
+
+Codice materia‐
+
+Corpo/girante
+
+Standard/opzio‐
+
+le
+
+materiale
+
+nale
+
+CC
+Ghisa/Ghisa
+Standard
+
+CB
+Ghisa/Bronzo
+Standard
+
+Standard
+
+• Collocazioni pericolose (come atmosfere esplo‐
+sive o corrosive).
+• Aree con temperatura dell'aria molto elevata e/o
+con una scarsa ventilazione
+• Installazioni all'aperto senza protezione dalla
+pioggia e/o da temperature di congelamento
+
+CS
+Ghisa/
+Acciaio inossi‐
+
+dabile
+
+Standard
+
+PERICOLO:
+Non utilizzare questa pompa per liquidi 
+infiammabili e/o esplosivi.
+
+CN
+Ghisa/
+Acciaio inossi‐
+
+dabile
+
+NOTA BENE:
+
+DC
+Ghisa sferoida‐
+
+Standard
+
+le/Ghisa
+
+DB
+Ghisa sferoida‐
+
+Standard
+
+• Non utilizzare questa pompa per liquidi conte‐
+nenti sostanze abrasive, solide o fibrose.
+• Non utilizzare la pompa per portate superiori alle
+portate nominali specificate nella targa dati.
+
+le/Bronzo
+
+Standard
+
+Usi particolari
+
+DN
+Ghisa sferoida‐
+le/Acciaio inos‐
+
+sidabile
+
+Nei seguenti casi, contattare il rappresentante di
+vendita e assistenza di zona:
+
+NN
+Acciaio inossi‐
+
+Standard
+
+dabile/
+Acciaio inossi‐
+
+dabile
+
+RR
+Duplex/Duplex
+Opzionale
+
+• Se è necessario pompare un liquido con densità
+e/o viscosità superiore a quella dell’acqua, come
+ad esempio acqua con glicole, poiché potrebbe
+rendersi necessario installare un motore di po‐
+tenza superiore.
+• Se è necessario pompare dell’acqua trattata chi‐
+micamente (per esempio addolcita, deionizzata,
+demineralizzata, ecc.)
+• Per qualsiasi situazione diversa da quelle descrit‐
+te e relative alla natura del liquido.
+
+3.6  Tenuta meccanica
+Tenuta meccanica singola non bilanciata sec. EN
+12756, versione K.
+
+3.2  Denominazione della pompa
+
+3.7  Limiti di applicazione
+
+4

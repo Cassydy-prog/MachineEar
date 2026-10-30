@@ -1,0 +1,159 @@
+es - Traducción del original
+
+• Los cables eléctricos están protegidos contra al‐
+tas temperaturas, vibraciones y colisiones.
+• La fuente de alimentación dispone lo siguiente:
+– Un dispositivo de protección contra cortocir‐
+
+cuitos
+– Un interruptor interruptor prinicpal con un es‐
+
+pacio de contacto de al menos 3 mm
+
+Lista de comprobación del panel de control
+eléctrico
+
+NOTA:
+Los valores nominales del panel de control deben
+coincidir con los de la bomba eléctrica. Unas combi‐
+naciones incorrectas podrían no garantizar la protec‐
+ción del motor.
+
+ES
+
+Compruebe que se cumplen los siguientes requisi‐
+tos:
+
+• El panel de control eléctrico debe proteger el mo‐
+tor contra sobrecargas y cortocircuitos.
+• Instale la protección contra sobrecarga correcta
+(un relé térmico o un protector del motor).
+
+Tipo de bomba
+Protección
+
+– Protección incorpo‐
+
+Bomba eléctrica están‐
+dar monofase ≤ 2,2 kW
+
+rada termoamperi‐
+métrica de restable‐
+cimiento automáti‐
+co (protección de
+motor)
+– La protección con‐
+
+• Todas las tuberías se sujetan de forma indepen‐
+diente; no deben suponer una carga para la uni‐
+dad.
+• Se utilizan tubos o uniones flexibles para evitar la
+transmisión de las vibraciones de la bomba a las
+tuberías y viceversa.
+• Use flexiones amplias, no use codos que causen
+una resistencia del caudal excesiva.
+• La tubería de aspiración está perfectamente se‐
+llada y sin aire.
+• Si se usa la bomba en un circuito abierto, el diá‐
+metro de la tubería de aspiración es adecuado
+para las condiciones de instalación. La tubería
+de aspiración no debe ser más pequeña que el
+diámetro del puerto de aspiración.
+• Si la tubería de aspiración debe ser mayor que el
+lateral de aspiración de la bomba, se instala un
+reductor de bomba excéntrica.
+• Si se coloca la bomba por encima del nivel del
+líquido, se instalará una válvula de pie en el extre‐
+mo de las tuberías de aspiración.
+• La válvula de pie se sumerge por completo en el
+líquido con el fin de evitar que el aire entre en
+el vértice de aspiración cuando el líquido esté al
+nivel mínimo. La bomba se instala por encima de
+la fuente de líquido.
+• En las tuberías de aspiración y en las tuberías
+de descarga (aguas abajo de la válvula de re‐
+tención) se instalan unas válvulas de encendi‐
+do/apagado del tamaño adecuado para la regula‐
+ción de la capacidad de la bomba, así como su
+inspección y mantenimiento.
+• Para impedir el retorno a la bomba cuando ésta
+está apagada, se instala una válvula de retención
+en la tubería de descarga.
+
+tra cortocircuitos
+(debe ser suminis‐
+trada por el instala‐
+dor)9
+
+Bomba eléctrica trifási‐
+caica10
+– Protección térmica
+
+(debe ser facilitada
+por el instalador)
+– Protección contra
+
+cortocircuitos
+
+ADVERTENCIA:
+No utilice la válvula de encendido/apa‐
+gado del lateral de descarga en la posi‐
+ción cerrada para estrangular la bomba
+durante más de unos segundos. Si es
+necesario accionar la bomba con el late‐
+ral de descarga cerrado durante más de
+unos segundos, será necesario instalar
+un circuito de desvío con el fin de evitar
+el sobrecalentamiento del líquido dentro
+de la bomba.
+
+• El panel de control debe estar equipado con un
+sistema de protección en seco al que se conec‐
+tará un interruptor de presión, de flotador, sondas
+u otro dispositivo adecuado.
+• Se recomienda usar los siguientes dispositivos
+en el lateral de aspiración de la bomba:
+
+– Al bombear el líquido desde un sistema de
+
+Para ver ilustraciones en las que se muestran los
+requisitos de las tuberías, consulte la Figura 13 en la
+página 380 y la Figura 14 en la página 380.
+
+agua, use un interruptor de presión.
+– Al bombear el líquido desde un tanque de al‐
+
+macenamiento o depósito, use un interruptor
+flotante o sondas.
+• Si se usan relés térmicos, se recomiendan los
+sensibles a los fallos de fase.
+
+Lista de comprobación del motor
+
+4.2  Requisitos de electricidad
+• Las normativas locales en vigor regulan estos
+requisitos específicos.
+• En caso de sistemas de extinción de incendios
+(bocas de incendio o rociadores), compruebe la
+normativa local en vigor.
+
+ADVERTENCIA:
+
+Lista de comprobación de conexiones eléctri‐
+cas
+
+• Lea las instrucciones de funciona‐
+miento para asegurarse de que se
+proporciona un dispositivo de protec‐
+
+Compruebe que se cumplen los siguientes requisi‐
+tos:
+
+9
+fusibles aM (arranque del motor) o interruptor magnetotérmico con curva C e Icn ≥ 4,5 kA u otro
+dispositivo equivalente.
+10
+sRelé térmico de sobrecarga con clase de activación 10A + fusibles aM (arranque del motor) o interrup‐
+tor magnetotérmico de protección del motor con clase de arranque 10A.
+
+55

@@ -1,0 +1,170 @@
+pt - Tradução do original
+
+Verifique se os requisitos seguintes requisitos são
+cumpridos:
+
+extensão do eixo (IEC 60034-14) e com uma taxa
+normal de vibração (N).
+• A voltagem da corrente eléctrica e a frequência
+devem estar de acordo com as especificações
+na placa de dados.
+
+• O painel de controlo deve proteger o motor con‐
+tra sobrecargas e curto-circuitos.
+• Instale protecção de sobrecarga correcta (relé
+térmico ou protector de motor).
+
+Em geral, os motores podem funcionar sob as se‐
+guintes tolerâncias de tensão eléctrica:
+
+Tipo de bomba
+Proteção
+
+– Protecção integra‐
+
+Frequência Hz
+Fase ~
+UN [V] ± %
+
+Bomba eléctrica pa‐
+drão monofásica ≤ 2,2
+kW
+
+50
+1
+220 – 240 ± 6
+
+3
+230/400 ± 10
+
+400/690 ± 10
+
+da térmica-ampero‐
+métrica de repo‐
+sição automática
+(protector do mo‐
+tor)
+– Protecção contra
+
+60
+1
+220 – 230 ± 6
+
+3
+220/380 ± 5
+
+curto-circuitos (de‐
+ve ser fornecida pe‐
+lo instalador)11
+
+380/660 ± 10
+
+PT
+
+Bomba eléctrica trifási‐
+caá12
+– Protecção térmica
+
+(deve ser fornecida
+pelo instalador)
+– Protecção contra
+
+Utilize cabo de acordo com as normas com 3 condu‐
+tores (2+terra) para versões monofásicas, e com 4
+condutores (3+terra) para versões trifásicas.
+
+4.3  Instalar a bomba
+
+curto-circuitos (de‐
+ve ser fornecida pe‐
+lo instalador)
+
+4.3.1  Instalação mecânica
+
+Área de instalação
+
+• O painel de controlo deve ser equipado com um
+sistema de protecção contra funcionamento a
+seco, ao qual um interruptor de pressão, interrup‐
+tor de bóia, sondas ou outro dispositivo adequa‐
+do está ligado.
+• Os dispositivos seguintes são recomendados pa‐
+ra utilização no lado da sucção da bomba:
+
+Instale a unidade numa base de fundação de betão
+ou metal suficientemente forte para garantir um su‐
+porte permanente e rígido. Siga os requisitos em
+Localização da bomba na página 66 .
+
+– Quando o líquido é bombeado a partir de
+
+Instalação em fundação de betão
+
+Requisitos da fundação
+
+um sistema de água, utilize um interruptor de
+pressão.
+– Quando o líquido é bombeado a partir de um
+
+tanque ou reservatório de armazenamento,
+utilize um interruptor de bóia ou sondas.
+• Quando são utilizados relés térmicos, estes de‐
+vem ser sensíveis a falha de fase.
+
+A lista de verificação do motor
+
+ADVERT.:
+
+• O betão deve ter uma resistência à compressão
+de C12/15 e cumprir os requisitos da classe de
+exposição XC1 de acordo com EN 206-1
+• Os tamanhos devem ser apropriados para os ta‐
+manhos da placa de suporte da unidade
+• O peso da fundação deve ser ≥ 1,5 vezes o peso
+da unidade (≥ 5 vezes o peso da unidade se for
+necessária uma operação mais silenciosa)
+• A superfície deve ser o mais plana e nivelada
+possível
+• A inclinação deve ser ≤ 1 mm/m.
+Instruções adicionais podem ser encontradas no do‐
+cumento n.o 001080247X: para o transferir, leia o
+código QR encontrado em Figura 17 na página 384 .
+
+Fixação da bomba
+
+• Leia as instruções de operação para
+ter a certeza que é fornecido um dis‐
+positivo de protecção, se for utilizado
+outro motor que não o padrão.
+• Se o motor estiver equipado com
+protectores térmicos automáticos, te‐
+nha em atenção o risco de arranques
+inesperados ligados a sobrecargas.
+Não utilize este tipo de motores para
+aplicações de combate ao fogo.
+
+Para exemplos de instalações horizontais e verti‐
+cais, consulte Figura 15 na página 383 .
+
+AVISO:
+
+• Utilize apenas motores equilibrados dinamica‐
+mente com uma chave de meia dimensão na
+
+1. Consulte o catálogo técnico para:
+– Diâmetro e número de orifícios da fundação
+– Distâncias dos orifícios
+– Calcular o tamanho e a quantidade dos tiran‐
+
+tes com âncoras químicas, dependendo do
+modelo da unidade.
+2. Perfure a fundação e fixe os tirantes.
+
+11
+fusíveis aM (arranque do motor) ou interruptor magneto-térmico com curva C e Icn ≥ 4,5 kA ou outro
+dispositivo equivalente.
+12
+sicasRelé térmico de sobrecarga com classe de disparo 10A + fusíveis aM (arranque do motor) ou
+interruptor magneto-térmico de protecção do motor com classe de arranque 10A.
+
+68

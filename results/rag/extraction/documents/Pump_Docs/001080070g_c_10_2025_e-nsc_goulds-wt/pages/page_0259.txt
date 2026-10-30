@@ -1,0 +1,156 @@
+sl - Prevod izvirnih navodil
+
+Položaji črpalke in razmik
+
+Kontrolni seznam za cevovod
+
+Izpolnjene morajo biti naslednje zahteve:
+
+• Za zagotovitev ustreznega prezračevanja: ≥ 100
+mm (4 in)
+• Za omogočanje pregleda in odstranitve motorja:
+≥ 300 mm (12 palcev)
+• Če je na voljo manj prostora, si oglejte tehnični
+katalog.
+
+Namestitev nad vir tekočine (sesalno dviga‐
+nje)
+
+Teoretična največja višina sesanja katere koli črpal‐
+ke je 10,33 m. V praksi na sesalno zmogljivost črpal‐
+ke vpliva naslednje:
+
+• Temperature tekočine
+• Nadmorska višina (pri odprtem sistemu)
+• Sistemski tlak (pri zaprtem sistemu)
+• Upor cevi
+• Lasten notranji pretočni upor črpalke
+• Višinske razlike
+Naslednja enačba se uporablja za izračun maksimal‐
+ne višine za namestitev črpalke nad ravnjo tekočine:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+Barometrični tlak v barih (v zaprtem sistemu
+je tlak sistema)
+
+NPSH
+Vrednost lastnega notranjega pretočnega
+upora črpalke v metrih
+
+• Vse cevi so neodvisno podprte in ne obremenju‐
+jejo enote.
+• Gibljive cevi ali členi se uporabljajo za prepreče‐
+vanje oz. zmanjševanje vibracij črpalke na cevi in
+obratno.
+• Uporabite široka kolena in se izognite uporabi oz‐
+kih, ki bi povzročila prevelik pretočni upor.
+• Sesalne cevi so odlično zatesnjene in nepreduš‐
+ne.
+• Če je črpalka uporabljena v odprtem tokokrogu,
+je premer sesalne cevi prilagojen pogojem name‐
+stitve. Sesalna cev ne sme biti manjša od preme‐
+ra sesalne odprtine.
+• Če mora biti sesalna cev večja od sesalne strani
+črpalke, je nameščen ekscentrični reduktor cevi.
+• Če črpalko postavite nad nivo tekočine, se nožni
+ventil namesti na konec sesalnih cevi.
+• Nožni ventil se popolnoma potopi v tekočino, ta‐
+ko da zrak ne more vstopati skozi sesalni vrtinec,
+ko nivo tekočine minimalen, črpalka pa je name‐
+ščena nad vir tekočine.
+• Ustrezno projektirani vklopni ventili so nameščeni
+na sesalne cevi in na odtočnih ceveh (proti proti‐
+povratnemu ventilu) za regulacijo zmogljivosti čr‐
+palke, za pregledovanje črpalke in za vzdrževanje.
+• Da bi preprečili pretok nazaj v cev, ko je črpalka
+izklopljena, je na odtočnih ceveh nameščen kon‐
+trolni ventil.
+
+Hf
+Skupna izguba v metrih zaradi prehoda teko‐
+čine v sesalni cevi črpalke
+
+Hv
+Tlak pare v metrih, glede na temperaturo te‐
+kočine T °C
+
+0,5
+Priporočena varnostna meja (m)
+
+Z
+Največja višina, pri kateri se lahko črpalko
+namesti (m)
+
+OPOZORILO:
+Za pripiranje pretoka črpalke vklopnega
+ventila na izpustni strani ne zaprite za
+dlje kot nekaj sekund. Če mora črpalka
+delovati z zaprto izpustno stranjo za več
+kot nekaj sekund, je treba namestiti ob‐
+vodni krogotok, da se prepreči pregreva‐
+nje tekočine v črpalki.
+
+(pb*10,2 - Z) mora biti vedno pozitivno število.
+Več informacij najdete v poglavju Slika 12 na strani
+380.
+
+Za slike, ki prikazujejo zahteve za cevi, si oglejte Sli‐
+ka 13 na strani 380 in Slika 14 na strani 380.
+
+OPOMBA:
+Ne presezite sesalne zmogljivosti črpalke, saj lahko
+to povzroči kavitacijo in poškoduje črpalko.
+
+4.1.2  Zahteve za cevovod
+
+4.2  Električne zahteve
+• Veljavni lokalni predpisi prevladajo nad navedeni‐
+mi zahtevami.
+• V primeru gasilnih sistemov (hidranti in/ali pršil‐
+niki) preverite veljavne lokalne predpise.
+
+SL
+
+Previdnostni ukrepi
+
+Kontrolni seznam električnih priključkov
+
+OPOZORILO:
+
+Izpolnjene morajo biti naslednje zahteve:
+
+• Električni vodi so zaščiteni pred visoko tempera‐
+turo, vibracijami in trki.
+• Napajalna linija je opremljena z:
+– Napravo za zaščito pred kratkimi stiki
+– Stikalom izolatorja omrežja s kontaktno odpr‐
+
+tino najmanj 3 mm
+
+• Uporabite cevi, ki ustrezajo maksimal‐
+nemu delovnemu tlaku črpalke. V na‐
+sprotnem primeru lahko pride do po‐
+škodb sistema in telesnih poškodb.
+• Priključitve naj izvajajo samo uspo‐
+sobljeni tehniki v skladu z veljavnimi
+predpisi.
+
+Kontrolni seznam električne nadzorne plošče
+
+OPOMBA:
+Vrednosti nadzorne plošče se morajo ujemati z vred‐
+nostmi električne črpalke. Nepravilne kombinacije bi
+lahko onemogočile zaščito motorja.
+
+Izpolnjene morajo biti naslednje zahteve:
+
+OPOMBA:
+Upoštevajte vse predpise, ki so jih izdali pristojni or‐
+gani in podjetja, ki upravljajo javno preskrbo z vodo,
+če je črpalka priključena na javni sistem za preskrbo
+z vodo. Na sesalni strani namestite ustrezno napra‐
+vo za preprečevanje povratnega pretoka, če je to po‐
+trebno.
+
+255

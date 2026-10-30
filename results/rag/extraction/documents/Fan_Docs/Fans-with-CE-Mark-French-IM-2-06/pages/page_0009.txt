@@ -1,0 +1,204 @@
+•
+Le système d’alarme reste enclenché durant la période de
+travail en mode manuel et un signal d’alarme est donné
+quand les limites de sécurité sont atteintes.
+
+•
+Le mode manuel est indiqué par un signal clairement
+visible.
+
+•
+Le système manuel est enclenché par des dispositifs spé­
+cialement prévus à cet effet, tels qu’interrupteurs munis
+de clés.
+
+contrôle doivent être familiers avec les standards et directives 
+sus-mentionnés. Des systèmes de contrôle incluant des relais, 
+des contacteurs, des unités de base à fréquence variable, 
+des transformateurs isolants, des mécanismes de protection 
+contre les montées de courant et les courts-circuits peuvent 
+être requis. Relais, contacts, unités de base à fréquence 
+variable, transformateurs isolants, mécanismes de protection 
+contre les montées de courant et les court-circuits doivent 
+tous être conformes à la directive Relative aux Appareils 
+Basse Tension. Ce qui suit est une liste de certains des 
+standards européens les plus communs qui sont observés 
+pour se mettre en conformité avec la Directive Relative aux 
+Appareils de Basse Tension.
+
+Entretien
+Toute opération de maintenance pour laquelle le carter de 
+protection doit être enlevé doit se faire alors que le ventilateur 
+n’est pas en opération. 
+Lors du redémarrage du ventilateur après entretien, suivre la 
+liste opérationnelle pour démarrer le ventilateur.
+	
+Des sectionneurs doivent être utilisés chaque fois qu’une 
+mise sous tension inattendue du ventilateur peut poser un 
+danger mécanique ou électrique.
+
+Maintenance du moteur
+Les trois règles de base pour la maintenance du moteur sont:
+1. Garder le moteur propre.
+2. Garder le moteur sec.
+3. Garder le moteur proprement lubrifié.
+
+EN60742 
+-
+Transformateurs isolants
+EN50178	
+-
+Équipement électronique destiné à être
+utilisés dans les installations électriques.
+EN60730-2-10	 -	
+Actionneur de moteur.
+EN60947-2-1	
+-	
+Déclencheurs de surcharge.
+EN60947-3-1	
+-	
+Interrupteurs, sectionneurs, boutons sec­
+tionneurs et unités de fusibles de section­
+nement.
+EN60947-4-1	
+-	
+Contacts électromécaniques et circuits de
+contrôles de moteurs.
+EN60947-5-1	
+-	
+Systèmes
+de 
+circuit 
+de 
+contrôle 
+électromécaniques. 
+EN60947-5-5	
+-	
+Appareillage à basse tension – 5e partie:
+Appareils et éléments de commutation pour 
+circuits de commande - Appareil d'arrêt 
+d'urgence électrique a accrochage méca­
+nique.
+EN61810-1	
+-
+Relais électromécaniques élémentaires –
+Part 1: Général et spécifications.
+EN60255-23	
+-
+Relais électriques – Part 23: Performance
+des contacts.
+EN60439-1	
+-
+Appareillage à basse tension, Partie 1.
+EN 60034	
+-
+Machines électriques rotatives Parts 1 et 5.
+
+Les unités de base à fréquence variable sont sous les direc­
+tives Basse Tension et EMC. Les standards qui doivent être 
+considérés pour de conformer à la directive EMC sont listés 
+ci-dessous:
+
+Souffler la poussière périodiquement (avec de l’air à faible pres­
+sion) pour empêcher le moteur de surchauffer.
+	
+Si le moteur doit être redémarré après avoir été arrêté pour 
+plus d’une semaine, la résistance des bobinages moteurs à la 
+terre doit être mesurée (à 500 V DC). Si la résistance est moins 
+de 10 megohms, le moteur doit être séché jusqu’à ce qu’une 
+résistance de plus de 10 megohms soit mesurée.
+	
+Certains moteurs plus petits sont lubrifiés à vie. Les exigenc­
+es de lubrification sont normalement attachées au moteur. Utiliser 
+les recommandations du fabricant de moteur pour re-lubrifier. Si 
+cette information n’est pas disponible, le programme suivant peut 
+être utilisé. Les moteurs de moins de 10 CV fonctionnant environ 
+huit heures par jour dans un environnement propre doivent être 
+lubrifiés tous les cinq ans ; les moteurs de 15-40 CV tous les 
+trois ans. Pour les moteurs dans un environnement poussiéreux 
+ou fonctionnant 24 heures par jour : diviser le service d’intervalle 
+par 4. Ne pas lubrifier le moteur excessivement. Noter que les 
+moteurs demandent typiquement un type de lubrifiant différent 
+de celui utilisé pour les paliers d’axe.
+
+EN 61000-6-4:		
+2001 Normes génériques pour les étab­
+lissements industriels.
+EN 55011:		
+1998 
++ 
+A1 
+Émissions 
+conduites
+Industriel (Groupe 1 Classe A)
+
+Maintenance du mécanisme d’Entraînement
+Les entraînements à courroie trapézoïdale requièrent une 
+inspection et des ajustements de tension réguliers, et doivent 
+occasionnellement être remplacées. Suivre le Tableau 5 page 
+11 pour l’inspection et l’entretien du mécanisme d’entraînement. 
+La tension correcte pour les courroies se trouve dans la fiche 
+technique spécifique à chaque ventilateur. Un journal doit être 
+tenu notant les informations concernant les tensions de cour­
+roies et leur remplacement.
+
+De plus, les contrôles doivent se conformer aux exigences 
+de catégorie 2 sécurité des systèmes de contrôle critiques, 
+comme détaillé dans EN 954-1. Quand un entraînement à 
+fréquence variable est utilisé, les contrôles doivent être implé-
+mentés pour empêcher l’entraînement à fréquence variable de 
+tourner au-dessus de la vitesse de sécurité maximale du ven-
+tilateur.
+ 
+Les diagrammes électriques fournis par le fabricant 
+d’équipement électrique doivent être suivis.
+
+Considérations générales pour les contrôles
+Un redémarrage automatique ou à distance après une courte 
+coupure de courant ne doit être permis que s’il n’y a aucun 
+risque et s’il n’existe aucune autre défaillance.
+ 
+Des signaux avertissant qu’un redémarrage automatique ou 
+à distance peut survenir doivent être postés si c’est le cas.
+ 
+Après un arrêt causé par les dispositifs de sécurité indiquant 
+des conditions hasardeuses, seul un redémarrage manuel inten-
+tionnel doit être possible.
+ 
+Quand cela est possible, les câbles d’alimentation électrique 
+connectés au ventilateur doivent être installés où il y a le mois 
+de risques pour le personnel de trébucher sur les câbles, de 
+marcher dessus ou de tomber parce qu’ils ont été placés dans 
+une aire où le personnel circule.
+ 
+S’il est nécessaire de pouvoir passer outre les systèmes 
+de contrôle et de surveillance pour les inspections périodiques 
+ou les réparations pendant les opérations, il faut peut être 
+considérer l’implémentation de ventilateurs, moteurs et autres 
+accessoires de soutien. Ceci est permis autant que:
+
+Maintenance du palier
+Une lubrification correcte des paliers du mécanisme d’entraînement 
+du ventilateur assure une durée de vie maximale des paliers. 
+Tous les ventilateurs sont équipés avec des autocollants indiquant 
+les intervalles de re-lubrification pour des conditions normales 
+d’utilisation. Les paliers doivent être inspectés après les premières 
+24 heures d’opération, puis chaque fois qu’ils sont lubrifiés. Les 
+intervalles de lubrification pour le type de paliers inclus sont 
+attachés au ventilateur. Noter que toutes les vitesses présentées 
+ne s’appliquent pas à toutes les tailles d’arbre de ce groupe. 
+Consulter l’usine en cas de doute sur la vitesse maximale d’un 
+palier particulier. Noter que chaque installation est différente et que 
+la fréquence de lubrification doit être ajustée en conséquence.
+	
+Dans des conditions de forte humidité, la fréquence des 
+lubrifications doit être doublée ou triplée pour protéger les 
+paliers adéquatement. Doubler les fréquences de lubrification 
+pour les ventilateurs à arbres verticaux.
+	
+Une observation de la graisse expulsée des paliers lors de la 
+lubrification est le meilleur guide pour indiquer si les intervalles 
+de graissage et les quantités de graisse ajoutées doivent être 
+changés.
+
+IM-2-06

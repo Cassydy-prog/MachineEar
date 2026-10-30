@@ -1,0 +1,22 @@
+{
+  "document_id": "d4f60ce2a0186d5e28a246c770470cc5881847db2008b815e16912fd75fcaca6",
+  "source_filename": "Centrifugal-Fans-IM-995.pdf",
+  "source_relative_path": "Fan_Docs/Centrifugal-Fans-IM-995.pdf",
+  "source_sha256": "be0d4463b22833ba9b493bddff7d23db16a9596f5503221324f8284eddc8001c",
+  "document_title": "Centrifugal-Fans-IM-995",
+  "machine_type_hint": "fan",
+  "source_type_hint": "installation_operation_maintenance_manual",
+  "applicability": "generic_guidance_equipment_match_unverified",
+  "applicability_verified": false,
+  "page_count": 32,
+  "method_counts": {
+    "native": 32
+  },
+  "ocr_attempted_pages": 0,
+  "blank_pages": 0,
+  "review_pages": [],
+  "character_count": 76851,
+  "document_text_file": "documents/Fan_Docs/Centrifugal-Fans-IM-995/document.txt",
+  "searchable_pdf": null,
+  "errors": []
+}

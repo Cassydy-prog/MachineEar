@@ -1,0 +1,63 @@
+4  Installation
+
+4  Installation
+
+Preinstallation
+
+Before the installation of the pump unit, check whether the packing list matches with the
+order list and the data that are printed on the nameplate.
+
+Precautions
+
+WARNING:
+
+• Observe accident prevention regulations in force.
+• Use suitable equipment and protection.
+• Always refer to the local and/or national regulations, legislation, and codes in force
+regarding the selection of the installation site, plumbing, and power connections.
+
+Electrical Hazard:
+
+• Make sure that all connections are performed by qualified installation technicians and in
+compliance with the regulations in force.
+• Before starting work on the unit, make sure that the unit and the control panel are
+isolated from the power supply and cannot be energized. This applies to the control
+circuit as well.
+
+Grounding (earthing)
+
+Electrical Hazard:
+
+• Always connect the external protection conductor to ground (earth) terminal before
+making other electrical connections.
+• You must ground (earth) all electrical equipment. This applies to the pump equipment,
+the driver, and any monitoring equipment. Test the ground (earth) lead to verify that it is
+connected correctly.
+• If the motor cable is jerked loose by mistake, the ground (earth) conductor should be the
+last conductor to come loose from its terminal. Make sure that the ground (earth)
+conductor is longer than the phase conductors. This applies to both ends of the motor
+cable.
+• Add additional protection against lethal shock. Install a high-sensitivity differential switch
+(30 mA) [residual current device RCD].
+
+4.1  Facility requirements
+
+4.1.1  Pump location
+
+DANGER:
+Do not use this unit in environments that may contain flammable/explosive or chemically
+aggressive gases or powders.
+
+Guidelines
+
+Observe the following guidelines regarding the location of the product:
+
+• Make sure that no obstructions hinder the normal flow of the cooling air that is delivered
+by the motor fan.
+• Make sure that the installation area is protected from any fluid leaks, or flooding.
+• If possible, place the pump slightly higher than the floor level.
+• The relative humidity of the ambient air must be less than 50% at +40°C (+104°F).
+• Contact the Sales and Service Department if:
+
+Series 1710 Installation, Operation, and Maintenance Manual
+15

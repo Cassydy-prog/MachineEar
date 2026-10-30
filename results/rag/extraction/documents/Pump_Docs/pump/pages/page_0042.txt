@@ -1,0 +1,181 @@
+6. Centrifugal Pumps
+
+200
+
+200
+
+180
+
+8” 
+Impeller Sizes 
+Iso-efﬁciency Lines
+
+2x1-6
+
+180
+
+3x2-8
+
+160
+
+7”
+
+78% 76% 
+74%
+
+4x2-9
+
+160
+
+3x1.5-6
+
+140
+
+2x1-5
+
+6”
+
+140
+
+120
+
+Head
+
+4x1.5-6
+5x3-8
+
+120
+
+Head
+
+(ft)
+
+5”
+
+100
+
+(ft)
+
+6x4-8
+
+2x1-4
+
+100
+
+3x1.5-4
+
+80
+
+6x4-7
+
+4” 
+Head/ﬂow Curves
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+
+0
+
+0
+50
+100
+150
+200
+250
+
+0 
+50 
+100 
+150 
+200 
+250
+
+Flow (gpm)
+
+Flow (gpm)
+
+Figure 11. Family of Pump Performance Curves
+
+Figure 12. Performance Curves for Different Impeller Sizes
+
+Excessive cavitation affects pump efficiency 
+and can potentially damage the pump.
+
+Pump Curves for Multiple Impeller Sizes.
+Once a pump has been selected as roughly 
+meeting the needs of the system, the specific 
+performance curve for that pump must be 
+evaluated. Often, impellers of several different 
+sizes can be installed with it, and each impeller 
+has a separate, unique performance curve. 
+Figure 12 displays performance curves for each 
+size of impeller. Also illustrated are iso-efficiency 
+lines, which indicate how efficient the various 
+impellers are at different flow conditions.
+
+As defined by the Hydraulic Institute, NPSHR 
+is determined and plotted when the pump total 
+head (or the first-stage head of a multistage 
+pump) is reduced by 3% as a result of cavitation. 
+Recently, the Hydraulic Institute has adopted 
+the term NPSH3 to define the NPSHR qualified 
+by this criterion. Further information can be 
+found in ANSI/HI 1.6-2000–Centrifugal Tests 
+(see Section 4). Most pumps can operate 
+satisfactorily with a minimum margin above 
+the NPSH3 value when operating near the BEP. 
+But they will require a much higher NPSH 
+margin to suppress all cavitation when operated 
+at flow rates away from the BEP.
+
+Sizing the impeller and the pump motor is an 
+iterative process that uses the curves shown in 
+Figure 12 to determine pump efficiency and 
+performance over its anticipated operating range. 
+For more information, see the fact sheet in this 
+section titled Impeller Trimming.
+
+For satisfactory operation, the NPSHA margin 
+over NPSHR must be provided by the system. 
+A common rule in system design is to ensure 
+that NPSHA is 25% higher than NPSHR for all 
+expected flow rates. When oversized pumps 
+operate in regions far to the right of their design 
+points, the difference between NPSHA and 
+NPSHR can become dangerously small.
+
+ Net Positive Suction Head
+To prevent cavitation, centrifugal pumps must 
+operate with a certain amount of pressure at the 
+inlet. This pressure is defined as the net positive 
+suction head (NPSH). There are two principal 
+references to NPSH: (1) the available system 
+pressure (NPSHA) at the inlet, which is a 
+function of the system and the flow rate, and 
+(2) the required pressure (NPSHR), which is a 
+function of the pump and the flow rate. NPSHR 
+is typically included on pump performance 
+curves. If the NPSHA is sufficiently above the 
+NPSHR, then the pump should not cavitate.
+
+ Pump Speed Selection
+Pump speed is usually an important consideration 
+in system design. The pump speed is perhaps best 
+determined by evaluating the effectiveness of 
+similar pumps in other applications. In the absence
+
+38
+Improving Pumping System Performance

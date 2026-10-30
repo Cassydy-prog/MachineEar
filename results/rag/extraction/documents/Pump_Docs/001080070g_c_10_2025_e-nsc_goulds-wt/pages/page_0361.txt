@@ -1,0 +1,270 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+12. Konfigurace materiálu mecha‐
+nické ucpávky + těsnicího O-
+kroužku
+13. Volné číslice pro volitelné vy‐
+bavení
+
+11. Materiál obežného kolesa
+12. Konfigurácia materiálov me‐
+chanického tesnenia + O-krúž‐
+ka
+13. Voľné voliteľné číslice
+
+10. Materiał obudowy
+11. Materiał wirnika
+12. Uszczelka mechaniczna i kon‐
+figuracja materiału pierście‐
+nia O-ring
+13. Dowolne cyfry dla opcji
+
+Română
+
+български
+
+Magyar
+
+1. NSC = a szivattyú típusa
+2. Csatlakozásjelzés; F = vázra
+szerelt, C = vázra szerelt táv‐
+tartó csatlakozással
+3. Meghajtó típusa; üres= stan‐
+dard aszinkron motor, H = Hy‐
+drovarral felszerelt, X =egyéb
+meghajtók
+4. 125–315 = a szivattyú mérete
+5. 220 = a motor névleges telje‐
+sítménye (kW × 10)
+6. Járókerék; üres= teljes átmé‐
+rő, A = levágott átmérő, B =
+levágott átmérő, X = egyéb
+7. Motor típusa, P = PLM, S =
+SM, W = WEG, X = Egyéb
+8. Pólusok száma; 2 = 2 pólusú,
+4 = 4 pólusú, 6 = 6 pólusú
+9. Elektromos feszültség és
+frekvencia;
+
+50 Hz
+
+1. NSC = Tip pompă
+2. Indicator de cuplare; F = mon‐
+tat pe cadru, C = montat pe
+cadru cu cuplaj cu distanţier
+3. Tip element de acţionare;
+spaţiu necompletat = motor
+asincron standard, H = echi‐
+pat cu sistem Hydrovar, X =
+alte elemente de acţionare
+4. 125-315 = Dimensiune pompă
+5. 220 = Putere nominală motor
+(kWx10)
+6. Rotor cu pale; spaţiu necom‐
+pletat = diametru complet, A
+= diametru exterior redus, B =
+diametru exterior redus, X =
+altul
+7. Tip motor, P = PLM, S = SM, W
+= WEG, X = Altul
+8. Număr de poli; 2 = cu 2 poli, 4
+= cu 4 poli, 6 = cu 6 poli
+9. Tensiune electrică și frecven‐
+ță;
+
+5H
+1x220-240 V
+
+50 Hz
+
+1. NSC = тип на помпата
+2. Индикация на съединителя;
+F = монтиран на рамката,
+С = монтиран на рамката с
+разделителен куплунг
+3. Тип задвижващ механизъм,
+празно = стандартен
+асинхронен двигател, Н =
+оборудван с Hydrovar, Х =
+други двигатели
+4. 125–315 = Размер на
+помпата
+5. 220 = Номинална мощност
+на двигателя (kWx10)
+6. Ротор; празно = пълен
+диаметър, А = изрязан
+диаметър, В = изрязан
+диаметър, Х = друго
+7. Тип двигател, P = PLM, S =
+SM, W = WEG, X = друго
+8. Брой полюси; 2 = 2–
+полюсен, 4 = 4–полюсен, 6
+= 6–полюсен
+9. Електрическо напрежение
+и честота;
+
+5R
+3x220-240/380-415 V
+
+5H
+1x220-240 V
+
+5V
+3x380-415/660-690 V
+
+50 Hz
+
+5R
+3x220-240/380-415 V
+
+5P
+3x200-208/346-360 V
+
+5H
+1x220-240 V
+
+5V
+3x380-415/660-690 V
+
+5S
+3x255-265/440-460 V
+
+5R
+3x220-240/380-415 V
+
+5P
+3x200-208/346-360 V
+
+5T
+3x290-300/500-525 V
+
+5V
+3x380-415/660-690 V
+
+5S
+3x255-265/440-460 V
+
+5W
+3x440-460/- V
+
+5P
+3x200-208/346-360 V
+
+5T
+3x290-300/500-525 V
+
+5S
+3x255-265/440-460 V
+
+60 Hz
+
+5W
+3x440-460/- V
+
+5T
+3x290-300/500-525 V
+
+6F
+1x220-230 V
+
+5W
+3x440-460/- V
+
+60 Hz
+
+6E
+1x200-210 V
+
+6F
+1x220-230 V
+
+6P
+3x220-230/380-400 V
+
+60 Hz
+
+6E
+1x200-210 V
+
+6R
+3x255-277/440-480 V
+
+6F
+1x220-230 V
+
+6P
+3x220-230/380-400 V
+
+6V
+3x440-480/- V
+
+6E
+1x200-210 V
+
+6R
+3x255-277/440-480 V
+
+6U
+3x380-400/660-690 V
+
+6P
+3x220-230/380-400 V
+
+6V
+3x440-480/- V
+
+6N
+3x200-208/346-360 V
+
+6R
+3x255-277/440-480 V
+
+6U
+3x380-400/660-690 V
+
+6T
+3x330-346/575-600 V
+
+6V
+3x440-480/- V
+
+6N
+3x200-208/346-360 V
+
+6U
+3x380-400/660-690 V
+
+6T
+3x330-346/575-600 V
+
+6N
+3x200-208/346-360 V
+
+6T
+3x330-346/575-600 V
+
+10. Ház anyaga
+11. Járókerék anyaga
+12. Mechanikus tömítés + O-gyű‐
+rű anyag elrendezés
+13. Opciókhoz szabadon felhasz‐
+nálható számjegyek
+
+APPX
+
+10. Material carcasă
+11. Material rotor cu pale
+12. Configurație material garnitu‐
+ră de etanșare mecanică +
+inel de etanşare
+13. Cifre libere pentru opțiuni
+
+10. Материал на корпуса
+11. Материал на работното
+колело
+12. Материал на
+конфигурацията механично
+уплътнение и O-пръстен
+13. Свободни числа за опции
+
+357

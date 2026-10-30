@@ -1,0 +1,146 @@
+et - Originaali tõlkimine
+
+Sihtotstarve:
+
+Pumba sobivad kasutusvaldkonnad on järgmised.
+
+Pumbaseade tuleb alati kinnitada ja transportida, na‐
+gu on näidatud joonisel Joonis 5 leheküljel 368, ning
+pump ilma mootorita tuleb fikseerida ja transportida,
+nagu on näidatud joonistel Joonis 6 leheküljel 368,
+Joonis 7 leheküljel 368 ja Joonis 8 leheküljel 368.
+
+Seade ilma mootorita
+
+• Veevarustus ja -töötlemine
+• Jahutus- ja sooja vee varu tööstuses ja ehitustee‐
+nustes
+• Niisutus- ja vihmutisüsteemid
+• Küttesüsteemid
+• Tuletõrjerakendused
+Valikuliste materjalide lisakasutusvõimalused on
+järgmised.
+
+• Kaugküte
+• Üldine tööstus
+
+HOIATUS:
+Masinadirektiivi 2006/42/EÜ kohaselt on
+pump ja mootor, mis ostetakse eraldi ja
+seejärel ühendatakse, uus masin. Kombi‐
+neeritud seadme ohutuse ja CE-märgise
+eest vastutab ühendamise teinud isik.
+
+Väärkasutus
+
+2.3  Hoiustusjuhised
+
+Ladustuskoht
+
+HOIATUS:
+Pumba väärkasutus võib põhjustada
+ohuolukordi ning tuua kaasa kehavigas‐
+tusi ja varalist kahju.
+
+Toodet tuleb hoiustada kaetud ning kuivas kohas,
+kus puudub kuumus, mustus ja vibratsioon.
+
+Toote sobimatu kasutamine tühistab garantii.
+Näiteid sobimatust kasutamisest:
+
+MÄRKUS:
+Kaitske toodet niiskuse, soojusallikate ja mehaanilis‐
+te kahjustuste eest.
+
+MÄRKUS:
+Ärge asetage pakendis tootele raskeid esemeid.
+
+• pumba materjalidega mitteühilduvad vedelikud;
+• ohtlikud vedelikud (nt mürgised, plahvatusohtli‐
+kud, süttivad või söövitavad);
+• kõik joodavad vedelikud peale vee (näiteks vein
+või piim).
+Näiteid sobimatust paigaldamisest:
+
+2.3.1  Pikaajaline hoiundamine
+
+ET
+
+Kui seadet hoiundatakse kauem kui 6 kuud, tuleb
+toimida järgmiselt.
+
+• ohtlikud kohad (nt plahvatusohtlik või söövitav
+õhustik);
+• kohad, kus õhutemperatuur on kõrge ja/või venti‐
+latsioon on kehv;
+• välised paigalduskohad, kus puudub kaitse vihma
+ja/või miinustemperatuuride eest;
+
+OHT:
+Ärge kasutage pumpa tule- ja/või plahva‐
+tusohtlike vedelike käitlemiseks.
+
+MÄRKUS:
+
+• Säilitage kaetud ja kuivad kohas.
+• Säilitage seadet eemal kuumusest, mustusest ja
+vibratsioonidest.
+• Pöörake võlli käega mitu korda vähemalt iga kol‐
+me kuu järel.
+Pikaajaliste säilitamisprotseduuride kohta küsige
+teavet ajami ja siduri tootjate käest.
+Küsimuste korral pikaajalise säilitamise hooldustee‐
+ninduse kohta võtke ühendust kohaliku müügi- ja
+teeninduse esindajaga.
+
+Ümbritsev temperatuur
+
+• Ärge kasutage seda pumpa abrasiivseid, tahkeid
+või kiudjaid aineid sisaldavate vedelike käitlemi‐
+seks.
+• Ärge kasutage pumpa andmesildil määratletud
+voolukiirustest väiksemate kiirustega.
+
+Toodet tuleb hoiustada temperatuuril vahemikus –5
+°C kuni +40 °C (23 °F kuni 104 °F).
+
+Erikasutuskohad
+
+3  Tootekirjeldus
+
+Järgmistes olukordades võtke ühendust kohaliku
+müügi- ja teenindusesindusega:
+
+3.1  Pumba konstruktsioon
+Pump on horisontaalne pump, millel on spiraalkest,
+mis on tihedalt ühendatud standardsete elektrimoo‐
+toritega.
+Pumpa võib kasutada järgmiste vedelike jaoks.
+
+• kui pumbatava vedeliku tiheduse ja/või viskoos‐
+suse väärtus ületab vee väärtuse (nt glükooliga
+vesi), see võib vajada võimsamat mootorit;
+• kui pumbatavat vedelikku on keemiliselt töödel‐
+dud (nt pehmendatud, deioonitud, demineraalitud
+jne);
+• igas olukorras, mis erineb kirjeldatutest ja on
+seotud vedelikuga.
+
+• Külm ja soe vesi
+• Puhtad vedelikud
+• Vedelikud, mis ei ole keemiliselt ja mehaaniliselt
+agressiivsed pumba materjalide suhtes.
+Toodet saab tarnida pumbaseadmena (pump ja elek‐
+trimootor) või ainult pumbana.
+
+3.2  Pumbadenominatsioon
+Pumba Joonis 2 leheküljel 351kirjelduskoodi ja ühe
+näite leiate tabelist.
+
+3.3  Nimesilt
+
+MÄRKUS:
+Kui olete soetanud mootorita pumba, veenduge, et
+mootor sobiks pumbaga ühendamiseks.
+
+145

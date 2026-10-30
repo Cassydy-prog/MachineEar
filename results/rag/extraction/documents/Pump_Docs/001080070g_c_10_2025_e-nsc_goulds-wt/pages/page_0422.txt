@@ -1,0 +1,67 @@
+Declarations of Conformity
+
+•  Maschinenrichtlinie 2006/42/EG und nachfolgende Ergänzung (ANHANG II - natürliche oder juristische, zum Erstellen der 
+technischen Unterlagen autorisierte Person: Xylem Service Italia S.r.l.), 
+•  Umweltgerechte Gestaltung 2009/125/EG und nachfolgende Änderungen, Verordnung (EU) Nr. 2019/1781 und nachfolgende 
+Änderungen (Elektromotor, bei IE2- oder IE3- oder IE4-Kennzeichnung), Verordnung (EU) Nr. 547/2012 und nachfolgende 
+Änderungen (Wasserpumpen bei MEI-Kennzeichnung) 
+und technische Normen 
+•  EN 809:1998+A1:2009, EN 60204-1:2018. 
+•  EN 60034-30:2009, EN 60034-30-1:2014, EN 60034-2-1:2007, EN 60034-2-1:2014, EN 16480:2021. 
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Geschäftsführer
+
+EU-Konformitätserklärung (Nr. 01) 
+ 
+1. EMCD- Gerät/Produktmodell: NSCC… oder NSCF… (siehe Etikett auf der letzten Seite) 
+    RoHS – Einmalige Kennnummer des Elektro- oder Elektronikgeräts: NSCC… oder NSCF…  
+2. Name und Adresse des Herstellers: 
+ Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ 36075 Montecchio Maggiore VI 
+ Italien 
+3. Die alleinige Verantwortung für die Ausstellung dieser Konformitätserklärung trägt der Hersteller. 
+4. Gegenstand der Erklärung: Elektropumpe. 
+5. Der oben beschriebene Gegenstand der Erklärung entspricht den einschlägigen Harmonisierungsvorschriften der Union: 
+•  Richtlinie 2014/30/EU vom 26. Februar 2014 und nachfolgende Änderungen (elektromagnetische Verträglichkeit).  
+•  Richtlinie 2011/65/EU vom 8. Juni 2011 und nachfolgende Änderungen, einschließlich der (EU) Richtlinie 2015/863 
+(Beschränkung der Verwendung bestimmter gefährlicher Stoffe in Elektrogeräten und elektronischen Geräten). 
+6. Angabe der einschlägigen harmonisierten Normen, die zugrunde gelegt wurden, oder Angabe der technischen Spezifikationen, 
+für die die Konformität erklärt wird: 
+•  EN 61000-3-3:2013+A1:2019+A2:2021,  
+EN 61000-3-12:2011, EN 61000-6-2:2005,  
+EN IEC 61000-6-2:2019, EN 61000-6-4:2007 +A1:2011, EN IEC 61000-6-4:2019. 
+• EN IEC 63000:2018. 
+7. Benannte Stelle: - - - 
+8. Zusätzliche Informationen: 
+RoHS – Anhang III – Von den Beschränkungen ausgenommene Anwendungen: Blei als Legierungselement in Stahl, Aluminium, 
+Kupferlegierungen [6(a), 6(b), 6(c)].  
+Optimyze: siehe die mit der Überwachungseinrichtung gelieferte Dokumentation [Funkanlagen 2014/53/EU und nachfolgende 
+Änderungen; Beschränkung der Verwendung bestimmter gefährlicher Stoffe in Elektro- und Elektronikgeräten 2011/65/EU und 
+nachfolgende Änderungen, einschließlich der Richtlinie (EU) 2015/863]. 
+Unterzeichnet für und in Vertretung von: Xylem Service Italia S.r.l.
+
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Geschäftsführer
+
+Die Konformitätserklärung/-en ist/sind ungültig, wenn sie getrennt vom restlichen Text des Xylem-Dokuments mit der Nummer 
+001080070G verwendet wird/werden. 
+ 
+Pumpe 
+ 
+EU-Konformitätserklärung (Übersetzung des Originals) 
+ 
+Xylem Service Italia S.r.l., mit Standort in Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore (VI) - Italien, erklärt hiermit, dass 
+das Produkt 
+NSC… Pumpe (siehe Etikett auf der letzten Seite) 
+die einschlägigen Vorschriften der folgenden europäischen Richtlinien erfüllt
+
+418

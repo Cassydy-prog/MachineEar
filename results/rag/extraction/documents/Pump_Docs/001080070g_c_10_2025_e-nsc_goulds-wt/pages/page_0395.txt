@@ -1,0 +1,143 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+Deutsch
+
+Español
+
+Português
+
+1. Lineal
+2. Fühlerlehre
+
+1. Regla
+2. Calibrador de espesor
+
+1. Régua um dos lados de uma
+régua ao longo da superfície
+do compartimento.
+2. Calibrador de espessura
+
+Nederlands
+
+Dansk
+
+Norsk
+
+1. Liniaal
+2. Diktemeter
+
+1. Lineal
+2. Tykkelsesmåler
+
+1. Linjal
+2. Følelære
+
+Svenska
+
+Suomalainen
+
+íslenskur
+
+1. Linjal
+2. Tjockleksmätare
+
+1. Viivain
+2. Rakotulkki
+
+1. Reglustika
+2. Þykktarmælir
+
+Eesti
+
+latviski
+
+lietuvių
+
+1. Lineāls
+2. Biezummērs
+
+1. Liniuotė
+2. Storio matuoklis
+
+1. Joonlaud
+2. Jämeduse määramise mõõte‐
+riist
+
+Polski
+
+Čeština
+
+slovenský
+
+1. Liniał
+2. Grubościomierz
+
+1. Pravítko
+2. Číselníkový úchylkoměr
+
+1. Pravítko
+2. Hrúbkomer
+
+Magyar
+
+Română
+
+български
+
+1. Vonalzó
+2. Vastagságmérő
+
+1. Riglă
+2. Şubler micrometric
+
+1. Линия
+2. Дебеломер
+
+Slovenščina
+
+Hrvatski
+
+Српски
+
+1. Ravnilo
+2. Merilnik debeline
+
+1. Ravnalo
+2. Mjerač debljine
+
+1. Lenjir
+2. Merač debljine
+
+Ελληνικά
+
+Türk
+
+Русский
+
+1. Κανόνας
+2. Δείκτης πάχους
+
+1. Cetvel
+2. Sentil
+
+1. Линейка
+2. Щуп
+
+Україна
+
+عربي
+
+1
+.مسطرة
+
+1. Лінійка
+2. Вимірювач товщини
+
+2
+.مقياس
+ 
+السُمك
+
+APPX
+
+391

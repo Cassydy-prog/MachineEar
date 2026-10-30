@@ -1,0 +1,124 @@
+Appendix A: Glossary of Basic Pumping System Terms
+
+Appendix A: Glossary of Basic Pumping System Terms
+
+absolute pressure – Total force per unit area in a
+
+centrifugal pump – A pump that relies on a
+
+system (includes vapor pressure and atmospheric 
+pressure).
+
+rotating, vaned disk attached to a driven shaft. 
+The disk increases fluid velocity, which 
+translates to increased pressure.
+
+adjustable speed drives (ASDs) – Devices that
+
+check valve – A valve that allows fluid to flow
+
+in one direction only; it is generally used to 
+maintain header pressure and protect equipment 
+from reverse flow.
+
+allow control of a pump’s rotational speed. 
+ASDs include mechanical devices such as 
+hydraulic clutches and electronic devices such 
+as eddy current clutches and variable frequency 
+drives.
+
+deadhead – A condition in which all the discharge
+
+from a pump is closed off.
+
+affinity laws –  A set of relationships that tie
+
+dynamic head – The component of the total head
+
+together pump performance characteristics such 
+as pressure, flow, and pump speed.
+
+that is attributable to fluid motion (also known 
+as velocity head).
+
+allowable operating region – The precise limits
+
+for minimum and maximum flow in a pump.
+
+gauge pressure – A measure of the force per unit
+
+axial pump – Sometimes called a propeller pump,
+
+area using atmospheric pressure as the zero 
+reference.
+
+this type of pump has a single-inlet impeller; the 
+flow enters axially and discharges nearly axially.
+
+head – A measure of pressure (expressed in feet)
+
+backpressure – The pressure on the discharge
+
+side of the pump.
+
+indicating the height of a column of system 
+fluid that has an equivalent amount of potential 
+energy.
+
+bearing – A device that supports a rotating shaft,
+
+header – A run of pipe that either supplies fluid
+
+to (supply header) or returns fluid from (return 
+header) a number of system branches.
+
+allowing it to spin while keeping it from 
+translating in the radial direction. A thrust 
+bearing keeps a shaft from translating in the 
+axial direction.
+
+heat exchanger – A device that transfers heat
+
+from one fluid to another.
+
+best efficiency point (BEP) – Commonly used to
+
+horsepower (hp) – A measure of the work or
+
+energy flux per unit time; the rate at which 
+energy is consumed or generated.
+
+describe the point at which a centrifugal pump 
+is operating at its highest efficiency, transferring 
+energy from the prime mover to the system 
+fluid with the least amount of losses.
+
+impeller – A centrifugal pump component that
+
+brake horsepower (bhp) – The amount of power
+
+rotates on the pump shaft and increases the 
+pressure on a fluid by adding kinetic energy.
+
+(measured in units of horsepower) delivered to 
+the shaft of a motor-driven piece of equipment.
+
+kinetic energy – The component of energy that
+
+cavitation – A phenomenon commonly found in
+
+is due to fluid motion.
+
+load factor – A ratio of the average capacity to
+
+centrifugal pumps in which the system pressure 
+is less than the vapor pressure of the fluid, 
+causing the formation and violent collapse of 
+tiny vapor bubbles.
+
+the rated full capacity (in terms of power), 
+determined by the following relationship:
+
+95
+
+A Sourcebook for Industry

@@ -1,0 +1,58 @@
+Declarations of Conformity
+
+The declaration(s) of conformity is(are) not valid if used separately from the rest of the text of the Xylem document code 
+001080070G. Goulds is a registered trademark of Goulds Pumps, Inc., and is used under license. Optimyze is a trademark of 
+Xylem Inc. or one of its subsidiaries.
+
+UK Declaration of Conformity (original) 
+ 
+Xylem Service Italia S.r.l., with headquarters in Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italy, hereby declares 
+that the product 
+NSCC… or NSCF… electric pump (see label on last page) 
+fulfils the relevant provisions of the following UK legal acts  
+•  S.I. 2008/1597 - Supply of Machinery (Safety) Regulations 2008 and subsequent amendments (Schedule 2 - Part 2 - Annex II - 
+natural or legal person authorised to compile the technical file: Xylem Service Italia S.r.l.)  
+•  S.I. 2021/745 - The Ecodesign for Energy-Related Products and Energy Information Regulations 2021 and subsequent 
+amendments (electric motor, if IE2 or IE3 or IE4 marked), S.I. 2019/539 - The Ecodesign for Energy-Related Products and Energy 
+Information (Amendment) (EU Exit) Regulations 2019 (water pump if MEI marked) 
+and technical standards 
+•  EN 809:1998+A1:2009, EN 60204-1:2018. 
+•  EN 60034-30:2009, EN 60034-30-1:2014, EN 60034-2-1:2007, EN 60034-2-1:2014, EN 16480:2021. 
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Managing Director
+
+UK Declaration of Conformity (No 01) 
+ 
+1. EMCD - Apparatus/Product model: NSCC… or NSCF… (see label on last page) 
+RoHS - Unique identification of the EEE: NSCC… or NSCF… 
+2. Name and address of the manufacturer: 
+ Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ 36075 Montecchio Maggiore VI 
+ Italy. 
+3. This declaration of conformity is issued under the sole responsibility of the manufacturer. 
+4. Object of the declaration: electric pump 
+5. The object of the declaration described above is in conformity with the relevant UK legislative acts: 
+• S.I. 2016/1091 - The Electromagnetic Compatibility Regulations 2016 and subsequent amendments. 
+• S.I. 2012/3032 - The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations 
+2012 and subsequent amendments. 
+6. References to the relevant designated standards used or references to the other technical specifications, in relation to which 
+conformity is declared: 
+• EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-4:2007 
++A1:2011, EN IEC 61000-6-4:2019. 
+• EN IEC 63000:2018.  
+7. Approved body: - - - 
+8. Additional information: 
+RoHS – S.I. 2020/1647 - The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) 
+Regulations 2020 – regulation 3(1), Schedule A2, Table 1 – Exempted applications from the restrictions: lead as a binding element 
+in steel, aluminium and copper alloys [12, 15, 18].  
+Optimyze: refer to documentation supplied with the monitoring device [ S.I. 2017/1206 - The Radio Equipment Regulations 2017 
+and subsequent amendments, S.I. 2012/3032 - The Restriction of the Use of Certain Hazardous Substances in Electrical and 
+Electronic Equipment Regulations 2012 and subsequent amendments]. 
+Signed for and on behalf of: Xylem Service Italia S.r.l.
+
+414

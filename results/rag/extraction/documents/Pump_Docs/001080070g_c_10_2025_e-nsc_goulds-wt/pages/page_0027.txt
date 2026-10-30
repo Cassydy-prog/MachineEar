@@ -1,0 +1,201 @@
+en - Original instructions
+
+Motor bearings
+
+Cause
+Remedy
+
+Contact the Sales and
+Service Department.
+
+There are foreign objects
+(solids or fibrous sub‐
+stances) inside the pump
+which have jammed the
+impeller.
+
+After approximately five years, the grease in the mo‐
+tor bearings is so aged that a replacement of the
+bearings is recommended. The bearings must be
+replaced after 25000 operating hours or according to
+the motor supplier maintenance instructions, which‐
+ever is shorter.
+
+Motor with regreasable bearings
+
+Follow motor supplier maintenance instructions.
+
+The pump is overloaded
+because it is pumping liq‐
+uid that is too dense and
+viscous.
+
+Coupling
+
+EN
+
+Check the actual power
+requirements based on
+the characteristics of the
+pumped liquid and then
+contact the Sales and
+Service Department.
+
+The pump runs but delivers too little or no liquid.
+
+Check the clearance in the coupling elements regu‐
+larly, at least once a year. We recommend checking
+every 1000 operating hours or every three months,
+whichever comes first.
+
+Cause
+Remedy
+
+6.2  Inspection checklist
+
+The pump is clog‐
+ged.
+
+Contact the Sales and Service
+Department.
+
+The troubleshooting instructions in the tables below
+are for installers only.
+
+Check the coupling
+Check the flexible ele‐
+ments of the coupling.
+Replace the relevant
+parts if there is any sign
+of wear and check the
+alignment.
+
+7.2  The main switch is on, but the electric
+pump does not start
+
+Check the mechanical
+seal
+
+Cause
+Remedy
+
+Check for leakage of
+the mechanical seal. Re‐
+place the mechanical
+seal if leakage is found.
+
+There is no power sup‐
+ply.
+
+Checking the bearing
+seals
+
+• Restore the power sup‐
+ply.
+• Make sure all electrical
+connections to the pow‐
+er supply are intact.
+
+Check correct seating of
+axial seal rings mounted
+on the shaft. Only gentle
+contact of the sealing lip
+shall be established.
+
+The thermal protector
+incorporated in the
+pump (if any) has trip‐
+ped.
+
+Wait until the pump has
+cooled down. The thermal
+protector will automatically
+reset.
+
+Check for quiet running
+Check frequently for qui‐
+et running of the pump
+with vibration measure‐
+ments tools.
+
+Reset the thermal protec‐
+tion.
+
+The thermal relay or
+motor protector in the
+electric control panel
+has tripped.
+
+Check the:
+
+6.3  Disassemble and replace the pump parts
+For more information about spare parts and assem‐
+bly and disassembly of the pump, contact the local
+sales and service representative.
+
+The protective device
+against dry running
+has tripped.
+
+7  Troubleshooting
+
+• liquid level in the tank,
+or the mains pressure.
+• protective device and
+its connecting cables.
+
+Replace the fuses.
+
+7.1  Troubleshooting for users
+The main switch is on, but the electric pump does
+not start.
+
+The fuses for the
+pump or auxiliary cir‐
+cuits are blown.
+
+Cause
+Remedy
+
+7.3  The electric pump starts, but the thermal
+protector trips or the fuses blow immediately
+after
+
+The thermal protector
+incorporated in the
+pump (if any) has trip‐
+ped.
+
+Wait until the pump has
+cooled down. The thermal
+protector will automatical‐
+ly reset.
+
+Cause
+Remedy
+
+The protective device
+against dry running has
+tripped.
+
+Check the liquid level in
+the tank, or the mains
+pressure.
+
+The power supply ca‐
+ble is damaged.
+
+Check the cable and re‐
+place as necessary.
+
+Check the components and
+replace as necessary.
+
+The electric pump starts, but the thermal protection
+trips a varying time after.
+
+The thermal protection
+or fuses are not suited
+for the motor current.
+
+23

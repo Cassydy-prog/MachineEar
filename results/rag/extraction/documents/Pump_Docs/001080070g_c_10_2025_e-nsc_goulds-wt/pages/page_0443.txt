@@ -1,0 +1,62 @@
+Declarations of Conformity
+
+Spoločnosť Xylem Service Italia S.r.l. so sídlom vo Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI, Taliansko týmto 
+vyhlasuje, že výrobok: 
+elektrické čerpadlo NSCC… alebo NSCF… (pozri štítok na poslednej strane) 
+spĺňa príslušné ustanovenia nasledujúcich európskych smerníc 
+•  Smernica 2006/42/ES o strojových zariadeniach a jej nasledujúce zmeny a doplnenia (PRÍLOHA II – fyzická alebo právnická 
+osoba oprávnená zostavením technického súboru: Xylem Service Italia S.r.l.), 
+•  Ekodizajn 2009/125/ES a nasledujúce zmeny a doplnenia, Nariadenie (EÚ) č. 2019/1781 a nasledujúce zmeny a doplnenia 
+(elektrický motor, ak označené IE2 alebo IE3 alebo IE4), Nariadenie (EÚ) č. 547/2012 a nasledujúce zmeny a doplnenia (vodné 
+čerpadlo, ak označené MEI) 
+a technické normy 
+•  EN 809:1998+A1:2009, EN 60204-1:2018. 
+• EN 60034-30:2009, EN 60034-30-1:2014, EN 60034-2-1:2007, EN 60034-2-1:2014, EN 16480:2021. 
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+    Generálny riaditeľ
+
+EÚ Vyhlásenie o zhode (č. 01) 
+ 
+1. Model zariadenia/výrobku - EMCD: NSCC… alebo NSCF… (pozri štítok na poslednej strane) 
+    RoHS - Osobitné identifikačné číslo EEZ: NSCC… alebo NSCF…  
+2. Názov a adresa výrobcu: 
+ Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ 36075 Montecchio Maggiore VI 
+ Italy 
+3. Toto vyhlásenie o zhode je vydané na výhradnú zodpovednosť výrobcu. 
+4. Predmet vyhlásenia: elektrické čerpadlo. 
+5. Predmetom vyhlásenia uvedeného vyššie je zhoda s príslušnými harmonizovanými nariadeniami Únie 
+•  Smernica 2014/30/EÚ z 26. februára 2014 a jej nasledujúce zmeny a doplnenia (elektromagnetická kompatibilita).  
+•  Smernica 2011/65/EÚ z 8.júna 2011 a jej nasledujúce zmeny a doplnenia, vrátane smernice 2015/863/EÚ (obmedzenie 
+používania určitých nebezpečných látok v elektrických a elektronických zariadeniach). 
+6. Odkazy na iné príslušné harmonizované normy alebo na iné technické špecifikácie, na základe ktorých sa vyhlasuje súlad: 
+• EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-4:2007 
++A1:2011, EN IEC 61000-6-4:2019. 
+• EN IEC 63000:2018. 
+7. Notifikovaný orgán: - - - 
+8. Doplňujúce informácie: 
+(RoHS) - Príloha III - Použitia vyňaté z obmedzenia: olovo ako legujúci prvok v oceli, hliníka, legovanej medi [6(a), 6(b), 6(c)].  
+Optimyze: odkazujeme na dokumentáciu dodanú s monitorovacím zariadením [smernica 2014/53/EÚ o sprístupňovaní rádiových 
+zariadení na trh v znení neskorších zmien, smernica 2011/65/EÚ o obmedzení používania určitých nebezpečných látok v 
+elektrických a elektronických zariadeniach podľa v znení neskorších zmien, vrátane smernice 2015/863/EÚ]. 
+Podpísané v mene: Xylem Service Italia S.r.l.
+
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+    Generálny riaditeľ
+
+Vyhlásenie/-a o zhode nie je/sú platné, ak sa používa/-jú samostatne od zvyšku textu dokumentu Xylem s kódom 001080070G. 
+ 
+Čerpadlo
+
+ES Vyhlásenie o zhode (překlad)
+
+439

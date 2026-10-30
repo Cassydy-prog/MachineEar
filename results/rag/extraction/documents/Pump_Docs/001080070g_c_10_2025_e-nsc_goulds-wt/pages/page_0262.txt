@@ -1,0 +1,156 @@
+sl - Prevod izvirnih navodil
+
+OPOMBA:
+Zaščita je lahko žična mreža (glejte Slika 18 na
+strani 386) ali pločevina (glejte Slika 19 na strani
+388)
+
+3. Odprite in vstavite podporni/prilagojevalni obroč
+(6) z ohišjem navzdol in ga aksialno pritisnite na
+motor.
+4. Namestite zgornjo polovico zaščite spojke (1).
+5. Privijte pritrdilne vijake zgornje polovične lupine
+(3).
+6. Privijte zaporne vijake polovičnih lupin (5).
+
+4.3.4  Električna napeljava
+
+1. Odstranite vijake pokrova priključne omarice.
+
+2. Napajalne kable priključite in pritrdite v skladu z
+ustrezno shemo ožičenja.
+
+Za sheme ožičenja glejte Slika 21 na strani 392.
+Sheme najdete tudi na zadnji strani pokrova prik‐
+ljučne omarice.
+
+a) Priključite ozemljitveni vodnik.
+
+Poskrbite, da bo ozemljitveni vod daljši od
+faznih vodov.
+b) Povežite fazne vodnike.
+
+3. Namestite pokrov priključne omarice.
+
+OPOMBA:
+Previdno privijte kabelske člene, da zagotovite
+zaščito pred zdrsom kabla in vstopom vlage v
+priključno škatlo.
+
+2. Postavite ravnilo na polovične spojke.
+3. Izmerite razdalje, prikazane na sliki.
+4. Ročno obrnite sklopko v 90° korakih in ponovite
+meritev.
+5. Ponovite korak 4 večkrat: radialna poravnava je
+pravilna, če so razdalje enake na vseh točkah
+okoli oboda, znotraj dovoljenega odklona; glejte
+Tabela 28 na strani 399. V nasprotnem primeru
+glejte Poravnava sklopke s podložnimi lističi na
+strani 258.
+6. Preverite razdaljo med polovičnimi sklopkami z
+merilnikom čutila.
+7. Z roko obrnite sklopko v 90° korakih in ponovno
+preverite razdaljo.
+8. Ponovite korak 7 večkrat: aksialna poravnava je
+pravilna, če so razdalje enake na vseh točkah
+okoli oboda, znotraj dovoljenega odklona; glejte
+Tabela 28 na strani 399. V nasprotnem primeru
+Poravnava sklopke s podložnimi lističi na strani
+258.
+9. Ponovno namestite zaščito spojke.
+• M5 → 3 Nm (27 lbf·in) ± 15 %
+• M6 → 5 Nm (44 lbf·in) ± 15 %.
+
+Preverjanje poravnave spojev z lasersko
+opornico
+
+4. Če motor ni opremljen s samodejno ponastav‐
+ljivim toplotnim varovalom, nastavite zaščito
+pred preobremenitvijo v skladu s spodnjim se‐
+znamom.
+
+– Če se motor uporablja s polno obremenitvijo,
+
+Preverite lahko poravnavo spojke z lasersko oporni‐
+co: glejte navodila za uporabo opornice.
+
+Poravnava sklopke s podložnimi lističi
+
+nastavite vrednost na nazivno vrednost toka
+električne črpalke (nazivna ploščica)
+– Če se motor uporablja z delno obremenitvijo,
+
+Za Slika 17 na strani 384 informacije o tem, kje
+pritrdite črpalko in motor na podlago in kje vstavite
+priložene podložne lističe, glejte .
+
+vrednost nastavite na delovni tok (npr. izme‐
+rjen s tokovnim merilnikom).
+– Če ima črpalka zagonski sistem star-delta, to‐
+
+plotni rele nastavite na 58 % nazivnega ali
+delovnega tok (samo za trifazne motorje).
+
+5  Priprava na zagon, zagon, delovanje
+in zaustavitev
+
+Previdnostni ukrepi
+
+1. Odvijte vijake, s katerimi sta črpalka in motor prit‐
+rjena na podnožje.
+2. Rahlo dvignite črpalko in motor.
+3. Vstavite podložne lističe med podnožje in noge
+črpalke in motorja na eni ali več navedenih toč‐
+kah.
+4. Črpalko in motor namestite na podnožje in porav‐
+najte luknje vijakov.
+5. Pričvrstite vijake.
+6. Ponovite preverjanje poravnave spojke.
+
+SL
+
+OPOZORILO:
+Fizične in toplotne nevarnosti
+
+Namestitev zaščite spoja
+
+• Vedno nosite osebno zaščitno opre‐
+mo.
+• Preverite, ali je nameščena zaščita
+spojke.
+
+POZOR:
+Črpalka ne sme nikoli delovati brez pra‐
+vilno nameščenega varovala spojke.
+
+OPOZORILO:
+
+Vrsta zaščite: žična mreža
+Za informacije glejte Slika 18 na strani 386.
+
+• Poskrbite, da odtočena tekočina ne
+bo povzročala škode ali poškodb.
+• Varovala motorja lahko povzročijo ne‐
+pričakovan zagon motorja. To lahko
+povzroči resne poškodbe.
+
+POZOR:
+
+1. Pravilno namestite zaščito (1), da obkroža izhod‐
+ni konec gredi črpalke in podporni obroč (3) na
+strani motorja.
+2. Privijte vijake (2).
+Vrsta zaščite: pločevina
+Za informacije glejte Slika 19 na strani 388.
+
+1. Namestite spodnjo polovico zaščite spojke (2).
+2. Privijte pritrdilne vijake spodnje polovične lupine
+(4).
+
+• Zunanje površine črpalke in motorja
+lahko med delovanjem presežejo 40
+°C (104 °F).
+• V bližino črpalke ne odlagajte vnetlji‐
+vih snovi.
+
+258

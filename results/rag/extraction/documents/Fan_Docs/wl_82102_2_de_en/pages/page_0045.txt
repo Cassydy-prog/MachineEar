@@ -1,0 +1,44 @@
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+3.3.4.2 Scratches on rolling element 
+outside diameters
+Symptoms:
+
+70: Deep scratches on rollers as a result of foreign particles in the cage
+
+Circumferential notches in the con-
+tact areas of rolling elements. Parallel
+rings in the case of rollers, figs. 70 and
+71, and usually like "balls of wool" in
+the case of balls, fig. 72. Not to be con-
+fused with edge tracks (see section
+3.3.2.6). Edge running forms tracks
+with smooth edges due to plastic defor-
+mation; scratches have sharp edges.
+Hard particles are frequently pressed
+into the cage pockets which cause the
+scratches, fig. 73.
+
+Cause:
+
+Contaminated lubricant; hard par-
+ticles become fixed in the cage pockets
+and act like the grains in a grinding
+wheel.
+
+Remedial measures:
+– Ensure clean mounting conditions
+– Improve sealing
+– Filter lubricant
+
+71: Chart for fig. 70.
+
+72: Scratches on the ball surface re-
+sembling a ball of wool
+73: Embedding of foreign material in
+the cage crosspiece of a cylindrical
+roller bearing
+
+FAG
+44

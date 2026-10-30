@@ -1,0 +1,174 @@
+sl - Prevod izvirnih navodil
+
+OPOMBA:
+
+Vprašanja o negovalnih storitvah pri dolgotrajnem
+skladiščenju lahko zastavite lokalnemu prodajnemu
+in servisnemu zastopniku.
+
+Temperatura v okolju
+
+• Te črpalke ne uporabljajte za ravnanje s tekočina‐
+mi, ki vsebujejo jedke, trdne ali vlaknate snovi.
+• Črpalke ne uporabljate za hitrosti pretoka, ki so
+večje od določenih hitrosti pretoka na tipski plo‐
+ščici.
+
+Izdelek mora biti skladiščen pri temperaturi okolja od
+–5 °C do +40 °C (od 23 °F do 104 °F).
+
+Posebne uporabe
+
+3  Opis izdelka
+
+V naslednjih primerih se obrnite na lokalnega pred‐
+stavnika za prodajo in servis:
+
+3.1  Zasnova črpalke
+Črpalka je vodoravna črpalka s spiralnim difuzorjem,
+trajno priključena na standardne električne motorje.
+Črpalko lahko uporabljate za:
+
+• Če je vrednost gostote ali viskoznosti izčrpane
+tekočine višja od vrednosti vode, kot je voda z
+glikolom; saj je morda potreben močnejši motor.
+• Če je izčrpana tekočina kemično obdelana (na
+primer zmehčana, deionizirana, demineralizirana
+itd.)
+• Katera koli situacija, ki je drugačna od opisane in
+se nanaša na vrsto tekočine.
+
+3.2  Naziv črpalke
+
+• Hladno ali toplo vodo
+• Čiste tekočine
+• Tekočine, ki niso kemično ali mehansko agresiv‐
+ne za material črpalke.
+Izdelek se lahko dobavi kot črpalna enota (črpalka in
+električni motor) ali samo kot črpalka.
+
+Pojasnilo kode naziva črpalke skupaj z enim prime‐
+rom najdete v tabeli Slika 2 na strani 0
+.
+
+3.3  Napisna ploščica
+
+OPOMBA:
+Če ste kupili črpalko z zunanjim motorjem, preverite,
+ali je motor primeren za montažo na črpalko.
+
+Predvidena uporaba
+
+Črpalka je primerna za:
+
+Napisna ploščica je nameščena na nosilcu ležaja.
+Na napisni ploščici so navedeni ključni tehnični pod‐
+atki o izdelku. Več informacij najdete v poglavju Slika
+1 na strani 345.
+Na napisni ploščici so navedene informacije o ma‐
+terialu rotorja in ohišja, o mehanskih tesnilih ter nji‐
+hovih materialih. Več informacij najdete v poglavju
+Slika 3 na strani 363.
+
+IMQ ali TUV ali IRAM ali druge oznake (samo
+za električne črpalke)
+
+• Dovod in prečiščevanje vode
+• Hlajenje in dovod tople vode za industrijske in
+gradbene namene
+• Namakalne in sprinkler sisteme
+• Ogrevalne sisteme
+• Gašenje požarov
+Dodatni nameni uporabe za izbirne materiale:
+
+• Daljinsko ogrevanje
+• Splošna industrija
+
+Če ni določeno drugače, se pri izdelkih z oznako
+za atest električne opreme ta atest nanaša zgolj na
+električno črpalko.
+
+Neprimerna uporaba
+
+OPOZORILO:
+Nepravilna uporaba naprave lahko ustva‐
+ri nevarne okoliščine in povzroči telesne
+poškodbe ter materialno škodo.
+
+3.4  Opis črpalke
+• Mere priključkov skladno s standardom EN 733
+(modeli 32-125…-200; 40-125…-250; 50-125…-250;
+65-125…-315;80-160…-315; 100-200…-400;
+125-250…-400; 150-315…-400).
+• Centrifugalna črpalka s spiralnim difuzorjem z iz‐
+vlečnim nosilcem ležaja.
+
+SL
+
+Neprimerna raba izdelka povzroči izgubo garancije.
+Primeri nepravilne uporabe:
+
+3.5  Material
+Kovinski deli črpalke, ki pridejo v stik s tekočino, so
+izdelani iz:
+
+Koda materiala
+Material ohišja/
+
+Standardno/
+
+rotorja
+
+izbirno
+
+• Tekočine, ki niso združljive z gradbenimi materiali
+črpalke
+• Nevarne tekočine (kot so strupene, eksplozivne,
+vnetljive ali jedke tekočine)
+• Pitne tekočine razen vode (na primer vino ali mle‐
+ko)
+Primeri nepravilne namestitve:
+
+CC
+Lito železo /lito
+
+Standard
+
+železo
+
+CB
+Lito železo/bron
+Standard
+
+Standard
+
+CS
+Lito železo/
+Nerjaveče jeklo
+
+• Nevarna mesta (kot so eksplozivna ali korozivna
+okolja).
+• Mesta, kjer je temperatura zraka zelo visoka ali
+kjer je prezračevanje slabo.
+• Namestitve zunaj, kjer ni zaščite pred dežjem ali
+nizkimi temperaturami.
+
+Standard
+
+CN
+Lito železo/
+Nerjaveče jeklo
+
+DC
+Kovno železo/
+
+Standard
+
+NEVARNOST:
+Te črpalke ne uporabljajte za ravnanje z
+vnetljivimi in/ali eksplozivnimi tekočina‐
+mi.
+
+lito železo
+
+253

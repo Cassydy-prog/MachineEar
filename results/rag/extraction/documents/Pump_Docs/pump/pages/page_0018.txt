@@ -1,0 +1,101 @@
+1. Assessing Pumping System Needs
+
+However, there are many exceptions to these 
+guidelines. For more information on the factors 
+that govern the use of positive displacement and 
+centrifugal pumps, see Section 1 and the fact 
+sheets in this section titled Centrifugal Pumps 
+and Positive Displacement Pump Applications.
+
+Inefficient Operation. Inefficient system operation 
+can be caused by a number of problems, such as 
+improper pump selection, poor system design, 
+excessive wear-ring clearances, and wasteful flow 
+control practices. Indications of inefficient system 
+operation include high energy costs, excessive 
+noise in the pipes and across valves, and high 
+maintenance requirements.
+
+Pumps are usually selected on a “best fit” basis 
+rather than designed specifically for a particular 
+application. A pump is chosen from a wide range 
+of types and models, based on its ability to meet 
+the anticipated demands of a system. Pumps have 
+two mutually dependent outputs: flow rate and 
+head. The variability of these outputs and other 
+factors—such as efficiency, suction inlet 
+conditions, operating life, and maintenance—
+complicate the pump selection process.
+
+Each centrifugal pump has a best efficiency point 
+(BEP) at which its operating efficiency is highest 
+and its radial bearing loads are lowest (except for 
+pumps with concentric case designs). At its BEP, 
+a pump operates most cost-effectively in terms of 
+both energy efficiency and maintenance. In reality, 
+continuously operating a pump at its BEP is 
+difficult because systems usually have changing 
+demands. However, selecting a pump with a BEP 
+that is close to the system’s normal operating 
+range can result in significant operating cost 
+savings.
+
+Centrifugal pumps are by far the most popular 
+type of pump because they are typically low in 
+cost and have low maintenance requirements and 
+long operating lives. Despite their extensive use, 
+selecting a centrifugal pump is complex, and this 
+creates a tendency to oversize it. To try to 
+accommodate uncertainties in system design, 
+fouling effects, or future capacity increases, 
+designers often select larger-than-necessary 
+pump/motor assemblies. Designers also tend to 
+oversize a pump to prevent being responsible 
+for inadequate system performance.
+
+Cavitation. Centrifugal pumps are susceptible to 
+a damaging and performance-degrading effect 
+known as cavitation. Cavitation occurs when the 
+static pressure in the pump drops below the vapor 
+pressure of a fluid. The liquid vaporizes in the 
+form of tiny bubbles; then, when the surrounding 
+pressure increases, the fluid returns to liquid as 
+these tiny bubbles collapse violently. The 
+collapse of the bubbles sends high-velocity water 
+jets into surrounding surfaces, which can damage 
+the impeller and erode the pump casing and 
+piping surfaces. When a pump experiences 
+cavitation, the result is accelerated bearing and 
+seal wear and poor system performance.
+
+Unfortunately, oversizing a pump increases the 
+cost of operating and maintaining a pumping 
+system and creates a different set of operating 
+problems—including excess flow noise, inefficient 
+pump operation, and pipe vibrations. The energy 
+cost alone of using an oversized pump is substan-
+tial. For more information on this problem, see 
+the fact sheet in this section titled Indications of 
+Oversized Pumps.
+
+ Troubleshooting a System Problem
+Some pumping system problems are sufficiently 
+expensive to justify a system assessment. 
+Examples of these problems include inefficient 
+operation, cavitation, poor flow control, and 
+high maintenance.
+
+Cavitation usually occurs at high flow rates, when 
+a pump is operating at the far right portion of its 
+performance curve. However, cavitation-like 
+damage can also occur at low flow rates, when 
+damaging vortices develop in the pump. Cavita-
+tion is indicated by crackling and popping noises, 
+similar to the sound of marbles flowing through 
+a pipe. If uncorrected, cavitation can lead to 
+expensive repairs. For more information on 
+cavitation, see the fact sheet in this section titled 
+Common Pumping System Problems.
+
+14
+Improving Pumping System Performance

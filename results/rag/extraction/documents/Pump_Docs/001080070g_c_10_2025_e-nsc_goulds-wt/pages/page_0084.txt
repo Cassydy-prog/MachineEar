@@ -1,0 +1,157 @@
+nl - Vertaling van origineel
+
+Type pomp
+Bescherming
+
+– Ingebouwde, auto‐
+
+Enkelfasige standaard
+elektrische pomp ≤ 2,2
+kW
+
+matische terugstel‐
+lende thermisch-
+amperometrische
+beveiliging (motor‐
+beschermer)
+– Kortsluitbeveiliging
+
+(moet worden gele‐
+verd door de instal‐
+lateur)13
+
+• De voetklep is volledig in de vloeistof onderge‐
+dompeld zodat er geen lucht in de aanzuigwervel
+terecht kan komen wanneer de vloeistof het mini‐
+male niveau heeft bereikt en de pomp boven de
+te pompen vloeistof is geplaatst.
+• Correct bemeten aan-uitkleppen zĳn geïnstal‐
+leerd op de aanzuigleidingen en op de afvoerlei‐
+ding (stroomafwaarts van de controleklep) voor
+het reguleren van de pompcapaciteit, voor in‐
+spectie van de pomp en voor onderhoudsdoelein‐
+den.
+• Om te voorkomen dat er vloeistof in de pomp
+terugstroomt wanneer de pomp uit staat, is aan
+de afvoerkant een controleklep geplaatst.
+
+Driefasige elektrische
+pomp14
+– Thermische beveili‐
+
+ging (moet geleverd
+worden door de in‐
+stallateur)
+– Bescherming tegen
+
+kortsluiting (moet
+geleverd worden
+door de installateur)
+
+NL
+
+WAARSCHUWING:
+Gebruik de aan-uitklep aan de afvoerkant
+niet in gesloten stand om de pomp lan‐
+ger dan een aantal seconden af te knĳ‐
+pen. Als de pomp langer dan een aantal
+seconden met gesloten afvoerkant moet
+draaien, moet een omleiding worden aan‐
+gebracht om te voorkomen dat de vloei‐
+stof in de pomp oververhit raakt.
+
+• Het bedieningspaneel moet uitgerust zĳn met
+een beveiliging tegen drooglopen waarop een
+drukschakelaar, vlotterschakelaar, sondes of an‐
+dere geschikte apparatuur is aangesloten.
+• De volgende apparaten worden aanbevolen voor
+gebruik aan de aanzuigkant van de pomp:
+
+Voor afbeeldingen met de vereisten voor leidingen
+daarvoor, zie Afbeelding 13 op pagina 380 en Afbeel‐
+ding 14 op pagina 380.
+
+– Wanneer de vloeistof uit een watersysteem
+
+4.2  Elektrische vereisten
+
+wordt gepompt, gebruikt u een drukschake‐
+laar.
+– Wanneer de vloeistof uit een opslagtank of
+
+• De geldende lokale voorschriften gaan boven de‐
+ze vermelde eisen.
+• Controleer in het geval van brandblussystemen
+(kranen en/of sprinklers) de lokale voorschriften
+die van kracht zĳn.
+
+reservoir wordt gepompt, gebruikt u een vlot‐
+terschakelaar of sondes.
+• Wanneer gebruik gemaakt wordt van thermische
+relais, wordt aanbevolen om relais te gebruiken
+die gevoelig zĳn voor faseuitval.
+
+Controlelĳst elektrische aansluitingen
+
+De controlelĳst voor de motor
+
+Controleer of aan de volgende vereisten is voldaan:
+
+WAARSCHUWING:
+
+• De elektrische leidingen zĳn beschermd tegen
+hoge temperaturen, trillingen en stoten.
+• De voedingskabel is voorzien van:
+– een apparaat ter voorkoming van kortsluiting
+– een netisolatorschakelaar met een contac‐
+
+truimte van minstens 3 mm
+
+Controlelĳst voor het elektrische bedienings‐
+paneel
+
+• Lees bĳ gebruik van een andere mo‐
+tor dan de standaardmotor de hand‐
+leiding om zeker te weten of een be‐
+veiligingsapparaat aanwezig is.
+• Als de motor is voorzien van automa‐
+tische thermische beschermers, moet
+u rekening houden met het risico van
+onverwachte inschakelingen als ge‐
+volg van overbelasting. Gebruik der‐
+gelĳke motoren niet voor brandblus‐
+toepassingen.
+
+OPMERKING:
+
+OPMERKING:
+Het bedieningspaneel moet passen bĳ de waarden
+van de elektrische pomp. Onjuiste combinaties kun‐
+nen ertoe leiden dat de bescherming van de motor
+niet meer gegarandeerd is.
+
+Controleer of aan de volgende vereisten is voldaan:
+
+• Gebruik alleen dynamisch uitgebalanceerde mo‐
+toren met een halve spie in de asverlenging (IEC
+60034-14) en met een normale trilsnelheid (N).
+• De netspanning en netfrequentie moeten over‐
+eenkomen met de specificaties op het typepla‐
+tje.
+
+• Het bedieningspaneel moet de motor bescher‐
+men tegen overbelasting en kortsluiting.
+• Installeer de juiste bescherming tegen overbelas‐
+ting (thermisch relais of motorbeschermer).
+
+In het algemeen kunnen motoren werken binnen de
+volgende netspannings-tolerantiewaarden:
+
+13
+zekeringen aM (starten van de motor) of magneto-thermische schakelaar met curve C en Icn ≥ 4,5 kA of
+een ander gelĳkwaardig apparaat.
+14
+thermisch relais met tripklasse 10A + zekeringen aM (motorstart) of motorbeveiliging magneetthermi‐
+sche schakelaar met startklasse 10A.
+
+80

@@ -1,0 +1,55 @@
+Evaluation of running features and damage to dismounted bearings
+Pattern of rolling contact
+
+• Fatigue as a result of poor lubrication
+
+Symptoms:
+
+Depending on the load, diverse 
+damage patterns arise in the case of poor
+lubrication. When load is low and 
+slippage also occurs tiny superficial 
+fractures develop. Since they grow in 
+large numbers, they appear like spots on
+the raceway, fig. 49. We refer to the
+terms grey stippiness or micro pittings.
+When the load is very high and the lu-
+bricant has, for example,  thinned down
+due to water penetration, mussel-shaped
+pittings develop when the raceways 
+(fig. 29) are also pressure polished, 
+fig. 50.
+
+When loads are very high and lubrica-
+tion is poor very distinct heating zones
+develop in the raceway where, in turn,
+incipient cracks arise when cycling con-
+tinues.
+
+49: Micro pittings
+
+Causes:
+– Poor lubrication condition as a result
+
+of
+– • insufficient lubricant supply
+– • operating temperature too high
+– • water penetrates
+– causing more friction and material
+
+stress on the raceway surface
+– Slippage at times
+
+Remedial measures:
+– Increase lubricant quantity
+– Use lubricant with a higher viscosity,
+
+if possible with tested EP additives
+– Cool lubricant/bearing position
+– Use softer grease perhaps
+– Prevent penetration of water
+
+50: Mussel-shaped fatigue
+
+FAG
+32

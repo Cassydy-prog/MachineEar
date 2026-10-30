@@ -1,0 +1,42 @@
+Section 1: Pumping System Basics
+
+energy costs, it also decreases loads on the pump 
+and maintenance requirements.
+
+Systems with significant annual operating hours 
+incur high operating and maintenance costs relative 
+to initial equipment purchase costs. Inefficiencies 
+in high-run-time, oversized systems can add 
+significantly to annual operating costs; however, 
+costly inefficiencies are often overlooked when 
+ensuring system reliability. For more information 
+on oversized pumps, see the fact sheet in Section 2 
+titled Indications of Oversized Pumps. The Pump-
+ing System Assessment Tool (see Appendix B) 
+provides assistance in identifying and prioritizing 
+projects to reduce the amount of energy used by 
+pumping systems.
+
+The cost of oversizing pumps extends beyond 
+energy bills. Excess fluid power must be dissipated 
+by a valve, a pressure-regulating device, or the 
+system piping itself, which increases system wear 
+and maintenance costs. Valve seat wear, which 
+results from throttling excess flow and from 
+cavitation, creates a significant maintenance 
+problem and can shorten the interval between 
+valve overhauls. Similarly, the noise and vibration 
+caused by excessive flow creates stress on pipe 
+welds and piping supports; in severe cases, this 
+can erode pipe walls.
+
+Note that, when designers try to improve a 
+pumping system’s reliability by oversizing 
+equipment, usually the unanticipated result is 
+less system reliability. This is caused by both 
+the additional wear on the equipment and low-
+efficiency operation.
+
+10
+
+Improving Pumping System Performance

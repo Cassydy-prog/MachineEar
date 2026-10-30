@@ -1,0 +1,212 @@
+sr - Prevod originalnog
+
+Uzrok
+Rešenje
+
+Potrebno je da postoji
+samo blagi kontakt za‐
+ptivnog venca.
+
+Sačekajte da se pumpa ohla‐
+di. Termički osigurač će se
+automatski resetovati.
+
+Termički osigurač ko‐
+ji je ugrađen u pumpu
+(ako postoji) je isklju‐
+čen.
+
+Provera tihog rada
+Često proveravajte tihi
+rad pumpe alatima za
+merenje vibracija.
+
+Ponovo postavite toplotnu
+zaštitu.
+
+Termički relej ili zašti‐
+ta motora u električ‐
+noj kontrolnoj tabli su
+isključeni.
+
+Proverite:
+
+6.3  Rastavljanje i postavljanje delova pumpe
+Za više informacija o rezervnim delovima i montaži i
+demontaži pumpe obratite se lokalnom predstavniku
+prodaje i servisa.
+
+Isključen je uređaj za
+zaštitu od rada na su‐
+vo.
+
+7  Rešavanje problema
+
+• nivo tečnosti u rezervoa‐
+ru ili pritisak u vodovodu
+• uređaj za zaštitu i njego‐
+ve kablove
+
+7.1  Otklanjanje problema za korisnike
+
+Zamenite osigurače.
+
+Glavni prekidač je uključen, ali se električna pumpa
+ne pokreće.
+
+Osigurači za pumpu
+ili pomoćna kola su
+pregoreli.
+
+Uzrok
+Rešenje
+
+7.3  Električna pumpa se pokreće, ali se
+termički osigurač isključuje ili osigurači
+pregorevaju odmah nakon toga
+
+Termički osigurač koji
+je ugrađen u pumpu
+(ako postoji) je isklju‐
+čen.
+
+Sačekajte da se pumpa
+ohladi. Termički osigurač
+će se automatski resetova‐
+ti.
+
+Uzrok
+Rešenje
+
+Isključen je uređaj za
+zaštitu od rada na su‐
+vo.
+
+Proverite nivo tečnosti u re‐
+zervoaru ili pritisak u vodo‐
+vodu.
+
+Kabl za napajanje je
+oštećen.
+
+Proverite kabl i zamenite
+prema potrebi.
+
+Proverite komponente i za‐
+menite prema potrebi.
+
+Električna pumpa se pokreće, ali se termički osigu‐
+rač isključuje nakon toga.
+
+Termički osigurač ili
+osigurači nisu odgova‐
+rajući za struju moto‐
+ra.
+
+Uzrok
+Rešenje
+
+Kratak spoj električ‐
+nog motora.
+
+Proverite komponente i za‐
+menite prema potrebi.
+
+Kontaktirajte Službu pro‐
+daje i servisa.
+
+Motor je preoptere‐
+ćen.
+
+Proverite uslove rada pum‐
+pe i resetujte zaštitu.
+
+Unutar pumpe postoje
+strani predmeti (čvrste
+ili vlaknaste supstance)
+koji su zaglavili rotor.
+
+Pumpa je preoptereće‐
+na jer pumpa tečnost
+koja je suviše gusta i vi‐
+skozna.
+
+7.4  Električna pumpa se pokreće, ali se
+termički osigurač isključuje ili osigurači
+pregorevaju ubrzo nakon toga
+
+Proverite stvarne zahteve
+u vezi snage na osnovu
+karakteristika upumpane
+tečnosti, a zatim kontakti‐
+rajte Službu prodaje i ser‐
+visa.
+
+Uzrok
+Rešenje
+
+Pumpa radi ali predaje premalo ili nimalo tečnosti.
+
+Zaštitite električnu tablu
+od izvora toplote i direkt‐
+ne sunčeve svetlosti.
+
+Uzrok
+Rešenje
+
+Električna tabla se nalazi
+u pregrejanoj oblasti ili je
+izložena direktnoj sunče‐
+voj svetlosti.
+
+SR
+
+Pumpa je začeplje‐
+na.
+
+Kontaktirajte Službu prodaje i
+servisa.
+
+Proverite uslove rada
+motora.
+
+Napon napajanja nije
+unutar radnih ograničenja
+motora.
+
+Proverite:
+
+Uputstva za otklanjanje problema u donjim tabelama
+namenjena su isključivo instalaterima.
+
+Nedostaje faza napaja‐
+nja.
+
+• napajanje
+• električnu vezu
+
+7.2  Glavni prekidač je uključen, ali se
+električna pumpa ne pokreće
+
+Uzrok
+Rešenje
+
+7.5  Električna pumpa se pokreće, ali se
+termički osigurač isključuje nakon toga
+
+Uzrok
+Rešenje
+
+Nema napajanja.
+• Vratite napajanje.
+• Proverite da li su svi elek‐
+trični priključci za napaja‐
+nje netaknuti.
+
+Unutar pumpe posto‐
+je strani predmeti (čvr‐
+
+Obratite se lokalnom pred‐
+stavniku prodaje i servisa.
+
+283

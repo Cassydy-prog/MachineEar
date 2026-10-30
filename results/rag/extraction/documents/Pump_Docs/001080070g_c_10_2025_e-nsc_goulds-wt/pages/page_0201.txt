@@ -1,0 +1,141 @@
+cs - Překlad originálu
+
+Poznámka:
+
+Odstranění ochrany spojky
+
+• U základních desek se doporučuje zalít základo‐
+vou desku pomocí betonu s minimálním smršťo‐
+váním.
+
+VAROVÁNÍ:
+Nikdy nespouštějte čerpadlo bez správně
+nainstalovaného krytu spojky.
+
+Montáž čerpadla k základovému rámu
+
+Zkontrolujte, zda jsou splněny následující požadav‐
+ky:
+
+• Pevný rám se během provozu nekroutí a nevibru‐
+je (rezonance).
+• Montážní plochy pro nohy čerpadla a motor na
+základovém rámu musí být rovné (doporučené
+jsou obrobené plochy).
+• Je zajištěno bezpečné upevnění čerpadla a moto‐
+ru.
+• V závislosti na použité spojce je ponechán dosta‐
+tečný prostor mezi čerpadlem a hřídelem motoru.
+• Mezi čerpadlem a základním rámem musí být do‐
+statečné podložení, aby bylo možné v případě vý‐
+měny nastavit stejnou výšku mezi spodní a stře‐
+dovou linií (doporučené svislé nastavení 4–6 mm
+
+Snížení vibrací
+
+Typ ochrany: drátěná síťka
+Informace naleznete v oddílu Obrázek 18 na straně
+386.
+1. Vyšroubujte šrouby (2).
+2. Odstraňte drátěnou síťku. (1).
+Typ ochrany: plech
+Informace naleznete v oddílu Obrázek 19 na straně
+388.
+1. Vyšroubujte uzavírací šrouby polovičních pouzder
+(5).
+2. Vyšroubujte upevňovací šrouby zajišťující horní
+polovinu pláště (3).
+3. Odstraňte horní polovinu ochranného pláště spoj‐
+ky (1).
+4. Vyšroubujte upevňovací šrouby zajišťující spodní
+polovinu pláště (4).
+5. Odstraňte spodní polovinu pláště ochrany spojky
+(2).
+6. Otevřete a zvedněte podpěrný/seřizovací kroužek
+(6).
+
+Kontrola a vyrovnání spojky
+
+Jednotka a průtok kapalin v systému mohou vytvářet
+vibrace, které lze zesílit, pokud jednotka nebo potrub‐
+ní systém nejsou správně nainstalovány: kromě In‐
+stalace na betonové základy na straně 196 Upevnění
+čerpadla na straně 196 Kontrolní seznam potrubního
+systému na straně 197
+
+Doporučuje se také:
+
+OZNÁMENÍ:
+Znovu zkontrolujte vyrovnání spojky za horkých pro‐
+vozních podmínek.
+
+OZNÁMENÍ:
+Ujistěte se, že spoj lze snadno otáčet rukou a že
+mezi zuby je určitá vůle.
+
+• Zkontrolujte, zda jsou čerpadlo a motor bezpečně
+připevněny k základně
+• Vložte protivibrační materiál mezi základnu a zá‐
+klad
+• Pokud má jednotka svařovanou základnu, vyplňte
+betonem prostory uvedené na Obrázek 25 na
+straně 397.
+
+CS
+
+OZNÁMENÍ:
+Nesprávné vyrovnání jednotky může způsobit vážné
+poškození systému.
+
+OZNÁMENÍ:
+Neplňte složený plechový podstavec Obrázek 26 na
+straně 397 betonem.
+
+4.3.2  Kontrolní seznam potrubního systému
+Zkontrolujte, zda jsou splněny následující požadav‐
+ky:
+
+OZNÁMENÍ:
+Pokud je spojka nesprávně vyrovnána, může to způ‐
+sobit vibrace, které mohou vést k předčasnému opo‐
+třebení rotačních součástí jednotky.
+
+Zkontrolujte vyrovnání spojky jednotky následujícím
+způsobem:
+
+• Přeprava a instalace
+• První spuštění
+• Dosažení provozní teploty.
+Proveďte kontrolu, i když byla jednotka dodána plně
+sestavená na rámu.
+
+Kontrola vyrovnání spojky pomocí pravítka a
+spároměru
+
+• V případě instalace sacího zdvihu musí mít sací
+potrubí rostoucí sklon k jednotce přesahující 2 %.
+• Jmenovité průměry potrubního systému musí být
+alespoň stejné jako jmenovité průměry portů čer‐
+padla.
+• Podepřete potrubní systém nezávisle, aby nedo‐
+šlo k zatížení jednotky.
+• Před připojením k jednotce propláchněte potrubní
+systém, abyste odstranili veškeré zbytky svařová‐
+ní, usazeniny a nečistoty. Podle potřeby nainsta‐
+lujte filtr.
+
+Informace o vyrovnání standardní spojky (A) a spoj‐
+ky s rozpěrkou (B) naleznete v oddílu Obrázek 27 na
+straně 397
+
+VAROVÁNÍ:
+Návarky, okuje a další nečistoty v potrubí
+vedou k poškození čerpadla.
+
+1. Odstraňte ochranu spojky.
+
+4.3.3  Vyrovnání spojky
+
+OZNÁMENÍ:
+
+197

@@ -1,0 +1,212 @@
+it en fr de es pt nl da no sv fi is et lv lt pl cs sk hu ro bg sl hr sr el tr ru uk ar
+
+Italiano
+
+English
+
+Français
+
+1. Righello digitale con bolla
+2. Semi giunto
+3. Spessimetro
+
+1. Digital ruler with spirit level
+2. Half coupling
+3. Thickness gauge
+
+1. Règle numérique avec niveau
+à bulle
+2. Demi-accouplement
+3. Jauge d'épaisseur
+
+Deutsch
+
+Español
+
+Português
+
+1. Digitales Lineal mit Wasser‐
+waage
+2. Halbkupplung
+3. Fühlerlehre
+
+1. Regla digital con nivel de bur‐
+buja
+2. Medio acoplamiento
+3. Calibrador de espesor
+
+1. Régua digital com nível de
+bolha
+2. Meio acoplamento
+3. Calibrador de espessura
+
+Nederlands
+
+Dansk
+
+Norsk
+
+1. Digitale liniaal met waterpas
+2. Halve koppeling
+3. Diktemeter
+
+1. Digital lineal med vaterpas
+2. Halvkobling
+3. Tykkelsesmåler
+
+1. Digital linjal med vater
+2. Halvkopling
+3. Følelære
+
+Svenska
+
+Suomalainen
+
+íslenskur
+
+1. Digital linjal med vattenpass
+2. Halvkoppling
+3. Tjockleksmätare
+
+1. Digitaalinen viivain, jossa on
+vesitaso
+2. Puolikytkin
+3. Rakotulkki
+
+1. Stafræn reglustika með halla‐
+mæli
+2. Helmingur tengils
+3. Þykktarmælir
+
+Eesti
+
+latviski
+
+lietuvių
+
+1. Digitālais lineāls ar līmeņrādi
+2. Pušu savienojums
+3. Biezummērs
+
+1. Skaitmeninis liniuotė su dva‐
+siniu lygiu
+2. Pusė movos
+3. Storio matuoklis
+
+1. Digitaalne joonlaud koos vesi‐
+loodiga
+2. Siduripoole
+3. Jämeduse määramise mõõte‐
+riist
+
+Polski
+
+Čeština
+
+slovenský
+
+1. Digitální pravítko s vodováhou
+2. Poloviční spojka
+3. Číselníkový úchylkoměr
+
+1. Cyfrowa linijka z poziomem
+duchowym
+2. Półsprzęgło
+3. Grubościomierz
+
+1. Digitálne pravítko s duchov‐
+nou úrovňou
+2. Polovičná spojka
+3. Hrúbkomer
+
+Magyar
+
+Română
+
+български
+
+1. Digitális vonalzó vízszinttel
+2. Félcsatlakozó
+3. Vastagságmérő
+
+1. Riglă digitală cu nivel de spirt
+2. Cuplaj parțial
+3. Şubler micrometric
+
+1. Цифрова линийка с ниво на
+духа
+2. Половин съединител
+3. Дебеломер
+
+Slovenščina
+
+Hrvatski
+
+Српски
+
+1. Digitalni ravnilo z duhovno
+ravnijo
+2. Polovična sklopka
+3. Merilnik debeline
+
+1. Digitalni ravnalo s razinom
+duha
+2. Poluspojka
+3. Mjerač debljine
+
+1. Digitalni vladar sa nivoom du‐
+ha
+2. Polovina spojnice
+3. Merač debljine
+
+Ελληνικά
+
+Türk
+
+Русский
+
+1. Su seviyeli dijital cetvel
+2. Yarım kaplin
+3. Sentil
+
+1. Ψηφιακός χάρακας με
+αλφάδι
+2. Μισή σύζευξη
+3. Δείκτης πάχους
+
+1. Цифровая линейка со
+спиртовым уровнем
+2. Полумуфта
+3. Щуп
+
+Україна
+
+عربي
+
+1
+.مسطرة
+ 
+رقمية
+ 
+بميزان
+ 
+تسوية
+
+2
+.قارنة
+ 
+نصفية
+
+3
+.مقياس
+ 
+السُمك
+
+APPX
+
+1. Цифрова лінійка зі
+спиртовим рівнем
+2. Напівмуфта
+3. Вимірювач товщини
+
+398

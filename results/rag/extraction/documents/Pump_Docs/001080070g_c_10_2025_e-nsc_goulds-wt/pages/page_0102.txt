@@ -1,0 +1,222 @@
+da - Oversættelse af original instruktioner
+
+Årsag
+Afhjælpning
+
+Årsag
+Afhjælpning
+
+Ændr positionen af to af faser‐
+ne på terminaltavlen på moto‐
+ren eller i det elektriske kon‐
+trolpanel.
+
+Propellens rotati‐
+onsretning er for‐
+kert.
+(trefaset version)
+
+Pumpeleveringshastig‐
+heden er højere end de
+begrænsninger, der er
+specificeret på datapla‐
+den.
+
+Luk TIL-FRA-ventilen del‐
+vist, indtil leveringshastig‐
+heden er lig med eller
+mindre end de grænser,
+der er angivet på datapla‐
+den.
+
+Kontrollér pumpens driftsbe‐
+tingelser. Gør det følgende,
+hvis det er nødvendigt:
+
+Pumpen er overbelastet,
+fordi den pumper væ‐
+ske, der er for tæt og
+viskos.
+
+Indsugningsløftet
+er for højt, el‐
+ler gennemstrøm‐
+ningsmodstanden i
+indsugningsrøret er
+for stor.
+
+• Reducér indsugningsløftet
+• Forøg indsugningsrørets
+diameter
+
+Kontrollér de faktiske
+strømkrav, baseret på
+pumpevæskens karakteri‐
+stika og udskift motoren
+i overensstemmelse der‐
+med.
+
+7.9  Den elektriske pumpe stopper og roterer
+i den forkerte retning
+
+Motorlejerne er slidte.
+Kontakt den lokale salgs-
+og servicerepræsentant.
+
+Årsag
+Afhjælpning
+
+7.6  Den elektriske pumpe starter, men
+systemets generelle beskyttelse er aktiveret
+
+Der er lækage i én eller begge af
+de følgende komponenter:
+
+Reparér eller ud‐
+skift fejlkompo‐
+nenten.
+
+Årsag
+Afhjælpning
+
+DA
+
+• Indsugningsrøret
+• Fodventilen eller kontrolventi‐
+len
+
+Kortslutning i det elektri‐
+ske system.
+
+Kontrollér det elektriske
+system.
+
+Der er luft i indsugningsslangen.
+Udsug luften.
+
+7.10  Pumpen starter for hyppigt.
+
+7.7  Den elektriske pumpe starter,
+men systemets reststrømsenhed (RCD) er
+aktiveret
+
+Årsag
+Afhjælpning
+
+Årsag
+Afhjælpning
+
+Der er lækage i én eller begge
+af de følgende komponenter:
+
+Reparér eller
+udskift fejlkompo‐
+nenten.
+
+Der er lækage i jord‐
+forbindelsen.
+
+Kontrollér isoleringen af elek‐
+triske systemkomponenter.
+
+• Indsugningsrøret
+• Fodventilen eller kontrolven‐
+tilen
+
+7.8  Pumpen kører med leverer for lidt eller
+ingen væske
+
+Der er en brudt membran eller
+ingen luft-forladning i tryktan‐
+ken.
+
+Se de relevante in‐
+struktioner i tryk‐
+tankhåndbogen.
+
+Årsag
+Afhjælpning
+
+• Udsug luften.
+
+Der er luft inden i
+pumpen eller røret.
+
+7.11  Pumpen vibrerer og genererer for
+meget støj.
+
+Årsag
+Afhjælpning
+
+Pumpen er ikke kor‐
+rekt primet.
+
+Stop pumpen og gentag pri‐
+meprocedurerne.
+Hvis problemet fortsætter:
+
+Pumpekavitati‐
+on
+
+• Kontrollér, at den mekani‐
+ske forsegling ikke er læk.
+• Kontrollér indsugnings‐
+slangen for perfekt tæthed.
+• Udskift alle ventiler, der er
+læk.
+
+Åbn ventilen.
+
+Reducer den krævede gennem‐
+strømningshastighed ved delvist
+at lukke ON-OFF-ventilen ned‐
+strøms fra pumpen. Hvis proble‐
+met fortsætter, skal du kontrolle‐
+re driftsbetingelserne for pumpen
+(for eksempel højdeforskel, gen‐
+nemstrømningsmodstand, væske‐
+temperatur).
+
+Droslen på udfør‐
+selssiden er for
+ekstensiv.
+
+Motorlejerne er
+slidte.
+
+Kontakt den lokale salgs- og ser‐
+vicerepræsentant.
+
+Deaktivér og rengør ventilerne.
+
+Ventilerne låses i
+lukket eller delvis
+lukket position.
+
+Kontakt den lokale salgs- og ser‐
+vicerepræsentant.
+
+Der er fremmed‐
+legemer inden i
+pumpen.
+
+Pumpen er tilstop‐
+pet.
+
+Kontakt den lokale salgs- og
+servicerepræsentant.
+
+Kontakt den lokale salgs- og ser‐
+vicerepræsentant.
+
+Røret er stoppet.
+Kontrollér og rengør rørene.
+
+Kompressor‐
+hjulsgummi på
+slidringen
+
+Flugter ikke
+Tjek koblingens flugtning.
+
+98

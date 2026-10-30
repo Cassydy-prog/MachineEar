@@ -1,0 +1,211 @@
+sk - Preklad originálu
+
+Príčina
+Spôsob odstránenia
+
+Príčina
+Spôsob odstránenia
+
+• napájanie
+• elektrické zapojenie
+
+• Skontrolujte, či nepresaku‐
+je mechanické tesnenie.
+• Skontrolujte, či je sacie
+potrubie úplne dotiahnuté.
+• Vymeňte všetky presaku‐
+júce ventily.
+
+7.5  Elektrické čerpadlo sa spustí, ale za
+rôzny čas po spustení sa aktivuje tepelná
+ochrana
+
+Otvorte ventil.
+
+Škrtenie na strane
+výpuste je príliš in‐
+tenzívne.
+
+Príčina
+Spôsob odstránenia
+
+Rozmontujte zariadenie a vy‐
+čistite ventily.
+
+Obráťte sa na miestneho
+predajného a servisného
+zástupcu spoločnosti.
+
+Ventily sa zastavujú
+v uzatvorenej alebo
+čiastočne uzatvore‐
+nej polohe.
+
+V čerpadle sa nachá‐
+dzajú cudzorodé telesá
+(pevné alebo vláknité
+látky), ktoré zablokova‐
+li obežné koleso.
+
+Čerpadlo je upchaté. Obráťte sa na miestneho
+
+predajného a servisného zá‐
+stupcu spoločnosti.
+
+Potrubie je upchaté. Skontrolujte a vyčistite potru‐
+
+Hodnota výkonu čer‐
+padla je vyššia než hra‐
+ničné hodnoty uvedené
+na typovom štítku.
+
+bie.
+
+Čiastočne zatvorte dvojpo‐
+lohový ventil smerom nad‐
+ol, až kým rýchlosť dodáva‐
+nia nebude rovnaká alebo
+nižšia ako limity uvedené
+na typovom štítku.
+
+Zmeňte polohu dvoch fáz na
+svorkovnici motora alebo na
+elektrickom kontrolnom pane‐
+li.
+
+Smer otáčania obež‐
+ného kolesa je ne‐
+správny.
+(trojfázová verzia)
+
+V závislosti na typu čerpa‐
+nej kvapaliny skontrolujte
+nároky na výkon a podľa
+toho vymeňte motor.
+
+Čerpadlo je preťažené,
+pretože čerpá kvapali‐
+nu s príliš vysokou
+úrovňou hustoty a vi‐
+skozity.
+
+Skontrolujte prevádzkové
+podmienky čerpadla. V prípa‐
+de potreby urobte toto:
+
+Ložiská motora sú
+opotrebované.
+
+Obráťte sa na miestneho
+predajného a servisného
+zástupcu spoločnosti.
+
+Výška nasávania
+čerpadla je príliš vy‐
+soká alebo prietoko‐
+vý odpor v nasáva‐
+com potrubí je príliš
+veľký.
+
+• Znížte saciu výšku
+• Zvýšte priemer sacieho
+potrubia.
+
+7.6  Elektrické čerpadlo sa spustí, ale celková
+ochrana systému je aktívna.
+
+7.9  Elektrické čerpadlo sa zastaví a začne sa
+otáčať nesprávnym smerom
+
+Príčina
+Spôsob odstránenia
+
+Príčina
+Spôsob odstránenia
+
+SK
+
+Skrat v elektrickom
+systéme.
+
+Skontrolujte elektrický sy‐
+stém.
+
+Aspoň jeden diel presakuje:
+
+Chybný diel opravte
+alebo vymeňte.
+
+• Sacie potrubie
+• Pätkový ventil alebo spät‐
+ná klapka
+
+7.7  Elektrické čerpadlo sa spustí, ale
+aktivuje sa prúdový chránič.
+
+V sacom potrubí je vzduch.
+Vysajte tento
+vzduch.
+
+Príčina
+Spôsob odstránenia
+
+7.10  Čerpadlo sa príliš často štartuje
+
+Je porušené uzem‐
+nenie (ukostrenie).
+
+Skontrolujte izoláciu súčia‐
+stok elektrického systému.
+
+Príčina
+Spôsob odstránenia
+
+Aspoň jeden diel presakuje:
+
+7.8  Čerpadlo je spustené, ale dodáva príliš
+málo alebo žiadnu kvapalinu.
+
+Chybný diel opravte
+alebo vymeňte.
+
+Príčina
+Spôsob odstránenia
+
+• Sacie potrubie
+• Pätkový ventil alebo spät‐
+ná klapka
+
+• Vypustite tento vzduch.
+
+Vo vnútri čerpadla
+alebo potrubia sa
+nachádza vzduch.
+
+Vo tlakovej nádrži je pretrhnu‐
+tá membrána alebo nedochá‐
+dza k predplneniu vzduchu.
+
+Pozrite si príslušné
+pokyny v príručke
+tlakovej nádrže.
+
+Čerpadlo nie je
+správne nastavené.
+
+7.11  Čerpadlo vibruje a je príliš hlučné
+
+Zastavte čerpadlo a zopakuj‐
+te postup nastavenia.
+Ak problém pretrváva:
+
+Príčina
+Spôsob odstránenia
+
+Kavitácia čerpad‐
+la
+
+Požadovaný prietok znížte čia‐
+stočným zatvorením dvojpoloho‐
+
+213

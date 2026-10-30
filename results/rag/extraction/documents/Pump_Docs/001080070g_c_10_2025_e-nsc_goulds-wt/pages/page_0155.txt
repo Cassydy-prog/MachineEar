@@ -1,0 +1,164 @@
+et - Originaali tõlkimine
+
+3. Paigaldage klemmikarbi kaas.
+
+5.1  Pumba täitmine
+
+Teavet pumba täiendavate ühenduste kohta vaadake
+jooniselt Joonis 22 leheküljel 392
+
+MÄRKUS:
+Keerake läbiviiktihendid ettevaatlikult kinni, et
+kaabel ei libiseks ja niiskus ei pääseks klemmi‐
+karpi.
+
+Paigaldused, mille vedelikutase on pumbast
+kõrgemal (imikõrgus)
+
+Pumba pistikuid näitava joonise leiate siit: Joonis 23
+leheküljel 394.
+
+4. Kui mootoril ei ole automaatselt lähtestatavat
+temperatuurikaitset, reguleerige liigkoormuskait‐
+set alloleva loendi järgi.
+
+1. Sulgege pumba allavoolukoha sulgeklapp.
+
+– Kui mootorit kasutatakse täiskoormusel,
+
+seadke väärtus elektripumba nimivoolu väär‐
+tusele (andmesilt)
+– Kui mootorit kasutatakse osalisel koormusel,
+
+2. Eemaldage täite- (3) või ventilatsioonikork (1) ja
+avage ülesvoolikoha sulgeklapp, kuni vesi voolab
+august välja.
+
+a) Sulgege täite- (3) või ventilatsioonikork (1).
+
+seadke väärtus talitlusväärtusele (mõõdetud
+näiteks voolutangidega).
+– Kui pumbal on täht-kolmnurkkäivitussüsteem,
+
+Paigaldused, mille vedelikutase on pumbast
+madalamal (imitõste)
+
+reguleerige termorelee nimivoolu või talitlus‐
+voolu 58% peale (ainult kolmefaasiliste moo‐
+torite puhul).
+
+Pumba pistikuid näitava joonise leiate siit: Joonis 24
+leheküljel 395.
+
+1. Kõik tühjad torusüsteemid
+
+5  Kasutuselevõtmine, käivitamine, töö
+ja seiskamine
+
+a) Avage pumba ülesvoolukoha sulgeklapp.
+b) Eemaldage täitekork (3) ja ventilatsioonikork
+
+Ettevaatusabinõud
+
+(1). Täitke pumpa lehtri abiga täitekorgi kau‐
+du, kuni vesi voolab sellest avast välja.
+c) Keerake täitekork (3) ja ventilatsioonikork (1)
+
+HOIATUS:
+Füüsilised ja termilised ohud
+
+kinni.
+
+2. Täidetud väljalasketorusüsteemid
+
+a) Avage pumbast ülesvoolu asuv sulgeklapp ja
+
+• Kandke alati isikukaitsevahendeid.
+• Kontrollige, kas sidurikaitse on paigal‐
+datud
+
+ET
+
+avage allavoolukoha sulgeklapp.
+b) Eemaldage ventilatsioonikork (1), kuni vesi
+
+HOIATUS:
+
+voolab august välja.
+c) Keerake ventilatsioonikork (1) kinni.
+
+5.2  Kontrollige pöörlemissuunda
+(kolmefaasiline mootor)
+Enne käivitamist toimige järgmiselt.
+
+• Veenduge, et väljalastud vedelik ei
+põhjustaks kahjustusi või kehavigas‐
+tusi.
+• Mootorikaitsmed võivad põhjustada
+mootori ootamatut käivitumist. Selle
+tagajärjeks võivad olla rasked kehavi‐
+gastused.
+
+1. Määrake õige pöörlemissuuna määratlemiseks
+noolte asukoht adapteril või mootori ventilaatori
+kattel.
+
+HOIATUS:
+
+2. Käivitage mootor.
+
+3. Kontrollige kiiresti pöörlemissuunda ühenduslüli
+piirde või mootori ventilaatori katte kaudu.
+
+4. Peatage mootor.
+
+• Pumba ja mootori välispinna tempe‐
+ratuur võib töötamise ajal ületada 40
+ºC.
+• Ärge asetage pumba lähedusse ker‐
+gestisüttivaid materjale.
+
+5. Vale pöörlemissuuna korral toimige järgmiselt.
+
+MÄRKUS:
+
+a) Eemaldage toitekaabel.
+b) Vahetage mootori klemmialusel või elektri‐
+
+juhtpaneelil toitekaabli kaks juhet kolmest.
+
+Juhtmestiku skeemi vaadake jaotisest Joonis
+21 leheküljel 392.
+c) Kontrollige pöörlemissuunda uuesti.
+
+5.3  Pumba käivitamine
+
+MÄRKUS:
+Pärast esimest käivitamist ja töötemperatuuri saavu‐
+tamist kontrollige seadme siduri joondatust, vt Siduri
+kontrollimine ja joondamine leheküljel 150.
+
+Pumbatava vedeliku õige voolu ja temperatuuri kont‐
+rollimise eest vastutab paigaldaja või omanik.
+Enne pumba käivitamist veenduge järgmises.
+
+• Ärge kasutage pumpa allpool minimaalset nimi‐
+voolu, kuivana või täitevedelikuta.
+• Ärge kunagi tehke pumbaga tööd, kui selle sulge‐
+mise ON-OFF klapp on suletud kauem kui mõni
+sekund.
+• Ärge kunagi tehke pumbaga tööd, kui selle imi‐
+süsteemi ON-OFF klapp on suletud.
+• Ärge jätke mittetöötavat pumpa külma kätte. Las‐
+ke kogu pumbas oleval vedelikul ära voolata.
+Vastasel juhul võib vedelik külmuda ja pumpa
+kahjustada.
+• Imipoole (torustik, survepaak) surve ja pumba
+väljastatav suurim surve kokku ei tohi ületada
+pumba maksimaalset lubatud töörõhku (nimisur‐
+ve PN).
+• Kavitatsiooni ilmnemisel ei tohi pumpa kasutada.
+Kavitatsioon võib seadme sisekomponente kah‐
+justada.
+
+151

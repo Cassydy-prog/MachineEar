@@ -1,0 +1,43 @@
+Appendix C: Pumping Systems Tip Sheet Number 2
+
+The total system head has three components: static head, elevation (potential energy), and velocity (or dynamic) head. 
+Static head is the pressure of the fluid in the system, and is the quantity measured by conventional pressure gauges. 
+The height of the fluid level can have a substantial impact on system head. The dynamic head is the pressure required by 
+the system to overcome head losses caused by flow rate resistance in pipes, valves, fittings, and mechanical equipment. 
+Dynamic head losses are approximately proportional to the square of the fluid flow velocity, or flow rate. If the flow rate 
+doubles, dynamic losses increase fourfold.
+
+For many pumping systems, total system head requirements vary. For example, in wet well or reservoir applications, 
+suction and static lift requirements may vary as the water surface elevations fluctuate. For return systems such as HVAC 
+circulating water pumps, the values for the static and elevation heads equal zero. You also need to be aware of a pump’s 
+net positive suction head requirements. Centrifugal pumps require a certain amount of fluid pressure at the inlet to avoid 
+cavitation. A rule of thumb is to ensure that the suction head available exceeds that required by the pump by at least 
+25% over the range of expected flow rates.
+
+ Environmental Considerations 
+Important environmental considerations include ambient temperature and humidity, elevation above sea level, and whether 
+the pump is to be installed indoors or outdoors.
+
+ Software Tools
+Most pump manufacturers have developed software or Web-based tools to assist in the pump selection process. Pump 
+purchasers enter their fluid properties and system requirements to obtain a listing of suitable pumps. Software tools that 
+allow you to evaluate and compare operating costs are available from private vendors.
+
+  Suggested Actions  
+
+• Accurately identify process flow rate and pressure requirements.
+
+• Measure actual head and flow rate.
+
+• Develop a system curve.
+
+• Select a pump with high efficiency over the expected range of operating conditions.
+
+• Specify electric motors that meet the NEMA Premium™ full-load efficiency standards.
+
+• Use life cycle costing techniques to justify acquiring high efficiency pumps and designing efficient systems.
+
+DOE/GO-102005-2156 • October 2005 • Pumping Systems Tip Sheet #2
+
+106
+Improving Pumping System Performance

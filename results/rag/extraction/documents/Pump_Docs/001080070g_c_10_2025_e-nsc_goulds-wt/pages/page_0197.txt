@@ -1,0 +1,214 @@
+cs - Překlad originálu
+
+3.4  Popis čerpadla
+
+Nesprávné použití
+
+UPOZORNĚNÍ:
+Nesprávné používání čerpadla může
+vést ke vzniku nebezpečných podmínek
+a způsobit zranění a škody na majetku.
+
+• Rozměry připojení podle normy EN 733 (mo‐
+dely 32-125…-200; 40-125…-250; 50-125…-250;
+65-125…-315;80-160…-315; 100-200…-400;
+125-250…-400; 150-315…-400).
+• Čerpadlo se spirální skříní s vysouvací spojkou
+s kozlíkem.
+
+Nesprávné použití výrobku bude mít za následek
+ztrátu platnosti záruky.
+Příklady nesprávného použití:
+
+3.5  Materiál
+Kovové součásti, které přicházejí do kontaktu s kapa‐
+linou, jsou vyrobeny z následujících materiálů:
+
+Standardní/voli‐
+
+Kód materiálu
+Materiál skří‐
+ně / oběžného
+
+telné
+
+kola
+
+CC
+Litina/litina
+Standardní
+
+• čerpání kapalin, které nejsou slučitelné s kon‐
+strukčními materiály čerpadla;
+• čerpání nebezpečných kapalin (např. toxických,
+výbušných, hořlavých nebo korozivních kapalin);
+• čerpání pitných kapalin jiných než voda (např. ví‐
+no nebo mléko);
+Příklady nesprávné instalace:
+
+CB
+Litina/bronz
+Standardní
+
+Standardní
+
+CS
+Litina/
+Nerezová ocel
+
+Standardní
+
+• instalace v nebezpečných místech (ve výbušných
+nebo korozivních prostředích);
+• instalace v místech s vysokou teplotou vzduchu
+nebo nedostatečným větráním;
+• venkovní instalace s chybějící ochranou před de‐
+štěm nebo mrazem;
+
+CN
+Litina/
+Nerezová ocel
+
+DC
+Tvárná litina / li‐
+
+Standardní
+
+tina
+
+NEBEZPEČÍ:
+Nepoužívejte toto čerpadlo k čerpání hoř‐
+lavých a/nebo výbušných kapalin.
+
+DB
+Tvárná litina /
+
+Standardní
+
+bronz
+
+OZNÁMENÍ:
+
+Standardní
+
+DN
+Tvárná litina /
+nerezová ocel
+
+NN
+Nerezová ocel /
+
+Standardní
+
+Nerezová ocel
+
+• Nepoužívejte toto čerpadlo k čerpání kapalin ob‐
+sahujících brusné, pevné nebo vláknité látky.
+• Nepoužívejte čerpadlo pro průtočné rychlosti pře‐
+vyšující stanovené průtočné rychlosti uvedené na
+typovém štítku.
+
+RR
+Duplexní ocel /
+
+Volitelně
+
+duplexní ocel
+
+Speciální použití
+
+CS
+
+Na oddělení prodeje a služeb se obraťte v následují‐
+cích případech:
+
+3.6  Mechanické těsnění
+Nesouměrná jednoduchá mechanická ucpávka pod‐
+le normy EN 12756, verze K.
+
+3.7  Limity použití
+
+Maximální pracovní tlak
+
+• Pokud hodnota hustoty a viskozity čerpané kapa‐
+liny překračuje příslušné hodnoty vody (např. vo‐
+da s glykolem), jelikož může být potřebný výkon‐
+nější motor.
+• Pokud je čerpaná kapalina chemicky ošetřena
+(např. změkčována, deionizována, demineralizo‐
+vána apod.).
+• Jakákoli situace odlišující se od popsané situace
+a vztahující se k povaze kapaliny.
+
+Obrázek 4 na straně 367 zobrazuje maximální pra‐
+covní tlak v závislosti na modelu čerpadla a teplotě
+čerpané kapaliny.
+P1max + Pmax≤ PN
+
+P1max
+Maximální vstupní tlak
+
+3.2  Označení čerpadla
+V Obrázek 2 na straně 351 naleznete vysvětlení
+označovacího kódu pro čerpadla a jeden příklad.
+
+Pmax.
+Maximální tlak vytvářený čerpadlem
+
+PN
+Maximální provozní tlak
+
+Intervaly teplot kapalin
+
+Obrázek 4 na straně 367 zobrazuje rozsahy pracov‐
+ních teplot.
+Informace o speciálních požadavcích vám sdělí pro‐
+dejní a servisní zástupce.
+
+3.3  Typový štítek
+Typový štítek je umístěn na kozlíku. Na typovém štít‐
+ku jsou uvedeny základní specifikace výrobku. Více
+informací viz Obrázek 1 na straně 345.
+Na typovém štítku jsou uvedeny informace o mate‐
+riálu oběžného kola, skříně a mechanické ucpávky.
+Více informací viz Obrázek 3 na straně 363.
+
+Maximální počet startování v hodině
+
+IMQ , TUV, IRAM nebo jiné značky (pouze
+elektrická čerpadla)
+
+18,5
+
+kW
+0,25
+-
+3,00
+
+4,00
+-
+7,50
+
+11
+-
+15
+
+22
+
+30
+-
+37
+
+45
+-
+75
+
+90
+-
+160
+
+Pokud není uvedeno jinak, u výrobků se značkou
+elektrického bezpečnostního schválení se schválení
+vztahují výhradně na elektrická čerpadla.
+
+193

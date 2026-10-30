@@ -1,0 +1,218 @@
+es - Traducción del original
+
+Causa
+Solución
+
+7.4  La bomba eléctrica arranca, pero se
+activa el protector térmico o se funden los
+fusibles un poco después
+
+La bomba está
+atascada.
+
+Póngase en contacto con el de‐
+partamento de ventas y servicio.
+
+Causa
+Solución
+
+Las instrucciones de solución de problemas de las
+tablas que se muestran a continuación son sola‐
+mente para los instaladores.
+
+Proteja el panel eléctri‐
+co de la fuente de calor
+y el sol directo.
+
+7.2  El interruptor principal está encendido
+pero la bomba eléctrica no arranca
+
+El panel eléctrico está si‐
+tuado en un área excesi‐
+vamente calentada o está
+expuesto a la luz del sol
+directa.
+
+Causa
+Solución
+
+Compruebe las con‐
+diciones de funciona‐
+miento del motor.
+
+El montaje de la fuente
+de alimentación no se en‐
+cuentra dentro de los lími‐
+tes de trabajo del motor.
+
+No hay suministro
+eléctrico.
+
+Compruebe
+
+ES
+
+Falta una fase de poten‐
+cia.
+
+• Restaure el suministro
+eléctrico.
+• Asegúrese de que to‐
+das las conexiones eléc‐
+tricas a la fuente de
+alimentación están intac‐
+tas.
+
+• El suministro eléctri‐
+co
+• La conexión eléctri‐
+ca
+
+El protector térmico
+incorporado en la
+bomba (de haberlo)
+se ha activado.
+
+Espere hasta que la bomba
+se haya enfriado. El protec‐
+tor térmico se restablecerá
+automáticamente.
+
+7.5  La bomba eléctrica arranca, pero
+el protector térmico se activa un tiempo
+variable después
+
+Restablezca la protección
+térmica.
+
+Causa
+Solución
+
+El relé térmico o el
+protector del motor
+del panel de control
+eléctrico se ha activa‐
+do.
+
+Compruebe:
+
+Póngase en contacto con el
+representante local de ven‐
+tas y servicio.
+
+Hay objetos extraños
+(sustancias solidas o
+fibrosas) dentro de la
+bomba que han atas‐
+cado el impulsor.
+
+El dispositivo de pro‐
+tección contra funcio‐
+namiento en seco se
+ha activado.
+
+• El nivel de líquido en el
+tanque o la presión de la
+red eléctrica.
+• El dispositivo de protec‐
+ción y los cables que lo
+conectan.
+
+La tasa de entrada de
+la bomba es superior
+a los límites especifi‐
+cados en la placa de
+características.
+
+Reemplace los fusibles.
+
+Cierre parcialmente la vál‐
+vula ON-OFF aguas abajo
+hasta que la tasa de sumi‐
+nistro sea igual o inferior a
+los límites especificados en
+la placa de características.
+
+Los fusibles de la
+bomba o los circuitos
+auxiliares se han fun‐
+dido.
+
+La bomba está sobre‐
+cargada porque el lí‐
+quido bombeado es
+demasiado denso y
+viscoso.
+
+Compruebe los requisitos
+de potencia reales basados
+en las características del lí‐
+quido bombeado y reempla‐
+ce el motor de acuerdo a
+ello.
+
+7.3  La bomba eléctrica arranca, pero se
+activa el protector térmico o se funden los
+fusibles inmediatamente después
+
+Causa
+Solución
+
+Los cojinetes del mo‐
+tor están desgasta‐
+dos.
+
+Póngase en contacto con el
+representante local de ven‐
+tas y servicio.
+
+El cable de la fuente
+de alimentación está
+dañado.
+
+Compruebe el cable y
+reemplácelo si es necesa‐
+rio.
+
+7.6  La bomba eléctrica arranca, pero se
+activa la protección general del sistema
+
+Causa
+Solución
+
+Compruebe que los com‐
+ponentes y reemplácelos si
+es necesario.
+
+La protección térmica
+o los fusibles no son
+los adecuados para la
+corriente del motor.
+
+Un cortocircuito en el sis‐
+tema eléctrico.
+
+Compruebe el sistema
+eléctrico.
+
+Se produce un corto‐
+circuito en el motor
+eléctrico.
+
+Compruebe que los com‐
+ponentes y reemplácelos si
+es necesario.
+
+El motor se sobrecar‐
+ga.
+
+7.7  La bomba eléctrica arranca, pero se
+activa el dispositivo de corriente residual
+(RCD) del sistema
+
+Compruebe las condicio‐
+nes de funcionamiento de
+la bomba y restablezca la
+protección.
+
+61

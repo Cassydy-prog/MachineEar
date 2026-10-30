@@ -1,0 +1,163 @@
+Figure 10. Alignement de l’angle des pales pour le type TXVX
+
+4. Resserrer les boulons qui retiennent les pales au couple de
+serrage indiqué. Une clé dynamométrique est nécessaire. Dans
+la plupart des cas, un joint universel sera aussi nécessaire.
+
+Moyeu
+Bord de tête
+de la pale
+
+Ajustement de pale pour hélice AXIAD à angle variable
+Sur chaque pale, des marques en relief sont moulées avec des 
+rainures entre elles,  et le carénage comporte une marque de
+
+5.0"
+
+5
+4
+
+Figure 12. "E" Prop Blade Angle Indicating Marks
+
+3
+
+Détails “X”
+
+25.0"
+
+5
+
+4
+
+Pale
+
+3
+
+Marque 32°
+
+2.5"
+
+Moyeu
+
+Marque 12°
+Flèche indicatrice
+
+Bord arrière
+
+Détail “X” Vernier Index 
+Line (La pale représentée
+
+de la pale
+
+est ajustée à 35°)
+
+Bout de la pale
+
+Outil AS-14093
+
+Barre de rallonge
+
+désiré par étapes. Serrer un boulon au couple de serrage 
+avant de passer au boulon adjacent peur craquer le moyeu.
+
+registre usinée pour chauqe ouverture de pale. Voir la Figure 13, 
+qui identifie chacune des crêtes et des rainures avec un chif­
+fre allant de 1 à 9. Ces chiffres correspondent aux chiffres de 
+performance de courbe indiqués dans le manuel de conception 
+et performance AXIADII.
+	
+Sur les ventialteurs Tupe 3 Axiad, arrangement 4, l’angle des 
+pales peut être ajusté en enlevant le filtre d’admission. Pour 
+les ventialteurs avec une admission sous forme de conduits, le 
+boitier est fourni avec une porte carrée de 8 pouces (200 mm) 
+dans le tuyau du ventilateur. Pour ajuster l’angle des pales, 
+procéder cmme suit:
+NOTE: Une clé de 5/16 avec un adapteur à bou carré fixé sur
+
+Méthode alternative
+
+Figure 13. Angles indicateurs pour pales Axiad
+
+INDEX SUR
+
+Figure 11. Marque de positionnement de la pale
+
+LE MOYEU
+
+Maque de position
+
+d’angle de pale
+
+POSITION DE PALE 
+ 9 8 7 6 5 4 3 2 1 0
+
+Table 7. Couple de serrage hélice "E"
+
+Couple de serrage du boulon d’aube
+
+une clé dynamométrique sera nécessaire. Dans la plupart des 
+cas, il faudra aussi un joint universel.
+1. Après avoir libéré l’accès au rotor, desserrer les deux bou­
+lons de pale jusqu’à ce qu’elle tourne librement.
+
+Taille du ventilateur
+Taille du moyeu
+Ft - lb
+N - m
+
+14 - 24
+6
+17
+23
+
+2. Tourner la pale pour aligner la marque de repère du caré­
+nage avec la marque d’angle désiré de la pale.
+
+30 - 36
+9
+30
+41
+
+42 - 48
+12
+75
+102
+
+ATTENTION: Ne pas excéder la position 9 pour la pale.
+
+Voir le Tableau 3 pour le couple de serrage des boulons à manchons- 
+Utiliser les valeurs pour un moyeu en aluminium
+
+3. Resserrer les deux boulons au couple de serrage 65 ft-lb
+(88 N-m).
+
+ATTENTION: Il est important de serrer les boulons de pales
+au couple de serrage spécifié. Ne pas serrer les boulons à
+la main.
+
+1. Desserrer les boulons qui retiennent la pale jusqu’à ce qu’ils
+puissant être tournés avec les doigts. Les aubes doivent
+maintenant tourner dans leurs cavités lorsqu’elles sont ferme­
+ment saisies, mais ne doivent pas tourner d’elles-mêmes.
+
+4. Répéter les étapes 1 à 3 pour toutes les pales. S’assurer que
+toutes les pales sont positionnées sur la même marque.
+
+5. Après avoir placé les pales au nouvel angle, faire tourner le
+ventilateur quelques minutes, et resserrer tous les boulons
+de pale au couple de serrage spécifié.
+
+Ajustement de l’aube pour hélice réglable réversible
+
+2. Les marques de positionnement de la pale s’alignent sur
+le moyeu avec une flèche indicatrice. Il y a deux longues
+marques sur la pale, la première pour un angle de 12°,
+et la seconde pour un angle de 32°.  Les marques plus
+petites progressant de 5° sont entre les deux marques plus
+longues.  Voir Figure 12.
+
+3. Tourner chaque pale à l’angle désiré.
+
+15
+
+IM-2-06

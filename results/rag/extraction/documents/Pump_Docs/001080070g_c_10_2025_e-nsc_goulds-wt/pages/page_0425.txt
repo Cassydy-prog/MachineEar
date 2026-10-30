@@ -1,0 +1,67 @@
+Declarations of Conformity
+
+•  Máquinas 2006/42/CE e sucessivas alterações (ANEXO II - pessoa singular ou coletiva autorizada a compilar o processo técnico: 
+Xylem Service Italia S.r.l.), 
+•  Concepção ecológica 2009/125/EC e subsequentes alterações, Regulamento (EU) 2019/1781 e subsequentes alterações (motor 
+elétrico, se classificada como IE2, IE3 ou I4), Regulamento (UE) Nº 547/2012 e subsequentes alterações (bomba de água, se 
+classificada como MEI) 
+e aos padrões técnicos 
+•  EN 809:1998+A1:2009, EN 60204-1:2018. 
+•  EN 60034-30:2009, EN 60034-30-1:2014, EN 60034-2-1:2007, EN 60034-2-1:2014,  EN 16480:2021. 
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Diretor Geral
+
+Declaração UE de Conformidade (Nº 01) 
+ 
+1. EMCD - Modelo de aparelho/produto: NSCC… ou NSCF… (ver etiqueta na última página) 
+    RoHS - Identificação única do EEE: NSCC… ou NSCF…  
+2. Nome e endereço do fabricante: 
+ Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ 36075 Montecchio Maggiore VI 
+ Italy 
+3. A presente declaração de conformidade é emitida sob a exclusiva responsabilidade do fabricante. 
+4. Objeto da declaração: eletrobomba. 
+5. O objeto da declaração acima descrito está em conformidade com a legislação de harmonização da União aplicável 
+•  Diretiva 2014/30/UE de 26 de Fevereiro de 2014 e subsequentes alterações (compatibilidade eletromagnética).  
+•  Diretiva 2011/65/EU de 8 de Junho de 2011 e subsequentes alterações, incluindo a diretiva 2015/863 (UE) (restrição do uso de 
+determinadas substâncias perigosas em equipamentos elétricos e eletrónicos). 
+6. Referências às normas harmonizadas aplicáveis utilizadas ou às especificações técnicas em relação às quais é declarada a 
+conformidade: 
+•  EN 61000-3-3:2013+A1:2019+A2:2021, EN 61000-3-12:2011, EN 61000-6-2:2005, EN IEC 61000-6-2:2019, EN 61000-6-4:2007 
++A1:2011, EN IEC 61000-6-4:2019. 
+•  EN IEC 63000:2018. 
+7. Organismo notificado: - - - 
+8. Informação adicional: 
+RoHS - Anexo III – Aplicações isentas de restrições: chumbo como elemento aglutinador em aço, alumínio, ligas de cobre [6(a), 
+6(b), 6(c)].  
+Optimyze: consultar a documentação fornecida com o dispositivo de monitorização [Equipamento rádio 2014/53/EU e 
+subsequentes alterações, Restrição do uso de determinadas substâncias perigosas em equipamentos elétricos e eletrônicos 
+2011/65/EU e subsequentes alterações, incluindo a Diretiva (EU) 2015/863]. 
+Assinado por e em nome de: Xylem Service Italia S.r.l.
+
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+Diretor Geral
+
+A(s) declaração(ões) de conformidade não é (são) válida(s) se for(em) utilizada(s) separadamente do resto do texto do código do 
+documento Xylem 001080070G. 
+ 
+Bomba 
+ 
+Declaração CE de Conformidade (tradução) 
+ 
+A Xylem Service Italia S.r.l., com sede em Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italy, declara que o produto: 
+NSC… bomba (ver etiqueta na última página) 
+está em conformidade com as disposições das seguintes Diretivas Europeias 
+•  Máquinas 2006/42/CE e sucessivas alterações (ANEXO II - pessoa singular ou coletiva autorizada a compilar o processo técnico: 
+Xylem Service Italia S.r.l.),
+
+421

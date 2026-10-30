@@ -1,0 +1,1850 @@
+=== PDF page 1 of 20 | native ===
+
+August 2022
+
+Inline Centrifugal
+and Mixed Flow Fans 
+IM-895
+
+Installation, Operation & Maintenance Manual
+
+REVIEW AMCA PUBLICATION 410 PRIOR TO INSTALLATION
+
+This manual has been prepared to guide the users of inline centrifugal and mixed flow fans in the proper installation, operation and 
+maintenance procedures to ensure maximum equipment life with trouble-free operation. For safe installation, startup and operational 
+life of this equipment, it is important that all involved with the equipment be well versed in proper fan safety practices and read this 
+manual. It is the user’s responsibility to make sure that all requirements of good safety practices and any applicable safety codes are 
+strictly adhered to. Because of the wide variety of equipment covered in this manual, the instructions given here are general in nature. 
+Additional product and engineering information is available at www.tcf.com.
+
+SAFETY NOTICE
+
+Refer to the safety section(s) in this manual prior to installing or servicing the fan. The most current version of this installation and maintenance 
+manual can be found on our website at www.tcf.com/resources/im-manuals.
+
+Table of Contents
+
+Motor Maintenance...................................................................13
+Drive Maintenance.....................................................................14
+Fan Bearing Maintenance...........................................................14
+Impeller and Shaft Maintenance................................................14
+Structural Maintenance..............................................................15
+Duct Connections.......................................................................15
+Serial Number & Fan Type Nameplate.......................................15
+Impeller Placement / Impeller Overlap......................................16
+Troubleshooting Guidelines........................................................17
+Installation / Start-up Checklist..................................................18
+Fan Maintenance Log.................................................................19
+
+Fan Arrangements........................................................................2
+Exploded View..............................................................................2
+Impeller Nomenclature................................................................3
+Impeller Rotation..........................................................................3
+Safety & Hazard Warnings............................................................4
+Shipping & Receiving....................................................................4
+Handling........................................................................................5
+Unit Storage..................................................................................6
+Foundations and Supporting Structures...................................7-8
+Fan Installation, Factory Assembled Units...................................9
+Bearing Installation.....................................................................10
+Safety & Bearing Lubrication Instructions..................................11
+Drive Mounting...........................................................................12
+Motor Support Adjustment........................................................13
+Maintenance...............................................................................13
+
+Twin City Fan
+
+
+
+=== PDF page 2 of 20 | native ===
+
+IM-895
+
+Fan Arrangements
+
+Arrangement 3
+
+Arrangement 4
+
+Arrangement 9
+
+Belt Driven
+
+Direct Drive
+
+Belt Driven
+
+Exploded View
+
+Sheave/Pulley
+
+Motor
+
+Motor 
+Mount
+
+Bearing Housing
+
+Belt
+
+With End Cover 
+Plate Belt Tube & 
+Straightening Vanes
+
+Impeller
+
+Inlet
+Funnel
+
+Shaft
+
+Bearings
+
+Housing
+
+Discharge Cone &
+
+Belt Tube Seal
+
+(Removable)
+
+Model QSL shown.
+
+Model TSL shown.
+
+Installation, Operation & Maintenance Manual
+2
+
+
+
+=== PDF page 3 of 20 | native ===
+
+IM-895
+
+Impeller Nomenclature
+
+Impeller Cone
+(End Ring, Shroud, Front Plate)
+
+Blade
+
+Back Plate
+
+Impeller Rotation
+
+Rotation View From Drive Side
+
+CLOCKWISE (CW)
+
+example shown
+
+AIRFLOW
+
+AIRFLOW
+
+Mixed Flow Fans
+
+Inline Centrifugal Fans
+
+3
+
+Installation, Operation & Maintenance Manual
+
+
+
+=== PDF page 4 of 20 | native ===
+
+IM-895
+
+Safety & Hazard Warnings
+
+For general safety practices for air moving equipment, see AMCA Bulletin 410. Twin City Fan & Blower offers many safety accessories. 
+These safety devices include (but are not limited to) belt guards, shaft guards, inlet and discharge screens. The use and suitability of 
+safety devices is the responsibility of the purchaser.
+
+Facility related safety conditions include fans’ accessibility and location. How easily can non-service personnel access the unit? Is the 
+fan in a hazardous duty environment? Was the unit ordered for this duty? Other concerns must also be addressed. All fans should be 
+powered through controls that are easily accessible to service personnel from the fan. Fan power must have the ability to be “locked 
+out” by service personnel trained in lockout/tagout procedures per OSHA requirements (29CFR1910.147). When performing lockout, 
+be aware of factors, such as building pressure and additional fans in the system that can influence unwanted fan rotation (wind milling). 
+If you have any doubt about your ability to perform a task, seek a person qualified to do that task. Before any work is done on a fan, 
+ensure that the fan is isolated from the electrical supply using a 'lockout/tagout system.'
+
+Note: A stationary, non-rotating fan does not mean that the fan is isolated from the electrical supply or from other fans/dampers in the 
+system that could cause the fan impeller to rotate. A non-rotating fan could be subject to controls or other circuit protection devices 
+that may start the fan without notice.
+
+The following safety precautions should be followed, where applicable:
+•	 Do not attempt to slow a rotating impeller even when it is isolated from the electrical supply. Fan impellers have a high inertia and 
+injury could result from an attempt to stop it. It is recommended that the impeller is isolated by closing off the inlet or outlet to 
+prevent wind-driven rotation. If an impeller is chocked to prevent rotation, ensure that the chocks are removed prior to start up.
+•	 Wear appropriate personal protective equipment. This may include protective clothing, eye protection, ear protection, respiratory 
+equipment, hand and foot protection when installing or servicing the fan.
+•	 Always use caution when entering a fan's air path. High velocity airflow can cause you to lose your balance.
+•	 Motor, bearings and drives can be hot, and similarly if the fan is subject to processes that are hot, the fan housing could be hot.
+•	 Fans are often used to move hazardous materials that could be dangerous. Always wear protective clothing and take precautions 
+not to inhale dust/gases. If hazardous chemical vapors are present, respiratory equipment may be required.
+•	 Sharp edges – wear protective gloves when handling, installing or servicing a fan.
+•	 Fans can operate at high decibel sound levels. Wear proper ear protection to protect from excessive noise levels.
+•	 Access doors – Do not open access doors when fan is in operation. The effects of suction and air pressure could result in injury.
+•	 When working around pulleys and belts, keep hands away from pinch points. This pertains to when the fan is under or off power.
+
+Throughout this manual, there are a number of HAZARD WARNINGS that must be read and adhered to in order to prevent possible 
+personal injury and/or damage to equipment. Two signal words "WARNING" and "CAUTION" are used to indicate the severity of a 
+hazard and are preceded by the safety alert symbol. It is the responsibility of all personnel involved in installation, operation and 
+maintenance to fully understand the warning and caution procedures by which hazards are to be avoided.
+
+WARNING: Used when serious injury or death MAY result from misuse or failure to follow specific instructions.
+
+CAUTION: Used when minor or moderate injury or product / equipment damage MAY result from misuse or failure to follow 
+specific instructions.
+
+NOTICE: Indicates information considered important, but not hazard-related.
+
+Shipping & Receiving
+All Twin City Fan & Blower products are carefully constructed and inspected before shipment to ensure the highest standards of quality 
+and performance. Compare all components with the bill of lading or packing list to verify that the proper unit was received. Check each 
+unit for any damage that may have occurred in transit. Any damage should be reported immediately to the carrier and the necessary 
+damage report filed. Damage should be noted on the bill of lading.
+
+Installation, Operation & Maintenance Manual
+4
+
+
+
+=== PDF page 5 of 20 | native ===
+
+IM-895
+
+Handling
+Handling of all air moving equipment should be conducted by trained personnel and be consistent with safe handling practices. Verify 
+the lift capacity and operating condition of handling equipment. When using hoisting equipment, only qualified and trained personnel 
+should operate the equipment.
+
+Units shipped completely assembled may be lifted with slings and spreader bars. (Use well-padded chains, cables or nylon straps, 
+rated to lift the required weight.) On most units, lifting lugs are designed to protect the fan and fan housing from damage. Never lift a 
+fan by the inlet or discharge flange, shafting or drives, impeller, motor or motor base, or in any other manner that may bend or distort 
+parts. Never lift with slings or timbers passed through the fan inlets.
+
+For fans provided without lifting lugs, use a forklift or pallet jack to handle the equipment. Consult a qualified person before lifting.
+
+CAUTION
+
+1.	 Maintain handling equipment to avoid serious personal injury and do not stand under 
+the load.
+2.	 If supplied, only use the provided lifting lugs to lift the equipment.
+3.	 Ensure that the lifting equipment is rated for the capacity to be lifted.
+
+Lift completely 
+assembled fans with 
+straps and spreader bar, 
+as shown
+Lifting lugs are provided on most units.
+
+Partial or disassembled units require special handling. All parts should be handled in a method that protects the coatings and parts 
+from damage. Components should be handled such that forces are not concentrated to avoid bending or distortion.
+
+The housing should be lifted using suitably rated spreader bars and padded chains or straps. Do not distort housing or side plates 
+when lifting.
+
+The shaft and impeller assembly may be lifted using a hoist and a spreader with slings around the shaft at either side of the impeller. 
+Use the spreader bar to ensure that the slings do not push against the sides of the impeller as this may distort the impeller. Take care 
+not to damage the shaft where the impeller or bearings will be mounted. Never lift or support the assembly by the impeller. Always 
+support the assembly by the shaft when lifting or storing (see the section regarding proper storage of equipment). Do not support the 
+shaft or the impeller on the housing sides. See the Fan Installation section for additional details.
+
+Impellers shipped separately can be lifted by slings running between the blades or through the hub. Never lift the impeller by a single 
+blade or single point on the flange/shroud. Do not to put a chain within the hub bore. Always transport impellers by lifting, do not roll 
+the impeller as this can damage coatings and change the balance of the impeller.
+
+CAUTION
+
+Bent shafting is a source of vibration and bearing failure, so be sure 
+to handle the shaft with care. If the shaft is bent, replace the shaft. 
+Any scratches on the shaft may be repaired with fine emery cloth 
+or a stone. Remove only the displaced metal that forms a high 
+point at the edge of the scratch.
+
+1.	 Bearing pedestals should be lifted using straps or padded 
+chains. Under no circumstance should an attached or separated 
+bearing pedestal be lifted by the shaft, bearings, drives, motor 
+or impeller.
+2.	 Note some rotor assemblies may have an off-center CoG and 
+therefore a qualified person should be consulted before lifting.
+
+5
+
+Installation, Operation & Maintenance Manual
+
+
+
+=== PDF page 6 of 20 | native ===
+
+IM-895
+
+Unit Storage
+
+Store the unit in an environmentally stable and protected area. During storage, the fan should not be subjected to vibration from 
+external sources or bearing damage may occur. The unit should be reasonably protected from any accidental impacts. Cover the fan 
+to protect coatings and to prevent any foreign material or moisture from entering the bearings, motor, inlet or discharge. Take care to 
+protect the motor, drives and bearings.
+
+Extended storage requires monthly inspections. Check for corrosion or damage to the unit and for debris within the fan.
+
+Bearings tend to take on moisture if the atmosphere in which they are stored is not at a constant temperature. To avoid corrosion, it is 
+necessary to keep the bearings full of grease and to rotate them periodically. Even when full of grease, bearings will take on moisture, 
+so it is necessary to purge the bearings with new grease to expel moisture every thirty days. It is recommended that the bearings 
+be purged with grease while being rotated by hand. Do not use high pressure greasers as they may ruin the bearing seals. Spherical 
+roller bearings with split pillow block housings must be opened up and grease removed before start-up. Remove old/excess grease 
+and regrease the bearing in accordance with the bearing manufacturer's instructions.
+
+The drives and belts should be removed if the fan is to be stored for a prolonged period. The drives should be labeled for service and 
+stored in a dry place. Belts should be removed, coiled without kinks, placed in a heavy carton and stored in a dry, well-ventilated place. 
+To prevent belt deterioration storage conditions should not exceed 85°F and 70% humidity. If belts show signs of deterioration, they 
+should be replaced prior to startup.
+
+Motors should be stored in a clean, dry and vibration-free location. The packaging should be opened up enough to allow air circulation 
+around the motor. The winding temperature should be kept slightly above that of the surroundings to prevent condensation. This can 
+be accomplished by energizing the internal heaters, if the motor is so equipped, or by using space heaters. If it is impossible to heat 
+the windings, the motor should be wrapped tightly with a waterproof material that also encloses several bags of desiccant. Replace 
+the desiccant regularly to prevent moisture problems. The motor rotor should also be rotated regularly (monthly) to assure the 
+bearing parts are well greased. Shafts on motors equipped with shaft grounding rings must remain rust free. Failure to do so renders 
+the grounding feature inoperative and may result in bearing failure under VFD operation. Consult the motor manufacturer for further 
+detail on motor storage and start up after longer periods of storage. It may be necessary to regrease the bearings. If the fan's bearings 
+or motor bearings have extended lubrication lines, it will be necessary to replace the grease by detaching from the motor/bearing 
+and purging the line with new grease.
+
+Twin City Fan
+
+Installation, Operation & Maintenance Manual
+6
+
+
+
+=== PDF page 7 of 20 | native ===
+
+IM-895
+
+WARNING
+
+Refer to handling section prior to lifting equipment.
+
+Foundations & Supporting Structures (refer to lifting/safety section)
+The TSL/TCLB Inline Centrifugal and QSL/QCLB Mixed Flow Fans can be mounted horizontally, vertically or at any angle if ordered 
+accordingly. Mounting brackets are available to accept both floor mounted and hanging vibration isolation. Typical mounting 
+arrangements are shown below.
+
+When mounting to concrete, anchor bolts should be “L” or “T” shaped with sufficient length for nuts, washers, shims and threads 
+for draw-down. Each bolt should be placed in a sleeve or pipe with diameter larger than the bolt to allow for adjustment. When the 
+mounting surface and the surface of the fan base do not match, shim level. Do not distort the fan when tightening the anchor bolts.
+
+A fan mounted to or within a structure should be placed as close as possible to a rigid member such as a wall or a column. The 
+structure must be designed for rotating equipment. Static design for strength is not sufficient to ensure operation at low vibration 
+levels. Supports for suspended fans must be cross-braced to prevent side-sway. Structural resonance should be at least 20% from fan 
+operating speed. Vibration isolators may help block the transmission of vibration into a structure. Any ducting should have independent 
+support; do not use the fan to support ducting. Flexible connections are required whenever the fan is supported on vibration isolators.
+
+Typical Horizontal Mounting with Vibration 
+Hangers (Ceiling Hung)
+
+7
+
+5
+
+2
+
+3
+
+ITEM
+QTY.
+DESCRIPTION
+01
+1
+Fan
+02
+4
+Spring Hanger*
+03
+4
+Neoprene Washer
+04
+32
+Steel Washer**
+05
+32
+Hex Nut**
+06
+4
+Threaded Rod
+07
+4
+Hanger Rod**
+
+1
+
+6
+
+NOTES:
+	*1.	 Spring hangers are optional accessories.
+	**2.	Hanger rods, nuts and washers supplied by customer.
+
+4
+
+Typical Horizontal Mounting with Vibration 
+Isolators
+
+1
+
+4
+
+ITEM
+QTY.
+DESCRIPTION
+01
+1
+Fan
+02
+4
+Vibration Isolator*
+03
+4
+Adjusting & Leveling Bolt
+04
+4
+Hex Nut**
+05
+8
+Hex Nut**
+06
+8
+Anchor Bolt**
+
+3
+
+2
+
+NOTES:
+	*1.	 Vibration isolators are optional accessories.
+	**2.	Anchor bolts and hardware supplied by customer.
+
+5
+
+6
+
+7
+
+Installation, Operation & Maintenance Manual
+
+
+
+=== PDF page 8 of 20 | native ===
+
+IM-895
+
+Foundations & Supporting Structures (Cont.)
+
+7
+
+Typical Vertical Mounting with Vibration 
+Hangers
+
+5
+
+2
+
+4
+
+3
+
+6
+
+ITEM
+QTY.
+DESCRIPTION
+01
+1
+Fan
+02
+4
+Spring Hanger*
+03
+4
+Neoprene Washer
+04
+32
+Steel Washer**
+05
+32
+Hex Nut**
+06
+4
+Threaded Rod
+07
+4
+Hanger Rod**
+
+NOTES:
+	*1.	 Spring hangers are optional accessories.
+	 2.	 When spring hanger interferes with ductwork, add offset to
+
+threaded rod to provide clearance.
+	**3.	Hanger rods, nuts and washers supplied by customer.
+
+1
+
+Typical Horizontal Mounting to Rigid 
+Foundation
+
+1
+
+ITEM
+QTY.
+DESCRIPTION
+01
+1
+Fan
+02
+4
+Anchor Bolt*
+03
+8
+Hex Nut**
+04
+8
+Washer
+
+NOTE:
+	*1.	 Anchor bolts and hardware supplied by customer.
+
+2 
+3
+
+4
+
+3
+
+Typical Vertical Curb Mounting
+
+ITEM
+QTY.
+DESCRIPTION
+01
+1
+Fan
+02
+See Note
+Lag Bolt
+03
+1
+Stack Cap (Optional)
+04
+1
+Curb Cap (Optional)
+
+NOTE:
+	 1.	 Quantity and size of mounting lag bolts varies by fan size.
+
+1
+
+4
+
+2
+
+Installation, Operation & Maintenance Manual
+8
+
+
+
+=== PDF page 9 of 20 | native ===
+
+IM-895
+
+Fan Installation – Factory Assembled Units (refer to lifting/safety section)
+All fan impellers are statically and dynamically balanced using state of the art equipment in the factory. Final trim balancing is 
+performed on factory assembled fans, unless the specified electrical characteristics of the motor are outside the limits of the factory 
+test equipment. If the motor and drives are supplied, the complete assembly is run tested and balanced. Infrequently, fans are 
+supplied with unusual electrical characteristics and cannot be tested with the motor. In this situation the fans are run and balanced 
+using a factory driver. Likewise, if motors and/or drives are not supplied, the fan is tested with the factory driver. Final balancing, at 
+the buyer’s expense, should be performed in the field after the motor and/or drives are installed. This service is available from TCF, 
+otherwise this should be entrusted to a qualified technician.
+
+Carefully level the fan on the foundation
+
+Tightening Torque
+
+FASTENER - TIGHTENING TORQUE (Ft. Lbs.)
+
+SIZE
+
+GRADE 2
+GRADE 5
+GRADE 8
+
+Follow proper handling instructions as given earlier.
+1.	
+Move the fan to the final mounting position.
+2.	
+Remove skid, crates and packing materials carefully.
+3.	
+Attach vibration isolators (if used) to appropriate mounting 
+locations on fan. Locate fan in position using lifting 
+instructions on page 5.
+4.	
+Place the fan on mounting structure. Carefully level the unit 
+on the foundation and shim as necessary using stainless 
+steel shims on both sides of each anchor bolt. Back off 
+leveling nuts if used. Be careful not to force the fan to the 
+mounting structure/foundation. This may cause the bearings 
+to become misaligned or pinched causing vibration and 
+premature failure.
+5.	
+Check the alignment of the bearings. Shim or reposition the 
+bearings if necessary.
+6.	
+Check alignment of sheaves on belt driven fans.
+7.	
+Check tension of belts to see if it is sufficient. Sheaves on 
+belt driven fans are often provided with taper lock bushings. 
+When tightening bushing bolts, proceed in a progressive 
+manner to avoid cocking the tapered surfaces between the 
+bushing and the sheave. Torque per tables on the right.
+
+Click To View Our
+Sheave Installation video
+
+#10
+—
+—
+—
+1⁄4-20
+5.5
+8
+12
+5⁄16-18
+11
+17
+25
+3⁄8-16
+22
+30
+45
+7⁄16-14
+30
+50
+70
+1⁄2-13
+55
+75
+110
+9⁄16-12
+—
+—
+—
+5⁄8-11
+100
+150
+220
+3⁄4-10
+170
+270
+380
+7⁄8-9
+165
+430
+600
+1-8
+250
+645
+900
+11⁄4-7
+500
+1120
+1500
+
+TAPER BUSHINGS - TIGHTENING TORQUE (Ft. Lbs.)
+
+SIZE
+
+8.	
+Check the tightness of the impeller on the shaft. Check the 
+tightness of foundation bolts, motor bolts, sheaves and 
+bearings. Make sure there is no rubbing or binding and that 
+the impeller-inlet cone clearances and overlap are correct.
+9.	
+Check that bearings are fully lubricated. For spherical roller 
+bearings with split pillow block housings, the bottom half 
+of the housings should be 1/3 full of grease. For oil lube 
+bearings, the oil level should reach the midpoint of the 
+bottom roller or ball.
+10.	 Install any accessories shipped loose from the factory.
+
+SPLIT
+QD 
+FOR DRIVE
+IN IRON
+IN ALUM. HUB
+#10
+—
+—
+5
+1⁄4-20
+7.9
+7.5
+9
+5⁄16-18
+16
+13
+15
+3⁄8-16
+29
+24
+30
+7⁄16-14
+—
+—
+—
+1⁄2-13
+70
+—
+60
+9⁄16-12
+—
+—
+75
+5⁄8-11
+—
+—
+135
+3⁄4-10
+—
+—
+—
+7⁄8-9
+—
+—
+—
+1-8
+—
+—
+—
+11⁄4-7
+—
+—
+—
+
+The above torque values are for nonlubricated fasteners and Browning 
+Bushings. For bearing set screws, use manufacturer’s recommendations. 
+If other bushings are used, utilize bushing manufacturer's specifications.
+
+Twin City Fan
+
+Tolerance: +/- 5%
+For impeller set screws use Grade 2 values.
+
+9
+
+Installation, Operation & Maintenance Manual
+
+
+
+=== PDF page 10 of 20 | native ===
+
+IM-895
+
+Bearing Installation (refer to safety section)
+The following section gives some general instructions on bearing installation. If bearings are to be field installed, the specific 
+installation manual for the bearings will be provided and should be followed carefully. If provided, check the assembly drawings 
+and bearing manufacturer's instructions for location of the fixed and expansion bearings. The positions of these bearings cannot be 
+interchanged. Always follow the bearing manufacturer's instructions.
+
+Solid Pillow Block Bearings
+
+Solid Pillow Block
+1.	 Lightly lubricate the bearing bore and slide bearing into the proper position on the shaft. 
+Sling the rotor assembly into place and loosely bolt the bearings in place.
+2.	 When bearings are in place, shim appropriately and torque the base bolts using 
+values from the Tightening Torque table on page 9. Tighten the collar set screws to 
+manufacturer’s specification. The set screws on both bearings should be aligned with one 
+another. If the bearing has an adapter mount, hand tighten the locknut to establish the 
+“zero” point. Next, tighten the number of turns per the instructions furnished with the 
+bearing. Rotate by hand to be sure the bearings and shaft rotate freely.
+3.	 Ensure the expansion bearing is centered within its housing. If bearings need to forced 
+onto the shaft then apply force on the inner race/collar only (does not apply to adapter 
+mount.) If an expansion bearing has been supplied, it should not be bolted to the pedestal 
+until the fixed bearing has been bolted and locked. After locking the expansion bearing to 
+the shaft, position the pillow block to allow for axial expansion, approximately centered 
+in the pillow block, then bolt to the pedestal.
+4.	 Unless the user orders differently, bearings are lubricated in the factory with a lithium complex, NLGI grade 2 grease. Refer to the 
+bearing lubrication schedule on the next page.
+
+Split Pillow Block Bearings
+
+Spherical Roller Bearings with Split Pillow Block Housings
+1.	 The bearings should be disassembled, taking care not to interchange parts between 
+bearings. Tops of housings are not interchangeable with the bottom half pillow block 
+from another bearing. Pins locate the top half of the housing to prevent it from being 
+installed in the reverse.
+2.	 The lower bearing housing should be bolted loosely to the pedestal and seals; bearing 
+and adapter sleeve should be placed loosely on the shaft.
+3.	 The rotor assembly with the seals and bearings should next be positioned over the 
+housings and carefully placed into the lower housings.
+4.	 The stabilizing ring, sometimes referred to as the “C” ring, is installed in the bearing 
+closest to the drive sheave or coupling unless otherwise noted in the drawing. The 
+bearing race should be centered in the expansion bearing. The exception may be on 
+Arrangement 3 or 7 fans with a high operating temperature. Refer to the fan drawing for 
+location. The “C” ring is not used in the expansion bearing.
+5.	 When installing adapter sleeves, tighten for reduction in clearance per manufacturer’s instructions.
+6.	 Bend down a tab on the lockwasher after finishing adjustment. Some brands of bearings do not utilize a lockwasher. Instead you 
+will find allen-head set screws in the locknut outside diameter. Tighten the set screw after reduction in clearance is attained.
+7.	 Grease or oil according to manufacturer’s instructions. Grease/lube will likely include the partial fill of the housing internal cavities.
+8.	 Install the bearing housing cap bolts and bearing mounting bolts. Tighten bearing housing cap bolts and bearing mounting bolts. 
+Torque to bearing manufacturer's instructions.
+
+Installation, Operation & Maintenance Manual
+10
+
+
+
+=== PDF page 11 of 20 | native ===
+
+IM-895
+
+Safety & Bearing Lubrication Instructions
+
+WARNING
+
+1.	 This equipment must not be operated without proper guarding of all moving parts. While performing maintenance be sure remote 
+power switches are locked off. See AMCA Publication 410 for recommended safety practices.
+
+2.	 Before starting: Check all set screws for tightness and rotate impeller by hand to make sure it has not moved in transit.
+
+Fans with Spherical Roller Bearings
+
+Fans with Unit Roller Bearings
+
+with Split Pillow Block Housings
+
+Relubrication Schedule (Weeks)*
+Spherical Roller Bearing - Solid Pillow Blocks
+
+Relubrication Schedule (Weeks)*
+Spherical Roller Bearing - Split Pillow Blocks
+
+Grease to 
+be added
+
+Shaft DIA
+Speed (RPM)
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+
+1⁄2" thru 17⁄16"
+(13 – 35)
+6
+4
+4
+2
+1
+1
+1
+1
+0.5
+
+at each 
+interval
+Shaft DIA
+Speed (RPM)
+500
+750
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+17⁄16" thru 115⁄16"
+(35 – 50)
+6
+4.5
+4
+4
+3.5
+2.5
+21.5
+1
+1
+0.50 oz.
+
+111⁄16" thru 23⁄16"
+(40 – 55)
+4
+2
+1.5
+1
+0.5
+0.5
+0.5
+0.5
+0.5
+
+23⁄16" thru 213⁄16"
+(55 – 70)
+5
+4.5
+4
+2.5
+2.5
+1.5
+0.5
+0.25
+0.25
+0.75 oz.
+
+27⁄16" thru 37⁄16" 
+(60 – 85)
+3
+1.5
+1
+0.5
+0.5
+0.25
+0.5
+–
+–
+
+215⁄16" thru 315⁄16" 
+(75 – 100)
+4.5
+4
+3.5
+2.5
+1.5
+1
+0.5
+–
+–
+2.00 oz.
+
+315⁄16" thru 415⁄16"
+(100 – 125)
+2.5
+1
+0.5
+0.25
+–
+–
+–
+–
+–
+
+47⁄16" thru 415⁄16"
+(110 – 125)
+4
+4
+2.5
+1
+0.5
+–
+–
+–
+–
+4.00 oz.
+
+57⁄16" thru 615⁄16"
+(140 – 180)
+4
+2.5
+1.5
+–
+–
+–
+–
+–
+–
+8.5 oz.
+
+*Suggested lubrication interval under continuous operation in adverse loading or with 
+elevated temperatures. For operation less than 24 hours per day or under ideal conditions, 
+lubrication frequency may be reduced. Relubricate while running, if safety permits, until 
+some purging occurs at seals. Adjust lubrication frequency depending on condition of 
+purged grease. Hours of operation, temperature and surrounding conditions will affect the 
+relubrication frequency required.
+
+*Suggested lubrication interval under continuous operation in adverse loading or 
+with elevated temperatures. For operation less than 24 hours per day or under ideal 
+conditions, lubrication frequency may be reduced. Relubricate while running, if safety 
+permits, until some purging occurs at seals. Adjust lubrication frequency depending on 
+condition of purged grease. Hours of operation, temperature and surrounding conditions 
+will affect the relubrication frequency required.
+
+1.	 Lubricate with a high quality NLGI No. 2 lithium-base grease having rust inhibitors and 
+antioxidant additives, and a minimum oil viscosity of 500 SUS at 100°F (38°C). Some 
+greases having these properties are:
+
+Shell - Gadus S2 V100 2	
+Mobil - Ronex MP 
+	
+Mobil - Mobilith SHC100	
+Mobil - Mobilith SHC220
+
+2.	 Lubricate bearings prior to extended shutdown or storage and rotate shaft monthly 
+to aid corrosion protection.
+
+1.	 Lubricate with a high quality NLGI No. 2 lithium-base grease having rust inhibitors 
+and antioxidant additives, and a minimum oil viscosity of 500 SUS at 100°F (38°C). 
+Some greases having these properties are:
+
+Shell - Gadus S2 V100 2	
+Mobil - Ronex MP 
+	
+Mobil - Mobilith SHC100	
+Mobil - Mobilith SHC220
+
+3.	 Any lubrication requirements noted on the general assembly drawing supersede 
+requirements found here.
+
+2.	 Lubricate bearings prior to extended shutdown or storage and rotate shaft monthly 
+to aid corrosion protection.
+
+3.	 Purge or remove old grease when changing lubrication brands or types.
+
+Fans with Ball Bearings
+
+4.	 Any lubrication requirements noted on the general assembly drawing supersede 
+requirements found here.
+
+Static Oil Lubrication
+
+Relubrication Schedule (Weeks)*
+
+Ball Bearing Pillow Blocks
+
+1.	 Use only high quality mineral oil with a VG grade indicated on the customer 
+submittal drawing.
+
+Shaft DIA
+Speed (RPM)
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+
+2.	 Static oil level should be at the center of the lower-most roller. (Do not overfill.)
+
+1⁄2" thru 111⁄16"
+(13 – 45)
+6
+6
+5
+3
+3
+2
+2
+2
+1
+
+3.	 Complete lubrication change should be made annually.
+
+115⁄16" thru 27⁄16"
+(50 – 60)
+6
+5
+4
+2
+2
+1
+1
+1
+1
+
+211⁄16" thru 215⁄16" 
+(65 – 75)
+5
+4
+3
+2
+1
+1
+1
+–
+–
+
+37⁄16" thru 315⁄16"
+(90 – 100)
+4
+3
+2
+1
+1
+–
+–
+–
+–
+
+*Suggested lubrication interval under continuous operation in adverse loading or with 
+elevated temperatures. For operation less than 24 hours per day or under ideal conditions, 
+lubrication frequency may be reduced. Relubricate while running, if safety permits, until 
+some purging occurs at seals. Adjust lubrication frequency depending on condition of 
+purged grease. Hours of operation, temperature and surrounding conditions will affect the 
+relubrication frequency required.
+
+1.	 Lubricate with a high quality NLGI No. 2 lithium-base grease having rust inhibitors and 
+antioxidant additives, and a minimum oil viscosity of 500 SUS at 100°F (38°C). Some 
+greases having these properties are:
+
+Shell - Gadus S2 V100 2	
+Mobil - Ronex MP 
+	
+Mobil - Mobilith SHC100	
+Mobil - Mobilith SHC220
+
+2.	 Lubricate bearings prior to extended shutdown or storage and rotate shaft monthly to 
+aid corrosion protection.
+
+3.	 Any lubrication requirements noted on the general assembly drawing supersede 
+requirements found here.
+
+Twin City Fan
+
+11
+
+Installation, Operation & Maintenance Manual
+
+
+
+=== PDF page 12 of 20 | native ===
+
+IM-895
+
+Drive Mounting 
+(refer to safety section)
+
+WARNING
+
+When working around belts and pulleys, keep hands away from 
+pinch points.
+
+Mount drives as follows:
+1.	 Slip (do not pound) proper sheave onto corresponding shaft. 
+Most drives utilize tapered bushings. Draw the bushing up 
+evenly tightening in steps. To minimize bearing loading, 
+mount sheaves as close to bearings as possible. It is preferable 
+to use alignment tools that align the grooves of the sheave.
+
+2.	 Align sheaves with straightedge extended along sheaves, just 
+making contact in two places on outside perimeters of both 
+sheaves. This “four-point” alignment may also be checked 
+with a string tied to the shaft behind one of the sheaves. 
+The string is then pulled taut over the faces of the sheaves 
+to check the alignment at the four points at the outside 
+perimeters. Each sheave should be rotated about one-half 
+revolution during this check to look for excessive runout 
+or a bent shaft. Unless there is a bent shaft, runout can be 
+corrected by adjustments to the bolt torque of the taper 
+bushing.
+
+Click To View Our
+Sheave Installation video
+
+3.	 Install and tighten the belts. Run the drive for a few minutes 
+to seat the belts. When fitting the belts, adjust the motor 
+position to fit on the belts. Do not use a pry bar, as this 
+may damage the belt cords. Tighten the belts to the proper 
+tension. Ideal tension is just enough tension so that the belts 
+do not slip under peak load or acceleration. Many drives are 
+provided with tensioning data, which identifies the load to 
+apply at the center of the span and the allowable deflection 
+from this force. A belt tension gauge is recommended for 
+precise tensioning.
+
+4.	 After initial installation of belts, recheck belt tension again 
+after a few days of operation to adjust belt tension. (New 
+belts require a break-in period of operation.)
+
+CAUTION
+
+Twin City Fan
+
+Placing fan sheave on motor can overspeed impeller and cause 
+structural failure.
+
+Installation, Operation & Maintenance Manual
+12
+
+
+
+=== PDF page 13 of 20 | native ===
+
+IM-895
+
+Motor Support Adjustment (refer to safety section)
+Two different types of motor mounts, post and saddle, are used on TSL/TCLB Inline Centrifugal and QSL/QCLB Mixed Flow fans. The 
+mount to use depends on the size of the fan and motor.
+
+On the post type motor mount, the motor plate is supported on four threaded rods. Belt tension is adjusted by loosening the four nuts 
+on top of the motor plate and raising the motor plate by adjusting the four nuts underneath it. The top nuts should then be tightened 
+to hold the motor plate in place.
+
+On the saddle type motor mount, the motor pivots on one side and adjustment of belt tension is achieved by loosening the nuts on 
+top of the motor plate on the other side, then raising the motor plate by adjusting the nuts underneath the motor plate. The nuts 
+on top of the motor plate should again be tightened to hold the motor plate in place. The saddle mount on QCLB Mixed Flow fans 
+also incorporate a fastener to the motor plate flange that needs to be loosened prior to adjusting the motor plate. Several holes 
+are provided on the pivot side and the pivot point can be raised for gross belt adjustment. If this adjustment is made, however, the 
+motor plate should be as parallel as possible to the fan centerplane. Care should be taken to maintain drive alignment and proper 
+belt tension.
+
+Maintenance (refer to safety section)
+Develop a regular maintenance schedule according to your needs and the 
+criticality of the fan. Periodic inspections, lubrication and observations 
+of sound and vibration will help prolong the life of the fan. If changes 
+are noted check bolt tightness, foundation integrity, cleanliness of 
+the impeller and or motor, bearing lubrication and drive components. 
+Always keep records of the maintenance that is performed.
+
+Motor Lubrication Schedule
+
+Motor Maintenance
+
+Motors Less than 10 HP
+
+Motors Between
+
+Motors Running 24/7
+
+or if in dirty/dusty
+
+Running 8 Hrs/Day
+(clean environments)
+
+15-40 HP
+(clean environments)
+
+environments
+
+The three basic rules of motor maintenance are:
+1.	 Keep the motor clean.
+2.	 Keep the motor dry.
+3.	 Keep the motor properly lubricated.
+
+Lube every 5 Years
+Lube every 3 years
+Divide the service
+
+interval by 4
+
+Do not over lubricate.
+
+Blow dust off periodically (with low pressure air) to prevent 
+motor from overheating.
+
+Some smaller motors are lubricated for life. Lubrication requirements are normally attached to the motor. Use the motor manufacturer’s 
+recommendations for relubrication. Often motor lubricants are not the same as the fan bearings. If this information is not available, 
+the Motor Lubrication Schedule may be used.
+
+Shaft grounding rings are recommended for some VFD applications. If the motor is equipped with a shaft grounding ring a yearly 
+inspection for wear and shaft corrosion is recommended. Replace the ring if it is making minimal contact with the shaft. If corrosion 
+is present, treat the shaft with colloidal silver per the ring manufacturer's instructions.
+
+13
+
+Installation, Operation & Maintenance Manual
+
+
+
+=== PDF page 14 of 20 | native ===
+
+IM-895
+
+Drive Maintenance (refer to safety section)
+
+WARNING
+
+V-belt drives need periodic inspection, retensioning and occasional belt replacement. 
+When inspecting drives, look for dirt buildup, burrs or obstructions that can cause 
+premature belt or drive failure. If burrs are found, use fine emery cloth or a stone 
+to remove them. Be careful that dust does not enter the bearings.
+
+When working around belts and pulleys, keep 
+hands away from pinch points.
+
+Check sheaves for wear. Excessive slippage of belts on sheaves can cause wear and 
+vibration. Replace worn sheaves with new ones. Carefully align sheaves to avoid premature sheave failure. If fraying or other wear is 
+observed to be mostly on one side of the belts, the drives may be misaligned. Realign and reinstall new belts. Tighten sheave bolts 
+(or set screws if appropriate).
+
+When replacing belts, replace the entire set. Never use belt dressing on any belts, as it may cause belt wear.
+
+Fan Bearing Maintenance (refer to safety section)
+Proper lubrication of the fan drive bearings helps assure maximum bearing life. All fans are equipped with decals indicating the 
+recommended relubrication intervals for normal operating conditions. Refer to the Bearing Installation section for the lubrication 
+schedules for ball bearings, solid pillow block spherical roller bearings and split pillow block spherical roller bearings. Note that all 
+speeds shown do not apply to all shaft sizes in that group. Consult the factory if in doubt of maximum speed for a particular bearing. 
+Note that every installation is different and the frequency of relubrication should be adjusted accordingly.
+
+Use 1/2 to 1/3 of the listed lubrication interval for high moisture applications. For vertical shaft mounts or dirty conditions use 1/2 
+the lubrication schedule.
+
+Observation of the conditions of the grease expelled from unit ball or roller bearings at the time of relubrication is the best guide 
+as to whether regreasing intervals and amount of grease added should be altered. Spherical roller bearings with split pillow block 
+housings should not be lubricated until grease purges or overheating may result. Follow the lubrication interval and amount noted in 
+the Bearing Installation section. Spherical roller bearings with split pillow block housings should be serviced once per year. Remove 
+cap, clean out old grease and replace by filling the bottom half of the housing 1/3 full.
+
+Greases are made with different bases. There are base greases, lithium base, sodium base, polyurea, etc. Avoid mixing greases with 
+different bases. They could be incompatible and result in rapid deterioration or breakdown of the grease. The lubrication sticker 
+identifies a list of acceptable lubricants. All bearings are filled with a lithium complex grease before leaving the factory. When the fans 
+are started, the bearings may discharge excess grease through the labrinth seals for a short period of time. Do not replace the initial 
+discharge because leakage will cease when the excess grease has worked out. Sometimes the bearings have a tendency to run hotter 
+during this period. This is no reason for alarm unless it lasts over 48 hours or temperatures exceed 200°F. When relubricating, use a 
+sufficient amount of grease to purge the seals. Rotate bearings by hand during relubrication. If extended lubrication lines are fitted, 
+lubricate the bearings while the fan is operating if it is safe to do so.
+
+Impeller and Shaft Maintenance (refer to safety section)
+
+Periodically inspect the shaft and impeller for dirt buildup, corrosion and signs of excess stress or fatigue. Clean the components. If 
+the impeller is removed for any reason, make sure that it is securely attached to the shaft before restarting the fan.
+
+Installation, Operation & Maintenance Manual
+14
+
+
+
+=== PDF page 15 of 20 | native ===
+
+IM-895
+
+Structural Maintenance (refer to safety section)
+All structural components or devices used to support or attach the fan to a structure should be checked at regular intervals. Vibration 
+isolators, bolts, foundations, etc., are all subject to failure from corrosion, erosion and other causes. Improper mounting can lead to 
+poor operation characteristics or fan fatigue and failure. Check metallic components for corrosion, cracks or other signs of stress. 
+Concrete should be checked to ensure the structural integrity of the foundation.
+
+Duct Connections 
+(refer to safety section)
+The fan support structure is normally not designed to carry 
+loads imposed by the weight of ducts, silencers, stacks, 
+etc. Supporting these loads on the fan can cause housing 
+distortion and may cause performance or vibration problems. 
+Use of flexible connections is recommended for all fans and 
+imperative when using vibration isolation or handling high 
+temperature gases.
+
+Ceiling Mounted Mixed Flow Fan
+
+with Flexible Duct Connectors
+
+Twin City Fan & Blower
+
+Serial Number & Fan Type
+
+Minneapolis, MN           www.tcf.com
+
+Twin City Fan
+
+model #
+
+The serial number and fan type can be found on our permanent 
+nameplate of the fan.
+
+serial #
+
+09-265399-1-1
+QSL
+
+volts
+phase
+hz
+
+hp
+encl.
+
+tag
+
+NAMEPLT-TCF01SS
+
+Parts & Service
+
+888-444-4823  |  fieldservice@tcf.com  |  parts@tcf.com
+
+Twin City Fan
+
+15
+
+Installation, Operation & Maintenance Manual
+
+
+
+=== PDF page 16 of 20 | native ===
+
+IM-895
+
+Impeller Placement
+
+Models TCLB and TSL
+
+TCLB and TSL Impeller Overlap
+Size
+90
+105
+122
+135
+150
+165
+182
+200
+222
+245
+270
+300
+330
+365
+402
+445
+490
+542
+600
+660
+730
+807
+890
+A
+10.50 10.50 12.25 13.50 15.00 16.50 18.25 20.00 22.25 24.50 27.00 30.00 33.00 36.50 40.25 44.50 49.00 54.25 60.00 66.00 73.00 80.75 89.00
+B
+0.28
+0.28
+0.31
+0.34
+0.38
+0.44
+0.56
+0.63
+0.69
+0.75
+0.88
+0.97
+1.06
+0.94
+1.03
+1.13
+1.25
+1.38
+1.56
+1.69
+1.88
+2.09
+2.28
+C (CL 1)
+3.02
+4.02
+4.69
+5.31
+5.86
+6.36
+7.36
+8.00
+8.89
+9.86
+10.91 11.89 13.31 14.72 16.23 17.92 19.64 21.70 24.08 26.42 29.19 32.30 35.66
+C (CL 2)
+3.02
+4.02
+4.72
+5.31
+5.86
+6.36
+7.42
+8.06
+8.95
+9.86
+10.91 11.89 13.31 14.72 16.23 17.92 19.64 21.70 24.08 26.42 29.19 32.30 35.66
+C (CL 3)
+3.02
+4.02
+—
+5.31
+—
+6.36
+7.48
+8.13
+9.08
+9.92
+10.97 12.14 13.38 14.78 16.30 17.98 19.70 21.83 24.14 26.48 29.25 32.36 35.70
+
+Note: Use "B" dimension for positioning impeller.
+
+Models QCLB and QSL
+
+QCLB and QSL Impeller Overlap
+Size
+90
+122
+135
+150
+165
+182
+200
+222
+245
+270
+300
+330
+365
+402
+445
+490
+542
+600
+660
+730
+A
+12.25 15.00 16.50 18.25 20.00 22.25 24.50 27.00 30.00 33.00 36.50 40.25 44.50 49.00 54.25 60.00 66.00 73.00 80.75 89.00
+B
+0.31
+0.38
+0.44
+0.56
+0.63
+0.69
+0.75
+0.88
+0.97
+1.06
+0.94
+1.03
+1.13
+1.25
+1.38
+1.56
+1.69
+1.88
+2.09
+2.28
+C
+4.20
+5.13
+5.64
+6.19
+6.75
+7.56
+8.31
+9.13
+10.19 11.19 12.38 13.63 15.13 16.63 18.38 20.25 22.31 24.63 27.25 30.00
+
+Note: Use "B" dimension for positioning impeller.
+
+Installation, Operation & Maintenance Manual
+16
+
+
+
+=== PDF page 17 of 20 | native ===
+
+IM-895
+
+Troubleshooting Guidelines
+Use current safety practices when investigating fan or system 
+performance problems. General safe practices and performance 
+troubleshooting guidelines can be found in AMCA Publications 
+410 and 202, respectively. Fan application and field measurement 
+procedures can be found in AMCA Publications 201 and 203.
+
+Below is a list of possible areas to check when air or sound values do 
+not match expectations. Most fan problems can be pinpointed to one 
+of these common causes.
+
+Air Capacity Problems
+1.	 Resistance of the system is not at design rating. If resistance is 
+lower than expected, both airflow and horsepower may be up. 
+If resistance is higher than anticipated, air volume will be down.
+2.	 Fan speed is not at design speed.
+3.	 Air density is not at the design value. Also check air performance 
+measurement techniques/procedures.
+4.	 Devices for air modulation are closed or plugged. Also check 
+filters.
+5.	 Impeller mounted improperly or is rotating in reverse.
+6.	 Parts of the system or fan have been damaged or need cleaning.
+
+NOTICE
+
+Noise Problems
+1.	 Air performance is incorrect and the fan is not at design point 
+of operation. Fan is being forced to operate in an unstable flow 
+region near peak or to the left of the peak of the curve.
+2.	 Bearing failure. Check bearings (lubrication).
+3.	 Supply voltage high or inconsistent supply frequency. Adjustable 
+frequency controllers can generate motor noise.
+4.	 Objects that are installed in a high velocity airstream can 
+generate noise. This includes flow sensors, turning vanes, etc.
+5.	 Poor fan inlet conditions.
+6.	 Acoustics or sound measurement procedure incorrect.
+
+Most fans manufactured by Twin City Fan & Blower are factory 
+balanced prior to shipment. Certain high horsepower, large or 
+unusual voltage fans, may not be run as an assembly due to power 
+constraints, however the rotors have been dynamically balanced. 
+Installation variables, handling and movement of the fan during 
+shipment may cause the rotating assembly to shift. Balance should 
+be checked once the fan is installed. If a final trim balance is 
+required, it is the end user's responsibility to bring the fan back to 
+factory specifications. Final trim balancing is not the responsibility 
+of Twin City Fan & Blower. Refer to the Vibration Guidelines table 
+below.
+
+Vibration Guidelines
+
+Rigidly Mounted
+
+Flexibly Mounted
+
+Condition
+
+Fan 
+Application
+
+mm/s (in./s)
+
+mm/s (in./s)
+
+Category
+
+Vibration Problems
+1.	 	Misalignment of drive components. Check belt or coupling.
+2.	 	Poor foundation or mounting structure (resonances).
+3.	 	Foreign material attached to rotating components.
+4.	 	Damaged rotating components (bearings, shaft, fan, impeller, 
+sheaves).
+5.	 Broken, loose or missing set screws.
+6.	 	Loose bolts.
+7.	 	Vibration transmitted by another source.
+8.	 	Water accumulating in airfoil blades.
+9.	 	Fan is operating in stall or unstable flow region.
+
+Start-up
+BV-3
+6.4 (0.25)
+8.8 (0.35)
+BV-4
+4.1 (0.16)
+6.4 (0.25)
+
+Alarm
+BV-3
+10.2 (0.40)
+16.5 (0.65)
+BV-4
+6.4 (0.25)
+10.2 (0.40)
+
+Shutdown
+BV-3
+12.7 (0.50)
+17.8 (0.70)
+BV-4
+10.2 (0.40)
+15.2 (0.60)
+
+Values shown are peak velocity, mm/s (inches/s), Filter out. Table taken from ANSI/AMCA 
+Standard 204-05, Table 6.3. AMCA defines BV-3 for applications up to 400 HP; BV-4 for 
+applications over 400 HP.
+
+Motor Problems
+1.	 	Incorrect wiring.
+2.	 	Speed of fan too high.
+3.	 	Parts improperly installed; binding.
+4.	 	Bearings improperly lubricated.
+5.	 	WR2 capability of motor too low for application.
+6.	 	Protection devices may be improperly sized.
+7.	 VFD compatible electrically? Effective shaft grounding?
+8.	 	Is cabling and grounding correct?
+
+Drive Problems
+1.	 Belts improperly tensioned.
+2.	 Drive alignment is poor. Check belt or coupling.
+3.	 Coupling lubrication.
+
+Twin City Fan
+
+17
+
+Installation, Operation & Maintenance Manual
+
+
+
+=== PDF page 18 of 20 | native ===
+
+IM-895
+
+Installation/Start-up Checklist
+Become familiar with the equipment by looking at the fan assembly drawing for special 
+instructions and accessories.
+
+WARNING
+
+Verify that proper safety precautions have been followed. 
+Electrical power must be locked off.
+
+Electrical Components
+
+Initial Fan Check
+	
+Inspect fan for damage
+	
+Check foundation, prepare for shims
+	
+Shim fan shaft level to 0.002"/ft
+	
+Are the bolts tight
+	
+Check to see if the fan is distorted by the foundation 
+and/or ductwork 
+	
+Note: Applies to direct or isolation mount.
+	
+Check fan interior for debris and standing water
+
+Motor wired for proper voltage and starter
+	
+Motor grounded
+	
+Appropriate starter and heaters
+	
+Leads are properly insulated
+	
+Accessories wired per instructions supplied.
+
+Energize
+
+Fan Impeller
+	
+Impeller clearance checked
+	
+Impeller overlap checked
+	
+Fasteners tight
+	
+Impeller rotates freely
+
+Springs (if equipped)
+	
+Springs adjusted properly 
+	
+Flex joints allow movement
+	
+Electrical conduit allows movement
+
+Bearings
+	
+Bearings aligned
+	
+Bearings greased
+	
+Note: Rotate while greasing
+	
+Set screws tight (if equipped)
+
+Energize motor long enough to start assembly 
+rotating, shut down
+	
+Verify direction of impeller rotation, rewire if 
+necessary Note: Refer to Impeller Rotation section
+	
+Run the fan up to speed
+	
+Check for excess vibration and listen for unusual 
+noise. Refer to the Vibration Guidelines table in the 
+troubleshooting guidelines section for vibration limits
+	
+Proceed to grout
+	
+Bearing temperatures should stabilize after a few 
+hours. Less than 200°F
+	
+Note: Use sense of smell to identify possible electrical, belt issues.
+
+After one Week
+
+Lube Lines
+	
+Lube lines been charged with grease prior to 
+connecting to bearings
+
+Verify bolt tightness
+	
+Verify belt tension and adjust as necessary
+
+NOTICE
+
+V-Belts (if equipped)
+	
+V-belt drives aligned
+	
+Sheaves retightened
+	
+Belt tension correct
+	
+Motor bolts retightened
+
+Always observe site specific and regulatory safety precautions.
+
+Serial Number:
+
+Accessories
+	
+Guards installed correctly, do not rub
+	
+VIV/damper rotates freely (if equipped)
+	
+Other accessories per drawing
+
+Completed By:
+
+Date Completed:
+
+Installation, Operation & Maintenance Manual
+18
+
+
+
+=== PDF page 19 of 20 | native ===
+
+IM-895
+
+Fan Maintenance Log
+
+Model Number__________________________
+
+Serial Number __________________________
+
+Date
+Completed Maintenance
+Performed By
+Comments
+
+19
+
+Installation, Operation & Maintenance Manual
+
+
+
+=== PDF page 20 of 20 | native ===
+
+Twin City Fan
+
+TWIN CITY FAN  |  WWW.TCF.COM
+
+5959 Trenton Lane N  |  Minneapolis, MN 55442  |  Phone: 763-551-7600  |  Fax: 763-551-7601
+
+©2004 – 2022 Twin City Fan Companies, Ltd.

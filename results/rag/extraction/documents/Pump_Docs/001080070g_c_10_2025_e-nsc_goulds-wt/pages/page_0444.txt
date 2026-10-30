@@ -1,0 +1,66 @@
+Declarations of Conformity
+
+Spoločnosť Xylem Service Italia S.r.l. so sídlom vo Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI, Taliansko týmto 
+vyhlasuje, že výrobok: 
+čerpadlo NSC... (pozri štítok na poslednej strane) 
+spĺňa príslušné ustanovenia nasledujúcich európskych smerníc 
+•  Smernica 2006/42/ES o strojových zariadeniach a jej nasledujúce zmeny a doplnenia (PRÍLOHA II – fyzická alebo právnická 
+osoba oprávnená zostavením technického súboru: Xylem Service Italia S.r.l.), 
+•  Smernica 2009/125/ES na stanovenie požiadaviek na ekodizajn energeticky významných výrobkov a jej nasledujúce zmeny a 
+doplnenia, nariadenie (EÚ) č. 547/2012 a jeho nasledujúce zmeny a doplnenia (vodné čerpadlo, ak je označené MEI) 
+a technické normy 
+•  EN 809:1998+A1:2009. 
+•  EN 16480:2021. 
+Doplňujúce informácie: 
+Optimyze: ak je vybavené čerpadlom, odkazujeme na dokumentáciu dodanú s monitorovacím zariadením [smernica 2014/53/EÚ o 
+sprístupňovaní rádiových zariadení na trh v znení neskorších zmien, smernica 2011/65/EÚ o obmedzení používania určitých 
+nebezpečných látok v elektrických a elektronických zariadeniach v znení neskorších zmien, vrátane smernice 2015/863/EÚ].
+
+Montecchio Maggiore, 25/03/2025  
+
+rev. 00
+
+Alessio Vendraminelli  
+    Generálny riaditeľ
+
+Vyhlásenie/-a o zhode nie je/sú platné, ak sa používa/-jú samostatne od zvyšku textu dokumentu Xylem s kódom 001080070G. 
+ 
+Lelőségi nyilatkozatok 
+Lásd a terméken található speciális jelölési nyilatkozatot. 
+ 
+Elektromos szivattyú
+
+EK Megfelelőségi nyilatkozat (fordítás) 
+ 
+A Xylem Service Italia S.r.l., amelynek székhelye Via Vittorio Lombardi 14 - 36075 Montecchio Maggiore VI - Italy, ezennel kijelenti, 
+hogy a termék 
+NSCC… vagy NSCF… elektromos szivattyú (lásd az utolsó oldalon feltüntetett címkét) 
+megfelel az alábbi európai irányelvek vonatkozó rendelkezéseinek 
+•  2006/42/EK Gépekre vonatkozó irányelvnek és módosításainak (II. MELLÉKLET - a műszaki adatlap összeállítására 
+felhatalmazott természetes vagy jogi személy: Xylem Service Italia S.r.l.), 
+•  Öko-design 2009/125/EK irányelvnek és módosításainak, 
+A 2019/1781/EU rendeletnek és azt követő módosításainak (elektromos motor, ha IE2 vagy IE3 vagy IE4 jelölésű), az 547/2012/EU 
+rendeletnek és azt követő módosításainak (vízszivattyú, ha MEI jelölésű) 
+és műszaki szabványok 
+•  EN 809:1998+A1:2009, EN 60204-1:2018. 
+•  EN 60034-30:2009, EN 60034-30-1:2014, EN 60034-2-1:2007, EN 60034-2-1:2014, EN 16480:2021. 
+Montecchio Maggiore, 25/03/2025  
+
+felülvizsgálat: 00
+
+Alessio Vendraminelli  
+    Ugyvezeto
+
+EU Megfelelőségi nyilatkozat (01. sz.) 
+ 
+1. EMCD - Berendezés/Termékmodell: NSCC… vagy NSCF… (lásd az utolsó oldalon feltüntetett címkét) 
+    RoHS- EEE egyedi azonosítás: NSCC… vagy NSCF…  
+2. A gyártó neve és címe: 
+ Xylem Service Italia S.r.l. 
+ Via Vittorio Lombardi 14 
+ 36075 Montecchio Maggiore VI 
+ Olaszország 
+3. E megfelelőségi nyilatkozat kiadása a gyártó kizárólagos felelőssége mellett történik. 
+4. A nyilatkozat tárgya: elektromos szivattyú
+
+440

@@ -1,0 +1,126 @@
+Unusual operating behaviour indicating damage
+Subjective damage recognition · Bearing monitoring with technical devices
+
+1 Unusual operating behaviour indicating damage
+
+1: Recognition of damage by operating staff
+
+Symptoms
+Sources of trouble
+Examples
+
+Uneven running
+Damaged rings
+Motor vehicles:
+or rolling elements
+more and more wheel wobbling
+increased tilting clearance
+vibration of steering system
+Contamination
+
+Fans:
+growing 
+Excessive bearing clearance
+vibration
+
+Saw mills:
+more knocks and blows
+in connecting rods
+
+Gradual deterioration of the opera-
+ting behaviour is normally the first sign
+of bearing damage. Spontaneous damage
+is rare, for example that caused by mount-
+ing errors or a lack of lubrication, 
+which leads to immediate machine down-
+time. Depending on the operating con-
+ditions, a few minutes, or under some
+circumstances even a few months, may
+pass from the time damage begins to the
+moment the bearing actually fails. The
+case of application in question and the
+effects of bearing damage on the ma-
+chine operation are taken as a basis when
+selecting the type of bearing monitoring
+to be provided.
+
+Reduced
+Wear due 
+Lathe:
+working accuracy
+to contaminants
+gradual development
+or insufficient lubrication
+of chatter marks on workpiece
+
+Damaged rings
+Grinders:
+or rolling elements
+wavy ground surface
+
+Change in adjustment
+Cold rolling mill:
+(clearance or preload)
+Periodic surface defects 
+on rolled material
+such as stretcher strains,
+ghost lines etc.
+
+1.1 Subjective damage 
+recognition
+In the vast majority of bearing appli-
+cations it is sufficient when machine
+operators watch out for uneven running
+or unusual noise in the bearing system,
+see table 1.
+
+Unusual
+Insufficient operating clearance
+running noise:
+
+whining or squealing
+noise
+
+Electric motors
+rumbling
+Excessive clearance
+Gears
+or irregular
+Damaged contact areas
+(the bearing noise
+noise
+Contamination
+is hard to identify
+Unsuitable lubricant
+since it is generally
+drowned by the noise
+of the gears)
+
+1.2 Bearing monitoring with 
+technical devices
+Bearings which could be hazardous
+when damaged or which could lead to
+long production down-times require on
+the other hand accurate and constant
+monitoring. Two examples are jet engine
+turbines and paper-making machines.
+For monitoring to be reliable, its extent
+must be based on the type of damage
+which may be expected.
+
+gradual change
+Change in operating clearance
+in running noise
+due to temperature
+Damaged running track
+(e.g. due to contamination 
+or fatigue)
+
+1.2.1 Wide-spread damage
+A sufficient supply of clean lubricant
+is the main precondition for trouble-free
+operation. Undesirable changes can be
+detected by:
+
+FAG
+4

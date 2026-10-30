@@ -1,0 +1,185 @@
+ru - Оригинальные инструкции
+
+Sebep
+Çözüm
+
+Sebep
+Çözüm
+
+Valfları çıkarın ve temizleyin.
+
+Bir membran delinmiştir veya
+basınç tankında ön hava yükü
+yoktur.
+
+Basınç tankı kıla‐
+vuzundaki ilgili tali‐
+matlara bakın.
+
+Valfler kapalı veya
+kısmen kapalı ko‐
+numda kilitlenmiş‐
+tir.
+
+Pompa tıkanmıştır. Yerel satış ve servis temsilcisi
+
+ile temasa geçin.
+
+7.11  Pompa titreşim yaparak çok fazla ses
+çıkarıyor
+
+Boru tıkanmıştır.
+Boruları kontrol edin ve temizle‐
+yin.
+
+Sebep
+Çözüm
+
+Pompa kavitas‐
+yonu
+
+Pervanenin dönüş
+yönü hatalı.
+(üç fazlı tip)
+
+Motor terminal kartındaki ya da
+elektrik kontrol panelindeki faz‐
+ların ikisinin konumunu değişti‐
+rin.
+
+Pompanın aşağı akış yönündeki
+AÇMA-KAPAMA valfini kısmen ka‐
+patarak gerekli akış hızını azaltın.
+Sorun devam ederse, pompanın
+çalışma koşullarını (yükseklik far‐
+kı, akışı direnci, sıvı sıcaklığı) kon‐
+trol edin.
+
+Pompanın çalışma koşullarını
+denetleyin. Gerekiyorsa, aşağı‐
+dakileri yapın:
+
+Emmeli kaldırıcı
+çok yüksektir veya
+emme borularında‐
+ki akış direnci faz‐
+la yüksektir.
+
+Motor yatakları
+yıpranmıştır.
+
+Yerel satış ve servis temsilcisi ile
+temasa geçin.
+
+• Emiş kaldırmasını azaltın
+• Emiş borusunun çapını artı‐
+rın.
+
+Yerel satış ve servis temsilcisi ile
+temasa geçin.
+
+Pompa içinde
+yabancı cisimler
+var.
+
+7.9  Elektrikli pompa durur ve ardından ters
+yönde döner
+
+Yerel satış ve servis temsilcisi ile
+temasa geçin.
+
+Pervane, aşınma
+halkasına sürtü‐
+nür
+
+Sebep
+Çözüm
+
+Kaplin hizalamasını kontrol edin.
+
+Yanlış hizalan‐
+mış kaplin
+
+Aşağıdaki bileşenlerin birinde ya
+da ikisinde bir kaçak var:
+
+Arızalı bileşeni
+tamir edin veya
+değiştirin.
+
+• Emiş borusu
+• Ayak valfı ya da kontrol valfı
+
+Aşınma belirtisi varsa ilgili parça‐
+ları kontrol edin ve değiştirin.
+
+Kaplin esnek
+elemanları aşın‐
+mış
+
+Emme borusunda hava vardır.
+Havayı alın.
+
+7.10  Pompa fazla sık çalışıyor
+
+Herhangi bir diğer durum için lütfen satış ve servis
+temsilcisine başvurun.
+
+Sebep
+Çözüm
+
+Aşağıdaki bileşenlerin birinde
+ya da ikisinde bir kaçak var:
+
+Arızalı bileşeni ta‐
+mir edin veya de‐
+ğiştirin.
+
+• Emiş borusu
+• Ayak valfı ya da kontrol val‐
+fı
+
+ждению имущества, а также к прекра‐
+щению действия гарантии.
+
+1  Введение и техника безопасности
+
+1.1  Введение
+
+Назначение данного руководства
+
+ПРИМЕЧАНИЕ:
+Сохраните настоящее руководство для дальней‐
+ших справок и обеспечьте его доступность на
+объекте размещения изделия.
+
+Данное руководство содержит необходимую ин‐
+формацию по следующим вопросам:
+
+RU
+
+1.2  Терминология и предупреждающие
+знаки для обеспечения безопасности
+
+• Установка
+• Эксплуатация
+• Техническое обслуживание
+
+О предупреждающих знаках и сообщениях
+
+Перед эксплуатацией изделия необходимо вни‐
+мательно прочитать и понять предупреждающие
+сообщения, а также следовать изложенным в
+них требованиям техники безопасности. Пред‐
+упреждающие знаки и сообщения призваны
+предотвращать следующие опасные ситуации:
+
+ОСТОРОЖНО:
+Перед установкой и эксплуатацией
+данного изделия необходимо внима‐
+тельно ознакомиться с настоящим ру‐
+ководством. Ненадлежащее исполь‐
+зование изделия может привести к
+производственным травмам и повре‐
+
+309

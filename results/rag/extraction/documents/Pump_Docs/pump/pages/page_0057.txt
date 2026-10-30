@@ -1,0 +1,103 @@
+11. Controlling Pumps with Adjustable Speed Drives
+
+lessen system wear. For more information on 
+indications of excessive system flow and ways 
+to correct it, see the fact sheet in this section 
+titled Indications of Oversized Pumps.
+
+One major benefit of VFDs is that they can reduce 
+energy losses by lowering the overall system flow 
+or head. By slowing down the pump and reducing 
+the amount of fluid energy imparted to the system 
+when it is not needed, VFDs offer substantial 
+savings with respect to the cost per gallon of 
+liquid pumped. Another system-related benefit is 
+that VFDs provide a soft-start capability. During 
+start-up, most motors experience in-rush currents 
+that are 5 to 6 times higher than normal operating 
+currents. This high current fades when the motor 
+achieves normal speed.
+
+VFDs allow the motor to be started with a lower 
+start-up current—usually only about 1.5 times the 
+normal operating current. This reduces wear on 
+the motor and its controller.
+
+ Limitations of VFDs
+Although using VFDs can help to reduce 
+operating and maintenance costs, they are not 
+appropriate for all applications. As a pump’s 
+speed decreases, it generates less pressure. In 
+high-static-head applications, the use of VFDs 
+can slow a pump down so that it operates at or 
+near shut-off head conditions. The pump thus 
+experiences the same harsh conditions that the 
+manufacturer attempts to guard against when 
+setting a minimum flow rate, which usually 
+corresponds to the pump’s rated speed. The 
+consequences include greater shaft deflection, 
+high vibration levels, and high bearing loads.
+
+ Maintenance Requirements
+As added system equipment, VFDs require 
+maintenance and repairs. However, in many 
+applications, VFDs lower the maintenance 
+requirements for the pump, system piping, and 
+components. The principal factors behind these 
+maintenance savings are the reduced load on the 
+pump and the lower static and dynamic fluid 
+forces imparted to the system.
+
+Power quality can also be a concern. VFDs 
+operate by rectifying the alternating current (ac) 
+line power into a direct current (dc) signal, then 
+inverting and regulating this signal into ac power 
+that is sent to the motor. Often, the inverter 
+creates harmonics in the power supplied to the 
+motor. These harmonics can cause motor 
+windings to operate at higher temperatures, which 
+accelerates wear in insulation. To account for the 
+added winding heat, motors are typically derated 
+5% to 10% when used with VFDs. A classi-
+fication of motors known as “inverter-duty” 
+has been developed to better match VFDs with 
+motors.
+
+By reducing a pump’s operating speed, a VFD 
+often shifts the BEP to the left of the BEP 
+corresponding to the pump’s normal operating 
+speed. In these cases, since the bearing loads on a 
+pump are lowest when the pump is operating at its 
+BEP, this shift of the BEP during periods of low 
+flow allows the pump to operate with lower 
+bearing loads and less shaft deflection. Most pump 
+bearings are roller- or ball-type; their design 
+operating life is a function of the cube of the load. 
+Consequently, using a VFD can extend the interval 
+between bearing maintenance tasks.
+
+In some electrical systems, the harmonics creat-
+ed by the inverter can be picked up by other 
+electrical lines that have common connections 
+with the VFD. Systems that are sensitive to minor 
+disturbances in power supply should be served 
+separately from the VFD power supply.
+
+In addition, VFDs reduce stress on pipes and 
+piping supports. When the system flow far 
+exceeds equipment demands, excess fluid energy 
+is dissipated in the form of noise and vibration. 
+Vibrations help to loosen mechanical joints and 
+cause cracks in the welds in pipes and pipe 
+hangers. By reducing the fluid energy, VFDs
+
+In some applications, VFDs contribute to reduced 
+bearing life. The interaction between the three 
+phases of the power supply from a VFD inverter 
+sometimes induces a small voltage across the 
+motor bearings. As a result, these bearings can 
+experience pitting and accelerated wear. VFD
+
+53
+
+A Sourcebook for Industry

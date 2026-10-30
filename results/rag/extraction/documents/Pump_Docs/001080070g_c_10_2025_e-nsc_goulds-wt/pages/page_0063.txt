@@ -1,0 +1,163 @@
+es - Traducción del original
+
+Siga este procedimiento antes de la puesta en mar‐
+cha.
+
+1. Localice las fechas en el adaptador o en la cu‐
+bierta del ventilador del motor para determinar la
+dirección de rotación correcta.
+
+2. Encienda el motor.
+
+3. Compruebe rápidamente la dirección de la rota‐
+ción a través del protector del acoplamiento con
+la cubierta del ventilador del motor.
+
+4. Detenga el motor.
+
+5. Si la dirección de rotación no es correcta, haga lo
+siguiente:
+
+a) Desconecte el suministro eléctrico.
+b) En el tablero de terminales del motor o el
+
+ES
+
+panel de control eléctrico, intercambie la po‐
+sición de dos de los tres hilos del cable de
+alimentación.
+
+• No ponga en marcha nunca una bomba por de‐
+bajo del caudal nominal, en seco o sin la inmer‐
+sión adecuada.
+• No utilice la bomba con la válvula de descarga
+cerrada durante más de unos pocos segundos.
+• No ponga en marcha nunca la bomba con la vál‐
+vula de encendido/apagado de aspiración cerra‐
+da.
+• No exponga una bomba inactiva a condiciones
+de congelación. Drene el líquido que está dentro
+de la bomba. De lo contrario, puede ocurrir que el
+líquido se congele y que la bomba se dañe.
+• La suma de la presión en el extremo de aspira‐
+ción (tuberías, tanque de gravedad) y la presión
+máxima proporcionada por la bomba no debe ex‐
+ceder de la presión de trabajo máxima permitida
+(presión nominal PN) para la bomba.
+• No utilice la bomba si se produce cavitación. La
+cavitación puede dañar los componentes inter‐
+nos.
+
+5.1  Llene la bomba
+
+Para ver los esquemas de cables, consulte la
+Figura 21 en la página 392.
+c) Vuelva a comprobar la dirección de la rota‐
+
+ción.
+
+5.3  Arranque de la bomba
+
+Para más información sobre las conexiones adicio‐
+nales de la bomba, consulte la Figura 22 en la pági‐
+na 392.
+
+Instalaciones con nivel de líquido por encima
+de la bomba (cabezal de aspiración)
+
+Para ver una ilustración en la que se muestran los
+tapones de la bomba, consulte la Figura 23 en la
+página 394.
+
+NOTA:
+Después del arranque inicial y una vez alcanzada
+la temperatura de funcionamiento, compruebe la
+alineación del acoplamiento de la unidad, consulte
+Comprobación y alineación del acoplamiento en la
+página 57.
+
+1. Cierre la válvula de encendido/apagado situada
+en posición descendente desde la bomba.
+
+La responsibilidad de comprobar el caudal y la tem‐
+peratura correctos del líquido bombeado es del ins‐
+talador o el propietario.
+Antes de poner en marcha la bomba, asegúrese de
+que:
+
+2. Quite el tapón de llenado (3) o el tapón del cali‐
+brador (1) y abra la válvula de encendido/apaga‐
+do aguas arriba hasta que el agua salga por el
+orificio
+
+a) Cierre el tapón de llenado (3) o el el tapón del
+
+calibrador (1).
+
+Instalaciones con nivel de líquido por encima
+de la bomba (desnivel)
+
+• La bomba está correctamente conectada a la
+fuente de alimentación.
+• La bomba se llena correctamente de acuerdo a
+las instrucciones de Llenado de la bomba (Capí‐
+tulo 5).
+• La válvula de encendido/apagado situada en po‐
+sición descendente desde la bomba está cerra‐
+da.
+
+Para ver una ilustración en la que se muestran los
+tapones de la bomba, consulte la Figura 24 en la
+página 395.
+
+1. Encienda el motor.
+
+1. Todo el sistema del tubo vacío:
+
+a) Abra la válvula de encendido/apagado situa‐
+
+2. Abra gradualmente la válvula de encendido/apa‐
+gado situada en el lateral de descarga de la bom‐
+ba.
+
+da en posición ascendente desde la bomba.
+b) Retire el tapón de llenado (3) y el tapón del
+
+En las condiciones de funcionamiento previstas,
+la bomba debe funcionar de un modo suave y
+silencioso. De no ser así, consulte Solución de
+problemas en la página 60.
+
+calibrador (1). Use un embudo para llenar la
+bomba a través del orificio de llenado hasta
+que el agua salga por el orificio.
+c) Apriete el tapón de llenado (3) y el tapón del
+
+calibrador (1).
+
+6  Mantenimiento
+
+2. Sistema de tubería de descarga rellena:
+
+a) Abra la válvula de encendido/apagado situa‐
+
+Precauciones
+
+da aguas arriba desde la bomba y abra la
+válvula de encendido/apagado aguas abajo.
+b) Quite el tapón del calibrador (1) hasta que el
+
+agua salga por el orificio.
+c) Apriete el tapón del calibrador (1).
+
+Peligro eléctrico:
+Desconecte y bloquee la energía eléctri‐
+ca antes de instalar o realizar el manteni‐
+miento de la unidad.
+
+ADVERTENCIA:
+
+5.2  Compruebe la dirección de la rotación
+(motor trifásico)
+
+59

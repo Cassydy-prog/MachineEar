@@ -1,0 +1,105 @@
+Section 3. The Economics of Improving Pumping Systems
+
+(flow rate, head, and fluid specific weight) are 
+known, pump efficiency can also be determined.
+
+involve system optimization. Therefore, DOE’s 
+Industrial Technologies Program has developed 
+prescreening guidance documents and assisted in 
+developing a computer-based Pumping System 
+Assessment Tool (PSAT). It is intended to help 
+end users, consultants, and equipment distributors 
+recognize, both qualitatively and quantitatively, 
+opportunities to improve pumping system 
+efficiency. PSAT software can be used to estimate 
+the efficiency of a system based on specific input; 
+accurate field measurements are required.
+
+Performance Characteristics of Motors.  DOE’s 
+Industrial Technologies Program distributes 
+MotorMaster+ software4 free of charge. Part 
+of the underlying supporting structure for 
+MotorMaster+ is an extensive database of motors. 
+The database, constructed using data supplied by 
+motor manufacturers, includes a fairly compre-
+hensive list of parameters such as motor rated 
+power, efficiency, power factor, speed, full-load 
+current, enclosure style, NEMA design type, rated 
+voltage, and price.
+
+For example, the usefulness of the input for 
+pressure depends on taking an exact reading along 
+a section of pipe; it also depends on whether the 
+pressure is measured upstream or downstream 
+of a throttling valve. Users must therefore 
+understand their system or process demands 
+to make reasonable use of PSAT. The software 
+relies on all of the following:
+
+■	 Fundamental electrical, mechanical,
+
+and fluid power relationships
+
+■	 Typical performance characteristics from
+
+industry standards and databases
+
+After it was filtered to ensure a homogeneous, 
+representative motor population, this database was 
+used to develop the algorithms used in PSAT. The 
+database was first limited to include only 460-V, 
+NEMA Design B motors, the design type used on 
+most pumps. Next, the database was sorted and 
+classed according to rated power and number of 
+poles, and filtered to exclude inconsistent entries. 
+The motors were then classified as either standard 
+or energy efficient, based on the efficiency 
+standards of NEMA MG 1-2003.5
+
+■	 Field measurements of fluid and electrical
+
+parameters.
+
+After the developers categorized the motor 
+population by size, speed, and efficiency class, 
+they established average performance 
+characteristics (current, power factor, and 
+efficiency versus load). Using these average 
+values, they created curve fits of the performance 
+characteristics.
+
+PSAT estimates the efficiency of an existing motor 
+and pump using field measurements and nameplate 
+information. It also estimates achievable efficiencies 
+if the motor and pump were optimally selected 
+to meet specified flow and head requirements. 
+The software then compares the two results and 
+determines potential power savings. Finally, PSAT 
+estimates potential cost and energy savings, based 
+on user-specified utility rates and operating times.
+
+Motor performance can, of course, vary within 
+a given power, speed, and efficiency class. 
+But relative to other uncertainties surrounding 
+pumping system field measurements, variability 
+in the motor data is relatively small. There are, 
+however, many interdependencies in motor 
+performance characteristics. For example, 
+efficiency and current are functions of motor 
+size, number of poles (speed), load, and voltage, 
+among others.
+
+Fundamental Power Relationships.  Motor input 
+power can be measured in the field on low-voltage 
+(e.g., 480-V) busses. With directly coupled equip-
+ment, the motor shaft power and the pump shaft 
+power are equal, practically speaking. Pump 
+efficiency is then the ratio of fluid power to shaft 
+power. So, if the parameters that define fluid power
+
+4 For more on the MotorMaster+ software program, see www.eere.energy.gov/industry/bestpractices/.
+5 NEMA MG 1-2003, Section II, Part 12, Table 12-11, “Full-Load Efficiencies of Energy Efficient Motors.”
+
+56
+
+Improving Pumping System Performance

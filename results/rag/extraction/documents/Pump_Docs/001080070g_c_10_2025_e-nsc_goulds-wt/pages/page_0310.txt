@@ -1,0 +1,161 @@
+tr - Orijinal talimatlar
+
+– Motor, tam yük ile kullanılırsa, değeri elektrik‐
+
+1. Pompanın aşağı akış yönündeki açma kapama
+valfını kapatın.
+
+li pompanın nominal akım değerine ayarlayın
+(veri plakası)
+– Motor, kısmi yük ile kullanılırsa, değeri çalış‐
+
+2. Dolum (3) veya sayaç tapasını (1) çıkarın ve delik‐
+ten su çıkana dek açma/kapama valfi üst akışını
+açın.
+
+a) Dolum (3) veyasayaç tapasını (1) kapatın.
+
+ma akımına ayarlayın (örneğin, bir akım cihazı
+ile ölçülmüş).
+– Pompada yıldız-delta başlatma sistemi varsa,
+
+Pompa altında sıvı seviyesinde montaj (emiş
+kaldırma)
+
+termal röleyi nominal akımın veya çalışma akı‐
+mının %58'ine ayarlayın (yalnız üç fazlı motor‐
+larda).
+
+Pompa tapalarının nerede olduğunu gösteren şekil
+için, bkz. Şekil 24 sayfa 395.
+
+5  Devreye alma, başlatma, çalıştırma ve
+kapatma
+
+1. Tüm pompa sistemi boş:
+
+a) Pompanın yukarı akış yönünde yerleştirilen
+
+Önlemler
+
+açma kapama valfini açın.
+b) Dolum tapasını (3) ve hava tapasını (1) çıkar‐
+
+UYARI:
+Fiziksel ve termal tehlikeler
+
+tın. Su bu delikten akana kadar pompayı do‐
+lum deliğinden doldurmak için bir huni kulla‐
+nın.
+c) Dolum (3) ve hava (1) tapasını sıkın.
+
+2. Doldurulan tahliye boru sistemi:
+
+• Her zaman kişisel koruyucu ekipman
+kullanın.
+• Kaplin korumasının takılı olduğunu
+kontrol edin.
+
+a) Pompanın üst akış yönünde açma kapama
+
+UYARI:
+
+valfını açın ve alttaki açma-kapama valfını
+açın.
+b) Sayaç tapasını (1) çıkarın su bu delikten çıka‐
+
+na dek.
+c) Sayaç tapasını sıkın (1).
+
+• Boşaltılan sıvının yaralanmalara veya
+maddi hasara yol açmasını önleyin.
+• Motor koruyucular motorun beklen‐
+medik biçimde yeniden başlamasına
+neden olabilir. Bu ciddi yaralanmaya
+neden olabilir.
+
+5.2  Dönüş yönünü kontrol edin (üç fazlı
+motor)
+Başlatmadan önce bu prosedüre uyun.
+
+DİKKAT:
+
+1. Doğru dönüş yönünü belirlemek için adaptör veya
+motor fanı kapağındaki okları bulun.
+
+2. Motoru başlatın.
+
+• Çalışma sırasında pompa ve motorun
+dış yüzeyleri 40ºC'yi (104ºF) aşabilir.
+• Pompa yakınında alev alan hiçbir ma‐
+teryal olmamasını sağlayın.
+
+3. Kuplaj muhafazası veya motor fanı kapağı yoluyla
+dönüş yönünü hızlı bir şekilde kontrol edin.
+
+UYARI:
+
+4. Motoru durdurun.
+
+5. Dönüş yönü hatalıysa, aşağıdakileri uygulayın:
+
+a) Güç kaynağını kapatın.
+b) Motorun terminal bloğunda veya elektrik kon‐
+
+trol panelinde, besleme kablolarından ikisinin
+veya üçünün konumunu değiştirin.
+
+Kablo şemaları için, bkz. Şekil 21 sayfa 392.
+c) Dönüş yönünü tekrar kontrol edin.
+
+5.3  Pompayı çalıştırma
+
+UYARI:
+İlk çalıştırmadan sonra ve çalışma sıcaklığına ulaşıl‐
+dığında, ünitenin kaplininin hizasını kontrol edin, bkz.
+Kaplin kontrolü ve hizalaması sayfa 305.
+
+TR
+
+• Asla pompayı minimum anma debisinin altında,
+kuruyken veya başlangıç suyu olmadan çalıştır‐
+mayın.
+• Dağıtım AÇMA-KAPAMA valfı birkaç saniyeden
+uzun süre kapalı kalmışsa, pompayı çalıştırma‐
+yın.
+• Pompayı emme AÇMA-KAPAMA valfı kapalıyken
+asla kullanmayın.
+• Boştaki bir pompanın donmasına izin vermeyin.
+Pompanın içindeki tüm sıvıyı boşaltın. Bu yapıl‐
+madığında sıvı donarak pompaya zarar verebilir.
+• Emiş kısmındaki (ana boru, yerçekimi tankı) top‐
+lam basınç miktarı ve pompanın sağladığı maksi‐
+mum basınç, pompa için izin verilen maksimum
+çalışma basıncını (nominal basınç PN) aşmama‐
+lıdır.
+• Kavitasyon oluşursa pompayı kullanmayın. Kavi‐
+tasyon dahili bileşenlere zarar verebilir.
+
+Pompalanan sıvının doğru akış ve sıcaklığının kon‐
+trol edilmesi, tesisatçı veya ekipman sahibinin so‐
+rumluluğundadır.
+Pompayı başlatmadan önce aşağıdakilerden emin
+olun:
+
+5.1  Pompayı doldurun
+Ek pompa bağlantıları hakkında bilgi için bkz. Şekil
+22 sayfa 392.
+
+Sıvı seviyesi pompa üzerindeyken yapılan
+montaj (emiş başlığı)
+
+• Pompanın güç kaynağına düzgün takıldığından.
+• Pompa, Pompayı doldurma bölümündeki talimat‐
+lara göre düzgün şekilde doldurulur (bölüm 5).
+• Pompadan aşağı akış yönüne yerleştirilen açma
+kapama valfının kapalı olduğundan.
+
+Pompa tapalarının nerede olduğunu gösteren şekil
+için, bkz. Şekil 23 sayfa 394.
+
+306

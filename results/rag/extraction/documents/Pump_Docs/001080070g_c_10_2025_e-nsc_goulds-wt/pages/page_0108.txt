@@ -1,0 +1,171 @@
+no - Oversettelse av opprinnelige instruksjoner
+
+Pumpetype
+Beskyttelse
+
+Installer enheten på en sokkel i betong eller metall
+som er tilstrekkelig sterk til å sikre permanent og stiv
+støtte. Følg kravene i Pumpeplassering på side 102.
+
+Trefaset elektrisk pum‐
+pe18
+– Vern mot varme
+
+Installasjon på betongfundament
+
+(må leveres av in‐
+stallatøren)
+– Vern mot kortslut‐
+
+Fundamentkrav
+
+ning (må leveres av
+installatøren)
+
+• Kontrollpanelet må være utstyrt med et tørrkjø‐
+rings-vernesystem med tilkoplet trykkbryter, flot‐
+tørbryter, prober eller annet egnet innretning.
+• Følgende enheter anbefales brukt på pumpens
+sugedel:
+
+– Bruk en trykkbryter når væske pumpes fra et
+
+vannsystem.
+– Bruk en flottørbryter eller flottørprober når væ‐
+
+ske pumpes fra en lagertank eller beholder.
+• Når varmereléer brukes, anbefales reléer som er
+sensitive når det gjelder fasesvikt.
+
+• Betongen må ha en kompresjonsmotstand på
+C12/15 og oppfylle kravene til eksponeringsklas‐
+se XC1 i henhold til EN 206-1
+• Størrelsene må passe til størrelsene på enhetens
+støtteplate
+• Fundamentvekten må være ≥ 1,5 ganger enhets‐
+vekten (≥ 5 ganger vekten av enheten hvis en
+stillere drift kreves)
+• Overflaten skal være så flat og jevn som mulig
+• Skråningen må være ≤ 1 mm/m.
+Ytterligere instruksjoner finnes i dokument nr.
+001080247X: for å laste den ned, skann QR-koden
+som finnes i Figur 17 på side 384.
+
+Sjekkliste i forbindelse med motoren
+
+Feste pumpen
+
+ADVARSEL:
+
+Se Figur 15 på side 383 for å finne eksempler på
+horisontale og vertikale monteringer.
+
+NO
+
+1. Se den tekniske katalogen for:
+– Diameter og antall fundamenthull
+– Hullavstander
+– Beregner størrelsen og mengden av strekk‐
+
+• Les bruksanvisningene for å være sik‐
+ker på at det finnes en verneinnret‐
+ning dersom annet enn en standard
+pumpe brukes.
+• Hvis motoren er utstyrt med automa‐
+tiske termobrytere, må du være klar
+over at den kan starte uforvarende i
+forbindelse med overbelastning. Ikke
+bruk slike motor ved brannslukning.
+
+MERK:
+
+• Bruk bare dynamisk balanserte motorer med en
+nøkkel i halv størrelse i akselforlengelsen (IEC
+60034-14) og med normal vibrasjonsgrad (N).
+• Nettspenningen og -frekvensen må være i sam‐
+svar med spesifikasjonene på dataskiltet.
+
+Generelt kan motorer brukes under følgende nett‐
+spenningstoleranser:
+
+Frekvens Hz
+Fase ~
+UN [V] ± %
+
+50
+1
+220 – 240 ± 6
+
+3
+230/400 ± 10
+
+stengene med kjemiske ankre, avhengig av
+enhetens modell.
+2. Bor fundamentet, og fest strekkstengene.
+3. Plasser enheten på fundamentet og bruk et vater
+på utløpsåpningen og akselen for å sikre at den
+er i vater.
+Maksimalt tillatt toleranse: 0,2 mm/m.
+4. Fjern pluggene som dekker suge- og utløpsporte‐
+ne hvis de finnes.
+5. Innrett suge- og utløpsportene med rørene.
+6. Fest rørsystemet til enheten. Se også Sjekkliste
+rørsystem på side 105.
+7. Sett om nødvendig inn nivelleringsmellomlegg
+mellom fundamentet og basen: Hvis avstanden
+mellom strekkstengene er > 800 mm, setter du
+inn to ekstra mellomlegg midt på basen. Alle mel‐
+lomlegg må være helt i flukt. Se Figur 17 på side
+384.
+8. Trekk til låsestagmutrene jevnt og helt, og sørg
+for at momentene er som angitt i tabellen.
+
+400/690 ± 10
+
+Mutter
+Moment, Nm (lbf·in)
+
+60
+1
+220 – 230 ± 6
+
+M12
+60 (44)
+
+3
+220/380 ± 5
+
+M16
+120 (89)
+
+380/660 ± 10
+
+M20
+200 (148)
+
+M24
+350 (258)
+
+M27
+530 (391)
+
+Bruk kabel iht. reglene med 3 ledninger (2+jording)
+ved enkeltfaseutgaver og med 4 ledninger (3+jor‐
+ding) ved trefasede utgaver.
+
+4.3  Installer pumpen
+
+Merk:
+
+4.3.1  Mekanisk montering
+
+• Ved sokkelplater anbefales det at sokkelplaten
+støpes inn med betong med liten svinn.
+
+Installasjonsområde
+
+18
+termisk relé med utløserklasse 10A + sikringer aM (motorstart) eller magnettermisk bryter med motor‐
+vern med startklasse 10A.
+
+104

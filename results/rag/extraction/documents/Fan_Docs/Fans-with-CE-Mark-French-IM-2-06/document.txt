@@ -1,0 +1,4450 @@
+=== PDF page 1 of 16 | native ===
+
+MANUEL D’INSTALLATION, D’UTILISATION ET D’ENTRETIEN
+
+Ventilateurs avec marquage CE IM-2-06
+
+Date de publ.: 3-23-22
+
+Sommaire
+
+Introduction .....................................................................................1 
+Protection personnelle ...................................................................1 
+Matériaux dangereux ......................................................................1 
+Installation
+
+Protection personnelle 
+Pour des raisons de sécurité, le personnel de maintenance doit 
+s’équiper de protection personnelle lors de la maintenance des 
+ventilateurs. Il est conseillé aux personnes portant les cheveux 
+longs de les refouler, possiblement sous une casquette.
+ 
+L’équipement de protection personnelle devrait inclure les 
+articles suivants:
+
+•
+Lunettes de sécurité approuvées par les autorités de
+sûreté locales
+
+Expédition et réception ............................................................1 
+Manutention ...............................................................................2 
+Stockage de la machine..........................................................2
+Bases et Structures de Support
+
+•
+Chaussures de protection avec embout acier et semelle
+résistante à l’huile
+
+•
+Gants lourds résistants à la coupure et à l’exposition aux
+produits chimiques. Ceci est particulièrement important
+lorsque des résidus dangereux sont présents dans les
+ventilateurs.
+
+•
+Appareil de respiration si des gaz ou vapeurs toxiques
+présentes sont escomptées.
+
+•
+Porter des vêtements étroits
+
+- Ventilateurs industriels ......................................................2 
+Installation du ventilateur – Unités Assemblées en Usine .............3 
+Installation du ventilateur- Unités non Assemblées ..............4 
+Installation du palier .................................................................5
+Cimentage ..................................................................................8 
+Assemblage du mécanisme d’entraînement ...........................8 
+Couplages flexibles ...................................................................8 
+Raccords de Conduits .............................................................8 
+Garde-fous et carters de protection ......................................8 
+Alimentation et contrôles électriques ......................................9 
+Maintenance
+
+Ne pas porter:
+•
+Anneaux
+•
+Bracelets
+•
+Colliers
+•
+Vêtements amples
+
+Maintenance du moteur ...........................................................9
+Maintenance du mécanisme d’Entraînement .......................10
+Maintenance du palier ............................................................1 0 
+Maintenance de la Roue et de l’Arbre ................................1 0 
+Maintenance Structurelle ........................................................1 0 
+Utilisation du Ventilateur
+
+Le personnel de maintenance est responsable de s’assurer que 
+l’éclairage est suffisant pour le travail qui doit être effectué. Un 
+éclairage portable additionnel peut s’avérer nécessaire puisqu’il n’y 
+a pas d’équipement d’éclairage fourni avec le ventilateur.
+
+Usage et Application corrects ...............................................10
+Bruit ..........................................................................................11
+Liste de contrôle d’exploitation .............................................12
+Accessoires en Option ...........................................................12
+Instructions de dépannage ....................................................12
+Recyclage ................................................................................13
+Annexe A – Installation de Ventilateur Commercial
+
+Instructions ..............................................................................13
+Annexe B - Ventilateurs Axiaux .................................................14
+
+Introduction
+
+Matériaux dangereux
+Twin City Fan Companies, Ltd. N’est pas toujours informé des 
+matériaux qui peuvent être traités par un ventilateur et ne peut 
+conséquemment pas avertir l ‘utilisateur des dangers associés. 
+Par suite, l’utilisateur final doit identifier les matériaux dangereux 
+présents et les indiquer sur le ventilateur avec un autocollant 
+d’avertissement. S’il y a des risques de matériaux dangereux 
+se déposant dans un ventilateur par suite d’accumulation sous 
+forme de dépôt du matériau procédé, tout le personnel de 
+maintenance et d’opération doit être formé pour manipuler de 
+tels risques avant d’accéder au ventilateur.
+ 
+Les lubrifiants utilisés sur les pièces de ventilateur peuvent 
+être dangereux s’ils entrent en contact avec les yeux ou sont 
+consommés.
+ 
+Pour des pratiques de sécurité générales supplémentaires 
+pour les équipements de circulation d’air, voyez le Bulletin 410 
+de l’AMCA.
+
+Installation
+Expédition et réception
+Tous le produits de Twin City Fan Companies, Ltd. Sont con-
+struits et inspectés avec soin avant d’être expédiés afin de 
+garantir les plus hauts standards de qualité et de performance. 
+Comparez tous les éléments avec le connaissement ou le bor-
+dereau d’envoi afin de vérifier que vous avez reçu l’unité adé-
+quate. Vérifiez chacune des pièces pour identifier d’éventuels 
+dommages survenus en cours de transport. Tout dommage doit 
+être immédiatement signalé au transporteur et un rapport de 
+dommage doit obligatoirement être rempli.
+
+Ce bulletin a été préparé pour guider les opérateurs de ventila-
+teurs dans l’installation, l’utilisation et les procédures de main-
+tenance correctes, afin d’assurer une durée de vie maximale 
+de l’équipement et une utilisation sans problèmes. Le person-
+nel utilisant ou maintenant cet équipement doit être formé aux 
+procédures correctes pour accomplir ces tâches.
+ 
+Comme beaucoup de ventilateurs de ce type présentent 
+des caractéristiques et des pièces spécifiques, référez-vous à 
+la documentation jointe et aux annexes pour information sup-
+plémentaire. Lorsque les fabricants de pièces procurent des 
+manuels d’installation et d’utilisation détaillés, ceux-ci seront 
+fournis. Du à la large variété des équipements couverts dans 
+ce bulletin, les instructions figurant ici revêtent un caractère 
+général.
+ 
+Pour une installation, un démarrage et une vie opérationnelle 
+sécuritaire de cet équipement, il est important que tout le per-
+sonnel impliqué avec celui-ci soit familiarisé avec les méthodes 
+de sécurité et lise ce bulletin. Consultez la section sécurité 
+avant de commencer tout travail. L’usager a la responsabilité 
+de s’assurer que toutes les conditions de sécurité et tous 
+les codes de sécurité applicables soient strictement observés. 
+L’utilisation et la maintenance de cet équipement doivent être 
+faites exclusivement par un personnel adéquatement formé.
+
+Manutention
+La manutention de tout équipement à circulation d’air doit être 
+effectuée par du personnel formé et se plier aux pratiques de
+
+©2006 - 2022 Twin City Fan Companies, Ltd.
+
+
+
+=== PDF page 2 of 16 | native ===
+
+Stockage de la machine
+Si l’installation du ventilateur doit être retardée, stocker la 
+machine dans une zone protégée et dans un environnement 
+stable. Les pointes de vibrations ne doivent pas excéder 0,051 
+mm – pointe de déplacement à l’emplacement de stockage, 
+à moins que le ventilateur ne soit proprement isolé des vibra-
+tions. L’unité doit être raisonnablement protégée de tout impact 
+accidentel. Couvrir le ventilateur pour protéger son revêtement 
+et pour prévenir l’entrée de matières étrangères dans les brides 
+d’admission et d’évacuation. S’assurer que le moteur, mécan-
+isme d’entraînement et les paliers soient protégés. Les précau-
+tions suivantes doivent être prises lors d’un stockage prolongé 
+pour s’assurer que l’équipement ne subira pas de dommages:
+
+•
+Un stockage de longue durée requiert des inspections
+mensuelles. Vérifiez qu’il n’y a pas de signes de corro-
+sion sur la machine et qu’elle ne soit pas endommagée,
+et qu’il n’y ait aucun débris dans le ventilateur.
+
+manutention sécurisées. Vérifier la capacité de levage et l’état 
+de fonctionnement de l’équipement de manutention. Maintenir 
+les équipements de manutention afin d’éviter les accidents de 
+personnes graves.
+ 
+Sur la plupart des unités, de taquets de levage sont constru-
+its pour protéger le ventilateur et son cadre. Fixer l’équipement 
+de levage à tous les taquets de levage fournis pour éviter 
+qu’il ne devienne instable lors de son déplacement. Les unités 
+livrées complètement assemblées peuvent être levées avec des 
+élingues ou des barres de préhension. (Employer des chaînes 
+proprement garnies, des câbles ou des courroies en nylon.) 
+Ne jamais soulever un ventilateur par la bride d’admission 
+ou d’évacuation, les arbres de transmissions, les mécanismes 
+d’entraînement, le tourniquet ou la roue, le moteur ou sa base, 
+ou de toute autre manière pouvant tordre ou déformer les 
+pièces. Ne jamais le lever par des élingues ou des madriers 
+passés à travers les brides d’admission du ventilateur.
+Les unités non-assemblées demandent une manutention spéciale.
+
+Figure 1. Section de fondation typique
+
+Taquets de levage
+
+•
+Les paliers ont tendance à retenir l’humidité quand ils
+ne sont pas entreposés dans un milieu à température
+constante. Pour éviter la corrosion, il est nécessaire de
+garder les paliers remplis de graisse et de les tourner
+périodiquement. Même emplis de graisse, les paliers vont
+retenir de l’humidité, et il est par conséquent nécessaire
+de les purger tous les trente jours avec de la graisse
+fraîche pour éliminer l’humidité. Il est recommandé de
+purger les paliers avec de la graisse fraîche tout en
+les tournant manuellement. Ne pas utiliser de graisseurs
+haute pression, ils peuvent détruire les joints de paliers.
+
+Taquets de
+
+levage
+
+•
+Les mécanismes d’entraînement et les courroies doivent
+être enlevés si le ventilateur doit être stocké pour une
+longue période. Les mécanismes d’entraînement doivent
+porter la mention ‘pour service’ et stockés dans un
+endroit sec. Les courroies doivent être enlevées, roulés
+sans cassures, placées dans un carton solide, et stockés
+dans un endroit sec et bien ventilé. Pour prévenir toute
+détérioration, les conditions de stockage des courroies ne
+devraient pas excéder 85F (29,5 C) et 70% d’humidité. Si
+les courroies montrent des signes de détérioration, elles
+doivent être remplacées avant la mise en service.
+
+•
+Les moteurs doivent être stockés dans un endroit pro-
+pre, sec, et à l’abri des vibrations. L’emballage doit être
+ouvert suffisamment pour permettre à l’air de circuler
+autour du moteur. La température du bobinage doit être
+gardée légèrement supérieure à celle des conditions
+environnantes pour éviter la condensation. Ceci peut
+être achevé en alimentant les dispositifs de chauffage
+interne, si le moteur en est équipé ou par l’utilisation de
+chauffages d’appoint. S’il n’est pas possible de chauffer
+le bobinage, le moteur doit être bien emballé dans un
+matériel imperméable contenant quelques sacs de dessi-
+catif. Remplacer le dessicatif régulièrement pour éviter les
+problèmes d’humidité. Le rotor du moteur doit aussi être
+tourné de façon régulière (mensuellement) pour assurer
+que les pièces des roulements sont bien graissées.
+
+Toutes les pièces doivent être manipulées de manière à protéger 
+le revêtement et les pièces de dommages éventuels. Les pièces 
+doivent être manipulées de telle façon que les forces ne soient 
+pas concentrées pour éviter toute déformation ou distorsion.
+ 
+Le cadre doit être levé au moyen de courroies ou de barres 
+de préhension. Ne pas déformer le cadre ou les plaques laté-
+rales pendant le levage.
+ 
+Les socles de palier doivent être soulevés avec des cour-
+roies ou des chaînes garnies. Un socle de palier joint ou séparé 
+ne doit jamais être soulevé par son arbre, par les paliers, par 
+l’entraînement, le moteur ou la roue motrice.
+ 
+L’ensemble arbre et roue peut être soulevé avec un éléva-
+teur et une barre de préhension munie d’une élingue autour de 
+l’arbre aux points les plus proches de la roue. Utiliser la barre 
+de préhension pour assurer que les élingues ne pressent pas 
+les côtés de la roue, ce qui pourrait la fausser. Veillez à ne pas 
+rayer l’arbre aux endroits où la roue et les paliers seront montés. 
+Ne jamais soulever ou supporter l’ensemble par la roue. Toujours 
+supporter l’ensemble par l’arbre lorsqu’il est soulevé ou stocké. 
+Ne pas supporter l’arbre ou la roue du côté du cadre.
+ 
+Les roues expédiées séparément peuvent être soulevées 
+par des élingues passant entre les pales ou autour du moyeu. 
+Ne jamais soulever la roue par ses pales ou par ses brides. 
+Toujours transporter les roues en les soulevant. Ne pas faire 
+rouler les roues ; ceci peut endommager leur revêtement et 
+modifier leur équilibre.
+ 
+Une distorsion de l’arbre est une source de vibrations et 
+de défaillance du palier et par conséquent l’arbre doit être 
+manipulé avec précaution Toute rayure de l’arbre peut être 
+réparée ave une toile émeri fine ou une pierre.
+ 
+Pour les ventilateurs de toit, voir aussi les instructions 
+spécifiques pour la manipulation de ventilateurs de toit dans 
+l’Annexe A.
+ 
+Des goupilles pour maintenir l’isolation du cadre sont fournies 
+pour certains modèles de ventilateurs haute température. Soyez 
+prudent lors de la manutention et lors de travail autour des ventila-
+teurs qui ont de ces goupilles d’isolation, qui sont très pointues.
+
+Bases et Structures de Support
+— Ventilateurs industriels
+La meilleure méthode de monter un ventilateur sur le sol est 
+sur une fondation de béton plate, plane, et bien conçue. La 
+masse de la fondation doit être au moins trois fois celle de 
+l’assemblage supporté. La fondation doit s’étendre 150 mm 
+au-delà des dimensions externes du ventilateur et du mécan-
+isme d’entraînement ; cependant, elle ne doit pas être plus 
+du double de la surface requise par l’équipement. Si elle est 
+plus grande, la masse doit alors être accrue en conséquence 
+pour résister à un balancement dû aux vibrations. Des boulons 
+d’ancrage de type « L » et « T » d’une taille plus petite que 
+la dimension nominale du trou de la base doivent être utilisés. 
+Les boulons d’ancrage doivent être liés aux barres d’armature 
+de la fondation Un manchon d’un diamètre de deux à deux fois 
+et demi le diamètre du boulon d’ancrage doit être placé autour 
+du boulon d’ancrage pour permettre les réglages finaux (voir 
+Figure 2). La surface de montage de la fondation doit être lisse 
+pour avoir un bon contact statique. Lors de la décision relative 
+à l’épaisseur des fondations, approximativement 25 à 40 mm 
+d’épaisseur doivent être prévus pour ajustements, cimentage, 
+mise à niveau, rondelles, écrous, etc.
+
+2
+
+IM-2-06
+
+
+
+=== PDF page 3 of 16 | native ===
+
+3.
+Si une isolation contre les vibrations est utilisée, placer
+cette isolation sur les boulons de montage. Aligner les
+trous de la base du ventilateur comme indiqué sur le plan
+de fondations du dessin soumis au client.
+
+Le dessin du plan de fondations faisant partie de l’offre au 
+client indique la taille hors-tout du montage et l’emplacement 
+des ventilateurs.
+	
+Si une base d’acier ou une plate-forme est utilisée, la struc­
+ture doit être conçue pour le poids du ventilateur, les charges 
+mobiles imposées par la rotation de l’arbre et de l’actionneur, 
+et toute charge mobile externe. La structure doit être conçue 
+pour assurer qu’aucune fréquence naturelle ne se produise dans 
+les 30% de la vitesse du ventilateur. Ceci est particulièrement 
+valide si la structure doit supporter plus d’un ventilateur.
+
+Tous les conduits doivent posséder un support indépendant.
+
+Figure 2. Section de fondation typique
+
+4.
+Consulter tous les dessins spécifiques à la soumission
+du ventilateur pour une installation, un positionnement et
+un montage corrects. Placer le ventilateur sur la structure
+de montage. Niveler l’unité avec soin (vérifier que l’arbre
+est de niveau) sur la fondation et caler comme néces­
+saire utilisant des cales en acier inoxydable des deux
+côtés de chaque boulon d’ancrage. Les boulons d’ancrage
+doivent être pré-serrés selon le Tableau 1. Pour des bou­
+lons métriques ou tout autre matériel non inclus dans le
+Tableau 1, vérifier le couple de serrage correct avec le
+fabricant de boulons. (voir détails spécifiques aux ventila­
+teurs commerciaux dans l’Annexe A pour cette étape).
+
+5.
+Vérifier l’alignement des paliers. Caler ou repositionner les
+paliers si nécessaire. Dans bien des roulements à rouleaux à
+boîtiers séparables, l’espace entre le porte-joint et le boîtier
+peut être mesuré avec un calibre à lames. La variation de
+cet espace doit être moins de la moitié de l’espace maxi­
+mum mesuré. Dans le cas des roulements à rouleaux pour
+lesquels cet espace n’est pas visible, l’alignement peut être
+vérifié en s’assurant que le roulement est d’équerre avec
+le dessus du socle. Dans le cas des roulements à billes,
+la bague externe pivote dans le boîtier pour accommoder
+un léger désalignement. Vérifier que les vis de fixation du
+roulement, les boulons de boîtier, et les bagues sont serrés
+selon les Tableaux 2a, 2b et 2c.
+
+NOTES:
+¿
+Moule temporaire pour le cimentage.
+¡
+Écrous hex, rondelle d’arrêt à bague fendue, et rondelles plates ou biaises.
+¬
+1" to 1.5" de jeu pour cimentage à remplir avec enduit de jointement
+pour machines irrétrécissable.
+√
+Manchon de boulon d’un diamètre 2 à 2,5 fois celui du boulon pour
+corriger les erreurs d’alignement.
+ƒ	
+S’assurer que les manchons des boulons d’ancrage sont remplis d’enduit 
+de jointement.
+≈
+Les boulons de type L doivent être fixés sur les barres d’armature des
+fondations.
+≤
+La surface de calage doit être lisse, plane, et dressée si nécessaire.
+«
+Cales d’acier inoxydable toute largeur.
+»
+Angle de support du ventilateur ou base d’acier.
+…	
+Les boulons de nivellement, s’ils sont utilisés, doivent être relâchés après
+calage pour un serrage final des écrous hex.
+
+6.
+Vérifier l’alignement des poulies pour les ventilateurs à cour­
+roies. L’alignement parallèle doit être dans une tolérance de
+5mm par mètre de la distance au centre. Le désalignement
+angulaire doit être moins de 1 degré. Vérifier et noter la
+tension des courroies pour s’assurer qu’elle est suffisante.
+La tension de courroie correcte est indiquée sur la fiche
+technique jointe. Si la tension de la courroie doit être ajus­
+tée, les instructions pour tendre la courroie sont données
+dans la section Mécanisme d’Entraînement de ce manuel.
+Les poulies des ventilateurs entraînés par courroies sont
+souvent fournies avec des manchons coniques fendus. Lors
+du serrage des boulons du manchon, procéder de manière
+progressive pour éviter de biaiser la surface effilée entre le
+manchon et la poulie. Les spécifications pour la torque des
+boulons à manchons sont données dans le Tableau 3.
+
+7.
+Vérifier l’alignement des accouplements montés en usines,
+ils sont sujets à se fausser durant le transport. Réaligner si
+nécessaire selon les instructions jointes à l’expédition. NOTE:
+La plupart des accouplements doivent être lubrifiés.
+
+8.
+S’assurer qu’il n’y a pas de frottement ou de gêne et que les
+espaces ou chevauchements entre le cône d’entrée de et la
+roue et le cadre sont corrects. Les valeurs de chevauchement
+ou autres dimensions pour vérifier que la roue est dans une
+position correcte sont incluses dans les spécifications particu­
+lières au ventilateur. Le jeu de la roue doit être vérifié afin
+de correspondre à la valeur spécifiée et doit être uniforme.
+Les valeurs mesurées doivent être notées.
+
+9.
+Vérifier le serrage de la roue sur l’arbre selon le Tableau
+4. Le couple de serrage mesuré doit être noté.
+
+10.
+Vérifier le serrage des boulons de fondation, des boulons
+de montage du moteur, et les boulons de montage des
+roulements selon le Tableau 1. Pour les boulons ou grades
+métriques non spécifié dans le Tableau 1, vérifier la valeur
+de couple de serrage correcte avec le fabricant du boulon.
+
+Ne pas utiliser le ventilateur pour soutenir des conduites. Le 
+cadre du ventilateur peut être conçu pour supporter des charges 
+externes. Consulter l’usine si ceci est une préoccupation. Le 
+fait d’isoler le ventilateur des conduits de distribution avec des 
+raccords flexibles élimine la transmission des vibrations. Les 
+ventilateurs traitant des gaz chauds requièrent des raccords de 
+dilatation à l’admission et à l’évacuation afin d’empêcher les 
+charges excessives dues à la montée en température. Voir la 
+publication AMCA 201 pour de bonnes pratiques concernant la 
+géométrie et la configuration de conduits de distribution. Quand 
+cela est possible, les conduits de distribution seront placés où il 
+y a le mois de risques pour le personnel de trébucher, marcher 
+ou tomber sur les conduits de distribution. Si cela n’est pas 
+possible, des avertissements doivent identifier ce risque.
+	
+Voir l’appendice A Instructions d’installation de ventilateurs 
+commerciaux pour les détails de fondations des ventilateurs 
+commerciaux.
+	
+Les ventilateurs ne doivent pas être installés au-dessous 
+d’autres machines où il y a risque de liquides nuisibles tombant 
+sur les ventilateurs de par en haut.
+	
+Les ventilateurs doivent être installés dans une location facile­
+ment accessible au personnel de maintenance, de telle façon que 
+ce personnel n’ait pas à se voûter ou à ramper pour les accéder.
+
+11.
+S’assurer que les roulements sont lubrifiés et vérifier
+le niveau d’huile dans les systèmes de lubrification par
+barbotage (si fourni).
+
+12.
+Installer tous les accessoires envoyés non montés de l’usine.
+
+Installation du ventilateur – Unités Assemblées en Usine
+Instructions générales pour ventilateurs centrifuges industriels- Pour 
+les ventilateurs axiaux et les ventilateurs commerciaux, suivre les 
+étapes ci-dessous tout en prêtant attention aux instructions spéci­
+fiques à ces types de ventilateurs dans les Annexes A et B.
+Suivre les instructions de manutention correctes comme 
+décrites précédemment.
+
+1.
+Placer le ventilateur dans sa position de montage finale.
+
+Installation du ventilateur- Unités non Assemblées
+Instructions générales pour ventilateurs centrifuges industriels- Pour 
+les ventilateurs axiaux(y compris les dispositions de montage pour 
+ventilateurs commerciaux en ligne), suivre les instructions de mon­
+tage de ventilateurs ci-dessus et utiliser l’Annexe B pour les détails 
+d’assemblage.
+	
+Une machine est considérée non assemblée si un quelconque 
+élément nécessaire à son fonctionnement est expédié ou fourni
+
+2.
+Enlever le traîneau, les caisses et le mat riel d’emballage
+avec soin.
+
+IM-2-06
+
+
+
+=== PDF page 4 of 16 | native ===
+
+a. Les pièces des équipements DWDI sont assemblées
+
+séparément ou en pièces détachées. Voir les instructions don­
+nées précédemment concernant la manutention correcte des 
+éléments de ventilateur. L’assemblage doit seulement être fait 
+par un personnel formé et familier avec l’assemblage de ce type 
+d’équipement.
+
+1.
+Placer la partie inférieure du cadre à l’emplacement où il
+doit être monté (cadres partagés).
+
+dans l’ordre suivant, vues de côté opposé au mécan­
+isme d’entraînement. Assemblage de la barre de palier
+et du palier opposé, cône (côté cadre), roue, (côté
+cadre), cône, assemblage de la barre de palier côté
+mécanisme d’entraînement, palier d’entraînement et
+poulies. Monter l’assemblage de la barre de palier au
+cadre. Centrer la roue dans les cônes.
+
+b. Les pièces des équipements DWDI sont assemblées
+
+2.
+Enlever le traîneau, les caisses et le matériel d’emballage avec
+soin.
+
+3.
+Si une isolation contre les vibrations est utilisée, placer
+cette isolation sur les boulons de montage. Aligner les
+trous de la base avec les boulons.
+
+dans l’ordre suivant, vues de côté opposé au mécanisme
+d’entraînement. Assemblage de la barre de palier et du
+palier opposé, cône (côté cadre), roue, (côté cadre),
+assemblage de la barre de palier côté mécanisme
+d’entraînement, palier d’entraînement et poulies. Monter
+l’assemblage de la barre de palier au cadre.
+
+c. Assembler les pièces sur l’arbre dans l’ordre ci-dessus.
+
+4.
+Placer le cadre inférieur sur la structure de montage.
+Niveler l’unité avec soin sur la fondation et caler comme
+nécessaire utilisant des cales en acier inoxydable des deux
+côtés de chaque boulon d’ancrage.
+
+Figure 3. Assemblage des Éléments de l’entraînement
+
+5.
+Si le(s) socle(s) de palier est/sont séparé, installer le(s)
+maintenant.
+
+a. Installer le(s) socle(s) de palier dans sa/leur position de
+
+montage.
+
+b. Installer la base de vibration, si applicable. Fixer le(s)
+
+socle sur le(s) boulon(s).
+
+c. Ne pas déformer le socle de palier en le forçant à
+
+s’aligner sur une fondation inégale. Calez-le si néces­
+saire.
+
+d. Vérifier la hauteur de l’axe de palier. Ajuster cette hau­
+
+d. Placer l’assemblage en position. Boulonner légèrement
+
+les paliers en position.
+
+teur pour qu’elle corresponde avec celle de l’axe du
+cadre. Les machines haute température doivent avoir
+leur axe de cadre plus basse quand elles sont froides
+afin qu’il soit centré lorsqu’elles sont chaudes.
+
+e. L’arbre doit être parallèle à l’évacuation du cadre.
+
+e. Placer le socle de palier d’équerre avec le cadre en
+
+Déplacer les paliers pour les ajuster. Suivre les instruc­
+tions pour alignement de palier selon l’étape 5 de la
+section Unités assemblées en usine ci-dessus.
+
+utilisant des mensurations précises ou une équerre de
+grande taille.
+
+f.
+Boulonner le socle en position.
+
+f.
+Mettre l’arbre à niveau, caler les paliers si nécessaire.
+Serrer les vis sans tête des paliers.
+
+6.
+Si la roue et l’arbre ont été expédié séparément, vous
+devez maintenant installer l’arbre dans la roue.
+
+9.
+Installer le moteur sur sa base. Aligner soigneusement les
+arbres pour l’installation de l’entraînement.
+
+a. Utiliser d’abord un solvant pour enlever l’enduit protect­
+
+10.
+Monter les entraînements comme suit:
+
+a. Faire glisser (ne pas marteler) la poulie adéquate
+
+eur de l’arbre. Inspecter toutes les surfaces pour corro­
+sion ou éraflures et le nettoyer avec une toile émeri ou
+une pierre si nécessaire, Après avoir nettoyé l ; arbre
+consciencieusement avec un solvant, ne plus le toucher
+à mains nues; la transpiration peut causer de la rouille
+ou de la corrosion avec le temps.
+
+sur l’arbre correspondant. ATTENTION: PLACER LA
+POULIE DE VENTILATEUR SUR LE MOTEUR PEUT
+FAIRE TOURNER LA ROUE A GRANDE VITESSE ET
+PROVOQUER UNE DÉFAILLANCE STRUCTURELLE.
+
+b. Ôter les clavettes de l’arbre.
+
+b. Aligner les poulies avec une règle de précision étendue
+
+c. Nettoyer l’intérieur de l’orifice de la roue avec un solvant.
+
+S’assurer que les vis sans tête ne vont pas interférer
+lors de l’insertion de l’arbre dans l’orifice de la roue.
+
+le long du périmètre des deux poulies, en la faisant
+juste toucher le périmètre externe de chaque poulie
+(voir figure 5). L’alignement parallèle doit être moins de
+5mm par mètre de la distance au centre. Le désaligne­
+ment angulaire doit être moins de 1 degré.
+
+7.
+Montage 1, 9 ou 10: Assemblage de l’Élément
+d’Entrainement:
+
+c. Serrer les boulons de poulies.
+
+a. Insérer l’arbre dans la roue par l’arrière de la roue
+
+d. Installer un jeu de courroies. Ajuster la tension des
+
+(Fig. 3).
+
+courroies comme indiqué dans la section Montage du
+
+b. Lorsque l’arbre est aligné avec le moyeu de la roue,
+
+Figure 4. Assemblage des Éléments de cadre séparé.
+
+placer la clavette dans son logement et serrer les vis
+sans tête (pour les moyeux avec trous droits), ou, pour
+les moyeux à manchons, serrer progressivement les
+boulons de manchons selon le Tableau 3. Noter les
+valeurs de couple de serrage mesurées.
+
+Côtés cadre
+
+c. Insérer l’arbre dans l’ouverture du mécanisme d’entraînement.
+
+Cheminée d’admission
+
+Roue
+
+(Dans le cas d’un cadre séparé, baisser en position.)
+
+Palier
+
+Poulie
+
+d. Installer les paliers sur l’arbre. Ne pas serrer les vis de
+
+Palier Arbre,
+Cône, et  Cadre
+Assemblés Angles 
+du bâti non représentés.
+
+Axe central
+
+de l’arbre
+
+paliers maintenant. Le cadre du palier doit être perpen­
+diculaire et le socle de palier parallèle à l’axe de l’arbre
+pour éviter les charges dues à un mauvais alignement.
+
+Socle du
+
+palier
+
+e. Monter l’ensemble, et boulonner les paliers sur le
+
+support du mécanisme d’entraînement. L’arbre doit être
+parallèle au côté du socle de palier.
+
+système d’entraînement, étape 3.
+
+8.
+Montage 3 (cadre séparé) (voir Figure 4):
+
+e. Tendre les courroies à la tension correcte. Noter la
+
+4
+
+IM-2-06
+
+
+
+=== PDF page 5 of 16 | native ===
+
+intallations d’instruction du fabricant. Lorsque les paliers doivent 
+être installés sur place, suivre les instrcutions du fabricant soi­
+gneusement pour l’installation des paliers.
+
+tension de courroie utilisée. Voir la section Montage du 
+système d’entraînement pour les instructions de tension. 
+La tension de courroie correcte est indiquée sur la fiche 
+technique jointe au ventilateur.
+
+Figure 5.
+Alignement de la poulie
+
+Cimentage
+Couler le ciment est l’étape d’installation finale. Vérifier toutes 
+les cales avant de cimenter pour s’assurer que le ventilateur 
+repose de façon égale sur tous les points avec des boulons 
+d’ancrage qui retiennent les cales. Utiliser des moules offrant 
+une place suffisante pour travailler le ciment. La fondation de 
+béton doit être propre et bien humidifiée avant que le ciment 
+ne soit coulé. Utiliser une qualité de ciment commercial irré­
+trécissable et assurez-vous particulièrement lors du cimentage 
+que les manchons de boulons d’ancrage soient remplis. Voir la 
+Figure 2 pour les détails de fondation correcte, provision pour 
+le ciment et les manchons de boulons d’ancrage.
+
+11.
+Les ventilateurs expédiés d’usine avec les moteurs et
+systèmes d’entraînement déjà montés sont balancés avant
+expédition. Ceci n’est pas possible 
+pour les unités expédiées sans leur 
+moteur et système d’entraînement.
+L’ajout d’éléments sur le terrain peur
+créer des forces de déséquilibrage.
+Twin City Companies, Ltd. recom­
+mande un équilibrage final de l’unité
+après l’installation des éléments
+d’entraînement. Tout manquement
+annule la garantie de Twin City Fan
+Companies, Ltd.
+
+12.
+Répéter les contrôles d’installation indi­
+qués pour les unités assemblées en
+usine pour garantir un alignement et un
+serrage corrects de tous les éléments.
+
+Assemblage du mécanisme d’entraînement
+Monter les entraînements comme suit:
+1. Faire glisser (ne pas marteler) la poulie adéquate sur l’arbre
+correspondant. ATTENTION: Placer la poulie de ventilateur
+sur le moteur peut faire tourner la roue à grande vitesse et
+provoquer une défaillance structurelle.
+
+Installation des paliers
+Les paliers ne doivent être istallés sur 
+place que s’ils sont accompagnés des
+
+2. Aligner les poulies avec une règle de précision étendue le
+long des poulies (voir Fig. 5), touchant juste en deux places
+le périmètre extérieur des deux poulies. Cet alignement à
+Table 1. Couple de serrage des boulons
+
+Taille
+Grade 2
+Grade 5
+Grade 8
+Aluminium
+Acier inoxydable
+
+(Ft - lbs)
+(N - m)
+(Ft - lbs)
+(N - m)
+(Ft - lbs)
+(N - m)
+(Ft - lbs)
+(N - m)
+(Ft - lbs)
+(N - m)
+
+1/4 - 20
+5.5
+7.5
+8
+10.8
+12
+16.3
+3.8
+5.2
+6.3
+8.5
+
+5/16 - 18
+11
+15
+17
+23
+25
+34
+6.7
+9.1
+11
+15
+
+3/8 - 16
+22
+30
+30
+41
+45
+61
+11.9
+16
+19
+26
+
+7/16 - 14
+30
+41
+50
+68
+70
+95
+19
+26
+31
+42
+
+1/2 - 13
+55
+75
+75
+102
+110
+149
+26
+35
+43
+58
+
+5/8 - 11
+100
+136
+150
+203
+220
+298
+59
+80
+92
+125
+
+3/4 - 10
+170
+230
+270
+366
+380
+515
+81
+110
+128
+174
+
+7/8 - 9
+165
+224
+430
+583
+600
+813
+125
+169
+194
+263
+
+1 - 8
+250
+339
+645
+874
+900
+1220
+184
+249
+287
+389
+
+1 1/4 - 7
+500
+678
+1120
+1518
+1500
+2034
+336
+456
+523
+709
+
+Table 2 a. Couple de serrage des couvercles de paliers (voir page 6)
+
+Table 2 b. Couple de serrage des vis sans tête métriques
+
+Arbres métriques
+TAILLE DE VIS SANS TÊTE
+TAILLE DU COLLIER DE VERROUILLAGE DE LA VIS
+
+Fabricant
+BRG ID
+Unité
+M5
+M6
+M8
+M10
+M12
+M4
+M5
+M6
+M8
+
+Dodge
+S2000
+N-m
+-
+-
+17.8
+35
+57
+-
+-
+-
+-
+
+Dodge
+SCAH
+N-m
+3.4
+6.9
+16
+28
+51
+5.85
+10.75
+20.5
+45
+
+Dodge
+SCMAH
+N-m
+3.4
+6.9
+16
+28
+51
+5.85
+10.75
+20.5
+45
+
+SKF
+SY
+N-m
+Voir ci-dessous
+4.2
+7.4
+
+DIAMÈTRE DE PALIER SY
+DIAMÈTRE DE PALIER PB224
+
+Fabricant
+BRG ID
+Unité
+12-35mm
+40-45mm
+50-65mm
+70-100mm
+25,30mm
+35-50mm
+55mm
+60-80mm
+90,100mm
+
+SKF
+SY
+N-m
+4 
+6.5
+16.5
+28.5
+-
+-
+-
+-
+-
+
+Linkbelt
+PB224
+N-m
+-
+-
+-
+-
+21
+37
+52
+77
+153
+
+Table 4. Couple de serrage pour vis sans tête (autres que les vis sans tête de palier)
+
+Table 2 c. Couple de serrage pour vis sans tête IP (voir page 7)
+
+Taille de vis
+
+sans tête
+
+Table 3. Couple de serrage des colliers de serrage Browning
+
+Vis sans têtes acier
+Vis sans tête inox
+Ft - lbs
+N - m
+Ft - lbs
+N - m
+1/4 - 20
+5.5
+7.5
+5.8
+7.9
+
+Moyeu, poulie
+
+5/16 - 18
+11
+15
+11
+15
+
+Type de
+
+Taille de
+
+Fer/Acier
+
+3/8 - 16
+22
+30
+19
+26
+
+boulon
+
+collier
+
+Moyeu 
+Aluminium
+Ft - lbs
+N - m
+Ft - lbs
+N - m
+
+7/16 - 14
+30
+41
+28
+38
+
+1/4 - 20
+H
+8
+11
+8
+11
+
+1/2 - 13
+55
+75
+42
+57
+
+5/16 - 18
+P, B
+17
+23
+13
+18
+
+5/8 - 11
+100
+136
+82
+111
+
+3/8 - 16
+Q, R
+30
+41
+24
+33
+
+3/4 - 10
+170
+230
+115
+156
+
+1/2 - 13
+S
+70
+95
+-
+-
+
+7/8 - 9
+165
+224
+-
+-
+
+1 - 8
+250
+339
+-
+-
+
+1 1/4 - 7
+500
+678
+-
+-
+
+IM-2-06
+
+
+
+=== PDF page 6 of 16 | native ===
+
+(N-m)
+
+SERRAGE
+
+COUPLE DE
+
+(FT-LBS)
+
+SERRAGE
+
+(SÉRIES RPB & RPB-M)
+
+(N-m)
+MODÈLE
+COUPLE DE
+
+SERRAGE
+
+COUPLE DE
+
+(FT-LBS)
+
+SERRAGE
+
+(SÉRIE PLB6800)
+SEALMASTER
+
+MODÈLE 
+COUPLE DE
+
+(N-m)
+
+DE BLOCAGE
+
+POUR ÉCROU
+
+VIS SANS TÉTE
+
+(FT-LBS)
+
+DE BLOCAGE
+
+POUR ÉCROU
+
+VIS SANS TÊTE
+
+<N-m)
+
+SERRAGE
+
+COUPLE DE
+
+CAPUCHONS
+
+SAE GRADE 8
+
+BOULONS DE
+
+(FT-LBS)
+
+SERRAGE
+
+COUPLE DE
+
+CAPUCHONS
+
+SAE GRADE 8
+
+BOULONS DE
+
+(SÉRIES SAF)
+LINK-BELT
+
+(N-m)
+
+SERRAGE
+
+COUPLE DE
+
+GRADE MÉTR.
+
+8.8 BOULONS 
+DE CAPUCHON
+
+(FT-LBS)
+
+SERRAGE
+
+COUPLE DE
+
+GRADE MÉTR.
+
+8.8 BOULONS 
+DE CAPUCHON
+
+MODÈLE
+
+5 (N-m)
+
+SERRAGE
+
+GRADE SAE
+
+COUPLE DE
+
+DODGE
+
+SERRAGE
+
+5 (FT-LBS)
+
+GRADE SAE
+
+COUPLE DE
+
+(SÉRIES USAF)
+SKF
+
+Table 2 a.  Couple de serrage des capuchons de paliers
+
+Diam.
+
+6.938"
+538
+896-1120
+1214-1518
+SAF22538
+-
+-
+600
+813
+-
+-
+-
+-
+-
+-
+-
+-
+
+5.938"
+534
+512-640
+694-867
+SAF22534
+-
+380
+515
+-
+-
+-
+-
+-
+-
+-
+
+6.438"
+536
+512-640
+694-867
+SAF22536
+-
+380
+515
+-
+-
+-
+-
+-
+-
+-
+
+4.438"
+526
+320-430
+433-583
+SAF22526
+295
+399
+900
+1220
+26
+35
+PLB6871
+280-330*
+379-447*
+RPB-110M (Ajustable)
+150
+203
+RPB-407 (Fixe)
+266
+360
+
+3.938"
+522
+208-260
+282-352
+SAF22522
+150
+203
+380
+515
+13
+17
+PRPB-100M (Ajustable)
+150
+203
+PLB6863
+160-180*
+217-244*
+RPB-315 (Fixe)
+266
+360
+
+5.438"
+532
+512-640
+694-867
+SAF22532
+-
+380
+515
+-
+PLB6887
+400-430*
+542-583*
+-
+-
+-
+
+4.938"
+528
+512-640
+694-867
+SAF22528
+295
+399
+900
+1220
+-
+-
+PLB6879
+400-430*
+542-583*
+RPB-125M (Ajustable)
+266
+360
+RPB-415 (Fixe)
+394
+534
+
+Arbre
+MODELE
+
+170mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PLB68M170
+630-700*
+854-949*
+-
+-
+-
+
+120mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+RPB-115M (Ajustable)
+150
+203
+RPB-120M (Fixe)
+394
+534
+
+150mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PLB68M150
+400-430*
+542-583*
+-
+-
+-
+
+110mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PLB68M110
+160-180*
+217-244*
+RPB-105M (Ajustable)
+150
+203
+RPB-110M (Fixe)
+266
+360
+
+115mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PLB68M115
+280-330*
+379-447*
+RPB-407 (Ajustable)
+150
+203
+RPB-115M (Fixe)
+266
+360
+
+140mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PLB68M140
+400-430*
+542-583*
+-
+-
+-
+
+105mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+RPB-315 (Ajustable)
+150
+203
+RPB-105M (Fixe)
+266
+360
+
+35mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PRB-35M
+31
+42
+1.438"
+509
+24-30
+32-40
+SAF22509
+45
+61
+70
+94
+6
+8
+PLB6823
+45-50*
+61-67*
+RPB-107
+31
+42
+40mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PLB68M40
+45-50*
+61-67*
+RPB-40M
+31
+42
+1.688"
+-
+-
+-
+SAF22510
+45
+61
+70
+94
+6
+8
+PLB6827
+45-50*
+61-67*
+RPB-111
+31
+42
+45mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PLB68M45
+45-50*
+61-67*
+RPB-45M
+31
+42
+1.938"
+-
+-
+-
+SAF22511
+60
+81
+110
+149
+13
+17
+PLB6831
+45-50*
+61-67*
+RPB-115
+31
+42
+50mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PLB68M50
+45-50*
+61-67*
+RPB-50M
+31
+42
+55mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+RPB-55M
+31
+42
+2.188"
+513
+40-50
+54-67
+SAF22513
+60
+81
+110
+149
+13
+17
+PLB6835
+45-50*
+61-67*
+RPB-203
+31
+42
+60mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PLB68M60
+45-50*
+61-67*
+RPB-60M
+75
+101
+2.438"
+515
+60-75
+81-101
+SAF22515
+60
+81
+110
+149
+13
+17
+PLB6839
+45-50*
+61-67*
+RPB-207
+75
+101
+65mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PLB68M65
+45-50*
+61-67*
+RPB-65M
+75
+101
+2.688"
+516
+120-150
+162-203
+SAF22516
+110
+149
+220
+298
+13
+17
+PLB6843
+90-100*
+122-135*
+RPB-211
+75
+101
+70mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PLB68M70
+90-100*
+122-135*
+RPB-70M
+75
+101
+2.938"
+517
+120-150
+162-203
+SAF22517
+110
+149
+220
+298
+13
+17
+PLB6847
+90-100*
+122-135*
+RPB-215
+75
+101
+75mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PLB68M75
+90-100*
+122-135*
+RPB-75M
+75
+101
+80mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PLB68M80
+90-100*
+122-135*
+RPB-80M
+266
+360
+85mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+RPB-85M
+266
+360
+3.438"
+520
+208-260
+282-352
+SAF22520
+150
+203
+380
+515
+13
+17
+PLB6855
+160-180*
+217-244*
+RPB-307
+266
+360
+90mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PLB68M90
+160-180*
+217-244*
+RPB-90M
+266
+360
+95mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+RPB-95M
+266
+360
+100mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PLB68M100
+160-180*
+217-244*
+PRPB-100M (Fixe)
+266
+360
+
+160mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PLB68M160
+400-430*
+542-583*
+-
+-
+-
+
+125mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PLB68M125
+400-430*
+542-583*
+RPB-120M (Ajustable)
+266
+360
+RPB-125M (Fixe)
+394
+534
+
+135mm
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+PLB68M135
+400-430*
+542-583*
+RPB-415 (Ajustable)
+266
+360
+-
+-
+-
+
+* Les valeurs de torque les plus basses sont pour les filetages lubrifiés avec de l’huile.
+
+6
+
+IM-2-06
+
+
+
+=== PDF page 7 of 16 | native ===
+
+Table 2 c.  Spécifications du couple de serrage pour vis sans tête IP
+
+Arbres en pouces
+Diamètre d’arbres (pouces)
+
+N° de 
+couple de
+
+Fabriquant
+
+Unité
+<1
+1
+1-3/16
+1-7/16
+1-11/16
+1-15/16
+2-3/16
+2-7/16
+2-11/16
+2-15/16
+3-7/16
+3-15/16
+4-7/16
+4-15/16
+
+palier
+
+IN-LB
+28
+66
+66
+126
+126
+228
+228
+228
+-
+-
+-
+-
+-
+-
+
+SEAL-
+
+RP
+FT-LB
+2.3
+5.5
+5.5
+10.5
+10.5
+19
+19
+19
+-
+-
+-
+-
+-
+-
+
+MASTER
+
+N-m
+3.1
+7.5
+7.5
+14.2
+14.2
+26
+26
+26
+-
+-
+-
+-
+-
+-
+
+IN-LB
+87
+87
+87
+165
+165
+290
+290
+290
+290
+430
+430
+620
+-
+-
+
+SKF
+SY
+FT-LB
+7.2
+7.2
+7.2
+14
+14
+24
+24
+24
+24
+35
+35
+51
+-
+-
+
+N-m
+9.8
+9.8
+9.8
+19
+19
+33
+33
+33
+33
+47
+47
+69
+-
+-
+
+IN-LB
+-
+66
+66
+126
+126
+228
+228
+228
+348
+348
+348
+-
+-
+-
+
+SEAL-
+
+NP
+FT-LB
+-
+5.5
+5.5
+10.5
+10.5
+19
+19
+19
+29
+29
+29
+-
+-
+-
+
+MASTER
+
+N-m
+-
+7.5
+7.5
+14.2
+14.2
+26
+26
+26
+39
+39
+39
+-
+-
+-
+
+IN-LB
+-
+66
+126
+126
+228
+228
+228
+348
+348
+348
+504
+1104
+-
+-
+
+SEAL-
+
+MP
+FT-LB
+-
+5.5
+10.5
+10.5
+19
+19
+19
+29
+29
+29
+42
+92
+-
+-
+
+MASTER
+
+N-m
+-
+7.5
+14.2
+14.2
+26
+26
+26
+39
+39
+39
+57
+125
+-
+-
+
+IN-LB
+-
+66
+126
+126
+228
+228
+348
+348
+504
+504
+504
+1104
+1104
+-
+
+SEAL-
+
+MPD
+FT-LB
+-
+5.5
+10.5
+10.5
+19
+19
+29
+29
+42
+42
+42
+92
+92
+-
+
+MASTER
+
+N-m
+-
+7.5
+14.2
+14.2
+26
+26
+39
+39
+57
+57
+57
+125
+125
+-
+
+IN-LB
+-
+66
+66
+126
+126
+228
+228
+228
+348
+348
+348
+-
+-
+-
+
+SEAL-
+
+EMP
+FT-LB
+-
+5.5
+5.5
+10.5
+10.5
+19
+19
+19
+29
+29
+29
+-
+-
+-
+
+MASTER
+
+N-m
+-
+7.5
+7.5
+14.2
+14.2
+26
+26
+26
+39
+39
+39
+-
+-
+-
+
+IN-LB
+-
+-
+-
+251
+251
+251
+251
+620
+620
+620
+620
+1325
+-
+-
+
+SKF
+SYR
+FT-LB
+-
+-
+-
+21
+21
+21
+21
+51
+51
+51
+51
+110
+-
+-
+
+N-m
+-
+-
+-
+28
+28
+28
+28
+69
+69
+69
+69
+149
+-
+-
+
+IN-LB
+-
+185
+185
+325
+325
+325
+460
+680
+680
+680
+680
+1350
+1350
+1350
+
+LINKBELT /
+
+PB224
+FT-LB
+-
+15.4
+15.4
+27
+27
+27
+38
+57
+57
+57
+57
+113
+113
+113
+
+REXNORD
+
+N-m
+-
+21
+21
+37
+37
+37
+52
+77
+77
+77
+77
+153
+153
+153
+
+IN-LB
+-
+-
+108
+108
+108
+180
+180
+180
+408
+408
+408
+876
+1440
+1440
+
+SEAL-
+
+RPB
+FT-LB
+-
+-
+9
+9
+9
+15
+15
+15
+34
+34
+34
+73
+120
+120
+
+MASTER
+
+N-m
+-
+-
+12.2
+12.2
+12.2
+20
+20
+20
+46
+46
+46
+99
+163
+163
+
+IN-LB
+-
+-
+-
+-
+-
+-
+-
+180
+408
+408
+408
+876
+-
+1440
+
+SEAL-
+
+ERPB
+FT-LB
+-
+-
+-
+-
+-
+-
+-
+15
+34
+34
+34
+73
+-
+120
+
+MASTER
+
+N-m
+-
+-
+20
+46
+46
+46
+99
+-
+163
+
+IN-LB
+73
+73
+141
+141
+141
+252
+252
+252
+252
+252
+-
+-
+-
+-
+
+DODGE
+SCAH
+FT-LB
+6.1
+6.1
+11.8
+11.8
+11.8
+21
+21
+21
+21
+21
+-
+-
+-
+-
+
+N-m
+8.3
+8.3
+16.0
+16.0
+16.0
+28
+28
+28
+28
+28
+-
+-
+-
+-
+
+IN-LB
+-
+73
+141
+141
+252
+252
+252
+252
+252
+252
+252
+-
+-
+-
+
+DODGE
+SCMAH
+FT-LB
+-
+6.1
+11.8
+11.8
+21
+21
+21
+21
+21
+21
+21
+-
+-
+-
+
+N-m
+-
+8.3
+16.0
+16.0
+28
+28
+28
+28
+28
+28
+28
+-
+-
+-
+
+IN-LB
+-
+-
+165
+165
+165
+290
+290
+290
+620
+620
+620
+1325
+1325
+1325
+
+DODGE
+S2000
+FT-LB
+-
+-
+13.8
+13.8
+13.8
+24
+24
+24
+52
+52
+52
+110
+110
+110
+
+N-m
+-
+-
+19
+19
+19
+33
+33
+33
+71
+71
+71
+149
+149
+149
+
+IN-LB
+-
+-
+-
+165
+290
+290
+290
+290
+-
+-
+-
+-
+-
+-
+
+SKF
+SYM
+FT-LB
+-
+-
+-
+13.8
+24
+24
+24
+24
+-
+-
+-
+-
+-
+-
+
+N-m
+-
+-
+19
+33
+33
+33
+33
+-
+-
+-
+-
+-
+-
+
+IN-LB
+28
+66
+66
+126
+126
+228
+228
+228
+-
+-
+-
+-
+-
+-
+
+VPS
+
+BROWN-
+
+FT-LB
+2.3
+5.5
+5.5
+10.5
+10.5
+19
+19
+19
+-
+-
+-
+-
+-
+-
+
+200
+
+ING
+
+N-m
+3.1
+7.5
+7.5
+14.2
+14.2
+26
+26
+26
+-
+-
+-
+-
+-
+-
+
+IN-LB
+66
+66
+126
+126
+228
+228
+228
+348
+348
+348
+504
+1104
+-
+-
+
+VP3
+
+BROWN-
+
+FT-LB
+5.5
+5.5
+10.5
+10.5
+19
+19
+19
+29
+29
+29
+42
+92
+-
+-
+
+300
+
+ING
+
+N-m
+7.5
+7.5
+14.2
+14.2
+26
+26
+26
+39
+39
+39
+57
+125
+-
+-
+
+IM-2-06
+
+
+
+=== PDF page 8 of 16 | native ===
+
+Figure 6. Alignement des raccords de conduit
+
+F
+F
+
+Y
+
+P
+
+GAP
+
+X
+
+P
+
+ALIGNEMENT	
+ALIGNEMENT	
+ESPACE ET
+ANGULAIRE	
+PARALLÈLE	
+FLOTTAGE FINAL
+
+quatre points peut aussi être accompli avec une ligne atta­
+ché à l’arbre derrière une des poulies. La ligne est alors 
+tendue sur la face des poulies pour vérifier l’alignement 
+aux quatre points du périmètre externe. Chaque poulie doit 
+être tournée d’une demi-révolution durant ce contrôle pour 
+déterminer s’il y a un jeu excessif ou une déformation de 
+l’arbre. L’alignement parallèle doit être dans une tolérance 
+de 5mm par mètre de la distance au centre. Le désaligne­
+ment angulaire doit être moins de 1 degré.
+
+X-Y	 = DÉSALIGNEMENT ANGULAIRE
+P	
+= COMPENSATION PARALLÈLE (DÉSALIGNEMENT)
+F	
+= FLOTTAGE FINAL
+
+3. Installer et tender les courroies. La tension de courroie cor­
+recte est indiquée sur la documentation jointe. Les courroies
+sont tendues comme suit:
+
+conduits, silencieux, cheminées, etc. Supporter ces charges sur 
+le ventilateur peut causer une déformation du cadre et des 
+problèmes de performance dus à la relation entre le cadre du 
+ventilateur et la roue. L’usage de raccords de conduits flexibles 
+est recommandé.
+
+Les poteaux, la base, les rails coulissants, et la base cou­
+lissante nécessitent un ou plusieurs boulons retenus par
+des écrous de blocage pour ajuster la position du moteur.
+Desserrer les écrous de blocage et ajuster les boulons pour
+pousser ou tirer le moteur jusqu’à ce que les courroies soi­
+ent à la bonne tension. Serre les écrous de blocage suivant
+les spécifications de torque du Tableau 1.
+
+Lorsque des matériaux dangereux vont être transportés par 
+le ventilateur, tous les raccords de conduits faits par l’utilisateur 
+doivent être rendus complètement étanches avec un matériel 
+approprié au gaz ou à la vapeur qui se dégage.
+
+4. Faire tourner le mécanisme d’entraînement pendant quelques
+minutes pour mettre les courroies en place. Lors de la
+mise en tension des courroies, faire glisser le moteur pour
+enfiler les courroies. Ne pas utiliser de pince-monseigneur,
+ceci peut endommager les cordes de courroies. Remettre
+les courroies à la bonne tension si nécessaire. Re-vérifier
+l’alignement de la poulie.
+
+5. Après l’installation initiale des courroies, re-vérifier la ten­
+sion des courroies et l’alignement comme indiqué dans le
+Tableau 7.
+
+Couplages flexibles
+
+Garde-fous et Carters de Protection
+Lorsque Twin City Fan Companies Ltd. est avisé de la néces­
+sité d’une protection complètement conforme aux directives 
+relatives aux machines, Twin City Fan Companies Ltd. fournit 
+la protection identifiée comme requis. Dans la plupart des 
+cas, Twin City Fan Companies, Ltd. N’est pas au courant de 
+l’utilisation et de l’installation finale du ventilateur, ce qui élimine 
+typiquement le besoin pour plus de garde-fous afin de se con­
+former avec EN-294 et EN 811. Pour cette raison, l’utilisateur 
+doit s’assurer que l’installation finale est conforme avec EN 
+953, En 294 et EN 811. Ceci est particulièrement vrai pour les 
+ventilateurs encastrés et les ventilateurs soufflants. Les articles 
+spécifiques suivants doivent être considérés mais la liste qui 
+suit n’est pas exhaustive:
+
+Ces instructions sont générales pour l’installation de différents 
+types de couplages flexibles et ne doivent pas être utilisées 
+comme substitution aux instructions plus spécifiques du fabri­
+cant. Les données d’installation du fabricant sont incluses avec 
+la fiche technique fournie (si applicable) et donne les dimen­
+sions spécifiques pour les limites d’alignement, les lubrifiants, 
+etc.
+
+•
+Conduit d’évacuation / enceinte. Le conduit ou l’enceinte
+doivent se conformer avec les obligations de EN 953, EN
+294 et EN 811. Ceci n’est pas assuré par Twin city Fan
+Companies, à moins que cela n ‘ait été spécifiquement
+notifié au moment de la commande.
+
+Avant de préparer l’installation des couplages, s’assurer que 
+tous les paliers, ailettes d’admission, joints d’arbre ou autres 
+éléments ont été installés sur l’arbre.
+
+Lors du montage et serrage des moitiés de conduit sur 
+l’arbre, suivre les instructions pour installations de gaines 
+thermo-rétrécissables. Installer les moitiés de conduits avec 
+l’espace normal spécifié par le fabricant. L’espace de couplage 
+est illustré dans la Figure 6.
+
+•
+Protection à l’admission. La protection à l’admission se
+base sur la distance de sécurité supplémentaire fournie
+par les conduits d’admission ou tout autre enceinte
+accroissant la distance de sécurité a 850 mm ou plus.
+Ceci parce que l’installation élimine normalement le besoin
+pour une protection excessive à l’admission du ventila­
+teur. De plus, une protection excessive à l’admission du
+ventilateur détériorerait de manière significative la perfor­
+mance et n’est, par conséquent, pas désirable.
+
+Les deux types de mauvais alignement sont illustrés ci 
+dessus. Les alignements angulaires typiques sont vérifiés avec 
+des calibres à lames entre les la face des moyeux. Lorsque 
+l’ajustement angulaire a été ajusté selon les spécifications du 
+fabricant par calage si nécessaire, l’alignement parallèle peut 
+être contrôlé avec une règle de précision et des calibres à 
+lames sur les moitiés du moyeu de l’O.D. Lorsque le calage a 
+amené l’alignement parallèle dans les spécifications, l’alignement 
+angulaire et l’espace doivent être re-vérifiés et des ajustements 
+doivent faits si nécessaire. Un indicateur à cadran peut être 
+utilisé pour prendre les mesures ci dessus de manière plus 
+précise.
+
+•
+Ventilateurs encastrés et ventilateurs soufflants. Ces ventila­
+teurs sont prévus pour être installés dans une enceinte
+fournie par l’utilisateur. Twin City Fan Companies, Ltd. ne
+connaît que rarement les détails de l’enceinte et ne peut
+conséquemment pas fournir les garde-fous basés sur les
+besoins de l’installation finale de ce type de ventilateurs.
+L’utilisateur doit s ‘assurer que les enceintes de ventila­
+teurs encastrés et soufflants sont conformes à EN 294
+et EN 811.
+
+Les carters de protection ne doivent pas être enlevés quand 
+le ventilateur est en opération ; ceci peut provoquer des bles­
+sures graves. Les carters de protection ne doivent pas reposer 
+ou être utilisés pour supporter une charge supplémentaire.
+
+Des ajustements spéciaux ont parfois nécessaires pour 
+certains couplages utilisés avec certains équipements. A titre 
+d’exemple, lorsqu’ils sont utilisés avec des moteurs de plus de 
+300 CV, les couplages peuvent demander des provisions pour 
+limiter le flottage final. Les gros mécanismes d’entraînement 
+peuvent se dilater lors des opérations (du à la chaleur expan­
+sive) demandant que le côté mécanisme d’entraînement soit 
+installé plus bas lorsqu’il n’est pas en fonction. Les manuels 
+d’instruction spécifiques ou les plans de montage indiquent ces 
+besoins s’ils sont applicables.
+
+Bien nettoyer les moitiés de couplage avant de compléter 
+l’alignement. Ré assembler le couplage et serrer les boulons, 
+rondelles et boulons de fixation. Lubrifier selon les instructions 
+du fabricant.
+
+Alimentation et contrôles électriques
+Twin City Fan Companies, Ltd. ne fournit pas les contrôles 
+électriques. Les articles identifiés ci-dessous se veulent être 
+un guide pour l’utilisateur et pour l’aider à se procurer des 
+contrôles conformes à l’Annexe 1 de la Directive Relative 
+aux Machines et à EN 14461 : 2005 Ventilateurs industriels 
+– Exigences de Sécurité. De plus, les installations électriques
+doivent remplir les exigences de EN 60204-1 et doivent être
+sélectionnées pour de conformer avec la directive Relative
+aux Appareils Basse Tension. Ceux qui sont impliqués dans
+la conception de l’alimentation électrique et des systèmes de
+
+Raccords de Conduits
+La structure de support du ventilateur n’est normalement pas 
+conçue pour porter les charges imposées par le poids des
+
+8
+
+IM-2-06
+
+
+
+=== PDF page 9 of 16 | native ===
+
+•
+Le système d’alarme reste enclenché durant la période de
+travail en mode manuel et un signal d’alarme est donné
+quand les limites de sécurité sont atteintes.
+
+•
+Le mode manuel est indiqué par un signal clairement
+visible.
+
+•
+Le système manuel est enclenché par des dispositifs spé­
+cialement prévus à cet effet, tels qu’interrupteurs munis
+de clés.
+
+contrôle doivent être familiers avec les standards et directives 
+sus-mentionnés. Des systèmes de contrôle incluant des relais, 
+des contacteurs, des unités de base à fréquence variable, 
+des transformateurs isolants, des mécanismes de protection 
+contre les montées de courant et les courts-circuits peuvent 
+être requis. Relais, contacts, unités de base à fréquence 
+variable, transformateurs isolants, mécanismes de protection 
+contre les montées de courant et les court-circuits doivent 
+tous être conformes à la directive Relative aux Appareils 
+Basse Tension. Ce qui suit est une liste de certains des 
+standards européens les plus communs qui sont observés 
+pour se mettre en conformité avec la Directive Relative aux 
+Appareils de Basse Tension.
+
+Entretien
+Toute opération de maintenance pour laquelle le carter de 
+protection doit être enlevé doit se faire alors que le ventilateur 
+n’est pas en opération. 
+Lors du redémarrage du ventilateur après entretien, suivre la 
+liste opérationnelle pour démarrer le ventilateur.
+	
+Des sectionneurs doivent être utilisés chaque fois qu’une 
+mise sous tension inattendue du ventilateur peut poser un 
+danger mécanique ou électrique.
+
+Maintenance du moteur
+Les trois règles de base pour la maintenance du moteur sont:
+1. Garder le moteur propre.
+2. Garder le moteur sec.
+3. Garder le moteur proprement lubrifié.
+
+EN60742 
+-
+Transformateurs isolants
+EN50178	
+-
+Équipement électronique destiné à être
+utilisés dans les installations électriques.
+EN60730-2-10	 -	
+Actionneur de moteur.
+EN60947-2-1	
+-	
+Déclencheurs de surcharge.
+EN60947-3-1	
+-	
+Interrupteurs, sectionneurs, boutons sec­
+tionneurs et unités de fusibles de section­
+nement.
+EN60947-4-1	
+-	
+Contacts électromécaniques et circuits de
+contrôles de moteurs.
+EN60947-5-1	
+-	
+Systèmes
+de 
+circuit 
+de 
+contrôle 
+électromécaniques. 
+EN60947-5-5	
+-	
+Appareillage à basse tension – 5e partie:
+Appareils et éléments de commutation pour 
+circuits de commande - Appareil d'arrêt 
+d'urgence électrique a accrochage méca­
+nique.
+EN61810-1	
+-
+Relais électromécaniques élémentaires –
+Part 1: Général et spécifications.
+EN60255-23	
+-
+Relais électriques – Part 23: Performance
+des contacts.
+EN60439-1	
+-
+Appareillage à basse tension, Partie 1.
+EN 60034	
+-
+Machines électriques rotatives Parts 1 et 5.
+
+Les unités de base à fréquence variable sont sous les direc­
+tives Basse Tension et EMC. Les standards qui doivent être 
+considérés pour de conformer à la directive EMC sont listés 
+ci-dessous:
+
+Souffler la poussière périodiquement (avec de l’air à faible pres­
+sion) pour empêcher le moteur de surchauffer.
+	
+Si le moteur doit être redémarré après avoir été arrêté pour 
+plus d’une semaine, la résistance des bobinages moteurs à la 
+terre doit être mesurée (à 500 V DC). Si la résistance est moins 
+de 10 megohms, le moteur doit être séché jusqu’à ce qu’une 
+résistance de plus de 10 megohms soit mesurée.
+	
+Certains moteurs plus petits sont lubrifiés à vie. Les exigenc­
+es de lubrification sont normalement attachées au moteur. Utiliser 
+les recommandations du fabricant de moteur pour re-lubrifier. Si 
+cette information n’est pas disponible, le programme suivant peut 
+être utilisé. Les moteurs de moins de 10 CV fonctionnant environ 
+huit heures par jour dans un environnement propre doivent être 
+lubrifiés tous les cinq ans ; les moteurs de 15-40 CV tous les 
+trois ans. Pour les moteurs dans un environnement poussiéreux 
+ou fonctionnant 24 heures par jour : diviser le service d’intervalle 
+par 4. Ne pas lubrifier le moteur excessivement. Noter que les 
+moteurs demandent typiquement un type de lubrifiant différent 
+de celui utilisé pour les paliers d’axe.
+
+EN 61000-6-4:		
+2001 Normes génériques pour les étab­
+lissements industriels.
+EN 55011:		
+1998 
++ 
+A1 
+Émissions 
+conduites
+Industriel (Groupe 1 Classe A)
+
+Maintenance du mécanisme d’Entraînement
+Les entraînements à courroie trapézoïdale requièrent une 
+inspection et des ajustements de tension réguliers, et doivent 
+occasionnellement être remplacées. Suivre le Tableau 5 page 
+11 pour l’inspection et l’entretien du mécanisme d’entraînement. 
+La tension correcte pour les courroies se trouve dans la fiche 
+technique spécifique à chaque ventilateur. Un journal doit être 
+tenu notant les informations concernant les tensions de cour­
+roies et leur remplacement.
+
+De plus, les contrôles doivent se conformer aux exigences 
+de catégorie 2 sécurité des systèmes de contrôle critiques, 
+comme détaillé dans EN 954-1. Quand un entraînement à 
+fréquence variable est utilisé, les contrôles doivent être implé-
+mentés pour empêcher l’entraînement à fréquence variable de 
+tourner au-dessus de la vitesse de sécurité maximale du ven-
+tilateur.
+ 
+Les diagrammes électriques fournis par le fabricant 
+d’équipement électrique doivent être suivis.
+
+Considérations générales pour les contrôles
+Un redémarrage automatique ou à distance après une courte 
+coupure de courant ne doit être permis que s’il n’y a aucun 
+risque et s’il n’existe aucune autre défaillance.
+ 
+Des signaux avertissant qu’un redémarrage automatique ou 
+à distance peut survenir doivent être postés si c’est le cas.
+ 
+Après un arrêt causé par les dispositifs de sécurité indiquant 
+des conditions hasardeuses, seul un redémarrage manuel inten-
+tionnel doit être possible.
+ 
+Quand cela est possible, les câbles d’alimentation électrique 
+connectés au ventilateur doivent être installés où il y a le mois 
+de risques pour le personnel de trébucher sur les câbles, de 
+marcher dessus ou de tomber parce qu’ils ont été placés dans 
+une aire où le personnel circule.
+ 
+S’il est nécessaire de pouvoir passer outre les systèmes 
+de contrôle et de surveillance pour les inspections périodiques 
+ou les réparations pendant les opérations, il faut peut être 
+considérer l’implémentation de ventilateurs, moteurs et autres 
+accessoires de soutien. Ceci est permis autant que:
+
+Maintenance du palier
+Une lubrification correcte des paliers du mécanisme d’entraînement 
+du ventilateur assure une durée de vie maximale des paliers. 
+Tous les ventilateurs sont équipés avec des autocollants indiquant 
+les intervalles de re-lubrification pour des conditions normales 
+d’utilisation. Les paliers doivent être inspectés après les premières 
+24 heures d’opération, puis chaque fois qu’ils sont lubrifiés. Les 
+intervalles de lubrification pour le type de paliers inclus sont 
+attachés au ventilateur. Noter que toutes les vitesses présentées 
+ne s’appliquent pas à toutes les tailles d’arbre de ce groupe. 
+Consulter l’usine en cas de doute sur la vitesse maximale d’un 
+palier particulier. Noter que chaque installation est différente et que 
+la fréquence de lubrification doit être ajustée en conséquence.
+	
+Dans des conditions de forte humidité, la fréquence des 
+lubrifications doit être doublée ou triplée pour protéger les 
+paliers adéquatement. Doubler les fréquences de lubrification 
+pour les ventilateurs à arbres verticaux.
+	
+Une observation de la graisse expulsée des paliers lors de la 
+lubrification est le meilleur guide pour indiquer si les intervalles 
+de graissage et les quantités de graisse ajoutées doivent être 
+changés.
+
+IM-2-06
+
+
+
+=== PDF page 10 of 16 | native ===
+
+•
+Température de circulation de l’air entre 120°F (49°C) et
+-20°F (-29°C) avec une fluctuation de température maxi­
+male de 15°F (8°C) par minute.
+
+•
+Les températures ambiantes ne doivent pas excéder 104°F
+(40°C) pour les ventilateurs standard.
+
+•
+Vitesse d’opération constante.
+
+Opérer un ventilateur dans l’une quelconque des conditions suiv­
+antes peut provoquer des risques de sécurité:
+
+•
+Ne pas opérer un ventilateur dans un environnement pour
+lequel il n’a pas été conçu. Ceci comprend l’utilisation du
+ventilateur à des températures ou avec des vapeurs abrasives
+ou corrosives ou des matériaux solides (cendres inclues)
+autres que ceux pour lesquels le ventilateur a été conçu.
+L’utilisation à haute température ou avec des vapeurs abra­
+sives ou corrosives demande des considérations spéciales
+qui doivent être incluses dans la conception, la sélection des
+matériaux, le revêtement et l’entretien du ventilateur.
+
+•
+Ne pas opérer le ventilateur à une vitesse supérieure
+à celle pour laquelle le ventilateur, le mécanisme
+d’entraînement, les joints, les roulements et autres com­
+ponents ont été conçus.
+
+Les graisses sont faites à partir de différents produits de 
+base. Il y a des graisses à base synthétique, à base de lithium, 
+à base de sodium, etc. Éviter de mélanger des graisses avec 
+des bases différentes. Elles peuvent s’avérer incompatibles et 
+se détériorer rapidement, voire se décomposer. L’autocollant de 
+lubrification indique la liste des lubrifiants acceptables. Tous les 
+paliers sont remplis avec une graisse à base de lithium avant de 
+quitter l’usine, à moins d’indication contraire. Lorsque les ven­
+tilateurs sont démarrés, les paliers peuvent rejeter un excès de 
+graisse par les joints pour un court moment. Ne pas remplacer 
+cette évacuation initiale, car cet écoulement s’arrêtera de lui-
+même lorsque tout l’excès de graisse sera évacué. Il arrive que 
+les paliers aient une tendance à chauffer durant cette période. Il 
+ne faut pas s’en alarmer à moins que cela ne dure plus de 48 
+heures ou qu’ils deviennent très chauds (plus de 200°F, 93°C).
+	
+Si les paliers vibrent excessivement à tout moment, où 
+s’ils tournent à une température supérieure à 200°F, 93°C, 
+les paliers doivent être inspectés pour une lubrification et un 
+alignement correct. Vérifier également le serrage des vis sans 
+tête, des boulons de couvercle, et des colliers ; vérifier aussi 
+que le lubrifiant ne montre pas de signe de contamination. Les 
+paliers ou les éléments de paliers endommagés doivent être 
+remplacés s’ils s’avèrent être défectueux ou s ‘ils montrent des 
+signes d’usure. Lors de la lubrification, utiliser une quantité de 
+graisse suffisante pour purger les joints. Tourner les paliers 
+manuellement lors de la lubrification.
+
+•
+Ne pas utiliser de systèmes de vitesse de rotation vari­
+able sans consultation préliminaire avec Twin City Fan
+Companies, Ltd.
+
+•
+Ne pas opérer le ventilateur avec des roulements et des
+joints incorrectement lubrifiés. Les fréquences de lubrifica­
+tion sont détaillées dans la section maintenance correspon­
+dante de ce manuel.
+•
+Ne pas opérer un ventilateur exhibant des niveaux de
+vibration excessifs. Les lectures d’entrée ne doivent pas
+excéder 7.2mm/s RMS.
+
+•
+Ne pas opérer un ventilateur en panne.
+
+•
+Ne pas opérer le ventilateur avec des pièces de rechange
+ou des composantes qui ne sont pas recommandées par
+Twin City Fan Companies, Ltd. L’usage de pièces qui
+ont des performances insuffisantes peut causer une usure
+prématurée et des pannes.
+
+Maintenance de la Roue et de l’Arbre
+Inspecter l’arbre et la roue pour détecter des accumulations de 
+saleté, de corrosion, et des signes de stress ou de fatigue après 
+un mois de service. L’intervalle entre les inspections futures 
+sera basé sur les résultats de cette inspection initiale. Nettoyer 
+les composantes. S’il se trouve quelque signe de stress ou de 
+fatigue (déformation, craquelure, surfaces excessivement usées) 
+la pièce doit être remplacée. Toute accumulation de matériel 
+sur des pièces tournantes ou sur des pièces qui peuvent entrer 
+en contact avec des pièces tournantes doit être nettoyée. Si, 
+pour quelque raison que ce soit, la roue doit être enlevée, 
+s’assurer qu’elle est bien attachée à l’arbre avant de redémar­
+rer le ventilateur. La roue et l’arbre doivent aussi être inspec­
+tés chaque fois qu’une vibration excessive est observée (les 
+lectures d’entrée doivent être 7.2mm/s ou moins). Référence 
+IS 14694:2003, “Ventilateurs industriels – Spécifications pour 
+l’Équilibrage et les Niveaux de Vibration” pour plus de détails 
+sur les niveaux de vibration acceptables.
+
+Toutes les conditions ci dessus peuvent entraîner des défaillances 
+mécaniques amenant des risques de sécurité comprenant exposition 
+à des objets éjectés et à des vapeurs ou du matériel toxiques.
+	
+Pour les applications à haute température, l’usage d’un 
+mécanisme auxiliaire est recommandé (tel que le système de 
+rotation disponible chez Twin City Fan Companies, Ltd.) qui 
+tourne le ventilateur doucement quand celui-ci ne travaille pas 
+alors qu’il est exposé à de hautes températures. Une exposi­
+tion à de hautes températures lorsque le ventilateur ne travaille 
+pas peut être causé par une panne de courant ou l’opération 
+standard d’un procédé.
+	
+Lorsque des ventilateurs multiples sont installés pour redon­
+dance, le ventilateur ainsi utilisé doit être démarré de façon 
+hebdomadaire pour éviter le besoin de considérer les exigences 
+de stockage.
+
+Maintenance Structurelle
+Tous les éléments ou dispositifs structurels servant à soutenir 
+ou à fixer le ventilateur à une structure doivent être contrôlés à 
+intervalles réguliers. Les isolateurs de vibration, boulons, bases, 
+etc., sont tous susceptibles de manquements dus à la corro­
+sion, l ‘usure ou à d’autres causes. Un montage incorrect peut 
+résulter en de mauvaises caractéristiques de fonctionnement, 
+fatigue ou défaillance du ventilateur. Inspecter les éléments 
+métalliques pour corrosion, craquelures ou autres signes de 
+stress. Remplacer tout élément montrant un quelconque de ces 
+signes. Le béton doit être contrôlé afin de vérifier l’intégrité 
+structurelle de la fondation et réparé ou remplacé si des signes 
+d’endommagement sont décelés.
+	
+Lorsque le ventilateur est utilisé pour traiter des gaz ou 
+vapeurs toxiques, le cadre et les soudures doivent être inspec­
+tés pour corrosion et craquelures à intervalles réguliers afin de 
+s’assurer qu’il n’y a pas de fuites de gaz toxiques. L’état du 
+revêtement doit aussi être inspecté pour s’assurer qu’aucune 
+part du ventilateur n'est mise à nu. Tous les joints et conduits 
+doivent également être examinés pour signes d’usure. Une 
+inspection initiale un mois après la mise en service est utilisée 
+pour déterminer une fréquence d’inspection appropriée.
+
+Bruit
+Les niveaux de bruit sont fournis avec tous les ventilateurs. 
+Ces niveaux sont basés sur les méthodes de test en cham­
+bre de réverbération AMCA 300 Cette méthode est similaire 
+à ISO 3741. L’installation sur le terrain et les conditions envi­
+ronnantes peuvent grandement modifier le bruit. À cause de 
+ceci, l’utilisateur doit vérifier que le niveau de bruit dans les 
+conditions d’installation est sous 70 dBA Si le niveau de bruit 
+est supérieur à 70 dBA, des mesures doivent être prises pour 
+ramener le niveau de bruit à un niveau acceptable.
+
+Les standards EN qui suivent peuvent être consultés comme 
+guide pour mesurer le niveau de bruit:
+
+Utilisation du Ventilateur
+Usage et Application corrects
+Il est critique que les ventilateurs soient opérés exclusivement 
+de la manière dont leur conception l’a prévu. Une construction 
+standard est conçue pour une application standard, telle que 
+définie ci-dessous:
+
+•
+Air propre – pas de matières solides, de particules, ou de
+gaz abrasifs ou corrosifs.
+
+EN 809 EN ISO 5136:2003	
+-
+Acoustique - Détermination
+du niveau de bruit émis dans
+un conduit par les ventila­
+teurs et autres machines de
+circulation d’air - Méthode
+en conduit.
+EN ISO 11200/A1 1997	
+-
+Bruits
+émis 
+par 
+les
+
+10
+
+IM-2-06
+
+
+
+=== PDF page 11 of 16 | native ===
+
+Tableau 5. Maintenance et Inspection du Système d’Entraînement
+
+TYPE DE MAINTENANCE
+QUAND LA FAIRE
+QUE FAIRE
+
+Inspecter la gorge de la poulie pour 
+usure
+
+Inspection initiale: 8 heures. Deuxième in-
+spection: 24 heures. Troisième inspection: 
+100 heures. Périodiquement par la suite.*
+
+Inspecter la course de la  courroie sur la poulie Dans les 
+systèmes à gorge multiples, la course de la courroie doit 
+être uniforme, pas plus de 1/16" (1.6mm) au-dessus ou 
+au-dessous du sommet de la gorge. Inspecter l’usure de la 
+zone d’usure de la gorge. Les côtés de la gorge doivent 
+être droits et non déformés. Le fond de la gorge ne doit 
+pas montrer de signe de contact avec la courroie.
+
+Inspecter la poulie pour jeu
+Inspection initiale: 8 heures. Deuxième in-
+spection: 24 heures. Troisième inspection: 
+100 heures. Périodiquement par la suite.*
+
+Inspecter la poulie visuellement pour voir si elle a du jeu. Si 
+le jeu est excessif, il peut être vu facilement par inspection 
+visuelle. Si un jeu est visible, vérifier la poulie pour déter­
+miner la source du problème et le corriger.
+
+Inspecter pour sur-chauffage et venti­
+lation adéquate
+
+Inspection initiale: 8 heures. Deuxième in-
+spection: 24 heures. Troisième inspection: 
+100 heures. Périodiquement par la suite.*
+
+Inspecter la température des boulons La température ambi­
+ante ne doit pas excéder 140°F (60°C) Les températures de 
+contact ne doivent pas excéder
+180°F (82°C) S’assurer que les mécanismes d’entraînement 
+sont correctement ventilés.
+
+Nettoyer les courroies et les gorges 
+de poulies
+
+Inspection initiale: 8 heures. Deuxième in-
+spection: 24 heures. Troisième inspection: 
+100 heures. Périodiquement par la suite.*
+
+Inspecter les courroies pour contamination par des substances 
+telles qu’huile ou graisse.  Nettoyer les courroies avec de l’eau 
+et du détergent. Inspecter les gorges de poulies pour accumu­
+lation de telles substances et les enlever si nécessaire.
+
+Vérifier la tension de la courroie
+Inspection initiale: 8 heures. Deuxième in-
+spection: 24 heures. Troisième inspection: 
+100 heures. Périodiquement par la suite.*
+
+Vérifier la tension de la courroie en utilisant un tensiomètre 
+de courroies BROWNING. Ajuster la tension selon les re­
+commandations dans les catalogues courants.
+
+Vérifier l’alignement de la poulie
+Inspection initiale: 8 heures. Deuxième in-
+spection: 24 heures. Troisième inspection: 
+100 heures. Périodiquement par la suite.*
+
+Vérifier l’alignement avec une règle de précision, une ligne, 
+ou un niveau de machiniste. Corriger l’alignement et l’amener 
+aussi parfait que possible.
+
+Contrôle de disparité dans les cour­
+roies
+
+Inspection initiale: 8 heures. Deuxième in-
+spection: 24 heures. Troisième inspection: 
+100 heures. Périodiquement par la suite.*
+
+Regarder la courbe faite par la poulie sur le côté mou du 
+système d’entraînement. Toutes les courroies doivent être lé­
+gèrement courbées. Si cette courbe n’est pas uniforme entre 
+les courroies, remplacer le jeu complet avec un jeu assorti.
+
+Inspection pour courroies usées
+Inspection initiale: 8 heures. Deuxième in-
+spection: 24 heures. Troisième inspection: 
+100 heures. Périodiquement par la suite.*
+
+Inspecter la surface d’usure des courroies pour usure ex­
+cessive: si les courroies paraissent glissantes, lustrées, 
+c’est qu’elles glissent. Vérifier la capacité du système 
+d’entraînement et la tension des courroies. Ne jamais rem­
+placer une seule courroie qui fait partie d’un jeu, car les 
+courroies usagées s’allongent. Remplacer le jeu complet si 
+un remplacement est nécessaire.
+
+Inspecter les vis sans tête de la poulie 
+et/ou les vis de couvercles de man­
+chons
+
+Inspection initiale: 8 heures. Deuxième ins-
+pection: 24 heures. Troisième inspection: 
+100 heures. Périodiquement par la suite.*
+
+Inspecter les vis sans tête de la poulie et/ou les vis de 
+couvercles de manchons pour usure. Resserrer au couple 
+de serrage recommandé si nécessaire.
+
+*Les inspections répertoriées comme « périodiques » doivent être effectuées au moins une fois par mois pour les ventilateurs ATEX.
+
+M	Systèmes d’entraînement sur les arbres adéquats, propre­
+
+ment alignés et à la bonne tension.
+M	S’assurer qu’aucun objet étranger ne réside dans le ventila­
+
+teur ou dans les conduits.
+
+Inspecter les composants électriques du ventilateur:
+M	Le moteur est câblé pour le bon voltage.
+M	Le moteur est d’une taille adéquate pour la puissance de
+
+l’assemblage rotatif.
+M	Le moteur est correctement mis à la terre.
+M	Tous les conducteurs sont correctement isolés.
+M	La résistance entre la bobine du moteur et la terre est plus
+
+de 10 megohms (voir la section maintenance du moteur).
+M	L’équipement de contrôle fonctionne correctement.
+
+machines et les équipe­
+ments - Indications pour 
+l’utilisation de standards 
+basiques pour déterminer 
+le niveau de bruit à un 
+poste de travail et autres 
+locations spécifiées.
+EN ISO 11202/A1 1997	
+-
+Bruits 
+émis 
+par 
+les 
+machines et les équipe­
+ments – Mesure des émis­
+sions du niveau de bruit 
+à un poste de travail et 
+autres locations spécifiées 
+– Méthode d’étude in situ.
+
+Essai:
+M	Mettez le moteur sous tension juste le temps qu’il faille pour
+
+Liste de contrôle d’exploitation
+M Vérifier que les mesures de sécurité correctes ont été
+
+commencer à faire tourner l’assemblage.
+M	Vérifier que le sens de rotation est celui du sens de rotation
+
+suivies.
+M L’alimentation électrique doit être bloquée.
+
+de la flèche.
+M	Tendre l’oreille pour tout bruit suspect.
+
+Vérifier les éléments du mécanisme du ventilateur:
+M Écrous, boulons et vis sans tête doivent être serrées selon
+
+Faire tourner l’équipement à sa vitesse normale:
+M	Vérifier que la température des paliers est acceptable
+
+(<200°f, 93°C) après une ou deux heures de service.
+M	S’assurer que les niveaux de vibration ne sont pas excessifs.
+
+les Tableaux 1 à 4.
+M Branchements de montage correctement effectués et serrés. 
+M Paliers correctement lubrifiés.
+M Roues, systèmes d’entraînement et surfaces du ventilateur
+
+Les lectures d’entrée ne doivent pas excéder 7.2mm/s RMS.
+M	Vérifier que l’appel de courant du moteur ne se situe pas
+
+au-dessus de celui indiqué sur la plaque d’identification.
+
+propres et serrées.
+M L’assemblage rotatif tourne librement et ne frotte pas.
+
+Après une semaine de service:
+
+11
+
+IM-2-06
+
+
+
+=== PDF page 12 of 16 | native ===
+
+d. Un puisard va être ajouté pour prévoir une panne de la
+
+M	Vérifier tous les écrous, boulons et vis sans tête et les
+
+pompe de circulation d’huile. Des joints seront fournis
+pour pallier les éclaboussures qui en résultent.
+
+resserrer si nécessaire.
+M	Re-vérifier la tension du mécanisme d’entraînement si néces­
+
+e. Le graisseur zerk au sommet du palier sera enlevé, et
+
+saire. (voir Tableau 5 pour le programme de maintenance du 
+système d’entraînement.)
+
+cet orifice servira pour l’entrée de l’huile.
+
+Instructions de Dépannage
+Employer toutes les mesures de sécurité lors de la recherche
+
+Figure 7. Orientation des pales du régulateur relativement à la rotation du ventilateur
+
+Accessoires optionnels
+1. Mécanisme de rotation — Un mécanisme de rotation est par­
+fois utilisé dans des applications par lesquelles le ventilateur 
+est exposé à des gaz à haute température alors qu’il n’est 
+pas en service. La roue et l’arbre peuvent se dilater de façon 
+irrégulière lors du repos, ce qui peur causer des vibrations au 
+démarrage et/ou une prise permanente du rotor.  Le mécan­
+isme de rotation fait tourner le ventilateur doucement du côté 
+extérieur lorsqu’il n’est pas en opération, permettant une 
+expansion thermique régulière. Il s’enclenche automatique­
+ment lorsque le ventilateur arrête et débraye automatiquement 
+quand le ventilateur redémarre. Des renseignements plus 
+spécifiques seront fournis avec chaque application.
+
+Correct
+Incorrect
+
+2. Joints d’arbre — Le joint d’arbre standard est un élément en
+fibre de céramique avec une plaque de support et des clips
+en aluminium. D’autres configurations de joints d’arbre sont
+disponibles pour des applications spéciales, comme quand il
+est nécessaire de maintenir les joints d’arbre aussi impermé­
+ables au gaz que possible. Les manuels d’application de joints
+d’arbre sont fournis dans le Supplément engineering ES-595.
+
+de la cause des problèmes de  ventilateur ou de performance 
+du système. Les pratiques de sécurité générale et les instruc­
+tions de dépannage sont disponibles dans les Publications 
+AMCA 410 et 202, respectivement. Les applications pour 
+ventilateurs et mesures in situ peuvent être trouvées dans les 
+publications AMCA 201 et 203.
+	
+Nous incluons ci-dessous une liste de zones qui peuvent 
+être potentiellement contrôlées lorsque les valeurs relatives à 
+l’air ou au bruit ne correspondent pas aux attentes La plupart 
+des problèmes rencontrés avec les ventilateurs se résument à 
+l’une de ces causes communes.
+
+3. Ailettes d’admission variables — Des ailettes d’admission vari­
+ables sont fournies comme alternative d’assemblage du cône
+d’admission ou d’un cylindre à ailes. Les ailettes sont utilisées
+pour contrôler le volume et conserver de l’énergie dans des
+installations pour lesquelles différents volumes opérationnels sont
+rencontrés. Les manuels d’installations sont fournis dans d’autres
+suppléments engineering spécifiques à ces types de ventilateurs.
+Des ailettes d’admission variables peuvent être fournies avec
+des opérateurs électriques, et dans ce cas, les installations du
+fabricant et les manuels d’opération sont fournis.
+
+Problèmes de Capacité d’air
+1. La résistance du système n’est pas conforme à celle de sa
+conception.  Si la résistance est plus basse que prévue,
+le débit d’air et la puissance en chevaux peuvent être trop
+élevées. Si la résistance est supérieure à celle qui a été
+prévue, le volume d’air est plus faible.
+
+2. La vitesse du ventilateur n’est pas celle pour laquelle il a
+été conçu.
+
+3. La densité de l’air n’est pas celle de la conception. Vérifiez
+aussi les techniques/procédures de mesure de performance
+de l’air.
+
+4. Les dispositifs de régulation d’air sont fermés ou obstrués.
+Vérifiez aussi les filtres.
+
+4. Boite d’admission et Régulateurs de boites d’admission — Des
+boites d’admission peuvent être fournies pour permettre la tran­
+sition d’un conduit à l’admission du ventilateur. Des régulateurs
+de boîtes d’admission sont aussi fournis pour fournir une régula­
+tion volumétrique similaire à celle des ailettes d’admission. Les
+régulateurs sont normalement fournis comme partie d’un assem­
+blage complet et sont installés avec des arbres de régulateurs
+parallèles aux arbres du ventilateur.  Ils doivent être installés
+pour faire subir à l’air une rotation préliminaire tournant dans la
+même direction que celle du ventilateur.  Voir Figure 7.
+
+5. La roue n’est pas correctement montée ou tourne en sens
+contraire.
+
+5. Régulateurs d’évacuation — Les régulateurs d’évacuation
+sont normalement fournis complètement assemblés comme
+les régulateurs d’admission. Le régulateur est boulonné à
+l’évacuation du ventilateur pour contrôler le volume.
+
+6. Certaines pièces du système ou du ventilateur ont été
+endommagées ou nécessitent un nettoyage.
+
+Problèmes de bruit
+1. La performance de l’air n’est pas correcte et le ventilateur
+ne fonctionne pas selon les critères de conception. Le ven­
+tilateur se trouve dans une zone d’écoulement instable.
+
+2. Défaillance de palier. Vérifier les paliers (lubrification).
+
+6. Refroidisseur d’arbre — Aussi appelés “roues de refroidisse­
+ment”, ce sont de petites roues en aluminium lamées et
+fendues qui sont  installées par boulonnage entre l’intérieur
+du palier et le cadre du ventilateur. La plaque postérieure
+est normalement la plus proche du cadre et les lames sont
+en face du palier.  Des instructions spécifiques sont fournies
+pour leur application.
+
+3. La tension d’alimentation est trop forte ou la fréquence
+d’alimentation n’est pas constante. Les contrôles de régula­
+tion de fréquence peuvent provoquer un bruit de moteur.
+
+7. Systèmes de circulation d’huile — en général, les modifica­
+tions suivantes doivent être apportées au palier si un sys­
+tème de circulation d’huile est utilisé. Lorsqu’un système de
+circulation d’huile est inclus, un manuel pour l’installation, le
+fonctionnement et l’entretien l’accompagne.
+
+4. Des objets se trouvant dans une location où l’air circule à
+haute vélocité peuvent provoquer un bruit Parmi ces objets:
+capteurs d’écoulement, aubes directrices, etc.
+
+a. Quatre trous de vidanges doivent être percés dans le
+
+5. Mauvaise condition à l’admission du ventilateur.
+
+palier, deux de chaque côté. Conséquemment, le palier
+peut être vidangé des deux côtés. (Le vider en utilisant
+les deux trous sur un des côtés du palier.)
+
+6. Les procédures de mesure de l’acoustique ou du son est
+incorrecte.
+
+b. Il n’est pas nécessaire de vidanger le palier.
+
+c. Le palier sera rempli de graisse pour éviter toute corro­
+
+Problèmes de vibrations
+1. Mauvais alignement des composantes du système
+d’entraînement.
+
+2. Mauvaise fondation ou structure de montage (résonance).
+
+3. Matériau étranger fixé à un élément rotatif.
+
+sion jusqu’à l’installation et mise en service. Les trous
+de vidange seront bouchés avec des couvercles de plas­
+tique pour s’assurer qu’ils sont ouverts. Le client DOIT
+ENLEVER la plus grande partie de cette graisse à l’aide
+d’un dissolvant et enlever les couvercles de plastique
+avant de démarrer le système de circulation d’huile.
+
+12
+
+IM-2-06
+
+
+
+=== PDF page 13 of 16 | native ===
+
+4. Éléments de rotation endommagés (paliers, arbre, ventilateur,
+roue, poulies).
+
+5. Vis sans tête cassées, desserrées ou manquantes.
+
+6. Boulons desserrés.
+
+7. Vibration transmise par une autre source.
+
+8. Accumulation d’eau dans des pales profilées.
+
+9. Le ventilateur opère dans une zone sans écoulement d’air
+ou dans une zone d’écoulement d’air instable.
+
+Problèmes de moteur
+1. Câblage incorrect.
+
+2. Vitesse de ventilateur trop élevée.
+
+3. Pièces mal installées; encrassement.
+
+4. Paliers improprement lubrifiés.
+
+5. L’inertie de rotation  du moteur est trop faible pour son
+application.
+
+6. Dispositifs de protection mal dimensionnés.
+
+Problèmes du système d’entraînement
+1. Courroies mal tendues.
+
+2. Mauvais alignement de l’entraînement.
+
+Recyclage
+Tous les métaux et autres matières recyclables doivent être 
+séparées et proprement recyclées. La peinture, l’isolation, 
+les matériaux d’emballage, les lubrifiants et les composants 
+électriques doivent être disposés conformément aux régulations 
+locales.
+
+Annexe A – Installation de Ventilateur Commercial
+
+Manutention
+Les ventilateurs de toit doivent seulement être soulevés à l’aide 
+d’élingues placées autour du cadre ou du socle du ventilateur. 
+Des barres de préhension peuvent aussi être utilisées pour éviter 
+d’endommager les cheminées ou les hottes. NE PAS SOULEVER 
+LES VENTILATEURS DE TOIT PAR LA CHEMINÉE OU LA 
+HOTTE. Pour les machines avec un capuchon de hotte, démont-
+er le couvercle avant de soulever la machine. Les modèles à 
+évacuation directe peuvent être soulevés tout assemblés.
+
+Un étouffoir, si utilisé, doit être solidement installé dans 
+l’enceinte de la bordure ou du mur d’une manière qui permette 
+une opération libre et non obstruée. 
+	
+Pour les unités de toit, ancrer le ventilateur solidement à la 
+bordure. Un ancrage à travers la partie verticale de la plaque de 
+couverture de la bordure est recommandé. Utiliser un minimum 
+de quatre boulons ou autre moyen d’ancrage approprié. Voir 
+Figure 8 ci-dessous.
+
+Ventilateurs à hottes
+Les unités avec hotte de taille 12 à 42 sont équipées d’une 
+hotte avec charnière faite d’une seule pièce. Pour lever la hotte, 
+Figure 8. Mounting Roof Ventilator to Curb Cap
+
+bande de clouage
+
+Bordure de toit fournie
+
+et montée par un tiers
+
+Ligne du toit
+
+Instructions de montage – Suivre la section ci-dessus intitulée  
+”Installation du ventilateur, unités assemblées en usine”, en excep-
+tant les instructions ci dessous pour les ventilateurs commerciaux.
+ 
+Les ventilateurs de toit doivent toujours être montés sur une 
+structure plate, plane, solide et rigide. Une attention particulière est 
+demandée lors de l’installation de ventilateurs sur des bâtiments 
+métalliques. S’assurer que le toit ou les murs peuvent supporter 
+le(s) ventilateur(s). Les ventilateurs montés sur des murs ou des toits 
+et qui ne sont pas correctement supportés causent des vibrations  
+qui peuvent entraîner des dommages ou des blessures.
+ 
+Les ventilateurs montés au-dessus du sol doivent être rigide-
+ment montés sur une plate-forme structurelle et placés aussi 
+près que possible d'un mur de soutien ou d’une colonne.
+ 
+Les supports pour les ventilateurs suspendus doivent être 
+renforcés pour supporter une charge vive afin de prévenir toute 
+oscillation. Utiliser des tirants de fer pour aider à maintenir les 
+unités si des conditions excessivement venteuses prévalent.
+ 
+Lorsque le ventilateur de toit est conçu pour être monté sur 
+une bordure, cette bordure doit être installée de manière sure 
+avant l’installation du ventilateur.
+
+13
+
+IM-2-06
+
+
+
+=== PDF page 14 of 16 | native ===
+
+Annexe A – Installation de Ventilateur Commercial (Suite)
+
+Figure 9. Installation de ventilateur de toit avec hotte typique.
+
+HOTTE À CHARNIÈRE
+
+TAILLES 12" - 42" PORTE D’ACCÈS 
+POUR INSPECTION
+
+ÉCRAN DE  SÉCURITÉ  STANDARD.
+ÉTOUFFOIR OPTIONNEL NON 
+REPRÉSENTE.
+
+enlever les deux boulons situés sous le champignon et le caler 
+avec les deux tiges de sécurité fournies. Pousser et verrouiller 
+en position. Une vis est installée au bout de chaque tige de 
+sécurité de la charnière dans l’angle de la hotte pour prévenir 
+un retrait accidentel de la hotte.  Pour fermer la hotte, replacer 
+les boulons pour verrouiller en position. Pour la taille 48, une 
+hotte boulonnée d’une pièce est connectée directement à la 
+cheminée du ventilateur. Pour soulever la hotte, enlever les 
+boulons situés sous le champignon. Pour les tailles 54–72, une 
+hotte boulonnée faite de deux pièces est connectée directement 
+à la cheminée du ventilateur. Pour soulever la hotte, enlever 
+les boulons de la feuille de métal qui est jointe aux côtés droit 
+et gauche de la hotte, puis enlever les boulons situés sous le 
+champignon. Voir Figure 9 ci-dessous.
+
+HOTTE BOULONNÉE
+
+TAILLES 48" - 60"
+
+PORTE  D’ACCÈS A L’ÉTOUFFOIR 
+ENLEVAGE
+
+ÉTOUFFOIR
+
+Annexe B - Ventilateurs Axiaux
+
+Ventilateurs axiaux – Assurer la roue sur l’arbre
+Si, pour quelque raison que ce soit, la roue doit être enlevée, 
+s’assurer qu’elle est bien attachée à l’arbre avant de redémarrer 
+le ventilateur. Si l’hélice est attachée par un manchon Trantorque, 
+utiliser la valeur de couple de serrage indiquée dans le Tableau 
+6 ci-dessous. Pour les autres manchons, voir Tableau 3 pour les 
+valeurs de couple de serrage correctes.
+
+Tableau 6. Couple de serrage pour manchons Trantorque
+
+Ajustement de l’aube sur ventilateurs hélico-centrifug­
+es Type TCVX, VJ
+La construction de cette roue brevetée maintient la pale en 
+position par friction et force centrifuge. Il n’est pas nécessaire 
+de démonter la roue pour changer l’angle des pales. S’il devient 
+nécessaire de changer l’angle des pales, la procédure suivante 
+doit être suivie:
+1. Travailler prudemment. Vérifier que les mesures de sécurité
+adéquates ont été suivies.  L’alimentation électrique doit être
+bloquée.
+
+Couple de Serrage
+
+Taille 
+Trantorque
+
+Diamètre 
+de l’arbre
+
+Ft-Lb
+N-m
+
+Taille de
+la douille 
+Trantorque
+
+7/8
+7/8
+1-1/2
+71
+96
+
+2. L’ajustement peut se faire par l’entrée d’air sur les ventila­
+teurs à entrée d’air ouverte. Sur les ventilateurs qui ont une
+entrée d’air sous forme de conduits, ouvrir la porte d’accès
+à la roue.
+
+1-1/8
+1-1/8
+1-3/4
+130
+176
+
+1-3/8
+1-3/8
+2
+141
+191
+
+1-5/8
+1-5/8
+2-1/4
+233
+316
+
+1-7/8
+1-7/8
+2-1/2
+325
+441
+
+2-1/8
+2-1/8
+2-3/4
+440
+597
+
+2-3/8
+2-3/8
+3
+470
+637
+
+2-7/8
+2-7/8
+3-1/2
+550
+746
+
+3. Placer l’appareil d’ajustement autour du périmètre de la roue
+(voir figure 10). Si nécessaire, utiliser une barre d’allonge
+autour du diamètre mesurant 11/4" (31.75mm) pour avoir plus
+de prise. Les pales peuvent être tournées à la main sur les
+ventilateurs à entrée d’air ouverte. Si plus de prise est néces­
+saire, appliquer une clé sur le bord de tête de la pale près
+du moyeu. Faites attention de ne pas abîmer la surface.
+
+Note: Ces valeurs de couple de serrage doivent être obtenues avec une 
+clé dynamométrique calibrée. NE PAS appliquer de lubrifiant sur aucune 
+des parties du couvercle TRANTORQUE.  NE PAS utiliser de filetage 
+adhésif anaérobique tels que Loctite®  sur les filetages.
+
+Ajustement de pale sur hélice de ventilateurs à angle 
+variable de type "E" 
+Méthode préférée (plus précise)
+1. Placer le moyeu sur une surface horizontale avec la surface
+concave des aubes (évacuation de l’air) vers le haut.
+
+2. Desserrer les boulons qui retiennent l’aube jusqu’à ce qu’ils
+puissent être tournés avec les doigts. Les aubes doivent
+maintenant tourner dans leurs cavités lorsqu’elles sont ferme­
+ment saisies, mais ne doivent pas tourner d’elles-mêmes.
+
+3. Placer une équerre de montage sur les deux marques de
+positionnement d’angle qui sont sur l’aube. Voir Figure 11.
+
+4. Tourner l’aube à l’angle désiré.
+
+Ventilateurs axiaux avec angles de pale ajustable
+Les pales sont ajustées en usine à l’angle donnant la perfor­
+mance spécifiée sur la commande. Cet angle doit être vérifié 
+avant la mise en service. L’angle de la pale ne doit pas être 
+changé de celui indiqué sur la commande sans s’assurer qu’un 
+changement de cet angle ne va pas surcharger le moteur, tout 
+contrôle ou autre élément. Les niveaux de vibrations doivent 
+aussi être vérifiés conformes avec ISO 14694: 2003, “Ventilateurs 
+Industriels – Spécifications pour équilibrage, qualité et niveau de 
+vibration“ si un changement d’angle de pale est opéré.
+
+5. Répéter les étapes 3 et 4 pour toutes les aubes.
+
+6. Resserrer les boulons retenant les aubes au couple de ser­
+rage indiqué sur le Tableau 7. Travailler selon un modèle
+en étoile, montant graduellement jusqu’au couple de serrage
+
+14
+
+IM-2-06
+
+
+
+=== PDF page 15 of 16 | native ===
+
+Figure 10. Alignement de l’angle des pales pour le type TXVX
+
+4. Resserrer les boulons qui retiennent les pales au couple de
+serrage indiqué. Une clé dynamométrique est nécessaire. Dans
+la plupart des cas, un joint universel sera aussi nécessaire.
+
+Moyeu
+Bord de tête
+de la pale
+
+Ajustement de pale pour hélice AXIAD à angle variable
+Sur chaque pale, des marques en relief sont moulées avec des 
+rainures entre elles,  et le carénage comporte une marque de
+
+5.0"
+
+5
+4
+
+Figure 12. "E" Prop Blade Angle Indicating Marks
+
+3
+
+Détails “X”
+
+25.0"
+
+5
+
+4
+
+Pale
+
+3
+
+Marque 32°
+
+2.5"
+
+Moyeu
+
+Marque 12°
+Flèche indicatrice
+
+Bord arrière
+
+Détail “X” Vernier Index 
+Line (La pale représentée
+
+de la pale
+
+est ajustée à 35°)
+
+Bout de la pale
+
+Outil AS-14093
+
+Barre de rallonge
+
+désiré par étapes. Serrer un boulon au couple de serrage 
+avant de passer au boulon adjacent peur craquer le moyeu.
+
+registre usinée pour chauqe ouverture de pale. Voir la Figure 13, 
+qui identifie chacune des crêtes et des rainures avec un chif­
+fre allant de 1 à 9. Ces chiffres correspondent aux chiffres de 
+performance de courbe indiqués dans le manuel de conception 
+et performance AXIADII.
+	
+Sur les ventialteurs Tupe 3 Axiad, arrangement 4, l’angle des 
+pales peut être ajusté en enlevant le filtre d’admission. Pour 
+les ventialteurs avec une admission sous forme de conduits, le 
+boitier est fourni avec une porte carrée de 8 pouces (200 mm) 
+dans le tuyau du ventilateur. Pour ajuster l’angle des pales, 
+procéder cmme suit:
+NOTE: Une clé de 5/16 avec un adapteur à bou carré fixé sur
+
+Méthode alternative
+
+Figure 13. Angles indicateurs pour pales Axiad
+
+INDEX SUR
+
+Figure 11. Marque de positionnement de la pale
+
+LE MOYEU
+
+Maque de position
+
+d’angle de pale
+
+POSITION DE PALE 
+ 9 8 7 6 5 4 3 2 1 0
+
+Table 7. Couple de serrage hélice "E"
+
+Couple de serrage du boulon d’aube
+
+une clé dynamométrique sera nécessaire. Dans la plupart des 
+cas, il faudra aussi un joint universel.
+1. Après avoir libéré l’accès au rotor, desserrer les deux bou­
+lons de pale jusqu’à ce qu’elle tourne librement.
+
+Taille du ventilateur
+Taille du moyeu
+Ft - lb
+N - m
+
+14 - 24
+6
+17
+23
+
+2. Tourner la pale pour aligner la marque de repère du caré­
+nage avec la marque d’angle désiré de la pale.
+
+30 - 36
+9
+30
+41
+
+42 - 48
+12
+75
+102
+
+ATTENTION: Ne pas excéder la position 9 pour la pale.
+
+Voir le Tableau 3 pour le couple de serrage des boulons à manchons- 
+Utiliser les valeurs pour un moyeu en aluminium
+
+3. Resserrer les deux boulons au couple de serrage 65 ft-lb
+(88 N-m).
+
+ATTENTION: Il est important de serrer les boulons de pales
+au couple de serrage spécifié. Ne pas serrer les boulons à
+la main.
+
+1. Desserrer les boulons qui retiennent la pale jusqu’à ce qu’ils
+puissant être tournés avec les doigts. Les aubes doivent
+maintenant tourner dans leurs cavités lorsqu’elles sont ferme­
+ment saisies, mais ne doivent pas tourner d’elles-mêmes.
+
+4. Répéter les étapes 1 à 3 pour toutes les pales. S’assurer que
+toutes les pales sont positionnées sur la même marque.
+
+5. Après avoir placé les pales au nouvel angle, faire tourner le
+ventilateur quelques minutes, et resserrer tous les boulons
+de pale au couple de serrage spécifié.
+
+Ajustement de l’aube pour hélice réglable réversible
+
+2. Les marques de positionnement de la pale s’alignent sur
+le moyeu avec une flèche indicatrice. Il y a deux longues
+marques sur la pale, la première pour un angle de 12°,
+et la seconde pour un angle de 32°.  Les marques plus
+petites progressant de 5° sont entre les deux marques plus
+longues.  Voir Figure 12.
+
+3. Tourner chaque pale à l’angle désiré.
+
+15
+
+IM-2-06
+
+
+
+=== PDF page 16 of 16 | native ===
+
+Procédures d’assemblage
+
+décrite précédemment utilisant l’index de marquage est suffisam-
+ment précise.
+
+Table 8. Couple de serrage pour les boulons en U des pales
+
+Couple de Serrage
+
+Taille des
+
+Aluminium
+Fibre de verre
+
+Taille de
+
+Taille du
+
+boulons
+
+l’hélice
+
+moyeu
+
+Ft-lb
+N-m
+Ft-lb
+N-m
+
+en U
+
+54 - 72
+14
+1/2”
+20
+27
+30
+41
+
+81 - 96
+18
+3/4”
+45
+61
+50
+68
+
+108 - 144
+18
+3/4”
+45
+61
+50
+68
+
+1. Placer le moyeu sur une surface horizontale avec l’ouverture
+d’assemblage du corps vers le haut. Ceci est normalement
+le côté évacuation de l’assemblage.
+2. Placer la parie jonction de la pale dans les ouvertures, le
+côté évacuation de la pale étant placé vers le haut. Le côté
+évacuation de la pale est le côté qui porte la marque de
+réglage d’angle. Aligner la marque index de la pale avec la
+marque d’angle correcte de l’extrémité du corps (Figures 14
+et 15), de l’autre côté de l’assemblage.
+3. Placer le capuchon sur le corps de la pale avec la partie
+en biais dirigée vers le centre. Mettre en place les boulons
+en U et les écrous de blocage élastiques. Avant de serrer
+les écrous de blocage, tirer la pale vers l’extérieur contre la
+rainure et vérifier la valeur de l’angle (Figures 14 et 15).
+
+4. Serrer les boulons élastiques de façon uniforme et ajuster le
+couple de serrage aux valeurs suivantes (en pied-livres):
+
+Figure 14. Marques de réglage de l’angle
+
+Si une précision plus grande est désirée, utiliser un incli-
+nomètre à bulle. Avant de procéder au serrage final des bou-
+lons, placer l’inclinomètre sur la marque de réglage d’angle. 
+(L’assemblage pale moyeu doit être de niveau pour obtenir un 
+réglage exact.)
+ 
+Ajuster l’angle en frappant l’extrémité du corps avec un 
+maillet.
+ 
+Serrer les écrous de blocage au couple de serrage cor-
+rect selon le Tableau 8. Re-vérifier le réglage de l’angle. Faire 
+tourner l’hélice pour vérifier que l’angle de chaque pale soit 
+dans la même position.
+ 
+Les hélices peuvent être assemblées de telle façon que le 
+côté couvercle du moyeu se trouve du côté de l’entrée d’air 
+(âme inverse) Si les pales n’ont pas de marques d’index du 
+côté évacuation, il est nécessaire d’ajuster l’angle avec un 
+inclinomètre.
+
+Le moyeu et les pales sont balancées indépendamment l’un
+
+Figure 16. Pales et marques de réglage d’angle.
+
+Index de réglage de l’angle sur la jonction du corps. Les marques
+
+vont de 10° à 50°. Chaque marque correspond à 2°.
+
+Boulon en U
+
+Figure 15. Explosion de la vue d’assemblage
+Marque de
+réglage
+d’angle
+
+Capuchon
+
+Pale
+
+Moyeu
+de pale
+
+Marques index
+
+Marque
+index
+
+Écrous de blocage élastiques
+
+Côté entrée d’air 
+Côté évacuation
+
+moyeu
+
+de l’autre. La distribution pondérale tout au long de la pale varie 
+légèrement. Par conséquent, la balance est relative à un moment 
+donné et les pales peuvent être assemblées dans n’importe quel 
+ordre bien que leur poids diffère quelque peu.
+
+5. S’assurer que la valeur de l’angle n’a pas changé pendant
+l’assemblage. Si c’est le cas, desserrer les boulons et régler
+l’angle de nouveau. Serrer les boulons au couple de serrage
+approprié. Ne pas trop serrer. S’assurer que les boulons en
+U sont serrés uniformément.
+
+Réglage de l’angle avec un inclinomètre (optionnel)
+Dans la plupart des conditions, la procédure d’assemblage
+
+TWIN CITY FAN & BLOWER  |  WWW.TCF.COM
+
+5959 Trenton Lane N  |  Minneapolis, MN 55442  |  Phone: 763-551-7600  |  Fax: 763-551-7601

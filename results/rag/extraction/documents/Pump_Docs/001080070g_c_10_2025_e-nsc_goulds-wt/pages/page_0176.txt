@@ -1,0 +1,155 @@
+lt - Originalo vertimas
+
+• Betono atsparumas suspaudimui turi būti C12/15
+ir atitikti XC1 klasės reikalavimus pagal EN 206-1
+• Dydžiai turi atitikti bloko atraminės plokštės dy‐
+džius
+• Jei reikia tylesnio veikimo, pamato svoris turi būti
+≥ 1,5 karto didesnis už vieneto svorį (≥ 5 kartus
+didesnis už įrenginio svorį)
+• Paviršius turi būti kuo plokštesnis ir lygesnis
+• Nuolydis turi būti ≤ 1 mm/m.
+Papildomos instrukcijos pateikiamos dokumento Nr.
+001080247X: norėdami jį atsisiųsti, nuskaitykite QR
+kodą, nurodytą 17 paveikslėlis 384 psl..
+
+• Turi būti naudojamas kieto pagrindo rėmas, ku‐
+ris siurbliui veikiant nesisukios ir nevibruos (rezo‐
+nansas).
+• Pagrindo rėmo paviršius, kur bus montuojamos
+siurblio kojelės ir variklis, turi būti lygus (reko‐
+menduojama apdirbti mašina).
+• Siurblys ir variklis turi būti saugiai pritvirtinti.
+• Tarp siurblio ir variklio turi būti palikta pakanka‐
+mai vietos, atsižvelgiant į naudojamą movą.
+• Tarp siurblio ir pagrindo rėmo turi būti pakanka‐
+mas pleištas, kad keičiant tą patį aukštį tarp
+apačios ir centrinės linijos būtų galima reguliuoti
+(rekomenduojamas vertikalus reguliavimas 4–6
+mm).
+
+Siurblio tvirtinimas
+
+Vibracijų mažinimas
+
+Horizontalaus ir vertikalaus montavimo pavyzdžius
+rasite 15 paveikslėlis 383 psl..
+
+1. Žr. techninį katalogą:
+– Pagrindo angų skersmuo ir skaičius
+– Skylės atstumai
+– Skaičiuojant kaklaraiščių strypų dydį ir kiekį
+
+Įrenginys ir skysčio srautas sistemoje gali sukelti
+vibracijas, kurios gali būti sustiprintos, jei įrenginys
+arba vamzdynų sistema yra netinkamai sumontuoti:
+laikykitės instrukcijųMontavimas ant betono pagrin‐
+do 171 psl., pateiktų ir Siurblio tvirtinimas 172 psl.,
+be Pipingo sistemos kontrolinis sąrašas 172 psl.
+
+Taip pat rekomenduojama:
+
+• Patikrinkite, ar siurblys ir variklis tvirtai pritvirtinti
+prie pagrindo
+• Įterpkite antivibracinę medžiagą tarp pagrindo ir
+pagrindo
+• Jei įrenginyje yra suvirintas pagrindas, užpildykite
+betonu tarpus, nurodytus 25 paveikslėlis 397 psl..
+
+PASTABA:
+Neužpildykite sulenkto lakštinio metalo pagrindo 26
+paveikslėlis 397 psl. betonu.
+
+LT
+
+4.3.2  Pipingo sistemos kontrolinis sąrašas
+Patikrinkite, ar laikomasi toliau nurodytų reikalavimų.
+
+su cheminiais inkarais, atsižvelgiant į įrengi‐
+nio modelį.
+2. Išgręžkite pagrindą ir pritvirtinkite tvirtinimo stry‐
+pus.
+3. Padėkite įrenginį ant pagrindo ir naudokite spirito
+lygį ant išleidimo angos ir veleno, kad įsitikintu‐
+mėte, jog jis yra lygus.
+Didžiausia leistina leistina leistina tolerancija: 0,2
+mm/m.
+4. Jei yra, nuimkite kamščius, dengiančius siurbimo
+ir išleidimo angas.
+5. Sulygiuokite siurbimo ir išleidimo prievadus su jų
+vamzdžiais.
+6. Pritvirtinkite vamzdžių sistemą prie įrenginio; taip
+pat žr. Pipingo sistemos kontrolinis sąrašas 172
+psl..
+7. Jei reikia, įstatykite tarpus tarp pagrindo ir pagrin‐
+do: jei atstumas tarp tvirtinimo strypų yra > 800
+mm, pagrindo viduryje įstatykite du papildomus
+pleištus. Visi pleištai turi būti puikiai praplauti. Žr.
+17 paveikslėlis 384 psl..
+8. Tolygiai ir visiškai priveržkite tvirtinimo strypo
+veržles, kad sukimo momentai būtų tokie, kaip
+nurodyta lentelėje.
+
+Veržlė
+Sukimo momentas, Nm
+(lbf·in)
+
+M12
+60 (44)
+
+• Jei montuojate siurbimo keltuvą, kad išvengtu‐
+mėte oro kišenių, siurbimo vamzdžio nuolydis
+įrenginio atžvilgiu turi būti didesnis nei 2 %.
+• Vamzdyno sistemos vardiniai skersmenys turi
+būti bent jau tokie patys, kaip ir siurblio prievadų
+vardiniai skersmenys.
+• Atjunkite vamzdžių sistemą atskirai, kad įrengi‐
+nys neapkrautų.
+• Prieš prijungdami vamzdžių sistemą prie įrengi‐
+nio, praplaukite ją, kad pašalintumėte suvirinimo
+likučius, nuosėdas ir nešvarumus. Jeigu reikia,
+įdėkite filtrą.
+
+M16
+120 (89)
+
+M20
+200 (148)
+
+M24
+350 (258)
+
+ĮSPĖJIMAS:
+Virinant susidariusios žymės, nuodegos
+ir kiti nešvarumai vamzdžiuose gadina
+siurblį.
+
+M27
+530 (391)
+
+4.3.3  Movų lygiuotė
+
+Pastaba:
+
+Movos apsaugos nuėmimas
+
+• Naudojant pagrindo plokštes, rekomenduojame
+pagrindo plokštes įbetonuoti mažai besitraukian‐
+čiu betonu.
+
+Siurblio pritvirtinimas prie pagrindo rėmo
+
+ĮSPĖJIMAS:
+JOKIU BŪDU siurblys neturi veikti be tin‐
+kamos movos apsaugos.
+
+Būtinai patikrinkite, ar laikomasi toliau nurodytų daly‐
+kų:
+
+Apsaugos tipas: vielos tinklelis
+Informacijos žr. 18 paveikslėlis 386 psl..
+
+1. Atsukite varžtus (2).
+2. Nuimkite vielos tinklelį. (1).
+
+172

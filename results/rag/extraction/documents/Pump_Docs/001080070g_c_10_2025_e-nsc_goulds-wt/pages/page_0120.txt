@@ -1,0 +1,159 @@
+sv - Översättning av orginal instruktioner
+
+• Ytan ska vara så plan och jämn som möjligt
+• Lutningen måste vara ≤ 1 mm/m.
+Ytterligare anvisningar finns i dokument nr.
+001080247X: för att ladda ned den, skanna QR-ko‐
+den som finns i Figur 17 på sidan 384.
+
+Enheten och vätskeflödet i systemet kan generera
+vibrationer som kan förstärkas om enheten eller rör‐
+systemet inte är korrekt installerade: följ anvisning‐
+arna i Installation på betongfundament på sidan 115
+och Fästa pumpen på sidan 116, utöver Checklista
+för rörsystem på sidan 116
+
+Fästa pumpen
+
+Det rekommenderas också att:
+
+Exempel på horisontala och vertikala installationer
+fins i Figur 15 på sidan 383.
+
+1. Se den tekniska katalogen för:
+– Diameter och antal fundamenthål
+– Hålavstånd
+– Beräkna storleken och kvantiteten på drag‐
+
+• Kontrollera att pumpen och motorn är ordentligt
+fastsatta på basen
+• Sätt in vibrationsdämpande material mellan ba‐
+sen och fundamentet
+• Om enheten har en svetsad bas, fyll med betong
+med utrymmena som visas i Figur 25 på sidan
+397.
+
+OBS!:
+Fyll inte den vikta plåtbasen Figur 26 på sidan 397
+med betong.
+
+4.3.2  Checklista för rörsystem
+
+Kontrollera att följande uppfylls:
+
+SV
+
+• Vid installation av sughöjd måste sugledningen
+ha en ökande lutning mot enheten som översti‐
+ger 2 % för att undvika luftfickor.
+• Rörsystemets nominella diametrar måste vara
+minst lika med pumpportarnas nominella diamet‐
+rar.
+• Stöd rörsystemet oberoende av varandra så att
+enheten inte belastas.
+• Spola rörsystemet innan det ansluts till enheten
+för att avlägsna eventuella svetsrester, avlagring‐
+ar och orenheter. Installera vid behov ett filter.
+
+stängerna med kemiska förankringar, beroen‐
+de på enhetens modell.
+2. Borra fundamentet och säkra dragstängerna.
+3. Placera enheten på fundamentet och använd ett
+vattenpass på utloppsporten och axeln för att
+säkerställa att den är i nivå.
+Maximal tillåten tolerans: 0,2 mm/m.
+4. Ta bort pluggarna som täcker sug- och utlopps‐
+portarna om sådana finns.
+5. Rikta in sug- och utloppsportarna efter deras rör‐
+system.
+6. Fäst rörsystemet på enheten; se även Checklista
+för rörsystem på sidan 116.
+7. Sätt vid behov in nivelleringsshims mellan fun‐
+damentet och basen: om avståndet mellan drag‐
+stängerna är > 800 mm, sätt in ytterligare två
+shims mitt på basen. Alla shims måste vara helt i
+jämnhöjd. Se Figur 17 på sidan 384.
+8. Dra åt dragstångsmuttrarna jämnt och fullstän‐
+digt och kontrollera att åtdragningsmomenten är
+de som anges i tabellen.
+
+Mutter
+Vridmoment, Nm (lbf·in)
+
+VAR FÖRSIKTIG!:
+Svetspärlor, slagg och andra föroreningar
+i rörsystemet skadar pumpen.
+
+M12
+60 (44)
+
+4.3.3  Kopplingsuppriktning
+
+M16
+120 (89)
+
+Ta bort kopplingsskyddet
+
+M20
+200 (148)
+
+M24
+350 (258)
+
+M27
+530 (391)
+
+VAR FÖRSIKTIG!:
+Kör aldrig pumpen utan att kopplings‐
+skyddet är korrekt installerat.
+
+Obs!:
+
+Typ av skydd: trådnät
+För information, se Figur 18 på sidan 386.
+
+• För bottenplattor rekommenderar vi att botten‐
+plattan gjuts med betong med låg krympning.
+
+Montera pumpen på en basram.
+
+Kontrollera att följande uppfylls:
+
+1. Skruva ur skruvarna (2).
+2. Ta bort trådnätet. (1)
+Typ av skydd: plåt
+För information, se Figur 19 på sidan 388.
+
+1. Skruva loss låsskruvarna på halvskalen (5).
+2. Skruva loss fästskruvarna som håller fast det
+övre halvskalet (3).
+3. Ta bort kopplingsskyddets övre halvskal (1).
+4. Skruva loss fästskruvarna som håller fast det
+nedre halvskalet (4).
+5. Ta bort kopplingsskyddets nedre halvskal (2).
+6. Öppna och lyft stöd-/justeringsringen (6).
+
+Kontroll och justering av koppling
+
+• Solid basram som inte vrids eller vibrerar under
+drift (resonans).
+• Monteringsytorna på pumpfötterna och motorn
+på basramen måste vara plana (maskinbearbet‐
+ning rekommenderas).
+• Säker fastsättning av pumpen och motorn måste
+garanteras.
+• Beroende på typen av koppling som används
+måste tillräckligt med utrymme lämnas mellan
+pumpen och motoraxeln.
+• Mellan pumpen och basramen måste det finnas
+tillräckligt med shims så att vid byte kan samma
+höjd mellan botten och centrumlinjen justeras
+(rekommenderad vertikal justering 4-6 mm
+
+OBS!:
+Kontrollera kopplingens uppriktning igen under var‐
+ma driftsförhållanden.
+
+Minska vibrationer
+
+116

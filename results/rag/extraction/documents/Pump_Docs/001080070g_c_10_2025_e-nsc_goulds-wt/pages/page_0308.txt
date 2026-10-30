@@ -1,0 +1,159 @@
+tr - Orijinal talimatlar
+
+• Pompa ve motor mili arasında, kullanılan kapline
+bağlı olarak yeterli boşluk bırakılmalıdır.
+• Pompa ve taban çerçevesi arasında yeterli bir
+şimleme olmalıdır, böylece değiştirme durumun‐
+da alt ve merkez çizgisi arasındaki aynı yükseklik
+ayarlanabilir (önerilen dikey ayar 4-6 mm).
+
+Titreşimleri azaltma
+
+• Beton, C12/15 sıkıştırma direncine sahip olmalı
+ve EN 206-1 uyarınca XC1 sınıfı maruz kalma ge‐
+rekliliklerini karşılamalıdır
+• Boyutlar, ünite destek plakasının boyutlarına uy‐
+gun olmalıdır
+• Temel ağırlık, ünite ağırlığının ≥ 1,5 katı olmalı‐
+dır (daha sessiz bir çalışma gerekiyorsa ünitenin
+ağırlığının ≥ 5 katı)
+• Yüzey mümkün olduğunca düz ve düz olmalıdır
+• Eğim ≤ 1 mm/m olmalıdır.
+Ek talimatlar belge no. 001080247X: indirmek için,
+içinde bulunan QR kodunu tarayınŞekil 17 sayfa 384.
+
+Pompanın sabitlenmesi
+
+Ünite ve sistemdeki sıvıların akışı, ünitenin veya
+boru sisteminin doğru takılmaması durumunda yük‐
+seltilebilecek titreşimler oluşturabilir: ve Beton zemi‐
+ne montaj sayfa 303 Pompanın sabitlenmesi sayfa
+304'deki talimatlara ve ayrıca Boru sistemi kontrol
+listesi sayfa 304
+
+Ayrıca şunlar önerilir:
+
+Yatay ve dik kurulumlara örnekler için, bkz. Şekil 15
+sayfa 383.
+
+1. Aşağıdakiler için teknik kataloga bakın:
+– Temel deliklerinin çapı ve sayısı
+– Delik mesafeleri
+– Ünitenin modeline bağlı olarak, bağlantı çu‐
+
+• Pompanın ve motorun tabana sağlam bir şekilde
+bağlandığını kontrol edin
+• Taban ve temel arasına titreşim önleyici malzeme
+yerleştirin
+• Ünite kaynaklı bir tabana sahipse, içinde göste‐
+rilen boşlukları betonla doldurunŞekil 25 sayfa
+397.
+
+UYARI:
+Katlanmış sac tabanı betonla Şekil 26 sayfa 397 dol‐
+durmayın.
+
+4.3.2  Boru sistemi kontrol listesi
+
+Aşağıdakilerin uygulandığından emin olun:
+
+buklarının boyut ve miktarının kimyasal ankor‐
+larla hesaplanması.
+2. Tabanı delin ve bağlantı çubuklarını sabitleyin.
+3. Üniteyi temele yerleştirin ve tahliye portunda ve
+milde bir su terazisi kullanarak düz olduğundan
+emin olun.
+İzin verilen maksimum tolerans: 0,2 mm/m.
+4. Varsa, emme ve tahliye portlarını kaplayan tapa‐
+ları çıkarın.
+5. Emme ve tahliye portlarını borularıyla hizalayın.
+6. Boru sistemini üniteye sabitleyin; ayrıca bkz. Boru
+sistemi kontrol listesi sayfa 304.
+7. Gerekirse, taban ve taban arasına seviyelendirme
+şimleri yerleştirin: Eğer bağlantı çubukları arasın‐
+daki mesafe > 800 mm ise, tabanın ortasına iki ek
+şim yerleştirin. Tüm şimler mükemmel bir şekilde
+aynı hizada olmalıdır. Bkz Şekil 17 sayfa 384.
+8. Torkların tabloda gösterildiği gibi olduğundan
+emin olarak bağlantı çubuğu somunlarını eşit ve
+tam olarak sıkın.
+
+• Emme kaldırma kurulumu durumunda, hava cep‐
+lerini önlemek için emme borusunun üniteye doğ‐
+ru %2'yi aşan artan bir eğimi olmalıdır.
+• Boru sisteminin nominal çapları, en azından pom‐
+pa portlarının nominal çaplarına eşit olmalıdır.
+• Üniteye yük bindirmemek için boru sistemini ba‐
+ğımsız olarak destekleyin.
+• Kaynak kalıntılarını, tortuları ve yabancı maddele‐
+ri gidermek için, boru sistemini üniteye bağlama‐
+dan önce yıkayın. Gerekirse filtre takın.
+
+Somun
+Tork, Nm (lbf·in)
+
+M12
+60 (44)
+
+DİKKAT:
+Boru tesisatındaki kaynak boncukları, tar‐
+tar ve kirlilik pompaya zarar verir.
+
+M16
+120 (89)
+
+4.3.3  Kaplin hizalama
+
+M20
+200 (148)
+
+Kaplin korumasının çıkarılması
+
+M24
+350 (258)
+
+M27
+530 (391)
+
+Not:
+
+DİKKAT:
+Asla pompayı kaplin koruması doğru bir
+şekilde takılmamış olarak çalıştırmayın.
+
+Koruma tipi: tel örgü
+Daha fazla bilgi için bkz. Şekil 18 sayfa 386.
+
+• Taban plakaları için, düşük çekme payı olan beto‐
+na sahip taban plakasını harçla doldurmanız öne‐
+rilir.
+
+TR
+
+Pompayı, bir taban çerçevesine monte edin.
+
+Aşağıdakilerin uygulandığından emin olun:
+
+1. Vidaları (2) sökün.
+2. Tel örgüyü çıkarın. (1).
+Koruma türü: sac
+Daha fazla bilgi için bkz. Şekil 19 sayfa 388.
+
+• Çalışma sırasında bükülmeyen ve titremeyen sert
+taban (rezonans).
+• Pompa ayaklarının monteleme yüzeyleri ve taban
+çerçevesinde bulunan motor düz olmalıdır (işlen‐
+mesi önerilir).
+• Pompanın ve motorun emniyet kilidi güvenceli ol‐
+malıdır.
+
+1. Yarı kabukların (5) kapama vidalarını sökün.
+2. Üst yarım kabuğu (3) sabitleyen sabitleme vidala‐
+rını sökün.
+3. Kaplin korumasının (1) üst yarım kovanını çıkarın.
+4. Alt yarım kabuğu (4) sabitleyen sabitleme vidala‐
+rını sökün.
+5. Kaplin korumasının (2) alt yarım kovanını çıkarın.
+6. Destek/ayar halkasını (6) açın ve kaldırın.
+
+304

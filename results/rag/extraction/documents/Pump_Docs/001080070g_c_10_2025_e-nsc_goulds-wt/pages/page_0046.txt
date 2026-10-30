@@ -1,0 +1,159 @@
+de - Übersetzung des Originals
+
+Die folgende Gleichung wird zur Berechnung der ma‐
+ximalen Höhe über dem Flüssigkeitsspiegel verwen‐
+det, in der die Pumpe installiert werden kann:
+(pb*10,2 - Z) ≥ NPSH + Hf + Hv + 0,5
+
+pb
+Barometrischer Druck in bar (ist in geschlos‐
+senen Systemen der Systemdruck)
+
+NPSH
+Wert des Eigen-Durchflusswiderstands der
+Pumpe in Metern
+
+Hf
+Gesamtverluste in Metern aufgrund der Strö‐
+mung der Flüssigkeit im Saugrohr der Pum‐
+pe
+
+HV
+Dampfdruck in Metern, der der Temperatur
+der Flüssigkeit T °C entspricht.
+
+DE
+
+0,5
+Empfohlener Sicherheitszuschlag (m)
+
+Z
+Maximalhöhe, in der die Pumpe installiert
+werden kann (m)
+
+bedingungen geeignet. Das Saugrohr darf nicht
+kleiner sein als der Sauganschluss-Durchmesser.
+• Wenn ein größeres Saugrohr als der Saugan‐
+schluss-Durchmesser verwendet werden muss,
+ist eine exzentrische Reduzierung installiert.
+• Wenn die Pumpe oberhalb des Flüssigkeits‐
+stands montiert ist, ist am Ende der Saugleitung
+ein Fußventil installiert.
+• Das Fußventil ist vollständig in die Flüssigkeit
+eingetaucht, um das Eindringen von Luft durch
+Saugwirbel zu verhindern, wenn sich die Flüssig‐
+keit auf ihrem Mindestflüssigkeitsstand befindet
+und die Pumpe oberhalb der Flüssigkeitsquelle
+installiert ist.
+• In der Ansaugleitung und der Auslassleitung (hin‐
+ter dem Rückschlagventil) sind ausreichend di‐
+mensionierte Auf-/Zu-Ventile zur Regelung der
+Pumpenkapazität sowie zur Inspektion und War‐
+tung der Pumpe installiert.
+• In der Auslassleitung ist ein Rückschlagventil
+installiert, um bei abgeschalteter Pumpe einen
+Rücklauf in die Pumpe zu verhindern.
+
+(pb*10,2 - Z) muss stets eine positive Zahl sein.
+Weitere Informationen entnehmen Sie bitte Abbil‐
+dung 12 auf Seite 380.
+
+HINWEIS:
+Überschreiten Sie die Saugleistung der Pumpe nicht,
+da dies zu Kavitation und Beschädigung der Pumpe
+führen kann.
+
+4.1.2  Rohrleitungsanforderungen
+
+Vorsichtsmaßnahmen
+
+WARNUNG:
+Drosseln Sie den Pumpendurchfluss
+durch Schließen des Auf-/Zu-Ventils auf
+der Auslassseite nicht länger als eini‐
+ge wenige Sekunden. Wenn die Pumpe
+für mehr als einige Sekunden mit ge‐
+schlossener Auslassseite betrieben wer‐
+den soll, muss ein Bypass-Kreis instal‐
+liert sein, um ein Überhitzen des Medi‐
+ums in der Pumpe zu verhindern.
+
+WARNUNG:
+
+Abbildungen zur Verdeutlichung der Rohrleitungsan‐
+forderungen entnehmen Sie bitte Abbildung 13 auf
+Seite 380 und Abbildung 14 auf Seite 380.
+
+4.2  Anforderungen an die elektrische
+Versorgung
+
+• Verwenden Sie Rohrleitungen, die
+für den maximalen Arbeitsdruck der
+Pumpe geeignet sind. Nichtbeach‐
+tung kann zum Bersten und damit zu
+Verletzungen führen.
+• Stellen Sie sicher, dass alle Anschlüs‐
+se von qualifizierten Monteuren und
+unter Beachtung aller geltenden Vor‐
+schriften hergestellt werden.
+
+• Vor Ort geltende Vorschriften haben vor den hier
+angegebenen Voraussetzungen Vorrang.
+• Beachten Sie bei Brandbekämpfungssystemen
+(Hydranten und/oder Sprinkler) weiterhin die vor
+Ort geltenden Vorschriften.
+
+Checkliste für den elektrischen Anschluss
+
+Prüfen, ob die folgenden Voraussetzungen erfüllt
+sind:
+
+HINWEIS:
+Beachten Sie alle anwendbaren Vorschriften der Be‐
+hörden und Wasserversorgungsunternehmen, wenn
+die Pumpe an ein öffentliches Wassersystem ange‐
+schlossen wird. Sofern erforderlich, montieren Sie
+eine entsprechende Rücksperre an der Saugseite
+
+Checkliste für Rohrleitungen
+
+• Alle elektrischen Leitungen sind gegen hohe
+Temperaturen, Vibrationen und mechanische Be‐
+schädigung geschützt.
+• In den Stromversorgungsleitungen sind folgende
+Komponenten vorzusehen:
+
+Prüfen, ob die folgenden Voraussetzungen erfüllt
+sind:
+
+– Eine Sicherung gegen Kurzschlüsse
+– Ein Trennschalter für die Netzversorgung mit
+
+einem Kontaktabstand von mindestens 3 mm
+
+Die Schalttafel-Checkliste
+
+HINWEIS:
+Das Bedienfeld muss den elektrischen Kennwerten
+der Pumpe entsprechen. Ungeeignete Kombinatio‐
+nen können dazu führen, dass Schutzfunktionen für
+den Motor nicht mehr wirksam sind.
+
+Prüfen, ob die folgenden Voraussetzungen erfüllt
+sind:
+
+• Für die Rohrleitungen sind separate Halterungen
+vorzusehen, die Rohrleitungen dürfen zu keiner
+Belastung der Pumpe führen.
+• Es werden Schläuche oder flexible Verschraubun‐
+gen verwendet, um die Übertragung von Pumpen‐
+vibrationen auf Rohrleitungen zu vermeiden und
+umgekehrt.
+• Verwenden Sie weite Bögen und vermeiden Sie
+Kniestücke mit hohem Durchflusswiderstand.
+• Die Saugrohre sind perfekt abgedichtet und luft‐
+dicht.
+• Bei Pumpen in einem offenen System ist der
+Durchmesser des Saugrohrs für die Installations‐
+
+42

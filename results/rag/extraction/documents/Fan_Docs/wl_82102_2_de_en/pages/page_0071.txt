@@ -1,0 +1,7 @@
+Other means of inspection at FAG
+Component tests
+
+115: Test rig for simulating operating stress of car wheel bearings
+
+FAG
+70

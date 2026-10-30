@@ -1,0 +1,69 @@
+4. Place the packing base ring (6-152-0) into the
+	
+stuffing box. Slide the stuffing box cover over
+	
+the pump shaft, and, if applicable, bolt the
+	
+stuffing box to the motor adapter using
+	
+capscrews (1-904-0).
+5. Install the packing (6-924-0) and, if applicable, 
+the seal cage ( 6-013-0) into the stuffing 
+box being sure to stagger the joints as per 
+the instructions found in the general pump 
+instruction section of this book.
+
+Impeller installation
+
+1. If the pump is equipped with mechanical seals,
+	
+slide the spacer sleeve (1-154-0) over the shaft
+	
+sleeve and into the stuffing box.
+2. Install the impeller key into the keyway on the
+	
+impeller side of the motor shaft.
+3. Slide the pump impeller (4-002-0) onto the 
+motor shaft.
+4. Screw the impeller nut (4-023-0) onto the pump
+	
+shaft until finger tight. Hold the outside diameter of 
+the impeller and tighten (clockwise as viewed from 
+the suction inlet) the impeller nut to 25-30 ft. lbs.
+5. For pumps with mechanical seals, tighten gland
+	
+evenly against the stuffing box.
+
+Final assembly
+
+NOTE: When assembling the rotating assembly to
+the casing, be certain that the pump feet
+are parallel to the motor feet.
+
+1. Place the "0" ring casing seal (2-914-0) around
+    the "0" ring seat on the stuffing box cover.
+2. Carefully slide the motor, motor adapter, stuffing
+	 box assembly into the casing being sure not to
+	 pinch the "0" ring. Insert the capscrews (1-904-0)
+	 through the frame and into the casing (the large
+	 Series A-C 2000 pumps use capscrews and
+
+clamping lugs (1-937-0) to hold the motor adapter 
+to the casing. Tighten opposite capscrews evenly 
+around the adapter until the stuffing box has been 
+drawn evenly into the casing). Then, alternately 
+torque each capscrew to 25 ft. lbs.
+3. If necessary, connect the suction and discharge
+	 piping to the pump.
+4. Secure the motor foot.
+5. Connect the flushing water system to the stuffing
+	 box.
+6. If the pump is to be started, be sure flushing is
+	 provided to the stuffing box.
+7 . Connect the power to the motor. CHECK THE
+	 MOTOR ROTATION.
+
+This completes the assembly of the Series A-C 2000 
+close-coupled pump.
+
+14

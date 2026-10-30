@@ -1,0 +1,165 @@
+it - Traduzione dell'originale
+
+giunto dell’unità, vedere Verifica e allineamento del
+giunto a pagina 8.
+
+Contattare il rappresentante di vendita e assistenza
+di zona per eventuali richieste o informazioni.
+
+Cuscinetti del motore
+
+La responsabilità di controllare la portata corretta e
+la temperatura del liquido pompato spetta all'instal‐
+latore o al proprietario.
+Prima dell'avviamento della pompa, accertarsi che:
+
+Dopo circa cinque anni, il grasso nei cuscinetti del
+motore è talmente invecchiato che si consiglia la so‐
+stituzione dei cuscinetti. I cuscinetti devono essere
+sostituiti dopo 25.000 ore operative o secondo le
+istruzioni di manutenzione del fornitore del motore,
+l’intervallo inferiore tra i due.
+
+IT
+
+Motore con cuscinetti rilubrificabili
+
+• La pompa sia correttamente collegata all'alimen‐
+tazione.
+• La pompa è montata correttamente secondo le
+istruzioni fornite in Riempire la pompa (capitolo
+5).
+• La valvola di intercettazione a valle della pompa
+sia chiusa.
+
+Seguire le istruzioni di manutenzione del fornitore
+del motore.
+
+1. Avviare il motore.
+
+Giunto
+
+2. Aprire gradualmente la valvola di intercettazione
+sul lato di mandata della pompa.
+
+Controllare a intervalli regolari il gioco negli elementi
+di accoppiamento, almeno una volta l’anno. Si con‐
+siglia di eseguire il controllo ogni 1000 ore di fun‐
+zionamento oppure ogni tre mesi, a seconda della
+situazione che si verifica prima.
+
+Alle condizioni di esercizio previste, la pompa de‐
+ve funzionare in modo silenzioso e regolare. Altri‐
+menti, fare riferimento a Risoluzione dei problemi
+a pagina 11.
+
+6.2  Lista di controllo ispezione
+
+6  Manutenzione
+
+Precauzioni
+
+Controllare il giunto
+Controllare gli elementi
+flessibili del giunto. So‐
+stituire le parti appropria‐
+te in caso di segni di usu‐
+ra e controllare l'allinea‐
+mento.
+
+Pericolo elettrico:
+Scollegare e isolare l'alimentazione elet‐
+trica prima di installare l'unità o sottopor‐
+la a manutenzione.
+
+Controllare la tenuta
+meccanica
+
+AVVERTENZA:
+
+Controllare la presenza
+di perdite dalla tenuta
+meccanica. Sostituire la
+tenuta meccanica se
+vengono rilevate perdite.
+
+Controllo delle tenute dei
+cuscinetti
+
+Controllare la sede cor‐
+retta degli anelli di tenuta
+ssiali montati sull'albero.
+Il labbro di tenuta deve
+essere toccato solo deli‐
+catamente.
+
+• La manutenzione deve essere esegui‐
+ta solo da personale esperto e qualifi‐
+cato.
+• Osservare le vigenti norme antinfortu‐
+nistiche.
+• Utilizzare adeguate attrezzature e
+protezioni.
+• Fare attenzione al liquido scaricato in
+modo che non possa arrecare danni a
+cose o persone.
+
+Controllo per esecuzione
+silenziosa
+
+Eseguire spesso il con‐
+trollo per esecuzione si‐
+lenziosa della pompa
+con strumenti di misura‐
+zione delle vibrazioni.
+
+6.3  Smontare e sostituire le parti della
+pompa
+Per ulteriori informazioni sulle parti di ricambio e su
+montaggio e smontaggio della pompa, contattare il
+rappresentante alle vendite e di assistenza di zona.
+
+6.1  Manutenzione
+In caso l’utilizzatore desideri approntare un piano di
+manutenzione programmata, tenere presente che le
+scadenze dipendono dal tipo di liquido pompato e
+dalle condizioni di esercizio.
+Contattare il rappresentante di vendita e assistenza
+di zona per eventuali richieste o informazioni riguar‐
+do l’assistenza o la manutenzione ordinaria.
+Può essere necessaria la manutenzione straordina‐
+ria per la pulizia delle parti idrauliche e/o sostituzio‐
+ne di altre parti usurate.
+
+7  Risoluzione dei problemi
+
+Pompe con cuscinetti lubrificati a vita
+
+Le pompe con cuscinetti lubrificati a vita non richie‐
+dono alcuna manutenzione ordinaria pianificata.
+
+7.1  Risoluzioni dei guasti per gli utenti
+L'interruttore generale è inserito ma l'elettropompa
+non si avvia.
+
+Pompe con cuscinetti rilubrificabili
+
+Causa
+Soluzione
+
+• Lubrificare a 4000 ore di esercizio, ma almeno
+una volta all’anno. Pulire prima gli ingrassatori
+(SN).
+• Utilizzare grasso NLGI Grado 2 o equivalente.
+
+È intervenuta la prote‐
+zione termica incorpora‐
+ta nella pompa (se pre‐
+sente).
+
+Attendere che la pompa
+si raffreddi. La protezione
+termica si riarma automa‐
+ticamente.
+
+11

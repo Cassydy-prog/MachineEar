@@ -1,0 +1,60 @@
+5. Basic Pump Maintenance
+
+essentially a refined extension of the human ear. 
+By “listening” to the vibrations of a motor or 
+similar piece of machinery, the instrumentation 
+can detect the beginnings of bearing problems, 
+motor winding problems, or other dynamic 
+imbalances.
+
+In addition, thermography, or infrared (IR) 
+scanning, can be used. IR scans provide early 
+detection of a hot spot and can help avoid an 
+unexpected shutdown. With pump motors, IR 
+scans offer a means of identifying developing 
+problems—for example, a hot-running bearing 
+or deteriorating winding insulation.
+
+Vibration analysis equipment uses accelerometers 
+to measure the vibration response of machinery 
+during operation and records the data on an 
+amplitude/frequency graph. These measured 
+vibrations are compared with a baseline set of 
+data, usually taken when the machinery was 
+first operated. Identifying problems before they 
+become larger allows operators to schedule the 
+needed repairs and significantly reduce the risk 
+of catastrophic failure.
+
+Predictive maintenance thus allows operators to 
+plan for equipment repairs. Two different 
+signatures can be compared to determine the rate 
+at which a problem is developing. This infor­
+mation can be useful in that a repair may be 
+postponed with greater confidence until a 
+convenient downtime.
+
+Another predictive maintenance technique 
+involves oil monitoring and analysis. For pumps 
+with oil-lubricated bearings, analyzing oil quality 
+provides another insight into the operating 
+condition of the bearings and seals. An oil analysis 
+can indicate whether a pump has operated at high 
+temperatures, whether system fluid is leaking into 
+the oil, and whether the bearings are nearing the 
+end of their operating life.
+
+An oil analysis can also increase the confidence 
+with which oil change-outs are planned and 
+eliminate unnecessary oil replacements. It can 
+also provide substantial cost savings, especially 
+if the oil is expensive—for example, a synthetic 
+type with sophisticated additives. At approx-
+imately $1,000 per analysis, oil monitoring is not 
+economical for all pump applications; however, 
+it can provide some facilities with worthwhile 
+intelligence regarding the condition of their plant 
+equipment.
+
+36
+Improving Pumping System Performance

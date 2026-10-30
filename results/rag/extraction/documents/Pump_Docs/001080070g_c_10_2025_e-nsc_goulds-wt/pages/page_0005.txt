@@ -1,0 +1,114 @@
+To urządzenie może być użytkowane wyłącznie przez wykwalifikowanych 
+użytkowników. Użytkownicy wykwalifikowani to osoby będące w stanie rozpoznać 
+źródła ryzyka i unikać zagrożeń w trakcie instalacji, użytkowania i konserwacji tego 
+urządzenia. 
+cs 
+Bezpečnost 
+uživatele
+
+VAROVÁNÍ: 
+Tuto jednotku smí používat pouze kvalifikovaní uživatelé. Kvalifikovaní uživatelé 
+jsou osoby schopné rozeznat rizika a předcházet nebezpečím během instalace, 
+použití a údržby jednotky. 
+sk 
+Bezpečnosť 
+používateľa
+
+VAROVANIE: 
+Túto jednotku smú používať len kvalifikovaní používatelia. Kvalifikovaní používatelia 
+sú osoby schopné rozpoznať riziká a predchádzať nebezpečenstvu počas 
+inštalácie, používania a údržby jednotky. 
+hu 
+Felhasználói 
+biztonság
+
+FIGYELMEZTETÉS: 
+Ezt az egységet kizárólag szakképzett felhasználók használhatják. A szakképzett 
+felhasználók azok a személyek, akik képesek felismerni a kockázatokat és elkerülni 
+az egység telepítése, használata és karbantartása során előforduló veszélyeket. 
+ro 
+Siguranţa 
+utilizatorului
+
+AVERTISMENT: 
+Această unitate poUtilizatorii calificaţi sunt persoane care pot recunoaşte riscurile şi 
+pot evita pericolele în timpul instalării, utilizării şi întreţinerii unităţii.ate fi utilizată 
+numai de utilizatori calificaţi. 
+bg 
+Безопасност на 
+потребителите
+
+ПРЕДУПРЕЖДЕНИЕ: 
+Този агрегат трябва да се използва само от квалифицирани потребители. 
+Квалифицираните потребители са хора, които могат да разпознават рисковете 
+и да избягват опасности по време на инсталирането, използването и 
+поддръжката на агрегата. 
+sl 
+Uporabniška 
+varnost
+
+OPOZORILO: 
+Enoto lahko uporabljajo le usposobljeni uporabniki. Usposobljeni uporabniki so 
+ljudje, ki so sposobni prepoznati tveganja ter se izogniti nevarnostim med 
+namestitvijo, uporabo in vzdrževanjem enote. 
+hr 
+Sigurnost korisnika 
+UPOZORENJE: 
+Ovu jedincu smiju koristiti samo kvalificirani korisnici. Kvalificirani korisnici su osobe 
+koje su u stanju prepoznati rizike i izbjeći opasnosti tijekom ugradnje, uporabe i 
+održavanja jedinice. 
+sr 
+Bezbednost 
+korisnika
+
+UPOZORENJE: 
+Ovu jedinicu moraju da koriste samo kvalifikovani korisnici. Kvalifikovani korisnici 
+su ljudi sposobni da prepoznaju rizike i izbegnu opasnosti tokom postavljanja, 
+korišćenja i održavanja jedinice. 
+el 
+Ασφάλεια χρήστη 
+ΠΡΟΕΙΔΟΠΟΙΗΣΗ: 
+Αυτή η μονάδα πρέπει να χρησιμοποιείται μόνο από ειδικευμένους χρήστες. Οι 
+ειδικευμένοι χρήστες είναι άτομα που μπορούν να αναγνωρίσουν και να αποφύγουν 
+τους κινδύνους κατά την εγκατάσταση, τη χρήση και τη συντήρηση της μονάδας. 
+tr 
+Kullanıcı güvenliği 
+UYARI: 
+Bu ünite sadece kalifiye kullanıcılar tarafından kullanılmalıdır. Kalifiye kullanıcılar, 
+ünitenin kurulumu, kullanımı ve bakımı esnasında riskleri algılayabilecek ve 
+tehlikeleri önleyebilecek kişilerdir. 
+ru 
+Безопасность 
+пользования
+
+ПРЕДУПРЕЖДЕНИЕ: 
+Этот 
+агрегат 
+должен 
+использоваться 
+только 
+квалифицированными 
+пользователями. 
+Под 
+квалифицированными 
+пользователями 
+подразумеваются лица, способные распознавать угрозы и избегать опасности 
+во время выполнения монтажа, эксплуатации и технического обслуживания 
+агрегата. 
+uk 
+Безпека 
+експлуатації
+
+ПОПЕРЕДЖЕННЯ 
+Цей пристрій має використовуватися лише кваліфікованими користувачами. 
+Кваліфіковані користувачі — це особи, які спроможні розпізнавати ризики й 
+уникати небезпеки під час виконання монтажу, експлуатації й технічного 
+обслуговування пристрою. 
+ar 
+ ﺳﻼﻣﺔ اﻟﻣﺳﺗﺧد م 
+: ﺗﺣذﯾر 
+ 
+ .ﯾﺟب أن ﺗﺳُﺗﺧدم ھذه اﻟوﺣدة ﻓﻘط ﻣن ﻗﺑل أﻓراد ﻣؤھﻠﺔ
+ اﻟﻣﺳﺗﺧدﻣون اﻟﻣؤھﻠون ھم أﻧﺎس ﻗﺎدرون ﻋﻠﻰ اﻟﺗﻌرف 
+ ﻋﻠﻰ اﻟﻣﺧﺎطر وﺗﺟﻧب اﻷذى أﺛﻧﺎء ﺗرﻛﯾب واﺳﺗﺧدام 
+وﺻﯾﺎﻧﺔ اﻟوﺣد ة.
