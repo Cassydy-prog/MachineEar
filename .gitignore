@@ -14,6 +14,9 @@ __pycache__/
 !/data/features/machineear_features_all_snr.csv
 *.zip
 .env
+.env.*
+!.env.example
+results/web_analyses/
 
 # Local audio experiments and individual recording analyses remain excluded.
 # Prepared results/rag assets are versioned at the user's explicit request.
