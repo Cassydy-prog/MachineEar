@@ -1,5 +1,15 @@
 # RAG code and API reference
 
+## Technician interface
+
+`streamlit_app.py` calls the existing `analyze_recording()` API with uploaded
+WAV bytes. `machineear/review.py` supplies a factual editable report template
+and append-only local JSON review revisions, covered by `tests/test_review.py`.
+`tests/test_interface.py` checks Streamlit rendering and missing-upload handling
+using synthetic audio results, without running models or retrieval.
+No LLM report generation is added. See [interface setup](../interface.md) for
+Git Bash commands, local history and approval limitations.
+
 [Overview](../../README.md) - [Setup](../setup.md)
 
 ## Project boundary
