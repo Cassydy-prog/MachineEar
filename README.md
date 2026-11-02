@@ -1,210 +1,216 @@
-# MachineEar: connecting machine sounds to maintenance manuals
+# MachineEar — Web Interface
 
-MachineEar brings together two parts of our project: detecting unusual machine
-sounds and finding useful information in maintenance manuals. The idea is to
-give a technician both the audio result and relevant source passages to review,
-with a clear reference to the document and page each passage came from.
+A bilingual French/English interface for analyzing machine recordings, reviewing relevant manual excerpts, and discussing results with an AI assistant.
 
-This branch builds on **Ballystone's audio anomaly-detection work**. His acoustic
-extraction, training, final model (`logmel_knn5_mean`) and saved evaluation remain
-unchanged. Our contribution here is the document-retrieval side and its connection
-to that existing predictor. We have not retrained his models or changed their
-thresholds.
+This documentation covers the `interface-react-docker` branch of the [MachineEar repository](https://github.com/Cassydy-prog/MachineEar). Despite the branch name, the current frontend uses **HTML, CSS, and JavaScript**, with no React build step. The **FastAPI** backend serves both the pages and the API.
 
-## What we built during the RAG phase
+## Features
 
-The retrieval part of RAG, or retrieval-augmented generation, is implemented.
-It can find and return source passages; the LLM step that turns those passages
-into a drafted report is still to come.
+- Upload a WAV file and select the machine type and ID.
+- Detect unusual sounds using the existing audio model.
+- View analysis results and recording quality checks.
+- Add observations and equipment context.
+- Review retrieved document excerpts and open their source PDFs.
+- Ask a Groq assistant questions based on the analysis and previously retrieved sources.
+- View a factual report, generate an AI report, and export the saved report as a PDF.
+- Reopen previous analyses from the history.
+- Use the interface in French or English.
 
-### 1. Extracting the manuals while keeping their sources
+## Architecture
 
-We processed **12 fan and pump PDFs containing 835 physical pages**. We used
-**PyMuPDF** to extract native text and local **MuPDF/Tesseract OCR** where a page
-contained scanned text. The scanned maintenance guide needed a column-aware OCR
-profile to preserve its reading order.
-
-Each page keeps its original PDF filename, physical page number, any printed
-page label, text blocks and coordinates. SHA-256 checksums record which source
-PDF and page text were used. Original PDFs are preserved, and OCR copies are
-saved separately. You can browse the extraction in
-[the document index](results/rag/extraction/index.html).
-
-OCR still needs human proofreading. Unreviewed OCR, blank pages and other pages
-flagged for review are excluded from default retrieval. The current index uses
-**828 eligible pages**.
-
-### 2. Splitting pages into passages
-
-We created **3,353 chunks**, each copied exactly from a single page. Every chunk
-keeps its source page, character offsets and citation, so a returned passage can
-be checked against the extracted text.
-
-Chunks are limited to 480 model tokens, including the embedding prefix, and
-350 words, with up to 40 words of overlap. This gives search some surrounding
-context while staying within the model's input limit. Python handles the
-chunking, **Hugging Face tokenizers** counts tokens, and **langdetect** provides
-language hints. Those hints are heuristic, so an explicit language is useful
-for short questions.
-
-### 3. Building local semantic and keyword search
-
-We use the quantized **Xenova/multilingual-e5-small** embedding model to represent
-passages and questions as 384-dimensional vectors. This supports multilingual
-semantic search, including our English and French examples. The model runs
-locally through a **Node.js ONNX Runtime** worker, using the `query:` and
-`passage:` prefixes expected by E5.
-
-The vectors are stored in a **NumPy** file and searched using cosine similarity.
-Alongside them, **SQLite FTS5 with BM25** provides keyword search for terms such
-as grease grades, bearing names and maintenance instructions. Python combines
-the two rankings using **reciprocal rank fusion**. This is our hybrid search;
-it does not require a separate vector-database service.
-
-### 4. Filtering results and verifying citations
-
-Search considers the selected machine family and language. Before a passage is
-returned, the pipeline checks its exact text and offsets, citation metadata and
-the original PDF checksum. It also checks the index and tokenizer fingerprints
-to reject stale or mismatched assets.
-
-Results include the source document, physical PDF page and passage text. If
-there are no supported passages, the response says so. A similarity score is
-not a confidence probability, and a generic manual is not automatically
-applicable to a particular manufacturer or machine model.
-
-### 5. Connecting retrieval to Ballystone's audio result
-
-`audio_bridge.py` calls Ballystone's original `scripts/predict_audio.py` and
-adapts its JSON output for `analyze_recording()`. It passes through his scores,
-thresholds and window results; it does not implement another detector.
-
-The connected pipeline uses the machine family, the anomaly flag and optional
-technician notes to form a maintenance query. The flag changes the general
-inspection intent, but it does not infer a specific fault. Raw scores and dataset
-IDs are not used as manual-search terms.
-
-### Tools used
-
-| Part | Tools |
+| Component | Purpose |
 | --- | --- |
-| PDF text and page layout | PyMuPDF |
-| Scanned-page OCR | MuPDF's integrated Tesseract; Pillow for image handling |
-| Chunking and language hints | Python, Hugging Face tokenizers, langdetect |
-| Semantic embeddings | Quantized Xenova/multilingual-e5-small |
-| Local embedding inference | Node.js and onnxruntime-node |
-| Vector storage and similarity | NumPy and cosine similarity |
-| Keyword search | SQLite FTS5 and BM25 |
-| Combining search results | Reciprocal rank fusion in Python |
-| Source verification | SHA-256, page metadata and exact-text/offset checks |
-| Software checks | Python unittest |
+| `frontend/` | French/English pages, styles, and JavaScript interactions |
+| `backend/main.py` | API, WAV validation, history, chat, and reports |
+| `machineear/analyze_recording.py` | Connects audio detection to document retrieval |
+| `machineear/audio_bridge.py` | Calls the original audio predictor |
+| `scripts/predict_audio.py` | Runs inference with the trained audio models |
+| `machineear/rag/` | Local hybrid document retrieval |
+| `results/logmel_knn/` | Existing audio models |
+| `data/manuals/` | Original PDF manuals |
+| `results/rag/` | Prepared passages, index, and document resources |
+| `results/web_analyses/` | Analyses, conversations, and reports saved as JSON |
 
-## Set it up on another laptop
+The `logmel_knn5_mean` audio model uses a log-mel representation and distances to reference neighbors. Document retrieval combines multilingual E5 embeddings and BM25 through rank fusion. The interface reuses these components without retraining the detector or changing its thresholds.
 
-Clone this branch and run commands from the repository root. Install Node.js
-and npm separately, then create and activate a Python environment. In Windows
-PowerShell:
+## Get the Project
+
+Install Git, then run:
+
+```bash
+git clone --branch interface-react-docker --single-branch https://github.com/Cassydy-prog/MachineEar.git
+cd MachineEar
+```
+
+Run all subsequent commands from the `MachineEar` repository root, which contains `compose.yaml` and the `backend` directory.
+
+## Configure Groq
+
+Create a file named exactly `.env` at the repository root:
+
+```dotenv
+GROQ_API_KEY=your_groq_api_key
+GROQ_MODEL=openai/gpt-oss-120b
+```
+
+Replace `your_groq_api_key` with your personal key. Keep this file on your computer and do not publish it on GitHub.
+
+The key is required for AI chat and AI report generation. Without it, audio analysis, local retrieval, and factual reports remain available when their dependencies and resources are installed. PDF export uses the currently saved report.
+
+Audio detection and document retrieval run locally. When you request an AI chat response or report, the backend sends Groq the structured results, observations, equipment context, and relevant document excerpts. Chat requests also include recent conversation history. These requests do not transmit the raw WAV file.
+
+## Run with Docker
+
+Install Docker Desktop with Docker Compose, and open Docker Desktop before starting.
+
+### First Launch
+
+```bash
+docker compose up --build -d
+```
+
+The first build installs dependencies and downloads the local embedding model. It requires an Internet connection and may take several minutes. The repository's audio models and document index are reused.
+
+Then open [http://localhost:8000](http://localhost:8000).
+
+### Subsequent Launches
+
+```bash
+docker compose up -d
+```
+
+Use `--build` again after changing the application code or image dependencies. After editing `.env`, run `docker compose up -d` to update the service configuration.
+
+### Status, Logs, and Shutdown
+
+```bash
+docker compose ps
+docker compose logs -f machineear
+docker compose down
+```
+
+Press `Ctrl+C` to stop following the logs. `docker compose down` stops the application and removes its containers, but preserves history in the named `analyses` volume. Adding `-v` would also delete that volume and its history.
+
+The Docker port is published only on `127.0.0.1`, so the application is accessible from the computer running it.
+
+## Run without Docker
+
+Python, Node.js, and npm are required. The Dockerfile uses Python 3.13 and Node.js 22; these are the reference versions for the containerized setup. Because the audio dependencies are pinned, native installation depends on compatible packages being available for your operating system and Python version.
+
+### 1. Create a Python Environment
+
+In Windows PowerShell:
 
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
-python -m pip install -r requirements/rag.txt
+```
+
+In Windows Git Bash, activate it with:
+
+```bash
+source .venv/Scripts/activate
+```
+
+On Linux/macOS, activate it with:
+
+```bash
+source .venv/bin/activate
+```
+
+If PowerShell blocks activation, use `.\.venv\Scripts\python.exe` instead of `python` in the following commands.
+
+### 2. Install and Prepare Dependencies
+
+```bash
+python -m pip install --upgrade pip
+python -m pip install -r requirements-docker.txt
+python -m pip check
+node --version
+npm --version
 python -m machineear.rag.local_embeddings --prepare
 ```
 
-On Linux/macOS, replace the activation command with `source .venv/bin/activate`.
-See [setup](docs/setup.md) for the Windows/Python 3.15 installation note and
-other environment details.
+Despite its name, `requirements-docker.txt` is a pip requirements file that can be used without Docker. It includes the audio, web, and document dependencies used by the image. Node.js runs local ONNX embeddings; it is not used to compile the frontend.
 
-The preparation command downloads the pinned local embedding model, tokenizer
-and ONNX runtime. The manuals, extracted pages, chunks and prepared index are
-already in the repository, so you do not need to extract or embed them again.
-PDF processing and search run locally; document contents and queries are not
-sent to an external embedding or LLM service. Leave `MACHINEEAR_RESOURCE_ROOT`
-unset to use the cloned assets.
+On Debian/Ubuntu, install the native libraries used by the image with:
 
-You can try document search without providing any recording:
-
-```sh
-python -m machineear.rag.retrieve_documents search --machine-type fan --language en --query "What NLGI grease grade is specified for fan bearings?"
+```bash
+sudo apt-get update
+sudo apt-get install -y libsndfile1 libgomp1 libstdc++6
 ```
 
-## Try the full pipeline with one WAV file
+The preparation step downloads the required embedding weights and runtime. You do not need to rebuild the document index or download the entire audio dataset.
 
-**You can analyze a single WAV file without downloading the original recording
-dataset.** After setup, place your file in the repository folder or provide its
-full path. Use a recording of at least two seconds and choose the correct
-machine family and trained machine ID.
+### 3. Start the Server
 
-```sh
-python -m machineear.analyze_recording --wav "my_recording.wav" --machine-type fan --machine-id id_00 --notes "Which bearing lubrication checks are documented?" --output results/analysis/my_recording.json
+```bash
+python -m uvicorn backend.main:app --host 127.0.0.1 --port 8000
 ```
 
-Replace `my_recording.wav` with your filename. For a pump, use `--machine-type
-pump`. Supported IDs are `id_00`, `id_02`, `id_04` and `id_06`; select the bundle
-that corresponds to the machine being recorded. The program does not identify
-the equipment automatically. Notes are optional; the example is a question,
-not an observation of a bearing fault. Use `--language fr` for French retrieval.
+Open [http://localhost:8000](http://localhost:8000). Keep the terminal open; press `Ctrl+C` to stop the server. For subsequent launches, reactivate the environment and run this server command again.
 
-The command prints the structured result and saves it to
-`results/analysis/my_recording.json`. It contains:
+Access the interface through FastAPI. Opening `frontend/index.html` directly does not start the API.
 
-- Ballystone's anomaly score, saved threshold, anomaly flag and window results.
-- The technician context and the query used for retrieval.
-- Relevant manual passages with their document and physical-page citations.
-- Retrieval status and timing information.
+## Usage
 
-An anomaly means the sound is unusual according to the selected model; it does
-not confirm a mechanical fault. If retrieval is unavailable, the result keeps
-the audio prediction and reports `audio_only` with an error. The JSON is an
-analysis result, not an LLM-generated maintenance report.
+1. Choose the interface language.
+2. Upload a non-silent, standard RIFF/WAVE file lasting at least **2 seconds**, with a maximum size of **50 MiB**.
+3. Select `fan` for a fan or `pump` for a pump.
+4. Select the ID matching the trained model: `id_00`, `id_02`, `id_04`, or `id_06`.
+5. Confirm the equipment match. The application does not identify the machine automatically.
+6. Optionally add observations and equipment context, then start the analysis.
+7. Review the result, audio checks, and document excerpts.
+8. Ask a chat question, view or generate the report, and download its PDF.
+9. Use the history to reopen a previous analysis.
 
-## Repository layout
+For a functional demonstration, use a normal training WAV with its matching machine type and ID. This check does not measure performance on independent data. Recordings are not included in the repository.
 
-```text
-machineear/
-    rag/                   PDF extraction, chunks, embeddings, search and evaluation
-    analyze_recording.py   Connect audio predictions to cited retrieval
-    audio_bridge.py        Call Ballystone's original predictor
-    paths.py, runtime.py   Resource paths and native runtime setup
-scripts/                   Ballystone's original audio scripts
-data/manuals/              Original fan and pump PDFs
-data/features/             Original combined feature CSV
-results/rag/               Extracted text, chunks, vectors, SQLite index and checks
-results/logmel_knn/         Existing frozen audio models
-results/final_test/         The audio team's saved evaluation
-tests/                     RAG, connector and citation tests
-docs/                      Setup, methods, evaluation and code reference
-```
+## API
 
-The feature CSV is included as reference data; RAG does not use its acoustic
-values or labels as document evidence. The fixed split remains at
-`results/baseline/data_splits.csv`. Recordings, virtual environments, downloaded
-embedding weights, secrets and individual recording analyses are excluded from Git.
+Interactive FastAPI documentation is available at [http://localhost:8000/docs](http://localhost:8000/docs).
 
-## Checks and current limits
+| Method | Route | Purpose |
+| --- | --- | --- |
+| GET | `/api/health` | Check server status and whether Groq is configured |
+| POST | `/api/analyses` | Analyze a WAV and its context using multipart form data |
+| GET | `/api/analyses` | List analysis history |
+| GET | `/api/analyses/{identifier}` | Load an analysis |
+| POST | `/api/analyses/{identifier}/chat` | Ask a question using JSON containing `message` and `language` |
+| POST | `/api/analyses/{identifier}/report` | Generate an AI report with `language` as a form field |
+| GET | `/api/analyses/{identifier}/report.pdf` | Download the saved report as a PDF |
+| GET | `/api/analyses/{identifier}/sources/{number}` | Open a source PDF, numbered from 1 |
 
-Our saved retrieval development checks found the declared reference page in the
-top five results for **12 of 15 technical questions**. Two unrelated questions
-returned no passages at the revised cutoff, giving **14 of 17 development checks**
-overall. All 75 returned passages matched text re-extracted from the original
-PDFs. The cutoff was tuned on these examples, so these are development findings,
-not an independent retrieval-accuracy estimate.
+`/api/health` does not fully validate the models, index, or Groq access. An `ok` response confirms that the API responds; an actual analysis checks the complete workflow.
 
-The prepared local environment passed **39 software tests**. Without recordings
-or downloaded OCR/embedding assets, 32 passed and seven integration checks
-skipped. Run the suite with:
+## Troubleshooting
 
-```sh
-python -B -m unittest discover -s tests -v
-```
+| Problem | Check or action |
+| --- | --- |
+| The page does not open | Check the terminal or `docker compose ps`, then port 8000 |
+| Docker does not start | Open Docker Desktop and wait for the engine to be ready |
+| Port 8000 is already in use locally | Start Uvicorn with `--port 8001`, then open `http://localhost:8001` |
+| Analysis returns error 422 | Check the WAV format, duration, level, size, and equipment confirmation |
+| Missing engine or models, error 503 | Check repository resources, dependencies, and server logs |
+| Document retrieval is unavailable | Check Node/npm, prepare embeddings, and inspect logs; an audio-only result may be retained |
+| Chat or report reports a missing key | Check `.env` at the repository root, then restart the server or update the Compose service |
+| Groq is unavailable, error 502 | Check connectivity, API access, quota, and the configured model |
+| Source PDF is missing | Check the original file and its path under `data/manuals/` |
 
-The next steps are source-cited LLM report drafting and a technician interface
-for editing, approval and saved history. Both remain pending. The audio team's
-final-test results are recorded separately in [evaluation](docs/evaluation.md);
-this RAG work did not retrain the model, change thresholds or rerun that test.
+## Persistence and Limitations
 
-- [Setup and commands](docs/setup.md)
-- [Architecture](docs/architecture.md)
-- [Evaluation and limitations](docs/evaluation.md)
-- [Code and API reference](docs/code/README.md)
+Without Docker, analyses are stored in `results/web_analyses/`. With Docker, this directory is mounted on the `analyses` volume. JSON records include observations, retrieved passages, conversations, and reports. The analysis endpoint does not save the raw WAV file.
+
+Audio quality checks can flag low recording levels or peaks near full scale. They do not measure background noise or the signal-to-noise ratio.
+
+An unusual sound does not identify a specific fault. No alert does not guarantee that a machine is healthy. An anomaly score is not a probability of failure. Manuals may provide general guidance without matching the analyzed equipment exactly.
+
+The chat uses the existing analysis and previously retrieved sources. Each message does not trigger a new audio analysis or document search. Reports remain drafts requiring human review.
+
+The current interface does not provide user authentication. The documented setup is intended for local use.
+
+## Contributions
+
+The bilingual web interface and FastAPI backend were developed by **Bally-Stone Papin MOUDIANGO-MOUDIANGO**. They integrate his existing audio detector and the MachineEar team's document retrieval work.
+
+This documentation was prepared from the `interface-react-docker` branch, commit `516639a6b33b643f48654314c263e44dc1ac285d`. Commands were checked against the configuration files and source code; no full installation or audio analysis was performed while preparing this README.
