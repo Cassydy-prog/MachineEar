@@ -92,3 +92,7 @@ commands are `build` and `search`. See [setup](../setup.md) for full commands.
 Run `python -B -m unittest discover -s tests -v`. Real connected tests need
 normal training WAVs; these are intentionally not published. OCR/embedding
 integration requires local prepared assets. Missing prerequisites are skips.
+
+
+## Voice questions
+The FR/EN chat can record up to 60 seconds via MediaRecorder on localhost/HTTPS. With explicit consent, POST /api/transcriptions sends the in-memory recording (8 MB maximum) to Groq whisper-large-v3-turbo. GROQ_STT_MODEL overrides the model. No voice file is stored. The user reviews the editable transcript before submitting the existing chat form. This feature does not change machine WAV scoring or document retrieval. Tests: python -m unittest discover -s tests -p test_speech.py -v (requires httpx).

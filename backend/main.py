@@ -56,6 +56,8 @@ try:
 except ImportError:
     pass
 app = FastAPI(title='MachineEar API')
+from backend.speech import router as speech_router
+app.include_router(speech_router)
 logger = logging.getLogger('machineear.api')
 STORE = ROOT / 'results' / 'web_analyses'
 LIMIT = 50 * 1024 * 1024

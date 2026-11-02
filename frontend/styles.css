@@ -62,3 +62,5 @@
   background: #c8ecef;
   text-decoration: underline;
 }
+/* MachineEar voice questions */
+.chat-form{flex-wrap:wrap}.chat-form input{min-width:120px}.chat-form .voice-button{width:auto;padding:0 12px}.chat-form button[aria-pressed="true"]{background:#b42318;color:white}.chat-form button:disabled{opacity:.55;cursor:not-allowed}
