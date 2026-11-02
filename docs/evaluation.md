@@ -141,20 +141,8 @@ python -m uvicorn backend.main:app --host 0.0.0.0 --port 8000
 
 Open `http://localhost:8000`.
 
-## 6. Tests
 
-```sh
-python -B -m unittest discover -s tests -v
-```
-
-| Latest cloud test outcome | Count |
-|---|---:|
-| Passed | 48 |
-| Unsuccessful interface tests | 2 |
-| Skipped because required assets were unavailable | 5 |
-| **Total** | **55** |
-
-## 7. Repository Structure
+## 6. Repository Structure
 
 ```text
 machineear/
@@ -173,7 +161,7 @@ tests/                     Software and integration checks
 docs/                      Setup, architecture, and evaluation
 ```
 
-## 8. Documentation
+## 7. Documentation
 
 | Document | Contents |
 |---|---|
