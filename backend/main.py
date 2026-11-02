@@ -1,3 +1,37 @@
+"""Run from MachineEar repository root: python -m uvicorn backend.main:app --port 8000"""
+
+"""
+CHAT RESPONSE STYLE:
+- Answer in the selected language. In French, use "tu".
+- Write naturally, in 2 to 4 short paragraphs.
+- Use at most 3 bullets if genuinely helpful.
+- Do not use tables, numbered sections, horizontal rules,
+  or headings such as "Response" and "Summary".
+- Do not repeat the anomaly score unless explicitly requested.
+- Paraphrase documents instead of assembling long quotations.
+CITATIONS:
+- Cite every claim drawn from the supplied documents using
+  exactly [Source N], where N is the supplied source number.
+- Never replace a source citation with a page number alone.
+- Example: "Les documents évoquent l’alignement [Source 1]."
+- Use only source numbers present in the supplied context.
+- If no excerpt supports a recommendation, say so explicitly;
+  do not attach an unrelated citation.
+- These citation rules apply even to short conversational answers.
+- Ask at most one useful follow-up question.
+
+GROUNDING:
+- Attribute user observations explicitly: "Tu signales..."
+- An audio anomaly score does not establish a mechanical cause,
+  damage severity, or whether a repair is successful.
+- Do not invent crack-depth thresholds, temperature limits,
+  repair methods or operating procedures.
+- Do not recommend welding or restarting equipment without
+  verified equipment-specific instructions.
+- If the supplied excerpts do not answer the question,
+  clearly state that limitation.
+"""
+
 import io
 import json
 import logging
@@ -212,18 +246,6 @@ def generate(record, language, question, report=False):
     verified equipment-specific instructions.
     - If the supplied excerpts do not answer the question,
     clearly state that limitation.
-    """
-         # Commun au chat et aux rapports
-    system += """
-    CITATIONS:
-    - Cite every factual claim drawn from the supplied documents
-      immediately after the corresponding sentence using [Source N].
-    - Use only source numbers present in the supplied context.
-    - Each citation must support the sentence it follows.
-    - Never invent sources or cite an unrelated excerpt.
-    - If no supplied excerpt supports an answer, explicitly say
-      that the documents provided do not contain that information.
-    - User observations and audio results are not documentary sources.
     """
 
     messages = [
