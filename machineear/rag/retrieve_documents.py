@@ -125,19 +125,21 @@ class LocalRetriever:
             raise ValueError("Index vector shape or values are invalid")
         self.connection = sqlite3.connect((self.index_dir / "chunks.sqlite3").resolve().as_uri() + "?mode=ro", uri=True)
 
-    def search(self, query, machine_type, *, language="auto", top_k=5, min_similarity=0.82):
+    def search(self, query, machine_type, *, language="auto", top_k=5, min_similarity=0.82, method="hybrid"):
         import numpy as np
 
         if not query.strip() or machine_type not in ("fan", "pump") or not 1 <= top_k <= 20:
             raise ValueError("Provide a question, fan/pump family, and top_k between 1 and 20")
         if not -1 <= min_similarity <= 1:
             raise ValueError("Minimum similarity must be between -1 and 1")
+        if method not in ("hybrid", "semantic", "bm25"):
+            raise ValueError("Method must be hybrid, semantic, or bm25")
         detected, confidence = detect_language(query)
         selected_language = (None if detected == "und" else detected) if language == "auto" else None if language == "all" else language
         if selected_language and not re.fullmatch(r"[a-z]{2,3}(?:-[a-z]{2})?", selected_language):
             raise ValueError("Use auto, all, or a language code such as en/fr")
         eligible = np.asarray([i for i, chunk in enumerate(self.chunks) if eligible_chunk(chunk, machine_type, selected_language)], dtype=int)
-        response = {"query": query, "machine_type": machine_type, "language_filter": selected_language,
+        response = {"method": method, "query": query, "machine_type": machine_type, "language_filter": selected_language,
                     "detected_query_language": detected, "language_detection_score": confidence,
                     "minimum_semantic_similarity": min_similarity,
                     "status": "no_supported_passages", "results": [],
@@ -161,8 +163,10 @@ class LocalRetriever:
             sql += " ORDER BY bm25(chunks_fts),c.id LIMIT 50"
             keyword_ids = [int(row[0]) - 1 for row in self.connection.execute(sql, values)]
         fused = reciprocal_rank_fusion(dense_ids, keyword_ids)
+        ranking = (dense_ids if method == "semantic" else keyword_ids if method == "bm25"
+                   else sorted(fused, key=lambda i: (-fused[i], -float(similarities[i]), i)))
         seen_pages = set()
-        for index in sorted(fused, key=lambda i: (-fused[i], -float(similarities[i]), i)):
+        for index in ranking:
             chunk = self.chunks[index]
             if chunk["page_id"] in seen_pages or similarities[index] < min_similarity:
                 continue
@@ -206,6 +210,7 @@ def main(argv=None):
     search.add_argument("--query", required=True)
     search.add_argument("--machine-type", choices=("fan", "pump"), required=True)
     search.add_argument("--language", default="auto")
+    search.add_argument("--method", choices=("hybrid", "semantic", "bm25"), default="hybrid")
     search.add_argument("--top-k", type=int, default=5)
     search.add_argument("--index-dir", type=Path, default=INDEX_DIR)
     args = parser.parse_args(argv)
@@ -214,7 +219,7 @@ def main(argv=None):
     else:
         with LocalRetriever(args.index_dir) as retriever:
             print(json.dumps(retriever.search(args.query, args.machine_type, language=args.language,
-                                              top_k=args.top_k), ensure_ascii=False, indent=2))
+                                              top_k=args.top_k, method=args.method), ensure_ascii=False, indent=2))
 
 
 if __name__ == "__main__":

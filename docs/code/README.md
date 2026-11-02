@@ -96,3 +96,17 @@ integration requires local prepared assets. Missing prerequisites are skips.
 
 ## Voice questions
 The FR/EN chat can record up to 60 seconds via MediaRecorder on localhost/HTTPS. With explicit consent, POST /api/transcriptions sends the in-memory recording (8 MB maximum) to Groq whisper-large-v3-turbo. GROQ_STT_MODEL overrides the model. No voice file is stored. The user reviews the editable transcript before submitting the existing chat form. This feature does not change machine WAV scoring or document retrieval. Tests: python -m unittest discover -s tests -p test_speech.py -v (requires httpx).
+
+## Retrieval metrics and method comparison
+
+`rag/retrieval_metrics.py` implements dependency-free page Hit/MRR, optional
+complete-judgment precision/recall/nDCG, abstention and latency summaries.
+`rag/benchmark_retrieval.py` runs the unchanged development references or custom
+JSON qrels through semantic, semantic-gated BM25 and hybrid rankings and exports
+JSON/CSV. See [evaluation](../evaluation.md#retrieval-metric-scoreboard) for metric
+definitions, labeling requirements and timing limits. `LocalRetriever.search`
+now accepts `method="hybrid"` (default), `"semantic"` or `"bm25"`; its existing
+semantic cutoff and citation checks apply to all three. The search CLI accepts
+`--method`. `tests/test_retrieval_metrics.py` checks hand-calculated metrics,
+incomplete labels, duplicate pages, abstention denominators, validation and
+benchmark output with a synthetic retriever; it does not require model assets.

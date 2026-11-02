@@ -60,3 +60,70 @@ LLM reports and the technician interface are not implemented. Report factuality,
 unsupported assertions, usability and time to an approved report are therefore
 unmeasured. Do not treat retrieved guidance, software tests or saved audio metrics
 as completed end-to-end maintenance validation.
+
+## Retrieval metric scoreboard
+
+Run from the repository root after preparing the local embedding runtime:
+
+```sh
+python -m machineear.rag.benchmark_retrieval
+python -m machineear.rag.benchmark_retrieval --cases my_cases.json --output-dir results/rag/benchmark-held-out
+```
+
+The command writes `metrics.json` (per-query results and reproducibility metadata)
+and `scoreboard.csv` (one row per retrieval method). It does not overwrite the
+original development reports. The default is the same 17 development questions,
+not a new held-out benchmark. No new measured performance is claimed by this code.
+
+The three methods are semantic ranking, BM25 ranking, and hybrid RRF ranking.
+All use the same family/language filters, 50-candidate lists, page deduplication,
+original-PDF checks and production semantic cutoff (default 0.82). **The BM25
+comparison is semantic-gated BM25, not pure lexical retrieval.** It still uses
+query embeddings. RRF is a fusion algorithm, not an evaluation metric. Existing
+application calls retain hybrid retrieval by default.
+
+Metrics use unique `(source_relative_path, pdf_page_number)` physical pages:
+
+- Hit@1/3/5: fraction of answerable questions with a labelled reference in top k.
+- MRR@1/3/5: mean reciprocal first relevant rank within k, with misses set to zero.
+- Precision@k: relevant pages / k; unfilled slots count as nonrelevant.
+- Recall@k: retrieved relevant pages / all labelled relevant pages.
+- nDCG@k: graded gain `2**grade - 1`, logarithmic discount, normalized by ideal order.
+- Correct abstention: empty retrieval / unsupported questions.
+- False abstention: empty retrieval / answerable questions (a wrong nonempty list
+  is a reference miss, not an abstention).
+- Median and nearest-rank p95 latency in ms: one excluded warmup, rotated method
+  order, encoding and citation verification included; model/index construction
+  excluded. Small development sets give only rough latency estimates.
+
+Existing reference pages are incomplete judgments. Therefore the default reports
+**reference** Hit/MRR and leaves precision, recall and nDCG null (blank in CSV).
+A valid alternative page can still count as a reference miss. Full relevance
+metrics require complete labels for every answerable case in the evaluated set;
+summary metrics remain null when complete and incomplete judgments are mixed.
+No unsupported question contributes to the relevance metric averages.
+
+Custom cases are a nonempty JSON list with this schema (add unsupported cases
+with `answerable: false` and `relevance: []`):
+
+```json
+[
+  {
+    "case_id": "fan-example",
+    "query": "What NLGI grease grade is specified for fan bearings?",
+    "machine_type": "fan",
+    "language": "en",
+    "answerable": true,
+    "judgments_complete": false,
+    "relevance": [
+      {"source_relative_path": "Fan_Docs/463687CentFans_iom.pdf", "pdf_page_number": 11, "grade": 1}
+    ]
+  }
+]
+```
+
+Grades: 0 irrelevant, 1 partly useful, 2 directly useful. Set
+`judgments_complete: true` only after exhaustively judging relevant pages in the
+eligible corpus for that question; do not relabel a reference miss merely to
+improve the score. Author a separate held-out set before further cutoff tuning.
+Generation faithfulness/correctness remain outside this retrieval-only benchmark.
