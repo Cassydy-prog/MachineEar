@@ -208,3 +208,4 @@ this RAG work did not retrain the model, change thresholds or rerun that test.
 - [Architecture](docs/architecture.md)
 - [Evaluation and limitations](docs/evaluation.md)
 - [Code and API reference](docs/code/README.md)
+- [Data sources and PDF licences](docs/data_sources.md)
