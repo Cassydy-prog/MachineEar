@@ -6,8 +6,8 @@ import unittest
 
 
 def result_view(record):
-    from streamlit_app import display_result
-    display_result(record)
+    from streamlit_app import show_result
+    show_result(record)
 
 
 @unittest.skipUnless(importlib.util.find_spec("streamlit"), "Install requirements/ui.txt for interface tests")
@@ -18,7 +18,7 @@ class InterfaceTests(unittest.TestCase):
         self.assertFalse(app.exception)
         app.button[0].click().run()
         self.assertIn("WAV", app.error[0].value)
-        app.sidebar.radio[0].set_value("Historique").run()
+        app.sidebar.radio[0].set_value("Mes comptes rendus").run()
         self.assertFalse(app.exception)
 
     def test_all_retrieval_outcomes_render_with_audio_preserved(self):
@@ -32,7 +32,12 @@ class InterfaceTests(unittest.TestCase):
                     "retrieval": {"status": status, "results": passages}, "query_plan": {"query": "Inspection"}}}
                 app = AppTest.from_function(result_view, args=(record,)).run()
                 self.assertFalse(app.exception)
-                self.assertEqual(app.metric[0].value, "2.100")
+                self.assertIn("Aucune anomalie sonore", app.info[0].value)
                 self.assertIn("garanti", app.info[0].value)
                 if passages:
-                    self.assertEqual(app.text[0].value, "Exact passage.")
+                    self.assertEqual(app.text[0].value, "manual.pdf, page 2")
+                    self.assertEqual(app.text[1].value, "Exact passage.")
+                elif status == "unavailable":
+                    self.assertTrue(any("indisponibles" in item.value for item in app.info))
+                else:
+                    self.assertTrue(any("Aucun extrait" in item.value for item in app.info))

@@ -122,3 +122,13 @@ reviewed text. These host methods are not agent tools. Tests are in
 `tests/test_agent_tools.py`; the runnable lab is
 `notebooks/MachineEar_S2_Tools.ipynb`. See [S2 tools](../s2_tools.md) for setup,
 approval trust boundaries and the difference between fixtures and live checks.
+
+## Agentic orchestration and MCP
+
+`server.py` exposes read-only `search_manuals` over local MCP stdio through the
+existing validated executor. `agentic/mcp_client.py` demonstrates discovery and
+opt-in real retrieval. `agentic/graph.py` implements a bounded LangGraph loop;
+`agentic/run.py` supplies an explicit opt-in Groq CLI and trusted local review.
+`tests/test_agentic.py` checks orchestration with synthetic model replies and
+real MCP process discovery. These do not measure audio, RAG or LLM quality.
+See [agentic delivery](../agentic_delivery.md) for setup and remaining evidence.

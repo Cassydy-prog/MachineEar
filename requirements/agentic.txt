@@ -1,0 +1,5 @@
+# Add to an existing MachineEar environment; no model downloads at import.
+mcp>=1.12,<2
+langgraph>=1,<2
+pydantic>=2,<3
+openai>=1.50,<3
