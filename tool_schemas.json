@@ -1,0 +1,131 @@
+{
+  "project": "MachineEar",
+  "session": 2,
+  "scope": "Tool interface specifications. Execution and backend connections are not implemented here.",
+  "tools": [
+    {
+      "access": "read",
+      "implementation_status": "To connect to the existing audio pipeline",
+      "schema": {
+        "type": "function",
+        "function": {
+          "name": "analyze_machine_audio",
+          "description": "Analyze a WAV recording of a pump or fan using the audio anomaly detection model. Return the anomaly score, decision threshold and normal or anomalous classification. This tool does not identify a specific mechanical fault and does not save or modify data.",
+          "parameters": {
+            "type": "object",
+            "properties": {
+              "audio_path": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Path of the WAV file supplied by the user."
+              },
+              "machine_type": {
+                "type": "string",
+                "enum": [
+                  "pump",
+                  "fan"
+                ],
+                "description": "Type of machine recorded."
+              },
+              "machine_id": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Machine identifier used to select the appropriate model, for example 00."
+              }
+            },
+            "required": [
+              "audio_path",
+              "machine_type",
+              "machine_id"
+            ],
+            "additionalProperties": false
+          }
+        }
+      }
+    },
+    {
+      "access": "read",
+      "implementation_status": "To connect to the existing RAG pipeline",
+      "schema": {
+        "type": "function",
+        "function": {
+          "name": "search_manuals",
+          "description": "Search pump or fan technical manuals for passages relevant to a maintenance question. Return the retrieved text with document names and page numbers. Report when no relevant passage is found. This tool does not modify documents.",
+          "parameters": {
+            "type": "object",
+            "properties": {
+              "query": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Maintenance question or technical keywords."
+              },
+              "machine_type": {
+                "type": "string",
+                "enum": [
+                  "pump",
+                  "fan"
+                ],
+                "description": "Machine type used to filter the manuals."
+              },
+              "top_k": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 10,
+                "description": "Maximum number of passages to retrieve."
+              }
+            },
+            "required": [
+              "query",
+              "machine_type",
+              "top_k"
+            ],
+            "additionalProperties": false
+          }
+        }
+      }
+    },
+    {
+      "access": "write",
+      "implementation_status": "Planned feature, not implemented",
+      "schema": {
+        "type": "function",
+        "function": {
+          "name": "create_maintenance_ticket",
+          "description": "Create a maintenance ticket linked to an existing audio analysis. Use only after a human has reviewed and explicitly approved the exact ticket content. Return the identifier of the created ticket. Do not claim a confirmed mechanical fault based only on an audio anomaly.",
+          "parameters": {
+            "type": "object",
+            "properties": {
+              "machine_id": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Identifier of the machine."
+              },
+              "analysis_id": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Identifier of the existing audio analysis."
+              },
+              "title": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Short title of the ticket."
+              },
+              "description": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Observed facts and requested checks. Clearly distinguish observations from unconfirmed hypotheses."
+              }
+            },
+            "required": [
+              "machine_id",
+              "analysis_id",
+              "title",
+              "description"
+            ],
+            "additionalProperties": false
+          }
+        }
+      }
+    }
+  ]
+}
