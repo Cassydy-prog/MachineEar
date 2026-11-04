@@ -24,6 +24,11 @@ try:
 except ImportError:
     pass
 app = FastAPI(title='MachineEar API')
+
+from backend.evaluation import router as evaluation_router
+from backend.speech import router as speech_router
+app.include_router(speech_router)
+app.include_router(evaluation_router)
 from backend.speech import router as speech_router
 app.include_router(speech_router)
 logger = logging.getLogger('machineear.api')
