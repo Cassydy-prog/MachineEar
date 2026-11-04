@@ -110,3 +110,15 @@ semantic cutoff and citation checks apply to all three. The search CLI accepts
 `--method`. `tests/test_retrieval_metrics.py` checks hand-calculated metrics,
 incomplete labels, duplicate pages, abstention denominators, validation and
 benchmark output with a synthetic retriever; it does not require model assets.
+
+## S2 agent tools
+
+`agent_tools/models.py` defines Pydantic input/output contracts;
+`agent_tools/schemas.py` exports three classified schemas to
+`schemas/machineear_tools.json`; `agent_tools/executor.py` delegates audio,
+retrieval and approved history saves to existing modules. The trusted host
+registers resources and issues single-use approvals bound to a report and its
+reviewed text. These host methods are not agent tools. Tests are in
+`tests/test_agent_tools.py`; the runnable lab is
+`notebooks/MachineEar_S2_Tools.ipynb`. See [S2 tools](../s2_tools.md) for setup,
+approval trust boundaries and the difference between fixtures and live checks.

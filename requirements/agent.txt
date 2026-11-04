@@ -1,0 +1,4 @@
+-r rag.txt
+# Notebook kernel and rendering for the S2 local lab.
+ipykernel>=6,<8
+ipython>=8,<10

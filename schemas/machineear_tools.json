@@ -1,0 +1,372 @@
+[
+  {
+    "name": "analyze_audio",
+    "access": "read",
+    "tool": {
+      "type": "function",
+      "function": {
+        "name": "analyze_audio",
+        "description": "Read tool. Analyze a registered WAV using Ballystone's frozen fan/pump predictor. Returns unusual-sound scores and windows, not a mechanical diagnosis. Does not save records.",
+        "parameters": {
+          "additionalProperties": false,
+          "properties": {
+            "recording_id": {
+              "description": "ID registered by the application, never a filesystem path",
+              "maxLength": 100,
+              "minLength": 1,
+              "title": "Recording Id",
+              "type": "string"
+            },
+            "machine_type": {
+              "enum": [
+                "fan",
+                "pump"
+              ],
+              "title": "Machine Type",
+              "type": "string"
+            },
+            "machine_id": {
+              "enum": [
+                "id_00",
+                "id_02",
+                "id_04",
+                "id_06"
+              ],
+              "title": "Machine Id",
+              "type": "string"
+            }
+          },
+          "required": [
+            "recording_id",
+            "machine_type",
+            "machine_id"
+          ],
+          "title": "AnalyzeAudioInput",
+          "type": "object"
+        }
+      }
+    },
+    "output_schema": {
+      "$defs": {
+        "AudioWindow": {
+          "additionalProperties": false,
+          "properties": {
+            "start_seconds": {
+              "minimum": 0,
+              "title": "Start Seconds",
+              "type": "number"
+            },
+            "end_seconds": {
+              "exclusiveMinimum": 0,
+              "title": "End Seconds",
+              "type": "number"
+            },
+            "score": {
+              "title": "Score",
+              "type": "number"
+            }
+          },
+          "required": [
+            "start_seconds",
+            "end_seconds",
+            "score"
+          ],
+          "title": "AudioWindow",
+          "type": "object"
+        }
+      },
+      "additionalProperties": false,
+      "properties": {
+        "recording_id": {
+          "title": "Recording Id",
+          "type": "string"
+        },
+        "machine_type": {
+          "enum": [
+            "fan",
+            "pump"
+          ],
+          "title": "Machine Type",
+          "type": "string"
+        },
+        "machine_id": {
+          "enum": [
+            "id_00",
+            "id_02",
+            "id_04",
+            "id_06"
+          ],
+          "title": "Machine Id",
+          "type": "string"
+        },
+        "model": {
+          "const": "logmel_knn5_mean",
+          "title": "Model",
+          "type": "string"
+        },
+        "anomaly_score": {
+          "title": "Anomaly Score",
+          "type": "number"
+        },
+        "threshold": {
+          "title": "Threshold",
+          "type": "number"
+        },
+        "is_anomaly": {
+          "title": "Is Anomaly",
+          "type": "boolean"
+        },
+        "duration_seconds": {
+          "exclusiveMinimum": 0,
+          "title": "Duration Seconds",
+          "type": "number"
+        },
+        "n_windows": {
+          "minimum": 1,
+          "title": "N Windows",
+          "type": "integer"
+        },
+        "windows": {
+          "items": {
+            "$ref": "#/$defs/AudioWindow"
+          },
+          "title": "Windows",
+          "type": "array"
+        }
+      },
+      "required": [
+        "recording_id",
+        "machine_type",
+        "machine_id",
+        "model",
+        "anomaly_score",
+        "threshold",
+        "is_anomaly",
+        "duration_seconds",
+        "n_windows",
+        "windows"
+      ],
+      "title": "AnalyzeAudioOutput",
+      "type": "object"
+    }
+  },
+  {
+    "name": "search_manuals",
+    "access": "read",
+    "tool": {
+      "type": "function",
+      "function": {
+        "name": "search_manuals",
+        "description": "Read tool. Search fan/pump maintenance manuals with local semantic/BM25 hybrid retrieval. Return verified PDF page passages or no supported passages. Equipment applicability needs review.",
+        "parameters": {
+          "additionalProperties": false,
+          "properties": {
+            "query": {
+              "maxLength": 1000,
+              "minLength": 1,
+              "title": "Query",
+              "type": "string"
+            },
+            "machine_type": {
+              "enum": [
+                "fan",
+                "pump"
+              ],
+              "title": "Machine Type",
+              "type": "string"
+            },
+            "language": {
+              "enum": [
+                "en",
+                "fr",
+                "auto",
+                "all"
+              ],
+              "title": "Language",
+              "type": "string"
+            },
+            "top_k": {
+              "maximum": 5,
+              "minimum": 1,
+              "title": "Top K",
+              "type": "integer"
+            }
+          },
+          "required": [
+            "query",
+            "machine_type",
+            "language",
+            "top_k"
+          ],
+          "title": "SearchManualsInput",
+          "type": "object"
+        }
+      }
+    },
+    "output_schema": {
+      "$defs": {
+        "Passage": {
+          "additionalProperties": false,
+          "properties": {
+            "chunk_id": {
+              "minLength": 1,
+              "title": "Chunk Id",
+              "type": "string"
+            },
+            "text": {
+              "minLength": 1,
+              "title": "Text",
+              "type": "string"
+            },
+            "source_document": {
+              "minLength": 1,
+              "title": "Source Document",
+              "type": "string"
+            },
+            "pdf_page_number": {
+              "minimum": 1,
+              "title": "Pdf Page Number",
+              "type": "integer"
+            },
+            "citation": {
+              "minLength": 1,
+              "title": "Citation",
+              "type": "string"
+            },
+            "semantic_similarity": {
+              "maximum": 1,
+              "minimum": -1,
+              "title": "Semantic Similarity",
+              "type": "number"
+            },
+            "citation_verified": {
+              "const": true,
+              "title": "Citation Verified",
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "chunk_id",
+            "text",
+            "source_document",
+            "pdf_page_number",
+            "citation",
+            "semantic_similarity",
+            "citation_verified"
+          ],
+          "title": "Passage",
+          "type": "object"
+        }
+      },
+      "additionalProperties": false,
+      "properties": {
+        "status": {
+          "enum": [
+            "passages_for_review",
+            "no_supported_passages"
+          ],
+          "title": "Status",
+          "type": "string"
+        },
+        "passages": {
+          "items": {
+            "$ref": "#/$defs/Passage"
+          },
+          "maxItems": 5,
+          "title": "Passages",
+          "type": "array"
+        }
+      },
+      "required": [
+        "status",
+        "passages"
+      ],
+      "title": "SearchManualsOutput",
+      "type": "object"
+    }
+  },
+  {
+    "name": "save_report_revision",
+    "access": "write",
+    "tool": {
+      "type": "function",
+      "function": {
+        "name": "save_report_revision",
+        "description": "Write tool. Append a reviewed maintenance report revision to local history. Requires a trusted single-use human approval matching this report and exact text. Never invent approval.",
+        "parameters": {
+          "additionalProperties": false,
+          "properties": {
+            "report_id": {
+              "maxLength": 100,
+              "minLength": 1,
+              "title": "Report Id",
+              "type": "string"
+            },
+            "reviewed_text": {
+              "maxLength": 50000,
+              "minLength": 1,
+              "title": "Reviewed Text",
+              "type": "string"
+            },
+            "approval_id": {
+              "description": "Single-use approval issued by trusted human-review code",
+              "maxLength": 100,
+              "minLength": 1,
+              "title": "Approval Id",
+              "type": "string"
+            }
+          },
+          "required": [
+            "report_id",
+            "reviewed_text",
+            "approval_id"
+          ],
+          "title": "SaveReportRevisionInput",
+          "type": "object"
+        }
+      }
+    },
+    "output_schema": {
+      "additionalProperties": false,
+      "properties": {
+        "report_id": {
+          "title": "Report Id",
+          "type": "string"
+        },
+        "revision_id": {
+          "title": "Revision Id",
+          "type": "string"
+        },
+        "status": {
+          "const": "saved",
+          "title": "Status",
+          "type": "string"
+        },
+        "reviewer": {
+          "minLength": 1,
+          "title": "Reviewer",
+          "type": "string"
+        },
+        "saved_at": {
+          "title": "Saved At",
+          "type": "string"
+        },
+        "approved": {
+          "const": true,
+          "title": "Approved",
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "report_id",
+        "revision_id",
+        "status",
+        "reviewer",
+        "saved_at",
+        "approved"
+      ],
+      "title": "SaveReportRevisionOutput",
+      "type": "object"
+    }
+  }
+]

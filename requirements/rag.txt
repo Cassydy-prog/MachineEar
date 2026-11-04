@@ -4,3 +4,6 @@ Pillow>=10,<14
 # ONNX inference uses the project-local Node runtime on Python 3.15.
 tokenizers>=0.20,<1
 langdetect>=1.0.9,<2
+
+# Agent tool input/output validation (S2).
+pydantic>=2,<3
