@@ -19,7 +19,8 @@ jobs:
           cache: pip
           cache-dependency-path: requirements/*.txt
       - name: Install test dependencies
-        run: python -m pip install -r requirements/rag.txt -r requirements-web.txt httpx
+        run: python -m pip install -r requirements/rag.txt -r requirements-web.txt -r requirements/agentic.txt httpx
+          
       - name: Check dependency consistency
         run: python -m pip check
       - name: Run tests without private datasets or model downloads
