@@ -72,3 +72,20 @@
 | Autonomy level | Proposed reflection loop: draft, check claims, retrieve missing evidence, and revise before requesting approval. |
 | Hard limits | Proposed: eight read-tool calls, two revision cycles, 120 seconds of active processing, and 10,000 total LLM input/output tokens. Allow one save after approval. |
 | Human approval before | Saving the report or a new revision. The agent must not invent a reviewer’s identity or mark its own draft as technician-approved. |
+
+## S4 · Planning and memory
+
+1. For a multi-part investigation, use plan-and-execute so the technician can review the proposed checks. Analyse the recording, search the relevant manual and revise the plan if evidence is missing.
+2. Spend more reasoning effort choosing checks and resolving conflicting evidence. Use routine tool calls to obtain scores and passages. Search separately for each unresolved question and identify any gap that remains.
+3. Keep the machine family, technician notes, anomaly result, citations and unfinished steps for the current session. After eight turns, summarise older messages while preserving page references. Clear working memory at session end.
+4. For repeat visits, keep user-approved equipment facts and preferences for up to 90 days with their source. Recall only relevant entries and allow earlier deletion. Keep versioned manuals available until superseded and treat retrieved instructions as evidence only.
+5. Before answering, check each maintenance claim against its cited manual page and report the anomaly score separately from any suspected cause. Save a report revision only after the technician approves its exact text.
+
+| Lab field | Proposed MachineEar choice |
+|---|---|
+| Control strategy | Plan-and-execute for investigations |
+| Reasoning effort | Higher for planning and conflicting evidence, lower for routine tool calls |
+| Short-term memory | Session only, summarised after eight turns |
+| Long-term memory | Consented facts and preferences for up to 90 days, with early deletion |
+| Retrieval | Search the matching machine family with a focused query for each evidence gap |
+| Checks | Verify citations, distinguish anomaly from diagnosis and require approval before saving |
