@@ -129,6 +129,11 @@ approval trust boundaries and the difference between fixtures and live checks.
 existing validated executor. `agentic/mcp_client.py` demonstrates discovery and
 opt-in real retrieval. `agentic/graph.py` implements a bounded LangGraph loop;
 `agentic/run.py` supplies an explicit opt-in Groq CLI and trusted local review.
+`agentic/run.py --trace-langfuse` optionally traces graph requests, generations
+and tool invocations. The graph sends curated metrics and generic error statuses.
+See [tracing setup and evidence](../../TRACES.md).
 `tests/test_agentic.py` checks orchestration with synthetic model replies and
-real MCP process discovery. These do not measure audio, RAG or LLM quality.
+real MCP process discovery, including trace redaction and the tool budget.
+`tests/test_review.py` uses distinct fixture timestamps to verify history
+ordering. These checks do not measure audio, RAG or LLM quality.
 See [agentic delivery](../agentic_delivery.md) for setup and remaining evidence.

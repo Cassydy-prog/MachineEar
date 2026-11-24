@@ -5,6 +5,7 @@ No model or network connection is initialized by this module.
 """
 import json
 import time
+from contextlib import contextmanager
 from typing import TypedDict
 from machineear.agent_tools.schemas import tool_schemas
 
@@ -27,8 +28,23 @@ class State(TypedDict):
     status: str
 
 
+@contextmanager
+def observation(parent, name, kind, **attributes):
+    """Record only explicitly supplied operational metadata."""
+    span = parent.start_observation(name=name, as_type=kind, **attributes) if parent else None
+    try:
+        yield span
+    except Exception:
+        if span is not None:
+            span.update(level='ERROR', status_message='Operation failed')
+        raise
+    finally:
+        if span is not None:
+            span.end()
+
+
 def build_agent(model_call, executor, *, max_steps=8, max_tool_calls=8,
-                max_tokens=10000, max_seconds=120):
+                max_tokens=10000, max_seconds=120, trace=None, model_name=None):
     """model_call(messages, schemas, remaining_tokens) -> dict.
 
     Dict fields: content, tool_calls [{id,name,arguments}], total_tokens.
@@ -37,6 +53,7 @@ def build_agent(model_call, executor, *, max_steps=8, max_tool_calls=8,
     """
     from langgraph.graph import StateGraph, START, END
     schemas = [item['tool'] for item in tool_schemas()]
+    tool_names = {schema['function']['name'] for schema in schemas}
 
     def expired(state):
         return (time.monotonic() - state['started'] >= max_seconds or
@@ -45,7 +62,12 @@ def build_agent(model_call, executor, *, max_steps=8, max_tool_calls=8,
     def think(state):
         if expired(state) or state['steps'] >= max_steps:
             return {'status': 'budget_exhausted', 'pending': []}
-        response = model_call(state['messages'], schemas, max_tokens - state['tokens'])
+        available_tools = schemas if state['calls'] < max_tool_calls else []
+        with observation(trace, 'model-call', 'generation', model=model_name) as generation:
+            response = model_call(state['messages'], available_tools, max_tokens - state['tokens'])
+            if generation is not None:
+                generation.update(usage_details=response.get('usage_details', {
+                    'total': response['total_tokens']}))
         calls = response.get('tool_calls') or []
         message = {'role': 'assistant', 'content': response.get('content') or ''}
         if calls:
@@ -56,6 +78,7 @@ def build_agent(model_call, executor, *, max_steps=8, max_tool_calls=8,
         return {'messages': state['messages'] + [message], 'pending': calls,
                 'steps': state['steps'] + 1, 'tokens': tokens,
                 'status': 'budget_exhausted' if tokens > max_tokens or expired(state)
+                or (calls and not available_tools)
                 else ('running' if calls else 'answered')}
 
     def act(state):
@@ -67,12 +90,16 @@ def build_agent(model_call, executor, *, max_steps=8, max_tool_calls=8,
             else:
                 count += 1
                 try:
-                    result = executor.execute(call['name'], call['arguments'])
+                    name = call['name'] if call['name'] in tool_names else 'unknown-tool'
+                    with observation(trace, name, 'tool') as span:
+                        result = executor.execute(call['name'], call['arguments'])
+                        if span is not None:
+                            span.update(output={'status': 'completed'})
                 except Exception as exc:
                     result = {'error': type(exc).__name__, 'message': str(exc)}
             observations.append({'role': 'tool', 'tool_call_id': call['id'],
                                  'content': json.dumps(result, ensure_ascii=False)})
-        exhausted = count >= max_tool_calls or expired(state)
+        exhausted = expired(state)
         return {'messages': state['messages'] + observations, 'pending': [], 'calls': count,
                 'status': 'budget_exhausted' if exhausted else 'running'}
 

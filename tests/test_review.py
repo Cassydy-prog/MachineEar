@@ -1,6 +1,8 @@
+from datetime import datetime, timezone
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 from machineear.review import load_history, new_record, save_review
 
@@ -10,8 +12,13 @@ class ReviewTests(unittest.TestCase):
         result = {"audio": {"anomaly_score": 2.5, "threshold": 3.1}}
         record = new_record(result, b"audio", "upload.wav")
         with tempfile.TemporaryDirectory() as directory:
-            first = save_review(record, "Inspection proposée", "Bally", directory=directory)
-            second = save_review(record, "Inspection relue", "Bally", True, True, directory=directory)
+            with patch("machineear.review.datetime") as clock:
+                clock.now.side_effect = [
+                    datetime(2026, 1, 1, tzinfo=timezone.utc),
+                    datetime(2026, 1, 2, tzinfo=timezone.utc),
+                ]
+                first = save_review(record, "Inspection proposée", "Bally", directory=directory)
+                second = save_review(record, "Inspection relue", "Bally", True, True, directory=directory)
             history, errors = load_history(directory)
             self.assertFalse(errors)
             self.assertEqual(len(history), 2)

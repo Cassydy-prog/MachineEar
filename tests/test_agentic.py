@@ -30,6 +30,24 @@ class GraphTests(unittest.TestCase):
         result = build_agent(model, executor).invoke(initial_state('Save'))
         self.assertIn('PermissionError', result['messages'][-2]['content'])
 
+    def test_tracing_records_usage_and_generic_errors_without_request_content(self):
+        trace = Mock()
+        generation = Mock()
+        tool = Mock()
+        trace.start_observation.side_effect = [generation, tool, Mock()]
+        executor = Mock()
+        executor.execute.side_effect = PermissionError('private detail')
+        model = Mock(side_effect=[response([call('save_report_revision')], 7), response()])
+
+        result = build_agent(model, executor, trace=trace, model_name='demo-model').invoke(
+            initial_state('private request'))
+
+        generation.update.assert_called_once_with(usage_details={'total': 7})
+        tool.update.assert_called_once_with(level='ERROR', status_message='Operation failed')
+        tool.end.assert_called_once()
+        self.assertNotIn('private', repr(trace.mock_calls))
+        self.assertEqual(result['status'], 'answered')
+
     def test_call_budget(self):
         executor = Mock()
         executor.execute.return_value = {}
@@ -38,6 +56,18 @@ class GraphTests(unittest.TestCase):
         result = build_agent(model, executor, max_tool_calls=1).invoke(initial_state('Find'))
         self.assertEqual(executor.execute.call_count, 1)
         self.assertEqual(result['status'], 'budget_exhausted')
+
+    def test_last_tool_result_can_be_summarized_without_available_tools(self):
+        executor = Mock()
+        executor.execute.return_value = {'passages': []}
+        model = Mock(side_effect=[response([call()]), response()])
+
+        result = build_agent(model, executor, max_tool_calls=1).invoke(initial_state('Find'))
+
+        executor.execute.assert_called_once()
+        self.assertEqual(model.call_args.args[1], [])
+        self.assertEqual(model.call_args.args[0][-1]['role'], 'tool')
+        self.assertEqual(result['status'], 'answered')
 
     def test_token_budget_blocks_write(self):
         executor = Mock()
