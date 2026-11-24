@@ -11,7 +11,26 @@ unchanged. Our contribution here is the document-retrieval side and its connecti
 to that existing predictor. We have not retrained his models or changed their
 thresholds.
 
-## What we built during the RAG phase
+## Project capabilities
+
+- **Audio analysis** uses the existing fan and pump models and returns a score,
+  frozen threshold and per-window results for a WAV recording.
+- **Manual retrieval** searches local fan and pump documentation and returns
+  verified passages with physical PDF page citations.
+- **Connected analysis** combines an audio result with manual evidence for a
+  technician to review.
+- **Agent tools** provide validated audio analysis, manual search and approved
+  report revision saving. A bounded LangGraph agent can choose among them.
+- **MCP** exposes manual search over a local stdio server.
+- **Interfaces** include a web frontend and backend, plus a Streamlit interface.
+  See the [interface guide](docs/interface_guide.md) for feature-specific setup.
+- **Tracing** optionally records operational metrics with Langfuse. The five
+  live assignment traces remain pending.
+
+An unusual sound is an anomaly indication. A technician must review
+observations, manual applicability and maintenance decisions.
+
+## How retrieval works
 
 The retrieval part of RAG, or retrieval-augmented generation, is implemented.
 It can find and return source passages. The repository also contains a web interface and report-generation features described in the [interface guide](docs/interface_guide.md).
@@ -166,6 +185,13 @@ machineear/
     analyze_recording.py   Connect audio predictions to cited retrieval
     audio_bridge.py        Call Ballystone's original predictor
     paths.py, runtime.py   Resource paths and native runtime setup
+    agent_tools/           Validated read and approved-write tool contracts
+agentic/                   LangGraph loop, CLI and MCP client
+server.py                  Local read-only MCP manual-search server
+backend/, frontend/        Web API, web interface and speech support
+streamlit_app.py           Streamlit interface
+schemas/                   Exported tool schemas
+notebooks/                 Project and session notebooks
 scripts/                   Ballystone's original audio scripts
 data/manuals/              Original fan and pump PDFs
 data/features/             Original combined feature CSV
@@ -190,17 +216,65 @@ overall. All 75 returned passages matched text re-extracted from the original
 PDFs. The cutoff was tuned on these examples, so these are development findings,
 not an independent retrieval-accuracy estimate.
 
-The prepared local environment passed **39 software tests**. Without recordings
-or downloaded OCR/embedding assets, 32 passed and seven integration checks
-skipped. Run the suite with:
+Run the suite with:
 
 ```sh
 python -B -m unittest discover -s tests -v
 ```
 
-The web backend includes report drafting and a technician review interface. See the [interface guide](docs/interface_guide.md) and check its instructions against the current implementation. The audio team's
+In a local Windows run with the embedding runtime, 72 tests ran successfully,
+with five skipped because of missing normal-training recordings, OCR data or UI
+dependencies. The audio team's
 final-test results are recorded separately in [evaluation](docs/evaluation.md);
 this RAG work did not retrain the model, change thresholds or rerun that test.
+
+## Agent, MCP and tracing
+
+Install the optional agent dependencies in the environment set up above.
+
+```powershell
+python -m pip install -r requirements/agentic.txt
+python -m agentic.mcp_client
+python -m agentic.mcp_client --query "fan bearing lubrication" --machine-type fan
+```
+
+The first MCP command lists the available tool. The second performs a local
+manual query and requires the prepared embedding runtime. The executed
+[Session 3 notebook](notebooks/MachineEar_S3_MCP.ipynb) demonstrates the call.
+
+The [agent sheet](docs/agent_sheet.md) lists five project requests. Its three
+tools and Pydantic contracts are described in
+[the exported schemas](schemas/machineear_tools.json). Saving a report revision
+requires technician approval of the exact text through the local host.
+
+The agent CLI uses Groq only with explicit opt-in. Configure `GROQ_API_KEY` in
+your environment before running it:
+
+```powershell
+python -m agentic.run --allow-groq "Find fan bearing lubrication instructions with sources."
+```
+
+The request, tool definitions and observations, including returned manual
+passages, are sent to Groq when this flag is used. The CLI loads the repository
+`.env` when tracing is enabled. For Langfuse setup, use
+`python -m pip install -r requirements/tracing.txt` and follow
+[TRACES.md](TRACES.md). Tracing is opt-in and records operational metrics. The
+five live traces, corresponding agent demonstrations and technician-approved
+save still need to be completed.
+
+## Web interface
+
+Install the web requirements alongside the audio and RAG dependencies:
+
+```powershell
+python -m pip install -r requirements-web.txt
+python -m uvicorn backend.main:app --host 127.0.0.1 --port 8000
+```
+
+Open `http://127.0.0.1:8000`. The interface can use Groq for generated chat and
+reports when configured. Consult the [interface guide](docs/interface_guide.md)
+for voice, report and environment details. Review generated content and source
+applicability before use.
 
 - [Setup and commands](docs/setup.md)
 - [Architecture](docs/architecture.md)

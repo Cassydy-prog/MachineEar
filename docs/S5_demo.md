@@ -3,6 +3,22 @@
 The logs below are earlier demonstrations. The five current requests are in
 the [submission agent sheet](agent_sheet.md). Their live outcomes are pending.
 
+## Local prerequisites verified
+
+- The local MCP server returned verified passages from IM-1080 (PDF pages 17
+  and 20) and IM-995 (PDF page 17) for a bearing-lubrication comparison query.
+  This verifies retrieval for cases 2 and 4.
+- For cases 1 and 3, the fixed split lists the 0 dB `id_00` normal-training
+  recording `00000001.wav` for each family. The paths are
+  `data/0_dB_fan/id_00/normal/00000001.wav` and
+  `data/0_dB_pump/id_00/normal/00000001.wav`. Supply the original WAVs locally.
+  The feature CSV contains derived values. The frozen predictor takes WAV input.
+- Case 5 requires a local review-record JSON and exact revision text, followed
+  by technician approval at the terminal. The approval-gate tests exercise that
+  contract with fixtures.
+
+## Earlier demo logs
+
 ### Demande 2 — Recherche documentaire
 
 **Demande** — Retrouve les consignes d’entretien de ce ventilateur dans son manuel.
