@@ -1,5 +1,7 @@
+# S5 · Agent demonstrations
 
-
+The logs below are earlier demonstrations. The five current requests are in
+the [submission agent sheet](agent_sheet.md). Their live outcomes are pending.
 
 ### Demande 2 — Recherche documentaire
 

@@ -39,7 +39,9 @@ python -m agentic.mcp_client --query "fan bearing lubrication" --machine-type fa
 This calls the real validated executor and existing local retriever. Missing
 assets are errors, not a successful result. It requires no Groq key. For setup,
 follow `docs/s2_tools.md`. The server exposes no write, approval or upload endpoint.
-Use `notebooks/MachineEar_S3_MCP.ipynb` in a local kernel at repository root.
+The [executed Session 3 notebook](../notebooks/MachineEar_S3_MCP.ipynb) shows a
+successful fan lubrication query with three verified physical PDF citations.
+Rerun it in a local kernel at repository root.
 A remote Colab kernel cannot access a stdio process on your Windows computer.
 
 ## S4: control strategy and memory (five lines)
@@ -87,18 +89,12 @@ confirmation, then issues a single-use approval. Cancellation saves nothing.
 The CLI is for one trusted local user, not an authenticated multi-user service.
 Clear the key when finished: `unset GROQ_API_KEY`.
 
-### Five requests to demonstrate on actual assets
+### Five demonstration requests
 
-- Analyze a registered fan recording (requires normal-training WAV).
-- Retrieve fan bearing lubrication passages.
-- Analyze unusual pump sound and retrieve relevant documented checks (requires WAV).
-- Compare manual instructions; ask for missing equipment context if applicability is unknown.
-- Save an exact technician-reviewed report after host confirmation (requires record/text).
-
-These align with `docs/agent_sheet.md`, which is the current repository's five-case
-sheet. The older root S1 proposal included tickets/history comparison that are not
-implemented. Do not claim all five live runs have passed: recordings, cached
-embedding runtime, human review and provider credentials are required locally.
+Use the exact prompts and expected outcomes in the [submission agent sheet](agent_sheet.md).
+The audio cases use normal-training WAVs. The comparison uses the IM-1080 and
+IM-995 manuals. The save case uses a local review record and exact reviewed
+text supplied to the CLI, plus a technician's approval.
 
 ## S6: one agent and two-minute kickoff draft
 
@@ -122,7 +118,6 @@ as limitations rather than invent results.
 
 ## Remaining evidence / later sessions
 
-- S3: capture a real successful manual query in the session notebook, not just discovery.
 - S5: run the five requests locally and retain reviewed outputs; fixture tests are not model evaluation.
 - S7: build/import a real n8n workflow and verify a human-approved write. Not supplied as completed.
 - S8: AGENTS.md already exists. Ask OpenCode for one test/README change and review its diff. This package was not produced by OpenCode and does not count as that exercise.

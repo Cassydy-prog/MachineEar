@@ -1,4 +1,6 @@
 # Agent sheet · MachineEar
+
+For the submission and current tool contracts, see the [final agent sheet](docs/agent_sheet.md).
 | | |
 |---|---|
 | Gen AI product | MachineEar : détection d’anomalies audio de pompes et ventilateurs, associée à un RAG sur les manuels techniques. |
