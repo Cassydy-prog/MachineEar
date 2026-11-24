@@ -14,8 +14,7 @@ thresholds.
 ## What we built during the RAG phase
 
 The retrieval part of RAG, or retrieval-augmented generation, is implemented.
-It can find and return source passages; the LLM step that turns those passages
-into a drafted report is still to come.
+It can find and return source passages. The repository also contains a web interface and report-generation features described in the [interface guide](docs/interface_guide.md).
 
 ### 1. Extracting the manuals while keeping their sources
 
@@ -199,8 +198,7 @@ skipped. Run the suite with:
 python -B -m unittest discover -s tests -v
 ```
 
-The next steps are source-cited LLM report drafting and a technician interface
-for editing, approval and saved history. Both remain pending. The audio team's
+The web backend includes report drafting and a technician review interface. See the [interface guide](docs/interface_guide.md) and check its instructions against the current implementation. The audio team's
 final-test results are recorded separately in [evaluation](docs/evaluation.md);
 this RAG work did not retrain the model, change thresholds or rerun that test.
 
@@ -209,3 +207,5 @@ this RAG work did not retrain the model, change thresholds or rerun that test.
 - [Evaluation and limitations](docs/evaluation.md)
 - [Code and API reference](docs/code/README.md)
 - [Data sources and PDF licences](docs/data_sources.md)
+
+- [Web interface and report evaluation guide](docs/interface_guide.md)

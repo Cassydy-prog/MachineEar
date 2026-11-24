@@ -1,3 +1,5 @@
+# MachineEar · Complete agent sheet
+
 **1. Workflow: Analyze a fan recording**
 
 **User request:** “Analyze this fan recording using machine ID `id_00` and tell me whether its sound is unusual.”
@@ -89,3 +91,65 @@
 | Long-term memory | Consented facts and preferences for up to 90 days, with early deletion |
 | Retrieval | Search the matching machine family with a focused query for each evidence gap |
 | Checks | Verify citations, distinguish anomaly from diagnosis and require approval before saving |
+
+## S6 · Multi-agent design and kickoff
+
+**Status:** The following is a proposed design. The three-agent orchestration, proposed memory policy and five end-to-end scenarios still need implementation and verification. The S2 tool interfaces exist, while `read_source_page` listed in the S1 scenarios is a proposed tool.
+
+### Design choice and justification
+
+MachineEar will use **three agents** coordinated by a **supervisor pattern**. The supervisor plans and combines results. An audio analysis specialist handles the audio predictor, and a manual and evidence specialist searches the manuals. This separates the two evidence sources into clear responsibilities while the supervisor retains the context needed to prepare a coherent response.
+
+This design introduces additional model calls and handoffs. Compare it with a single-agent version on answer quality, number of calls, latency and cost before concluding that the extra agents improve the project.
+
+### The three agents
+
+| Agent | Type | Responsibilities | Tool access |
+|---|---|---|---|
+| Supervisor | Coordinator | Understand the request, gather missing details, plan the investigation, delegate work, review returned findings, identify evidence gaps, prepare the response or report and request approval before saving. | `save_report_revision` after technician approval of the exact report text |
+| Audio analysis agent | Specialist | Check the supplied recording and machine identifiers, call the existing audio predictor, and return the predictor's anomaly score, saved threshold, anomaly decision and window results. | `analyze_audio` |
+| Manual and evidence agent | Specialist | Search the relevant machine-family manuals, return passages and source citations, flag missing evidence and compare conflicting instructions when needed. | `search_manuals` |
+
+### Orchestration and handoffs
+
+1. The technician provides a maintenance question and any available machine details, recording and notes.
+2. The supervisor identifies the information needed and asks for missing details when required.
+3. The supervisor sends the registered recording ID, machine family and machine ID to the audio specialist. It sends the maintenance question and relevant machine context to the manual specialist.
+4. The specialists can work in parallel when the manual search has sufficient context. If a search depends on the audio result, the supervisor waits for that result before requesting the search.
+5. The audio specialist returns structured predictor results. The manual specialist returns verified passages, document names and physical page citations, or reports that evidence is unavailable.
+6. The supervisor examines both results, requests a focused follow-up search when necessary, and combines the findings. It distinguishes an anomaly result from a mechanical diagnosis and identifies unresolved questions.
+7. When a report is requested, the supervisor drafts it for technician review. If the technician approves the exact text and equipment applicability, the supervisor may use `save_report_revision` to save a new revision.
+
+The supervisor remains responsible for the final response. The technician decides whether manual guidance applies to the actual machine and makes maintenance and operational decisions.
+
+### Kickoff sheet
+
+| Field | MachineEar choice |
+|---|---|
+| Gen AI product | Maintenance investigation assistant using audio anomaly results and fan and pump manuals |
+| Goal | Help a technician investigate unusual equipment sounds and find traceable manual evidence |
+| Design | Supervisor with two specialists: audio analysis and manual evidence |
+| Read tools | `analyze_audio` and `search_manuals` |
+| Write tool | `save_report_revision` after technician approval of the exact report text |
+| MCP servers | Confirm the actual server and tools from the Session 3 implementation |
+| Framework | Confirm the framework and running implementation from Session 5 |
+| Control strategy | Plan-and-execute, with the supervisor coordinating specialist calls and follow-up searches |
+| Memory | Proposed S4 policy: current-session context, summary after eight turns, and user-approved equipment facts and preferences for up to 90 days |
+| Retrieval | Search manuals for the matching machine family and repeat focused searches if an evidence gap remains |
+| Success checks | Preserve the predictor result, return relevant verified citations, report uncertainty and save only approved report text |
+| Human approval | Technician approval before saving a report revision. Technician review is required for equipment applicability and operational decisions. |
+| Hard limits | Use the proposed tool, time and token limits in each S1 scenario. Stop when a limit is reached and report outstanding evidence gaps. |
+| Risks | Missing or incorrect context passed between agents, unsupported conclusions, conflicting evidence, sensitive notes or recordings, and unauthorized report changes |
+| Plan until 30 November | Confirm S3 and S5 work, implement and integrate the agent orchestration, verify the approval path, run the five cases, compare costs and latency, and prepare a simple interface |
+
+### Five project test requests
+
+| # | Request | Expected outcome |
+|---|---|---|
+| 1 | Analyze this fan recording using machine ID `id_00`. | Return the predictor's original score, threshold, flag and window results, or explain an invalid input or unavailable predictor. |
+| 2 | Find the fan bearing lubrication instructions and show the manual pages. | Return relevant passages and physical page citations, or state that sufficient evidence was unavailable. |
+| 3 | Investigate this pump's unusual noise and tell me which checks the manuals describe. | Request missing machine details or a recording as needed, use the audio and manual specialists, and return cited checks with limitations. |
+| 4 | These manuals give different lubrication instructions. Which applies to my machine? | Compare cited guidance, request relevant model identifiers, and report unresolved conflicts when applicability cannot be established. |
+| 5 | Draft a maintenance report from this recording and the relevant manual, then save it. | Prepare a cited draft, seek approval of its exact text and equipment applicability, and save a revision only after approval. |
+
+**Verification:** These are test expectations, not recorded results. The project's three-agent design must be run against the cases and its outcomes measured.
