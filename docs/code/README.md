@@ -132,6 +132,8 @@ opt-in real retrieval. `agentic/graph.py` implements a bounded LangGraph loop;
 `agentic/run.py --trace-langfuse` optionally traces graph requests, generations
 and tool invocations. The graph sends curated metrics and generic error statuses.
 See [tracing setup and evidence](../../TRACES.md).
+The agent instructions distinguish maintenance frequency from interval and
+ask for only the tools needed by the request.
 `tests/test_agentic.py` checks orchestration with synthetic model replies and
 real MCP process discovery, including trace redaction and the tool budget.
 `tests/test_review.py` uses distinct fixture timestamps to verify history

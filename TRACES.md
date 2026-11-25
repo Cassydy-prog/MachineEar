@@ -1,7 +1,8 @@
 # S6–S7 · MachineEar Langfuse tracing
 
-The five live traces are pending. The tool-budget fix was verified with a
-local Langfuse SDK trace, described below.
+Five live traces were captured on 25 November 2026. The table records the
+latest successful fan run and the first live run of each other request.
+The review below records answer-quality limitations found in the outputs.
 
 Install the optional tracing dependencies in the MachineEar environment.
 
@@ -23,13 +24,29 @@ names, token counts, timestamps, call counts and statuses.
 
 | Case | Trace ID | Model calls | Tool calls | Total tokens | Duration |
 |---|---|---|---|---|---|
-| 1 · Fan audio | Pending | | | | |
-| 2 · Fan lubrication | Pending | | | | |
-| 3 · Pump investigation | Pending | | | | |
-| 4 · Conflicting manuals | Pending | | | | |
-| 5 · Approved revision | Pending | | | | |
+| 1 · Fan audio | `3f81e7d0499b2d9039fcfae0c5638036` | 2 | 1 | 2,331 | 6.101 s |
+| 2 · Fan lubrication | `368a89eba31f723ed4e119cd7c546166` | 2 | 1 | 4,324 | 13.665 s |
+| 3 · Pump investigation | `892251d1242e82a63ae61fff48d8a47c` | 3 | 2 | 6,732 | 18.166 s |
+| 4 · Conflicting manuals | `da3b0eb9b79c2e59ad76b83b3ba092b4` | 3 | 2 | 7,642 | 22.952 s |
+| 5 · Approved revision | `8b0339fbae5c29669cee8dda82b063a2` | 2 | 1 | 2,236 | 2.182 s |
+
+Times cover the graph request span and exclude human approval before execution.
+The sample revision in case 5 was approved by the user and saved locally.
+Cases 2 and 4 returned cited passages. In case 4 the model reversed increased
+lubrication frequency into a longer interval. Two instruction-adjusted reruns
+asked for equipment context without performing the comparison, so the complete
+case and correction remain unverified. The case 3 answer hit its completion
+limit and ended mid-sentence. Technician review remains required.
 
 ## Trace-driven fix
+
+The first fan request, trace `09ee218bbe68ac93b3354c5b8e0eb945`, made
+three model calls and two tool calls, including an unrequested manual search,
+and used 5,616 tokens in 17.188 seconds. The agent instructions now request
+audio analysis alone when the user asks only for an audio result. On the same
+input, the table's fan trace made two model calls and one audio tool call,
+used 2,331 tokens and completed in 6.101 seconds. This is one observed run,
+not a guarantee of future model behavior.
 
 Using the Langfuse SDK with an in-memory exporter, I ran the same fixture
 twice with a one-call tool budget and a scripted model response. The first
